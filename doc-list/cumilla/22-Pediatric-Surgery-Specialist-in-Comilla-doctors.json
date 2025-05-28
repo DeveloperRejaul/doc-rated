@@ -1,0 +1,102 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Mohammad Mahbubul Alam",
+      "degree": "MBBS (Dhaka), BCS (Health), MS (Pediatric Surgery)",
+      "specialty": "Pediatric Surgery (Urology, Colorectal, Vascular & Neurosurgery) Specialist",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Mohammad Mahbubul Alam is a Pediatric Surgeon in Comilla. His qualification is MBBS (Dhaka), BCS (Health), MS (Pediatric Surgery). He is a Assistant Professor, Pediatric Surgery at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Cumilla People's Hospital. Practicing hour of Dr. Mohammad Mahbubul Alam at Cumilla People's Hospital is 3pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Cumilla People's Hospital",
+        "address": "Khokon Tower, Medical College Road, Tomsom Bridge, Cumilla",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801888117890"
+      },
+      "id": "f6343a12-6c9d-45ed-9bf9-7e63ee16bcfe"
+    },
+    {
+      "name": "Dr. Muhammad Nazmul Hasan",
+      "degree": "MBBS, BCS (Health), MS (Pediatric Surgery)",
+      "specialty": "Neonatal, Pediatric & Adolescent Surgery Specialist",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Muhammad Nazmul Hasan is a Pediatric Surgeon in Comilla. His qualification is MBBS, BCS (Health), MS (Pediatric Surgery). He is a Consultant & Surgeon, Pediatric Surgery at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Cumilla Medical Center Pvt. Ltd. (Tower Hospital). Practicing hour of Dr. Muhammad Nazmul Hasan at Cumilla Medical Center Pvt. Ltd. (Tower Hospital) is 3.30pm to 7pm (Everyday).",
+      "chamber": {
+        "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+        "address": "Room # 661, Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+        "visitingTime": "3.30pm to 7pm (Everyday)",
+        "appointmentNumber": "+8801841678735"
+      },
+      "id": "0adc146e-a95a-4426-b0c0-db26b4a0cf20"
+    },
+    {
+      "name": "Prof. Dr. Jamal Saleh Uddin (Arju)",
+      "degree": "MBBS, MS (Pediatric Surgery)",
+      "specialty": "Neonatal, Adolescent & Pediatric Specialist Surgeon",
+      "workplace": "Chandpur Medical College & Hospital",
+      "info": "Prof. Dr. Jamal Saleh Uddin (Arju) is a Pediatric Surgeon in Comilla. His qualification is MBBS, MS (Pediatric Surgery). He is a Principal & Professor, Pediatric Surgery at Chandpur Medical College & Hospital. He regularly provides treatment to his patients at Comilla Trauma Center. Practicing hour of Prof. Dr. Jamal Saleh Uddin (Arju) at Comilla Trauma Center is 2.30pm to 4pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Comilla Trauma Center",
+        "address": "511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla",
+        "visitingTime": "2.30pm to 4pm (Closed: Friday)",
+        "appointmentNumber": "+8809612808182"
+      },
+      "id": "7509e031-bb71-44a6-b44e-b6b27081a6ca"
+    },
+    {
+      "name": "Prof. Dr. Sukumar Chakraborty",
+      "degree": "MBBS, MS (Pediatric Surgery)",
+      "specialty": "Pediatric Surgery Specialist & Laparoscopic Surgeon",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Prof. Dr. Sukumar Chakraborty is a Pediatric Surgeon in Comilla. His qualification is MBBS, MS (Pediatric Surgery). He is a Professor, Pediatric Surgery at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Modern Hospital, Comilla. Practicing hour of Prof. Dr. Sukumar Chakraborty at Modern Hospital, Comilla is From 3pm (Sat, Sun & Mon).",
+      "chamber": {
+        "hospital": "Modern Hospital, Comilla",
+        "address": "Laksam Road, Shaktola, Cumilla – 3500",
+        "visitingTime": "From 3pm (Sat, Sun & Mon)",
+        "appointmentNumber": "+8801711785199"
+      },
+      "id": "e294e7fa-832f-4693-991a-46dc03779255"
+    },
+    {
+      "name": "Dr. Debashis Chakraborty",
+      "degree": "MBBS (CU), MS (Pediatric Surgery)",
+      "specialty": "Neonatal & Pediatric Diseases Specialist Surgeon",
+      "workplace": "Eastern Medical College & Hospital",
+      "info": "Dr. Debashis Chakraborty is a Pediatric Surgeon in Comilla. His qualification is MBBS (CU), MS (Pediatric Surgery). He is a Assistant Professor, Pediatric Surgery at Eastern Medical College & Hospital. He regularly provides treatment to his patients at Mukti Hospital, Comilla. Practicing hour of Dr. Debashis Chakraborty at Mukti Hospital, Comilla is 2pm to 8pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Mukti Hospital, Comilla",
+        "address": "Race Course, Sasongacha, Cumilla - 3500",
+        "visitingTime": "2pm to 8pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801834220141"
+      },
+      "id": "02f1633e-edfd-4328-819e-895a046cae88"
+    },
+    {
+      "name": "Dr. Md. Arifur Rahman",
+      "degree": "MBBS, MS (Pediatric Surgery)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist Surgeon",
+      "workplace": "Central Medical College & Hospital, Comilla",
+      "info": "Dr. Md. Arifur Rahman is a Pediatric Surgeon in Comilla. His qualification is MBBS, MS (Pediatric Surgery). He is a Assistant Professor, Pediatric Surgery at Central Medical College & Hospital, Comilla. He regularly provides treatment to his patients at Cumilla Medical Center Pvt. Ltd. (Tower Hospital). Practicing hour of Dr. Md. Arifur Rahman at Cumilla Medical Center Pvt. Ltd. (Tower Hospital) is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+        "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801963951818"
+      },
+      "id": "bf911127-84b6-414c-bd78-3191c4463926"
+    },
+    {
+      "name": "Dr. Md. Mazharul Alam",
+      "degree": "MBBS, MS (Pediatric Surgery)",
+      "specialty": "Newborn, Adolescent, Child Diseases Specialist & Surgeon",
+      "workplace": "Mainamoti Medical College & Hospital",
+      "info": "Dr. Md. Mazharul Alam is a Pediatric Surgeon in Comilla. His qualification is MBBS, MS (Pediatric Surgery). He is a Assistant Professor & Head, Pediatric Surgery at Mainamoti Medical College & Hospital. He regularly provides treatment to his patients at Moon Hospital, Comilla. Practicing hour of Dr. Md. Mazharul Alam at Moon Hospital, Comilla is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Moon Hospital, Comilla",
+        "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801717062971"
+      },
+      "id": "d6d7b501-4155-4f29-9e52-796d3d4dade1"
+    }
+  ]
+}

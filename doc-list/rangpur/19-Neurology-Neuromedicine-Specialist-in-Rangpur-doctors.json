@@ -1,0 +1,60 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Sukumar Roy",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Neurology)",
+      "specialty": "Neuromedicine (Brain, Nerve, Spine, Headache, Backpain) Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Sukumar Roy is a Neuromedicine Specialist in Rangpur. His qualification is MBBS, BCS (Health), FCPS (Medicine), MD (Neurology). He is a Assistant Professor, Neuromedicine at Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rangpur. Practicing hour of Dr. Sukumar Roy at Popular Diagnostic Center, Rangpur is 3pm to 8pm (Sat to Thu) & 10am to 1pm (Fri).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rangpur",
+        "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
+        "visitingTime": "3pm to 8pm (Sat to Thu) & 10am to 1pm (Fri)",
+        "appointmentNumber": "+8809666787813"
+      },
+      "id": "e08e4148-13dc-4f3d-ac49-74179e557476"
+    },
+    {
+      "name": "Dr. Ashfak Ahmed",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Neurology)",
+      "specialty": "Neuromedicine (Brain, Nerve, Spine, Headache, Migraine) Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Ashfak Ahmed is a Neuromedicine Specialist in Rangpur. His qualification is MBBS, BCS (Health), FCPS (Medicine), MD (Neurology). He is a Consultant, Neurology Department at Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Update Diagnostic, Rangpur. Practicing hour of Dr. Ashfak Ahmed at Update Diagnostic, Rangpur is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Update Diagnostic, Rangpur",
+        "address": "Dhap, Jail Road, Rangpur",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801971555555"
+      },
+      "id": "478e9280-a04a-42ab-bc56-e71946596748"
+    },
+    {
+      "name": "Dr. Md. Shafiqul Islam",
+      "degree": "MBBS, MPhil (EM), MD (Neurology)",
+      "specialty": "Neurology Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Md. Shafiqul Islam is a Neurologist in Rangpur. His qualification is MBBS, MPhil (EM), MD (Neurology). He is working as a Neurology Specialist doctor in Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Rangpur. Practicing hour of Dr. Md. Shafiqul Islam at Labaid Diagnostic, Rangpur is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Rangpur",
+        "address": "House # 69, Dhap, Jail Road, Rangpur",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801766663099"
+      },
+      "id": "6583ead2-f2c1-4bf7-a4fe-80fe8e5c9938"
+    },
+    {
+      "name": "Dr. Prashant Roy",
+      "degree": "MBBS, BCS (Health), MD (Neurology)",
+      "specialty": "Brain, Nerve, Spine, Stroke & Neurology Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Prashant Roy is a Neurologist in Rangpur. His qualification is MBBS, BCS (Health), MD (Neurology). He is a Consultant & Head, Neurology at Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rangpur. Practicing hour of Dr. Prashant Roy at Popular Diagnostic Center, Rangpur is 4pm to 9pm (Sat to Thu) & 10am to 2pm (Fri).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rangpur",
+        "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
+        "visitingTime": "4pm to 9pm (Sat to Thu) & 10am to 2pm (Fri)",
+        "appointmentNumber": "+8801318321847"
+      },
+      "id": "5b14cb10-2a9f-4bbb-a5b2-b04b4a21f5f2"
+    }
+  ]
+}

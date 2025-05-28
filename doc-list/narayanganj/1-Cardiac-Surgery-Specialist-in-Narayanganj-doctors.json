@@ -1,0 +1,18 @@
+{
+  "doctor": [
+    {
+      "name": "Prof. Dr. Md. Aslam Hossain",
+      "degree": "MBBS, MS (CVTS)",
+      "specialty": "Cardiovascular & Thoracic Surgery Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. Md. Aslam Hossain is a Cardiac Surgeon in Narayanganj. His qualification is MBBS, MS (CVTS). He is a Professor, Cardiovascular & Thoracic Surgery at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Prof. Dr. Md. Aslam Hossain at Popular Diagnostic Center, Narayanganj is 10am to 1pm (Only Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "10am to 1pm (Only Friday)",
+        "appointmentNumber": "+8809666787804"
+      },
+      "id": "d1dd5c01-1ee1-496c-8979-f79d089ce03a"
+    }
+  ]
+}

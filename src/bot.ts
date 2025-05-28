@@ -1,8 +1,9 @@
 /* eslint-disable no-useless-escape */
-import type { Department } from './../types';
+import type { Department, Doctor } from './../types';
 import puppeteer, { Browser, Page } from 'puppeteer'
 import fs from 'fs'
 import pLimit from 'p-limit';
+import path from 'path';
 const limit = pLimit(2); // max 20 concurrent tasks
 
 
@@ -70,14 +71,14 @@ export default class Bot  {
         if (Object.prototype.hasOwnProperty.call(params, key)) {
           // select district of department
           const list = params[key];
-          fs.mkdirSync(key) // create directory for each district
+          fs.mkdirSync(`doc-list/${key}`) // create directory for each district
 
           for (let j = 0; j < list.length; j++) {
             const item = list[j];
             const profileLinks = await this.getProfileLinks(item.link)
             console.table([{  Index: j, district: key, total:profileLinks.length,  department: item.name}]);
 
-            const fileId =`${key}/${j}-${item.name.replace(/[\/ ]/g, '-')}-doctors`
+            const fileId =`doc-list/${key}/${j}-${item.name.replace(/[\/ ]/g, '-')}-doctors`
             const tasks = profileLinks.map((d) => limit(() => this.getDoctorProfileDetails(d, key, fileId )));
             const docLists = await Promise.allSettled(tasks);
             const fulfilledValues = docLists.filter(result => result.status === 'fulfilled').map(result => result.value);
@@ -166,6 +167,33 @@ export default class Bot  {
     });
   }
 
+
+  getTotalDoctorsCount () {
+    const docRootPath= process.cwd() + '/doc-list'
+    const allDistrictList = fs.readdirSync(docRootPath);
+    let total:number = 0;
+    for (const district of allDistrictList) {
+      const files = fs.readdirSync(`${docRootPath}/${district}`);
+      files.forEach(file=>{
+        const docs = JSON.parse(fs.readFileSync(path.join(docRootPath, district,file), 'utf-8'));
+        total+=docs.doctor.length
+      })
+    }
+    return total;
+  }
+
+  modifyAllDoc(cv:(doc:Doctor)=>Record<string, string>) {
+    const docRootPath= process.cwd() + '/doc-list'
+    const allDistrictList = fs.readdirSync(docRootPath);
+    for (const district of allDistrictList) {
+      const files = fs.readdirSync(`${docRootPath}/${district}`);
+      files.forEach(file=>{
+        const docs = JSON.parse(fs.readFileSync(path.join(docRootPath, district,file), 'utf-8'));
+        const modifyDoc = docs.doctor.map((doc:Doctor) => ({...doc, ...cv(doc)}));
+        fs.writeFileSync(path.join(docRootPath, district,file), JSON.stringify({ doctor: modifyDoc }, null, 2));
+      })
+    }
+  }
 
   async wait(ms:number){
     return new Promise((resolve) => {

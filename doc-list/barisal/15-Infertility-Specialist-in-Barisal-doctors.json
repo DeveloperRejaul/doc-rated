@@ -1,0 +1,46 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Snigdha Chakraborty",
+      "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Rahat Anwar Hospital, Barisal\nAddress: Band Road, Chandmari, Barisal Sadar, Barisal – 8200\nVisiting Hour: 1pm to 3pm (Closed: Friday)\nAppointment: +8801711993953\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "5:30pm to 8pm (Closed: Monday), 10am to 2pm (Friday)",
+        "appointmentNumber": "+8809666787819"
+      },
+      "id": "0e50a42e-7b65-4f43-8cb0-2009467035a1"
+    },
+    {
+      "name": "Dr. Shahida Begum Minu",
+      "degree": "MBBS, DGO, MCPS (OBGYN), FCPS (OBGYN)",
+      "specialty": "Gynecology, Infertility Specialist & Laparoscopic Surgeon",
+      "workplace": "Khwaja Yunus Ali Medical College & Hospital",
+      "info": "Dr. Shahida Begum Minu is a Gynecologist in Barisal. Her qualification is MBBS, DGO, MCPS (OBGYN), FCPS (OBGYN). She is a Former Associate Professor, Gynecology & Obstetrics at Khwaja Yunus Ali Medical College & Hospital. She regularly provides treatment to her patients at Labaid Diagnostic, Barisal. Practicing hour of Dr. Shahida Begum Minu at Labaid Diagnostic, Barisal is 10am to 12pm (Tue & Wed) & 4pm to 9pm (Sat, Sun, Mon, Thu & Fri).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Barisal",
+        "address": "K Jahan Center, House # 106, Sadar Road, Barisal",
+        "visitingTime": "10am to 12pm (Tue & Wed) & 4pm to 9pm (Sat, Sun, Mon, Thu & Fri)",
+        "appointmentNumber": "+8801766663305"
+      },
+      "id": "b96fc1fd-95b7-437e-9303-e1c3cef9a361"
+    },
+    {
+      "name": "Dr. Kazi Towkia Rahman",
+      "degree": "MBBS. DGO (BSMMU)",
+      "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+      "workplace": "Divisional Police Hospital, Barisal",
+      "info": "Dr. Kazi Towkia Rahman is a Gynecologist in Barisal. Her qualification is MBBS. DGO (BSMMU). She is a Consultant, Gyne & Obs Dept at Divisional Police Hospital, Barisal. She regularly provides treatment to her patients at Royal City Hospital, Barisal. Practicing hour of Dr. Kazi Towkia Rahman at Royal City Hospital, Barisal is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Royal City Hospital, Barisal",
+        "address": "Brown Compound (Opposite to Mosque), Barisal",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801708-436520"
+      },
+      "id": "164ab248-96da-422e-8533-7e631ebbca40"
+    }
+  ]
+}

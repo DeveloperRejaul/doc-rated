@@ -1,0 +1,102 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Mohajer Mohiuddin",
+      "degree": "BDS, PGT (Oral & Maxillofacial Surgery), PGT (Orthodontics)",
+      "specialty": "General Dentist & Cosmetics Dentistry SpecialistRoot Canal Treatment, Cosmetic Filling, Dental Braces, Implant, Tooth Extraction, Dental Crown/Cap",
+      "workplace": "TMC Diagnostic & Hospital, Mymensingh",
+      "info": "Dr. Mohajer Mohiuddin is a Dentist in Mymensingh. His qualification is BDS, PGT (Oral & Maxillofacial Surgery), PGT (Orthodontics). He is a Dental Surgeon, Dentistry at TMC Diagnostic & Hospital, Mymensingh. He regularly provides treatment to his patients at DentCare Dental Clinic. Practicing hour of Dr. Mohajer Mohiuddin at DentCare Dental Clinic is 10am to 10pm (Everyday).",
+      "chamber": {
+        "hospital": "DentCare Dental ClinicSomota Diagnostic and Hospital",
+        "address": "Ashar Uddin Manzil, 336, Chorpara Mor, Mymensingh",
+        "visitingTime": "10am to 10pm (Everyday)",
+        "appointmentNumber": "+8801752505010"
+      },
+      "id": "559a6a3b-1127-4833-87c9-c13e1f239d60"
+    },
+    {
+      "name": "Dr. Mohammed Monuwarul Islam",
+      "degree": "BDS, FCPS (Orthodontics)",
+      "specialty": "Orthodontics (Braces, Bite Problem, Jaw Problem) Specialist & Surgeon",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Mohammed Monuwarul Islam is a Dentist in Mymensingh. His qualification is BDS, FCPS (Orthodontics). He is a Assistant Professor & Head, Dental at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Mymensingh. Practicing hour of Dr. Mohammed Monuwarul Islam at Popular Diagnostic Center, Mymensingh is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mymensingh",
+        "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787814"
+      },
+      "id": "998919a2-f5c7-4311-955d-71a73f68f6fe"
+    },
+    {
+      "name": "Dr. Khandaker Abul Hasnat",
+      "degree": "BDS (DU), MPH, PGT (BSMMU)",
+      "specialty": "Oral, Dental & Maxillofacial Surgery Specialist",
+      "workplace": "Nexus Hospital, Mymensingh",
+      "info": "Dr. Khandaker Abul Hasnat is a Dentist in Mymensingh. His qualification is BDS (DU), MPH, PGT (BSMMU). He is a Senior Consultant, Dental at Nexus Hospital, Mymensingh. He regularly provides treatment to his patients at Nexus Hospital, Mymensingh. Practicing hour of Dr. Khandaker Abul Hasnat at Nexus Hospital, Mymensingh is 9am to 5pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Nexus Hospital, Mymensingh",
+        "address": "29, Sehora, Mymensingh Sadar, Mymensingh – 2200",
+        "visitingTime": "9am to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8801796586561"
+      },
+      "id": "14e74200-627d-4889-beb4-065fc729648f"
+    },
+    {
+      "name": "Dr. Mohiuddin Ahmed Kajol",
+      "degree": "BDS(RpMCH), PGT (Oral & Maxillofacial Surgery)",
+      "specialty": "Oral & Dental Specialist Surgeon",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Mohiuddin Ahmed Kajol is a Dentist in Mymensingh. His qualification is BDS(RpMCH), PGT (Oral & Maxillofacial Surgery). He is a Chief Consultant Surgeon, Dental Surgery at Mohona Dental Surgery & Root Canal Centre. He regularly provides treatment to his patients at Mohona Dental Surgery & Root Canal Centre. Practicing hour of Dr. Mohiuddin Ahmed Kajol at Mohona Dental Surgery & Root Canal Centre is 3pm to 10pm (Everyday).",
+      "chamber": {
+        "hospital": "Mohona Dental Surgery & Root Canal Centre",
+        "address": "Kathgula Bazar, Jail Road, Mymensingh Sadar, Mymensingh",
+        "visitingTime": "3pm to 10pm (Everyday)",
+        "appointmentNumber": "+8801643163195"
+      },
+      "id": "a965c414-701a-41e1-9a57-55319b592e03"
+    },
+    {
+      "name": "Dr. Farhana Rima",
+      "degree": "BDS (Dhaka), PGT",
+      "specialty": "Oral & Dental Specialist Surgeon",
+      "workplace": "Union Specialized Hospital, Mymensingh",
+      "info": "Dr. Farhana Rima is a Dentist in Mymensingh. Her qualification is BDS (Dhaka), PGT. She is a Chief Consultant, Dental at Union Specialized Hospital, Mymensingh. She regularly provides treatment to her patients at Union Specialized Hospital, Mymensingh. Practicing hour of Dr. Farhana Rima at Union Specialized Hospital, Mymensingh is 11am to 4pm (Sun, Tue & Wed).",
+      "chamber": {
+        "hospital": "Union Specialized Hospital, Mymensingh",
+        "address": "337, Charpara, Mymensingh",
+        "visitingTime": "11am to 4pm (Sun, Tue & Wed)",
+        "appointmentNumber": "+8801958280000"
+      },
+      "id": "661f2d54-0a77-40a8-9de1-805179d25a9e"
+    },
+    {
+      "name": "Dr. Mahbuba Hossen Shawon",
+      "degree": "BDS (DU)",
+      "specialty": "Oral & Dental Surgeon",
+      "workplace": "Community Based Medical College & Hospital",
+      "info": "Dr. Mahbuba Hossen Shawon is a Dentist in Mymensingh. Her qualification is BDS (DU). She is a Medical Officer, Dental at Community Based Medical College & Hospital. She regularly provides treatment to her patients at Delta Health Care, Mymensingh. Practicing hour of Dr. Mahbuba Hossen Shawon at Delta Health Care, Mymensingh is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Delta Health Care, Mymensingh",
+        "address": "55/5, Medical College Gate, Charpara, Mymensingh",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801847158301"
+      },
+      "id": "7873216e-24cb-42e1-93dc-e0deff81b40a"
+    },
+    {
+      "name": "Dr. Niyaz Rahman",
+      "degree": "Bachelor of Dental Surgery (BDS)",
+      "specialty": "Oral & Dental Surgeon",
+      "workplace": "Advanced Dental Solution, Mymensingh",
+      "info": "Dr. Niyaz Rahman is a Dentist in Mymensingh. His qualification is Bachelor of Dental Surgery (BDS). He is working as a Oral & Dental Surgeon at Advanced Dental Solution, Mymensingh. He regularly provides treatment to his patients at Advanced Dental Solution. Practicing hour of Dr. Niyaz Rahman at Advanced Dental Solution is 10am to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Advanced Dental Solution",
+        "address": "310/2 Queens Garden, Polytechnic Mor, Sadar, Mymensingh",
+        "visitingTime": "10am to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801937-563282"
+      },
+      "id": "5f83d911-562a-442d-bea1-ebf414c3ff70"
+    }
+  ]
+}

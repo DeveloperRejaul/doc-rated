@@ -1,0 +1,158 @@
+{
+  "doctor": [
+    {
+      "name": "Prof. Dr. Md. Mozammel Haque",
+      "degree": "MBBS, MS (Pediatric Surgery), FACS (USA)",
+      "specialty": "Pediatric Surgery Specialist & Pediatric Laparoscopic Surgeon",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Prof. Dr. Md. Mozammel Haque is a Pediatric Surgeon in Chittagong. His qualification is MBBS, MS (Pediatric Surgery), FACS (USA). He is a Professor & Head of the Dept, Pediatric Surgery at Chattogram Maa-O-Shishu Hospital Medical College. He regularly provides treatment to his patients at Max Hospital & Diagnostic, Chittagong. Practicing hour of Prof. Dr. Md. Mozammel Haque at Max Hospital & Diagnostic, Chittagong is 1pm to 3pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Max Hospital & Diagnostic, Chittagong",
+        "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+        "visitingTime": "1pm to 3pm (Closed: Friday)",
+        "appointmentNumber": "+8801881562825 "
+      },
+      "id": "f6ecea61-9aec-4980-ba6b-266306f2138d"
+    },
+    {
+      "name": "Dr. Nandan Kumar Majumder",
+      "degree": "MBBS, MCPS (Surgery), MS (Child Surgery)",
+      "specialty": "Child Surgery Specialist",
+      "workplace": "BGC Trust Medical College, Chittagong",
+      "info": "Medical Centre Hospital, Chittagong\nAddress: 953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram\nVisiting Hour: 11am to 1pm (Closed: Friday)\nAppointment: +88031658501\nCall Now",
+      "chamber": {
+        "hospital": "Metro Diagnostic Center, Chittagong",
+        "address": "Metro Tower, Goal Pahar Mor, Mehedibag, Chattogram",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801921308090"
+      },
+      "id": "79799d54-ca57-4189-ac05-008c52734f19"
+    },
+    {
+      "name": "Prof. Dr. Md. Akbar Husain Bhuiyan",
+      "degree": "MBBS, MS (Pediatric Surgery), Trained in Plastic Surgery (Japan)",
+      "specialty": "Child & Plastic Surgery Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Prof. Dr. Md. Akbar Husain Bhuiyan is a Pediatric Surgeon in Chittagong. His qualification is MBBS, MS (Pediatric Surgery), Trained in Plastic Surgery (Japan). He is a Professor & Head (Ex), Pediatric Surgery at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Royal Hospital, Chittagong. Practicing hour of Prof. Dr. Md. Akbar Husain Bhuiyan at Royal Hospital, Chittagong is 6pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Royal Hospital, Chittagong",
+        "address": "1530/A, O.R. Nizam Road, GEC More, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+880241355934"
+      },
+      "id": "58591cf2-f821-44e5-b264-40886ebcad26"
+    },
+    {
+      "name": "Dr. Md. Jafrul Hannan",
+      "degree": "MBBS, MS (Pediatric Surgery)",
+      "specialty": "Neonatal & Pediatric Surgery Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Dr. Md. Jafrul Hannan is a Pediatric Surgeon in Chittagong. His qualification is MBBS, MS (Pediatric Surgery). He is a Professor, Pediatric Surgery at Chattogram Maa-O-Shishu Hospital Medical College. He regularly provides treatment to his patients at Chevron Clinical Laboratory, Chittagong. Practicing hour of Dr. Md. Jafrul Hannan at Chevron Clinical Laboratory, Chittagong is 7pm to 9pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Chittagong",
+        "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 9pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801755666969"
+      },
+      "id": "ae090d72-6553-4ebc-b363-69f245af8eb1"
+    },
+    {
+      "name": "Dr. Md. Abdullah Al Farooq",
+      "degree": "MBBS, FCPS (Surgery), MS (Pediatric Surgery)",
+      "specialty": "Pediatric Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Md. Abdullah Al Farooq is a Pediatric Surgeon in Chittagong. His qualification is MBBS, FCPS (Surgery), MS (Pediatric Surgery). He is a Associate Professor, Pediatric Surgery at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Epic Healthcare, Chittagong. Practicing hour of Dr. Md. Abdullah Al Farooq at Epic Healthcare, Chittagong is 4pm to 6pm (Sat, Sun, Tue & Thursday).",
+      "chamber": {
+        "hospital": "Epic Healthcare, Chittagong",
+        "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "4pm to 6pm (Sat, Sun, Tue & Thursday)",
+        "appointmentNumber": "+8801984499600"
+      },
+      "id": "66ea0815-6b59-4dc3-918d-daa7de8dea9b"
+    },
+    {
+      "name": "Dr. Tahmina Akhter Chowdhury (Panna)",
+      "degree": "MBBS, BCS (Health), MS (Pediatric Surgery), FACS (USA)",
+      "specialty": "Pediatric (Children) Surgery Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Tahmina Akhter Chowdhury (Panna) is a Pediatric Surgeon in Chittagong. Her qualification is MBBS, BCS (Health), MS (Pediatric Surgery), FACS (USA). She is a Associate Professor, Pediatric Surgery at Chittagong Medical College & Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Chittagong. Practicing hour of Dr. Tahmina Akhter Chowdhury (Panna) at Popular Diagnostic Center, Chittagong is 5pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Chittagong",
+        "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787810"
+      },
+      "id": "f926de5d-e7b8-4669-91fc-9aaaaacd7960"
+    },
+    {
+      "name": "Prof. Dr. Kamrun Laila Mili",
+      "degree": "MBBS, MS (Pediatric Surgery)",
+      "specialty": "Neonatal, Pediatric Surgery & Laparoscopic Surgeon",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Prof. Dr. Kamrun Laila Mili is a Pediatric Surgeon in Chittagong. Her qualification is MBBS, MS (Pediatric Surgery). She is a Professor, Pediatric Surgery at Chattogram Maa-O-Shishu Hospital Medical College. She regularly provides treatment to her patients at Lancet Diagnostic Center, Chittagong. Practicing hour of Prof. Dr. Kamrun Laila Mili at Lancet Diagnostic Center, Chittagong is 6pm to 9pm (Closed: Fri & Saturday).",
+      "chamber": {
+        "hospital": "Lancet Diagnostic Center, Chittagong",
+        "address": "106/B, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Fri & Saturday)",
+        "appointmentNumber": "+8801726285486"
+      },
+      "id": "b5b40763-bad1-4fdb-8766-c36b308aa7f9"
+    },
+    {
+      "name": "Dr. Khurshid Alam Sarwar",
+      "degree": "MBBS, MS (Pediatric Surgery)",
+      "specialty": "Neonatal & Pediatric Specialist Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Khurshid Alam Sarwar is a Pediatric Surgeon in Chittagong. His qualification is MBBS, MS (Pediatric Surgery). He is a Associate Professor, Pediatric Surgery at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Epic Healthcare, Chittagong. Practicing hour of Dr. Khurshid Alam Sarwar at Epic Healthcare, Chittagong is 8pm to 10pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Epic Healthcare, Chittagong",
+        "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "8pm to 10pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801984499600"
+      },
+      "id": "ddad4bdb-1eca-4a5d-8ca5-1f7ad113c7ec"
+    },
+    {
+      "name": "Dr. Mahfuzul Kabir",
+      "degree": "MBBS, MS",
+      "specialty": "Neonatal & Pediatric Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Mahfuzul Kabir is a Pediatric Surgeon in Chittagong. His qualification is MBBS, MS. He is a Associate Professor & Head, Pediatric Surgery at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Mahfuzul Kabir at Parkview Hospital, Chittagong is 5pm to 7pm (Closed: Friday & Saturday).",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 7pm (Closed: Friday & Saturday)",
+        "appointmentNumber": "+8801976022333"
+      },
+      "id": "54ed60b1-2a70-47b7-b5d1-299c1ef6c5cf"
+    },
+    {
+      "name": "Dr. Tanvir Kabir Chowdhury Ivan",
+      "degree": "MBBS (CMC), BCS (Health), MS (Pediatric Surgery)",
+      "specialty": "Child Surgery Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Tanvir Kabir Chowdhury Ivan is a Pediatric Surgeon in Chittagong. His qualification is MBBS (CMC), BCS (Health), MS (Pediatric Surgery). He is a Assistant Professor, Pediatric Surgery at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Surgiscope Hospital, Chittagong. Practicing hour of Dr. Tanvir Kabir Chowdhury Ivan at Surgiscope Hospital, Chittagong is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Surgiscope Hospital, Chittagong",
+        "address": "Unit 2, 53/1, Panchlaish, Chattogram - 4203",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801788446595"
+      },
+      "id": "ac121237-6c83-415e-bb6d-cf60b5b68a17"
+    },
+    {
+      "name": "Prof. Dr. Md. Minhajuddin Sajid",
+      "degree": "MBBS, MS (Pediatric Surgery)",
+      "specialty": "Pediatric Surgeon & Pediatric Urologist",
+      "workplace": "Chittagong Medical College Hospital",
+      "info": "Prof. Dr. Md. Minhajuddin Sajid is a Pediatric Surgeon in Chittagong. His qualification is MBBS, MS (Pediatric Surgery). He is a Ex. Professor (Pediatric Surgery) at Chittagong Medical College Hospital. He regularly provides treatment to his patients at CSCR Hospital, Chittagong. Practicing hour of Prof. Dr. Md. Minhajuddin Sajid at CSCR Hospital, Chittagong is 9am to 12pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "9am to 12pm (Closed: Friday)",
+        "appointmentNumber": "+8801926061442"
+      },
+      "id": "bc0b381c-12ca-430e-a9c8-a02b3543f8c4"
+    }
+  ]
+}

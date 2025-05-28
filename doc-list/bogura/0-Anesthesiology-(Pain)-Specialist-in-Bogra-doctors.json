@@ -1,0 +1,32 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Nitai Chandra Sarkar",
+      "degree": "MBBS, DA, FCPS (Anesthesiology), Fellow Pain Management (India, Thailand)",
+      "specialty": "Pain Specialist & Anesthesiologist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Nitai Chandra Sarkar is a Pain Management Specialist in Bogra. His qualification is MBBS, DA, FCPS (Anesthesiology), Fellow Pain Management (India, Thailand). He is a Associate Professor & Head, Anesthesiology, ICU & Pain Management at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Doctors Clinic, Bogura. Practicing hour of Dr. Nitai Chandra Sarkar at Doctors Clinic, Bogura is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Doctors Clinic, Bogura",
+        "address": "Unit 2, Thanthania, Sherpur Road, Bogura",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801755111112"
+      },
+      "id": "e96b5fd2-82fc-4039-82e1-4647da45c4d2"
+    },
+    {
+      "name": "Dr. Md. Nur Alam Nayan",
+      "degree": "MBBS, BCS (Health), DA (BSMMU), FIPM (Pain Management)",
+      "specialty": "Pain Medicine & Anesthesiology Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Md. Nur Alam Nayan is a Pain Management Specialist in Bogra. His qualification is MBBS, BCS (Health), DA (BSMMU), FIPM (Pain Management). He is a Consultant, Anesthesiology at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Health City Specialized Hospital. Practicing hour of Dr. Md. Nur Alam Nayan at Health City Specialized Hospital is 3pm to 8pm (Closed: Friday & Saturday).",
+      "chamber": {
+        "hospital": "Health City Specialized Hospital",
+        "address": "Yeasin Tower, Sherpur Road, Colony, Bogura - 3500",
+        "visitingTime": "3pm to 8pm (Closed: Friday & Saturday)",
+        "appointmentNumber": "+8801747457608"
+      },
+      "id": "6925b987-2ac5-46e4-85a3-389376daa966"
+    }
+  ]
+}

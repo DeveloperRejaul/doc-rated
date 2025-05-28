@@ -1,0 +1,172 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Ashik Iqbal",
+      "degree": "MBBS (Dhaka), BCS (Health), FCPS (ENT)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Shimla Hospital, Pabna\nAddress: Shimla Tower, Thana Mor, Hospital Road, Pabna\nVisiting Hour: 9am to 3pm (Only Friday)\nAppointment: +8801713228218\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "3pm to 7pm (Closed: Tue & Friday)",
+        "appointmentNumber": "+8809666787811"
+      },
+      "id": "d4a13875-34f7-4317-bd06-638458ea08da"
+    },
+    {
+      "name": "Dr. Maidul Islam",
+      "degree": "MBBS, BCS (Health), DLO (ENT)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "250 Bedded General Hospital, Pabna",
+      "info": "Assort Specialised Hospital, Pabna\nAddress: Beside Mujahid Club, Dhaka Road, East Shalgaria, Pabna\nVisiting Hour: 3pm to 5pm (Closed: Friday)\nAppointment: +8801322931500\nCall Now",
+      "chamber": {
+        "hospital": "Jalal Memorial Hospital, Pabna",
+        "address": "Godaun Mor, Hospital Road, Shalgaria, Pabna - 6600",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801743708079"
+      },
+      "id": "3761f312-bcdb-4736-82da-e9eeb3b4e48f"
+    },
+    {
+      "name": "Dr. Md. Abdul Baten Molla",
+      "degree": "MBBS, DIH, DLO (DU)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "250 Bedded General Hospital, Pabna",
+      "info": "Dr. Md. Abdul Baten Molla is a ENT Specialist in Pabna. His qualification is MBBS, DIH, DLO (DU). He is a Senior Consultant (Ex), ENT at 250 Bedded General Hospital, Pabna. He regularly provides treatment to his patients at Unique Diagnostic Complex, Pabna. Practicing hour of Dr. Md. Abdul Baten Molla at Unique Diagnostic Complex, Pabna is 4pm to 8pm (Sat to Thur), 10am to 1pm (Friday).",
+      "chamber": {
+        "hospital": "Unique Diagnostic Complex, Pabna",
+        "address": "Beside TB Hospital, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "4pm to 8pm (Sat to Thur), 10am to 1pm (Friday)",
+        "appointmentNumber": "+8801756007870"
+      },
+      "id": "c0e6f108-58cb-4f49-9c85-a5b7956fa405"
+    },
+    {
+      "name": "Dr. Md. Atikur Rahman",
+      "degree": "MBBS, MS (ENT)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "ENT & Head-Neck Cancer Hospital & Institute",
+      "info": "Shafique Hospital, Pabna\nAddress: Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna\nVisiting Hour: 9am to 8pm (Only Friday)\nAppointment: +8801701654390\nCall Now",
+      "chamber": {
+        "hospital": "Shimla Hospital, Pabna",
+        "address": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
+        "visitingTime": "4pm to 8pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801713228218"
+      },
+      "id": "0080e787-4755-48a6-a035-e22accf0ff11"
+    },
+    {
+      "name": "Dr. Md. Monirul Islam",
+      "degree": "MBBS, BCS (Health), MS (ENT)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "250 Bedded General Hospital, Pabna",
+      "info": "Dr. Md. Monirul Islam is a ENT Specialist in Pabna. His qualification is MBBS, BCS (Health), MS (ENT). He is a Consultant, ENT at 250 Bedded General Hospital, Pabna. He regularly provides treatment to his patients at Central Hospital, Pabna. Practicing hour of Dr. Md. Monirul Islam at Central Hospital, Pabna is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Central Hospital, Pabna",
+        "address": "South Side of Sadar Hospital Gate, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801322912612"
+      },
+      "id": "9a9c4513-6d88-40c2-ad37-3bff6393b1d3"
+    },
+    {
+      "name": "Dr. Md. Quamruzzaman Nayan",
+      "degree": "MBBS, BCS (Health), MS (ENT)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "250 Bedded General Hospital, Pabna",
+      "info": "Dr. Md. Quamruzzaman Nayan is a ENT Specialist in Pabna. His qualification is MBBS, BCS (Health), MS (ENT). He is a Consultant, ENT at 250 Bedded General Hospital, Pabna. He regularly provides treatment to his patients at Mission ENT & Specialized Center. Practicing hour of Dr. Md. Quamruzzaman Nayan at Mission ENT & Specialized Center is 2pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Mission ENT & Specialized Center",
+        "address": "Opposite to Sonamoni School, Hospital Road, Pabna",
+        "visitingTime": "2pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801886-107251"
+      },
+      "id": "68b2815b-3350-4ffd-b8eb-81083183270e"
+    },
+    {
+      "name": "Dr. Md. Al Mahmud",
+      "degree": "MBBS, BCS (Health), DLO (BSMMU), FCPS (ENT)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Labaid Diagnostic, Pabna\nAddress: Beside Joy Kali Bari, Thana Road, Shalgaria, Pabna\nVisiting Hour: 5pm to 9pm (Only Thursday)\nAppointment: +8801766661901\nCall Now",
+      "chamber": {
+        "hospital": "Belleview Imaging & Diagnostic Center",
+        "address": "Shershah Road, West Side of Laxmipur Mor, Rajapara, Rajshahi",
+        "visitingTime": "3pm to 6pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801723060124"
+      },
+      "id": "d8448d59-278c-47d2-8a7c-9d49b33365f5"
+    },
+    {
+      "name": "Dr. Md. Mostafizur Rahman",
+      "degree": "MBBS, BCS (Health), DLO (BSMMU), FCPS (ENT)",
+      "specialty": "Ear, Nose, Throat Diseases Specialist & Head Neck Surgeon",
+      "workplace": "Atgharia Upazila Health Complex, Pabna",
+      "info": "Dr. Md. Mostafizur Rahman is a ENT Specialist in Pabna. His qualification is MBBS, BCS (Health), DLO (BSMMU), FCPS (ENT). He is a Consultant, ENT at Atgharia Upazila Health Complex, Pabna. He regularly provides treatment to his patients at Euro Medical Center, Pabna. Practicing hour of Dr. Md. Mostafizur Rahman at Euro Medical Center, Pabna is 3pm to 8pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Euro Medical Center, Pabna",
+        "address": "Beside JoyKali Bari, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "3pm to 8pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801772974000"
+      },
+      "id": "760ac9e5-5858-4c17-8de1-38b6aede49b4"
+    },
+    {
+      "name": "Dr. Harun Or Rashid",
+      "degree": "MBBS, BCS (Health), MS (ENT)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Pabna Medical College & Hospital",
+      "info": "Dr. Harun Or Rashid is a ENT Specialist in Dhaka. His qualification is MBBS, BCS (Health), MS (ENT). He is a Assistant Professor, ENT at Pabna Medical College & Hospital. He regularly provides treatment to his patients at Digital Diagnostic Center, Pabna. Practicing hour of Dr. Harun Or Rashid at Digital Diagnostic Center, Pabna is Saturday to Thursday (Call for time).",
+      "chamber": {
+        "hospital": "Digital Diagnostic Center, Pabna",
+        "address": "Kazi Office Road, Thana Para, Shalgaria, Pabna",
+        "visitingTime": "Saturday to Thursday (Call for time)",
+        "appointmentNumber": "+8801748343270"
+      },
+      "id": "943ae759-a9d0-418d-9237-d288c62192b7"
+    },
+    {
+      "name": "Dr. Sheikh Md. Rafiqul Hossain",
+      "degree": "MBBS, BCS (Health), DLO (BSMMU)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Pabna Medical College & Hospital",
+      "info": "Dr. Sheikh Md. Rafiqul Hossain is a ENT Specialist in Pabna. His qualification is MBBS, BCS (Health), DLO (BSMMU). He is a Consultant, ENT at Pabna Medical College & Hospital. He regularly provides treatment to his patients at Dr. Gaffar Diagnostic Complex, Pabna. Practicing hour of Dr. Sheikh Md. Rafiqul Hossain at Dr. Gaffar Diagnostic Complex, Pabna is 3pm to 8pm (Saturday & Tuesday).",
+      "chamber": {
+        "hospital": "Dr. Gaffar Diagnostic Complex, Pabna",
+        "address": "Thana Mor (Beside Shimla Hospital), Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "3pm to 8pm (Saturday & Tuesday)",
+        "appointmentNumber": "+8801780817051"
+      },
+      "id": "f45ee3f0-8eb4-408b-a6a4-9279bf5af4cc"
+    },
+    {
+      "name": "Dr. Md. Hafijur Rahman",
+      "degree": "MBBS, MCPS (ENT), DLO",
+      "specialty": "Ear, Nose, Throat Specialist & Surgeon",
+      "workplace": "250 Bedded General Hospital, Pabna",
+      "info": "Dr. Md. Hafijur Rahman is a ENT Doctor in Pabna. His qualification is MBBS, MCPS (ENT), DLO. He is working as a Ear, Nose, Throat Specialist & Surgeon doctor in 250 Bedded General Hospital, Pabna. He regularly provides treatment to his patients at Euro Medical Center, Pabna. Practicing hour of Dr. Md. Hafijur Rahman at Euro Medical Center, Pabna is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Euro Medical Center, Pabna",
+        "address": "Beside JoyKali Bari, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801772974000"
+      },
+      "id": "c8cbb17c-cba0-4fe1-ac5a-5da5cf91e59c"
+    },
+    {
+      "name": "Prof. Dr. Ahmmad Taous",
+      "degree": "MBBS, MS (ENT)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Pabna Medical College & Hospital",
+      "info": "Prof. Dr. Ahmmad Taous is a ENT Specialist in Pabna. His qualification is MBBS, MS (ENT). He is a Professor & Head, Department of ENT at Pabna Medical College & Hospital. He is a medical researcher and has rich international credential, and Editor of some medical journal, councillor of Bangladesh medical and dental council-BMDC. He regularly provides treatment to his patients at Kimia Diagnostic Center, Pabna. Practicing hour of Prof. Dr. Ahmmad Taous at Kimia Diagnostic Center, Pabna is 4.30pm to 7pm (Sat to Thu), 10am to 12pm (Friday).",
+      "chamber": {
+        "hospital": "Kimia Diagnostic Center, Pabna",
+        "address": "Pach Matha Mor, Beside Central Girls School, Shalgaria, Pabna",
+        "visitingTime": "4.30pm to 7pm (Sat to Thu), 10am to 12pm (Friday)",
+        "appointmentNumber": "+8801711489711"
+      },
+      "id": "c1ab8ef6-ec98-44f0-a726-dd8aa45f3b54"
+    }
+  ]
+}

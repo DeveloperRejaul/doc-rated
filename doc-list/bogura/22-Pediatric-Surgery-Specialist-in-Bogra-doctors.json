@@ -1,0 +1,74 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Md. Mizanur Rahman (Shibli)",
+      "degree": "MBBS (Dhaka), BCS (Health), MS (Pediatric Surgery)",
+      "specialty": "Neonatal & Pediatric Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Md. Mizanur Rahman (Shibli) is a Pediatric Surgeon in Bogra. His qualification is MBBS (Dhaka), BCS (Health), MS (Pediatric Surgery). He is a Assistant Professor, Pediatric Surgery at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Md. Mizanur Rahman (Shibli) at Popular Diagnostic Center, Bogra is 4pm to 8pm (Sat, Sun & Monday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "4pm to 8pm (Sat, Sun & Monday)",
+        "appointmentNumber": "+8809666787812"
+      },
+      "id": "6a074b6d-8ac9-4963-a648-5c361f3b25f0"
+    },
+    {
+      "name": "Dr. S M Noor E Shadid",
+      "degree": "MBBS, MS (Pediatric Surgery)",
+      "specialty": "Pediatric (Children) Surgery Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. S M Noor E Shadid is a Pediatric Surgeon in Bogra. His qualification is MBBS, MS (Pediatric Surgery). He is a Assistant Registrar, Pediatric Surgery at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic & Consultation Center, Bogra. Practicing hour of Dr. S M Noor E Shadid at Ibn Sina Diagnostic & Consultation Center, Bogra is 3pm to 8pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
+        "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
+        "visitingTime": "3pm to 8pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801701560011"
+      },
+      "id": "f4cfbee7-3b9e-4b90-a084-988f5a9330c7"
+    },
+    {
+      "name": "Dr. Md. Moniruzzaman (Tipu)",
+      "degree": "MBBS, MS (Pediatric Surgery)",
+      "specialty": "Pediatric Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Kushtia Trauma Center & Specialized Hospital\nAddress: Wasi Tower, 97/5, Ram Chandra Ray Chowdhury Road, Courtpara, Kushtia\nVisiting Hour: Thursday (2.30pm to 8pm), Friday ( 9.00am to 5.00pm)\nAppointment: +8801407984249\nCall Now",
+      "chamber": {
+        "hospital": "Maleka Nursing Home, Bogura",
+        "address": "Yakubia mor, Sherpur Road, Sutrapur, Bogura - 5800",
+        "visitingTime": "4pm to 8pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801407984249"
+      },
+      "id": "8f8569c6-81a2-46a4-a5a0-43604724de67"
+    },
+    {
+      "name": "Dr. K.M Zafrul Hossain Ripon",
+      "degree": "MBBS, MS",
+      "specialty": "Pediatric (Children) Surgery Specialist",
+      "workplace": "TMSS Medical College & Rafatullah Community Hospital",
+      "info": "Dr. K.M Zafrul Hossain Ripon is a Pediatric Surgeon in Bogra. His qualification is MBBS, MS. He is a Assistant Professor, Pediatric Surgery at TMSS Medical College & Rafatullah Community Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic & Consultation Center, Bogra. Practicing hour of Dr. K.M Zafrul Hossain Ripon at Ibn Sina Diagnostic & Consultation Center, Bogra is 3pm to 9pm (Everyday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
+        "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
+        "visitingTime": "3pm to 9pm (Everyday)",
+        "appointmentNumber": "+8801718641102"
+      },
+      "id": "03f974a8-4081-4c2e-ad26-75cd4e04022c"
+    },
+    {
+      "name": "Dr. Mahabur Rahman Sarker",
+      "degree": "MBBS, MS (Pediatric Surgery)",
+      "specialty": "Pediatric Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Mahabur Rahman Sarker is a Pediatric Surgeon in Bogra. His qualification is MBBS, MS (Pediatric Surgery). He is a Assistant Professor, Pediatric Surgery at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Doctors Clinic, Bogura. Practicing hour of Dr. Mahabur Rahman Sarker at Doctors Clinic, Bogura is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Doctors Clinic, Bogura",
+        "address": "Unit 1, Mofiz Paglar Mor, Sherpur Road, Bogura",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801791893605"
+      },
+      "id": "8bbfaf56-905a-4d2d-871f-caf5af9e5eb4"
+    }
+  ]
+}

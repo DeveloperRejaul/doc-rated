@@ -1,0 +1,60 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Shahryar Waheed",
+      "degree": "MBBS, BCS (Health), MCPS (Medicine), MD (Nephrology)",
+      "specialty": "Kidney Diseases & Medicine Specialist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "City Diagnostic Center, Pabna\nAddress: Beside TB Hospital, Hospital Road, Shalgaria, Pabna\nVisiting Hour: 9am to 4pm (Only Friday)\nAppointment: +8801757204642\nCall Now",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Uttara (Unit 01)",
+        "address": "House # 15, Road # 12, Sector # 06, Uttara, Dhaka",
+        "visitingTime": "7pm to 9pm (Sun, Tue, Wed & Thu)",
+        "appointmentNumber": "+8801766662606"
+      },
+      "id": "4bf9a0e6-7222-47be-bfdb-6883a9a372f8"
+    },
+    {
+      "name": "Dr. Md. Abdul Hakim",
+      "degree": "MBBS, BCS (Health). FCPS (Medicine), MD (Nephrology)",
+      "specialty": "Kidney Diseases & Medicine Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Popular Diagnostic Center, RajshahiAddress: House # 474, Chowdhury Tower, Laxmipur, RajshahiVisiting Hour: 3pm to 9pm (Closed: Tue & Friday)Appointment: +8809666787811Call Now",
+      "chamber": {
+        "hospital": "Shafique Hospital, Pabna",
+        "address": "Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna",
+        "visitingTime": "3pm to 9pm (Saturday & Wednesday)",
+        "appointmentNumber": "+8801744690481"
+      },
+      "id": "59b9cc57-013c-4918-a605-6dac480b57af"
+    },
+    {
+      "name": "Dr. Ishtiaq Mosharraf",
+      "degree": "MBBS, BCS (Health), MD (Nephrology)",
+      "specialty": "Kidney Specialist",
+      "workplace": "National Institute of Kidney Diseases & Urology",
+      "info": "Dr. Ishtiaq Mosharraf is a Kidney Specialist in Pabna. His qualification is MBBS, BCS (Health), MD (Nephrology). He is working as a Kidney Specialist doctor in National Institute of Kidney Diseases & Urology. He regularly provides treatment to his patients at Shimla Hospital, Pabna. Practicing hour of Dr. Ishtiaq Mosharraf at Shimla Hospital, Pabna is 8am to 4pm (Only Friday).",
+      "chamber": {
+        "hospital": "Shimla Hospital, Pabna",
+        "address": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
+        "visitingTime": "8am to 4pm (Only Friday)",
+        "appointmentNumber": "+8801713228218"
+      },
+      "id": "81679894-ed8b-4b74-87c0-9d660bf865a6"
+    },
+    {
+      "name": "Dr. Md. Moniruzzaman (Monir)",
+      "degree": "MBBS, BCS (Health), MD (Nephrology",
+      "specialty": "Kidney Diseases & Medicine Specialist (Nephrologist)",
+      "workplace": "Shaheed M. Monsur Ali Medical College, Sirajganj",
+      "info": "Dr. Md. Moniruzzaman (Monir) is a Nephrologist in Pabna. His qualification is MBBS, BCS (Health), MD (Nephrology. He is a Consultant (Nephrology) at Shaheed M. Monsur Ali Medical College, Sirajganj. He regularly provides treatment to his patients at Labaid Diagnostic, Pabna. Practicing hour of Dr. Md. Moniruzzaman (Monir) at Labaid Diagnostic, Pabna is 10am to 4pm (Every Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Pabna",
+        "address": "Beside Joy Kali Bari, Thana Road, Shalgaria, Pabna",
+        "visitingTime": "10am to 4pm (Every Friday)",
+        "appointmentNumber": "+8801766661901"
+      },
+      "id": "6c601346-573e-452a-906f-2a6b76ad3582"
+    }
+  ]
+}

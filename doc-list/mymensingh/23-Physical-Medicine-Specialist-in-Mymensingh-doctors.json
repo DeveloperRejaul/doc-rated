@@ -1,0 +1,32 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Mohammad Azizur Rahman",
+      "degree": "MBBS, BCS (Health), FCPS (Physical Medicine)",
+      "specialty": "Physical Medicine, Sports Injury & Rheumatology Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Mohammad Azizur Rahman is a Physical Medicine Specialist in Mymensingh. His qualification is MBBS, BCS (Health), FCPS (Physical Medicine). He is a Assistant Professor, Physical Medicine & Rehabilitation at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Mymensingh. Practicing hour of Dr. Mohammad Azizur Rahman at Popular Diagnostic Center, Mymensingh is 4pm to 9pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mymensingh",
+        "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+        "visitingTime": "4pm to 9pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8809666787814"
+      },
+      "id": "77f006af-1767-4473-bdf3-07cf0f0cc13a"
+    },
+    {
+      "name": "Dr. Md. Mahbubur Rahman",
+      "degree": "MBBS (DMC), MSC (UK)",
+      "specialty": "Pain, Trauma, Physiotherapy & Rehabilitation Specialist",
+      "workplace": "TMC Diagnostic & Hospital, Mymensingh",
+      "info": "Dr. Md. Mahbubur Rahman is a Pain Specialist in Mymensingh. His qualification is MBBS (DMC), MSC (UK). He is a Consultant, Physical Medicine & Rehabilitation at TMC Diagnostic & Hospital, Mymensingh. He regularly provides treatment to his patients at TMC Diagnostic & Hospital, Mymensingh. Practicing hour of Dr. Md. Mahbubur Rahman at TMC Diagnostic & Hospital, Mymensingh is 10am to 8pm (Thu, Fri & Sat).",
+      "chamber": {
+        "hospital": "TMC Diagnostic & Hospital, Mymensingh",
+        "address": "Zeropoint, Noudhar, Trishal, Mymensingh – 2220",
+        "visitingTime": "10am to 8pm (Thu, Fri & Sat)",
+        "appointmentNumber": "+8801774955555"
+      },
+      "id": "5a052a55-d2c3-4e31-baab-915c7d385edd"
+    }
+  ]
+}

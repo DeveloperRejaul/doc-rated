@@ -1,0 +1,32 @@
+{
+  "doctor": [
+    {
+      "name": "Prof. Dr. Muhammad Abdul Monem",
+      "degree": "MBBS, M.Phil (Psychiatry)",
+      "specialty": "Psychiatry (Mental Diseases, Brain & Drug Addiction) Specialist",
+      "workplace": "Rangpur Community Medical College & Hospital",
+      "info": "Prof. Dr. Muhammad Abdul Monem is a Psychiatrist in Rangpur. His qualification is MBBS, M.Phil (Psychiatry). He is a Professor & Head, Psychiatry Department at Rangpur Community Medical College & Hospital. He regularly provides treatment to his patients at Doctor's Community Hospital, Rangpur. Practicing hour of Prof. Dr. Muhammad Abdul Monem at Doctor's Community Hospital, Rangpur is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Doctor's Community Hospital, Rangpur",
+        "address": "Medical East Gate, Health City Road, Dhap, Rangpur",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801717292458"
+      },
+      "id": "1323edad-5c6d-408b-8356-80f9ebf2be3e"
+    },
+    {
+      "name": "Lt. Col. Dr. A K M Najmul Hasan",
+      "degree": "MBBS, FCPS (Psychiatry), Grading in Psychiatry (AFMI)",
+      "specialty": "Psychiatry, Child Psychiatry, Brain, Nerve, Drug Addiction, Sexual Diseases Specialist & Therapist",
+      "workplace": "CMH & Army Medical College, Rangpur",
+      "info": "Lt. Col. Dr. A K M Najmul Hasan is a Psychiatrist in Rangpur. His qualification is MBBS, FCPS (Psychiatry), Grading in Psychiatry (AFMI). He is a Associate Professor & Head (Psychiatry Department) at CMH & Army Medical College, Rangpur. He regularly provides treatment to his patients at Shitol Cantonment Diagnostic Center. Practicing hour of Lt. Col. Dr. A K M Najmul Hasan at Shitol Cantonment Diagnostic Center is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Shitol Cantonment Diagnostic Center",
+        "address": "Opposite to Rangpur Cantonment 1st Checkpost, Rangpur",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801318-336191"
+      },
+      "id": "d3a3be93-93d2-4a71-8b7d-466e976c4d2a"
+    }
+  ]
+}

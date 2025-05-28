@@ -1,0 +1,46 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Shayamal Kumar Sarkar",
+      "degree": "MBBS (SSMC), MS (EYE), ICO (UK)",
+      "specialty": "Neuro-Ophthalmologist & Surgeon",
+      "workplace": "National Institute of Ophthalmology & Hospital",
+      "info": "Bangladesh Eye Hospital, Dhanmondi\nAddress: 78, Satmasjid Road (West of Road 27), Dhanmondi, Dhaka-1205\nVisiting Hour: 4pm to 8pm (Sunday & Wednesday)\nAppointment: +8809666787878\nCall Now",
+      "chamber": {
+        "hospital": "Green Eye Hospital, Dhaka",
+        "address": "500/A, Rupayan Khan Plaza, Road # 07, Dhanmondi, Dhaka",
+        "visitingTime": "4pm to 8pm (Sat, Mon, Tue & Thu)",
+        "appointmentNumber": "+8801711377523"
+      },
+      "id": "c326dc19-e94d-4560-9914-65ccd914563a"
+    },
+    {
+      "name": "Dr. Sarwat Rahman",
+      "degree": "MBBS, DO (DU)",
+      "specialty": "Neuro-Ophthalmologist & Phaco Surgeon",
+      "workplace": "Bangladesh Eye Hospital & Institute",
+      "info": "Dr. Sarwat Rahman is a Neuro-Ophthalmologist in Dhaka. Her qualification is MBBS, DO (DU). She is a Consultant, Neuro-Ophthalmology at Bangladesh Eye Hospital & Institute. She regularly provides treatment to her patients at Bangladesh Eye Hospital, Dhanmondi. Practicing hour of Dr. Sarwat Rahman at Bangladesh Eye Hospital, Dhanmondi is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Bangladesh Eye Hospital, Dhanmondi",
+        "address": "78, Satmasjid Road (West of Road 27), Dhanmondi, Dhaka-1205",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787878"
+      },
+      "id": "76cd97c6-0a06-4ff1-a30b-5c990ea012f4"
+    },
+    {
+      "name": "Dr. Most. Sanjida Akter",
+      "degree": "MBBS (RMC), MCPS (Eye), FCPS (Eye)",
+      "specialty": "Neuro-Ophthalmologist & Phaco Surgeon",
+      "workplace": "Bangladesh Eye Hospital & Institute",
+      "info": "Bangladesh Eye Care Hospital, Zigatola\nAddress: 21/3 Zigatola, Dhanmondi, Dhaka – 1209.\nVisiting Hour: 9am to 2pm (Sat, Sun & Tue)\nAppointment: +8809613213213\nCall Now",
+      "chamber": {
+        "hospital": "Bangladesh Eye Hospital, Dhanmondi",
+        "address": "78, Satmasjid Road, Dhanmondi, Dhaka-1209",
+        "visitingTime": "3pm to 7pm (Monday) & 9am to 2pm (Wednesday)",
+        "appointmentNumber": "10620"
+      },
+      "id": "703c88db-8523-4e84-8f71-1c9e06c1fef0"
+    }
+  ]
+}

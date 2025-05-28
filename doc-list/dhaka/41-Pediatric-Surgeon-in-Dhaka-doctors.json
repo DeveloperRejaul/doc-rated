@@ -1,0 +1,508 @@
+{
+  "doctor": [
+    {
+      "name": "Prof. Dr. Md. Ashraf Ul Huq Kazal",
+      "degree": "MBBS, MS (Pediatric Surgery), FICS, EMSB (Australia), PhD, FACS",
+      "specialty": "Pediatric Surgeon, Pediatric Urologist, Laparoscopic Surgeon & Intersex specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Prof. Dr. Md. Ashraf Ul Huq Kazal is a Pediatric Surgeon in Dhaka. His qualification is MBBS, MS (Pediatric Surgery), FICS, EMSB (Australia), PhD, FACS. He is a Professor & Head, Pediatric Surgery at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Green Life Hospital, Dhaka. Practicing hour of Prof. Dr. Md. Ashraf Ul Huq Kazal at Green Life Hospital, Dhaka is 3pm to 5pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Green Life Hospital, Dhaka",
+        "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+        "visitingTime": "3pm to 5pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801731403790"
+      },
+      "id": "754a329c-6411-46a5-b715-9e76b78c7623"
+    },
+    {
+      "name": "Prof. Dr. Md. Abu Jafor",
+      "degree": "MBBS, MCPS (Surgery), FCPS (Surgery), MS (Paediatric Surgery)",
+      "specialty": "Pediatric Surgery Specialist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Prof. Dr. Md. Abu Jafor is a Pediatric Surgeon in Dhaka. His qualification is MBBS, MCPS (Surgery), FCPS (Surgery), MS (Paediatric Surgery). He is a Professor, Pediatric Surgery at Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Dhanmondi. Practicing hour of Prof. Dr. Md. Abu Jafor at Popular Diagnostic Center, Dhanmondi is 4pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Dhanmondi",
+        "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+        "visitingTime": "4pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787801"
+      },
+      "id": "b3db2ac2-f87d-487a-9ec0-b8eb26ac7521"
+    },
+    {
+      "name": "Prof. Dr. Swapan Kumar Paul",
+      "degree": "MBBS, MS (Pediatric Surgery), FACS (USA)",
+      "specialty": "Neonatal, Pediatric Surgery & Pediatric Neurosurgery Specialist",
+      "workplace": "Bangladesh Shishu Hospital & Institute",
+      "info": "Prof. Dr. Swapan Kumar Paul is a Pediatric Surgeon in Dhaka. His qualification is MBBS, MS (Pediatric Surgery), FACS (USA). He is a Professor of Pediatric Neurosurgery at Bangladesh Shishu Hospital & Institute. He regularly provides treatment to his patients at Millennium Specialized Hospital Ltd. Practicing hour of Prof. Dr. Swapan Kumar Paul at Millennium Specialized Hospital Ltd is 4pm to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Millennium Specialized Hospital Ltd",
+        "address": "Ashraf Tower, 4/1, Walter Road, Sutrapur, Dhaka",
+        "visitingTime": "4pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8809639206020"
+      },
+      "id": "55ee327f-4bc3-444c-a471-513aab593a5a"
+    },
+    {
+      "name": "Prof. Dr. Md. Kabirul Islam",
+      "degree": "MBBS, MS (Pediatric Surgery), FICS (USA), FRCS (UK)",
+      "specialty": "Pediatric Surgeon, Pediatric Urologist & Laparoscopic Surgeon",
+      "workplace": "Square Hospital, Dhaka",
+      "info": "Prof. Dr. Md. Kabirul Islam is a Pediatric Surgeon in Dhaka. His qualification is MBBS, MS (Pediatric Surgery), FICS (USA), FRCS (UK). He is a Senior Consultant, Pediatric Surgery at Square Hospital, Dhaka. He regularly provides treatment to his patients at Square Hospital, Dhaka. Practicing hour of Prof. Dr. Md. Kabirul Islam at Square Hospital, Dhaka is 11am to 1pm & 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Square Hospital, Dhaka",
+        "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
+        "visitingTime": "11am to 1pm & 5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "10616"
+      },
+      "id": "315a16e2-417d-4fde-b9a0-7a02123f3ee5"
+    },
+    {
+      "name": "Prof. Dr. Md. Arifur Rahman",
+      "degree": "MBBS, MS (Pediatric Surgery), Trained in Laparoscopic Surgery (India)",
+      "specialty": "Pediatric & Laparoscopic Surgery Specialist",
+      "workplace": "Institute of Child Health & Shishu Sastho Foundation Hospital",
+      "info": "Central Hospital, DhanmondiAddress: House # 02, Road # 05, Green Road, Dhanmondi, Dhaka – 1205Visiting Hour: 7pm to 9pm (Closed: Friday)Appointment: +8802-41060800Call Now",
+      "chamber": {
+        "hospital": "Health and Hope Hospital",
+        "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
+        "visitingTime": "6pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8809611996699"
+      },
+      "id": "00741b56-bafe-4c11-8100-9bc438af7d79"
+    },
+    {
+      "name": "Prof. Dr. Abdul Hanif Tablu",
+      "degree": "MBBS (DMC), MS (Pediatric Surgery), MMEd (DU)",
+      "specialty": "Neonatal & Pediatric Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "United Hospital Ltd, DhakaAddress: Plot # 15, Road # 71, Gulshan, DhakaVisiting Hour: 6pm to 9pm (Sun, Tue & Thursday)Appointment: 10666Call Now",
+      "chamber": {
+        "hospital": "Bangladesh Specialized Hospital",
+        "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8809666700100"
+      },
+      "id": "07d00f61-ed20-484a-acd7-b3c5fa4dbd76"
+    },
+    {
+      "name": "Prof. Dr. Kamal M. Choudhury",
+      "degree": "MBBS, MS (Pediatric Surgery), FACS, Fellow Pediatric Urology (Australia)",
+      "specialty": "Pediatric Surgery Specialist",
+      "workplace": "Birdem General Hospital & Ibrahim Medical College",
+      "info": "Prof. Dr. Kamal M. Choudhury is a Pediatric Surgeon in Dhaka. His qualification is MBBS, MS (Pediatric Surgery), FACS, Fellow Pediatric Urology (Australia). He is working as a Pediatric Surgery Specialist doctor in Birdem General Hospital & Ibrahim Medical College. He regularly provides treatment to his patients at Labaid Specialized Hospital, Dhanmondi. Practicing hour of Prof. Dr. Kamal M. Choudhury at Labaid Specialized Hospital, Dhanmondi is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Dhanmondi",
+        "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "10606"
+      },
+      "id": "fed4fddc-7c8b-4dfb-bb50-5d8d6e4374a3"
+    },
+    {
+      "name": "Prof. Dr. Zahid Boksh",
+      "degree": "MBBS (Dhaka), MCPS (Surgery), MS (Pediatric Surgery), FACS (USA)",
+      "specialty": "Pediatric Specialist Surgeon",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Popular Diagnostic Center, Dhanmondi\nAddress: Room – 312, House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205\nVisiting Hour: 10am to 12pm (Friday)\nAppointment: +8801711344844\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, English Road",
+        "address": "House # 2, English Road, Ray Shaheb Bazar, Dhaka",
+        "visitingTime": "6pm to 8pm (Everyday)",
+        "appointmentNumber": "+8801711344844"
+      },
+      "id": "75c52d02-ac6a-4982-8bb4-030e7db62c1b"
+    },
+    {
+      "name": "Prof. Dr. Kazi Md. Noor ul Ferdous",
+      "degree": "MBBS, MS (Pediatric Surgery), FACS (USA)",
+      "specialty": "Pediatric & Neonatal Surgeon",
+      "workplace": "Bangladesh Shishu Hospital & Institute",
+      "info": "Ibn Sina Specialized Hospital, Dhanmondi\nAddress: House # 68, Road # 15/A, Dhanmondi, Dhaka – 1209\nVisiting Hour: 5pm to 7pm (Sat, Mon & Wed)\nAppointment: +8809610010615\nCall Now",
+      "chamber": {
+        "hospital": "Al-Manar Hospital Limited",
+        "address": "6/9, Block - F, Lalmatia, Satmasjeed Road, (beside Academia School),  Dhaka",
+        "visitingTime": "2pm to 5pm (Closed : Friday & Holidays)",
+        "appointmentNumber": "+8801550020885"
+      },
+      "id": "9d1d8449-a9fe-4735-bdf1-6c19f88b0803"
+    },
+    {
+      "name": "Prof. Dr. Kh. Md. Rayhan Hossain",
+      "degree": "MBBS, BCS (Health), MS (Pediatric Surgery)",
+      "specialty": "Neonatal & Pediatric Surgeon",
+      "workplace": "National Gastroliver Institute & Hospital",
+      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, B.B. Road, Chashara, Narayanganj – 1400\nVisiting Hour: 2pm to 5pm (Only Monday)\nAppointment: +8809666787804\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Badda",
+        "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka - 1212",
+        "visitingTime": "6pm to 9pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8809666787809"
+      },
+      "id": "d09262cd-2930-44b2-8f0a-628189bdb7ca"
+    },
+    {
+      "name": "Dr. Md. Sajedul Haque",
+      "degree": "MBBS, BCS (Health), MS (Pediatric Surgery), MMEd, FACS (USA)",
+      "specialty": "Pediatric, Burn, Plastic & Laparoscopic Surgeon",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Md. Sajedul Haque is a Pediatric Surgeon in Dhaka. His qualification is MBBS, BCS (Health), MS (Pediatric Surgery), MMEd, FACS (USA). He is a Associate Professor & Head, Pediatric Surgery at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Dhanmondi. Practicing hour of Dr. Md. Sajedul Haque at Ibn Sina Diagnostic Center, Dhanmondi is 6pm to 9pm (Sat, Sun, Tue & Wed).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
+        "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+        "visitingTime": "6pm to 9pm (Sat, Sun, Tue & Wed)",
+        "appointmentNumber": "+8809610010615"
+      },
+      "id": "7f02db08-91f5-47bc-afd3-3e3bb37592fd"
+    },
+    {
+      "name": "Dr. M M Masud Pervez Shaheen",
+      "degree": "MBBS, MS (Pediatric Surgery)",
+      "specialty": "Pediatric Surgon",
+      "workplace": "Birdem General Hospital & Ibrahim Medical College",
+      "info": "Dr. M M Masud Pervez Shaheen is a Pediatric Surgeon in Dhaka. His qualification is MBBS, MS (Pediatric Surgery). He is a Associate Professor, Pediatric Surgery at Birdem General Hospital & Ibrahim Medical College. He regularly provides treatment to his patients at Khidmah Hospital, Dhaka. Practicing hour of Dr. M M Masud Pervez Shaheen at Khidmah Hospital, Dhaka is 6pm to 9pm (Closed: Monday).",
+      "chamber": {
+        "hospital": "Khidmah Hospital, Dhaka",
+        "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
+        "visitingTime": "6pm to 9pm (Closed: Monday)",
+        "appointmentNumber": "+8809606063030"
+      },
+      "id": "f6107076-c9af-4b6b-a6d5-835d7d938385"
+    },
+    {
+      "name": "Prof. Dr. Md. Shahid Karim",
+      "degree": "MBBS, FCPS (Surgery), FICS (USA)",
+      "specialty": "Pediatric Surgery & Pediatric Urology Specialist",
+      "workplace": "Evercare Hospital, Dhaka",
+      "info": "Prof. Dr. Md. Shahid Karim is a Pediatric Surgeon in Dhaka. His qualification is MBBS, FCPS (Surgery), FICS (USA). He is a Senior Consultant, Pediatrics, Pediatric Surgery & Urology at Evercare Hospital, Dhaka. He regularly provides treatment to his patients at Evercare Hospital, Dhaka. Practicing hour of Prof. Dr. Md. Shahid Karim at Evercare Hospital, Dhaka is 9am to 5pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Evercare Hospital, Dhaka",
+        "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
+        "visitingTime": "9am to 5pm (Closed: Friday)",
+        "appointmentNumber": "10678"
+      },
+      "id": "991bcbda-d651-4f49-93ac-bd1a7ec2b76e"
+    },
+    {
+      "name": "Prof. Dr. Sajal Majumdar",
+      "degree": "MBBS, MS (Pediatric Surgery)",
+      "specialty": "Neonatal & Pediatric Surgery Specialist",
+      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+      "info": "Prof. Dr. Sajal Majumdar is a Pediatric Surgeon in Dhaka. His qualification is MBBS, MS (Pediatric Surgery). He is a Professor & Head, Pediatric Surgery at Shaheed Suhrawardy Medical College & Hospital. He regularly provides treatment to his patients at Central Hospital, Dhanmondi. Practicing hour of Prof. Dr. Sajal Majumdar at Central Hospital, Dhanmondi is 7pm to 9.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Central Hospital, Dhanmondi",
+        "address": "House # 02, Road # 05, Green Road, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "7pm to 9.30pm (Closed: Friday)",
+        "appointmentNumber": "+8802-41060800"
+      },
+      "id": "3635097c-443b-4eec-a39c-ebf1357bc61b"
+    },
+    {
+      "name": "Prof. Dr. Md. Shah Alam Talukder",
+      "degree": "MBBS, MS (Pediatric Surgery), Fellow in Pediatric Reconstructive Surgery (WHO)",
+      "specialty": "Child Birth Defect Specialist & Pediatric Surgeon",
+      "workplace": "International Medical College & Hospital",
+      "info": "Prof. Dr. Md. Shah Alam Talukder is a Pediatric Surgeon in Dhaka. His qualification is MBBS, MS (Pediatric Surgery), Fellow in Pediatric Reconstructive Surgery (WHO). He is a Professor & Head, Pediatric Surgery at International Medical College & Hospital. He regularly provides treatment to his patients at Hi-Care General Hospital, Uttara. Practicing hour of Prof. Dr. Md. Shah Alam Talukder at Hi-Care General Hospital, Uttara is 8am to 2pm (Closed: Friday & Saturday).",
+      "chamber": {
+        "hospital": "Hi-Care General Hospital, Uttara",
+        "address": "House # 24 & 26 , Lake Drive Road, Sector # 7, Uttara, Dhaka",
+        "visitingTime": "8am to 2pm (Closed: Friday & Saturday)",
+        "appointmentNumber": "+8801778949055"
+      },
+      "id": "fc13d23a-c1a2-4677-9425-321947326d15"
+    },
+    {
+      "name": "Dr. A.M.S Shahin",
+      "degree": "MBBS, MS (Pediatric Surgery)",
+      "specialty": "Child, Newborn & Adolescent Surgery Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. A.M.S Shahin is a Pediatric Surgeon in Dhaka. His qualification is MBBS, MS (Pediatric Surgery). He is a Consultant, Pediatric Surgery at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Islami Bank Hospital, Mirpur. Practicing hour of Dr. A.M.S Shahin at Islami Bank Hospital, Mirpur is 5pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Mirpur",
+        "address": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
+        "visitingTime": "5pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801992346632"
+      },
+      "id": "8225142d-a014-4419-9120-86d717f46e03"
+    },
+    {
+      "name": "Dr. Syed Abdul Adil Rupas",
+      "degree": "MBBS, MS (Pediatric Surgery)",
+      "specialty": "Neonatal, Pediatric, Urology & Laparoscopic Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Syed Abdul Adil Rupas is a Pediatric Surgeon in Dhaka. His qualification is MBBS, MS (Pediatric Surgery). He is a Assistant Professor, Pediatric Surgery at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Anwer Khan Modern Medical College Hospital. Practicing hour of Dr. Syed Abdul Adil Rupas at Anwer Khan Modern Medical College Hospital is 6pm to 9pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Anwer Khan Modern Medical College Hospital",
+        "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
+        "visitingTime": "6pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+880258616074"
+      },
+      "id": "8e84db76-afaf-4108-b6ae-11d9addea195"
+    },
+    {
+      "name": "Dr. Shamsuzzaman Khan Khursed",
+      "degree": "MBBS, BCS (Health), MS (Pediatric Surgery)",
+      "specialty": "Pediatric Surgeon",
+      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+      "info": "Dr. Shamsuzzaman Khan Khursed is a Pediatric Surgeon in Dhaka. His qualification is MBBS, BCS (Health), MS (Pediatric Surgery). He is working as a Pediatric Surgeon doctor in Shaheed Suhrawardy Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Medical College Hospital, Kallyanpur. Practicing hour of Dr. Shamsuzzaman Khan Khursed at Ibn Sina Medical College Hospital, Kallyanpur is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
+        "address": "1/1 B, Kallyanpur, Dhaka",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801703725590"
+      },
+      "id": "c52ad309-6627-475d-a944-f0e43600f648"
+    },
+    {
+      "name": "Dr. Md. Mobassar Hussain Mullick",
+      "degree": "MBBS, MS (Pediatric Surgery)",
+      "specialty": "Newborn & Child Surgery Specialist",
+      "workplace": "Dr. MR Khan Shishu hospital & Institute of Child Health",
+      "info": "Dr. Md. Mobassar Hussain Mullick is a Pediatric Surgeon in Dhaka. His qualification is MBBS, MS (Pediatric Surgery). He is a Associate Professor, Pediatric Surgery at Dr. MR Khan Shishu hospital & Institute of Child Health. He regularly provides treatment to his patients at Delta Hospital, Mirpur. Practicing hour of Dr. Md. Mobassar Hussain Mullick at Delta Hospital, Mirpur is 6pm to 8pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Delta Hospital, Mirpur",
+        "address": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka - 1216",
+        "visitingTime": "6pm to 8pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801301254924"
+      },
+      "id": "15fb26b6-48af-4b30-8aff-9f8a6041e972"
+    },
+    {
+      "name": "Dr. Mohammed Mainul Haque",
+      "degree": "MBBS, BCS (Health), MS (Pediatric Surgery)",
+      "specialty": "Pediatric Surgery Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Mohammed Mainul Haque is a Pediatric Surgeon in Dhaka. His qualification is MBBS, BCS (Health), MS (Pediatric Surgery). He is a Assistant Professor, Pediatric Surgery at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Islami Bank Central Hospital, Kakrail. Practicing hour of Dr. Mohammed Mainul Haque at Islami Bank Central Hospital, Kakrail is 3pm to 4pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Central Hospital, Kakrail",
+        "address": "30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000",
+        "visitingTime": "3pm to 4pm (Closed: Friday)",
+        "appointmentNumber": "+8801810000116"
+      },
+      "id": "31664e39-1546-4322-8d50-3c214821a724"
+    },
+    {
+      "name": "Dr. Md. Delwar Hossain",
+      "degree": "MBBS (Dhaka), MS (Pediatric Surgery), FACS (USA), Pediatric Nutrition PGPN (Boston, USA)",
+      "specialty": "Pediatric Surgery & Pediatric Neurosurgery Specialist",
+      "workplace": "Bangladesh Shishu Hospital & Institute",
+      "info": "Dr. Md. Delwar Hossain is a pediatric surgeon & pediatric neurosurgeon in Dhaka. His qualification is MBBS (Dhaka), MS (Pediatric Surgery), FACS (USA), Pediatric Nutrition PGPN (Boston, USA). He is a Assistant Professor, Pediatric Neurosurgery at Bangladesh Shishu Hospital & Institute. He regularly provides treatment to his patients at Dhaka Central Consultation & Diagnostic Center. Practicing hour of Dr. Md. Delwar Hossain at Dhaka Central Consultation & Diagnostic Center is 4pm to 6pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Dhaka Central Consultation & Diagnostic Center",
+        "address": "Block - 4/Ka, Ring Road, Shyamoli, Dhaka - 1207",
+        "visitingTime": "4pm to 6pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801711546845"
+      },
+      "id": "7477dbc2-360f-45f1-8b56-8a062f129556"
+    },
+    {
+      "name": "Dr. Sadruddin Al-Masud",
+      "degree": "MBBS (DMC), BCS (Health), MS (Pediatric Surgery)",
+      "specialty": "Pediatric Surgery Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Sadruddin Al-Masud is a Pediatric Surgeon in Dhaka. His qualification is MBBS (DMC), BCS (Health), MS (Pediatric Surgery). He is working as a Pediatric Surgery Specialist doctor at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Unity Aid Hospital Limited. Practicing hour of Dr. Sadruddin Al-Masud at Unity Aid Hospital Limited is 6pm to 8pm (Sun, Tue & Thu).",
+      "chamber": {
+        "hospital": "Unity Aid Hospital Limited",
+        "address": "House # 1-2, Block # D, Main Road, South Banasree, Khilgaon, Dhaka",
+        "visitingTime": "6pm to 8pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801997421112"
+      },
+      "id": "300b11a7-3816-4738-a616-4694c9c9a8c5"
+    },
+    {
+      "name": "Dr. Ruhul Amin A Hassan",
+      "degree": "MBBS, FRCS (Ireland)",
+      "specialty": "Pediatrics Surgery Specialist",
+      "workplace": "Asgar Ali Hospital, Dhaka",
+      "info": "Dr. Ruhul Amin A Hassan is a Pediatric Surgeon in Dhaka. His qualification is MBBS, FRCS (Ireland). He is working as a Pediatrics Surgery Specialist doctor at Asgar Ali Hospital, Dhaka. He regularly provides treatment to his patients at Asgar Ali Hospital, Dhaka. Practicing hour of Dr. Ruhul Amin A Hassan at Asgar Ali Hospital, Dhaka is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Asgar Ali Hospital, Dhaka",
+        "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801787683333"
+      },
+      "id": "439f667a-c0e0-48c2-af1e-d123d404fbf5"
+    },
+    {
+      "name": "Dr. Ahmed Zahid Hossain",
+      "degree": "MBBS, MPH (Epidemiology), MS (Pediatric Surgery)",
+      "specialty": "Pediatric Surgery Specialist",
+      "workplace": "Bangladesh Specialized Hospital",
+      "info": "Dr. Ahmed Zahid Hossain is a Pediatric Surgeon in Dhaka. His qualification is MBBS, MPH (Epidemiology), MS (Pediatric Surgery). He is working as a Pediatric Surgery Specialist doctor in Bangladesh Specialized Hospital. He regularly provides treatment to his patients at Bangladesh Specialized Hospital. Practicing hour of Dr. Ahmed Zahid Hossain at Bangladesh Specialized Hospital is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Bangladesh Specialized Hospital",
+        "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8809666700100"
+      },
+      "id": "7294a64d-4211-4557-bec0-b54f0e94563f"
+    },
+    {
+      "name": "Dr. Musrat Rahman Deeba",
+      "degree": "MBBS, MS (Pediatric Surgery)",
+      "specialty": "Pediatric Surgery Specialist & Laparoscopic Surgeon",
+      "workplace": "Square Hospital, Dhaka",
+      "info": "Dr. Musrat Rahman Deeba is a Pediatric Surgeon in Dhaka. Her qualification is MBBS, MS (Pediatric Surgery). She is a Consultant, Pediatric Surgery at Square Hospital, Dhaka. She regularly provides treatment to her patients at Square Hospital, Dhaka. Practicing hour of Dr. Musrat Rahman Deeba at Square Hospital, Dhaka is 10am to 2pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Square Hospital, Dhaka",
+        "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
+        "visitingTime": "10am to 2pm (Closed: Friday)",
+        "appointmentNumber": "10616"
+      },
+      "id": "d91b2b56-0eef-4ca3-a805-7279652b7ee4"
+    },
+    {
+      "name": "Prof. Dr. ASM Alamgir Chowdhury",
+      "degree": "MBBS, MS (Pediatric Surgery)",
+      "specialty": "Pediatric Surgeon",
+      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+      "info": "Prof. Dr. ASM Alamgir Chowdhury is a Pediatric Surgeon in Dhaka. His qualification is MBBS, MS (Pediatric Surgery). He is working as a Pediatric Surgeon doctor in Shaheed Suhrawardy Medical College & Hospital. He regularly provides treatment to his patients at AMZ Hospital, Badda. Practicing hour of Prof. Dr. ASM Alamgir Chowdhury at AMZ Hospital, Badda is 7pm to 10pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "AMZ Hospital, Badda",
+        "address": "Cha - 80/3, Progati Sarani, Uttar Badda, Dhaka",
+        "visitingTime": "7pm to 10pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801847331020"
+      },
+      "id": "88fd6230-33fe-40ce-a176-da6f3f146e60"
+    },
+    {
+      "name": "Dr. Md. Rezaul Karim",
+      "degree": "MBBS, MS (Pediatric Surgery)",
+      "specialty": "Neonatal & Pediatric Surgery Specialist",
+      "workplace": "Enam Medical College & Hospital",
+      "info": "Dr. Md. Rezaul Karim is a Pediatric Surgeon in Dhaka. His qualification is MBBS, MS (Pediatric Surgery). He is a Associate Professor, Pediatric Surgery at Enam Medical College & Hospital. He regularly provides treatment to his patients at Enam Medical College & Hospital. Practicing hour of Dr. Md. Rezaul Karim at Enam Medical College & Hospital is 8am to 2.30pm (Sat to Thu) & 5pm to 9pm (Sat, Sun, Tue, Mon & Thu).",
+      "chamber": {
+        "hospital": "Enam Medical College & Hospital",
+        "address": "9/3 Parboti Nagar, Thana Road, Savar, Dhaka",
+        "visitingTime": "8am to 2.30pm (Sat to Thu) & 5pm to 9pm (Sat, Sun, Tue, Mon & Thu)",
+        "appointmentNumber": "+8801716358146"
+      },
+      "id": "8bd9dc48-de95-4150-952a-794c08758a37"
+    },
+    {
+      "name": "Dr. Md. Shahin Reza",
+      "degree": "MBBS, BCS, FACS, MS",
+      "specialty": "Pediatric Endo-Laparoscopic Surgeon & Pediatric Urologist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Md. Shahin Reza is a Pediatric Surgeon in Dhaka. His qualification is MBBS, BCS, FACS, MS. He is a Assistant Professor, Pediatric Surgery at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Insaf Barakah Kidney & General Hospital. Practicing hour of Dr. Md. Shahin Reza at Insaf Barakah Kidney & General Hospital is 5pm to 7pm (Closed: Mon & Tuesday).",
+      "chamber": {
+        "hospital": "Insaf Barakah Kidney & General Hospital",
+        "address": "11, Shaheed Tajuddin Ahmed Sarani, Mogbazar, Dhaka",
+        "visitingTime": "5pm to 7pm (Closed: Mon & Tuesday)",
+        "appointmentNumber": "+8801711010161"
+      },
+      "id": "a1e82d21-255f-4575-808d-d5362ec104b0"
+    },
+    {
+      "name": "Prof. Dr. A.K.M. Zahid Hossain",
+      "degree": "MBBS, MS (Pediatric Surgery)",
+      "specialty": "Pediatric (General, Hepatobiliary & Pancreatic, Urology) Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. A.K.M. Zahid Hossain is a Pediatric Surgeon in Dhaka. His qualification is MBBS, MS (Pediatric Surgery). He is a Professor of Pediatric Surgery at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Samorita Hospital Ltd, Panthapath. Practicing hour of Prof. Dr. A.K.M. Zahid Hossain at Samorita Hospital Ltd, Panthapath is 7pm to 9pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Samorita Hospital Ltd, Panthapath",
+        "address": "89/1, Panthapath, Dhaka - 1215, Bangladesh",
+        "visitingTime": "7pm to 9pm (Sat, Mon & Wed)",
+        "appointmentNumber": "10674"
+      },
+      "id": "70726017-da06-454d-be59-c02e51630620"
+    },
+    {
+      "name": "Dr. Muhammed Rashedul Alam",
+      "degree": "MBBS, MS (Pediatric Surgery)",
+      "specialty": "Pediatric Surgeon",
+      "workplace": "Bangladesh Shishu Hospital & Institute",
+      "info": "Pancare Hospital Ltd.\nAddress: Dhanmondi Tower, North to Rapa Palaza, Dhanmondi, Dhaka\nVisiting Hour: 4pm to 6pm (Closed: Friday)\nAppointment: +880258155309\nCall Now",
+      "chamber": {
+        "hospital": "Victoria Heathcare Ltd",
+        "address": "Cosmopolitan Center (Opposite to NIKDU), Babar Road, Dhaka",
+        "visitingTime": "2.30pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801712006577"
+      },
+      "id": "aa94789b-684f-4496-a252-f7815d7167b9"
+    },
+    {
+      "name": "Dr. Md. Abdullah Al Mahmud Shovon",
+      "degree": "MBBS, BCS (Health), MS (Pediatric Surgery), DG Medalist (NAPD)",
+      "specialty": "Pediatric Surgeon",
+      "workplace": "Kuwait Bangladesh Friendship Government Hospital",
+      "info": "Aalok Health Care, Mirpur 1\nAddress: 21 Darus Salam Road, Mirpur 1, Dhaka\nVisiting Hour: 7pm to 9pm (Closed: Friday)\nAppointment: +8801726654541\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
+        "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
+        "visitingTime": "2.30pm to 4pm (Sat to Thu), 6pm to 9pm (Friday)",
+        "appointmentNumber": "+8801726654541"
+      },
+      "id": "0b54ecea-b01e-441f-86b1-b44cbb6376f5"
+    },
+    {
+      "name": "Prof. Dr. A.K.M. Shamsuddin",
+      "degree": "MBBS, BCS (Health), MS (Pediatric Surgery)",
+      "specialty": "Pediatric Surgeon",
+      "workplace": "National Gastroliver Institute & Hospital",
+      "info": "Prof. Dr. A.K.M. Shamsuddin is a Pediatric Surgeon in Dhaka. His qualification is MBBS, BCS (Health), MS (Pediatric Surgery). He is a Professor (Pediatric Surgery) at National Gastroliver Institute & Hospital. He regularly provides treatment to his patients at Mirpur General Hospital & Diagnostic Center. Practicing hour of Prof. Dr. A.K.M. Shamsuddin at Mirpur General Hospital & Diagnostic Center is 9pm to 10pm (Everyday).",
+      "chamber": {
+        "hospital": "Mirpur General Hospital & Diagnostic Center",
+        "address": "Plot - 10, Road - 4/5, Section - 12, Kalshi Road, Mirpur, Dhaka",
+        "visitingTime": "9pm to 10pm (Everyday)",
+        "appointmentNumber": "+8801610964966"
+      },
+      "id": "a214d84f-105a-4f3f-a9f6-c3da21fd6399"
+    },
+    {
+      "name": "Dr. A.K.M Khairul Basher",
+      "degree": "MBBS, BCS (Health), MS (Pediatric Surgery), BSMMU",
+      "specialty": "Pediatric Urologist & Pediatric Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. A.K.M Khairul Basher is a highly skilled pediatric urologist and pediatric surgeon specializing in the treatment of congenital and acquired urological disorders in children. With an MBBS, BCS (Health), and MS in Pediatric Surgery from BSMMU, he has extensive experience in managing complex surgical cases in infants and children. As an Assistant Professor of Pediatric Urology at Dhaka Medical College & Hospital, he is dedicated to providing advanced surgical care. Dr. Basher specializes in treating conditions such as hypospadias, undescended testes, vesicoureteral reflux, hydronephrosis, pediatric hernias, and congenital urinary tract abnormalities. He consults at Comfort Diagnostic Center, Dhanmondi, offering expert care for young patients. Book an appointment today for specialized pediatric surgical and urological treatment.",
+      "chamber": {
+        "hospital": "Comfort Diagnostic Center, Dhanmondi",
+        "address": "Comfort Doctors’ Chamber 3, Green Road, Dhaka",
+        "visitingTime": "7pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801764763827"
+      },
+      "id": "b09e955d-f52b-4629-bd13-afd25a38c575"
+    },
+    {
+      "name": "Dr. A H M Abdul Hai",
+      "degree": "MBBS, BCS (Health), MS (Pediatric Surgery)",
+      "specialty": "Neonatal & Pediatric Surgery Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. A H M Abdul Hai is a Pediatric Surgeon in Dhaka. His qualification is MBBS, BCS (Health), MS (Pediatric Surgery). He is a Registrar (Pediatric Surgery) at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Holy Aid Hospital Ltd, Demra. Practicing hour of Dr. A H M Abdul Hai at Holy Aid Hospital Ltd, Demra is 5pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Holy Aid Hospital Ltd, Demra",
+        "address": "Lake View Sarker Plaza, Hazinagar, Sarulia, Demra, Dhaka",
+        "visitingTime": "5pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801955990055"
+      },
+      "id": "c63d6502-869d-4d35-ab14-62cb7122b4c0"
+    },
+    {
+      "name": "Dr. Zannatul Ferdous Peu",
+      "degree": "MBBS (DMC), MRCS (UK), MS (Pediatric Surgery)",
+      "specialty": "Pediatric Surgery Specialist",
+      "workplace": "Bangladesh Medical University (BMU)",
+      "info": "Dr. Zannatul Ferdous Peu is a compassionate pediatric surgery specialist in Dhaka with qualifications including MBBS from Dhaka Medical College (DMC), MRCS (UK), and MS in Pediatric Surgery. She specializes in diagnosing and treating a variety of surgical conditions in children, including congenital anomalies, pediatric hernias, undescended testis, hydrocele, anorectal malformations, and other gastrointestinal and urological disorders in children. Dr. Peu serves as a Medical Officer in Pediatric Surgery at Bangladesh Medical University (BMU). She provides consultations at SIBL Foundation Hospital & Diagnostic Center, located at Fattah Plaza, 70, Green Road, Panthapath, Dhaka – 1205, from 3pm to 5pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "SIBL Foundation Hospital & Diagnostic Center",
+        "address": "Fattah Plaza, 70, Green Road, Panthapath, Dhaka - 1205",
+        "visitingTime": "3pm to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8801958339339"
+      },
+      "id": "672601db-5d07-4d25-9d1d-7131904d90e3"
+    },
+    {
+      "name": "Prof. Dr. Md. Samidur Rahman",
+      "degree": "MBBS, MS (Paediatric Surgery), FACS (USA)",
+      "specialty": "Pediatric Surgeon, Specialty in Hypospadias Surgery",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Professor Dr. Samidur Rahman is an established and highly skilled pediatric surgeon with over 22 years’ experience in the field of Pediatric Surgery. Due to his keen and enthusiastic interest on Hypospadias surgery and consistent devoted work on this fine but difficult topic by this time he is well known Hypospadias surgeon in surgical society as well as all over the country. Hypospadias, a penile birth defect of the urinary opening, affects approximately 1 in 200 newborns. Surgery is usually recommended to restore normal appearance and function. The most common operation performed world-wide is the TIP repair, also known as the Snodgrass procedure and Other common procedures like Mathieu with or without Hadidi modification, Snod-Bush (STAG I &II), Johansons, Double Y meatoplasty, Bracka stage procedure are being practiced by Professor Dr. Samidur Rahman on regular basis according to the justified evaluation of the patients. He has performed more than 2,500 hypospadias operations and reoperations in cluding correction of complications. His published results are acceptable and comparable with those of other center in the world.",
+      "chamber": {
+        "hospital": "AMZ Hypospadias and Circumcision Center",
+        "address": "Cha, 80/3, Shadhinota Soroni (Progoti Soroni), Uttar Badda, Dhaka",
+        "visitingTime": "5pm to 7pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801847331020"
+      },
+      "id": "ff786e70-68f1-47e6-826a-de18ef74e616"
+    }
+  ]
+}

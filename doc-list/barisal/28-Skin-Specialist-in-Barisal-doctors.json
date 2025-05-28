@@ -1,0 +1,102 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Faizur Rahman",
+      "degree": "MBBS, BCS (Health), DDV (BSMMU), Fellowship Training in Dermato Surgery",
+      "specialty": "Skin, Allergy, Sexual Diseases Specialist & Dermato Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Rahat Anwar Hospital, Barisal\nAddress: Band Road, Chandmari, Barisal Sadar, Barisal – 8200\nVisiting Hour: 12pm to 1pm & 4pm to 6pm\nAppointment: +8801711993953\nCall Now",
+      "chamber": {
+        "hospital": "Konica Diagnostic Center, Barisal",
+        "address": "557, Sadar Road (Batar Goli, Bibir Pukur Par), Barisal",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801857711954"
+      },
+      "id": "8e8fec1d-eed7-409d-8776-2ff9fea4d17b"
+    },
+    {
+      "name": "Dr. Biplob Kumar Das",
+      "degree": "MBBS, DDV",
+      "specialty": "Skin, Allergy, Leprosy & Sex Diseases Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. Biplob Kumar Das is a Skin Specialist in Barisal. His qualification is MBBS, DDV. He is a Associate Professor, Dermatology at Sher-E-Bangla Medical College & Hospital. He regularly provides treatment to his patients at BellView Hospital & Medical Services, Barisal. Practicing hour of Dr. Biplob Kumar Das at BellView Hospital & Medical Services, Barisal is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "BellView Hospital & Medical Services, Barisal",
+        "address": "114, Sadar Road, Barisal",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801733063692"
+      },
+      "id": "1c9f6ab7-84ed-452b-bed6-db7de1d6fee2"
+    },
+    {
+      "name": "Dr. Md. Rezwan Kaiser",
+      "degree": "MBBS (DU), BCS (Health), DD (Thailand & Japan), CCD (BIRDEM)",
+      "specialty": "Skin, Allergy, Sex Specialist & Laser Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Popular Diagnostic Center, BarisalAddress: 955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, BarisalVisiting Hour: 4pm to 7pm (Closed: Thu & Friday)Appointment: +8809666787819Call Now",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Barisal",
+        "address": "K.B. Hemayet Uddin Road, Girja Moholla, Barisal",
+        "visitingTime": "7pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801711240969"
+      },
+      "id": "59616def-9eac-4eea-b527-edddf2ecf813"
+    },
+    {
+      "name": "Dr. Md. Morshedur Rahman",
+      "degree": "MBBS (Dhaka), BCS (Health), DDV (BSMMU)",
+      "specialty": "Skin, Allergy, Sexual Diseases Specialist & Dermatosurgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Islami Bank Hospital, Barisal\nAddress: Band Road, Chandmari, Barisal – 8200\nVisiting Hour: 6pm to 8pm (Closed: Friday)\nAppointment: +8801810000121\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "2pm to 3:30pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787819"
+      },
+      "id": "de5ab2e5-0103-4fdc-bac7-d83cd75736d4"
+    },
+    {
+      "name": "Dr. Robin Ghosh",
+      "degree": "MBBS (DU), DD (Thailand, Japan), Training (Dermatosurgery)",
+      "specialty": "Skin, Allergy, Leprosy Specialist & Surgeon",
+      "workplace": "Rahat Anwar Hospital, Barisal",
+      "info": "Dr. Robin Ghosh is a Dermatologist in Barisal. His qualification is MBBS (DU), DD (Thailand, Japan), Training (Dermatosurgery). He is a Consultant, Dermatology at Rahat Anwar Hospital, Barisal. He regularly provides treatment to his patients at Rahat Anwar Hospital, Barisal. Practicing hour of Dr. Robin Ghosh at Rahat Anwar Hospital, Barisal is 10am to 12pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Rahat Anwar Hospital, Barisal",
+        "address": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
+        "visitingTime": "10am to 12pm (Closed: Friday)",
+        "appointmentNumber": "+8801711993953"
+      },
+      "id": "4104ae8b-ca10-4964-83b5-7239d0a2722a"
+    },
+    {
+      "name": "Dr. Md. Shahin Howlader (Tahsun)",
+      "degree": "MBBS (Dhaka), BCS (Health), CCD (Birdem), DDV (BSMMU), MACP (USA)",
+      "specialty": "Skin, Allergy ,Sexual Disease Specialist & Dermatosurgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "DLAB Medical Services, Barisal\nAddress: 109, Birsreshtho Mohiuddin Jahangir Sorok (Sadar Road), Barisal\nVisiting Hour: 7pm to 8pm (Closed: Friday)\nAppointment: +8801972309959\nCall Now",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Barisal",
+        "address": "Band Road, Chandmari, Barisal – 8200",
+        "visitingTime": "3pm to 6pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801810000121"
+      },
+      "id": "57704bfe-2836-4b39-beb6-fee2ab5b1a8b"
+    },
+    {
+      "name": "Dr. Md. Kamruzzaman",
+      "degree": "MBBS, DDV, MCPS",
+      "specialty": "Skin, Allergy & Sexual Diseases Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. Md. Kamruzzaman is an experienced skin, allergy, and sexual diseases specialist in Barisal. He holds MBBS, DDV, and MCPS qualifications and is currently serving as an Assistant Professor in the Department of Skin & VD at Sher-E-Bangla Medical College & Hospital. Dr. Md. Kamruzzaman specializes in the treatment of various dermatological issues including skin allergies, infections, acne, eczema, psoriasis, vitiligo, hair loss, nail disorders, and sexually transmitted diseases. He provides patient care at Popular Diagnostic Center, Barisal (955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal) with visiting hours from 7pm to 10pm, closed on Fridays.",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "7pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787819"
+      },
+      "id": "388fbd80-e6cd-4f88-872e-a15534fa480e"
+    }
+  ]
+}

@@ -1,0 +1,718 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Tousif Bin Mamun",
+      "degree": "MBBS, BCS (Health), MCPS (ENT)",
+      "specialty": "ENT(Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Chittagong Medical College & HospitalAppointment: 01810-004550",
+      "info": "Dr. Tousif Bin Mamun is a ENT Specialist in Chittagong. His qualification is MBBS, BCS (Health), MCPS (ENT). He is a Assistant Registrar, ENT at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Asperia Health Care Ltd, Chittagong. Practicing hour of Dr. Tousif Bin Mamun at Asperia Health Care Ltd, Chittagong is Saturday to Thursday (Closed: Friday).",
+      "chamber": {
+        "hospital": "Asperia Health Care Ltd, Chittagong",
+        "address": "Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram",
+        "visitingTime": "Saturday to Thursday (Closed: Friday)",
+        "appointmentNumber": "+8801810-004550"
+      },
+      "id": "5390bac0-4628-4711-81df-dc60779a6c59"
+    },
+    {
+      "name": "Dr. Mohammad Al Mamun Hamid",
+      "degree": "MBBS, FCPS (ENT), DLO (BSMMU), BCS (HEALTH)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Epic Healthcare Ltd, ChittagongChittagong Medical College HospitalAppointment: 01866-436685",
+      "info": "Dr. Mohammad Al Mamun Hamid is a dedicated ENT (Ear, Nose, Throat) specialist and Head Neck Surgeon in Chattogram, holding qualifications of MBBS, FCPS (ENT), DLO (BSMMU), and BCS (Health). He is currently serving as a Consultant in the ENT Department at Chittagong Medical College Hospital. Dr. Mohammad Al Mamun Hamid provides expert diagnosis and treatment for a wide range of conditions including sinusitis, tonsillitis, nasal polyps, hearing loss, ear infections, throat cancer, and voice disorders. He offers consultations at Epic Healthcare Ltd. (East Gate Branch), located at 36, K.B. Fazlul Kader Road, Panchlaish, Chattogram, from 6.30pm to 10pm, except on Fridays.",
+      "chamber": {
+        "hospital": "Epic Healthcare Ltd. (East Gate Branch)",
+        "address": "36, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "6.30pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801866436685"
+      },
+      "id": "8789e495-c0fe-4a95-a820-d9fc875c0c00"
+    },
+    {
+      "name": "Asso. Prof. Dr. Lt. Col. Md. Momin Uddin Kallol",
+      "degree": "MBBS (SSMC), FCPS (ENT), DLO, MCPS, FICS (USA)",
+      "specialty": "ENT Specialist & Head Neck Cancer SurgeonSuper Specialty in Thyroid, Tongue, Tonsil & Oral Cavity Cancer Surgery",
+      "workplace": "Bangladesh Navy Hospital, ChittagongFormer Classified ENT SpecialistCombined Military Hospital (CMH), Dhaka17 Years of Experience",
+      "info": "Islami Bank Hospital, Chittagong\nAddress: 3, Sheikh Mujib Road, Agrabad, Chittagong\nVisiting Hour: 3pm to 5pm (Closed: Friday)\nAppointment: +8801772928701, +8801795551160\nCall Now",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Patenga",
+        "address": "Opposite to Navy Hospital Gate, Patenga, Chittagong",
+        "visitingTime": "7pm to 8.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801772928701, +8801795551160"
+      },
+      "id": "045e73c7-297b-4cf6-96d9-4632f7fc0363"
+    },
+    {
+      "name": "Dr. M A Kamal",
+      "degree": "MBBS, FCPS (ENT), DLO, MCPS (ENT)",
+      "specialty": "Ear, Nose, Throat, Head, Neck, Goitre Specialist & Surgeon",
+      "workplace": "Cox's Bazar Medical College & HospitalSenior Consultant, ENT (Ex)Evercare Hospital, Chattogram",
+      "info": "Dr. M A Kamal is a highly experienced ENT specialist and surgeon in Chattogram, holding qualifications such as MBBS, FCPS (ENT), DLO, and MCPS (ENT). He specializes in treating a wide range of conditions including sinusitis, nasal polyps, tonsillitis, ear infections, hearing loss, thyroid (goitre) disorders, and head-neck tumors. Dr. Kamal previously served as Associate Professor and Head of the ENT Department at Cox’s Bazar Medical College & Hospital, and also worked as a Senior Consultant in ENT at Evercare Hospital, Chattogram. He currently sees patients at Chattogram Metropolitan Hospital Ltd. (Room No 204, Level 2, 698/752, OR Nizam Road, Chattagram) from 7pm to 10pm, Saturday to Wednesday.",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital Ltd.",
+        "address": "Room No 204 (Level 2), 698/752, OR Nizam Road, Chattagram",
+        "visitingTime": "7pm to 10pm (Saturday to Wednesday)",
+        "appointmentNumber": "+8801726155273"
+      },
+      "id": "01affcf9-a543-4506-8db9-f714c317cacc"
+    },
+    {
+      "name": "Prof. Dr. Mostafa Mahfuzul Anwar",
+      "degree": "MBBS, FCPS (ENT)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Prof. Dr. Mostafa Mahfuzul Anwar is a ENT Specialist in Chittagong. His qualification is MBBS, FCPS (ENT). He is a Professor, ENT at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Epic Healthcare, Chittagong. Practicing hour of Prof. Dr. Mostafa Mahfuzul Anwar at Epic Healthcare, Chittagong is 7pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Epic Healthcare, Chittagong",
+        "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801984499600"
+      },
+      "id": "c5bbc472-daf8-4fe6-a7f9-5d44d1ee6f52"
+    },
+    {
+      "name": "Dr. S. M. Tareq Uddin Ahmed",
+      "degree": "MBBS, FCPS (ENT)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. S. M. Tareq Uddin Ahmed is a ENT Specialist in Chittagong. His qualification is MBBS, FCPS (ENT). He is a Assistant Professor, ENT at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at CSCR Hospital, Chittagong. Practicing hour of Dr. S. M. Tareq Uddin Ahmed at CSCR Hospital, Chittagong is 6pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "6pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801887656565"
+      },
+      "id": "e482c360-1cd4-4bef-b6bb-919fb0cd87b7"
+    },
+    {
+      "name": "Prof. Dr. Nilakanta Bhattacharjee",
+      "degree": "MBBS, FCPS (ENT)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Center for Specialized Care & Research (CSCR)",
+      "info": "Prof. Dr. Nilakanta Bhattacharjee is a ENT Specialist in Chittagong. His qualification is MBBS, FCPS (ENT). He is a Senior Consultant, ENT at Center for Specialized Care & Research (CSCR). He regularly provides treatment to his patients at CSCR Hospital, Chittagong. Practicing hour of Prof. Dr. Nilakanta Bhattacharjee at CSCR Hospital, Chittagong is 10am to 1pm & 6pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "10am to 1pm & 6pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801887656565"
+      },
+      "id": "9b7b8a1c-6f15-42eb-84e2-fcd173eed37c"
+    },
+    {
+      "name": "Dr. Kamol Krishna Pramanik",
+      "degree": "MBBS, FCPS (ENT)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Kamol Krishna Pramanik is a ENT Specialist in Chittagong. His qualification is MBBS, FCPS (ENT). He is a Consultant & Surgeon, ENT at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Medical Centre Hospital, Chittagong. Practicing hour of Dr. Kamol Krishna Pramanik at Medical Centre Hospital, Chittagong is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medical Centre Hospital, Chittagong",
+        "address": "953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801917261337"
+      },
+      "id": "3e0b94a6-2bc7-4af3-bbf5-006f74fb14da"
+    },
+    {
+      "name": "Dr. Ashfaq Ahmad",
+      "degree": "MBBS, FCPS (ENT)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Ashfaq Ahmad is a ENT Specialist in Chittagong. His qualification is MBBS, FCPS (ENT). He is a Associate Professor, ENT at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Chittagong. Practicing hour of Dr. Ashfaq Ahmad at Popular Diagnostic Center, Chittagong is 3:30pm to 7:30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Chittagong",
+        "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "3:30pm to 7:30pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787810"
+      },
+      "id": "cd39f359-151b-4b60-b500-a7b1064dba92"
+    },
+    {
+      "name": "Dr. Sanjoy Das",
+      "degree": "MBBS, BCS (Health), FCPS (ENT), MCPS (ENT)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Labaid Specialized Hospital, Chattogram\nAddress: 3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram\nVisiting Hour: 5pm to 9pm (Sun, Tue & Thu)\nAppointment: +8801766662829\nCall Now",
+      "chamber": {
+        "hospital": "Medical Centre Hospital, Chittagong",
+        "address": "953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram",
+        "visitingTime": "3pm to 5pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+88031658501"
+      },
+      "id": "21e0de21-1cb9-40bd-948c-9c45bcf7c51c"
+    },
+    {
+      "name": "Dr. H. S. Mobarak Hossen",
+      "degree": "MBBS, BCS (Health), FCPS (ENT)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "National Hospital, Chittagong\nAddress: 14/15, Dampara Lane, Mehedibag, Chattogram\nVisiting Hour: 6pm to 9pm (Closed: Thu & Friday)\nAppointment: +8801822685066\nCall Now",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801976022333"
+      },
+      "id": "3b908c0b-d524-4dc4-b926-7dd642c31f91"
+    },
+    {
+      "name": "Dr. Sheikh Shawkat Kamal",
+      "degree": "MBBS, FCPS (ENT)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Surgiscope Hospital, Chittagong",
+      "info": "Dr. Sheikh Shawkat Kamal is a ENT Specialist in Chittagong. His qualification is MBBS, FCPS (ENT). He is a  at Surgiscope Hospital, Chittagong. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Chittagong. Practicing hour of Dr. Sheikh Shawkat Kamal at Ibn Sina Diagnostic Center, Chittagong is 11am to 1pm & 6pm to 8pm (Everyday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Chittagong",
+        "address": "House # 12/A, Road # 02, Katalgonj, Panchlaish, Chattogram",
+        "visitingTime": "11am to 1pm & 6pm to 8pm (Everyday)",
+        "appointmentNumber": "+8801711208859"
+      },
+      "id": "5efe9d4c-e13c-4e19-84ab-79a49083c67e"
+    },
+    {
+      "name": "Dr. Mohammad Jamal Hossen",
+      "degree": "MBBS, BCS (Health), FCPS (ENT), MS (ENT)",
+      "specialty": "ENT Specialist & Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "National Hospital, Chittagong\nAddress: 14/15, Dampara Lane, Mehedibag, Chattogram\nVisiting Hour: 6pm to 9pm (Closed: Friday)\nAppointment: +8801822685066\nCall Now",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801976022333"
+      },
+      "id": "824f8e2d-3ee4-43cb-9abb-0feabdab42fd"
+    },
+    {
+      "name": "Dr. Supran Biswas",
+      "degree": "MBBS, BCS (Health), FCPS (ENT)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Supran Biswas is a ENT Specialist in Chittagong. His qualification is MBBS, BCS (Health), FCPS (ENT). He is a Junior Consultant, ENT at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Medical Centre Hospital, Chittagong. Practicing hour of Dr. Supran Biswas at Medical Centre Hospital, Chittagong is 4pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medical Centre Hospital, Chittagong",
+        "address": "953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram",
+        "visitingTime": "4pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801816872702"
+      },
+      "id": "ee524aca-620e-4287-8c5b-8da7cedd2a99"
+    },
+    {
+      "name": "Prof. Dr. Md. Mujibul Haque Khan",
+      "degree": "MBBS, MCPS, DLO (DU)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Prof. Dr. Md. Mujibul Haque Khan is a ENT Specialist in Chittagong. His qualification is MBBS, MCPS, DLO (DU). He is a Former Professor & Head, ENT at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Metro Diagnostic Center, Chittagong. Practicing hour of Prof. Dr. Md. Mujibul Haque Khan at Metro Diagnostic Center, Chittagong is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Metro Diagnostic Center, Chittagong",
+        "address": "Metro Tower, Goal Pahar Mor, Mehedibag, Chattogram",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801812821889"
+      },
+      "id": "5cb96a54-4720-4407-93f8-08fd6e2cd0b8"
+    },
+    {
+      "name": "Dr. Kyaw Khin U Chow Chow",
+      "degree": "MBBS, BCS (Health), FCPS (ENT)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Kyaw Khin U Chow Chow is a ENT Specialist in Chittagong. His qualification is MBBS, BCS (Health), FCPS (ENT). He is a Associate Professor, ENT at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Epic Healthcare, Chittagong. Practicing hour of Dr. Kyaw Khin U Chow Chow at Epic Healthcare, Chittagong is 6pm to 10pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Epic Healthcare, Chittagong",
+        "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 10pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801984499600"
+      },
+      "id": "5640bb72-90ae-4d8b-bd4f-e31d6e960137"
+    },
+    {
+      "name": "Prof. Dr. Abdul Qayum Chowdhury",
+      "degree": "MBBS, DLO, FCPS (ENT), Training (Audiology)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck SurgeonEar Microsurgery & Nose Plastic Surgeon",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Shahjalal Diagnostic Clinic, Chittagong\nAddress: 143, Sheikh Mujib Road, Badamtoli, Agrabad, Chattogram\nVisiting Hour: 6pm to 10pm (Closed: Friday)\nAppointment: +8801842120017\nCall Now",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Chittagong",
+        "address": "3, Sheikh Mujib Road, Agrabad, Chittagong",
+        "visitingTime": "1pm to 2pm (Closed: Friday)",
+        "appointmentNumber": "+8801731253990"
+      },
+      "id": "8934f554-1af5-4654-a802-acbdac096d3b"
+    },
+    {
+      "name": "Dr. Mohammad Omar Faruk",
+      "degree": "MBBS, BCS (Health), MCPS (ENT), DLO (DU)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Parkview Hospital, Chittagong",
+      "info": "Dr. Mohammad Omar Faruk is a ENT Specialist in Chittagong. His qualification is MBBS, BCS (Health), MCPS (ENT), DLO (DU). He is a Consultant, ENT at Parkview Hospital, Chittagong. He regularly provides treatment to his patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Mohammad Omar Faruk at Parkview Hospital, Chittagong is 7.30pm to 9pm (Sat & Thu).",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "7.30pm to 9pm (Sat & Thu)",
+        "appointmentNumber": "+8801976022333"
+      },
+      "id": "8b634fcb-8a98-46c5-a952-c88358513455"
+    },
+    {
+      "name": "Dr. Maleka Afroz",
+      "degree": "MBBS, FCPS (ENT)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Evercare Hospital, Chattogram",
+      "info": "Dr. Maleka Afroz is a ENT Specialist in Chittagong. Her qualification is MBBS, FCPS (ENT). She is a Consultant, ENT at Evercare Hospital, Chattogram. She regularly provides treatment to her patients at Evercare Hospital, Chattogram. Practicing hour of Dr. Maleka Afroz at Evercare Hospital, Chattogram is 3pm to 7pm (Sun, Mon, Tue & Thu).",
+      "chamber": {
+        "hospital": "Evercare Hospital, Chattogram",
+        "address": "H1, Ananna R/A, CDA, Hathazari, Chattogram",
+        "visitingTime": "3pm to 7pm (Sun, Mon, Tue & Thu)",
+        "appointmentNumber": "+8809610810663"
+      },
+      "id": "5e0b691e-35f5-420d-aa96-b235df536510"
+    },
+    {
+      "name": "Prof. Dr. Ziaul Ansar Chowdhury",
+      "degree": "MBBS, BCS (Health), DLO (BSMMU), MNS (Australia), Training Microsurgery (Australia)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "National Hospital, Chittagong\nAddress: 14/15, Dampara Lane, Mehedibag, Chattogram\nVisiting Hour: 10am to 1pm (Closed: Friday)\nAppointment: +8801822685066\nCall Now",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital",
+        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 10.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801819309505"
+      },
+      "id": "93b9d60b-46ca-4154-93d5-9ebf036680a7"
+    },
+    {
+      "name": "Dr. Sukanta Bhattacharyya",
+      "degree": "MBBS, DLO (ENT)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Sukanta Bhattacharyya is a ENT Specialist in Chittagong. His qualification is MBBS, DLO (ENT). He is a Former Consultant, ENT at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Chevron Clinical Laboratory, Chittagong. Practicing hour of Dr. Sukanta Bhattacharyya at Chevron Clinical Laboratory, Chittagong is 11am to 1pm & 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Chittagong",
+        "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "11am to 1pm & 6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801755666969"
+      },
+      "id": "e715d84f-3acd-4ff3-b2ff-e883ef3344aa"
+    },
+    {
+      "name": "Dr. Alamgir Md. Shoab",
+      "degree": "MBBS, BCS (Health), DLO (BSMMU)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Qrex Diagnostic & Consultation Centre, Chittagong\nAddress: Plot # 9/A, Road # 1, Lane # 2, Block # G, Halishahar, Chattogram\nVisiting Hour: 7.30pm to 9.30pm (Sat, Mon & Thu)\nAppointment: +8801828880299\nCall Now",
+      "chamber": {
+        "hospital": "Medical Centre Hospital, Chittagong",
+        "address": "953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram",
+        "visitingTime": "4pm to 7pm (Closed: Wed & Friday)",
+        "appointmentNumber": "+8801783558161"
+      },
+      "id": "e0facbec-8596-422a-bf37-9d770a15678e"
+    },
+    {
+      "name": "Prof. Dr. Md. Abdul Alim",
+      "degree": "MBBS, DLO (ENT)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Prof. Dr. Md. Abdul Alim is a ENT Specialist in Chittagong. His qualification is MBBS, DLO (ENT). He is a Professor, ENT at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Delta Health Care, Chittagong. Practicing hour of Prof. Dr. Md. Abdul Alim at Delta Health Care, Chittagong is 10am to 1pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Delta Health Care, Chittagong",
+        "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
+        "visitingTime": "10am to 1pm (Closed: Friday)",
+        "appointmentNumber": "+8801841906010"
+      },
+      "id": "d52d7ad3-43fb-4b48-bddd-56bd8f618657"
+    },
+    {
+      "name": "Dr. Muhammad Mukit Osman Chowdhury",
+      "degree": "MBBS, BCS (Health), DLO (ENT)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Shajinaz Hospital Ltd.\nAddress: Arefin Nagar, Bayezid Link Road, Bayezid Bostami, Chattogram\nVisiting Hour: 3pm to 5pm (Sunday & Thursday)\nAppointment: +8801886-338811\nCall Now",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital",
+        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801866696575"
+      },
+      "id": "9883f185-ae83-47c7-812e-f30dd88f9aed"
+    },
+    {
+      "name": "Major Dr. Md. Rezaul Karim",
+      "degree": "MBBS, MS (ENT), Diploma in Aviation Medicine (PAK), PhD (RU)",
+      "specialty": "ENT Specialist & Surgeon",
+      "workplace": "Chevron Clinical Laboratory, Chittagong",
+      "info": "Islami Bank Hospital, Chittagong\nAddress: 3, Sheikh Mujib Road, Agrabad, Chittagong\nVisiting Hour: 11am to 1pm (Closed: Friday)\nAppointment: +8801731253990\nCall Now",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Chittagong",
+        "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "3pm to 8.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801755666969"
+      },
+      "id": "d681d543-4d9d-4493-a87b-33f3ae32d422"
+    },
+    {
+      "name": "Dr. Md. Minhajul Haque",
+      "degree": "MBBS, BCS (Health), FCPS (ENT)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Chittagong General Hospital",
+      "info": "Dr. Md. Minhajul Haque is a ENT Specialist in Chittagong. His qualification is MBBS, BCS (Health), FCPS (ENT). He is a Medical Officer, ENT at Chittagong General Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Chittagong. Practicing hour of Dr. Md. Minhajul Haque at Popular Diagnostic Center, Chittagong is 7:30pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Chittagong",
+        "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "7:30pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787810"
+      },
+      "id": "2e91d01a-065c-42a3-a793-c22f4ba41b67"
+    },
+    {
+      "name": "Lt. Col. Dr. Md. Nesar Uddin",
+      "degree": "MBBS (DMC), MCPS (ENT), DLO (Otolaryngology), FCPS (ENT)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Combined Military Hospital, Chittagong",
+      "info": "Lt. Col. Dr. Md. Nesar Uddin is a ENT Specialist in Chittagong. His qualification is MBBS (DMC), MCPS (ENT), DLO (Otolaryngology), FCPS (ENT). He is a Head, Otolaryngology at Combined Military Hospital, Chittagong. He regularly provides treatment to his patients at Shahjalal Diagnostic Clinic, Chittagong. Practicing hour of Lt. Col. Dr. Md. Nesar Uddin at Shahjalal Diagnostic Clinic, Chittagong is 6pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Shahjalal Diagnostic Clinic, Chittagong",
+        "address": "143, Sheikh Mujib Road, Badamtoli, Agrabad, Chattogram",
+        "visitingTime": "6pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801816367351"
+      },
+      "id": "8d595ee4-1ede-4ac5-9600-4de3fa6fbe9d"
+    },
+    {
+      "name": "Dr. Mahmudur Rahman",
+      "degree": "MBBS, DLO (DU)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Mahmudur Rahman is a ENT Specialist in Chittagong. His qualification is MBBS, DLO (DU). He is working as a Ear, Nose, Throat Specialist & Head Neck Surgeon doctor in Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Sensiv Private Limited, Chittagong. Practicing hour of Dr. Mahmudur Rahman at Sensiv Private Limited, Chittagong is 1am to 2pm & 5pm to 7pm (Sat to Thu) & 11am to 12pm (Fri).",
+      "chamber": {
+        "hospital": "Sensiv Private Limited, Chittagong",
+        "address": "14, Jamal Khan Road, Jamal Khan, Chattogram",
+        "visitingTime": "1am to 2pm & 5pm to 7pm (Sat to Thu) & 11am to 12pm (Fri)",
+        "appointmentNumber": "+8801837600115"
+      },
+      "id": "b5f3d31a-86fa-4423-a4d2-5c887f7c9d79"
+    },
+    {
+      "name": "Dr. S.M Tipu Sultan",
+      "degree": "MBBS, BCS (Health), MCPS (ENT), DLO, MS (ENT)",
+      "specialty": "ENT Specialist & Head Neck Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. S.M Tipu Sultan is a ENT Specialist in Chittagong. His qualification is MBBS, BCS (Health), MCPS (ENT), DLO, MS (ENT). He is a Assistant Professor, ENT at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Treatment Hospital, Chittagong. Practicing hour of Dr. S.M Tipu Sultan at Treatment Hospital, Chittagong is 8pm to 9pm (Everyday) & 5pm to 6pm (Sun & Tuesday).",
+      "chamber": {
+        "hospital": "Treatment Hospital, Chittagong",
+        "address": "100, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "8pm to 9pm (Everyday) & 5pm to 6pm (Sun & Tuesday)",
+        "appointmentNumber": "+880312557925"
+      },
+      "id": "2bdc2791-a730-4c68-9559-cd9a4d5b2270"
+    },
+    {
+      "name": "Dr. Syed Muhammed Tipu Sultan",
+      "degree": "MBBS, MCPS, DLO, MS (ENT)",
+      "specialty": "Ear, Nose, Throat, Thyroid, Head Neck Specialist Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Chevron Clinical Laboratory (EPZ Branch)\nAddress: Barrister Sultan College, Near EPZ, Chattogram\nVisiting Hour: 8.30pm to 9.30pm (Sun & Tue), 10am to 11.55am (Friday)\nAppointment: +88016802-23993\nCall Now",
+      "chamber": {
+        "hospital": "Treatment Centre",
+        "address": "100 (1st Floor), Panchlaish R/A, Chittagong",
+        "visitingTime": "8pm to 9pm (Sat, Mon, Wed & Thu)",
+        "appointmentNumber": "+8801914005082"
+      },
+      "id": "104f8c93-f3bc-4928-b0e3-b512315891d2"
+    },
+    {
+      "name": "Dr. Mohammad Abul Bashar",
+      "degree": "MBBS, BCS (Health), DLO (BSMMU), CCD (BIRDEM)",
+      "specialty": "ENT Specialist & Head Neck Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Islami Bank Hospital, Chittagong\nAddress: 3, Sheikh Mujib Road, Agrabad, Chittagong\nVisiting Hour: 6.30pm to 8.30pm (Closed: Sunday & Friday)\nAppointment: +8801731253990\nCall Now",
+      "chamber": {
+        "hospital": "National Hospital, Chittagong",
+        "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
+        "visitingTime": "5pm to 9pm (Sun, Tue, Wed, Thu)",
+        "appointmentNumber": "+8801822685066"
+      },
+      "id": "284a2cca-586e-4d40-b329-e791ada00061"
+    },
+    {
+      "name": "Dr. Sumon Talukder",
+      "degree": "MBBS, DLO (ENT)",
+      "specialty": "ENT Specialist & Head Neck Surgeon",
+      "workplace": "Society for Assistance to Hearing Impaired Children",
+      "info": "Surgiscope Hospital, Chittagong\nAddress: Unit 2, 53/1, Panchlaish, Chattogram – 4203\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8801711208859\nCall Now",
+      "chamber": {
+        "hospital": "Max Hospital & Diagnostic, Chittagong",
+        "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801713998199"
+      },
+      "id": "1c5b921f-b2df-425d-950f-15c6f4885960"
+    },
+    {
+      "name": "Dr. Ratan Bikas Rudra",
+      "degree": "MBBS, BCS (Health), MCPS (ENT), DLO (DU)",
+      "specialty": "ENT Specialist & Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Ratan Bikas Rudra is a ENT Specialist in Chittagong. His qualification is MBBS, BCS (Health), MCPS (ENT), DLO (DU). He is a Senior Consultant, ENT at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Chevron Clinical Laboratory, Chittagong. Practicing hour of Dr. Ratan Bikas Rudra at Chevron Clinical Laboratory, Chittagong is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Chittagong",
+        "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801755666969"
+      },
+      "id": "c76c0a33-21e8-4f9a-a3c6-c0eb39f35168"
+    },
+    {
+      "name": "Dr. Mohammad Shahidul Alam",
+      "degree": "MBBS, MCPS (ENT), DLO, FCPS (ENT)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Mohammad Shahidul Alam is a ENT Specialist in Chittagong. His qualification is MBBS, MCPS (ENT), DLO, FCPS (ENT). He is a Consultant, ENT at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Chattogram Metropolitan Hospital. Practicing hour of Dr. Mohammad Shahidul Alam at Chattogram Metropolitan Hospital is 6pm to 9pm (Closed: Friday & Saturday).",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital",
+        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday & Saturday)",
+        "appointmentNumber": "+8801810030999"
+      },
+      "id": "947aed8b-683b-4554-a662-615028002639"
+    },
+    {
+      "name": "Dr. Md. Kamal Uddin",
+      "degree": "MBBS, DLO (ENT)",
+      "specialty": "Ear, Nose, Throat Specialist & Surgeon",
+      "workplace": "Bangabandhu Memorial Hospital, USTC, Chittagong",
+      "info": "Dr. Md. Kamal Uddin is a ENT Specialist in Chittagong. His qualification is MBBS, DLO (ENT). He is a Assistant Professor, ENT at Bangabandhu Memorial Hospital, USTC, Chittagong. He regularly provides treatment to his patients at Chattogram Metropolitan Hospital. Practicing hour of Dr. Md. Kamal Uddin at Chattogram Metropolitan Hospital is 6pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital",
+        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801883340704"
+      },
+      "id": "c20fff55-d6a9-45ea-8983-5159e0f834bf"
+    },
+    {
+      "name": "Dr. Nurul Karim Chowdhury",
+      "degree": "MBBS, FCPS (ENT), Fellowship in Endoscopic Sinus Surgery (India)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Nurul Karim Chowdhury is a ENT Specialist in Chittagong. His qualification is MBBS, FCPS (ENT), Fellowship in Endoscopic Sinus Surgery (India). He is a Assistant Professor, ENT at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at National Hospital, Chittagong. Practicing hour of Dr. Nurul Karim Chowdhury at National Hospital, Chittagong is 5pm to 6pm (Sat, Sun, Tue, Wed).",
+      "chamber": {
+        "hospital": "National Hospital, Chittagong",
+        "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
+        "visitingTime": "5pm to 6pm (Sat, Sun, Tue, Wed)",
+        "appointmentNumber": "+8801822685066"
+      },
+      "id": "3ef61453-8afe-48d3-b56a-447ed5531586"
+    },
+    {
+      "name": "Prof. Dr. Ahmed Sharif",
+      "degree": "MBBS, MS (ENT)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Ibn Sina Diagnostic Center, Chittagong\nAddress: House # 12/A, Road # 02, Katalgonj, Panchlaish, Chattogram\nVisiting Hour: 7pm to 9pm (Saturday to Tuesday)\nAppointment: +8801886610115\nCall Now",
+      "chamber": {
+        "hospital": "National Hospital, Chittagong",
+        "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
+        "visitingTime": "3pm to 5pm (Saturday to Tuesday)",
+        "appointmentNumber": "+8801863265857"
+      },
+      "id": "103feb3c-4380-43a4-807b-60f62034594c"
+    },
+    {
+      "name": "Dr. Dhananjay Majumder",
+      "degree": "MBBS, DLO (ENT)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Southern Medical College & Hospital",
+      "info": "Popular Diagnostic Center, ChittagongAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, ChattogramVisiting Hour: 6:30pm to 9pm (Closed: Monday & Friday)Appointment: +8809666787810Call Now",
+      "chamber": {
+        "hospital": "Holy Health Hospital, Chittagong",
+        "address": "107, Opposite Chittagong Medical College Gate, Palclaish, Chattogram",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801812605505"
+      },
+      "id": "ca09091c-2a82-46fe-8611-9d413eb779c0"
+    },
+    {
+      "name": "Dr. Himon Barua",
+      "degree": "MBBS, DLO",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "BGC Trust Medical College, Chittagong",
+      "info": "Dr. Himon Barua is a ENT Specialist in Chittagong. His qualification is MBBS, DLO. He is a Assistant Professor, ENT at BGC Trust Medical College, Chittagong. He regularly provides treatment to his patients at Diasonic Limited. Practicing hour of Dr. Himon Barua at Diasonic Limited is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Diasonic Limited",
+        "address": "Minhaz Complex (2nd Floor), 12, Jamal Khan Road, Chittagong",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801823553244"
+      },
+      "id": "2c769458-7ae6-43a6-8763-b71d5f7ad56a"
+    },
+    {
+      "name": "Dr. Ratan Chowdhury",
+      "degree": "MBBS, MCPS (ENT)",
+      "specialty": "ENT Specialist & Head Neck Surgeon",
+      "workplace": "Bangabandhu Memorial Hospital, Chittagong",
+      "info": "Dr. Ratan Chowdhury is a ENT Specialist in Chittagong. His qualification is MBBS, MCPS (ENT). He is a Consultant, ENT at Bangabandhu Memorial Hospital, Chittagong. He regularly provides treatment to his patients at Max Hospital & Diagnostic, Chittagong. Practicing hour of Dr. Ratan Chowdhury at Max Hospital & Diagnostic, Chittagong is 11am to 2pm & 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Max Hospital & Diagnostic, Chittagong",
+        "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+        "visitingTime": "11am to 2pm & 6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801713998199"
+      },
+      "id": "1461f184-6e68-4e22-92c0-b19c3ac3b2a3"
+    },
+    {
+      "name": "Dr. Masudul Islam",
+      "degree": "MBBS, DLO (ENT)",
+      "specialty": "ENT Specialist & Head Neck Surgeon",
+      "workplace": "Chattogram International Medical College & Hospital",
+      "info": "Dr. Masudul Islam is a ENT Specialist in Chittagong. His qualification is MBBS, DLO (ENT). He is working as a ENT Specialist & Head Neck Surgeon doctor in Chattogram International Medical College & Hospital. He regularly provides treatment to his patients at Chevron Clinical Laboratory, Halishahar. Practicing hour of Dr. Masudul Islam at Chevron Clinical Laboratory, Halishahar is 7.30pm to 9pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Halishahar",
+        "address": "993/2121, Agrabad Access Road, Halishahar, Chattogram",
+        "visitingTime": "7.30pm to 9pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801701229090"
+      },
+      "id": "76821ab7-b45f-4226-9826-4d0b96359947"
+    },
+    {
+      "name": "Dr. Md. Shoaib Hossain",
+      "degree": "MBBS, DLO (BSMMU)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Marine City Medical College & Hospital",
+      "info": "Shajinaz Hospital Ltd.\nAddress: Arefin Nagar, Bayezid Link Road, Bayezid Bostami, Chattogram\nVisiting Hour: 1.30pm to 3.30 (Sun, Tue & Thu), 5pm to 7pm (Sat, Mon)\nAppointment: +8801886-338811\nCall Now",
+      "chamber": {
+        "hospital": "Qrex Diagnostic & Consultation Centre, Chittagong",
+        "address": "Plot # 9/A, Road # 1, Lane # 2, Block # G, Halishahar, Chattogram",
+        "visitingTime": "7pm to 8.30pm (Sun, Tue & Wed)",
+        "appointmentNumber": "+8801828880299"
+      },
+      "id": "c4f83cb3-7be9-47c5-b3aa-be9f65f9226c"
+    },
+    {
+      "name": "Dr. Nasir Uddin",
+      "degree": "MBBS, BCS (Health), FCPS (ENT)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Bandarban Sadar Hospital",
+      "info": "Dr. Nasir Uddin is a ENT Specialist in Chittagong. His qualification is MBBS, BCS (Health), FCPS (ENT). He is a Consultant, ENT at Bandarban Sadar Hospital. He regularly provides treatment to his patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Nasir Uddin at Parkview Hospital, Chittagong is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801763420909"
+      },
+      "id": "b9d652f7-44e5-4b2f-a525-b34a45aa269c"
+    },
+    {
+      "name": "Dr. Rasel Chakma",
+      "degree": "MBBS, BCS (Health), MS (ENT), BSMMU",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Rasel Chakma is a ENT Specialist in Chittagong. His qualification is MBBS, BCS (Health), MS (ENT), BSMMU. He is a ENT Specialist & Head Neck Surgeon, ENT at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Max Hospital & Diagnostic, Chittagong. Practicing hour of Dr. Rasel Chakma at Max Hospital & Diagnostic, Chittagong is 7pm to 10pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Max Hospital & Diagnostic, Chittagong",
+        "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801718216858"
+      },
+      "id": "bd4a1d5e-e30e-4dbd-ba33-efc8f7f50ace"
+    },
+    {
+      "name": "Dr. Mohammad Emran",
+      "degree": "MBBS, BCS (Health), DLO (BSMMU)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Mohammad Emran is a ENT Specialist in Chittagong. His qualification is MBBS, BCS (Health), DLO (BSMMU). He is a Consultant, ENT at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Surgiscope Hospital, Chittagong. Practicing hour of Dr. Mohammad Emran at Surgiscope Hospital, Chittagong is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Surgiscope Hospital, Chittagong",
+        "address": "Unit 2, 53/1, Panchlaish, Chattogram – 4203",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801881667776"
+      },
+      "id": "05d50237-90cb-42b4-b96e-009ff3f4074a"
+    },
+    {
+      "name": "Dr. Mohammad Jalal Uddin",
+      "degree": "MBBS, DLO (DU), MRCS (ENT, UK)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "King Fahad Hospital, KSA",
+      "info": "Dr. Mohammad Jalal Uddin is a ENT Specialist in Chittagong. His qualification is MBBS, DLO (DU), MRCS (ENT, UK). He is a Former Consultant, ENT at King Fahad Hospital, KSA. He regularly provides treatment to his patients at Max Hospital & Diagnostic, Chittagong. Practicing hour of Dr. Mohammad Jalal Uddin at Max Hospital & Diagnostic, Chittagong is 7pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Max Hospital & Diagnostic, Chittagong",
+        "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801713998199"
+      },
+      "id": "6eca8129-31e1-49f6-84b3-f03d9aec75c6"
+    },
+    {
+      "name": "Dr. Rajed Al Hasan",
+      "degree": "MBBS, BCS (Health), MS (ENT), BSMMU",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Rajed Al Hasan is a ENT Specialist in Chittagong. His qualification is MBBS, BCS (Health), MS (ENT), BSMMU. He works at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Belle Vue Hospital, Chittagong. Practicing hour of Dr. Rajed Al Hasan at Belle Vue Hospital, Chittagong is 5pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Belle Vue Hospital, Chittagong",
+        "address": "Room 305, Prabartak Hill, 12/12, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+88 01626266382"
+      },
+      "id": "631a663c-c8b0-4364-af3f-4d77a59736bc"
+    },
+    {
+      "name": "Major Dr. Faisal Bin Mohsin",
+      "degree": "MBBS, MCPS, DLO, FCPS (ENT)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Bangladesh Navy Hospital, Chittagong",
+      "info": "Major Dr. Faisal Bin Mohsin is a ENT Specialist in Chittagong. His qualification is MBBS, MCPS, DLO, FCPS (ENT). He is a Consultant, ENT at Bangladesh Navy Hospital, Chittagong. He regularly provides treatment to his patients at Islami Bank Hospital, Chittagong. Practicing hour of Major Dr. Faisal Bin Mohsin at Islami Bank Hospital, Chittagong is 6pm to 8pm (Closed: Friday & Saturday).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Chittagong",
+        "address": "3, Sheikh Mujib Road, Agrabad, Chittagong",
+        "visitingTime": "6pm to 8pm (Closed: Friday & Saturday)",
+        "appointmentNumber": "+8801731253990"
+      },
+      "id": "89bd7450-50f9-4b53-9393-4327f045e2e4"
+    },
+    {
+      "name": "Dr. Mamun Ibn Amin",
+      "degree": "MBBS, DLO (ENT)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "General Hospital, Chittagong",
+      "info": "Dr. Mamun Ibn Amin is a ENT Specialist in Chittagong. His qualification is MBBS, DLO (ENT). He is a Consultant, ENT at General Hospital, Chittagong. He regularly provides treatment to his patients at Delta Health Care, Chittagong. Practicing hour of Dr. Mamun Ibn Amin at Delta Health Care, Chittagong is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Delta Health Care, Chittagong",
+        "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801841906010"
+      },
+      "id": "29878469-92aa-4bbf-b9d8-ca25935210b2"
+    },
+    {
+      "name": "Dr. Mir Wazed Ali",
+      "degree": "MBBS, DLO",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Dr. Mir Wazed Ali is a ENT Specialist in Chittagong. His qualification is MBBS, DLO. He is a Senior Consultant (ENT) at Chattogram Maa-O-Shishu Hospital Medical College. He regularly provides treatment to his patients at Asperia Treatment Health Care, Chittagong. Practicing hour of Dr. Mir Wazed Ali at Asperia Treatment Health Care, Chittagong is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Asperia Treatment Health Care, Chittagong",
+        "address": "1st Floor, 100, Panchlaish, (opposite to Probortok School), Chittagong",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801323337344"
+      },
+      "id": "e2bcc504-da5b-4e12-ad0c-74da39b9eed7"
+    },
+    {
+      "name": "Dr. Mrityunjay Barua",
+      "degree": "MBBS, BCS (Health), DLO (BSMMU)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Mrityunjay Barua is a ENT Specialist in Chittagong. His qualification is MBBS, BCS (Health), DLO (BSMMU). He is a Consultant (ENT) at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Lab Seven Health Care, Chittagong. Practicing hour of Dr. Mrityunjay Barua at Lab Seven Health Care, Chittagong is 6.30pm to 8pm (Sat, Mon, Tue & Wed).",
+      "chamber": {
+        "hospital": "Lab Seven Health Care, Chittagong",
+        "address": "102 (2nd Floor), O.R Nizam Road, Panchlaish, Chittagong",
+        "visitingTime": "6.30pm to 8pm (Sat, Mon, Tue & Wed)",
+        "appointmentNumber": "+8801814949292"
+      },
+      "id": "d7694013-3141-44f7-bd7a-1f097fa234f0"
+    }
+  ]
+}

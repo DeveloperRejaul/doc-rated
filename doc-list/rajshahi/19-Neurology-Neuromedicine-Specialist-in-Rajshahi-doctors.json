@@ -1,0 +1,200 @@
+{
+  "doctor": [
+    {
+      "name": "Prof. Dr. Md. Kafil Uddin",
+      "degree": "MBBS, MCPS (Medicine), MD (Neurology)",
+      "specialty": "Brain, Stroke, Nerve, Medicine & Neuromedicine Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Prof. Dr. Md. Kafil Uddin is a Neurologist in Rajshahi. His qualification is MBBS, MCPS (Medicine), MD (Neurology). He is a Professor & Head, Neuromedicine at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Prof. Dr. Md. Kafil Uddin at Popular Diagnostic Center, Rajshahi is 5pm to 11pm (Sat, Sun & Thu), 10pm to 11pm (Mon, Tue & Wed).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "5pm to 11pm (Sat, Sun & Thu), 10pm to 11pm (Mon, Tue & Wed)",
+        "appointmentNumber": "+8809666787811"
+      },
+      "id": "c33e8b59-94a9-4db6-8fbe-2d9eed37371f"
+    },
+    {
+      "name": "Dr. Md. Munzur Elahi",
+      "degree": "MBBS, MD (Neurology)",
+      "specialty": "Neuromedicine (Brain, Nerve, Spine, Headache, Backpain) Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Islami Bank Hospital, Rajshahi\nAddress: Medical Mor, Laxmipur, Rajshahi – 6000\nVisiting Hour: 3pm to 6pm (Closed: Friday)\nAppointment: +8801777242536\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "8pm to 10pm (Sat, Sun & Mon), 4:30pm to 7pm (Tue & Wed)",
+        "appointmentNumber": "+8809666787811"
+      },
+      "id": "9553736e-93fa-41d7-a7c8-b74505cf67d4"
+    },
+    {
+      "name": "Prof. Dr. Pijush Kumar Kundu",
+      "degree": "MBBS, MD (Neuromedicine)",
+      "specialty": "Neuromedicine (Brain, Nerve, Spine, Headache, Backpain) Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Prof. Dr. Pijush Kumar Kundu is a Neuromedicine Specialist in Rajshahi. His qualification is MBBS, MD (Neuromedicine). He is a Professor, Neuromedicine at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Prof. Dr. Pijush Kumar Kundu at Popular Diagnostic Center, Rajshahi is 6pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "6pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787811"
+      },
+      "id": "7e4263b1-af43-4718-b29f-ca1845162f75"
+    },
+    {
+      "name": "Dr. Md. Pervez Amin",
+      "degree": "MBBS, MD (Neurology)",
+      "specialty": "Neurology (Brain, Stroke, Nerve, Paralysis, Headache) Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Popular Diagnostic Center, DhanmondiAddress: House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205Visiting Hour: 5pm to 7pm (Friday)Appointment: +8809666787801Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "5:30pm to 10pm (Friday: 10am to 1pm)",
+        "appointmentNumber": "+8809666787811"
+      },
+      "id": "14970cb7-1194-4f6a-8940-912dba06bd41"
+    },
+    {
+      "name": "Dr. Reza Nasim Ahmed Roni",
+      "degree": "MBBS, BCS (Health), MD (Neuromedicine), MACP (USA), FRSM (UK)",
+      "specialty": "Neuromedicine Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Popular Diagnostic Center, RajshahiAddress: House # 474, Chowdhury Tower, Laxmipur, RajshahiVisiting Hour: 5pm to 9pm (Closed: Friday)Appointment: +8809666787811Call Now",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Rajshahi",
+        "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
+        "visitingTime": "2.30pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801777242536"
+      },
+      "id": "9c1b28c4-d6fe-4fb3-bf3c-ba982f8eb38e"
+    },
+    {
+      "name": "Dr. Mukul Kumar Sarkar",
+      "degree": "MBBS, BCS (Health), MD (Neurology)",
+      "specialty": "Neurology (Brain, Stroke, Paralysis, Headache, Nerve, Spine) Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Mukul Kumar Sarkar is a Neurologist in Rajshahi. His qualification is MBBS, BCS (Health), MD (Neurology). He is a Assistant Professor, Neurology Department at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Mukul Kumar Sarkar at Popular Diagnostic Center, Rajshahi is 3pm to 9pm (Everyday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "3pm to 9pm (Everyday)",
+        "appointmentNumber": "+8809666787811"
+      },
+      "id": "c995caf8-32e2-4783-ac10-29e106d52ae1"
+    },
+    {
+      "name": "Dr. S. M. Imdadul Haque",
+      "degree": "MBBS, MD (Neurology)",
+      "specialty": "Neurology (Brain, Nerve, Spine, Headache, Migraine) Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. S. M. Imdadul Haque is a Neurologist in Rajshahi. His qualification is MBBS, MD (Neurology). He is a Assistant Professor, Neurology at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Zamzam Islami Hospital, Rajshahi. Practicing hour of Dr. S. M. Imdadul Haque at Zamzam Islami Hospital, Rajshahi is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Zamzam Islami Hospital, Rajshahi",
+        "address": "Greater Road, Kazihata, Laxmipur, Rajshahi",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801711192600"
+      },
+      "id": "d4681f0b-6dcf-4bb9-8ce6-d3b9e78e310b"
+    },
+    {
+      "name": "Dr. M. Ahmed Ali",
+      "degree": "MBBS, MD (Neuromedicine)",
+      "specialty": "Neuromedicine Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. M. Ahmed Ali is a Neuromedicine Specialist in Rajshahi. His qualification is MBBS, MD (Neuromedicine). He is working as a Neuromedicine Specialist doctor in Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. M. Ahmed Ali at Popular Diagnostic Center, Rajshahi is 5pm to 9:30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "5pm to 9:30pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787811"
+      },
+      "id": "a8c889d1-24ac-407b-b1c4-5656f72a056d"
+    },
+    {
+      "name": "Dr. ABM Mahbubul Haque (Limon)",
+      "degree": "MBBS, BCS (Health), MD (Neuromedicine)",
+      "specialty": "Neuromedicine (Brain, Nerve, Spine, Headache, Backpain) Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. ABM Mahbubul Haque (Limon) is a Neuromedicine Specialist in Rajshahi. His qualification is MBBS, BCS (Health), MD (Neuromedicine). He is a Assistant Professor, Neurology at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. ABM Mahbubul Haque (Limon) at Popular Diagnostic Center, Rajshahi is 3:30pm to 9pm (Sat to Thu), 10am to 12pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "3:30pm to 9pm (Sat to Thu), 10am to 12pm (Friday)",
+        "appointmentNumber": "+8809666787811"
+      },
+      "id": "a95af0de-24e2-4f41-8bf2-65bc92505591"
+    },
+    {
+      "name": "Dr. Raseul Kabir Palash",
+      "degree": "MBBS, MD (Neuromedicine), FCPS (Medicine)",
+      "specialty": "Neuromedicine Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Popular Diagnostic Center, RajshahiAddress: House # 474, Chowdhury Tower, Laxmipur, RajshahiVisiting Hour: 4pm to 8pm (Closed: Friday)Appointment: +8809666787811Call Now",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Rajshahi",
+        "address": "House # 621, Shershah Road, Rajpara, Laxmipur, Rajshahi - 6000",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801766661144"
+      },
+      "id": "7ec78e53-238a-411b-baf9-ccaf1a6d082e"
+    },
+    {
+      "name": "Dr. Muhtarima Tabassum Nipu",
+      "degree": "MBBS, BCS (Health), MD (Neuromedicine)",
+      "specialty": "Neuromedicine Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Muhtarima Tabassum Nipu is a Neuromedicine Specialist in Rajshahi. Her qualification is MBBS, BCS (Health), MD (Neuromedicine). She is working as a Neuromedicine Specialist doctor in Rajshahi Medical College & Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Muhtarima Tabassum Nipu at Popular Diagnostic Center, Rajshahi is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787811"
+      },
+      "id": "6dc732fd-76b5-471d-9816-8747510bcdbc"
+    },
+    {
+      "name": "Dr. Achinta Kumar Mallick",
+      "degree": "MBBS, BCS (Health), MD (Neuromedicine)",
+      "specialty": "Neuromedicine Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Achinta Kumar Mallick is a Neuromedicine Specialist in Rajshahi. His qualification is MBBS, BCS (Health), MD (Neuromedicine). He is working as a Neuromedicine Specialist doctor in Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Medipath Diagnostic Complex, Rajshahi. Practicing hour of Dr. Achinta Kumar Mallick at Medipath Diagnostic Complex, Rajshahi is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Medipath Diagnostic Complex, Rajshahi",
+        "address": "Shuvecca View, Greater Road, Laxmipur, Kajihata, Rajshahi",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801712685297"
+      },
+      "id": "26c6ce37-b85e-43a2-9b27-a1240decdb34"
+    },
+    {
+      "name": "Dr. Prosad Kumar Sarker",
+      "degree": "MBBS, BCS (Health), MD (Neurology)",
+      "specialty": "Neurology (Brain, Nerve, Stroke, Migraine, Headache) Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Prosad Kumar Sarker is a Neurologist in Rajshahi. His qualification is MBBS, BCS (Health), MD (Neurology). He is a Assistant Professor (Neurology) at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Prosad Kumar Sarker at Popular Diagnostic Center, Rajshahi is 4pm to 9pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "4pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809666787811"
+      },
+      "id": "0b72f751-ffc2-4c6f-b5a6-a8db7a739ecb"
+    },
+    {
+      "name": "Dr. Md. Edrish Ali Akand",
+      "degree": "MBBS, BCS (Health), MD (Neurology)",
+      "specialty": "Neurology (Brain, Nerve, Spine, Stroke, Migraine, Headache) Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Md. Edrish Ali Akand is a Neurologist in Rajshahi. His qualification is MBBS, BCS (Health), MD (Neurology). He is a Consultant (Neurology) at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Md. Edrish Ali Akand at Popular Diagnostic Center, Rajshahi is 3.30pm to 10pm (Sat, Tue, Wed & Thu).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "3.30pm to 10pm (Sat, Tue, Wed & Thu)",
+        "appointmentNumber": "+8809666787811"
+      },
+      "id": "dccaa48b-77c6-444c-8577-c8bd360c21ab"
+    }
+  ]
+}

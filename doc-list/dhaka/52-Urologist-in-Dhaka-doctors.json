@@ -1,0 +1,1390 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Ahmed Sharif",
+      "degree": "MBBS, MS (Urology), FACS (USA)",
+      "specialty": "Urology, Andrology, Kidney Tumor, Stone Surgery, Prostate Gland Diseases Specialist",
+      "workplace": "Holy Family Red Crescent Medical College & Hospital",
+      "info": "Prescription Point, Banani\nAddress: House – 105, Road – 12, Block – E, Banani, Dhaka\nVisiting Hour: 4pm to 6pm (Sat, Mon & Wed)\nAppointment: +8801713333233\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mirpur",
+        "address": "Unit 02, House # 02, Block # A, Section # 10, Mirpur, Dhaka",
+        "visitingTime": "7pm to 9pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809666787807"
+      },
+      "id": "e016748e-7de0-4fa7-8991-a10e2a45f3d7"
+    },
+    {
+      "name": "Dr. Shahriar Md. Kabir Hasan",
+      "degree": "MBBS, BCS (Health), MS (Urology)",
+      "specialty": "Kidney, Ureter, Bladder, Prostate, Male Genitalia, Male Infertility, Sexual Disease SpecialistEndoscopic & Laparoscopic Surgeon",
+      "workplace": "National Institute of Kidney Diseases & Urology",
+      "info": "DKMC Hospital, Narayanganj\nAddress: Bhai Bhai Complex, Bhulta, Rupganj, Narayanganj\nVisiting Hour: 4pm to 7pm (Sun, Wed & Thu)\nAppointment: +8801971600112\nCall Now",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Gulshan",
+        "address": "House # 13/A, Road # 35, Gulshan 2, Dhaka",
+        "visitingTime": "5pm to 7pm (Sat, Mon & Tue)",
+        "appointmentNumber": "+8801766662525"
+      },
+      "id": "71c5e3f8-ff22-442f-8092-6d4afa8815b4"
+    },
+    {
+      "name": "Dr. Md. Abdullah Al Mamun",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urology (Kidneys, Ureters, Prostate, Bladder) Specialist & Surgeon",
+      "workplace": "Jahurul Islam Medical College & Hospital",
+      "info": "New Peacy Lab Ltd, Mirpur\nAddress: Apex Bhaban (3rd Floor), 2-A/1, Darus Salam Road, Mirpur-1, Dhaka\nVisiting Hour: 7.30pm to 9.00pm (Mon, Tue & Wednesday)\nAppointment: +8801887-020029\nCall Now",
+      "chamber": {
+        "hospital": "Insaf Barakah Kidney & General Hospital",
+        "address": "11, Shaheed Tajuddin Ahmed Sarani, Mogbazar, Dhaka",
+        "visitingTime": "3pm to 5pm (Tuesday and Wednesday)",
+        "appointmentNumber": "+8801812-396536"
+      },
+      "id": "b9712486-93a5-4492-9bec-66df9704f1c4"
+    },
+    {
+      "name": "Prof. Dr. Md. Merajul Islam (Miraj)",
+      "degree": "MBBS, MCPS (Surgery), MS (Urology), FACS (USA)",
+      "specialty": "Urology (Kidney, Ureter, Bladder, Prostate) Specialist & Surgeon",
+      "workplace": "Shahabuddin Medical College Hospital",
+      "info": "Prof. Dr. Md. Merajul Islam (Miraj) is a leading urology (kidney, ureter, bladder, prostate) specialist and surgeon in Dhaka, holding qualifications of MBBS, MCPS (Surgery), MS (Urology), and FACS (USA). He specializes in the diagnosis and surgical management of conditions like kidney stones, prostate enlargement, urinary tract infections, ureteric stones, bladder tumors, male infertility, and urinary incontinence. Dr. Merajul Islam currently serves as Professor and Head of the Urology Department at Shahabuddin Medical College Hospital. He sees patients at Medinova Medical Services, Malibagh (Gemcon Business Tower, 255 New Circular Road, Dhaka) with visiting hours from 8pm to 10pm on Saturday, Sunday, Tuesday, and Wednesday.",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Malibagh",
+        "address": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
+        "visitingTime": "8pm to 10pm (Sat, Sun, Tue & Wed)",
+        "appointmentNumber": "+8801716410062"
+      },
+      "id": "178b908f-5667-431e-bdcc-d54cff37dc0b"
+    },
+    {
+      "name": "Dr. Muhammad Mahmud Alam",
+      "degree": "MBBS, BCS (Health), MS (Urology), FACS (USA)",
+      "specialty": "Urology (Urinary Bladder, Prostate, Kidney, Kidney Stone & Sex Organ) Specialist & Surgeon",
+      "workplace": "Mugda Medical College & Hospital",
+      "info": "Dr. Muhammad Mahmud Alam is a Urologist in Dhaka. His qualification is MBBS, BCS (Health), MS (Urology), FACS (USA). He is a Assistant Professor, Urology Department at Mugda Medical College & Hospital. He regularly provides treatment to his patients at Medinova Medical Services, Malibagh. Practicing hour of Dr. Muhammad Mahmud Alam at Medinova Medical Services, Malibagh is 2.30pm to 5.30pm (Sun, Tue & Thu).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Malibagh",
+        "address": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
+        "visitingTime": "2.30pm to 5.30pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801716410062, +8801790118855"
+      },
+      "id": "0cb79394-91d4-4ea9-8ba0-b02ed6b7a3c6"
+    },
+    {
+      "name": "Prof. Dr. Md. Kamrul Islam",
+      "degree": "MBBS, FCPS (Surgery), MS (Urology), FRCS (UK)",
+      "specialty": "Kidney Transplant Surgeon & Urologist",
+      "workplace": "Centre for Kidney Diseases and Urology Hospital",
+      "info": "Dr. Kamrul Islam is a Kidney transplant surgeon and urologist who won the Independence Award in 2022 for his contribution. He has been performing kidney transplants free of cost for the last decade, along with providing his patients follow-up services. After retiring as an assistant professor of the National Institute of Kidney Diseases and Urology in 2011, Dr. Kamrul Islam took personal initiative to establish CKD & Urology Hospital. The institution has now become a place of trust and affection for kidney patients across the country. Kidney transplant procedures here are carried out at the small cost of two lakh and ten thousand takas only. Dr. Kamrul Islam charges no money for this complicated procedure. They even provide follow-up care free of charge for patients for several months after the procedure. Professor Dr. Kamrul and his team have transplanted almost one thousand kidneys so far, with a success rate of 96 percent.",
+      "chamber": {
+        "hospital": "Center for Kidney Disease & Urology Hospital",
+        "address": "House No # 32, Road No # 03, Shyamoli, Dhaka - 1207",
+        "visitingTime": "2pm to 9pm (Sat, Sun, Mon & Wed) & 2pm to 4.30pm (Tue, Thu & Fri)",
+        "appointmentNumber": "+8801777685821"
+      },
+      "id": "09a0d5a4-f5de-49cc-b3ac-f2d02d12fc07"
+    },
+    {
+      "name": "Prof. Dr. M. A. Salam",
+      "degree": "MBBS, FCPS, FICS (USA), WHO Fellow (UK)",
+      "specialty": "Urology & Andrology Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. M. A. Salam is a Urologist in Dhaka. His qualification is MBBS, FCPS, FICS (USA), WHO Fellow (UK). He is a Former Chairman & Professor, Uro-Oncology at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Comfort Diagnostic Center, Dhanmondi. Practicing hour of Prof. Dr. M. A. Salam at Comfort Diagnostic Center, Dhanmondi is 7pm to 9pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Comfort Diagnostic Center, Dhanmondi",
+        "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "7pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801731956033"
+      },
+      "id": "aa0307d9-065e-4297-9499-264d72fc9f56"
+    },
+    {
+      "name": "Prof. Dr. ATM Mowladad Chowdhury",
+      "degree": "MBBS, MS (Urology), FCPS (Surgery), MRCS (Edinburgh), MRCPS (Glasgow)",
+      "specialty": "Urology Specialist & Surgeon",
+      "workplace": "Birdem General Hospital & Ibrahim Medical College",
+      "info": "Prof. Dr. ATM Mowladad Chowdhury is a Urologist in Dhaka. His qualification is MBBS, MS (Urology), FCPS (Surgery), MRCS (Edinburgh), MRCPS (Glasgow). He is a Former Professor, Urology at Birdem General Hospital & Ibrahim Medical College. He regularly provides treatment to his patients at Evercare Hospital, Dhaka. Practicing hour of Prof. Dr. ATM Mowladad Chowdhury at Evercare Hospital, Dhaka is 9am to 5pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Evercare Hospital, Dhaka",
+        "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
+        "visitingTime": "9am to 5pm (Closed: Friday)",
+        "appointmentNumber": "10678"
+      },
+      "id": "8806e6ed-c576-4246-9e97-84083390fe6b"
+    },
+    {
+      "name": "Prof. Dr. Mizanur Rahman",
+      "degree": "MBBS, FCPS (Surgery), MS (Urology)",
+      "specialty": "Kidneys, Bladder, Ureters, Prostate, Male Sex Specialist & Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Bangladesh Specialized Hospital\nAddress: 21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8809666700100\nCall Now",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Dhanmondi",
+        "address": "House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka",
+        "visitingTime": "6pm to 9.30pm (Closed: Tue & Friday)",
+        "appointmentNumber": "10658"
+      },
+      "id": "4555cd8d-0513-48c4-a9c2-7c82415d2a80"
+    },
+    {
+      "name": "Prof. Dr. A.Z.M. Zahid Hossain",
+      "degree": "MBBS, FCPS (Surgery), MS (Urology), FCPS (Urology), FRCP (EDIN)",
+      "specialty": "Urology Specialist & Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Islami Bank Central Hospital, Kakrail\nAddress: 30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000\nVisiting Hour: 3pm to 5pm (Closed: Friday)\nAppointment: +8801810000116\nCall Now",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Dhanmondi",
+        "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "9pm to 11pm (Closed: Friday)",
+        "appointmentNumber": "10606"
+      },
+      "id": "edd18d7e-aa4b-41f4-8f3b-0e96fbcaae48"
+    },
+    {
+      "name": "Prof. Dr. M. Fakhrul Islam",
+      "degree": "MBBS, PhD (Surgery), MS (Urology)",
+      "specialty": "Urology (Kidney, Prostate, Bladder) Specialist & Surgeon",
+      "workplace": "Bangladesh Medical College & Hospital",
+      "info": "Prof. Dr. M. Fakhrul Islam is a Urologist in Dhaka. His qualification is MBBS, PhD (Surgery), MS (Urology). He is a Professor & Head, Urology at Bangladesh Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Dhanmondi. Practicing hour of Prof. Dr. M. Fakhrul Islam at Ibn Sina Diagnostic Center, Dhanmondi is 7pm to 10pm (Sun, Tue & Thu).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
+        "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+        "visitingTime": "7pm to 10pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8809610010615"
+      },
+      "id": "dda145ee-b6c8-4b4b-9703-46eab4e6d30c"
+    },
+    {
+      "name": "Prof. Dr. Sohrab Hossain Shourav",
+      "degree": "MBBS, MS (Urology), Fellow (WHO)",
+      "specialty": "Urology Specialist & Kidney Stone Surgeon",
+      "workplace": "Dhaka Central International Medical College & Hospital",
+      "info": "Labaid Diagnostic, Rajshahi\nAddress: House # 621, Shershah Road, Rajpara, Laxmipur, Rajshahi – 6000\nVisiting Hour: 10am to 12pm (Only Friday)\nAppointment: +8801766661144\nCall Now",
+      "chamber": {
+        "hospital": "Advanced Center of Kidney & Urology",
+        "address": "4/Ka, Ring Road, Shyamoli, Mohammadpur, Dhaka - 1207",
+        "visitingTime": "9am to 1pm & 7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801746344179"
+      },
+      "id": "be68ee2a-78be-477c-b94d-27466c2e2068"
+    },
+    {
+      "name": "Prof. Dr. S A Khan",
+      "degree": "MBBS, FCPS (Surgery), MS (Urology)",
+      "specialty": "Urology (Kidney, Ureters, Bladder, Prostate) Specialist & Transplant Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Bangladesh Specialized Hospital\nAddress: 21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8809666700100\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Dhanmondi",
+        "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787801"
+      },
+      "id": "b3e6a459-2b62-48da-afef-440460d1c414"
+    },
+    {
+      "name": "Prof. Dr. A.K.M. Anwarul Islam",
+      "degree": "MBBS, FCPS (Surgery), FRCS, FICS, Clinical Fellow in Urology (WHO)",
+      "specialty": "Urology (Kidneys, Ureters, Prostate) Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Popular Diagnostic Center, Dhanmondi\nAddress: House # 16, Road # 2, Dhanmondi, Dhaka – 1205\nVisiting Hour: 4pm to 7pm (Closed: Thursday & Friday)\nAppointment: +8809666787801\nCall Now",
+      "chamber": {
+        "hospital": "Square Hospital, Dhaka",
+        "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
+        "visitingTime": "10am to 1pm (Closed: Friday)",
+        "appointmentNumber": "10616"
+      },
+      "id": "5d5adbe6-1eb5-4098-9848-284ff29101d8"
+    },
+    {
+      "name": "Dr. Md. Abdus Salam",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery), MRCS (Edin, UK), MS (Urology)",
+      "specialty": "Urologist, General & Laparoscopic Surgeon",
+      "workplace": "National Institute of Kidney Diseases & Urology",
+      "info": "Dr. Md. Abdus Salam is a Urologist Surgeon in Dhaka. His qualification is MBBS, BCS (Health), FCPS (Surgery), MRCS (Edin, UK), MS (Urology). He is a Assistant Professor, Urology at National Institute of Kidney Diseases & Urology. He regularly provides treatment to his patients at Ibn Sina Medical Imaging Center, Zigatola. Practicing hour of Dr. Md. Abdus Salam at Ibn Sina Medical Imaging Center, Zigatola is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Medical Imaging Center, Zigatola",
+        "address": "House # 58, Road # 2A, Zigatola Bus Stand, Dhaka - 1209",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801711625173"
+      },
+      "id": "9c904527-5ea0-4dd7-b49e-36aef767791b"
+    },
+    {
+      "name": "Prof. Dr. Towhid Md. Saiful Hossain Dipu",
+      "degree": "MBBS, FCPS (Surgery), MS (Urology), Fellowship (Laparoscopic & Endoscopic)",
+      "specialty": "Urology Specialist & Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Japan Bangladesh Friendship Hospital\nAddress: 55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi\nVisiting Hour: 6.30pm to 8.30pm (Closed: Monday, Thursday & Friday)\nAppointment: +88029672277\nCall Now",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Dhanmondi",
+        "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "10606"
+      },
+      "id": "e2fc023a-ea04-4f2d-b2a0-4ceb5b3fec9f"
+    },
+    {
+      "name": "Prof. Dr. Md. Golam Mowla Chowdhury",
+      "degree": "MBBS, PhD (UK), Postdoctoral Fellow (Japan)",
+      "specialty": "Urologist & Uro-Oncologist Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. Md. Golam Mowla Chowdhury is a Urology Specialist in Dhaka. His qualification is MBBS, PhD (UK), Postdoctoral Fellow (Japan). He is a Professor, Urology at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Dhanmondi. Practicing hour of Prof. Dr. Md. Golam Mowla Chowdhury at Ibn Sina Diagnostic Center, Dhanmondi is 6pm to 9pm (Closed: Wednesday & Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
+        "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+        "visitingTime": "6pm to 9pm (Closed: Wednesday & Friday)",
+        "appointmentNumber": "+8809610010615"
+      },
+      "id": "d7cfa7db-0eda-4258-a0e5-9e89b66c675f"
+    },
+    {
+      "name": "Dr. Mohammad Habibur Rahman",
+      "degree": "MBBS, BCS (Health), FCPS (Urology)",
+      "specialty": "Urologist, Kidney Stone Surgeon & Uro-Laparoscopic Surgeon",
+      "workplace": "National Institute of Kidney Diseases & Urology",
+      "info": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)\nAddress: Comilla Tower, Laksam Road, Kandirpar, Cumilla – 3500\nVisiting Hour: 4pm to 8pm (Thursday) & 9am to 1pm (Friday)\nAppointment: +8801706060911\nCall Now",
+      "chamber": {
+        "hospital": "Samorita Hospital Ltd, Panthapath",
+        "address": "89/1, East Rajabazar, West Panthapath, Dhaka - 1215",
+        "visitingTime": "6pm to 8.30pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801854113051"
+      },
+      "id": "065e4093-ba4b-402e-8b2d-83967757a1a3"
+    },
+    {
+      "name": "Prof. Dr. Sabbir Ahmed Khan",
+      "degree": "MBBS, FCPS (Surgery), MS (Urology)",
+      "specialty": "Urology (Kidneys, Ureters, Prostate) Specialist & Surgeon",
+      "workplace": "Uttara Adhunik Medical College & Hospital",
+      "info": "Prof. Dr. Sabbir Ahmed Khan is a Urologist in Dhaka. His qualification is MBBS, FCPS (Surgery), MS (Urology). He is the Principal & Professor, Urology at Uttara Adhunik Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Uttara. Practicing hour of Prof. Dr. Sabbir Ahmed Khan at Ibn Sina Diagnostic Center, Uttara is 5.30pm to 8pm (Tuesday & Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Uttara",
+        "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
+        "visitingTime": "5.30pm to 8pm (Tuesday & Friday)",
+        "appointmentNumber": "+8809610009612"
+      },
+      "id": "98dc15b7-c8ad-4982-9909-49ddc31228dc"
+    },
+    {
+      "name": "Prof. Dr. Mohammad Shafiqur Rahman",
+      "degree": "MBBS, FCPS (Surgery), FRCS (Edinburgh), MS (Urology), DU",
+      "specialty": "Urolog, Uro-Oncologist & Laparoscopic Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. Mohammad Shafiqur Rahman is a Urology Specialist in Dhaka. His qualification is MBBS, FCPS (Surgery), FRCS (Edinburgh), MS (Urology), DU. He is a Associate Professor, Urology at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Dhanmondi. Practicing hour of Prof. Dr. Mohammad Shafiqur Rahman at Ibn Sina Diagnostic Center, Dhanmondi is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
+        "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809610010615"
+      },
+      "id": "42c76501-3a00-4a41-93d0-022eb6f9d8f7"
+    },
+    {
+      "name": "Dr. Hafiz Al Asad",
+      "degree": "MBBS, MS ( Urology)",
+      "specialty": "Kidney, Ureters, Bladder, Prostate, Male Sexuality Specialist & Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "City Diagnostic Center, Pabna\nAddress: Beside TB Hospital, Hospital Road, Shalgaria, Pabna\nVisiting Hour: 8am to 4pm (Only Friday)\nAppointment: +8801757204642\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Badda",
+        "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka - 1212",
+        "visitingTime": "7pm to 9pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809666787809"
+      },
+      "id": "2a0bc7f7-549f-440a-b163-a603bfe3ef3b"
+    },
+    {
+      "name": "Dr. Hasina Sadia Khan",
+      "degree": "MBBS (DMC), MRCS (England), FCPS (Urology)",
+      "specialty": "Female Urology, Endourology & Reconstructive Urology Specialist",
+      "workplace": "Popular Medical College & Hospital",
+      "info": "Dr. Hasina Sadia Khan is a Urology Specialist in Dhaka. Her qualification is MBBS (DMC), MRCS (England), FCPS (Urology). She is a Assistant Professor, Urology at Popular Medical College & Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Dhanmondi. Practicing hour of Dr. Hasina Sadia Khan at Popular Diagnostic Center, Dhanmondi is 4pm to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Dhanmondi",
+        "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+        "visitingTime": "4pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787801"
+      },
+      "id": "571c9c95-96b3-4b0e-8ec2-b0dfb2eb79dc"
+    },
+    {
+      "name": "Prof. Dr. A.K.M. Shahadat Hossain",
+      "degree": "MBBS, FCPS (Surgery), MS (Urology)",
+      "specialty": "Urology (Kidney, Ureter, Bladder, Prostate) Specialist & Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Prof. Dr. A.K.M. Shahadat Hossain is a Urologist Surgeon in Dhaka. His qualification is MBBS, FCPS (Surgery), MS (Urology). He is a Professor, Urology at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Shantinagar. Practicing hour of Prof. Dr. A.K.M. Shahadat Hossain at Popular Diagnostic Center, Shantinagar is 6:30pm to 8:30pm (Sat, Mon, Tue & Wed).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Shantinagar",
+        "address": "Unit # 02, House # 15, Shantinagar, Motijheel, Dhaka",
+        "visitingTime": "6:30pm to 8:30pm (Sat, Mon, Tue & Wed)",
+        "appointmentNumber": "+8809666787803"
+      },
+      "id": "e5123d59-e8f1-4d08-a6fa-48c653df2b9e"
+    },
+    {
+      "name": "Prof. Dr. Md. Nurul Huda Lanin",
+      "degree": "MBBS, FCPS (Surgery), MS (Urology)",
+      "specialty": "Urology (Kidneys, Ureters, Prostate) Specialist & Surgeon",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Khidmah Hospital, Dhaka\nAddress: C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka\nVisiting Hour: 5pm to 6pm (Closed: Friday)\nAppointment: +8809606063030\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, English Road",
+        "address": "House # 2, English Road, Ray Shaheb Bazar, Dhaka",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787802"
+      },
+      "id": "159693fd-b56e-49fc-a2ec-dbc5d504e6db"
+    },
+    {
+      "name": "Prof. Dr. Md. Shafiqul Alam Chowdhury (Shamim)",
+      "degree": "MBBS (DMC), MS (Urology)",
+      "specialty": "Urology (Kidney, Ureters, Bladder, Prostate) Specialist & Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Prof. Dr. Md. Shafiqul Alam Chowdhury (Shamim) is a Urologist in Dhaka. His qualification is MBBS (DMC), MS (Urology). He is a Professor, Urology at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Dhanmondi. Practicing hour of Prof. Dr. Md. Shafiqul Alam Chowdhury (Shamim) at Popular Diagnostic Center, Dhanmondi is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Dhanmondi",
+        "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787801"
+      },
+      "id": "0b953490-8218-4fae-82ed-fb08855ee629"
+    },
+    {
+      "name": "Dr. Md. Kamrul Islam Uzzal",
+      "degree": "MBBS (DMC), MS (Urology)",
+      "specialty": "Urology (Kidneys, Ureters, Bladder & Urethra) Specialist & Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Ahsania Mission Cancer & General Hospital\nAddress: Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka\nVisiting Hour: 4pm to 5pm (Sat, Mon & Wed)\nContact Number: 10617\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Uttara",
+        "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
+        "visitingTime": "6pm to 9pm (Sat, Sun & Tuesday) 9pm to 10pm (Mon,Wed & Friday)",
+        "appointmentNumber": "+8809610009612"
+      },
+      "id": "e9e21d2f-b0b5-4d44-8992-013b4cdf6481"
+    },
+    {
+      "name": "Dr. Md. Moynul Hoque Chowdhury",
+      "degree": "MBBS, BCS (Health), FCPS (Urology), CPA (USA)",
+      "specialty": "Urology (Kidneys, Bladder, Ureters, Prostate, Male Sexuality) Specialist & Surgeon",
+      "workplace": "National Institute of Kidney Diseases & Urology",
+      "info": "Dr. Md. Moynul Hoque Chowdhury is a Urologist in Savar. His qualification is MBBS, BCS (Health), FCPS (Urology), CPA (USA). He is a Assistant Professor, Urology at National Institute of Kidney Diseases & Urology. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Savar. Practicing hour of Dr. Md. Moynul Hoque Chowdhury at Ibn Sina Diagnostic Center, Savar is 5.30pm to 7pm (Closed: Thu, Fri & Sun).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Savar",
+        "address": "31/6 Jaleshwar, Aricha Road, Savar, Dhaka - 1340",
+        "visitingTime": "5.30pm to 7pm (Closed: Thu, Fri & Sun)",
+        "appointmentNumber": "+88 09610009613"
+      },
+      "id": "24562135-5d1d-4357-8901-e658dda736b2"
+    },
+    {
+      "name": "Dr. Md. Jahangir Kabir",
+      "degree": "MBBS, FCPS, FRCS (Glasgow, UK)",
+      "specialty": "Urologist, Andrologist, Uro-Oncologist & Surgeon",
+      "workplace": "Labaid Specialized Hospital, Dhanmondi",
+      "info": "Labaid Cancer Hospital & Super Speciality Center\nAddress: 26, Green Road, Dhaka\nVisiting Hour: 5pm to 7pm (Sat & Wednesday)\nAppointment: +8809666710001\nCall Now",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Dhanmondi",
+        "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "3pm to 4.30pm (Closed: Sun & Friday)",
+        "appointmentNumber": "10606"
+      },
+      "id": "e33462b5-aa27-435f-b036-cf9f45d62ce9"
+    },
+    {
+      "name": "Dr. N. I. Bhuiyan",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urology (Kidney, Ureters, Bladder, Prostate) Specialist & Laparoscopic Surgeon",
+      "workplace": "Bangladesh Medical College & Hospital",
+      "info": "Dr. N. I. Bhuiyan is a Urology Specialist in Dhaka. His qualification is MBBS, MS (Urology). He is a Associate Professor & Head, Urology at Bangladesh Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Dhanmondi. Practicing hour of Dr. N. I. Bhuiyan at Popular Diagnostic Center, Dhanmondi is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Dhanmondi",
+        "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787801"
+      },
+      "id": "968b857a-8db8-4936-abbf-754e35cd4a2b"
+    },
+    {
+      "name": "Dr. Md. Nasir Uddin",
+      "degree": "MBBS, BCS (Health), FCPS (Urology)",
+      "specialty": "Urology (Kidney, Prostate, Ureters, Bladder) Specialist & Surgeon",
+      "workplace": "National Institute of Kidney Diseases & Urology",
+      "info": "Popular Diagnostic Centre, Kushtia\nAddress: City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia\nVisiting Hour: 9am to 7pm (Only Friday)\nAppointment: +8809666787817\nCall Now",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Mirpur",
+        "address": "House # 06, Block # B, Section # 01, Mirpur, Dhaka",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662888"
+      },
+      "id": "aab67be9-9632-4e0f-afe5-364c72e344b8"
+    },
+    {
+      "name": "Prof. Dr. A.T.M. Aman Ullah",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urology (Kidney, Ureter, Bladder, Prostate) Specialist & Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Samorita Hospital Ltd, Panthapath\nAddress: 89/1, Panthapath, Dhaka – 1215, Bangladesh\nVisiting Hour: 7pm to 9pm (Sat, Mon & Wed)\nAppointment: 10674\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Shantinagar",
+        "address": "Unit # 01, House # 11, Shantinagar, Motijheel, Dhaka",
+        "visitingTime": "7:30pm to 9:30pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787803"
+      },
+      "id": "4c46ddfd-0a98-40a3-8aa9-bdee1a1c24d4"
+    },
+    {
+      "name": "Dr. Md. Rokonuzzaman Khan",
+      "degree": "MBBS, BCS (Health), MS (Urology)",
+      "specialty": "Urology (Kidneys, Bladder, Ureters, Prostate) Specialist & Surgeon",
+      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+      "info": "Dr. Md. Rokonuzzaman Khan is a Urologist in Dhaka. His qualification is MBBS, BCS (Health), MS (Urology). He is a Assistant Professor, Urology at Shaheed Suhrawardy Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Savar. Practicing hour of Dr. Md. Rokonuzzaman Khan at Ibn Sina Diagnostic Center, Savar is 6pm to 7.30pm (Closed: Wed, Thu & Fri).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Savar",
+        "address": "31/6 Jaleshwar, Aricha Road, Savar, Dhaka - 1340",
+        "visitingTime": "6pm to 7.30pm (Closed: Wed, Thu & Fri)",
+        "appointmentNumber": "+88 09610009613"
+      },
+      "id": "deb9db2f-a488-47f0-8e28-0a2086125b49"
+    },
+    {
+      "name": "Dr. Md. Asaduzzaman",
+      "degree": "MBBS, MCPS (Surgery), MS (Urology), FICS (USA)",
+      "specialty": "Urology Specialist & Surgeon",
+      "workplace": "National Institute of Kidney Diseases & Urology",
+      "info": "Islami Bank Hospital, Mirpur\nAddress: Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216\nVisiting Hour: 7pm to 9pm (Closed: Friday)\nAppointment: +8801992346632\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Mirpur",
+        "address": "House # 11, Haji Road, Avenue 3, Rupnagar, Mirpur 2, Dhaka",
+        "visitingTime": "5pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801847262996"
+      },
+      "id": "284f2a5a-ca36-4157-aba0-163deb012f9c"
+    },
+    {
+      "name": "Dr. Md. Waliul Islam Maruf",
+      "degree": "MBBS, MS (Urology), MRCPS (UK)",
+      "specialty": "Urology (Kidney Ureter, Bladder, Prostate) Specialist & Surgeon",
+      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Shyamoli\nAddress: Opposite to Shyamoli Shishu Mela, Babor Road, Mohammadpur, Dhaka\nVisiting Hour: 5.30pm to 7pm (Sat, Mon & Wed)\nAppointment: +8809666787806\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "4pm to 8:30pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8809666787804"
+      },
+      "id": "c7b32b7d-4aa3-4d67-bd3c-b7fe7552e38d"
+    },
+    {
+      "name": "Dr. Syed Alfasani",
+      "degree": "MBBS, FCPS (Surgery), MS (Urology)",
+      "specialty": "Urology (Urinary Blader, Prostate & Sex Organ) Specialist & Surgeon",
+      "workplace": "National Institute of Kidney Diseases & Urology",
+      "info": "Dr. Syed Alfasani is a Urologist in Dhaka. His qualification is MBBS, FCPS (Surgery), MS (Urology). He is a Consultant, Urology at National Institute of Kidney Diseases & Urology. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Uttara. Practicing hour of Dr. Syed Alfasani at Ibn Sina Diagnostic Center, Uttara is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Uttara",
+        "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809610009612"
+      },
+      "id": "cbd25cc9-5f01-4f77-9ed7-a4eedba305dd"
+    },
+    {
+      "name": "Major Gen. Prof. Dr. H. R. Harun",
+      "degree": "MBBS (Dhaka), FCPS (Bangladesh), FRCS (Glasgow), FRCS (Edinburgh)Diploma in Urology (London), WHO Fellow (Urology)",
+      "specialty": "Urology (Kidneys, Bladder, Ureters, Prostate) Specialist & Surgeon",
+      "workplace": "Holy Family Red Crescent Medical College & Hospital",
+      "info": "Maj Gen Dr. Hr Harun is dedicated to providing state-of-the-art medical and surgical care for all specialties of male and female urology (both adult and pediatric), as well as male infertility problems. Each year, he treats hundreds of patients and provides diagnosis, care, and surgeries for the complete range of urological conditions. He offers patients confidential evaluations, treatment, and follow-up care with state-of-the-art resources, like ultra-modern operations. Prof. Harun has especial interest in Nephron – Sparing Surgery, Reconstructive Urology, Microsurgery in Male Infertility, Endourology, Female Urology, Combat Surgery and Disaster Medicine.",
+      "chamber": {
+        "hospital": "Central Hospital, Dhanmondi",
+        "address": "House # 02, Road # 05, Green Road, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "5pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801717-472264"
+      },
+      "id": "06b2e33c-ca54-431c-b77a-3357965d8365"
+    },
+    {
+      "name": "Prof. Dr. S. M. Mahbub Alam",
+      "degree": "MBBS, FCPS (Surgery), MS (Urology)",
+      "specialty": "Urologist & Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Prof. Dr. S. M. Mahbub Alam is a Urology Doctor in Dhaka. His qualification is MBBS, FCPS (Surgery), MS (Urology). He is working as a Urologist & Surgeon doctor in Dhaka Medical College & Hospital. He regularly provides treatment to his patients at BRB Hospital, Dhaka. Practicing hour of Prof. Dr. S. M. Mahbub Alam at BRB Hospital, Dhaka is 9am to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "BRB Hospital, Dhaka",
+        "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
+        "visitingTime": "9am to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801777764800"
+      },
+      "id": "22167b73-d740-4189-a0b3-44057fc77eca"
+    },
+    {
+      "name": "Dr. Nitai Pada Biswas",
+      "degree": "MBBS, FCPS (Surgery), MS (Urology), MRCS (UK)",
+      "specialty": "Urology Specialist & Surgeon",
+      "workplace": "National Institute of Kidney Diseases & Urology",
+      "info": "Dr. Nitai Pada Biswas is a Urologist in Dhaka. His qualification is MBBS, FCPS (Surgery), MS (Urology), MRCS (UK). He is working as a Urology Specialist & Surgeon doctor at National Institute of Kidney Diseases & Urology. He regularly provides treatment to his patients at Health and Hope Hospital. Practicing hour of Dr. Nitai Pada Biswas at Health and Hope Hospital is 5pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Health and Hope Hospital",
+        "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
+        "visitingTime": "5pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8809611996699"
+      },
+      "id": "44682e85-a329-4e03-9b53-7b0bdafc5bce"
+    },
+    {
+      "name": "Dr. Khondaker Arafuzzaman Lipton",
+      "degree": "MBBS, FCPS (Urology)",
+      "specialty": "Kidney, Ureters, Bladder, Prostate, Male Sexuality Specialist & Surgeon",
+      "workplace": "Mugda Medical College & Hospital",
+      "info": "Sono Diagnostic Center, Kushtia\nAddress: Sono Tower, College Mor, Court Para, Kushtia\nVisiting Hour: 9am to 5pm (Only Friday)\nAppointment: +8801754602998\nCall Now",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Motijheel",
+        "address": "24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka",
+        "visitingTime": "5pm to 7pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801727666741"
+      },
+      "id": "3bc89d09-0c0f-4862-b9ab-e95155d2464d"
+    },
+    {
+      "name": "Dr. Md. Naushad Alam",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery), MS (Urology)",
+      "specialty": "Urology (Kidneys, Bladder, Ureters, Prostate) Specialist & Surgeon",
+      "workplace": "National Institute of Kidney Diseases & Urology",
+      "info": "Dr. Md. Naushad Alam is a Urologist in Dhaka. His qualification is MBBS, BCS (Health), FCPS (Surgery), MS (Urology). He is a Assistant Professor, Urology at National Institute of Kidney Diseases & Urology. He regularly provides treatment to his patients at Aalok Hospital Ltd, Mirpur 6. Practicing hour of Dr. Md. Naushad Alam at Aalok Hospital Ltd, Mirpur 6 is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Aalok Hospital Ltd, Mirpur 6",
+        "address": "House- 1, Road-5, Block-A, Mirpur-6, Dhaka-1216",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801307267402"
+      },
+      "id": "ebc8669c-e2bd-4c67-845e-38f1fc68ebb9"
+    },
+    {
+      "name": "Dr. Sharif Shahjamal",
+      "degree": "MBBS, MS (Urology), WHO Fellow (Advanced Urology)",
+      "specialty": "Urology Specialist & Surgeon",
+      "workplace": "National Institute of Kidney Diseases & Urology",
+      "info": "Dr. Sharif Shahjamal is a Urologist in Dhaka. His qualification is MBBS, MS (Urology), WHO Fellow (Advanced Urology). He is a Associate Professor, Urology at National Institute of Kidney Diseases & Urology. He regularly provides treatment to his patients at Popular Diagnostic Center, Mirpur. Practicing hour of Dr. Sharif Shahjamal at Popular Diagnostic Center, Mirpur is 7:30pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mirpur",
+        "address": "Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka",
+        "visitingTime": "7:30pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787807"
+      },
+      "id": "63a50fcf-1174-44fc-b050-c94350ea4be5"
+    },
+    {
+      "name": "Prof. Dr. A.K.M. Khurshidul Alam",
+      "degree": "MBBS, MCPS (Surgery), FCPS (Surgery), MS (Urology)",
+      "specialty": "Urology, Endourology, Kidney Transplantation Specialist & Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. A.K.M. Khurshidul Alam is a Urologist in Dhaka. His qualification is MBBS, MCPS (Surgery), FCPS (Surgery), MS (Urology). He is a Professor, Urology at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Green Life Hospital, Dhaka. Practicing hour of Prof. Dr. A.K.M. Khurshidul Alam at Green Life Hospital, Dhaka is 7pm to 9pm (Closed: Wed & Friday).",
+      "chamber": {
+        "hospital": "Green Life Hospital, Dhaka",
+        "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+        "visitingTime": "7pm to 9pm (Closed: Wed & Friday)",
+        "appointmentNumber": "+8801784769104"
+      },
+      "id": "0b6b9d2d-24a7-4c0e-8131-a00eb0770192"
+    },
+    {
+      "name": "Dr. Md. Kamal Pasha",
+      "degree": "MBBS, FCPS (Surgery), FICS",
+      "specialty": "Urology (Kidneys, Bladder, Ureters, Prostate) Specialist & Surgeon",
+      "workplace": "Square Hospital, Dhaka",
+      "info": "Dr. Md. Kamal Pasha is a Urological Surgeon in Dhaka. His qualification is MBBS, FCPS (Surgery), FICS. He is a Senior Consultant, Urology at Square Hospital, Dhaka. He regularly provides treatment to his patients at Square Hospital, Dhaka. Practicing hour of Dr. Md. Kamal Pasha at Square Hospital, Dhaka is 10am to 1pm & 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Square Hospital, Dhaka",
+        "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
+        "visitingTime": "10am to 1pm & 5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "10616"
+      },
+      "id": "782adbb4-0b42-4b9f-ac3c-46a61460e984"
+    },
+    {
+      "name": "Dr. Md. Mashiur Arefin (Rubel)",
+      "degree": "MBBS, MS (Urology), FCPS (Surgery), MRCS (Edin, UK)",
+      "specialty": "Urologist & Laparoscopic Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Md. Mashiur Arefin (Rubel) is a Urologist in Rajshahi. His qualification is MBBS, MS (Urology), FCPS (Surgery), MRCS (Edin, UK). He is a Associate Professor, Urology at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Md. Mashiur Arefin (Rubel) at Popular Diagnostic Center, Rajshahi is 10am to 4pm (Friday), 6m to 10pm (Thursday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "10am to 4pm (Friday), 6m to 10pm (Thursday)",
+        "appointmentNumber": "+8809666787811"
+      },
+      "id": "8f18d58e-8c8f-46fc-b6f1-830d9edae33a"
+    },
+    {
+      "name": "Dr. Muhammad Asaduzzaman",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery), MS (Urology)",
+      "specialty": "Urology (Kidneys, Bladder, Ureters, Prostate) Specialist & Surgeon",
+      "workplace": "Kurmitola General Hospital, Dhaka",
+      "info": "Advance Hospital, Banasree\nAddress: House # 1, Main Road, Block # F, Banasree, Dhaka\nVisiting Hour: 6pm to 8pm (Sat, Mon & Wed)\nAppointment: +8801999242424\nCall Now",
+      "chamber": {
+        "hospital": "Unity Aid Hospital Limited",
+        "address": "House # 1-2, Block # D, Main Road, South Banasree, Khilgaon, Dhaka",
+        "visitingTime": "8pm to 9pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801997421112"
+      },
+      "id": "e782e308-5b92-4270-a2a1-ba3715d77cf0"
+    },
+    {
+      "name": "Prof. Dr. Deb Prasad Pal",
+      "degree": "MBBS, FCPS (Surgery), FMAS (India), Trained in Urology (NIKDU)",
+      "specialty": "General & Urological Surgeon",
+      "workplace": "Enam Medical College & Hospital",
+      "info": "Prof. Dr. Deb Prasad Pal is a Urological Surgeon in Dhaka. His qualification is MBBS, FCPS (Surgery), FMAS (India), Trained in Urology (NIKDU). He is a Professor, Surgery at Enam Medical College & Hospital. He regularly provides treatment to his patients at Enam Medical College & Hospital. Practicing hour of Prof. Dr. Deb Prasad Pal at Enam Medical College & Hospital is 8am to 2.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Enam Medical College & Hospital",
+        "address": "9/3 Parboti Nagar, Thana Road, Savar, Dhaka",
+        "visitingTime": "8am to 2.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801716358146"
+      },
+      "id": "ecc7b084-b9e7-4ea8-8f8b-92880f8e381e"
+    },
+    {
+      "name": "Dr. A.B. Siddique",
+      "degree": "MBBS (Dhaka), MRCS (England), FCPS (Surgery), MS (Urology)",
+      "specialty": "Urology Specialist & Surgeon",
+      "workplace": "National Institute of Kidney Diseases & Urology",
+      "info": "Dr. A.B. Siddique is a Urology Specialist in Dhaka. His qualification is MBBS (Dhaka), MRCS (England), FCPS (Surgery), MS (Urology). He is a Assistant Professor, Urology at National Institute of Kidney Diseases & Urology. He regularly provides treatment to his patients at Popular Diagnostic Center, Dhanmondi. Practicing hour of Dr. A.B. Siddique at Popular Diagnostic Center, Dhanmondi is 6:30pm to 8.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Dhanmondi",
+        "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+        "visitingTime": "6:30pm to 8.30pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787801"
+      },
+      "id": "fba56d3a-d9fa-4cdc-9308-73a6f19b34c3"
+    },
+    {
+      "name": "Dr. Abdul Ahad",
+      "degree": "MBBS, MPH, MS (Urology)",
+      "specialty": "Urologist, Kidney Stone Surgeon & Uro-Laparoscopic Surgeon",
+      "workplace": "Bangladesh Railway Hospital, Chittagong",
+      "info": "Islami Bank Hospital, Chittagong\nAddress: 3, Sheikh Mujib Road, Agrabad, Chittagong\nVisiting Hour: 4pm to 6pm (Only Friday)\nAppointment: +8801731253990\nCall Now",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Motijheel",
+        "address": "24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka",
+        "visitingTime": "4pm to 6pm (Only Friday)",
+        "appointmentNumber": "+8801727666741"
+      },
+      "id": "549ae946-f15d-48c0-a426-3009a64ad050"
+    },
+    {
+      "name": "Dr. Azfar Uddin Shaikh",
+      "degree": "MBBS (DMC), MS (Urology), MD (USA), Fellow Urology (USA)",
+      "specialty": "Urology Specialist & Surgeon",
+      "workplace": "Central Hospital Limited, Dhanmondi",
+      "info": "Central Hospital, Dhanmondi\nAddress: House # 02, Road # 05, Green Road, Dhanmondi, Dhaka – 1205\nVisiting Hour: 5pm to 8pm (Closed: Friday)\nAppointment: +8802-41060800\nCall Now",
+      "chamber": {
+        "hospital": "Islami Bank Central Hospital, Kakrail",
+        "address": "30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000",
+        "visitingTime": "3pm to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8801810000116"
+      },
+      "id": "f5d3a0e9-b843-4054-b23a-88d7bddb4235"
+    },
+    {
+      "name": "Dr. Md. Saiful Islam",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urology (Urinary Tract, Kidney, Bladder, Prostate) Specialist & Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Md. Saiful Islam is a Urologist in Dhaka. His qualification is MBBS, MS (Urology). He is a Associate Professor, Urology at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Shantinagar. Practicing hour of Dr. Md. Saiful Islam at Popular Diagnostic Center, Shantinagar is 9:30pm to 10:30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Shantinagar",
+        "address": "Unit # 01, House # 11, Shantinagar, Motijheel, Dhaka",
+        "visitingTime": "9:30pm to 10:30pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787803"
+      },
+      "id": "59b73e6d-bf51-48f5-b162-c31d009e6ca2"
+    },
+    {
+      "name": "Prof. Col. Dr. M A Rakib",
+      "degree": "MBBS (DMC), MCPS, FCPS (Urology) FCPS (Surgery), FRCS(UK), FACS (USA)",
+      "specialty": "Urology (Kidney, Prostate, Bladder) Specialist & Surgeon",
+      "workplace": "Evercare Hospital, Dhaka",
+      "info": "Prof. Col. Dr. M A Rakib is a Urologist in Dhaka. His qualification is MBBS (DMC), MCPS, FCPS (Urology) FCPS (Surgery), FRCS(UK), FACS (USA). He is a Senior Consultant, Urology at Evercare Hospital, Dhaka. He regularly provides treatment to his patients at Evercare Hospital, Dhaka. Practicing hour of Prof. Col. Dr. M A Rakib at Evercare Hospital, Dhaka is 9am to 5pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Evercare Hospital, Dhaka",
+        "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
+        "visitingTime": "9am to 5pm (Closed: Friday)",
+        "appointmentNumber": "10678"
+      },
+      "id": "71bf818e-600d-4b7f-94fa-a00cac301bf2"
+    },
+    {
+      "name": "Prof. Dr. AKM Musa Bhuiyan Bablu",
+      "degree": "MBBS, BCS (Health), MS (Urology)",
+      "specialty": "Urology (Kidneys, Ureters, Prostate) Specialist & Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Prof. Dr. AKM Musa Bhuiyan Bablu is a Urologist in Dhaka. His qualification is MBBS, BCS (Health), MS (Urology). He is a Professor, Urology at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Badda. Practicing hour of Prof. Dr. AKM Musa Bhuiyan Bablu at Popular Diagnostic Center, Badda is 7pm to 8:30pm (Closed: Sun, Tue & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Badda",
+        "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka – 1212",
+        "visitingTime": "7pm to 8:30pm (Closed: Sun, Tue & Friday)",
+        "appointmentNumber": "+8809666787809"
+      },
+      "id": "ab0d5bd5-dbb5-4735-8177-d4f9ba0e3432"
+    },
+    {
+      "name": "Dr. A.S.M. Shafiul Azam Tuhin",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urology (Kidney Ureter, Bladder, Prostate) Specialist & Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. A.S.M. Shafiul Azam Tuhin is a Urologist in Dhaka. His qualification is MBBS, MS (Urology). He is a Consultant, Urology at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Farazy Hospital, Banasree. Practicing hour of Dr. A.S.M. Shafiul Azam Tuhin at Farazy Hospital, Banasree is 6pm to 7.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Farazy Hospital, Banasree",
+        "address": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
+        "visitingTime": "6pm to 7.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801882084414"
+      },
+      "id": "2454ccab-cfb5-4e4d-bcb6-5c8b2fdb9cec"
+    },
+    {
+      "name": "Dr. M. Zahid Hasan",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urology Specialist, Kidney Transplantation & Uro-Oncological Surgeon",
+      "workplace": "Evercare Hospital, Dhaka",
+      "info": "Dr. M. Zahid Hasan is a Urologist in Dhaka. His qualification is MBBS, MS (Urology). He is a Coordinator & Senior Consultant, Urology at Evercare Hospital, Dhaka. He regularly provides treatment to his patients at Evercare Hospital, Dhaka. Practicing hour of Dr. M. Zahid Hasan at Evercare Hospital, Dhaka is 9am to 5pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Evercare Hospital, Dhaka",
+        "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
+        "visitingTime": "9am to 5pm (Closed: Friday)",
+        "appointmentNumber": "10678"
+      },
+      "id": "16f88cc5-bcc9-4cb4-b79e-e11bb5e10346"
+    },
+    {
+      "name": "Prof. Dr. Zamanul Islam Bhuiyan",
+      "degree": "MBBS, FCPS (Surgery), MS (Urology), FRCS (UK)",
+      "specialty": "Urology (Kidneys, Bladder, Ureters, Prostate) Specialist & Laparoscopic Surgeon",
+      "workplace": "Green Life Medical College & Hospital",
+      "info": "Prof. Dr. Zamanul Islam Bhuiyan is a Urologist in Dhaka. His qualification is MBBS, FCPS (Surgery), MS (Urology), FRCS (UK). He is a Professor, Urology at Green Life Medical College & Hospital. He is expert in Open, Laparoscopic & Endoscopic Urological operation including Renal Transplant. He regularly provides treatment to his patients at Green Life Hospital, Dhaka. Practicing hour of Prof. Dr. Zamanul Islam Bhuiyan at Green Life Hospital, Dhaka is 6pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Green Life Hospital, Dhaka",
+        "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+        "visitingTime": "6pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801710768763"
+      },
+      "id": "1d262f73-3202-4c93-b413-d113a5d101ce"
+    },
+    {
+      "name": "Dr. M. Mahfuzur Rahman Sagar",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urology & Andrology Specialist",
+      "workplace": "National Institute Of Kidney Diseases & Urology",
+      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, B.B. Road, Chashara, Narayanganj – 1400\nVisiting Hour: 4pm to 8pm (Sat, Mon & Wed) & 10am to 1pm (Friday)\nAppointment: +8809666787804\nCall Now",
+      "chamber": {
+        "hospital": "Health and Hope Hospital",
+        "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
+        "visitingTime": "5pm to 7pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8809611996699"
+      },
+      "id": "296a03a3-469d-44ab-a1c8-922f08c3b7f3"
+    },
+    {
+      "name": "Lt. Col. Dr. Md. Shafiul Alam",
+      "degree": "MBBS, MCPS, FCPS (Surgery), Fellowship in Uro-Oncology (India)",
+      "specialty": "Urology (Kidney, Ureter, Bladder, Prostate, Urethra) & Retroperitoneal Cancer Specialist",
+      "workplace": "Combined Military Hospital (CMH), Dhaka",
+      "info": "Lt. Col. Dr. Md. Shafiul Alam is a Urologist in Dhaka. His qualification is MBBS, MCPS, FCPS (Surgery), Fellowship in Uro-Oncology (India). He is a Associate Professor, Urology at Combined Military Hospital (CMH), Dhaka. He regularly provides treatment to his patients at Delta Hospital, Mirpur. Practicing hour of Lt. Col. Dr. Md. Shafiul Alam at Delta Hospital, Mirpur is 6pm to 8pm (Sun, Tue & Thu).",
+      "chamber": {
+        "hospital": "Delta Hospital, Mirpur",
+        "address": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka - 1216",
+        "visitingTime": "6pm to 8pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801301254924"
+      },
+      "id": "2fab0580-0741-4cc5-b35e-564c1d039e1d"
+    },
+    {
+      "name": "Dr. Maruf Ahmed",
+      "degree": "MBBS, BCS (Health), MS (Urology)",
+      "specialty": "Urology (Kidney, Prostate, Ureter, Hernia, Scrotum) Specialist & Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Insaf Barakah Kidney & General Hospital\nAddress: 11, Shaheed Tajuddin Ahmed Sarani, Mogbazar, Dhaka\nVisiting Hour: 3pm to 6pm (Closed: Friday)\nAppointment: +8809613445544\nCall Now",
+      "chamber": {
+        "hospital": "Mirpur General Hospital & Diagnostic Center",
+        "address": "Plot - 10, Road - 4/5, Section - 12, Kalshi Road, Mirpur, Dhaka",
+        "visitingTime": "3pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801610964966"
+      },
+      "id": "eaf26f3a-ef4e-43c5-8d8b-e9f5d395984a"
+    },
+    {
+      "name": "Dr. Md. Murad Choudhury",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urology Specialist & Surgeon",
+      "workplace": "National Institute of Cancer Research & Hospital",
+      "info": "Aichi Hospital Limited, Uttara\nAddress: Plot # 35 & 37, Sector # 08, Abdullahpur, Uttara, Dhaka\nVisiting Hour: 4pm to 6pm (Closed: Friday)\nAppointment: +8801689956599\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Badda",
+        "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
+        "visitingTime": "6pm to 9pm (Sat, Mon & Wednesday)",
+        "appointmentNumber": "+8809610009614"
+      },
+      "id": "5d93a01e-6572-4d33-bffa-538298492f6f"
+    },
+    {
+      "name": "Dr. Uttam Karmaker",
+      "degree": "MBBS (DMC), MRCS (Edin), MS (Urology)",
+      "specialty": "Urology (Kidneys, Bladder, Ureters, Prostate) Specialist & Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Uttam Karmaker is a Urologist in Dhaka. His qualification is MBBS (DMC), MRCS (Edin), MS (Urology). He is a Associate Professor, Urology at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Aalok Health Care, Mirpur 1. Practicing hour of Dr. Uttam Karmaker at Aalok Health Care, Mirpur 1 is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Aalok Health Care, Mirpur 1",
+        "address": "21 Darus Salam Road, Mirpur 1, Dhaka",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801915448500"
+      },
+      "id": "5959cc7a-44a2-44f1-878e-3c434a86adc1"
+    },
+    {
+      "name": "Dr. Nazim Uddin Md. Arif",
+      "degree": "MBBS, MS (Urology), SIU Fellow (Singapore)",
+      "specialty": "Urology (Kidney, Ureters, Bladder, Prostate) Specialist & Surgeon",
+      "workplace": "Uttara Adhunik Medical College & Hospital",
+      "info": "Ahsania Mission Cancer & General Hospital\nAddress: Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka\nVisiting Hour: 4pm to 5pm (Sat, Mon & Wed)\nContact Number: 10617\nCall Now",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Uttara (Unit 01)",
+        "address": "House # 15, Road # 12, Sector # 06, Uttara, Dhaka",
+        "visitingTime": "7pm to 8.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662606"
+      },
+      "id": "e3754438-469e-4714-8602-d0b7edbd2f24"
+    },
+    {
+      "name": "Dr. Shariful Islam Khan",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urology (Kidneys, Bladder, Ureters, Prostate) Specialist & Surgeon",
+      "workplace": "Mugda Medical College & Hospital",
+      "info": "Advance Hospital, Banasree\nAddress: House # 1, Main Road, Block # F, Banasree, Dhaka\nVisiting Hour: 8.30pm to 10pm (Sun, Tue & Thu)\nAppointment: +8801999242424\nCall Now",
+      "chamber": {
+        "hospital": "Farazy Hospital, Banasree",
+        "address": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
+        "visitingTime": "5.30pm to 8pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8809606990000"
+      },
+      "id": "d2c1d68d-bb23-4f1f-9a35-82d1d7cfa8da"
+    },
+    {
+      "name": "Prof. Dr. Kazi Rafiqul Abedin",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urology & Andrology Specialist",
+      "workplace": "National Institute of Kidney Diseases & Urology",
+      "info": "Prof. Dr. Kazi Rafiqul Abedin is a Urologist in Dhaka. His qualification is MBBS, MS (Urology). He is working as a Urology & Andrology Specialist doctor in National Institute of Kidney Diseases & Urology. He regularly provides treatment to his patients at Comfort Diagnostic Center, Dhanmondi. Practicing hour of Prof. Dr. Kazi Rafiqul Abedin at Comfort Diagnostic Center, Dhanmondi is 8pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Comfort Diagnostic Center, Dhanmondi",
+        "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "8pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801731956033"
+      },
+      "id": "5f0f2666-d104-488a-9543-aa5e5210b415"
+    },
+    {
+      "name": "Prof. Dr. Md. Zahid Hassan Bhuiyan",
+      "degree": "MBBS (Dhaka), FCPS (Surgery), MS (Urology)",
+      "specialty": "Urology Specialist & Surgeon",
+      "workplace": "Bangladesh Medical College & Hospital",
+      "info": "Prof. Dr. Md. Zahid Hassan Bhuiyan is a Urologist in Dhaka. His qualification is MBBS (Dhaka), FCPS (Surgery), MS (Urology). He is a Professor, Urology at Bangladesh Medical College & Hospital. He regularly provides treatment to his patients at Medinova Medical Services, Dhanmondi. Practicing hour of Prof. Dr. Md. Zahid Hassan Bhuiyan at Medinova Medical Services, Dhanmondi is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Dhanmondi",
+        "address": "House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "10658"
+      },
+      "id": "4e973322-1297-4903-93b1-ba872ebe31c5"
+    },
+    {
+      "name": "Dr. Md. Mamunur Rashid",
+      "degree": "MBBS, FCPS (Surgery), MS (Urology), MRCS (UK)",
+      "specialty": "Urology (Kidneys, Ureters, Bladder, Prostate) Specialist & Surgeon",
+      "workplace": "Mugda Medical College & Hospital",
+      "info": "Dr. Md. Mamunur Rashid is a Urologist in Dhaka. His qualification is MBBS, FCPS (Surgery), MS (Urology), MRCS (UK). He is a Assistant Professor, Urology at Mugda Medical College & Hospital. He regularly provides treatment to his patients at City Hospital Limited, Dhaka. Practicing hour of Dr. Md. Mamunur Rashid at City Hospital Limited, Dhaka is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "City Hospital Limited, Dhaka",
+        "address": "1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka – 1207",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801558220134"
+      },
+      "id": "e141c60e-0640-41e4-895e-107a77c130ae"
+    },
+    {
+      "name": "Dr. Hamudur Rahman",
+      "degree": "MBBS, FCPS (Surgery), MS (Urology)",
+      "specialty": "Urologist & Surgeon",
+      "workplace": "National Institute of Diseases of the Chest & Hospital",
+      "info": "Dr. Hamudur Rahman is a Urologist in Dhaka. His qualification is MBBS, FCPS (Surgery), MS (Urology). He is working as a Urologist & Surgeon doctor in National Institute of Diseases of the Chest & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Badda. Practicing hour of Dr. Hamudur Rahman at Ibn Sina Diagnostic Center, Badda is 8pm to 9pm (Closed: Friday, Saturday & Sunday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Badda",
+        "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
+        "visitingTime": "8pm to 9pm (Closed: Friday, Saturday & Sunday)",
+        "appointmentNumber": "+8809610009614"
+      },
+      "id": "9947384b-0528-496e-b620-0bcf595386e6"
+    },
+    {
+      "name": "Prof. Dr. Fozle Rabbi Siraj Uddin",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urology Specialist",
+      "workplace": "Shahabuddin Medical College & Hospital",
+      "info": "Prof. Dr. Fozle Rabbi Siraj Uddin is a Urologist in Dhaka. His qualification is MBBS, MS (Urology). He is working as a Urology Specialist doctor in Shahabuddin Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Badda. Practicing hour of Prof. Dr. Fozle Rabbi Siraj Uddin at Popular Diagnostic Center, Badda is 5pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Badda",
+        "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka - 1212",
+        "visitingTime": "5pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787809"
+      },
+      "id": "f0100ba7-25cc-4377-baf1-0518f0e0b501"
+    },
+    {
+      "name": "Dr. Furkan Ahmed",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urology Specialist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Dr. Furkan Ahmed is a Urologist in Dhaka. His qualification is MBBS, MS (Urology). He is working as a Urology Specialist doctor in Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at Ibn Sina Medical College Hospital, Kallyanpur. Practicing hour of Dr. Furkan Ahmed at Ibn Sina Medical College Hospital, Kallyanpur is 6pm to 9pm (Sat to Wednseday), 3pm to 5pm (Thursday).",
+      "chamber": {
+        "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
+        "address": "1/1 B, Kallyanpur, Dhaka",
+        "visitingTime": "6pm to 9pm (Sat to Wednseday), 3pm to 5pm (Thursday)",
+        "appointmentNumber": "+8801703725590"
+      },
+      "id": "ec038709-0c2c-45a0-a089-f4e43284edd0"
+    },
+    {
+      "name": "Prof. Dr. M. A. Awal",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urology & Andrology Specialist",
+      "workplace": "Asgar Ali Hospital, Dhaka",
+      "info": "Prof. Dr. M. A. Awal is a Urologist in Dhaka. His qualification is MBBS, MS (Urology). He is working as a Urology & Andrology Specialist doctor at Asgar Ali Hospital, Dhaka. He regularly provides treatment to his patients at Asgar Ali Hospital, Dhaka. Practicing hour of Prof. Dr. M. A. Awal at Asgar Ali Hospital, Dhaka is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Asgar Ali Hospital, Dhaka",
+        "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801787683333"
+      },
+      "id": "779f1448-5368-4696-b08e-53f4b4ecefed"
+    },
+    {
+      "name": "Dr. Md. Mahmudur Rahman Masud",
+      "degree": "MBBS, BCS (Health), MS (Urology)",
+      "specialty": "Kidney, Prostate, Bladder, Male Fertility, Urology Specialist & Surgeon",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Dr. Md. Mahmudur Rahman Masud is a Urologist in Dhaka. Her qualification is MBBS, BCS (Health), MS (Urology). She is a Registrar, Urology at Sir Salimullah Medical College & Mitford Hospital. She regularly provides treatment to her patients at Badda General Hospital. Practicing hour of Dr. Md. Mahmudur Rahman Masud at Badda General Hospital is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Badda General Hospital",
+        "address": "107/2, Progati Sarani, Uttar Badda, Dhaka",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801790776722"
+      },
+      "id": "22b2ab51-7a51-4928-b35a-1364b125bca9"
+    },
+    {
+      "name": "Dr. Md. Sheikh Amirul Islam",
+      "degree": "MBBS, MS (Urology), Higher Training (Laparoscopic Surgery)",
+      "specialty": "Urology Specialist & Surgeon",
+      "workplace": "National Institute of Cancer Research & Hospital",
+      "info": "Islami Bank Specialized & General Hospital, Nayapaltan\nAddress: 71-72, VIP Road, Nayapaltan, Dhaka\nVisiting Hour: 5pm to 7pm (Closed: Friday)\nAppointment: +8801977552283\nCall Now",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Motijheel",
+        "address": "24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka",
+        "visitingTime": "4.30pm to 5.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801727666741"
+      },
+      "id": "27ac2eb3-2e2a-46f2-a14c-314b2372f8f3"
+    },
+    {
+      "name": "Dr. Mohammod Bakhtiar Uddin",
+      "degree": "MBBS (DMC), MS (Urology), BCS, FACS (USA)",
+      "specialty": "Urology (Kidney, Prostate, Ureters, Bladder) Specialist & Surgeon",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Dr. Mohammod Bakhtiar Uddin is a Urologist in Dhaka. His qualification is MBBS (DMC), MS (Urology), BCS, FACS (USA). He is a Associate Professor, Urology at Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at Ibn Sina Medical Imaging Center, Zigatola. Practicing hour of Dr. Mohammod Bakhtiar Uddin at Ibn Sina Medical Imaging Center, Zigatola is 6pm to 9pm (Saturday to Wednesday).",
+      "chamber": {
+        "hospital": "Ibn Sina Medical Imaging Center, Zigatola",
+        "address": "House # 58, Road # 2A, Zigatola Bus Stand, Dhaka - 1209",
+        "visitingTime": "6pm to 9pm (Saturday to Wednesday)",
+        "appointmentNumber": "+88 09610009625"
+      },
+      "id": "7dcdcadb-60ed-4c8c-bcb4-4192cf7327ce"
+    },
+    {
+      "name": "Dr. Munshi Akid Mostofa",
+      "degree": "MBBS, BCS (Health), MS (Urology)",
+      "specialty": "Urology (Kidneys, Bladder, Ureters, Prostate) Specialist & Surgeon",
+      "workplace": "National Institute of Cancer Research & Hospital",
+      "info": "Dr. Munshi Akid Mostofa is a Urologist in Dhaka. His qualification is MBBS, BCS (Health), MS (Urology). He is a Consultant, Uro-Oncology at National Institute of Cancer Research & Hospital. He regularly provides treatment to his patients at Insaf Barakah Kidney & General Hospital. Practicing hour of Dr. Munshi Akid Mostofa at Insaf Barakah Kidney & General Hospital is 4pm to 7pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Insaf Barakah Kidney & General Hospital",
+        "address": "11, Shaheed Tajuddin Ahmed Sarani, Mogbazar, Dhaka",
+        "visitingTime": "4pm to 7pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801978098088"
+      },
+      "id": "36a58ab5-2ec5-4319-bbce-83d23a171ea4"
+    },
+    {
+      "name": "Dr. Masud Ahmed",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Prostate & Male Organs Surgeon",
+      "workplace": "National Institute of Cancer Research & Hospital",
+      "info": "Padma Diagnostic Center, Malibagh\nAddress: 245/2 New Circular Road, West Malibagh, Dhaka\nVisiting Hour: 7pm to 9pm (Sat, Sun, Tue & Wed)\nAppointment: +8809617444222\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Doyagonj",
+        "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
+        "visitingTime": "4pm to 7pm (Closed: Tue & Wed)",
+        "appointmentNumber": "+8801878115751"
+      },
+      "id": "13345158-f201-49fc-a872-91f0a4eaa0d3"
+    },
+    {
+      "name": "Dr. P. K. Roy",
+      "degree": "MBBS, BCS (Health), MS (Urology)",
+      "specialty": "Kidney, Urethra, Bladder, Prostate Specialist & Surgeon",
+      "workplace": "National Institute of Kidney Diseases & Urology",
+      "info": "Dr. P. K. Roy is a Urologist in Dhaka. His qualification is MBBS, BCS (Health), MS (Urology). He is a Consultant, Transplant Department at National Institute of Kidney Diseases & Urology. He regularly provides treatment to his patients at Super Medical Hospital, Savar. Practicing hour of Dr. P. K. Roy at Super Medical Hospital, Savar is 4pm 7pm (Mon & Thu) & 6pm to 8pm (Fri).",
+      "chamber": {
+        "hospital": "Super Medical Hospital, Savar",
+        "address": "Near Razzak Plaza, B-119/3, Jaleshwar, Savar, Dhaka",
+        "visitingTime": "4pm 7pm (Mon & Thu) & 6pm to 8pm (Fri)",
+        "appointmentNumber": "+8801711266169"
+      },
+      "id": "0b7d443e-c456-4398-978e-c4feb529ea41"
+    },
+    {
+      "name": "Prof. Dr. Pranashish Saha",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urology Specialist",
+      "workplace": "National Institute of Cancer Research & Hospital",
+      "info": "Prof. Dr. Pranashish Saha is a Urologist in Dhaka. His qualification is MBBS, MS (Urology). He is working as a Urology Specialist doctor in National Institute of Cancer Research & Hospital. He regularly provides treatment to his patients at Comfort Diagnostic Center, Dhanmondi. Practicing hour of Prof. Dr. Pranashish Saha at Comfort Diagnostic Center, Dhanmondi is 5pm to 8pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Comfort Diagnostic Center, Dhanmondi",
+        "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "5pm to 8pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801731956033"
+      },
+      "id": "b7811b30-8e8e-4145-bd5d-bdaa1895befe"
+    },
+    {
+      "name": "Dr. Sayem Hossain",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urology (Kidneys, Bladder, Ureters, Prostate) Specialist & Andrologist",
+      "workplace": "Bangladesh Specialized Hospital",
+      "info": "Dr. Sayem Hossain is a Urologist in Dhaka. His qualification is MBBS, MS (Urology). He is a Consultant, Urology at Bangladesh Specialized Hospital. He regularly provides treatment to his patients at Bangladesh Specialized Hospital. Practicing hour of Dr. Sayem Hossain at Bangladesh Specialized Hospital is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Bangladesh Specialized Hospital",
+        "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8809666700100"
+      },
+      "id": "397be449-77ec-4aec-8f16-d401323ad397"
+    },
+    {
+      "name": "Dr. Md. Shawkat Alam",
+      "degree": "MBBS, MRCS (UK), MS (Urology)",
+      "specialty": "Urology Specialist",
+      "workplace": "National Institute of Kidney Diseases & Urology",
+      "info": "Dr. Md. Shawkat Alam is a Urologist in Dhaka. His qualification is MBBS, MRCS (UK), MS (Urology). He is working as a Urology Specialist doctor in National Institute of Kidney Diseases & Urology. He regularly provides treatment to his patients at Bangladesh Specialized Hospital. Practicing hour of Dr. Md. Shawkat Alam at Bangladesh Specialized Hospital is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Bangladesh Specialized Hospital",
+        "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8809666700100"
+      },
+      "id": "c0e8fd13-fdb8-4bad-afb4-4c099ed2b541"
+    },
+    {
+      "name": "Dr. Md. Salahuddin Faruque",
+      "degree": "MBBS, FCPS (Surgery), MS (Urology)",
+      "specialty": "Urology Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Md. Salahuddin Faruque is a Urologist in Dhaka. His qualification is MBBS, FCPS (Surgery), MS (Urology). He is working as a Urology Surgeon doctor in Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Comfort Diagnostic Center, Dhanmondi. Practicing hour of Dr. Md. Salahuddin Faruque at Comfort Diagnostic Center, Dhanmondi is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Comfort Diagnostic Center, Dhanmondi",
+        "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801731956033"
+      },
+      "id": "ee1e20e1-208e-47da-b174-2da98384eb4a"
+    },
+    {
+      "name": "Dr. A.B. Shahriar Ahmed",
+      "degree": "MBBS, MRCS (UK), FCPS (Surgery), MS (Urology)",
+      "specialty": "Urologist & Surgeon",
+      "workplace": "Enam Medical College & Hospital",
+      "info": "Dr. A.B. Shahriar Ahmed is a Urologist in Dhaka. His qualification is MBBS, MRCS (UK), FCPS (Surgery), MS (Urology). He is a Assistant Professor, Urology at Enam Medical College & Hospital. He regularly provides treatment to his patients at Enam Medical College & Hospital. Practicing hour of Dr. A.B. Shahriar Ahmed at Enam Medical College & Hospital is 8am to 2.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Enam Medical College & Hospital",
+        "address": "9/3 Parboti Nagar, Thana Road, Savar, Dhaka",
+        "visitingTime": "8am to 2.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801716358146"
+      },
+      "id": "af0d51be-6425-4263-bb0a-0cc10e6747a1"
+    },
+    {
+      "name": "Dr. SK Amirul Islam",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urology Specialist",
+      "workplace": "National Institute of Cancer Research & Hospital",
+      "info": "Dr. SK Amirul Islam is a Urologist in Dhaka. His qualification is MBBS, MS (Urology). He is working as a Urology Specialist doctor in National Institute of Cancer Research & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Malibagh. Practicing hour of Dr. SK Amirul Islam at Ibn Sina Diagnostic Center, Malibagh is 7pm to 9pm (Closed: Wednesday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Malibagh",
+        "address": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
+        "visitingTime": "7pm to 9pm (Closed: Wednesday)",
+        "appointmentNumber": "+8801844141717"
+      },
+      "id": "699feee7-4871-42de-86f1-f8fbbf2d6761"
+    },
+    {
+      "name": "Dr. Md. Shaukat Ali Khan",
+      "degree": "MBBS, MS (Urology), FACS (USA)",
+      "specialty": "Urologist & Uro-Oncologist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Md. Shaukat Ali Khan is a Urologist in Dhaka. His qualification is MBBS, MS (Urology), FACS (USA). He is working as a Urologist & Uro-Oncologist doctor in Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Labaid Specialized Hospital, Dhanmondi. Practicing hour of Dr. Md. Shaukat Ali Khan at Labaid Specialized Hospital, Dhanmondi is 10am to 2pm & 6pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Dhanmondi",
+        "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "10am to 2pm & 6pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "10606"
+      },
+      "id": "89e1bf00-632e-424b-ba75-0137138b9911"
+    },
+    {
+      "name": "Dr. Md. Saiful Alam Babul",
+      "degree": "MBBS, BCS (Health), MS (Urology), URC (Singapore)",
+      "specialty": "Urology Specialist",
+      "workplace": "National Institute of Kidney Diseases & Urology",
+      "info": "Dr. Md. Saiful Alam Babul is a Urologist in Dhaka. His qualification is MBBS, BCS (Health), MS (Urology), URC (Singapore). He is working as a Urology Specialist doctor in National Institute of Kidney Diseases & Urology. He regularly provides treatment to his patients at Padma Diagnostic Center, Malibagh. Practicing hour of Dr. Md. Saiful Alam Babul at Padma Diagnostic Center, Malibagh is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Padma Diagnostic Center, Malibagh",
+        "address": "245/2 New Circular Road, West Malibagh, Dhaka",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809617444222"
+      },
+      "id": "a46f5fe5-d2e1-45f4-9def-1710372929c3"
+    },
+    {
+      "name": "Dr. Tanbir Al-Misbah",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urology (Kidneys, Bladder, Ureters, Prostate) Specialist & Surgeon",
+      "workplace": "Enam Medical College & Hospital",
+      "info": "Dr. Tanbir Al-Misbah is a Urologist in Dhaka. His qualification is MBBS, MS (Urology). He is an Assistant Professor, Urology at Enam Medical College & Hospital. He regularly provides treatment to his patients at Hi-Care General Hospital, Uttara. Practicing hour of Dr. Tanbir Al-Misbah at Hi-Care General Hospital, Uttara is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Hi-Care General Hospital, Uttara",
+        "address": "House # 24 & 26 , Lake Drive Road, Sector # 7, Uttara, Dhaka",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+880255094231"
+      },
+      "id": "ade47cd7-2977-424c-8a01-2fe9b87d21b2"
+    },
+    {
+      "name": "Dr. Md. Nabid Alam",
+      "degree": "MBBS, MS (Urology), FACS (USA)",
+      "specialty": "Urology (Kidney, Ureter, Bladder, Prostate) Specialist & Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital (PG Hospital)",
+      "info": "Ibn Sina Diagnostic & Consultation Center, Mirpur\nAddress: House # 11, Haji Road, Avenue 3, Rupnagar, Mirpur 2, Dhaka\nVisiting Hour: 8pm to 10pm (Saturday to Wednesday)\nAppointment: +8801847262996\nCall Now",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Mirpur",
+        "address": "Plot # 09, Block # B, Section # 01, Mirpur, Dhaka",
+        "visitingTime": "6pm to 8pm (Saturday to Wednesday)",
+        "appointmentNumber": "+8801766661602"
+      },
+      "id": "f348117c-178a-4d9c-a521-4a105b76199f"
+    },
+    {
+      "name": "Asst. Prof. Dr. Mohammad Abdus Salam",
+      "degree": "MBBS (DMC), MS (Urology)",
+      "specialty": "Urology (Kidney, Ureter, Bladder, Prostate) Specialist & Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Asst. Prof. Dr. Mohammad Abdus Salam is a Urologist in Dhaka. His qualification is MBBS (DMC), MS (Urology). He is a Assistant Professor, Department of Urology at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Uttara (Unit 02). Practicing hour of Asst. Prof. Dr. Mohammad Abdus Salam at Labaid Diagnostic, Uttara (Unit 02) is 6.30pm to 8.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Uttara (Unit 02)",
+        "address": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
+        "visitingTime": "6.30pm to 8.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662050"
+      },
+      "id": "9e22ec2b-054f-4447-a89a-b248a74c483e"
+    },
+    {
+      "name": "Dr. A K M Akramul Bari",
+      "degree": "MBBS (CMC), BCS (Health), MS (Urology)",
+      "specialty": "Urologist, Uro-oncologist, Andrologist & Endo-laparoscopic SurgeonKidney, Urinary Bladder, Urethra, Prostate Surgery And Male Sex & Infertility Specialist",
+      "workplace": "National Institute of Kidney Diseases & Urology",
+      "info": "Dr. A K M Akramul Bari is a Urologist in Dhaka. His qualification is MBBS (CMC), BCS (Health), MS (Urology). He is a Consultant, Urology at National Institute of Kidney Diseases & Urology. He regularly provides treatment to his patients at Labaid Diagnostic, Uttara (Unit 02). Practicing hour of Dr. A K M Akramul Bari at Labaid Diagnostic, Uttara (Unit 02) is 7pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Uttara (Unit 02)",
+        "address": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
+        "visitingTime": "7pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662050"
+      },
+      "id": "563b97c2-5c43-4454-b601-e6c207d405cb"
+    },
+    {
+      "name": "Prof. Dr. Md. Sayedul Islam",
+      "degree": "MBBS, FCPS (Surgery), MS (Urology), MRCS (UK)",
+      "specialty": "Urologist, Andrologist & Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. Md. Sayedul Islam is a Urologist in Dhaka. His qualification is MBBS, FCPS (Surgery), MS (Urology), MRCS (UK). He is a Chairman & Professor of Urology Department at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Dhanmondi. Practicing hour of Prof. Dr. Md. Sayedul Islam at Popular Diagnostic Center, Dhanmondi is 5pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Dhanmondi",
+        "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+        "visitingTime": "5pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787801"
+      },
+      "id": "685b48fe-b8d0-4e6f-9fef-59df91132f94"
+    },
+    {
+      "name": "Dr. Mohammad Shafiqul Islam",
+      "degree": "MBBS, MS (UROLOGY)",
+      "specialty": "Urology (Kidney, Ureter, Bladder, Prostate) Specialist & Surgeon",
+      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+      "info": "Dr. Mohammad Shafiqul Islam is a Urologist in Dhaka. His qualification is MBBS, MS (UROLOGY). He is a Consultant, Urology at Shaheed Suhrawardy Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Malibagh. Practicing hour of Dr. Mohammad Shafiqul Islam at Labaid Diagnostic, Malibagh is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Malibagh",
+        "address": "House # B65, Chowdhury Para, Malibagh, Dhaka",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662555"
+      },
+      "id": "7bea6a99-bc24-4705-b634-595f28aab1a8"
+    },
+    {
+      "name": "Dr. Md. Ashraful Islam (Rajib)",
+      "degree": "MBBS (SSMC), BCS (HEALTH), MS-UROLOGY(BSMMU)",
+      "specialty": "Urology (Kidney, Ureter, Bladder, Prostate) Specialist & Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Md. Ashraful Islam (Rajib) is a Urologist in Dhaka. His qualification is MBBS (SSMC), BCS (HEALTH), MS-UROLOGY(BSMMU). He is a Consultant, Department of Urology at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Authentic Diagnostic & Consultation Center. Practicing hour of Dr. Md. Ashraful Islam (Rajib) at Authentic Diagnostic & Consultation Center is 2.30pm to 4.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Authentic Diagnostic & Consultation Center",
+        "address": "House # 71/4, Hoseni Dalan Road, Chankharpul, Dhaka",
+        "visitingTime": "2.30pm to 4.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801719701552"
+      },
+      "id": "dba58011-9ba0-4999-827b-33e35bba8681"
+    },
+    {
+      "name": "Dr. Md. Siddiqur Rahman",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urology Specialist & Surgeon",
+      "workplace": "National Institute of Cancer Research & Hospital",
+      "info": "Dr. Md. Siddiqur Rahman is a Urologist in Dhaka. His qualification is MBBS, MS (Urology). He is working as a Urology Specialist & Surgeon doctor in National Institute of Cancer Research & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Badda. Practicing hour of Dr. Md. Siddiqur Rahman at Labaid Diagnostic, Badda is 8pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Badda",
+        "address": "House # 04, Road # 10, Merul Badda, Dhaka",
+        "visitingTime": "8pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801766660208"
+      },
+      "id": "9014055c-831a-4fee-ada6-9566b957961a"
+    },
+    {
+      "name": "Dr. Md. Nazrul Islam Mridha",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urology Specialist & Surgeon",
+      "workplace": "National Institute of Cancer Research & Hospital",
+      "info": "Dr. Md. Nazrul Islam Mridha is a Urological Surgeon in Dhaka. His qualification is MBBS, MS (Urology). He is a Assistant Professor, Urology at National Institute of Cancer Research & Hospital. He regularly provides treatment to his patients at Islami Bank Specialized & General Hospital, Nayapaltan. Practicing hour of Dr. Md. Nazrul Islam Mridha at Islami Bank Specialized & General Hospital, Nayapaltan is 7pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Specialized & General Hospital, Nayapaltan",
+        "address": "71-72, VIP Road, Nayapaltan, Dhaka",
+        "visitingTime": "7pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801977552283"
+      },
+      "id": "86ee1341-4563-46b8-8d60-178ca60b6523"
+    },
+    {
+      "name": "Dr. Md. Abid Hossain",
+      "degree": "MBBS, FCPS (Surgery), MS (Urology), FRCS (Ireland), FRCS (Glasgow)",
+      "specialty": "Urology Specialist & Surgeon",
+      "workplace": "National Institute of Kidney Diseases & Urology",
+      "info": "Dr. Md. Abid Hossain is a Urology Specialist in Dhaka. His qualification is MBBS, FCPS (Surgery), MS (Urology), FRCS (Ireland), FRCS (Glasgow). He is a Assistant Professor, Urology at National Institute of Kidney Diseases & Urology. He regularly provides treatment to his patients at Anwer Khan Modern Medical College Hospital. Practicing hour of Dr. Md. Abid Hossain at Anwer Khan Modern Medical College Hospital is 6pm to 9pm (Closed: Friday & Saturday).",
+      "chamber": {
+        "hospital": "Anwer Khan Modern Medical College Hospital",
+        "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
+        "visitingTime": "6pm to 9pm (Closed: Friday & Saturday)",
+        "appointmentNumber": "+8801819214972"
+      },
+      "id": "008e263f-5a73-4be7-83c7-6493a17ebe42"
+    },
+    {
+      "name": "Prof. Dr. Md. Amanur Rashul",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urology Specialist & Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Prof. Dr. Md. Amanur Rashul is a Urology Specialist in Dhaka. His qualification is MBBS, MS (Urology). He is a Professor, Urology at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Anwer Khan Modern Medical College Hospital. Practicing hour of Prof. Dr. Md. Amanur Rashul at Anwer Khan Modern Medical College Hospital is 6pm to 9pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Anwer Khan Modern Medical College Hospital",
+        "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
+        "visitingTime": "6pm to 9pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801712597805"
+      },
+      "id": "bced512c-4fda-448e-a73c-30a9750cd4a0"
+    },
+    {
+      "name": "Dr. Ferdous Mahmud Faisal",
+      "degree": "MBBS, BCS (Health), MS (Urology)",
+      "specialty": "Urology Specialist & Surgeon",
+      "workplace": "National Institute of Kidney Diseases & Urology",
+      "info": "Dr. Ferdous Mahmud Faisal is a Urology Specialist in Dhaka. His qualification is MBBS, BCS (Health), MS (Urology). He is a Consultant, Urology at National Institute of Kidney Diseases & Urology. He regularly provides treatment to his patients at Islami Bank Hospital, Mugda. Practicing hour of Dr. Ferdous Mahmud Faisal at Islami Bank Hospital, Mugda is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Mugda",
+        "address": "1/24/B, Kamalapur Manda Road, South Mugdapara, Dhaka",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801724008677"
+      },
+      "id": "49bd74e4-a7cd-4ad4-aba8-cb08c95e5693"
+    },
+    {
+      "name": "Dr. Md. Rifat Hossain",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urology, Male Infertility Specialist & Surgeon",
+      "workplace": "Bashundhara Ad-Din Medical College & Hospital",
+      "info": "Dr. Md. Rifat Hossain is a Urology Specialist in Dhaka. His qualification is MBBS, MS (Urology). He is a Assistant Professor, Urology at Bashundhara Ad-Din Medical College & Hospital. He regularly provides treatment to his patients at Islami Bank Hospital, Mugda. Practicing hour of Dr. Md. Rifat Hossain at Islami Bank Hospital, Mugda is 4pm to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Mugda",
+        "address": "1/24/B, Kamalapur Manda Road, South Mugdapara, Dhaka",
+        "visitingTime": "4pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801724008677"
+      },
+      "id": "ebd85a89-3208-4261-8bc6-6942f8b88f47"
+    },
+    {
+      "name": "Dr. Md. Amirul Islam",
+      "degree": "MBBS, BCS (Health), MS (Urology)",
+      "specialty": "Urology (Kidneys, Bladder, Urinary Stone, Prostate) Specialist & Surgeon",
+      "workplace": "Sheikh Sayera Khatun Medical College & Hospital",
+      "info": "Dr. Md. Amirul Islam is a Urinary Stone Specialist in Dhaka. His qualification is MBBS, BCS (Health), MS (Urology). He is working as a Urology (Kidneys, Bladder, Urinary Stone, Prostate) Specialist & Surgeon doctor in Sheikh Sayera Khatun Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Lalbagh. Practicing hour of Dr. Md. Amirul Islam at Ibn Sina Diagnostic Center, Lalbagh is 4.30pm to 7pm (Closed: Monday, Tuesday & Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Lalbagh",
+        "address": "27/4 Dhakeshwori Road, Lalbagh, Dhaka",
+        "visitingTime": "4.30pm to 7pm (Closed: Monday, Tuesday & Friday)",
+        "appointmentNumber": "+8801783356048"
+      },
+      "id": "ca881de0-0fb0-4064-9d48-a586c17cd522"
+    },
+    {
+      "name": "Prof. Dr. Mirza M. Hasan Faisal",
+      "degree": "MBBS, FCPS, FRCS (Edinburgh), FICS",
+      "specialty": "Urologist and Kidney Transplant Surgeon",
+      "workplace": "Birdem General Hospital & Ibrahim Medical College",
+      "info": "Prof. Dr. Mirza M. Hasan Faisal is a renowned urologist and kidney transplant surgeon in Dhaka, holding qualifications of MBBS, FCPS, FRCS (Edinburgh), and FICS. He serves as the Senior Consultant and Head of the Urology Department at Birdem General Hospital & Ibrahim Medical College. Dr. Faisal is highly skilled in treating various urological conditions such as kidney stones, prostate enlargement, urinary bladder tumors, ureteric strictures, male infertility, and urinary tract infections, as well as performing complex kidney transplant surgeries. He offers consultations at BIRDEM Specialized Chamber Complex, Shahbag, Dhaka, from 2pm to 6pm, with Friday as his off day.",
+      "chamber": {
+        "hospital": "BIRDEM Specialized Chamber Complex",
+        "address": "Main Building, 122, Kazi Nazrul Islam Avenue, Shahbag, Dhaka",
+        "visitingTime": "2pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801711393463"
+      },
+      "id": "28dc645c-f522-4d2d-983a-8d94424000a5"
+    },
+    {
+      "name": "Dr. Md. Saiful Islam",
+      "degree": "MBBS, BCS (Health), MS (Urology)",
+      "specialty": "Urologist and AndrologistKidney, Ureter, Prostate, Bladder, Sexual Organs Specialist & Surgeon",
+      "workplace": "National Institute of Kidney Diseases & Urology",
+      "info": "Dr. Md. Saiful Islam is an experienced urologist and andrologist in Dhaka, holding MBBS, BCS (Health), and MS (Urology) degrees. He is currently working as a Consultant Urologist at the National Institute of Kidney Diseases & Urology. Dr. Saiful Islam specializes in the treatment of various urological and andrological diseases such as kidney stones, ureteric stones, prostate enlargement, urinary bladder tumors, male infertility, sexual health problems, urinary tract infections (UTI), and male sexual dysfunction. He provides consultations at Medinova Medical Services, Mirpur, Dhaka, where his visiting hours are from 5pm to 7pm (closed on Fridays).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Mirpur",
+        "address": "Plot # 29-30, Block # Kha, Road # 1, Section # 6, Mirpur 10, Dhaka",
+        "visitingTime": "5pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801627172222"
+      },
+      "id": "5813209a-d137-47e5-ba49-ecba406f4ec0"
+    }
+  ]
+}

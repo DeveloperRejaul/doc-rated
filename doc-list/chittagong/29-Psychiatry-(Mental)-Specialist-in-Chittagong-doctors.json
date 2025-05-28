@@ -1,0 +1,200 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Arafat Azim",
+      "degree": "MBBS, BCS (Health), MD (Psychiatry)",
+      "specialty": "Mental Diseases, Sexual Medicine & Neuropsychiatry Specialist",
+      "workplace": "Chittagong Medical College & HospitalAppointment: 01810-004550",
+      "info": "Dr. Arafat Azim is a Psychiatrist in Chittagong. His qualification is MBBS, BCS (Health), MD (Psychiatry). He is a Consultant, Psychiatry at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Asperia Health Care Ltd, Chittagong. Practicing hour of Dr. Arafat Azim at Asperia Health Care Ltd, Chittagong is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Asperia Health Care Ltd, Chittagong",
+        "address": "Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801810-004550"
+      },
+      "id": "e8f8e5f2-3892-43c8-a6d0-68879bb9e197"
+    },
+    {
+      "name": "Prof. Dr. Md. Shafiul Hasan",
+      "degree": "MBBS, DPM (Psychiatric Medicine)",
+      "specialty": "Mental Diseases, Disorders & Drug Addiction Specialist",
+      "workplace": "Institute of Applied Health Science, Chittagong",
+      "info": "Prof. Dr. Md. Shafiul Hasan is a Psychiatrist in Chittagong. His qualification is MBBS, DPM (Psychiatric Medicine). He is a Professor & Head, Psychiatry at Institute of Applied Health Science, Chittagong. He regularly provides treatment to his patients at Chattogram Metropolitan Hospital. Practicing hour of Prof. Dr. Md. Shafiul Hasan at Chattogram Metropolitan Hospital is 6pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital",
+        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801814651077"
+      },
+      "id": "8d31c28b-a5d0-4be1-aabc-986133be95d8"
+    },
+    {
+      "name": "Dr. ASM Ridwan",
+      "degree": "MBBS, MD (Psychiatry)",
+      "specialty": "Psychiatry (Mental Diseases, Brain, Mind, Drug Addiction) Specialist",
+      "workplace": "Chittagong International Medical College & Hospital",
+      "info": "Dr. ASM Ridwan is a Psychiatrist in Chittagong. His qualification is MBBS, MD (Psychiatry). He is a Assistant Professor & Head, Psychiatry at Chittagong International Medical College & Hospital. He regularly provides treatment to his patients at Parkview Hospital, Chittagong. Practicing hour of Dr. ASM Ridwan at Parkview Hospital, Chittagong is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801976022333"
+      },
+      "id": "658b2f21-aa08-4656-a22c-811a13410910"
+    },
+    {
+      "name": "Prof. Dr. Md. Shah Alam",
+      "degree": "MBBS, FCPS (Psychiatry)",
+      "specialty": "Mental Diseases, Drug Addiction, Sexual Health Specialist & Psychotherapist",
+      "workplace": "National Institute of Mental Health & Hospital",
+      "info": "Chittagong Square Clinical Laboratory\nAddress: 195, Plot # 20, Road # 11, KB Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 9am to 9pm (Every Thursday)\nAppointment: +8801736079570\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Dhanmondi",
+        "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+        "visitingTime": "6pm to 10pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809666787801"
+      },
+      "id": "82ff5d18-8e13-4ad3-be9c-57d0af096c17"
+    },
+    {
+      "name": "Dr. Mohiuddin A. Sikder",
+      "degree": "MBBS, M.PHIL (Psychiatry)",
+      "specialty": "Mental Diseases Specialist & Psychiatrist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Chittagong\nAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 5pm to 5:30pm (Closed: Friday)\nAppointment: +8809666787810\nCall Now",
+      "chamber": {
+        "hospital": "Epic Healthcare, Chittagong",
+        "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "2.30pm to 4pm (Closed: Friday)",
+        "appointmentNumber": "+8801984499600"
+      },
+      "id": "7b594adc-6bf3-4bd4-a60f-a6a2dc0e618a"
+    },
+    {
+      "name": "Dr. Panchanan Acharjee",
+      "degree": "MBBS, BCS (Health), MD (Psychiatry)",
+      "specialty": "Psychiatry (Mental Diseases, Drug Addiction) Specialist & Psychotherapist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Labaid Specialized Hospital, Chattogram\nAddress: 3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram\nVisiting Hour: 6pm to 9pm (Sat, Mon & Wed)\nAppointment: +8801766662829\nCall Now",
+      "chamber": {
+        "hospital": "Max Hospital & Diagnostic, Chittagong",
+        "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+        "visitingTime": "3pm to 6pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801852302835"
+      },
+      "id": "998527a0-50f0-4e63-9a34-866789201c75"
+    },
+    {
+      "name": "Dr. Surajit Roy Chowdhury",
+      "degree": "MBBS, MD (Psychiatry)",
+      "specialty": "Mental Health Specialist & Psychotherapist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Surajit Roy Chowdhury is a Psychiatrist in Chittagong. His qualification is MBBS, MD (Psychiatry). He is a Consultant, Psychiatry at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Chittagong. Practicing hour of Dr. Surajit Roy Chowdhury at Popular Diagnostic Center, Chittagong is 9pm to 11.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Chittagong",
+        "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "9pm to 11.30pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787810"
+      },
+      "id": "58f12e8b-3922-4942-a4c0-4bb00b1b3c81"
+    },
+    {
+      "name": "Prof. Dr. Md. Gias Uddin Sagor",
+      "degree": "MBBS, M.Phil (Psychiatry)",
+      "specialty": "Mental Health, Brain Disorders, Headache & Epilepsy Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Prof. Dr. Md. Gias Uddin Sagor is a Psychiatrist in Chittagong. His qualification is MBBS, M.Phil (Psychiatry). He is a Professor & Head, Mental Diseases at Chattogram Maa-O-Shishu Hospital Medical College. He regularly provides treatment to his patients at National Hospital, Chittagong. Practicing hour of Prof. Dr. Md. Gias Uddin Sagor at National Hospital, Chittagong is 3pm to 5pm (Closed: Friday & Saturday).",
+      "chamber": {
+        "hospital": "National Hospital, Chittagong",
+        "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
+        "visitingTime": "3pm to 5pm (Closed: Friday & Saturday)",
+        "appointmentNumber": "+8801822685066"
+      },
+      "id": "918e7e83-7930-472e-973a-d6f1bae73a68"
+    },
+    {
+      "name": "Asst. Prof. Dr. Bijoy Kumar Dutta",
+      "degree": "MBBS, BCS (Health), MD (Psychiatry)",
+      "specialty": "Mental Diseases, Autism, Drug Addiction, Sex Medicine Specialist & Psychologist",
+      "workplace": "Comilla Medical College & Hospital",
+      "info": "Prime Hospital, Noakhali\nAddress: Chowmuhoni Chowrasta, Begumgonj, Noakhali\nVisiting Hour: 2.30pm to 7.30pm (Thursday)\nAppointment: +8801313789001\nCall Now",
+      "chamber": {
+        "hospital": "Woodland Diagnostic Center, Chittagong",
+        "address": "37, KB Fazlul Kader Road, Panchlaish, Chittagong",
+        "visitingTime": "10am to 2pm (Friday)",
+        "appointmentNumber": "+8801686640540"
+      },
+      "id": "c91ec1f5-86a4-4b21-9b43-4a46e3138f44"
+    },
+    {
+      "name": "Dr. Major S. M. Ashek Uddin Bhuiyan",
+      "degree": "MBBS, FCPS (Psychiatry)",
+      "specialty": "Mental Diseases, Brain Disorder & Psychiatry Specialist",
+      "workplace": "Combined Military Hospital, Chittagong",
+      "info": "Dr. Major S. M. Ashek Uddin Bhuiyan is a Psychiatrist in Chittagong. His qualification is MBBS, FCPS (Psychiatry). He is a Classified Specialist & Head, Psychiatry at Combined Military Hospital, Chittagong. He regularly provides treatment to his patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Major S. M. Ashek Uddin Bhuiyan at Parkview Hospital, Chittagong is 4pm to 7pm (Sun, Mon & Tue).",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "4pm to 7pm (Sun, Mon & Tue)",
+        "appointmentNumber": "+8801976022333"
+      },
+      "id": "ab804c1d-b898-48b9-bd52-8ae36edb53e3"
+    },
+    {
+      "name": "Dr. Johor Dutta",
+      "degree": "MBBS, BCS (Health), MD (Psychiatry)",
+      "specialty": "Brain, Mental Diseases, Headache & Sexual Diseases Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Johor Dutta is a Psychiatrist in Chittagong. His qualification is MBBS, BCS (Health), MD (Psychiatry). He is a Consultant, Psychiatry at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Chittagong. Practicing hour of Dr. Johor Dutta at Popular Diagnostic Center, Chittagong is 7pm to 10pm (Closed: Mon & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Chittagong",
+        "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Mon & Friday)",
+        "appointmentNumber": "+8809666787810"
+      },
+      "id": "b453a35c-9a27-4310-b65c-f8e495fbe53f"
+    },
+    {
+      "name": "Dr. Parag Dey",
+      "degree": "MBBS, BCS (Health), MD (Psychiatry)",
+      "specialty": "Mental Diseases, Sexual Medicine, Drug Addiction & Neuropsychiatry Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Parag Dey is a Psychiatrist in Chittagong. His qualification is MBBS, BCS (Health), MD (Psychiatry). He is a Consultant, Psychiatry at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Chittagong. Practicing hour of Dr. Parag Dey at Popular Diagnostic Center, Chittagong is 4pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Chittagong",
+        "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "4pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801770559555"
+      },
+      "id": "57d45093-692e-4028-bf45-87a5689965a5"
+    },
+    {
+      "name": "Dr. Mohammad Shahadath Hossain",
+      "degree": "MBBS (CMC), BCS (Health), MCPS (Psychiatry), FCPS (Psychiatry)",
+      "specialty": "Neuropsychiatrist, Addiction, Sleep & Sexual Health Specialist",
+      "workplace": "National Institute Of Mental Health & Hospital",
+      "info": "Popular Diagnostic Center, Noakhali\nAddress: House #1222, New Bus Stand, Maijdee Court, Noakhali\nVisiting Hour: 9.30am to 3.00pm (Only Friday)\nAppointment: +8809666787818\nCall Now",
+      "chamber": {
+        "hospital": "Online Chamber (WhatsApp)",
+        "address": "WhatsApp",
+        "visitingTime": "3pm to 9pm (Saturday, Monday & Wednesday)",
+        "appointmentNumber": "+8801516116120 (WhatsApp - Only Text)(No Call, No Voice)"
+      },
+      "id": "3cec4ed0-6eaf-413e-99e3-32eb8337adc8"
+    },
+    {
+      "name": "Dr. Farhana Naznin",
+      "degree": "MBBS, BCS (Health), MD (Psychiatry)",
+      "specialty": "Mental Diseases, Sexual Medicine & Neuropsychiatry Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Farhana Naznin is a compassionate and experienced psychiatry specialist in Chattogram, with expertise in mental health, sexual medicine, and neuropsychiatric disorders. She holds an MBBS, BCS (Health), and MD in Psychiatry, and currently serves as a Consultant Psychiatrist at Chittagong Medical College & Hospital. Dr. Naznin offers expert care for a wide range of psychological and neurological conditions, including depression, anxiety, bipolar disorder, schizophrenia, OCD, sleep disorders, stress-related issues, sexual dysfunctions, and psychosomatic illnesses. She is known for her empathetic approach, accurate diagnosis, and evidence-based treatment plans. Patients can consult her at Parkview Hospital, Chattogram, located at 94/103, Katalganj Road, Panchlaish, from 3:00 PM to 6:00 PM (closed on Thursdays and Fridays). For trusted mental health care in Chattogram, Dr. Farhana Naznin is a widely recommended name.",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "3pm to 6pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801554332058"
+      },
+      "id": "63e5862d-28df-413f-8034-9b488949c4bb"
+    }
+  ]
+}

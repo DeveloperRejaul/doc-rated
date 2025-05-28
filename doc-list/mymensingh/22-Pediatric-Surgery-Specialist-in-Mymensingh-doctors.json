@@ -1,0 +1,60 @@
+{
+  "doctor": [
+    {
+      "name": "Prof. Dr. ASM Lokman Hossain Chowdhury",
+      "degree": "MBBS, MS (Pediatric Surgery)",
+      "specialty": "Neonatal & Pediatric Specialist Surgeon",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Prof. Dr. ASM Lokman Hossain Chowdhury is a Pediatric Surgeon in Mymensingh. His qualification is MBBS, MS (Pediatric Surgery). He is a Professor & Head, Pediatric Surgery at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Delta Health Care, Mymensingh. Practicing hour of Prof. Dr. ASM Lokman Hossain Chowdhury at Delta Health Care, Mymensingh is 3pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Delta Health Care, Mymensingh",
+        "address": "55/5, Medical College Gate, Charpara, Mymensingh",
+        "visitingTime": "3pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801847158301"
+      },
+      "id": "cd09b507-41e6-428c-b698-7435a349cf9c"
+    },
+    {
+      "name": "Dr. Shafiqul Bari Tuhin",
+      "degree": "MBBS (Dhaka), BCS (Health), MS (Pediatric Surgery), Higher Training (India)",
+      "specialty": "Neonatal & Pediatric Surgeon",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Sayem Diagno Complex & Hospital, Mymensingh\nAddress: 30/A/1, Dengu Bepari Road, Sehora, Mymensingh – 2200\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8801725516141\nCall Now",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Mymensingh",
+        "address": "72, Charpara, Medical College Gate, Mymensingh",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801766663000"
+      },
+      "id": "3244702c-1e77-4906-b131-a11966099e03"
+    },
+    {
+      "name": "Dr. Abdullah Al Mahmud Ratan",
+      "degree": "MBBS, BCS (Health), MS (Pediatric Surgery)",
+      "specialty": "Neonatal & Pediatric Surgeon",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Delta Health Care, Mymensingh\nAddress: 55/5, Medical College Gate, Charpara, Mymensingh\nVisiting Hour: 5pm to 10pm (Closed: Friday)\nAppointment: +8801847158301\nCall Now",
+      "chamber": {
+        "hospital": "Sodesh Hospital, Mymensingh",
+        "address": "298/2, Maskanda (Bus Stand), Mymensingh - 2200",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809666777990"
+      },
+      "id": "44b04483-4241-4b5b-8a13-0b05cec494a8"
+    },
+    {
+      "name": "Dr. Nadiuzzaman Khan Nadim",
+      "degree": "MBBS, BCS (Health), MS (Pediatric Surgery)",
+      "specialty": "Pediatric Surgery Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Nadiuzzaman Khan Nadim is a Pediatric Surgeon in Mymensingh. His qualification is MBBS, BCS (Health), MS (Pediatric Surgery). He is a Assistant Professor, Pediatric Surgery at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Mymensingh. Practicing hour of Dr. Nadiuzzaman Khan Nadim at Popular Diagnostic Center, Mymensingh is 2pm to 5pm (Sat, Sun & Wed).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mymensingh",
+        "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+        "visitingTime": "2pm to 5pm (Sat, Sun & Wed)",
+        "appointmentNumber": "+8809666787814"
+      },
+      "id": "c44c2870-70ae-4e67-83f3-dd5d8f3179b8"
+    }
+  ]
+}

@@ -1,0 +1,228 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Subrata Ghosh",
+      "degree": "MBBS, BCS (Health), FCPS (ENT)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Subrata Ghosh is a ENT Specialist in Rajshahi. His qualification is MBBS, BCS (Health), FCPS (ENT). He is a Associate Professor, ENT at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Subrata Ghosh at Popular Diagnostic Center, Rajshahi is 4pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "4pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787811"
+      },
+      "id": "2fb6854f-4355-43c9-a84b-dc41c28ac24e"
+    },
+    {
+      "name": "Dr. Ashik Iqbal",
+      "degree": "MBBS (Dhaka), BCS (Health), FCPS (ENT)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Shimla Hospital, Pabna\nAddress: Shimla Tower, Thana Mor, Hospital Road, Pabna\nVisiting Hour: 9am to 3pm (Only Friday)\nAppointment: +8801713228218\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "3pm to 7pm (Closed: Tue & Friday)",
+        "appointmentNumber": "+8809666787811"
+      },
+      "id": "1a730f1e-a75a-452a-9d70-496b35632951"
+    },
+    {
+      "name": "Dr. Md. Asadur Rahman",
+      "degree": "MBBS, FCPS (ENT)",
+      "specialty": "ENT Specialist & Head Neck Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Amin Diagnostic & Medical Services, Kushtia\nAddress: Ram Chandra Ray Chowdhury Road, College Mor, Court Para, Kushtia\nVisiting Hour: 5pm to 8pm (Thu), 8am to 5pm (Fri)\nAppointment: +8801712243514\nCall Now",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Rajshahi",
+        "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
+        "visitingTime": "3pm to 8pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801777242536"
+      },
+      "id": "696e0809-2d98-489f-8968-2c73dc98b27a"
+    },
+    {
+      "name": "Dr. Milon Kumar Chowdhury",
+      "degree": "MBBS, BCS (Health), FCPS (ENT)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Milon Kumar Chowdhury is a ENT Specialist in Rajshahi. His qualification is MBBS, BCS (Health), FCPS (ENT). He is a Associate Professor, ENT at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Milon Kumar Chowdhury at Popular Diagnostic Center, Rajshahi is 4pm to 8pm (Sun, Tue & Thursday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "4pm to 8pm (Sun, Tue & Thursday)",
+        "appointmentNumber": "+8809666787811"
+      },
+      "id": "1f5d60ad-6e41-4552-9995-56f00fc4e1df"
+    },
+    {
+      "name": "Dr. Muhammad Mahmudul Haque Anik",
+      "degree": "MBBS, BCS (Health), FCPS (ENT)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Muhammad Mahmudul Haque Anik is a ENT Specialist in Rajshahi. His qualification is MBBS, BCS (Health), FCPS (ENT). He is a Associate Professor, ENT at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Muhammad Mahmudul Haque Anik at Popular Diagnostic Center, Rajshahi is 3pm to 8:30pm (Friday: 11:30am to 12:30pm).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "3pm to 8:30pm (Friday: 11:30am to 12:30pm)",
+        "appointmentNumber": "+8809666787811"
+      },
+      "id": "8b26e717-13b5-4e21-bd9f-eb12379c8211"
+    },
+    {
+      "name": "Dr. Md. Abdullah Al-Zobair",
+      "degree": "MBBS, FCPS (ENT)",
+      "specialty": "Nose, Ear, Throat & Head Neck Specialist Surgeon",
+      "workplace": "Barind Medical College & Hospital",
+      "info": "Dr. Md. Abdullah Al-Zobair is a ENT Specialist in Rajshahi. His qualification is MBBS, FCPS (ENT). He is a Associate Professor & Head, ENT at Barind Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Md. Abdullah Al-Zobair at Popular Diagnostic Center, Rajshahi is 3pm to 8pm (Closed: Sat & Thursday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "3pm to 8pm (Closed: Sat & Thursday)",
+        "appointmentNumber": "+8809666787811"
+      },
+      "id": "7a428915-aa28-4959-b60c-21ea64663074"
+    },
+    {
+      "name": "Prof. Dr. Md. Safiul Islam",
+      "degree": "MBBS, DLO (ENT)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Al Arafa Clinic & Diagnostic Center, Rajshahi\nAddress: Bornali Mor, Rajshahi\nVisiting Hour: 2pm to 4pm (Closed: Friday)\nAppointment: +8801711359480\nCall Now",
+      "chamber": {
+        "hospital": "Rajshahi Central Hospital",
+        "address": "Mehedi Plaza, Greater Road, Laxmipur Mor, Rajshahi",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801997383940"
+      },
+      "id": "673e86af-99c6-4f27-bb01-a41099151b3f"
+    },
+    {
+      "name": "Dr. Md. Al Mahmud",
+      "degree": "MBBS, BCS (Health), DLO (BSMMU), FCPS (ENT)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Labaid Diagnostic, Pabna\nAddress: Beside Joy Kali Bari, Thana Road, Shalgaria, Pabna\nVisiting Hour: 5pm to 9pm (Only Thursday)\nAppointment: +8801766661901\nCall Now",
+      "chamber": {
+        "hospital": "Belleview Imaging & Diagnostic Center",
+        "address": "Shershah Road, West Side of Laxmipur Mor, Rajapara, Rajshahi",
+        "visitingTime": "3pm to 6pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801723060124"
+      },
+      "id": "653329b1-f646-43ca-87a3-b9f9ce2f2145"
+    },
+    {
+      "name": "Dr. AAM Nafiz",
+      "degree": "MBBS, BCS (Health), FCPS (ENT), MS (ENT)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. AAM Nafiz is a ENT Specialist in Rajshahi. His qualification is MBBS, BCS (Health), FCPS (ENT), MS (ENT). He is a Consultant, ENT & Head Neck Surgery at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. AAM Nafiz at Popular Diagnostic Center, Rajshahi is 3.30pm to 8.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "3.30pm to 8.30pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787811"
+      },
+      "id": "5555f059-7f9e-4f09-82f0-d049dd7c0712"
+    },
+    {
+      "name": "Dr. Md. Khaled Shahrear",
+      "degree": "MBBS, BCS (Health), DLO, FCPS (ENT)",
+      "specialty": "Nose, Ear, Throat & Head Neck Specialist Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Md. Khaled Shahrear is a ENT Specialist in Rajshahi. His qualification is MBBS, BCS (Health), DLO, FCPS (ENT). He is a Assistant Professor, ENT at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Rajshahi Royal Hospital Pvt. Ltd.. Practicing hour of Dr. Md. Khaled Shahrear at Rajshahi Royal Hospital Pvt. Ltd. is 3pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
+        "address": "Laxmipur Mor, Rajshahi",
+        "visitingTime": "3pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801762685090"
+      },
+      "id": "5764f1e8-f019-4af0-bfc9-1c7693498d25"
+    },
+    {
+      "name": "Dr. Md. Harun Ur Rashid",
+      "degree": "MBBS, DLO (ENT)",
+      "specialty": "Ear, Nose, Throat Diseases Specialist & Head Neck Surgeon",
+      "workplace": "Islami Bank Medical College & Hospital",
+      "info": "Islami Bank Hospital, Rajshahi\nAddress: Medical Mor, Laxmipur, Rajshahi – 6000\nVisiting Hour: 3pm to 5pm (Closed: Thursday & Friday)\nAppointment: +8801777242536\nCall Now",
+      "chamber": {
+        "hospital": "Islami Bank Medical College & Hospital",
+        "address": "Airport Road, Nawdapara, Sopura, Rajshahi",
+        "visitingTime": "10am to 1pm & 5pm to 7pm (Closed: Thursday Evening & Friday)",
+        "appointmentNumber": "+8801796471306"
+      },
+      "id": "aa562f17-8609-460d-9634-ec3beee7fb0f"
+    },
+    {
+      "name": "Dr. Md. Asadul Islam Razib",
+      "degree": "MBBS, BCS (Health), DLO (BSMMU)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Md. Asadul Islam Razib is a ENT Specialist in Rajshahi. His qualification is MBBS, BCS (Health), DLO (BSMMU). He is a Consultant, ENT at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Rajshahi Royal Hospital Pvt. Ltd.. Practicing hour of Dr. Md. Asadul Islam Razib at Rajshahi Royal Hospital Pvt. Ltd. is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
+        "address": "Laxmipur Mor, Rajshahi",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801762685090"
+      },
+      "id": "9048a0e7-223d-4fb8-ae51-aaeab7ef3e9a"
+    },
+    {
+      "name": "Dr. Md. Shehab Uddin Milton",
+      "degree": "MBBS, MS (ENT)",
+      "specialty": "ENT (Ear, Nose, Throat Diseases) Specialist & Head Neck Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Md. Shehab Uddin Milton is a ENT Specialist in Rajshahi. His qualification is MBBS, MS (ENT). He is a ENT Specialist & Head Neck Surgeon, ENT at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Rajshahi. Practicing hour of Dr. Md. Shehab Uddin Milton at Labaid Diagnostic, Rajshahi is 3pm to 9pm (Closed: Mon & Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Rajshahi",
+        "address": "House # 621, Shershah Road, Rajpara, Laxmipur, Rajshahi - 6000",
+        "visitingTime": "3pm to 9pm (Closed: Mon & Friday)",
+        "appointmentNumber": "+8801868590872"
+      },
+      "id": "ab8f451b-1779-4777-8d24-88d5afe5069b"
+    },
+    {
+      "name": "Dr. Md. Enamul Haque",
+      "degree": "MBBS, DLO",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Md. Enamul Haque is a ENT Specialist in Rajshahi. His qualification is MBBS, DLO. He is working as a Ear, Nose, Throat Specialist & Head Neck Surgeon doctor in Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Medipath Diagnostic Complex, Rajshahi. Practicing hour of Dr. Md. Enamul Haque at Medipath Diagnostic Complex, Rajshahi is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Medipath Diagnostic Complex, Rajshahi",
+        "address": "Shuvecca View, Greater Road, Laxmipur, Kajihata, Rajshahi",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801712685297"
+      },
+      "id": "5a3099d0-0de8-40a0-9c96-053c0842c669"
+    },
+    {
+      "name": "Dr. Abu Raihan Alberuni",
+      "degree": "MBBS (DMC), BCS (Health), MCPS, FCPS (ENT), MRCS (UK), FICS (USA)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Abu Raihan Alberuni is a ENT Specialist in Rajshahi. His qualification is MBBS (DMC), BCS (Health), MCPS, FCPS (ENT), MRCS (UK), FICS (USA). He is a Consultant (ENT) at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Abu Raihan Alberuni at Popular Diagnostic Center, Rajshahi is 3.30pm to 8.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "3.30pm to 8.30pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787811"
+      },
+      "id": "f1ad2aa0-c81f-4d8a-ab53-ae84c1a885f2"
+    },
+    {
+      "name": "Dr. A.S.M. Ekbal Hossain (Saeid)",
+      "degree": "MBBS, BCS (Health), DLO (BSMMU)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. A.S.M. Ekbal Hossain (Saeid is a dedicated ENT (Ear, Nose, Throat) specialist and head neck surgeon in Rajshahi. He holds an MBBS, BCS (Health), and DLO from BSMMU, and currently serves as an Assistant Registrar in the ENT department at Rajshahi Medical College & Hospital. Dr. Ekbal Hossain specializes in the treatment of various ENT-related conditions including sinusitis, nasal polyps, tonsillitis, allergic rhinitis, ear infections, hearing loss, vertigo, thyroid diseases, voice disorders, and head-neck tumors. He provides specialist consultations at Unique Diagnostic & Consultation Center, located opposite to Popular 2 Diagnostic, Laxmipur, Rajshahi. His chamber remains open from 2.30pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Unique Diagnostic & Consultation Center",
+        "address": "Opposite to Popular 2 Diagnostic, Laxmipur, Rajshahi",
+        "visitingTime": "2.30pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801705002184"
+      },
+      "id": "400b4441-d135-46fa-9d4c-8318fc751f52"
+    }
+  ]
+}

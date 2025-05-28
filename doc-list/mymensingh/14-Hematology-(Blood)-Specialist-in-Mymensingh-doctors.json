@@ -1,0 +1,18 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Md. Habibur Rahman Tarek",
+      "degree": "MBBS, DCP (Clinical Pathology), FCPS (Hematology)",
+      "specialty": "Blood Diseases & Cancer Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Md. Habibur Rahman Tarek is a Hematologist in Mymensingh. His qualification is MBBS, DCP (Clinical Pathology), FCPS (Hematology). He is a Associate Professor, Hematology at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Mymensingh. Practicing hour of Dr. Md. Habibur Rahman Tarek at Popular Diagnostic Center, Mymensingh is 4pm to 5:30pm (Everyday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mymensingh",
+        "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+        "visitingTime": "4pm to 5:30pm (Everyday)",
+        "appointmentNumber": "+8809666787814"
+      },
+      "id": "59f90025-9d57-431d-a577-87378eaa10a8"
+    }
+  ]
+}

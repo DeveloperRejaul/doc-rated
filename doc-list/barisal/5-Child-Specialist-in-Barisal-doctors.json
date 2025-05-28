@@ -1,0 +1,200 @@
+{
+  "doctor": [
+    {
+      "name": "Prof. Dr. M.R. Talukdar Mujib",
+      "degree": "MBBS (Dhaka), MD (Child Health)",
+      "specialty": "Neonatal, Adolescent & Child Diseases Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Islami Bank Hospital, Barisal\nAddress: Band Road, Chandmari, Barisal – 8200\nVisiting Hour: 3pm to 6pm (Closed: Thursday & Friday)\nAppointment: +8801810000121\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "11am to 2pm (Sun, Tue, Wed & Thursday), 2:30pm to 5pm (Sat & Monday)",
+        "appointmentNumber": "+8809666787819"
+      },
+      "id": "39e148dd-ddbf-463b-b167-31364b2c6208"
+    },
+    {
+      "name": "Prof. Dr. Syed Zahid Hossain",
+      "degree": "MBBS, FCPS (Pediatrics), D-MED (AU), Fellow (AU)",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Medinova Medical Services, Barisal\nAddress: K.B. Hemayet Uddin Road, Girja Moholla, Barisal\nVisiting Hour: 5pm to 10pm (Closed: Friday)\nAppointment: +8801711240969\nCall Now",
+      "chamber": {
+        "hospital": "South Apollo Diagnostic Complex, Barisal",
+        "address": "135, Sadar Road, Barisal",
+        "visitingTime": "11am to 2pm (Video Call)",
+        "appointmentNumber": "+8801711457444"
+      },
+      "id": "20198060-1227-4221-af17-feb2ea7257ff"
+    },
+    {
+      "name": "Dr. Md. Mujibur Rahman",
+      "degree": "MBBS, BCS (Health), FCPS (Neonatology), MD (Pediatrics)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Islami Bank Hospital, Barisal\nAddress: Band Road, Chandmari, Barisal – 8200\nVisiting Hour: 4pm to 5pm (Closed: Friday)\nAppointment: +8801810000121\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "2pm to 3pm (Sat to Thu), 5pm to 7pm (Friday)",
+        "appointmentNumber": "+8809666787819"
+      },
+      "id": "ba0c850a-6968-427e-a9eb-ec0df105a2dd"
+    },
+    {
+      "name": "Dr. Ashish Kumar Halder",
+      "degree": "MBBS (Dhaka), DCH (Pediatrics), FCPS (Pediatrics)",
+      "specialty": "Neonatal & Child Diseases Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. Ashish Kumar Halder is a Child Specialist in Barisal. His qualification is MBBS (Dhaka), DCH (Pediatrics), FCPS (Pediatrics). He is a Assistant Professor, Pediatrics at Sher-E-Bangla Medical College & Hospital. He regularly provides treatment to his patients at BellView Hospital & Medical Services, Barisal. Practicing hour of Dr. Ashish Kumar Halder at BellView Hospital & Medical Services, Barisal is 5pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "BellView Hospital & Medical Services, Barisal",
+        "address": "114, Sadar Road, Barisal",
+        "visitingTime": "5pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801733063692"
+      },
+      "id": "5215c27a-b914-4bc3-99e9-71a578f0e090"
+    },
+    {
+      "name": "Dr. Abdul Hamid Sheikh",
+      "degree": "MBBS, DCH, D-MED (UK), M-MED (UK)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Rahat Anwar Hospital, Barisal\nAddress: Band Road, Chandmari, Barisal Sadar, Barisal – 8200\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8801711993953\nCall Now",
+      "chamber": {
+        "hospital": "South Apollo Diagnostic Complex, Barisal",
+        "address": "135, Sadar Road, Barisal",
+        "visitingTime": "10am to 2pm & 6pm to 10pm (Everyday)",
+        "appointmentNumber": "+8801711457444"
+      },
+      "id": "13ee790f-7118-4d1f-bcbf-cb5841b06e39"
+    },
+    {
+      "name": "Dr. Shyamal Sarker",
+      "degree": "MBBS, FCPS (Pediatrics), BCS (Health), FCPS (Pediatric Neurology & Development), PGPN (Boston, USA)",
+      "specialty": "Child Neurologist & Child Specialist",
+      "workplace": "National Institute of Neurosciences & Hospital",
+      "info": "Popular Diagnostic Center, Barisal\nAddress: 955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal\nVisiting Hour: 5pm to 11pm (Thursday) & 9am to 5pm (Friday)\nAppointment: +8809666787819\nCall Now",
+      "chamber": {
+        "hospital": "Global Specialized Hospital, Mirpur",
+        "address": "Almas Tower, 282/1, First Kolony, Mazar Road, Mirpur, Dhaka",
+        "visitingTime": "6pm to 9pm (Saturday to Wednesday)",
+        "appointmentNumber": "+8801715818883"
+      },
+      "id": "d128fb40-539a-4058-bff4-1930cbed318e"
+    },
+    {
+      "name": "Dr. Swapan Kumar Halder",
+      "degree": "MBBS, BCS (Health), MCPS, MD (Pediatrics), PGPN (USA)",
+      "specialty": "Newborn, Child Diseases & Nutrition Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. Swapan Kumar Halder is a Child Specialist in Barisal. His qualification is MBBS, BCS (Health), MCPS, MD (Pediatrics), PGPN (USA). He is a Assistant Professor, Pediatrics at Sher-E-Bangla Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Barisal. Practicing hour of Dr. Swapan Kumar Halder at Popular Diagnostic Center, Barisal is 1:30pm to 2:30pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "1:30pm to 2:30pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809666787819"
+      },
+      "id": "7f80c633-fa6b-47e7-b39b-8cd05902ffd1"
+    },
+    {
+      "name": "Dr. B.C. Biswas Bidhan",
+      "degree": "MBBS, DCH (Child), MD (Neonatology)",
+      "specialty": "Newborn & Child Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. B.C. Biswas Bidhan is a Child Specialist in Barisal. His qualification is MBBS, DCH (Child), MD (Neonatology). He is a Assistant Professor, Pediatrics at Sher-E-Bangla Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Barisal. Practicing hour of Dr. B.C. Biswas Bidhan at Popular Diagnostic Center, Barisal is 3pm to 5pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "3pm to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787819"
+      },
+      "id": "86588207-b658-4f61-9e1f-78fe84edef50"
+    },
+    {
+      "name": "Dr. Md. Ali Hasan",
+      "degree": "MBBS, DCH (BSMMU), PGPN (BOSTON, USA)",
+      "specialty": "Child Diseases & Nutrition Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. Md. Ali Hasan is a Child Specialist in Barisal. His qualification is MBBS, DCH (BSMMU), PGPN (BOSTON, USA). He is a Former Assistant Professor, Pediatrics at Sher-E-Bangla Medical College & Hospital. He regularly provides treatment to his patients at Medinova Medical Services, Barisal. Practicing hour of Dr. Md. Ali Hasan at Medinova Medical Services, Barisal is 10am to 1pm (Closed: Friday & Saturday).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Barisal",
+        "address": "K.B. Hemayet Uddin Road, Girja Moholla, Barisal",
+        "visitingTime": "10am to 1pm (Closed: Friday & Saturday)",
+        "appointmentNumber": "+8801711240969"
+      },
+      "id": "3f0fcdf7-a944-435b-bcb1-b5f8306b407c"
+    },
+    {
+      "name": "Dr. Shoyeb H Khan",
+      "degree": "MBBS (DU), DCH (Child Health), MAAP (USA)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "South Apollo Medical College & Hospital",
+      "info": "Dr. Shoyeb H Khan is a Child Specialist in Barisal. His qualification is MBBS (DU), DCH (Child Health), MAAP (USA). He is a Consultant, Pediatrics at South Apollo Medical College & Hospital. He regularly provides treatment to his patients at Rahat Anwar Hospital, Barisal. Practicing hour of Dr. Shoyeb H Khan at Rahat Anwar Hospital, Barisal is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Rahat Anwar Hospital, Barisal",
+        "address": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801711993953"
+      },
+      "id": "831533b7-103f-43cc-a36d-7fad860f38c1"
+    },
+    {
+      "name": "Prof. Dr. Asim Kumar Saha",
+      "degree": "MBBS, DCH, MCPS, FCPS, FRCP (Glasgow)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Sumi Pathology, Jhalakathi\nAddress: Nilakkho’- 226/1, Station Road, Jhalakathi\nVisiting Hour: 5.30pm to 10pm (Everyday)\nAppointment: +8801721875245\nCall Now",
+      "chamber": {
+        "hospital": "DLAB Medical Services, Barisal",
+        "address": "109, Birsreshtho Mohiuddin Jahangir Sorok (Sadar Road), Barisal",
+        "visitingTime": "2pm to 5pm (Sunday, Tuesday & Thursday)",
+        "appointmentNumber": "+8801767683400"
+      },
+      "id": "034231cf-6259-4057-9c2c-59ca7517ccb8"
+    },
+    {
+      "name": "Dr. Md. Nurul Alam",
+      "degree": "MBBS, DCH, FCPS (Pediatrics)",
+      "specialty": "Child Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Rahat Anwar Hospital, Barisal\nAddress: Band Road, Chandmari, Barisal Sadar, Barisal – 8200\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8801711993953\nCall Now",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Barisal",
+        "address": "Band Road, Chandmari, Barisal - 8200",
+        "visitingTime": "2pm to 4pm (Closed: Friday)",
+        "appointmentNumber": "+8801318321847"
+      },
+      "id": "6d8a5b4f-7c16-4c1f-8654-e3e3cdf40cf3"
+    },
+    {
+      "name": "Dr. Salah-Al-Din-Bin-Nasir (Rasel)",
+      "degree": "MBBS, BCS (Health), DCH, CCD (BIRDEM), DLP in Asthma (UK & ICDDRB)",
+      "specialty": "Newborn & Child Disease Specialist",
+      "workplace": "General Hospital, Jhalkathi",
+      "info": "Dr. Salah-Al-Din-Bin-Nasir (Rasel) is a Child Specialist in Barisal. His qualification is MBBS, BCS (Health), DCH, CCD (BIRDEM), DLP in Asthma (UK & ICDDRB). He is a Consultant, Pediatrics at General Hospital, Jhalkathi. He regularly provides treatment to his patients at Rahat Anwar Hospital, Barisal. Practicing hour of Dr. Salah-Al-Din-Bin-Nasir (Rasel) at Rahat Anwar Hospital, Barisal is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Rahat Anwar Hospital, Barisal",
+        "address": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801711993953"
+      },
+      "id": "74c428d7-b199-444a-a279-ebefe4edfb23"
+    },
+    {
+      "name": "Dr. J.C. Mistry",
+      "degree": "MBBS (Dhaka), DCH, PGPN (Boston), IPPN (Australia)",
+      "specialty": "Newborn, Child Diseases Specialist and Child Nutritionist",
+      "workplace": "Divisional Police Hospital, Barisal",
+      "info": "Dr. J.C. Mistry is a Child Specialist in Barisal. His qualification is MBBS (Dhaka), DCH, PGPN (Boston), IPPN (Australia). He is a Consultant at Divisional Police Hospital, Barisal. He regularly provides treatment to his patients at Icon Medical Services, Barisal. Practicing hour of Dr. J.C. Mistry at Icon Medical Services, Barisal is 2pm to 8.30pm (Closed: Mon & Friday).",
+      "chamber": {
+        "hospital": "Icon Medical Services, Barisal",
+        "address": "514, Agorpur Road, Front of Mohila College, Beside Pressclub, Barisal",
+        "visitingTime": "2pm to 8.30pm (Closed: Mon & Friday)",
+        "appointmentNumber": "+8801782402628"
+      },
+      "id": "02cc8013-3da9-4cd2-96aa-77e65f2b0a0e"
+    }
+  ]
+}

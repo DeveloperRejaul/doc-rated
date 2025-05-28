@@ -1,0 +1,284 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Abuzaffor Md. Shaleh",
+      "degree": "MBBS (SSMC), BCS (Health)FCPS (Surgery), MRCS (England)",
+      "specialty": "General, Laparoscopic, Laser, Colorectal & Cancer SurgeonSpecially in Piles and Fistula Surgery",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Abuzaffor Md. Shaleh is a General, Laparoscopic, Laser, Colorectal & Cancer Surgeon in Cumilla. His qualification is MBBS (SSMC), BCS (Health), FCPS (Surgery), MRCS (England). He is a Resident Surgeon, Casualty at Cumilla Medical College & Hospital. Specially in Laser, Piles and Fistula Surgery. He regularly provides treatment to his patients at Cumilla Medical Center Pvt. Ltd. (Tower Hospital). Practicing hour of Dr. Abuzaffor Md. Shaleh at Cumilla Medical Center Pvt. Ltd. (Tower Hospital) is 2.30pm to 8.00pm (Everyday).",
+      "chamber": {
+        "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+        "address": "Room: 658 (5th Floor), New BuildingLaksam Road, Kandirpar, Cumilla",
+        "visitingTime": "2.30pm to 8.00pm (Everyday)Email: zaffor@yahoo.com",
+        "appointmentNumber": "+8801897-915652"
+      },
+      "id": "a80cb027-7306-408b-9d2f-5ddbb915d69b"
+    },
+    {
+      "name": "Dr. Kazi Israt Jahan",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery), Special Training (Breast & Piles Surgery)",
+      "specialty": "General, Laparoscopic, Breast & Piles Surgeon",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Kazi Israt Jahan is a General Surgeon in Comilla. Her qualification is MBBS, BCS (Health), FCPS (Surgery), Special Training (Breast & Piles Surgery). She is a Consultant, Surgery at Cumilla Medical College & Hospital. She regularly provides treatment to her patients at Moon Hospital, Comilla. Practicing hour of Dr. Kazi Israt Jahan at Moon Hospital, Comilla is 3pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Moon Hospital, Comilla",
+        "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801778077590"
+      },
+      "id": "7224c0f8-c144-4300-8232-3a13492d5565"
+    },
+    {
+      "name": "Dr. M.A. Awal Sohail",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General, Laparoscopic & Colorectal Surgeon",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. M.A. Awal Sohail is a General Surgeon in Comilla. His qualification is MBBS, BCS (Health), FCPS (Surgery). He is a Senior Consultant, Surgery at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Moon Hospital, Comilla. Practicing hour of Dr. M.A. Awal Sohail at Moon Hospital, Comilla is 2pm to 8pm (Everyday).",
+      "chamber": {
+        "hospital": "Moon Hospital, Comilla",
+        "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
+        "visitingTime": "2pm to 8pm (Everyday)",
+        "appointmentNumber": "+8801861408828"
+      },
+      "id": "aece8be5-1ad3-4354-b048-4bf321851bc5"
+    },
+    {
+      "name": "Dr. Md. Aminul Islam",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Specialist Surgeon",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Md. Aminul Islam is a General Surgeon in Comilla. His qualification is MBBS, BCS (Health), FCPS (Surgery). He is a Assistant Professor, Surgery at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Moon Hospital, Comilla. Practicing hour of Dr. Md. Aminul Islam at Moon Hospital, Comilla is 3pm to 8pm (Everyday).",
+      "chamber": {
+        "hospital": "Moon Hospital, Comilla",
+        "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
+        "visitingTime": "3pm to 8pm (Everyday)",
+        "appointmentNumber": "+8801766556655"
+      },
+      "id": "8e3b1cc1-3faa-4d1d-9983-e1c0a8e69c11"
+    },
+    {
+      "name": "Dr. Md. Abdul Momin",
+      "degree": "MBBS, FCPS (Surgery), FMAS (India)",
+      "specialty": "General, Laparoscopic & Colorectal Surgeon",
+      "workplace": "Mainamoti Medical College & Hospital",
+      "info": "Dr. Md. Abdul Momin is a General Surgeon in Comilla. His qualification is MBBS, FCPS (Surgery), FMAS (India). He is a Associate Professor, Surgery at Mainamoti Medical College & Hospital. He regularly provides treatment to his patients at Cumilla Medical Center Pvt. Ltd. (Tower Hospital). Practicing hour of Dr. Md. Abdul Momin at Cumilla Medical Center Pvt. Ltd. (Tower Hospital) is 2pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+        "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+        "visitingTime": "2pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801830910092"
+      },
+      "id": "a9769c82-dd4f-4493-a9c0-2380a4d309be"
+    },
+    {
+      "name": "Dr. Mahbub Ibn Momen (Jony)",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General, Laparoscopic & Colorectal Surgeon",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Mahbub Ibn Momen (Jony) is a General Surgeon in Comilla. His qualification is MBBS, BCS (Health), FCPS (Surgery). He is a Consultant, Surgery at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Comilla. Practicing hour of Dr. Mahbub Ibn Momen (Jony) at Ibn Sina Diagnostic Center, Comilla is 4pm to 7pm (Closed: Mon & Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Comilla",
+        "address": "House # 29, Kotbari Road, Tomsom Bridge, Cumilla",
+        "visitingTime": "4pm to 7pm (Closed: Mon & Friday)",
+        "appointmentNumber": "+8801841212275"
+      },
+      "id": "71c98408-59d7-4bcd-a4ba-aceb1b80fd91"
+    },
+    {
+      "name": "Dr. Afroza-E-Alam",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General, Colorectal & Laparoscopic Surgery Specialist",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Modern Hospital, Comilla\nAddress: Laksam Road, Shaktola, Cumilla – 3500\nVisiting Hour: From 3pm (Closed: Friday)\nAppointment: +8801711785199\nCall Now",
+      "chamber": {
+        "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+        "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+        "visitingTime": "3pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801711144786"
+      },
+      "id": "3da2d33c-bb94-43fa-a08d-15bcd5b1f5c5"
+    },
+    {
+      "name": "Dr. Zubayer Ahmad",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Specialist Surgeon",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Zubayer Ahmad is a General Surgeon in Comilla. His qualification is MBBS, BCS (Health), FCPS (Surgery). He is a Consultant, Dept of Surgery at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Comilla Mission Hospital. Practicing hour of Dr. Zubayer Ahmad at Comilla Mission Hospital is 2pm to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Comilla Mission Hospital",
+        "address": "Shasongacha, Railgate, Cumilla – 3500",
+        "visitingTime": "2pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801739142170"
+      },
+      "id": "93fffeda-f630-48b7-8b6e-3fcb20317bd7"
+    },
+    {
+      "name": "Prof. Dr. Nasir Uddin Mahmud",
+      "degree": "MBBS, FCPS (Surgery), FRCS (Glasgow), Post Fellowship Training (Laparoscopic Surgery)",
+      "specialty": "General, Laparoscopic & Endoscopic Surgeon",
+      "workplace": "Central Medical College & Hospital, Comilla",
+      "info": "Comilla Mission Hospital\nAddress: Shasongacha, Railgate, Cumilla – 3500\nVisiting Hour: 2pm to 4pm (Closed: Friday)\nAppointment: +8801739142170\nCall Now",
+      "chamber": {
+        "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+        "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+        "visitingTime": "4pm to 8pm (Everyday)",
+        "appointmentNumber": "+8801711144786"
+      },
+      "id": "360ba01d-5eca-4868-8a09-02785e59235c"
+    },
+    {
+      "name": "Dr. Mohammad Ali",
+      "degree": "MBBS (DMC), FCPS (Surgery), FACS (America)",
+      "specialty": "General, Laparoscopic & Colorectal Surgery Specialist",
+      "workplace": "Noakhali Medical College & Hospital",
+      "info": "Dr. Mohammad Ali is a general, laparoscopic and colorectal surgeon in Cumilla. His qualification is MBBS (DMC), FCPS (Surgery), FACS (America). He is an Assistant Professor (Surgery) at Noakhali Medical College & Hospital. He regularly provides treatment to his patients at Moon Hospital, Comilla. Practicing hour of Dr. Mohammad Ali at Moon Hospital, Comilla is 3pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Moon Hospital, Comilla",
+        "address": "Room - 611, Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
+        "visitingTime": "3pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801786848800"
+      },
+      "id": "c64b6b6b-c03d-4246-b5df-c6ef82ee3ce5"
+    },
+    {
+      "name": "Dr. Safiul Azam Chowdhury",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Surgery Specialist",
+      "workplace": "General Hospital, Cumilla",
+      "info": "Dr. Safiul Azam Chowdhury is a General Surgeon in Comilla. His qualification is MBBS, FCPS (Surgery). He is a Consultant, Surgery at General Hospital, Cumilla. He regularly provides treatment to his patients at Comilla Trauma Center. Practicing hour of Dr. Safiul Azam Chowdhury at Comilla Trauma Center is 3pm to 8pm (Everyday).",
+      "chamber": {
+        "hospital": "Comilla Trauma Center",
+        "address": "511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla",
+        "visitingTime": "3pm to 8pm (Everyday)",
+        "appointmentNumber": "+8809612808182"
+      },
+      "id": "7b30e758-2045-4064-91ce-76ad0258c376"
+    },
+    {
+      "name": "Dr. Mohammed Shafayet Ullah",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Specialist Surgeon",
+      "workplace": "Noakhali Medical College & Hospital",
+      "info": "Dr. Mohammed Shafayet Ullah is a General Surgeon in Comilla. His qualification is MBBS, BCS (Health), FCPS (Surgery). He is a Assistant Professor, Surgery at Noakhali Medical College & Hospital. He regularly provides treatment to his patients at Cumilla Medical Center Pvt. Ltd. (Tower Hospital). Practicing hour of Dr. Mohammed Shafayet Ullah at Cumilla Medical Center Pvt. Ltd. (Tower Hospital) is 3pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+        "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801747427694"
+      },
+      "id": "bb4fdfe2-9992-4dc3-8d97-abb67feb39aa"
+    },
+    {
+      "name": "Dr. Sifat-E-Rabbani",
+      "degree": "MBBS, BCS, MS, FCPS",
+      "specialty": "General, Breast, Colorectal, Laparoscopic and Vascular Surgeon",
+      "workplace": "National Institute of Cardiovascular Diseases & Hospital, Dhaka",
+      "info": "Royal Hospital, Comilla\nAddress: 1134, Saleha Complex (Beside Grameenphone), Jhawtola, Comilla\nVisiting Hour: 2pm to 6pm (Every Friday)\nAppointment: +88017669996685\nCall Now",
+      "chamber": {
+        "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+        "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+        "visitingTime": "8am to 5pm (Every Friday)",
+        "appointmentNumber": "+8801770247194"
+      },
+      "id": "2d12a55f-39d3-45b9-be8b-afe3f6ed90e6"
+    },
+    {
+      "name": "Dr. Md. Abu Bakar Siddiq Faysal",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General & Laparoscopic, Colorectal & Breast Surgeon",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Md. Abu Bakar Siddiq Faysal is a General Surgeon in Comilla. His qualification is MBBS, BCS (Health), FCPS (Surgery). He is a Resident Surgeon, Dept of Surgery at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Gomati Hospital, Comilla. Practicing hour of Dr. Md. Abu Bakar Siddiq Faysal at Gomati Hospital, Comilla is 3pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Gomati Hospital, Comilla",
+        "address": "Nazrul Avenue, Kandirpar, Cumilla - 3500",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801711798083"
+      },
+      "id": "0f9e6df8-6762-4112-904f-caf7cf0bf3bf"
+    },
+    {
+      "name": "Dr. Md. Rashed Uz Zaman Razib",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General, Laparoscopic & Colorectal Surgeon",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Md. Rashed Uz Zaman Razib is a General Surgeon in Comilla. His qualification is MBBS, BCS (Health), FCPS (Surgery). He is a Assistant Professor, Dept of Surgery at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Modern Hospital, Comilla. Practicing hour of Dr. Md. Rashed Uz Zaman Razib at Modern Hospital, Comilla is From 3pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Modern Hospital, Comilla",
+        "address": "Laksam Road, Shaktola, Cumilla – 3500",
+        "visitingTime": "From 3pm (Closed: Friday)",
+        "appointmentNumber": "+8801711785199"
+      },
+      "id": "8cd3e89f-f046-4d17-abfc-7e1c2625b74b"
+    },
+    {
+      "name": "Dr. Sujit Kumar Saha",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Specialist Surgeon",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Sujit Kumar Saha is a General Surgeon in Comilla. His qualification is MBBS, FCPS (Surgery). He is a Assistant Professor, Dept of Surgery at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Midland Hospital, Comilla. Practicing hour of Dr. Sujit Kumar Saha at Midland Hospital, Comilla is 3pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Midland Hospital, Comilla",
+        "address": "Laksam Road, Ramghat, Kandirpar, Cumilla",
+        "visitingTime": "3pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801711795740"
+      },
+      "id": "79b4ed81-de61-47ff-8920-96e28558d64b"
+    },
+    {
+      "name": "Dr. Biplob Kumar Barman",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Specialist Surgeon",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Biplob Kumar Barman is a General Surgeon in Comilla. His qualification is MBBS, BCS (Health), FCPS (Surgery). He is a Consultant, Dept of Surgery at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Cumilla. Practicing hour of Dr. Biplob Kumar Barman at Labaid Diagnostic, Cumilla is 3pm to 8pm (Sun, Tue & Wed).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Cumilla",
+        "address": "Tomsom Bridge, Laksam Road, Cumilla",
+        "visitingTime": "3pm to 8pm (Sun, Tue & Wed)",
+        "appointmentNumber": "+8801766661133"
+      },
+      "id": "590ec248-6cac-48cf-8420-38829c8ccb2d"
+    },
+    {
+      "name": "Dr. Md. Saidul Anwar",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Specialist Surgeon",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Md. Saidul Anwar is a General Surgeon in Comilla. His qualification is MBBS, BCS (Health), FCPS (Surgery). He is a Resident Surgeon, Surgery at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Cumilla Medical Center Pvt. Ltd. (Tower Hospital). Practicing hour of Dr. Md. Saidul Anwar at Cumilla Medical Center Pvt. Ltd. (Tower Hospital) is 3pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+        "address": "Comilla Tower (Room - 659), Laksam Road, Kandirpar, Cumilla",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801740918797"
+      },
+      "id": "cefd26e6-ac94-43e8-a2fd-2e89e9f58b25"
+    },
+    {
+      "name": "Dr. Md. Sazzad Hossain",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery), FMAS (India)",
+      "specialty": "General & Laparoscopic Surgeon",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Md. Sazzad Hossain is a General Surgeon in Comilla. His qualification is MBBS, BCS (Health), FCPS (Surgery), FMAS (India). He is a Consultant, Surgery at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Cumilla Medical Center Pvt. Ltd. (Tower Hospital). Practicing hour of Dr. Md. Sazzad Hossain at Cumilla Medical Center Pvt. Ltd. (Tower Hospital) is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+        "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801711144786"
+      },
+      "id": "dfc4d4d8-77c9-4e0a-a598-858f3628ec40"
+    },
+    {
+      "name": "Dr. S.M. Mahfuzur Rahman (Shohag)",
+      "degree": "MBBS, FCPS (Surgery), FMAS (India)",
+      "specialty": "General, Laparoscopic, Colorectal & Breast Surgeon",
+      "workplace": "Eastern Medical College & Hospital, Cumilla",
+      "info": "Dr. S.M. Mahfuzur Rahman (Shohag) is a General, Laparoscopic, Colorectal & Breast Surgeon in Comilla. His qualification is MBBS, FCPS (Surgery), FMAS (India). He is an Assistant Professor (Department of Surgery) at Eastern Medical College & Hospital, Cumilla. He regularly provides treatment to his patients at Laksam Doctor's Clinic & Hospital. Practicing hour of Dr. S.M. Mahfuzur Rahman (Shohag) at Laksam Doctor's Clinic & Hospital is 3pm to 8pm (Closed: Sunday).",
+      "chamber": {
+        "hospital": "Laksam Doctor's Clinic & Hospital",
+        "address": "HK Tower, Opposite Tisha Bus Counter, Bypass, Laksam, Cumilla",
+        "visitingTime": "3pm to 8pm (Closed: Sunday)",
+        "appointmentNumber": "+8801404028511"
+      },
+      "id": "48fb4a1c-cb55-4be0-bf3c-30fde9ba0bc4"
+    }
+  ]
+}

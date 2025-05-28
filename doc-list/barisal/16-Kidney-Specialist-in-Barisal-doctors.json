@@ -1,0 +1,46 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Mohammed Ali Rumi",
+      "degree": "MBBS, BCS (Health), MD (Nephrology)",
+      "specialty": "Kidney Diseases Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Labaid Diagnostic, Barisal\nAddress: K Jahan Center, House # 106, Sadar Road, Barisal\nVisiting Hour: 3pm to 4pm (Closed: Friday)\nAppointment: +8801766663305\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "5pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787819"
+      },
+      "id": "df5c4b6e-4553-4591-b8fa-b3ed492c1d96"
+    },
+    {
+      "name": "Dr. Manabendra Das",
+      "degree": "MBBS, MD (Nephrology)",
+      "specialty": "Kidney Diseases, Dialysis & Medicine Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Rahat Anwar Hospital, Barisal\nAddress: Band Road, Chandmari, Barisal Sadar, Barisal – 8200\nVisiting Hour: 2pm to 5pm (Closed: Friday)\nAppointment: +8801711993953\nCall Now",
+      "chamber": {
+        "hospital": "South Apollo Diagnostic Complex, Barisal",
+        "address": "135, Sadar Road, Barisal",
+        "visitingTime": "2.30pm to 3.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801711457444"
+      },
+      "id": "86bb70d3-84b5-4883-82a6-3bf924ad1065"
+    },
+    {
+      "name": "Dr. Dhananjoy Dey Biplab",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery), MS (Urology)",
+      "specialty": "Urology (Kidneys, Ureters, Prostate), Male Infertility Specialist & Surgeon",
+      "workplace": "Government of the People's Republic of Bangladesh",
+      "info": "Popular Diagnostic Center, BarisalAddress: 955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, BarisalVisiting Hour: 4pm to 7pm (Everyday)Appointment: +8809666787819Call Now",
+      "chamber": {
+        "hospital": "Rahat Anwar Hospital, Barisal",
+        "address": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
+        "visitingTime": "4pm to 8pm (Closed: Fri & Sat)",
+        "appointmentNumber": "+8801711993953"
+      },
+      "id": "681e39d3-59af-4ed2-9f2b-7346a83ab419"
+    }
+  ]
+}

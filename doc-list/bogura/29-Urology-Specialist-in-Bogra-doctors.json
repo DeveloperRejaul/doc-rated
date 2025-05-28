@@ -1,0 +1,88 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Md. Ahsan Habib",
+      "degree": "MBBS, BCS (Health), MS (Urology)",
+      "specialty": "Kidney, Prostate, Bladder, Urology Specialist & Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Saic General Hospital, Bogura\nAddress: Bhai Pagla Mazar Lane, Thanthania, Bogura\nVisiting Hour: 2.30pm to 4pm (Closed: Friday)\nAppointment: +8801936005870\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "4pm to 8pm (Closed: Sat & Wednesday) & 11:30am to 2:30pm (Friday)",
+        "appointmentNumber": "+8809666787812"
+      },
+      "id": "17acbef6-03b8-4eb7-98a5-8424caf417b3"
+    },
+    {
+      "name": "Dr. Md. Rezaul Karim",
+      "degree": "MBBS, FCPS (Surgery), MS (Urology)",
+      "specialty": "Urology (Kidney, Prostate, Bladder, Urethra) Specialist & Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Md. Rezaul Karim is a Urologist in Bogra. His qualification is MBBS, FCPS (Surgery), MS (Urology). He is a Assistant Professor & Head, Urology at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Md. Rezaul Karim at Popular Diagnostic Center, Bogra is 3pm to 8pm (Sat to Thu) & 11am to 5pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "3pm to 8pm (Sat to Thu) & 11am to 5pm (Friday)",
+        "appointmentNumber": "+8809666787812"
+      },
+      "id": "17c04c04-098c-4ba4-8554-5f1751ed2306"
+    },
+    {
+      "name": "Dr. Muhammad Faruk Hossain",
+      "degree": "MBBS (Dhaka), BCS (Health), MS (Urology), FCPS (Surgery)",
+      "specialty": "Urology, Laparoscopic & Endoscopic Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Muhammad Faruk Hossain is a Urologist in Bogra. His qualification is MBBS (Dhaka), BCS (Health), MS (Urology), FCPS (Surgery). He is a Assistant Professor, Urology at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic & Consultation Center, Bogra. Practicing hour of Dr. Muhammad Faruk Hossain at Ibn Sina Diagnostic & Consultation Center, Bogra is 5pm to 8pm (Closed: Mon & Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
+        "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
+        "visitingTime": "5pm to 8pm (Closed: Mon & Friday)",
+        "appointmentNumber": "+8801701560011"
+      },
+      "id": "3ac868fe-cce4-44f1-b2ff-a5044cf2778b"
+    },
+    {
+      "name": "Dr. Md. Bakhtiar Uddin Jewel",
+      "degree": "MBBS, BCS (Health), MS (Urology), FAUA (USA)",
+      "specialty": "Urology Specialist & Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Md. Bakhtiar Uddin Jewel is a Urologist in Bogra. His qualification is MBBS, BCS (Health), MS (Urology), FAUA (USA). He is a Assistant Professor, Urology at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Md. Bakhtiar Uddin Jewel at Popular Diagnostic Center, Bogra is 3pm to 9pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "3pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809666787812"
+      },
+      "id": "f86e7433-87c3-486d-a647-b1d593ec2c20"
+    },
+    {
+      "name": "Dr. Md. Motiur Rahman",
+      "degree": "MBBS, BCS(Health), MS (Urology) BSMMU",
+      "specialty": "Urology (Kidney, Prostate, Bladder, Urethra) Specialist & Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Md. Motiur Rahman is a Urologist in Bogra. His qualification is MBBS, BCS(Health), MS (Urology) BSMMU. He is a Urologist at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Doctors Clinic, Bogura. Practicing hour of Dr. Md. Motiur Rahman at Doctors Clinic, Bogura is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Doctors Clinic, Bogura",
+        "address": "(Unit 1), Mofiz Paglar Mor, Sherpur Road, Bogura",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801750099585"
+      },
+      "id": "0ebe31ed-2b4a-414e-8eeb-8dcdaa930ef6"
+    },
+    {
+      "name": "Dr. Md. Abdul Baten",
+      "degree": "MBBS, FICS (America), MS (Urology, BSMMU)",
+      "specialty": "Urologist and Andrologist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Md. Abdul Baten is a Urologist in Bogra. His qualification is MBBS, FICS (America), MS (Urology, BSMMU). He is a Assistant Professor of Urology at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Specialized Bogra Hospital. Practicing hour of Dr. Md. Abdul Baten at Specialized Bogra Hospital is 4pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Specialized Bogra Hospital",
+        "address": "Thanthania Bus Stand, Sherpur Road, Bogra",
+        "visitingTime": "4pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801733828282"
+      },
+      "id": "615b7d2b-c625-4bb9-8ded-349a4fb54069"
+    }
+  ]
+}

@@ -1,0 +1,312 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Md. Tanvir Rahman",
+      "degree": "MBBS, MS (Urology), FMAS (India), DMAS (India)",
+      "specialty": "Urologist, Andrologist & Laparoscopic Surgery Specialist",
+      "workplace": "Bangabandhu Memorial Hospital, USTC, ChittagongAppointment: 01810-004550",
+      "info": "Surecell Medical, Chattogram\nAddress: Al-Noor Badrun Centre (3rd Floor), 1486/1672, OR Nizam Road, Chattogram\nVisiting Hour: 2pm to 3pm (Closed: Friday)\nAppointment: +8801701664440\nCall Now",
+      "chamber": {
+        "hospital": "Asperia Health Care Ltd, Chittagong",
+        "address": "Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram",
+        "visitingTime": "3pm to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8801810-004550"
+      },
+      "id": "4605ffc4-8aa6-4c8a-b33c-148721ceccc2"
+    },
+    {
+      "name": "Dr. Md. Mizanur Rahman (Mizan)",
+      "degree": "MBBS, BCS (Health), MS (Urology)",
+      "specialty": "Urology (Kidney, Ureters, Bladder, Prostate) Specialist & Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Md. Mizanur Rahman (Mizan) is a Urologist in Chittagong. His qualification is MBBS, BCS (Health), MS (Urology). He is a Associate Professor (Urology) at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Medical Centre Hospital, Chittagong. Practicing hour of Dr. Md. Mizanur Rahman (Mizan) at Medical Centre Hospital, Chittagong is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medical Centre Hospital, Chittagong",
+        "address": "953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801830426342"
+      },
+      "id": "160e8c1f-f480-4d6f-8711-ff7fa35e4cc9"
+    },
+    {
+      "name": "Dr. Abdus Salam",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery), MS (Urology)",
+      "specialty": "Urology (Kidney, Prostate, Ureters, Stone) Specialist & Laparoscopic Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "National Hospital, Chittagong\nAddress: 14/15, Dampara Lane, Mehedibag, Chattogram\nVisiting Hour: 3pm to 4pm (Sat, Mon & Wed)\nAppointment: +8801822685066\nCall Now",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 8pm (Closed: Monday & Friday)",
+        "appointmentNumber": "+8801976022333"
+      },
+      "id": "590e881a-53d8-4609-b1eb-ce8de508ead3"
+    },
+    {
+      "name": "Prof. Dr. G. M. Zakir Hossain",
+      "degree": "MBBS, FCPS (Surgery), FCPS (Urology), FRCS (Glassgow)",
+      "specialty": "General & Urological Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Chittagong\nAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 3pm to 6pm (Closed: Friday)\nAppointment: +8809666787810\nCall Now",
+      "chamber": {
+        "hospital": "Lancet Diagnostic Center, Chittagong",
+        "address": "106/B, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801552674425"
+      },
+      "id": "8c348b7c-c078-449a-8731-0ce94e71f2af"
+    },
+    {
+      "name": "Prof. Dr. Kazi Md. Monwarul Karim Babor",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urology (Kidneys, Ureters, Prostate) Specialist & Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Chittagong\nAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 6pm to 9pm (Closed: Friday)\nAppointment: +8809666787810\nCall Now",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801744589950"
+      },
+      "id": "dfc1e19e-1bb6-45a3-9394-12b587b2841e"
+    },
+    {
+      "name": "Dr. Ujjal Barua (Apu)",
+      "degree": "MBBS, BCS (Health), FCPS (Urology) Gold Medalist",
+      "specialty": "Urology (Kidneys, Ureters, Prostate) Specialist & Laparoscopic Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Ujjal Barua (Apu) is a Urologist in Chittagong. His qualification is MBBS, BCS (Health), FCPS (Urology) Gold Medalist. He is a Assistant Professor of Urology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at CSCR Hospital, Chittagong. Practicing hour of Dr. Ujjal Barua (Apu) at CSCR Hospital, Chittagong is 6pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "Room 322, Block-B, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "6pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801825303506"
+      },
+      "id": "b8fa407b-4725-42ca-a103-2867f5961495"
+    },
+    {
+      "name": "Prof. Dr. Md. Monowar-Ul-Haque Shamim",
+      "degree": "MBBS, MS (Urology), FACS (USA)",
+      "specialty": "Urologist, Andrologist,  & Endo-Laparoscopic Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Prof. Dr. Md. Monowar-Ul-Haque Shamim is a Urologist in Chittagong. His qualification is MBBS, MS (Urology), FACS (USA). He is a Professor & Head, Urology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Labaid Specialized Hospital, Chattogram. Practicing hour of Prof. Dr. Md. Monowar-Ul-Haque Shamim at Labaid Specialized Hospital, Chattogram is 5pm to 8pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Chattogram",
+        "address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 8pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801766662828"
+      },
+      "id": "087591b4-a372-4f15-ac3b-33ba85efa0b3"
+    },
+    {
+      "name": "Prof. Dr. Md Saifuddin Ahmed Siddique (Suza)",
+      "degree": "MBBS, MS (Urology), FACS (USA)",
+      "specialty": "Urology (Kidney, Prostate, Ureter, Hernia, Scrotum) Specialist & Surgeon",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Evercare Hospital, Chattogram\nAddress: H1, Ananna R/A, CDA, Hathazari, Chattogram\nVisiting Hour: 3pm to 5pm (Closed: Friday)\nAppointment: +8809610810663\nCall Now",
+      "chamber": {
+        "hospital": "Max Hospital & Diagnostic, Chittagong",
+        "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+        "visitingTime": "9pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801713998199"
+      },
+      "id": "ad6dc95a-e39d-4d14-a5f9-7b473139942a"
+    },
+    {
+      "name": "Prof. Dr. Md. M. H. Nasim",
+      "degree": "MBBS, FCPS (Surgery), MS (Urology)",
+      "specialty": "General, Laparoscopic, Colorectal & Urological Surgeon",
+      "workplace": "Rangamati Medical College & Hospital",
+      "info": "Prof. Dr. Md. M. H. Nasim is a Urological Surgeon in Chittagong. His qualification is MBBS, FCPS (Surgery), MS (Urology). He is a Professor, Surgery at Rangamati Medical College & Hospital. He regularly provides treatment to his patients at National Hospital, Chittagong. Practicing hour of Prof. Dr. Md. M. H. Nasim at National Hospital, Chittagong is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "National Hospital, Chittagong",
+        "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801822685066"
+      },
+      "id": "79c91f10-cc4a-4d22-a891-e416bb31ab9d"
+    },
+    {
+      "name": "Prof. Dr. Mohammed Hasan Meah",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urology (Kidneys, Bladder, Ureters, Prostate) Specialist & Surgeon",
+      "workplace": "Chattogram International Medical College & Hospital",
+      "info": "Prof. Dr. Mohammed Hasan Meah is a Urologist in Chittagong. His qualification is MBBS, MS (Urology). He is a Professor, Urology at Chattogram International Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Chittagong. Practicing hour of Prof. Dr. Mohammed Hasan Meah at Ibn Sina Diagnostic Center, Chittagong is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Chittagong",
+        "address": "House # 12/A, Road # 02, Katalgonj, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801886610115"
+      },
+      "id": "f2cbe99e-6334-4652-ba04-226f24db36ee"
+    },
+    {
+      "name": "Dr. Md. Alamgir Bhuiyan",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery), MS (Urology)",
+      "specialty": "Urology (Kidney, Prostate, Bladder, Urethra) Specialist & Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Md. Alamgir Bhuiyan is a Urologist in Chittagong. His qualification is MBBS, BCS (Health), FCPS (Surgery), MS (Urology). He is a Assistant Professor, Surgery at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Md. Alamgir Bhuiyan at Parkview Hospital, Chittagong is 5pm to 7pm (Closed: Tuesday & Friday).",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 7pm (Closed: Tuesday & Friday)",
+        "appointmentNumber": "+8801976022333"
+      },
+      "id": "18cf34f5-0b75-471c-8329-07f560aae83e"
+    },
+    {
+      "name": "Dr. Shiba Prasad Nandy (Emon)",
+      "degree": "MBBS, BCS (Health), MS (Urology)",
+      "specialty": "Urology (Kidneys, Bladder, Ureters, Prostate) Specialist & Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Chittagong\nAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 6pm to 10pm (Closed: Friday)\nAppointment: +8809666787810\nCall Now",
+      "chamber": {
+        "hospital": "Max Hospital & Diagnostic, Chittagong",
+        "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+        "visitingTime": "5pm to 8pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801713998199"
+      },
+      "id": "1049faec-69f6-43c0-9d0a-f8c369c2dd69"
+    },
+    {
+      "name": "Dr. N. M. Saifuddin Nizami Nayan",
+      "degree": "MBBS, BCS (Health), MS (Urology)",
+      "specialty": "Urologist, Andrologist & Endo-Laparoscopic Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Chittagong\nAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 3:30pm to 5pm (Sat, Sun, Mon & Tuesday)\nAppointment: +8809666787810\nCall Now",
+      "chamber": {
+        "hospital": "Epic Healthcare, Chittagong",
+        "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 7pm (Closed: Wed & Friday)",
+        "appointmentNumber": "+8801919628755"
+      },
+      "id": "594cda2e-5490-4485-9170-7f0497b7680c"
+    },
+    {
+      "name": "Dr. Abul Ata Md. Mozassem",
+      "degree": "MBBS, MS (Urology), MCPS (Surgery)",
+      "specialty": "Urology (Kidney, Prostate, Bladder) Specialist & Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Abul Ata Md. Mozassem is a Urologist in Chittagong. His qualification is MBBS, MS (Urology), MCPS (Surgery). He is a Consultant, Urology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Surgiscope Hospital, Chittagong. Practicing hour of Dr. Abul Ata Md. Mozassem at Surgiscope Hospital, Chittagong is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Surgiscope Hospital, Chittagong",
+        "address": "Unit 2, 53/1, Panchlaish, Chattogram - 4203",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801819311844"
+      },
+      "id": "b68e68ec-cbde-4a8d-866c-2752133932f5"
+    },
+    {
+      "name": "Dr. Mohammad Nasir Uddin",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urologist, Andrologist & Laparoscopic Surgeon",
+      "workplace": "Bangabandhu Memorial Hospital, USTC, Chittagong",
+      "info": "Dr. Mohammad Nasir Uddin is a Urologist in Chittagong. His qualification is MBBS, MS (Urology). He is working as a Urologist, Andrologist & Laparoscopic Surgeon doctor in Bangabandhu Memorial Hospital, USTC, Chittagong. He regularly provides treatment to his patients at Chattogram Metropolitan Hospital. Practicing hour of Dr. Mohammad Nasir Uddin at Chattogram Metropolitan Hospital is 6pm to 10.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital",
+        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 10.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801814651077"
+      },
+      "id": "c37950c1-9bb4-407a-b0a6-5ccd157a7933"
+    },
+    {
+      "name": "Dr. Md. Rafiqul Islam",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urology Specialist & Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Md. Rafiqul Islam is a Urologist in Chittagong. His qualification is MBBS, MS (Urology). He is working as a Urology Specialist & Surgeon doctor in Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Chattogram Metropolitan Hospital. Practicing hour of Dr. Md. Rafiqul Islam at Chattogram Metropolitan Hospital is 6pm to 10.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital",
+        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 10.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801911753806"
+      },
+      "id": "1047394d-e160-4336-bf2b-04279bfaf8df"
+    },
+    {
+      "name": "Dr. Abdul Ahad",
+      "degree": "MBBS, MPH, MS (Urology)",
+      "specialty": "Urologist, Kidney Stone Surgeon & Uro-Laparoscopic Surgeon",
+      "workplace": "Bangladesh Railway Hospital, Chittagong",
+      "info": "Islami Bank Hospital, Chittagong\nAddress: 3, Sheikh Mujib Road, Agrabad, Chittagong\nVisiting Hour: 4pm to 6pm (Only Friday)\nAppointment: +8801731253990\nCall Now",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Motijheel",
+        "address": "24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka",
+        "visitingTime": "4pm to 6pm (Only Friday)",
+        "appointmentNumber": "+8801727666741"
+      },
+      "id": "1afdc336-5894-4db1-983d-e005ba9180a3"
+    },
+    {
+      "name": "Dr. Shahnaj Khondoker Nisha",
+      "degree": "MBBS (CMC), MS (Urology, BSMMU), FMAS, DMAS (India)",
+      "specialty": "Urologist, Andrologist & Laparoscopic Surgeon",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Dr. Shahnaj Khondoker Nisha is the first and only female Urologist in Chittagong. Her qualification is MBBS (CMC), MS (Urology, BSMMU), FMAS, DMAS (India). She is a Consultant, Urology at Chattogram Maa-O-Shishu Hospital Medical College. She regularly provides treatment to her patients at Epic Healthcare Ltd. (East Gate Branch). Practicing hour of Dr. Shahnaj Khondoker Nisha at Epic Healthcare Ltd. (East Gate Branch) is 7pm to 9pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Epic Healthcare Ltd. (East Gate Branch)",
+        "address": "36, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801984499700, +8801673184676"
+      },
+      "id": "3d3f37c5-e540-4872-90d4-1b3766c9cef5"
+    },
+    {
+      "name": "Dr. Anirban Ghose",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urology (Kidneys, Bladder, Ureters, Prostate) Specialist & Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Sensiv Private Limited, Chittagong\nAddress: 14, Jamal Khan Road, Jamal Khan, Chattogram\nVisiting Hour: 8pm to 10.30pm (Closed: Friday)\nAppointment: +8801886083708\nCall Now",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "Room - 323, CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "4pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801886083708"
+      },
+      "id": "cdd8ee5a-ce08-4a1a-8a9f-83ecc9056022"
+    },
+    {
+      "name": "Assoc. Prof. Dr. Mofizur Rahman",
+      "degree": "MBBS, BCS (Health), FACS (America), MS (Urology)",
+      "specialty": "Urology (Kidney, Ureter, Bladder, Prostate) Specialist & Surgeon",
+      "workplace": "Associate Professor (Urology)Chittagong Medical College & Hospital",
+      "info": "Chevron Clinical Laboratory, Chittagong\nAddress: 12/12, O.R Nizam Road, Panchlaish, Chattogram\nVisiting Hour: 7pm to 10pm (Closed: Friday)\nAppointment: +8801868060048\nCall Now",
+      "chamber": {
+        "hospital": "National Hospital, Chittagong",
+        "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
+        "visitingTime": "5pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801601803809"
+      },
+      "id": "35724a21-75f5-4463-949a-8bf80e71cab6"
+    },
+    {
+      "name": "Dr. Md. Kamal Uddin Mazumder",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urology (Kidneys, Bladder, Ureters, Prostate) Specialist & Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Belle Vue Hospital, Chittagong\nAddress: Prabartak Hill, 12/12, O.R. Nizam Road, Panchlaish, Chattogram\nVisiting Hour: 7.30pm to 8.00pm (Closed: Friday)\nAppointment: +8801969901166\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Chittagong",
+        "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "3pm to 5pm (Only Thursday)",
+        "appointmentNumber": "+8801816233505"
+      },
+      "id": "b58c5f90-2a81-4526-b00b-10a27ef6a025"
+    },
+    {
+      "name": "Prof. Dr. Md. Mizanur Rahman",
+      "degree": "MBBS, BCS (Health), MS (Urology)",
+      "specialty": "Urology (Kidney, Ureters, Bladder, Prostate) Specialist & Uro-Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Prof. Dr. Md. Mizanur Rahman is a Urologist in Chittagong. His qualification is MBBS, BCS (Health), MS (Urology). He is a Ex. Professor & Head (Urology) at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Chittagong Square Clinical Laboratory. Practicing hour of Prof. Dr. Md. Mizanur Rahman at Chittagong Square Clinical Laboratory is 11am to 1pm & 6pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chittagong Square Clinical Laboratory",
+        "address": "195, Plot # 20, Road # 11, KB Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "11am to 1pm & 6pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801865587555"
+      },
+      "id": "1035db7c-5580-49aa-816e-17a4c7157cef"
+    }
+  ]
+}

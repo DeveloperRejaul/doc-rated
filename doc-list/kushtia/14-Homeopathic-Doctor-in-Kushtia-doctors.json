@@ -1,0 +1,18 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Reazul Karim",
+      "degree": "DHMS (BHB) Dhaka, MD (E. Homoeopathi) Kolkata, ICWH (New Delhi), WHC (Germany)",
+      "specialty": "Homoeopathic (Skin, Piles, Back Pain, Infertility, GIT) Specialist",
+      "workplace": "Thakurgaon Homoeopathic Medical College & Hospital",
+      "info": "Inno Homoeo Pharmacy & Cancer Treatment\nAddress: 3/1 Purana Paltan, Dhaka\nVisiting Hour: 10am to 5pm (Last Friday of Every Month)\nAppointment: 01733184699\nCall Now",
+      "chamber": {
+        "hospital": "S R Homoeo Hall, Kushtia",
+        "address": "Nearby Kushtia Court Railway Station, Courtpara, Kushtia",
+        "visitingTime": "10am to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801733184699"
+      },
+      "id": "a813e761-72b3-447f-b121-790fdbff696d"
+    }
+  ]
+}

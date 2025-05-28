@@ -1,0 +1,74 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Syeda Shahnaz Nasrullah Elora",
+      "degree": "MBBS, FCPS (Surgery), MRCS (UK), Fellow (Oncoplastic Breast Surgery)",
+      "specialty": "General, Laparoscopic, Breast & Colorectal Surgeon",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Syeda Shahnaz Nasrullah Elora is a Surgeon in Rangpur. Her qualification is MBBS, FCPS (Surgery), MRCS (UK), Fellow (Oncoplastic Breast Surgery). She is a Assistant Professor, Surgery at Rangpur Medical College & Hospital. She regularly provides treatment to her patients at Update Diagnostic, Rangpur. Practicing hour of Dr. Syeda Shahnaz Nasrullah Elora at Update Diagnostic, Rangpur is 3pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Update Diagnostic, Rangpur",
+        "address": "Dhap, Jail Road, Rangpur",
+        "visitingTime": "3pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801971555555"
+      },
+      "id": "d2c5aab4-ea41-425e-be6e-98ab5cb0c0f5"
+    },
+    {
+      "name": "Dr. Ayesha Nasrin Surovee",
+      "degree": "MBBS, MS (Surgery)",
+      "specialty": "General, Laparoscopic, Breast & Colorectal (Piles) Surgeon",
+      "workplace": "Rangpur Community Medical College & Hospital",
+      "info": "Dr. Ayesha Nasrin Surovee is a General Surgeon in Rangpur. Her qualification is MBBS, MS (Surgery). She is a Associate Professor, Surgery at Rangpur Community Medical College & Hospital. She regularly provides treatment to her patients at Doctor's Community Hospital, Rangpur. Practicing hour of Dr. Ayesha Nasrin Surovee at Doctor's Community Hospital, Rangpur is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Doctor's Community Hospital, Rangpur",
+        "address": "Medical East Gate, Health City Road, Dhap, Rangpur",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801717292458"
+      },
+      "id": "c770f840-ac87-47f6-87c4-df458d288ada"
+    },
+    {
+      "name": "Dr. Md. Anowarul Haque",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "General, Colorectal & Laparoscopic Surgeon",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Md. Anowarul Haque is a Surgeon in Rangpur. His qualification is MBBS, FCPS (Surgery) . He is working as a General, Colorectal & Laparoscopic Surgeon doctor in Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Islami Bank Community Hospital, Rangpur. Practicing hour of Dr. Md. Anowarul Haque at Islami Bank Community Hospital, Rangpur is 4pm to 8pm (Everyday).",
+      "chamber": {
+        "hospital": "Islami Bank Community Hospital, Rangpur",
+        "address": "Jail Road, Dhap, Rangpur",
+        "visitingTime": "4pm to 8pm (Everyday)",
+        "appointmentNumber": "+8801750908297"
+      },
+      "id": "7fff3406-cbb3-47bf-b7b5-3923f748da9b"
+    },
+    {
+      "name": "Dr. Md. Hamidul Islam",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "General, Colorectal, Breast & Laparoscopic Surgery Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Md. Hamidul Islam is a General Surgeon in Rangpur. His qualification is MBBS, FCPS (Surgery). He is a Assistant Professor, Surgery at Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Mediland Diagnostic Center. Practicing hour of Dr. Md. Hamidul Islam at Mediland Diagnostic Center is 3pm to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Mediland Diagnostic Center",
+        "address": "Opposite to Sarak Bhaban, Dhap, Jail Road, Rangpur",
+        "visitingTime": "3pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801748245562"
+      },
+      "id": "28b8bc7f-7b6d-4006-8c7e-a4ff1a6a2e8f"
+    },
+    {
+      "name": "Dr. Tanvir Ahmad",
+      "degree": "MBBS, BCS (Health), MS (General Surgery)",
+      "specialty": "General, Colorectal, Breast & Laparoscopic Surgery Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Tanvir Ahmad is a General Surgeon in Rangpur. His qualification is MBBS, BCS (Health), MS (General Surgery). He is a Consultant, Surgery at Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Hypertension & Research Center, Rangpur. Practicing hour of Dr. Tanvir Ahmad at Hypertension & Research Center, Rangpur is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Hypertension & Research Center, Rangpur",
+        "address": "Holding No: 13/2, Hypertension Centre Lane, Dhap, Jail Road, Rangpur",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801400888651"
+      },
+      "id": "0ceb2730-4450-43d1-a54d-928bf3a33a7d"
+    }
+  ]
+}

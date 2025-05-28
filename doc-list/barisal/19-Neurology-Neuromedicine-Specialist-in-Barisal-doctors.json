@@ -1,0 +1,74 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Amitabh Sarkar",
+      "degree": "MBBS, MD (Neurology)",
+      "specialty": "Brain, Stroke, Nerve, Medicine & Neuromedicine Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Rahat Anwar Hospital, Barisal\nAddress: Band Road, Chandmari, Barisal Sadar, Barisal – 8200\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8801711993953\nCall Now",
+      "chamber": {
+        "hospital": "BellView Hospital & Medical Services, Barisal",
+        "address": "114, Sadar Road, Barisal",
+        "visitingTime": "4pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801733063692"
+      },
+      "id": "b79a9cec-1ab0-43f1-a05a-909df703058b"
+    },
+    {
+      "name": "Dr. Anwar Hossain Bablu",
+      "degree": "MBBS, FCPS (Medicine), MD (Neurology)",
+      "specialty": "Brain, Nerve, Spine, Stroke & Neuromedicine Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. Anwar Hossain Bablu is a Neuromedicine Specialist in Barisal. His qualification is MBBS, FCPS (Medicine), MD (Neurology). He is a Assistant Professor, Neuromedicine at Sher-E-Bangla Medical College & Hospital. He regularly provides treatment to his patients at Medinova Medical Services, Barisal. Practicing hour of Dr. Anwar Hossain Bablu at Medinova Medical Services, Barisal is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Barisal",
+        "address": "K.B. Hemayet Uddin Road, Girja Moholla, Barisal",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801711240969"
+      },
+      "id": "fba9ad01-202c-4a99-8a19-31170751a138"
+    },
+    {
+      "name": "Dr. Kazi M. Monirul Islam",
+      "degree": "MBBS, BCS (Health), MD (Neuromedicine)",
+      "specialty": "Neuromedicine (Brain, Nerve, Spine, Headache) Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. Kazi M. Monirul Islam is a Neuromedicine Specialist in Barisal. His qualification is MBBS, BCS (Health), MD (Neuromedicine). He is a Consultant (Neuromedicine) at Sher-E-Bangla Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Barisal. Practicing hour of Dr. Kazi M. Monirul Islam at Popular Diagnostic Center, Barisal is 4pm to 10pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "4pm to 10pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809666787819"
+      },
+      "id": "89a96564-4380-4aa2-ba37-137ca4c49cdc"
+    },
+    {
+      "name": "Dr. Tanjina Tarannum Dipu",
+      "degree": "MBBS (SSMC), MSC (Cognitive & Clinical Neuroscience, UK)",
+      "specialty": "Headache, Migraine & Neuromedicine Specialist",
+      "workplace": "Appolo Hospital, Dhaka",
+      "info": "Rahat Anwar Hospital, Barisal\nAddress: Band Road, Chandmari, Barisal Sadar, Barisal – 8200\nVisiting Hour: 3pm to 5pm (Closed: Friday)\nAppointment: +8801711993953\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "5pm to 8pm (Sat to Wed), 11am to 12:30pm (Thu)",
+        "appointmentNumber": "+8809666787819"
+      },
+      "id": "1b82454b-d9b2-4ae6-ba66-fc50f491124d"
+    },
+    {
+      "name": "Dr. Muhammad Masudur Rahman",
+      "degree": "MBBS, BCS (Health), MD (Neurology)",
+      "specialty": "Neurology (Brain, Nerve, Spine, Headache, Backpain) Specialist",
+      "workplace": "Sheikh Sayera Khatun Medical College, Gopalganj",
+      "info": "Dr. Muhammad Masudur Rahman is a Neurologist in Barisal. His qualification is MBBS, BCS (Health), MD (Neurology). He is a Assistant Professor, Neurology at Sheikh Sayera Khatun Medical College, Gopalganj. He regularly provides treatment to his patients at South Apollo Diagnostic Complex, Barisal. Practicing hour of Dr. Muhammad Masudur Rahman at South Apollo Diagnostic Complex, Barisal is 7pm to 9pm (Only Thursday).",
+      "chamber": {
+        "hospital": "South Apollo Diagnostic Complex, Barisal",
+        "address": "135, Sadar Road, Barisal",
+        "visitingTime": "7pm to 9pm (Only Thursday)",
+        "appointmentNumber": "+8801711457444"
+      },
+      "id": "f34ea127-4729-4c3d-bff6-9258513d96fa"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Kazi Israt Jahan",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery), Special Training (Breast & Piles Surgery)",
+      "specialty": "General, Laparoscopic, Breast & Piles Surgeon",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Kazi Israt Jahan is a General Surgeon in Comilla. Her qualification is MBBS, BCS (Health), FCPS (Surgery), Special Training (Breast & Piles Surgery). She is a Consultant, Surgery at Cumilla Medical College & Hospital. She regularly provides treatment to her patients at Moon Hospital, Comilla. Practicing hour of Dr. Kazi Israt Jahan at Moon Hospital, Comilla is 3pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Moon Hospital, Comilla",
+        "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801778077590"
+      },
+      "id": "09d96928-b0fa-4f54-a42f-af6cb7295e91"
+    },
+    {
+      "name": "Dr. M.A. Awal Sohail",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General, Laparoscopic & Colorectal Surgeon",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. M.A. Awal Sohail is a General Surgeon in Comilla. His qualification is MBBS, BCS (Health), FCPS (Surgery). He is a Senior Consultant, Surgery at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Moon Hospital, Comilla. Practicing hour of Dr. M.A. Awal Sohail at Moon Hospital, Comilla is 2pm to 8pm (Everyday).",
+      "chamber": {
+        "hospital": "Moon Hospital, Comilla",
+        "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
+        "visitingTime": "2pm to 8pm (Everyday)",
+        "appointmentNumber": "+8801861408828"
+      },
+      "id": "fd102e96-5c03-4c4e-9211-770ec12e5f8c"
+    },
+    {
+      "name": "Dr. A.N.M Jane Alam",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery), Member & Fellow, AMASI (India)",
+      "specialty": "Laparoscopic, Colorectal & Laser Specialist Surgeon",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. A.N.M Jane Alam is a Colorectal Surgeon in Comilla. His qualification is MBBS, BCS (Health), FCPS (Surgery), Member & Fellow, AMASI (India). He is a Consultant & Surgeon, Surgery at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Comilla Colorectal Care Center. Practicing hour of Dr. A.N.M Jane Alam at Comilla Colorectal Care Center is 2.30pm to 5pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Comilla Colorectal Care Center",
+        "address": "Ramghat, Behind Islami Bank, Kandirpar, Comilla",
+        "visitingTime": "2.30pm to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8801716795060"
+      },
+      "id": "c2fd0cd3-b5da-4bf9-999a-9e2ca741a27d"
+    },
+    {
+      "name": "Dr. Md. Abdul Momin",
+      "degree": "MBBS, FCPS (Surgery), FMAS (India)",
+      "specialty": "General, Laparoscopic & Colorectal Surgeon",
+      "workplace": "Mainamoti Medical College & Hospital",
+      "info": "Dr. Md. Abdul Momin is a General Surgeon in Comilla. His qualification is MBBS, FCPS (Surgery), FMAS (India). He is a Associate Professor, Surgery at Mainamoti Medical College & Hospital. He regularly provides treatment to his patients at Cumilla Medical Center Pvt. Ltd. (Tower Hospital). Practicing hour of Dr. Md. Abdul Momin at Cumilla Medical Center Pvt. Ltd. (Tower Hospital) is 2pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+        "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+        "visitingTime": "2pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801830910092"
+      },
+      "id": "678ac0e6-ce46-483b-8fa8-5508ad257950"
+    },
+    {
+      "name": "Dr. Mahbub Ibn Momen (Jony)",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General, Laparoscopic & Colorectal Surgeon",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Mahbub Ibn Momen (Jony) is a General Surgeon in Comilla. His qualification is MBBS, BCS (Health), FCPS (Surgery). He is a Consultant, Surgery at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Comilla. Practicing hour of Dr. Mahbub Ibn Momen (Jony) at Ibn Sina Diagnostic Center, Comilla is 4pm to 7pm (Closed: Mon & Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Comilla",
+        "address": "House # 29, Kotbari Road, Tomsom Bridge, Cumilla",
+        "visitingTime": "4pm to 7pm (Closed: Mon & Friday)",
+        "appointmentNumber": "+8801841212275"
+      },
+      "id": "a7513f67-85ec-4130-ae7e-e1de3c44f3e5"
+    },
+    {
+      "name": "Dr. Mohammad Ali",
+      "degree": "MBBS (DMC), FCPS (Surgery), FACS (America)",
+      "specialty": "General, Laparoscopic & Colorectal Surgery Specialist",
+      "workplace": "Noakhali Medical College & Hospital",
+      "info": "Dr. Mohammad Ali is a general, laparoscopic and colorectal surgeon in Cumilla. His qualification is MBBS (DMC), FCPS (Surgery), FACS (America). He is an Assistant Professor (Surgery) at Noakhali Medical College & Hospital. He regularly provides treatment to his patients at Moon Hospital, Comilla. Practicing hour of Dr. Mohammad Ali at Moon Hospital, Comilla is 3pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Moon Hospital, Comilla",
+        "address": "Room - 611, Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
+        "visitingTime": "3pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801786848800"
+      },
+      "id": "c191232f-d6fb-4322-bfee-de228cb7db2e"
+    },
+    {
+      "name": "Dr. Sifat-E-Rabbani",
+      "degree": "MBBS, BCS, MS, FCPS",
+      "specialty": "General, Breast, Colorectal, Laparoscopic and Vascular Surgeon",
+      "workplace": "National Institute of Cardiovascular Diseases & Hospital, Dhaka",
+      "info": "Royal Hospital, Comilla\nAddress: 1134, Saleha Complex (Beside Grameenphone), Jhawtola, Comilla\nVisiting Hour: 2pm to 6pm (Every Friday)\nAppointment: +88017669996685\nCall Now",
+      "chamber": {
+        "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+        "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+        "visitingTime": "8am to 5pm (Every Friday)",
+        "appointmentNumber": "+8801770247194"
+      },
+      "id": "84c05599-a992-48a6-ae9a-acc6a016eafb"
+    }
+  ]
+}

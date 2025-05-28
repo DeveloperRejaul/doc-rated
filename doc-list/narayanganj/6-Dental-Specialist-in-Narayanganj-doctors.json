@@ -1,0 +1,32 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Bijoy Chandra Das",
+      "degree": "BDS, BCS (Health), FICD, PGT (OMS)",
+      "specialty": "Oral & Dental Surgeon (Certified Dental Implantologist)",
+      "workplace": "300 Bed Hospital, Narayanganj",
+      "info": "Dr. Bijoy Chandra Das is a Dentist in Narayanganj. His qualification is BDS, BCS (Health), FICD, PGT (OMS). He is a Consultant, Dental at 300 Bed Hospital, Narayanganj. He regularly provides treatment to his patients at Comfort Dental Care. Practicing hour of Dr. Bijoy Chandra Das at Comfort Dental Care is 6pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Comfort Dental Care",
+        "address": "192/2, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "6pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801912349670"
+      },
+      "id": "d1d70ca8-4b44-419a-a6f2-d7a34ad72603"
+    },
+    {
+      "name": "Dr. Osman Gani Tamim",
+      "degree": "BDS (DU), PGT (BSMMU)",
+      "specialty": "Oral, Dental & Maxillofacial Specialist Surgeon",
+      "workplace": "Image Dental Care, Narayanganj",
+      "info": "Dr. Osman Gani Tamim is a Dentist in Narayanganj. His qualification is BDS (DU), PGT (BSMMU). He is a Dental Surgeon, Dental at Image Dental Care, Narayanganj. He regularly provides treatment to his patients at Image Dental Care, Narayanganj. Practicing hour of Dr. Osman Gani Tamim at Image Dental Care, Narayanganj is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Image Dental Care, Narayanganj",
+        "address": "Chashara Pouro Market (2nd Floor), Narayanganj",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801711239494"
+      },
+      "id": "fc32d205-f9db-40f3-9a69-0d3b621944ae"
+    }
+  ]
+}

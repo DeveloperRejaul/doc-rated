@@ -1,0 +1,46 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Zia Hayder Bosunia",
+      "degree": "MBBS, FCPS (Medicine), MD (Hepatology), ERCP",
+      "specialty": "Liver & Medicine Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Zia Hayder Bosunia is a Liver Specialist in Rangpur. His qualification is MBBS, FCPS (Medicine), MD (Hepatology), ERCP. He is working as a Liver & Medicine Specialist doctor in Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rangpur. Practicing hour of Dr. Zia Hayder Bosunia at Popular Diagnostic Center, Rangpur is 3pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rangpur",
+        "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787813"
+      },
+      "id": "f5f6a6aa-e594-4088-b6ac-47bbe692cf5e"
+    },
+    {
+      "name": "Dr. Md. Nurul Islam Khan",
+      "degree": "MBBS, MD (Hepatology)",
+      "specialty": "Liver Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Md. Nurul Islam Khan is a Liver Specialist in Rangpur. His qualification is MBBS, MD (Hepatology). He is working as a Liver Specialist doctor in Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Update Diagnostic, Rangpur. Practicing hour of Dr. Md. Nurul Islam Khan at Update Diagnostic, Rangpur is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Update Diagnostic, Rangpur",
+        "address": "Dhap, Jail Road, Rangpur",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801971555555"
+      },
+      "id": "6ec59be1-efda-43f0-942c-dbd948de3d04"
+    },
+    {
+      "name": "Dr. Md. Mahbub Hussain",
+      "degree": "MBBS, MD (Hepatology)",
+      "specialty": "Liver Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Md. Mahbub Hussain is a Liver Specialist in Rangpur. His qualification is MBBS, MD (Hepatology). He is working as a Liver Specialist doctor in Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rangpur. Practicing hour of Dr. Md. Mahbub Hussain at Popular Diagnostic Center, Rangpur is 3pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rangpur",
+        "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787813"
+      },
+      "id": "a2c94524-7458-424f-8d57-bf8ebdb757a8"
+    }
+  ]
+}

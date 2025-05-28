@@ -1,0 +1,88 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Anjana Saha",
+      "degree": "MBBS, BCS (Health), MD (Endocrinology)",
+      "specialty": "Diabetes, Thyroid & Hormonal Diseases Specialist",
+      "workplace": "National Institute of Cancer Research & Hospital",
+      "info": "Dr. Anjana Saha is a Endocrinologist in Narayanganj. Her qualification is MBBS, BCS (Health), MD (Endocrinology). She is a Consultant, Endocrinology at National Institute of Cancer Research & Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Anjana Saha at Popular Diagnostic Center, Narayanganj is 4pm to 8pm (Sun & Tue) & 9am to 1:30pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "4pm to 8pm (Sun & Tue) & 9am to 1:30pm (Friday)",
+        "appointmentNumber": "+8809666787804"
+      },
+      "id": "7832399b-b941-4700-8f5d-262a8b68579c"
+    },
+    {
+      "name": "Dr. Md. Kazi Ashraful Alam",
+      "degree": "MBBS, MD (Endocrinology)",
+      "specialty": "Diabetes, Thyroid & Hormone Specialist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Dr. Md. Kazi Ashraful Alam is a Endocrinologist in Narayanganj. His qualification is MBBS, MD (Endocrinology). He is a Assistant Professor, Endocrinology at Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Md. Kazi Ashraful Alam at Popular Diagnostic Center, Narayanganj is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787804"
+      },
+      "id": "efb809a1-ba0a-446d-8965-4fe3265e0c56"
+    },
+    {
+      "name": "Dr. Muhammad Shakhawat Hossain",
+      "degree": "MBBS, DEM (BIRDEM)",
+      "specialty": "Diabetes, Thyroid & Hormone Specialist",
+      "workplace": "Birdem General Hospital & Ibrahim Medical College",
+      "info": "Dr. Muhammad Shakhawat Hossain is a Endocrinologist in Narayanganj. His qualification is MBBS, DEM (BIRDEM). He is a Consultant, Endocrinology at Birdem General Hospital & Ibrahim Medical College. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Muhammad Shakhawat Hossain at Popular Diagnostic Center, Narayanganj is 5pm to 8pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "5pm to 8pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809666787804"
+      },
+      "id": "6550a014-b59d-4d26-8ded-048f1fabb5d4"
+    },
+    {
+      "name": "Dr. Md. Nurul Amin Dipu",
+      "degree": "MBBS, DEM (BIRDEM)",
+      "specialty": "Diabetes, Thyroid & Hormone Specialist",
+      "workplace": "Birdem General Hospital & Ibrahim Medical College",
+      "info": "Dr. Md. Nurul Amin Dipu is a Diabetes Specialist in Narayanganj. His qualification is MBBS, DEM (BIRDEM). He is a Assistant Professor, Endocrinology at Birdem General Hospital & Ibrahim Medical College. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Md. Nurul Amin Dipu at Popular Diagnostic Center, Narayanganj is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787804"
+      },
+      "id": "69e6018a-b0b5-412b-b184-ad75e83c57d8"
+    },
+    {
+      "name": "Dr. Alamgir Hossain",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), DEM, MRCP (UK)",
+      "specialty": "Medicine, Hormone & Diabetes Specialist",
+      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+      "info": "Dr. Alamgir Hossain is a Medicine Specialist in Narayanganj. His qualification is MBBS, BCS (Health), FCPS (Medicine), DEM, MRCP (UK). He is a Consultant, Department of Medicine at Shaheed Suhrawardy Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Alamgir Hossain at Popular Diagnostic Center, Narayanganj is 7.30pm to 9pm (Mon & Wed) & 4pm to 8pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "7.30pm to 9pm (Mon & Wed) & 4pm to 8pm (Friday)",
+        "appointmentNumber": "+8809666787804"
+      },
+      "id": "14550677-dbda-47f3-8b75-fc897c588351"
+    },
+    {
+      "name": "Dr. Rezwana Laboni",
+      "degree": "MBBS, BCS (Health), MD (Endocrinology)",
+      "specialty": "Endocrinology (Diabetes, Thyroid & Hormone) Specialist",
+      "workplace": "250 Bed General Hospital, Munshiganj",
+      "info": "Dr. Rezwana Laboni is a Endocrinologist in Narayanganj. Her qualification is MBBS, BCS (Health), MD (Endocrinology). She is a Assistant Surgeon at 250 Bed General Hospital, Munshiganj. She regularly provides treatment to her patients at Modern Diagnostic Center, Narayanganj. Practicing hour of Dr. Rezwana Laboni at Modern Diagnostic Center, Narayanganj is 2pm to 6pm (Every Monday).",
+      "chamber": {
+        "hospital": "Modern Diagnostic Center, Narayanganj",
+        "address": "BJA Babhan, Bangabandhu Road, Chashara, Narayanganj",
+        "visitingTime": "2pm to 6pm (Every Monday)",
+        "appointmentNumber": "+8801820842293"
+      },
+      "id": "d393019a-222e-4bd1-adb5-a7563554bea5"
+    }
+  ]
+}

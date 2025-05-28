@@ -1,0 +1,228 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Md. Hosne Sadat Patwary",
+      "degree": "MBBS, MD (Chest Diseases)",
+      "specialty": "Chest Diseases & Respiratory Medicine Specialist",
+      "workplace": "Chittagong Medical College & HospitalAppointment: 01810-004550",
+      "info": "Epic Healthcare, Chittagong\nAddress: Room 506, 19, K.B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 2.30pm to 6pm (Sat, Mon & Wed)\nAppointment: +8801814759306\nCall Now",
+      "chamber": {
+        "hospital": "Asperia Health Care Ltd, Chittagong",
+        "address": "Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram",
+        "visitingTime": "2pm to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8801810004550"
+      },
+      "id": "c212aae8-c42e-4e0d-8fa7-6a5c585acdb7"
+    },
+    {
+      "name": "Dr. Md. Didarul Alam",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Chest Diseases)",
+      "specialty": "Pulmonologist & Medicine Specialist",
+      "workplace": "Chittagong Medical College & HospitalAppointment: 01323-337344",
+      "info": "Epic Healthcare, Chittagong\nAddress: Room – 510, 19, K.B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 6pm to 10pm (Closed: Thu & Friday)\nAppointment: +8801783413666\nCall Now",
+      "chamber": {
+        "hospital": "Asperia Treatment Health Care, Chittagong",
+        "address": "1st Floor, 100, Panchlaish, (opposite to Probortok School), Chittagong",
+        "visitingTime": "8pm to 10pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801323337344"
+      },
+      "id": "c8c5f277-eeeb-4995-b2c7-77980b0ecc02"
+    },
+    {
+      "name": "Dr. Saroj Kanti Chowdhury",
+      "degree": "MBBS, MCPS (Medicine), MD (Chest Diseases), FCCP (USA)",
+      "specialty": "Asthma, Medicine & Chest Diseases Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Max Hospital & Diagnostic, Chittagong\nAddress: 35/36, Mehedibag Road, Chawkbazar, Chattogram\nVisiting Hour: 4pm to 6pm (Closed: Monday)\nAppointment: +8801713998199\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Chittagong",
+        "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "7:30pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787810"
+      },
+      "id": "eb7f060c-4b7f-49db-a554-dc5c57386568"
+    },
+    {
+      "name": "Prof. Dr. M. A. Rouf",
+      "degree": "MBBS, FCPS (Medicine), D-CARD, MD, DTCD, DTM&H (Bangkok), FRSTM (UK)",
+      "specialty": "Cardiology, Chest & Medicine Specialist",
+      "workplace": "Bangabandhu Memorial Hospital, USTC, Chittagong",
+      "info": "Max Hospital & Diagnostic, Chittagong\nAddress: 35/36, Mehedibag Road, Chawkbazar, Chattogram\nVisiting Hour: 9am to 3pm (Closed: Friday)\nAppointment: +8801713998199\nCall Now",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Chittagong",
+        "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801755666969"
+      },
+      "id": "3c7fb26d-7628-41dc-b17a-438d0b10b57f"
+    },
+    {
+      "name": "Dr. Shimul Kumar Bhowmik",
+      "degree": "MBBS, MD (Chest Diseases)",
+      "specialty": "Chest Diseases, Asthma & Respiratory Medicine Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Shimul Kumar Bhowmik is a Chest Specialist in Chittagong. His qualification is MBBS, MD (Chest Diseases). He is a Assistant Professor, Respiratory Medicine at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Chevron Clinical Laboratory, Chittagong. Practicing hour of Dr. Shimul Kumar Bhowmik at Chevron Clinical Laboratory, Chittagong is 6pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Chittagong",
+        "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801755666969"
+      },
+      "id": "1fbeeaf9-a2f1-4e1a-b5d5-21777f3404c3"
+    },
+    {
+      "name": "Dr. Ibrahim Khalil Ullah",
+      "degree": "MBBS, DTCD, MS (Japan)",
+      "specialty": "Chest Diseases, Asthma & Respiratory Medicine Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Chevron Clinical Laboratory, Chittagong\nAddress: 12/12, O.R Nizam Road, Panchlaish, Chattogram\nVisiting Hour: 4.30pm to 7pm (Closed: Friday)\nAppointment: +8801755666969\nCall Now",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801976022333"
+      },
+      "id": "9e179b34-772b-4b49-916f-d086fd6473bf"
+    },
+    {
+      "name": "Dr. Mohammed Ilias",
+      "degree": "MBBS, MD (Chest Diseases), FCCP (USA)",
+      "specialty": "Chest Diseases, Asthma, COPD & Respiratory Medicine Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Mohammed Ilias is a Chest Specialist in Chittagong. His qualification is MBBS, MD (Chest Diseases), FCCP (USA). He is a Consultant, Respiratory Medicine at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Labaid Specialized Hospital, Chattogram. Practicing hour of Dr. Mohammed Ilias at Labaid Specialized Hospital, Chattogram is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Chattogram",
+        "address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662829"
+      },
+      "id": "7df72598-c738-4fbf-80c0-b0d1c36d5ae2"
+    },
+    {
+      "name": "Dr. Md. Shahadat Hussain",
+      "degree": "MBBS, MCPS, FCPS, FCCP",
+      "specialty": "Chest Diseases & Respiratory Medicine Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Md. Shahadat Hussain is a Chest Specialist in Chittagong. His qualification is MBBS, MCPS, FCPS, FCCP. He is a Assistant Professor, Medicine at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Chevron Clinical Laboratory, Chittagong. Practicing hour of Dr. Md. Shahadat Hussain at Chevron Clinical Laboratory, Chittagong is 5pm to 10pm (Closed: Sun & Fri).",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Chittagong",
+        "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 10pm (Closed: Sun & Fri)",
+        "appointmentNumber": "+8801755666969"
+      },
+      "id": "3c6b0aaa-102f-4473-923d-34f8ce33ef8b"
+    },
+    {
+      "name": "Prof. Dr. Uzzwal Kanti Das",
+      "degree": "MBBS, DTCD, FCPS (Medicine), FCCP",
+      "specialty": "Chest Diseases & Respiratory Medicine Specialist",
+      "workplace": "BGC Trust Medical College & Hospital",
+      "info": "Prof. Dr. Uzzwal Kanti Das is a Chest Specialist in Chittagong. His qualification is MBBS, DTCD, FCPS (Medicine), FCCP. He is a Professor & Head, Respiratory Medicine at BGC Trust Medical College & Hospital. He regularly provides treatment to his patients at Chevron Clinical Laboratory, Chittagong. Practicing hour of Prof. Dr. Uzzwal Kanti Das at Chevron Clinical Laboratory, Chittagong is 5pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Chittagong",
+        "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801755666969"
+      },
+      "id": "d227b861-2dc7-46d2-bbbd-bfc1c76d2aca"
+    },
+    {
+      "name": "Dr. Animesh Mallick",
+      "degree": "MBBS, DTM&H (Liverpool), DTCD (UK), FRSH (London)",
+      "specialty": "Chest Diseases & Medicine Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Animesh Mallick is a Chest Specialist in Chittagong. His qualification is MBBS, DTM&H (Liverpool), DTCD (UK), FRSH (London). He is a Consultant, Respiratory Medicine at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Shahjalal Diagnostic Clinic, Chittagong. Practicing hour of Dr. Animesh Mallick at Shahjalal Diagnostic Clinic, Chittagong is 6pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Shahjalal Diagnostic Clinic, Chittagong",
+        "address": "143, Sheikh Mujib Road, Badamtoli, Agrabad, Chattogram",
+        "visitingTime": "6pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801819311367"
+      },
+      "id": "e73b54e9-9477-44c7-b2d1-0e3018846110"
+    },
+    {
+      "name": "Dr. Mohammad Fazle Kibria Chowdhury",
+      "degree": "MBBS (DMC), MD (Chest), CCD (BIRDEM), FCCP (USA), FCCS (SG)",
+      "specialty": "Chest & Respiratory Medicine Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Dr. Mohammad Fazle Kibria Chowdhury is a Chest Diseases Specialist in Chittagong. His qualification is MBBS (DMC), MD (Chest), CCD (BIRDEM), FCCP (USA), FCCS (SG). He is a Assistant Professor, Chest Diseases at Chattogram Maa-O-Shishu Hospital Medical College. He regularly provides treatment to his patients at Evercare Hospital, Chattogram. Practicing hour of Dr. Mohammad Fazle Kibria Chowdhury at Evercare Hospital, Chattogram is 4pm to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Evercare Hospital, Chattogram",
+        "address": "H1, Ananna R/A, CDA, Hathazari, Chattogram",
+        "visitingTime": "4pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8809610810663"
+      },
+      "id": "de2add10-babf-4fa8-8341-05881a06d705"
+    },
+    {
+      "name": "Dr. Mohammad Zakir Hossain Bhuiyan",
+      "degree": "MBBS, BCS (Health), MCPS (Surgery), MS (Chest), FMAS (India)",
+      "specialty": "Chest Diseases Specialist & Esophageal Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Chittagong\nAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 6pm to 7pm (Closed: Tue & Friday)\nAppointment: +8809666787810\nCall Now",
+      "chamber": {
+        "hospital": "National Hospital, Chittagong",
+        "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801822685066"
+      },
+      "id": "16e6cbaa-c10c-4354-9c10-16896c2c7994"
+    },
+    {
+      "name": "Dr. Saifuddin Chowdhury",
+      "degree": "MBBS (CU), DTCD (DU), MD (Chest Diseases)",
+      "specialty": "Asthma, Chest Diseases & Respiratory Medicine Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Saifuddin Chowdhury is a Chest Diseases Specialist in Chittagong. His qualification is MBBS (CU), DTCD (DU), MD (Chest Diseases). He is a Former Associate Professor & Head, Respiratory Medicine at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Chittagong. Practicing hour of Dr. Saifuddin Chowdhury at Popular Diagnostic Center, Chittagong is 7pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Chittagong",
+        "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787810"
+      },
+      "id": "c86738e6-c9e4-4bca-a26d-4a5818e1abfe"
+    },
+    {
+      "name": "Dr. Mostafa Noor Morshed",
+      "degree": "MBBS, DTCD (Chest Diseases), FCCP",
+      "specialty": "Chest Diseases Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Mostafa Noor Morshed is a Chest Diseases Specialist in Chittagong. His qualification is MBBS, DTCD (Chest Diseases), FCCP. He is a Assistant Professor, Respiratory Medicine at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Chittagong. Practicing hour of Dr. Mostafa Noor Morshed at Ibn Sina Diagnostic Center, Chittagong is 7pm to 10pm (Closed: Sunday, Tuesday & Thursday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Chittagong",
+        "address": "House # 12/A, Road # 02, Katalgonj, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Sunday, Tuesday & Thursday)",
+        "appointmentNumber": "+8801886610115"
+      },
+      "id": "b860ecfd-8f99-4430-a6f5-ff26320cf386"
+    },
+    {
+      "name": "Dr. Md. Nurul Akther Chowdhury",
+      "degree": "MBBS, DTCD (DU)",
+      "specialty": "Asthma, Chest Diseases & Respiratory Medicine Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Md. Nurul Akther Chowdhury is a Chest Diseases Specialist in Chittagong. His qualification is MBBS, DTCD (DU). He is a Associate Professor, Respiratory Medicine at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Chittagong. Practicing hour of Dr. Md. Nurul Akther Chowdhury at Popular Diagnostic Center, Chittagong is 5pm to 9pm (Sat, Tue, Wed & Thu).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Chittagong",
+        "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 9pm (Sat, Tue, Wed & Thu)",
+        "appointmentNumber": "+8809666787810"
+      },
+      "id": "77b11bd5-5ce8-4627-96b6-3d140c47d092"
+    },
+    {
+      "name": "Dr. Md. Kamrul Hasan Ponir",
+      "degree": "MBBS, DTCD, MCPS, MPhil, WHO Fellowship (Thailand)",
+      "specialty": "Chest Diseases & Pathology Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Md. Kamrul Hasan Ponir is a Chest Diseases Specialist in Chittagong. His qualification is MBBS, DTCD, MCPS, MPhil, WHO Fellowship (Thailand). He is working as a Chest Diseases & Pathology Specialist doctor in Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Delta Health Care, Chittagong. Practicing hour of Dr. Md. Kamrul Hasan Ponir at Delta Health Care, Chittagong is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Delta Health Care, Chittagong",
+        "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801841906010"
+      },
+      "id": "c7c53cb2-f446-46d1-9940-a14cc444910b"
+    }
+  ]
+}

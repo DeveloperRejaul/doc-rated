@@ -1,0 +1,172 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Nitish Kumar Kundu",
+      "degree": "MBBS, FCPS (Pediatrics), MD (Pediatrics)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Pabna Medical College & Hospital",
+      "info": "Dr. Nitish Kumar Kundu is a Child Specialist in Pabna. His qualification is MBBS, FCPS (Pediatrics), MD (Pediatrics). He is a Consultant, Pediatrics at Pabna Medical College & Hospital. He regularly provides treatment to his patients at Kimia Diagnostic Center, Pabna. Practicing hour of Dr. Nitish Kumar Kundu at Kimia Diagnostic Center, Pabna is 5pm to 11pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Kimia Diagnostic Center, Pabna",
+        "address": "Pach Matha Mor, Beside Central Girls School, Shalgaria, Pabna",
+        "visitingTime": "5pm to 11pm (Closed: Friday)",
+        "appointmentNumber": "+8801711489711"
+      },
+      "id": "d60c6f61-cfda-46db-90ea-b7b999901aa3"
+    },
+    {
+      "name": "Dr. S. M. Shamsul Haque Sumon",
+      "degree": "MBBS, BCS (Health), MD (Pediatrics)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. S. M. Shamsul Haque Sumon is a Child Specialist in Pabna. His qualification is MBBS, BCS (Health), MD (Pediatrics). He is a Associate Professor (Pediatrics) at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Pabna. Practicing hour of Dr. S. M. Shamsul Haque Sumon at Labaid Diagnostic, Pabna is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Pabna",
+        "address": "Beside Joy Kali Bari, Thana Road, Shalgaria, Pabna",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801766661901"
+      },
+      "id": "33a16269-f6eb-4628-8959-33e66584df9f"
+    },
+    {
+      "name": "Dr. Azmery Saima",
+      "degree": "MBBS (Dhaka), BCS (Health), MD (Neonatology)",
+      "specialty": "Neonatal, ICU & Child Health Specialist",
+      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+      "info": "Alpha Diagnostic Center, Ishwardi\nAddress: Post Office Mor (Biswas Palace), Hospital Road, Ishwardi, Pabna\nVisiting Hour: 5pm to 8pm (Every Friday)\nAppointment: +8801787382022\nCall Now",
+      "chamber": {
+        "hospital": "Shimla Hospital, Pabna",
+        "address": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
+        "visitingTime": "4pm to 8pm (Every Thursday), 9am to 4pm (Every Friday)",
+        "appointmentNumber": "+8801713228218"
+      },
+      "id": "a664b07b-a782-4ce6-b3ec-744aea4fb529"
+    },
+    {
+      "name": "Dr. Galiba Tasnim (Bony)",
+      "degree": "MBBS, BCS (Health), MD (CHILD)",
+      "specialty": "Neonatal, Adolescent, Child Diseases Specialist",
+      "workplace": "250 Bedded General Hospital, Pabna",
+      "info": "City Diagnostic Center, Pabna\nAddress: Beside TB Hospital, Hospital Road, Shalgaria, Pabna\nVisiting Hour: 5pm to 7pm (Everyday)\nAppointment: +8801757204642\nCall Now",
+      "chamber": {
+        "hospital": "Shafique Hospital, Pabna",
+        "address": "Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna",
+        "visitingTime": "3pm to 5pm (Everyday)",
+        "appointmentNumber": "+8801701654390"
+      },
+      "id": "3ef3e906-a49d-4340-bc36-e37a4ba1dc1e"
+    },
+    {
+      "name": "Dr. Mahmudur Rashid Palash",
+      "degree": "MBBS, BCS (Health), PGT (Pediatrics), PGPN (Boston)",
+      "specialty": "Newborn, Adolescent, Child Diseases & Nutrition Specialist",
+      "workplace": "250 Bedded General Hospital, Pabna",
+      "info": "Dr. Mahmudur Rashid Palash is a Child Specialist in Pabna. His qualification is MBBS, BCS (Health), PGT (Pediatrics), PGPN (Boston). He is a Consultant, Pediatrics at 250 Bedded General Hospital, Pabna. He regularly provides treatment to his patients at Al Safa Hospital, Pabna. Practicing hour of Dr. Mahmudur Rashid Palash at Al Safa Hospital, Pabna is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Al Safa Hospital, Pabna",
+        "address": "Shafia Tower, Meril Bypass Mor, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801756976737"
+      },
+      "id": "ce4124bc-5178-476b-9682-2b269eaa8360"
+    },
+    {
+      "name": "Dr. Dilruba Siddique",
+      "degree": "MBBS (DU), DCH (BSMMU)",
+      "specialty": "Neonatal, Adolescent & Child Diseases Specialist",
+      "workplace": "250 Bedded General Hospital, Pabna",
+      "info": "Dr. Dilruba’s Home Chamber\nAddress: Opposite of Path Fair School, Hospital Road, Pabna\nVisiting Hour: অনির্দিষ্ট কালের জন্য রোগী দেখা বন্ধ আছে\nAppointment: +88073164652\nCall Now",
+      "chamber": {
+        "hospital": "Shimla Hospital, Pabna",
+        "address": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
+        "visitingTime": "অনির্দিষ্ট কালের জন্য রোগী দেখা বন্ধ আছে",
+        "appointmentNumber": "+8801713228218"
+      },
+      "id": "75b17e62-d36b-4f56-a724-a48acd34171f"
+    },
+    {
+      "name": "Dr. Md. Mahbubur Rahman",
+      "degree": "MBBS (RMC), DCH (BSMMU), MSc (Nutrition, DU), Phd Fellow (DU), FCPS (P2)",
+      "specialty": "Newborn, Child Diseases & Nutrition Specialist",
+      "workplace": "Dhaka Shishu Hospital",
+      "info": "Dr. Md. Mahbubur Rahman is a Child Specialist in Pabna. His qualification is MBBS (RMC), DCH (BSMMU), MSc (Nutrition, DU), Phd Fellow (DU), FCPS (P2). He is a Associate Professor, Pediatrics at Dhaka Shishu Hospital. He regularly provides treatment to his patients at Pabna Shishu Hospital & Mattriseba. Practicing hour of Dr. Md. Mahbubur Rahman at Pabna Shishu Hospital & Mattriseba is 3pm to 10pm (Only Thursday).",
+      "chamber": {
+        "hospital": "Pabna Shishu Hospital & Mattriseba",
+        "address": "Meril Bypass Road, Shalgaria, Pabna - 6600",
+        "visitingTime": "3pm to 10pm (Only Thursday)",
+        "appointmentNumber": "+8801894426720"
+      },
+      "id": "9fd89db5-f7c8-4aa0-9e2e-96f26733c874"
+    },
+    {
+      "name": "Dr. Parimal Kumar Paul",
+      "degree": "MBBS, BCS (Health), MD (Paediatrics)",
+      "specialty": "Neonatal & Child Specialist",
+      "workplace": "Pabna Medical College & Hospital",
+      "info": "Dr. Parimal Kumar Paul is a Child Specialist in Pabna. His qualification is MBBS, BCS (Health), MD (Paediatrics). He is a Assistant Professor, Pediatrics at Pabna Medical College & Hospital. He regularly provides treatment to his patients at Shimla Hospital, Pabna. Practicing hour of Dr. Parimal Kumar Paul at Shimla Hospital, Pabna is 3pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Shimla Hospital, Pabna",
+        "address": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
+        "visitingTime": "3pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801713228218"
+      },
+      "id": "e87c0687-7486-43d4-abd3-d74d374ea695"
+    },
+    {
+      "name": "Dr. Md. Abdur Razzak",
+      "degree": "MBBS (RMC), DCH (Dhaka), MCPS (Child Medicine), PGPN (USA), IPPN (AU)",
+      "specialty": "Child Diseased Specialist",
+      "workplace": "Grameen Diagnostic Center, Pabna",
+      "info": "Dr. Md. Abdur Razzak is a Child Specialist in Pabna. His qualification is MBBS (RMC), DCH (Dhaka), MCPS (Child Medicine), PGPN (USA), IPPN (AU). He is a Consultant, Pediatrics at Grameen Diagnostic Center, Pabna. He regularly provides treatment to his patients at Grameen Diagnostic Center, Pabna. Practicing hour of Dr. Md. Abdur Razzak at Grameen Diagnostic Center, Pabna is 2.30pm to 5.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Grameen Diagnostic Center, Pabna",
+        "address": "Sadar Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "2.30pm to 5.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801950998955"
+      },
+      "id": "c4932716-67f5-47b9-b24c-85ed26534582"
+    },
+    {
+      "name": "Dr. Jannatul Ferdous",
+      "degree": "MBBS (DMC), FCPS (CHILD)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "250 Bedded General Hospital, Pabna",
+      "info": "Dr. Jannatul Ferdous is a Chest Specialist in Pabna. Her qualification is MBBS (DMC), FCPS (CHILD). She is a Consultant, Pediatrics at 250 Bedded General Hospital, Pabna. She regularly provides treatment to her patients at Euro Medical Center, Pabna. Practicing hour of Dr. Jannatul Ferdous at Euro Medical Center, Pabna is 3pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Euro Medical Center, Pabna",
+        "address": "Beside JoyKali Bari, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "3pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801772974000"
+      },
+      "id": "60dae26c-f758-4891-89a9-2e9efdaae0cc"
+    },
+    {
+      "name": "Dr. Md. Ibrahim Hossain",
+      "degree": "MBBS, BCS (Health), FCPS (Child), MD (Child), PGPN (Boston)",
+      "specialty": "Child Diseases & Nutrition Specialist",
+      "workplace": "Institute of Health Technology, Rajshahi",
+      "info": "Dr. Md. Ibrahim Hossain is a Child Specialist in Pabna. His qualification is MBBS, BCS (Health), FCPS (Child), MD (Child), PGPN (Boston). He is a Assistant Professor, Pediatrics at Institute of Health Technology, Rajshahi. He regularly provides treatment to his patients at Pabna Shishu Hospital & Mattriseba. Practicing hour of Dr. Md. Ibrahim Hossain at Pabna Shishu Hospital & Mattriseba is 3pm to 7pm (Sat, Sun & Tue) & 7pm to 10pm (Mon & Wed).",
+      "chamber": {
+        "hospital": "Pabna Shishu Hospital & Mattriseba",
+        "address": "Meril Bypass Road, Shalgaria, Pabna - 6600",
+        "visitingTime": "3pm to 7pm (Sat, Sun & Tue) & 7pm to 10pm (Mon & Wed)",
+        "appointmentNumber": "+8801779088836"
+      },
+      "id": "33f006cc-c991-4738-aa6f-f46b4f39b1ca"
+    },
+    {
+      "name": "Dr. M. G. Azam Sazzad",
+      "degree": "MBBS, DCH (BSMMU)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Brahmanbaria Medical College & Hospital",
+      "info": "Dr. M. G. Azam Sazzad is a Child Specialist in Pabna. His qualification is MBBS, DCH (BSMMU). He is a Assistant Professor (Ex), Pediatrics at Brahmanbaria Medical College & Hospital. He regularly provides treatment to his patients at Pabna Shishu Hospital & Mattriseba. Practicing hour of Dr. M. G. Azam Sazzad at Pabna Shishu Hospital & Mattriseba is 8am to 4pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Pabna Shishu Hospital & Mattriseba",
+        "address": "Meril Bypass Road, Shalgaria, Pabna - 6600",
+        "visitingTime": "8am to 4pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801779088836"
+      },
+      "id": "2d8ba392-e301-4907-9598-642fcfe0a9a2"
+    }
+  ]
+}

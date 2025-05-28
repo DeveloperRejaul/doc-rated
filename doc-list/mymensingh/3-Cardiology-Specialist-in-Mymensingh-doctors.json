@@ -1,0 +1,270 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Golam Rahman Bhuiyan",
+      "degree": "MBBS (DMC), BCS (Health), FCPS (Medicine), MRCP (UK), MD (Cardiology)",
+      "specialty": "Cardiology & Medicine Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Golam Rahman Bhuiyan is a Cardiologist in Mymensingh. His qualification is MBBS (DMC), BCS (Health), FCPS (Medicine), MRCP (UK), MD (Cardiology). He is a Assistant Professor, Cardiology at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Mymensingh. Practicing hour of Dr. Golam Rahman Bhuiyan at Popular Diagnostic Center, Mymensingh is 4:30pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mymensingh",
+        "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+        "visitingTime": "4:30pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787814"
+      },
+      "id": "d11d6552-f073-4665-a6a2-aa73476ca539"
+    },
+    {
+      "name": "Dr. Gobinda Kanti Pal",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Cardiology)",
+      "specialty": "Cardiology, Medicine & Rheumatology Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Nexus Hospital, Mymensingh\nAddress: 29, Sehora, Mymensingh Sadar, Mymensingh – 2200\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8801796586561\nCall Now",
+      "chamber": {
+        "hospital": "Sodesh Hospital, Mymensingh",
+        "address": "298/2, Maskanda (Bus Stand), Mymensingh - 2200",
+        "visitingTime": "3:30pm to 8:30pm (Mon, Tue & Thu)",
+        "appointmentNumber": "+8809666777990"
+      },
+      "id": "7808363f-b930-4d92-bf59-412c4a6ed554"
+    },
+    {
+      "name": "Dr. Md. Saiful Islam",
+      "degree": "MBBS, MD (Cardiology)",
+      "specialty": "Cardiology (Heart Diseases, Hypertension & Rheumatic Fever) Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Aalok Healthcare & Hospital, Mirpur 10\nAddress: House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka\nVisiting Hour: 6pm to 9pm (Every Friday)\nAppointment: +8801969729205\nCall Now",
+      "chamber": {
+        "hospital": "Pranto Specialized Hospital, Mymensingh",
+        "address": "67, Charpara (Opposite Medical College Gate), Mymensingh",
+        "visitingTime": "3pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801969729205"
+      },
+      "id": "8ca1aadb-9867-41bb-9c3f-d6141ecc1d37"
+    },
+    {
+      "name": "Dr. Md. Shahadat Hossain Tuhin",
+      "degree": "MBBS, BCS (Health), CCD (BIRDEM), MACP (USA), D-CARD (BSMMU), FCPS (Cardiology)",
+      "specialty": "Cardiology, Heart Diseases & Rheumatic Fever Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Md. Shahadat Hossain Tuhin is a Cardiologist in Mymensingh. His qualification is MBBS, BCS (Health), CCD (BIRDEM), MACP (USA), D-CARD (BSMMU), FCPS (Cardiology). He is a Assistant Professor, Cardiology at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Mymensingh. Practicing hour of Dr. Md. Shahadat Hossain Tuhin at Popular Diagnostic Center, Mymensingh is 3.30pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mymensingh",
+        "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+        "visitingTime": "3.30pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787814"
+      },
+      "id": "72dcf4a1-5e73-47f7-8dba-b311a1ad09c3"
+    },
+    {
+      "name": "Dr. Ganapati Aditya",
+      "degree": "MBBS, MD (Cardiology)",
+      "specialty": "Cardiology & Heart Diseases Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Ganapati Aditya is a Cardiologist in Mymensingh. His qualification is MBBS, MD (Cardiology). He is a Associate Professor, Cardiology at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Pranto Specialized Hospital, Mymensingh. Practicing hour of Dr. Ganapati Aditya at Pranto Specialized Hospital, Mymensingh is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Pranto Specialized Hospital, Mymensingh",
+        "address": "67, Charpara, Mymensingh",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801788222000"
+      },
+      "id": "b3636b27-d425-4bb6-8ceb-04ae63dc0d4d"
+    },
+    {
+      "name": "Dr. Harimohan Pandit Newton",
+      "degree": "MBBS, FCPS (Medicine), MCPS, MD (Cardiology)",
+      "specialty": "Cardiology & Medicine Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Harimohan Pandit Newton is a Cardiologist in Mymensingh. His qualification is MBBS, FCPS (Medicine), MCPS, MD (Cardiology). He is a Associate Professor, Medicine at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Mymensingh. Practicing hour of Dr. Harimohan Pandit Newton at Popular Diagnostic Center, Mymensingh is 4pm to 9pm (Closed: Tuesday & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mymensingh",
+        "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+        "visitingTime": "4pm to 9pm (Closed: Tuesday & Friday)",
+        "appointmentNumber": "+8809666787814"
+      },
+      "id": "57bf07fb-6570-45df-95ee-44ded5278975"
+    },
+    {
+      "name": "Dr. Jahir Uddin Mohammed Sharif",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Medicine), MACP (USA)",
+      "specialty": "Cardiology & Medicine Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Jahir Uddin Mohammed Sharif is a Cardiologist in Mymensingh. His qualification is MBBS, BCS (Health), FCPS (Medicine), MD (Medicine), MACP (USA). He is a Junior Consultant, Cardiology at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Nexus Hospital, Mymensingh. Practicing hour of Dr. Jahir Uddin Mohammed Sharif at Nexus Hospital, Mymensingh is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Nexus Hospital, Mymensingh",
+        "address": "29, Sehora, Mymensingh Sadar, Mymensingh – 2200",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801796586561"
+      },
+      "id": "d59f57e4-9f51-4f6a-a816-46a4a4fa586e"
+    },
+    {
+      "name": "Dr. Md. Zahidul Islam",
+      "degree": "MBBS, BCS (Health), MD (Cardiology), MACP (USA)",
+      "specialty": "Cardiology (Heart Diseases), Medicine & Rheumatic Fever Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Sodesh Hospital, Mymensingh\nAddress: 298/2, Maskanda (Bus Stand), Mymensingh – 2200\nVisiting Hour: 10am to 2pm (Sat, Mon & Wed)\nAppointment: +8809666777990\nCall Now",
+      "chamber": {
+        "hospital": "D G Lab, Mymensingh",
+        "address": "210, Mondol Plaza, Opposite to Hospital Gate, Mymenshingh",
+        "visitingTime": "3pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801764663355"
+      },
+      "id": "07905d1b-4f26-4487-83b8-1e054a5b28b6"
+    },
+    {
+      "name": "Dr. Shiblee Sadeque Shakil",
+      "degree": "MBBS (DMC), MD (Cardiology)",
+      "specialty": "Cardiology (Heart Diseases), Hypertension & Rheumatic Fever Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Shiblee Sadeque Shakil is a Cardiologist in Mymensingh. His qualification is MBBS (DMC), MD (Cardiology). He is a Senior Consultant, Cardiology at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Mymensingh. Practicing hour of Dr. Shiblee Sadeque Shakil at Popular Diagnostic Center, Mymensingh is 3:30pm to 9:30pm (Closed: Thursday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mymensingh",
+        "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+        "visitingTime": "3:30pm to 9:30pm (Closed: Thursday)",
+        "appointmentNumber": "+8809666787814"
+      },
+      "id": "841c54be-e89b-41f7-815b-c30ae5e72d3c"
+    },
+    {
+      "name": "Dr. S. M. Sharif Uddin Pathan",
+      "degree": "MBBS (Dhaka), BCS (Health), DTCD (Chest Diseases), MD (Cardiology)",
+      "specialty": "Asthma, Chest Diseases & Cardiology Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Popular Diagnostic Center, MymensinghAddress: 171, Charpara, Medical College Gate, Mymensingh – 2200Visiting Hour: 3:30pm to 8pm (Closed: Thursday & Friday)Appointment: +8809666787814Call Now",
+      "chamber": {
+        "hospital": "Delta Health Care, Mymensingh",
+        "address": "55/5, Medical College Gate, Charpara, Mymensingh",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801847158301"
+      },
+      "id": "0f74687a-8850-459a-97d0-592ad01b4029"
+    },
+    {
+      "name": "Dr. S.K. Apu",
+      "degree": "MBBS, D-CARD (DU)",
+      "specialty": "Cardiology (Heart Diseases, Hypertension, Rheumatic Fever) Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. S.K. Apu is a Cardiologist in Mymensingh. His qualification is MBBS, D-CARD (DU). He is a Ex. Senior Consultant, Cardiology at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Nexus Hospital, Mymensingh. Practicing hour of Dr. S.K. Apu at Nexus Hospital, Mymensingh is 10am to 11am (Closed: Friday).",
+      "chamber": {
+        "hospital": "Nexus Hospital, Mymensingh",
+        "address": "29, Sehora, Mymensingh Sadar, Mymensingh – 2200",
+        "visitingTime": "10am to 11am (Closed: Friday)",
+        "appointmentNumber": "+8801796586561"
+      },
+      "id": "187f81f7-5225-4349-aaf6-06280ba45c84"
+    },
+    {
+      "name": "Dr. Ashish Kumer Roy",
+      "degree": "MBBS, MD (Cardiology)",
+      "specialty": "Cardiology, Medicine & Rheumatology Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Ashish Kumer Roy is a Cardiologist in Mymensingh. His qualification is MBBS, MD (Cardiology). He is a Consultant, Cardiology at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Mymensingh. Practicing hour of Dr. Ashish Kumer Roy at Labaid Diagnostic, Mymensingh is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Mymensingh",
+        "address": "72, Charpara, Medical College Gate, Mymensingh",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801766663000"
+      },
+      "id": "ece8e1df-cc41-4324-b905-f5eb65d5a203"
+    },
+    {
+      "name": "Dr. Md. Shafiqul Islam",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Cardiology)",
+      "specialty": "Cardiology & Heart Diseases Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "TMC Diagnostic & Hospital, Mymensingh\nAddress: Zeropoint, Noudhar, Trishal, Mymensingh – 2220\nVisiting Hour: 2.30pm to 4pm (Sun & Wed)\nAppointment: +8801774955555\nCall Now",
+      "chamber": {
+        "hospital": "Sayem Diagno Complex & Hospital, Mymensingh",
+        "address": "30/A/1, Dengu Bepari Road, Sehora, Mymensingh – 2200",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801725516141"
+      },
+      "id": "2ebf4ec9-99e7-4aac-9532-c08bf5723bf1"
+    },
+    {
+      "name": "Prof. Dr. AKM Sajidur Rahman Siddique",
+      "degree": "MBBS, D-CARD, MPhil (Endocrinology)",
+      "specialty": "Cardiology, Medicine, Diabetes & Rheumatic Fever Specialist",
+      "workplace": "Shahid Syed Nazrul Islam Medical College & Hospital",
+      "info": "Prof. Dr. AKM Sajidur Rahman Siddique is a Cardiologist in Mymensingh. His qualification is MBBS, D-CARD, MPhil (Endocrinology). He is a Professor & Head, Cardiology at Shahid Syed Nazrul Islam Medical College & Hospital. He regularly provides treatment to his patients at Nexus Hospital, Mymensingh. Practicing hour of Prof. Dr. AKM Sajidur Rahman Siddique at Nexus Hospital, Mymensingh is 4pm to 8pm (Sat, Mon & Wednesday).",
+      "chamber": {
+        "hospital": "Nexus Hospital, Mymensingh",
+        "address": "29, Sehora, Mymensingh Sadar, Mymensingh – 2200",
+        "visitingTime": "4pm to 8pm (Sat, Mon & Wednesday)",
+        "appointmentNumber": "+8801796586561"
+      },
+      "id": "ffb0fd77-0190-4d4a-bd1b-f958a6e00829"
+    },
+    {
+      "name": "Dr. Emdadul Haque",
+      "degree": "MBBS (Dhaka), FCGP (Dhaka), CCD (BIRDEM), PhD (Japan)",
+      "specialty": "Cardiology, Diabetes & Medicine Specialist",
+      "workplace": "Community Based Medical College & Hospital",
+      "info": "Dr. Emdadul Haque is a Cardiologist in Mymensingh. His qualification is MBBS (Dhaka), FCGP (Dhaka), CCD (BIRDEM), PhD (Japan). He is a Associate Professor, Cardiology at Community Based Medical College & Hospital. He regularly provides treatment to his patients at Sodesh Hospital, Mymensingh. Practicing hour of Dr. Emdadul Haque at Sodesh Hospital, Mymensingh is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Sodesh Hospital, Mymensingh",
+        "address": "298/2, Maskanda (Bus Stand), Mymensingh - 2200",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809666777990"
+      },
+      "id": "de151562-c10f-4fd2-bdaf-3cb52c16a773"
+    },
+    {
+      "name": "Dr. Sharif Hasan Kollol",
+      "degree": "MBBS, BCS (Health), CCD (BIRDEM), MD (Cardiology)",
+      "specialty": "Cardiology & Diabetes Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Sharif Hasan Kollol is a Cardiologist in Mymensingh. His qualification is MBBS, BCS (Health), CCD (BIRDEM), MD (Cardiology). He is a Lecturer, Cardiology at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Mymensingh. Practicing hour of Dr. Sharif Hasan Kollol at Popular Diagnostic Center, Mymensingh is 5pm to 10pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mymensingh",
+        "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+        "visitingTime": "5pm to 10pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8809666787814"
+      },
+      "id": "b6092b41-390f-40a7-8a6e-1a5963a43cc2"
+    },
+    {
+      "name": "Dr. Mahmud Hossain Nasim",
+      "degree": "MBBS (Dhaka), MD (Cardiology), CCD (BIRDEM), Training (Chest Diseases)",
+      "specialty": "Cardiology, Diabetes & Chest Diseases Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Mahmud Hossain Nasim is a Cardiologist in Mymensingh. His qualification is MBBS (Dhaka), MD (Cardiology), CCD (BIRDEM), Training (Chest Diseases). He is a Consultant, Cardiology at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Delta Health Care, Mymensingh. Practicing hour of Dr. Mahmud Hossain Nasim at Delta Health Care, Mymensingh is 4pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Delta Health Care, Mymensingh",
+        "address": "55/5, Medical College Gate, Charpara, Mymensingh",
+        "visitingTime": "4pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801847158301"
+      },
+      "id": "33979cce-4a59-4306-b0a9-240b3c33dc6e"
+    },
+    {
+      "name": "Dr. Tofayel Uddin Ahmed",
+      "degree": "MBBS, D-CARD (DU), CCD (BIRDEM), Training (ECHO)",
+      "specialty": "Cardiology & Diabetes Specialist",
+      "workplace": "Community Based Medical College & Hospital",
+      "info": "Dr. Tofayel Uddin Ahmed is a Cardiologist in Mymensingh. His qualification is MBBS, D-CARD (DU), CCD (BIRDEM), Training (ECHO). He is a Associate Professor & Head, Cardiology at Community Based Medical College & Hospital. He regularly provides treatment to his patients at Delta Health Care, Mymensingh. Practicing hour of Dr. Tofayel Uddin Ahmed at Delta Health Care, Mymensingh is 5pm to 8pm (Closed: Friday & Saturday).",
+      "chamber": {
+        "hospital": "Delta Health Care, Mymensingh",
+        "address": "55/5, Medical College Gate, Charpara, Mymensingh",
+        "visitingTime": "5pm to 8pm (Closed: Friday & Saturday)",
+        "appointmentNumber": "+8801847158301"
+      },
+      "id": "5cb90440-84a3-4bf8-a4b6-0611e5569ed8"
+    },
+    {
+      "name": "Dr. Parvez Rahman Khan",
+      "degree": "MBBS (Dhaka), CCD (BIRDEM), D-CARD (BSMMU)",
+      "specialty": "Cardiology & Diabetes Specialist",
+      "workplace": "Community Based Medical College & Hospital",
+      "info": "Dr. Parvez Rahman Khan is a Cardiologist in Mymensingh. His qualification is MBBS (Dhaka), CCD (BIRDEM), D-CARD (BSMMU). He is a Consultant, Cardiology at Community Based Medical College & Hospital. He regularly provides treatment to his patients at Union Specialized Hospital, Mymensingh. Practicing hour of Dr. Parvez Rahman Khan at Union Specialized Hospital, Mymensingh is 3pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Union Specialized Hospital, Mymensingh",
+        "address": "337, Charpara, Mymensingh",
+        "visitingTime": "3pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801958280000"
+      },
+      "id": "98fb4ae4-1cb6-476b-8e34-afc64c8ca980"
+    }
+  ]
+}

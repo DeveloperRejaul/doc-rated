@@ -1,0 +1,144 @@
+{
+  "doctor": [
+    {
+      "name": "Prof. Dr. Dipankar Lodh",
+      "degree": "MBBS (DMC), BCS (Health), FRCS, FCPS (ENT), DLO, MCPS (ENT)",
+      "specialty": "Ear, Nose, Throat Specialist & Surgeon",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "CD Path & Hospital Pvt. Ltd.Address: Shishu Monagal Road, Badurtoal, Cumilla – 3500Visiting Hour: 2pm to 7pm (Thu) & 9am to 1pm (Fri)Appointment: +8801748312796Call Now",
+      "chamber": {
+        "hospital": "Modern Diagnostic Center, Narayanganj",
+        "address": "BJA Babhan, Bangabandhu Road, Chashara, Narayanganj",
+        "visitingTime": "6pm to 9pm (Sat, Sun, Tue & Wed)",
+        "appointmentNumber": "+8801820842293"
+      },
+      "id": "72d308d1-41ba-4c63-badc-f305a771226e"
+    },
+    {
+      "name": "Dr. Ahmed Tariq",
+      "degree": "MBBS, BCS (Health), FCPS (ENT), MS (ENT)",
+      "specialty": "ENT Specialist & Head Neck Surgeon",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, B.B. Road, Chashara, Narayanganj – 1400\nVisiting Hour: 4pm to 9pm (Sat, Mon & Wed)\nAppointment: +8809666787804\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Badda",
+        "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
+        "visitingTime": "5pm to 9pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8809610009614"
+      },
+      "id": "b7590485-c46d-4a3c-90bd-47d38c40e2cd"
+    },
+    {
+      "name": "Prof. Dr. D.G.M Akaiduzzaman",
+      "degree": "MBBS, FCPS (ENT), MS (ENT)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Prof. Dr. D.G.M Akaiduzzaman is a ENT Specialist in Narayanganj. His qualification is MBBS, FCPS (ENT), MS (ENT). He is a Professor, ENT at Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Prof. Dr. D.G.M Akaiduzzaman at Popular Diagnostic Center, Narayanganj is 5:30pm to 9pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "5:30pm to 9pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809666787804"
+      },
+      "id": "fddf4834-2ee5-4e6d-a829-4ce3542d491c"
+    },
+    {
+      "name": "Dr. Utpal Kumar Datta",
+      "degree": "MBBS, BCS (Health), MS (ENT)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "National Institute of ENT & Hospital",
+      "info": "Modern Diagnostic Center, Narayanganj\nAddress: 207, Bangabandhu Road, Chashara, Narayanganj – 1400\nVisiting Hour: 7pm to 9pm (Sun, Tue & Thu\nAppointment: +8801820842293\nCall Now",
+      "chamber": {
+        "hospital": "Green Life Hospital, Dhaka",
+        "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+        "visitingTime": "6pm to 8.30pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801744812176"
+      },
+      "id": "7d336496-951c-4479-a5d3-c6768017d03e"
+    },
+    {
+      "name": "Dr. Md. Mostafizur Rahman",
+      "degree": "MBBS, BCS (Health), DLO, FCPS (ENT), MS (ENT)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Dr. Md. Mostafizur Rahman is a ENT Specialist in Narayanganj. His qualification is MBBS, BCS (Health), DLO, FCPS (ENT), MS (ENT). He is a Assistant Professor, ENT at Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Md. Mostafizur Rahman at Popular Diagnostic Center, Narayanganj is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787804"
+      },
+      "id": "1add48b0-0f3f-4e46-ac21-8c3e3144326f"
+    },
+    {
+      "name": "Dr. M.K.M Daulatullah",
+      "degree": "MBBS, FCPS (ENT), MCPS (ENT)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, B.B. Road, Chashara, Narayanganj – 1400\nVisiting Hour: 3pm to 9pm (Sun, Tue & Thu) & 11am to 9pm (Fri)\nAppointment: +8809666787804\nCall Now",
+      "chamber": {
+        "hospital": "Medi-Hope General Hospital, Demra",
+        "address": "Company Super Market, Konapara, Demra, Dhaka",
+        "visitingTime": "7pm to 10pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801770538862"
+      },
+      "id": "64e5f41b-2244-44ba-b410-e301d08d4e95"
+    },
+    {
+      "name": "Dr. Amit Kumar Saha",
+      "degree": "MBBS (DU), DLO (BSMMU)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Popular Diagnostic Center Limited",
+      "info": "Dr. Amit Kumar Saha is a ENT Specialist in Narayanganj. His qualification is MBBS (DU), DLO (BSMMU). He is a Consultant, ENT at Popular Diagnostic Center Limited. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Amit Kumar Saha at Popular Diagnostic Center, Narayanganj is 10:30am to 2pm (Everyday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "10:30am to 2pm (Everyday)",
+        "appointmentNumber": "+8809666787804"
+      },
+      "id": "2cf307eb-6c80-4a2b-9767-0d8c956eb398"
+    },
+    {
+      "name": "Dr. Md. Sadequr Rahman Emon",
+      "degree": "MBBS (DU), CCD, DLO (BSMMU)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "US-Bangla Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, Bangabandhu Road, Chashara, Narayanganj – 1400\nVisiting Hour: 10am to 3pm (Sun & Tue) & 2pm to 5pm (Thu)\nAppointment: +8809666787804\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "10am to 2pm (Sun, Tue & Friday) & 3pm to 6pm (Thu)",
+        "appointmentNumber": "+8809666787804"
+      },
+      "id": "5272c272-6542-40c4-bb79-7403df8cddfe"
+    },
+    {
+      "name": "Dr. Kamrun Nahar Hurain",
+      "degree": "MBBS. DLO (BSMMU), FCPS (ENT)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head-Neck Cancer Surgeon",
+      "workplace": "ENT and Head-Neck Cancer Hospital & Institute",
+      "info": "Khidmah Hospital, Dhaka\nAddress: C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka\nVisiting Hour: 6pm to 9pm (Sat, Mon & Wed), 9.30pm to 11pm (Friday)\nAppointment: +8809606063030\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, B.B. Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "3pm to 6pm (Sunday, Tuesday & Thursday), 11am to 6pm (Friday)",
+        "appointmentNumber": "+8809666787804"
+      },
+      "id": "7f19c0d4-4f49-43e3-acf8-93e1beb50ff1"
+    },
+    {
+      "name": "Dr. Tamanna Nawshin",
+      "degree": "MBBS, MS (ENT)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Northern International Medical College & Hospital",
+      "info": "Dr. Tamanna Nawshin is a ENT Specialist in Narayanganj. Her qualification is MBBS, MS (ENT). She is a Assistant Professor, ENT at Northern International Medical College & Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Tamanna Nawshin at Popular Diagnostic Center, Narayanganj is 2:30pm to 4:30pm (Wednesday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "2:30pm to 4:30pm (Wednesday)",
+        "appointmentNumber": "+8809666787804"
+      },
+      "id": "da945851-dd8b-4a57-bc5a-ee964dd389ee"
+    }
+  ]
+}

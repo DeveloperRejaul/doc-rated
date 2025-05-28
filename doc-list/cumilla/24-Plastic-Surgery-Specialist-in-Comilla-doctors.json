@@ -1,0 +1,46 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Mirza Mohammad Tyeabul Islam",
+      "degree": "MBBS, FCPS (Plastic Surgery)",
+      "specialty": "Burn, Plastic, Reconstructive & Cosmetic Surgery Specialist",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Mirza Mohammad Tyeabul Islam is a Plastic Surgeon in Comilla. His qualification is MBBS, FCPS (Plastic Surgery). He is a Assistant Professor & Head, Burn & Plastic Surgery at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Cumilla Medical Center Pvt. Ltd. (Tower Hospital). Practicing hour of Dr. Mirza Mohammad Tyeabul Islam at Cumilla Medical Center Pvt. Ltd. (Tower Hospital) is 3pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+        "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+        "visitingTime": "3pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801617435212"
+      },
+      "id": "afefd7ac-6360-4250-8ec1-7ec7aafc113d"
+    },
+    {
+      "name": "Dr. Kazi Imran Ahmed (Sohel)",
+      "degree": "MBBS, BCS (Health), FCPS (Plastic Surgery), MRCS (UK)",
+      "specialty": "Burn, Plastic & Reconstructive Surgeon",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Kazi Imran Ahmed (Sohel) is a Plastic Surgeon in Comilla. His qualification is MBBS, BCS (Health), FCPS (Plastic Surgery), MRCS (UK). He is a Assistant Professor, Plastic Surgery at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Moon Hospital, Comilla. Practicing hour of Dr. Kazi Imran Ahmed (Sohel) at Moon Hospital, Comilla is 3pm to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Moon Hospital, Comilla",
+        "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
+        "visitingTime": "3pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801841594096"
+      },
+      "id": "fa94093a-e74e-427e-9039-e5c884e5b4cd"
+    },
+    {
+      "name": "Dr. Md. Kamrul Islam Mamun",
+      "degree": "MBBS, MS (Plastic Surgery)",
+      "specialty": "Burn, Plastic, Reconstructive, Breast, Trauma & Hand Surgery Specialist",
+      "workplace": "Mainamoti Medical College & Hospital",
+      "info": "Comilla People’s Hospital Ltd\nAddress: Khokon Tower, Medical College Road, Tomsom Bridge, Cumilla\nVisiting Hour: 1pm to 3pm (Closed: Friday)\nAppointment: +8801713629445\nCall Now",
+      "chamber": {
+        "hospital": "Mainamoti Medical College & Hospital",
+        "address": "Baropara, Comilla",
+        "visitingTime": "9am to 1pm (Closed: Friday)",
+        "appointmentNumber": "+8801970173830"
+      },
+      "id": "486c32f5-1369-4067-9e28-0d48d211ead7"
+    }
+  ]
+}

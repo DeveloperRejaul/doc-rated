@@ -1,0 +1,298 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Tania Afroz",
+      "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "General Hospital, Barisal",
+      "info": "Islami Bank Hospital, Barisal\nAddress: Band Road, Chandmari, Barisal – 8200\nVisiting Hour: 4pm to 9pm (Closed: Friday)\nAppointment: +8801810000121\nCall Now",
+      "chamber": {
+        "hospital": "South Apollo Diagnostic Complex, Barisal",
+        "address": "135, Sadar Road, Barisal",
+        "visitingTime": "2.30pm to 4pm (Closed: Friday)",
+        "appointmentNumber": "+8801711457444"
+      },
+      "id": "1fc2caaf-1a55-4368-9592-a7611811fe05"
+    },
+    {
+      "name": "Dr. GK Chakravarty",
+      "degree": "MBBS, FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "BellView Medical Services, Barisal",
+      "info": "Dr. GK Chakravarty is a Gynecologist in Barisal. His qualification is MBBS, FCPS (OBGYN). He is a Chief Consultant, Gynecology & Obstetrics at BellView Medical Services, Barisal. He regularly provides treatment to his patients at BellView Hospital & Medical Services, Barisal. Practicing hour of Dr. GK Chakravarty at BellView Hospital & Medical Services, Barisal is 10am to 5pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "BellView Hospital & Medical Services, Barisal",
+        "address": "114, Sadar Road, Barisal",
+        "visitingTime": "10am to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8801733063692"
+      },
+      "id": "31d41849-fd6b-465f-8bac-c5ea6c96f7ef"
+    },
+    {
+      "name": "Dr. Snigdha Chakraborty",
+      "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Rahat Anwar Hospital, Barisal\nAddress: Band Road, Chandmari, Barisal Sadar, Barisal – 8200\nVisiting Hour: 1pm to 3pm (Closed: Friday)\nAppointment: +8801711993953\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "5:30pm to 8pm (Closed: Monday), 10am to 2pm (Friday)",
+        "appointmentNumber": "+8809666787819"
+      },
+      "id": "b2405012-3749-4eaa-9423-b4d5a25a83fd"
+    },
+    {
+      "name": "Prof. Dr. Shikha Saha",
+      "degree": "MBBS, DGO (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Prof. Dr. Shikha Saha is a Gynecologist in Barisal. Her qualification is MBBS, DGO (OBGYN). She is a Professor & Head, Gynecology & Obstetrics at Sher-E-Bangla Medical College & Hospital. She regularly provides treatment to her patients at Labaid Diagnostic, Barisal. Practicing hour of Prof. Dr. Shikha Saha at Labaid Diagnostic, Barisal is 10am to 1pm (Sun, Tue & Thu).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Barisal",
+        "address": "K Jahan Center, House # 106, Sadar Road, Barisal",
+        "visitingTime": "10am to 1pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801766663305"
+      },
+      "id": "56a33848-ae0f-4be4-8329-0847bb4cfb5c"
+    },
+    {
+      "name": "Dr. Indrani Kar",
+      "degree": "MBBS (DU), BCS (Health), FCPS (OBGYN)",
+      "specialty": "Gynecologist & Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Rahat Anwar Hospital, Barisal\nAddress: Band Road, Chandmari, Barisal Sadar, Barisal – 8200\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8801711993953\nCall Now",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Barisal",
+        "address": "K.B. Hemayet Uddin Road, Girja Moholla, Barisal",
+        "visitingTime": "3pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801711240969"
+      },
+      "id": "ce3549e0-2664-45c8-9321-ec1ffbe7a4df"
+    },
+    {
+      "name": "Dr. Tahura Akter",
+      "degree": "MBBS, BCS (Health), MCPS, FCPS (OBGYN)",
+      "specialty": "Gynecologist & Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Rahat Anwar Hospital, Barisal\nAddress: Band Road, Chandmari, Barisal Sadar, Barisal – 8200\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8801711993953\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "3pm to 5pm (Closed: Sun, Wed & Friday)",
+        "appointmentNumber": "+8809666787819"
+      },
+      "id": "7e85934e-816c-4065-9aa3-bf3c69daf2c9"
+    },
+    {
+      "name": "Prof. Dr. Selina Parvin",
+      "degree": "MBBS, FCPS (OBGYN), DGO (DU), MCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Prof. Dr. Selina Parvin is a Gynecologist in Barisal. Her qualification is MBBS, FCPS (OBGYN), DGO (DU), MCPS (OBGYN). She is a Professor & Head, Gynecology & Obstetrics at Sher-E-Bangla Medical College & Hospital. She regularly provides treatment to her patients at Save Health Hospital, Barisal. Practicing hour of Prof. Dr. Selina Parvin at Save Health Hospital, Barisal is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Save Health Hospital, Barisal",
+        "address": "134, Sadar Road, Shahjahan Chowdhury Bari, Barisal",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801711272602"
+      },
+      "id": "f6087399-7492-4d88-b888-e42fbc726777"
+    },
+    {
+      "name": "Dr. Shahida Begum Minu",
+      "degree": "MBBS, DGO, MCPS (OBGYN), FCPS (OBGYN)",
+      "specialty": "Gynecology, Infertility Specialist & Laparoscopic Surgeon",
+      "workplace": "Khwaja Yunus Ali Medical College & Hospital",
+      "info": "Dr. Shahida Begum Minu is a Gynecologist in Barisal. Her qualification is MBBS, DGO, MCPS (OBGYN), FCPS (OBGYN). She is a Former Associate Professor, Gynecology & Obstetrics at Khwaja Yunus Ali Medical College & Hospital. She regularly provides treatment to her patients at Labaid Diagnostic, Barisal. Practicing hour of Dr. Shahida Begum Minu at Labaid Diagnostic, Barisal is 10am to 12pm (Tue & Wed) & 4pm to 9pm (Sat, Sun, Mon, Thu & Fri).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Barisal",
+        "address": "K Jahan Center, House # 106, Sadar Road, Barisal",
+        "visitingTime": "10am to 12pm (Tue & Wed) & 4pm to 9pm (Sat, Sun, Mon, Thu & Fri)",
+        "appointmentNumber": "+8801766663305"
+      },
+      "id": "f3a2e372-85e2-4a09-a57e-e20e1b1ea8d7"
+    },
+    {
+      "name": "Dr. Farzana Ferdous Munmun",
+      "degree": "MBBS, BCS (Health), DGO (BSMMU), FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Islami Bank Hospital, Barisal\nAddress: Band Road, Chandmari, Barisal – 8200\nVisiting Hour: 5pm to 8pm (Closed: Friday)\nAppointment: +8801810000121\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787819"
+      },
+      "id": "23dec668-17ee-4c38-9fb4-ca1c21da8de8"
+    },
+    {
+      "name": "Dr. Khurshid Jahan",
+      "degree": "MBBS, MPH, MS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Rahat Anwar Hospital, Barisal\nAddress: Band Road, Chandmari, Barisal Sadar, Barisal – 8200\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8801711993953\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787819"
+      },
+      "id": "be7c4cc4-16fc-41cc-abd2-f2a1b3cdac06"
+    },
+    {
+      "name": "Dr. Nasrin Sultana",
+      "degree": "MBBS, BCS (Health), DGO, MCPS (OBGYN), FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. Nasrin Sultana is a Gynecologist in Barisal. Her qualification is MBBS, BCS (Health), DGO, MCPS (OBGYN), FCPS (OBGYN). She is a Assistant Professor, Gynecology & Obstetrics at Sher-E-Bangla Medical College & Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Barisal. Practicing hour of Dr. Nasrin Sultana at Popular Diagnostic Center, Barisal is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787819"
+      },
+      "id": "2ccf5d7f-9ef5-4306-a16c-af6c26ee4173"
+    },
+    {
+      "name": "Dr. Farhana Parvin",
+      "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. Farhana Parvin is a Gynecologist in Barisal. Her qualification is MBBS, BCS (Health), FCPS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Sher-E-Bangla Medical College & Hospital. She regularly provides treatment to her patients at Islami Bank Hospital, Barisal. Practicing hour of Dr. Farhana Parvin at Islami Bank Hospital, Barisal is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Barisal",
+        "address": "Band Road, Chandmari, Barisal - 8200",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801318321847"
+      },
+      "id": "1d96d99d-d03b-4572-b5d1-236e74e22092"
+    },
+    {
+      "name": "Dr. Homaira Koli",
+      "degree": "MBBS, BCS (Health), MS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. Homaira Koli is a Gynecologist in Barisal. Her qualification is MBBS, BCS (Health), MS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Sher-E-Bangla Medical College & Hospital. She regularly provides treatment to her patients at Rahat Anwar Hospital, Barisal. Practicing hour of Dr. Homaira Koli at Rahat Anwar Hospital, Barisal is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Rahat Anwar Hospital, Barisal",
+        "address": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801711993953"
+      },
+      "id": "458b5c80-ff52-46f5-901a-55e00bf21e32"
+    },
+    {
+      "name": "Dr. Forida Begum",
+      "degree": "MBBS, BCS (Health), DGO (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. Forida Begum is a Gynecologist in Barisal. Her qualification is MBBS, BCS (Health), DGO (OBGYN). She is a Senior Consultant, Gynecology & Obstetrics at Sher-E-Bangla Medical College & Hospital. She regularly provides treatment to her patients at Islami Bank Hospital, Barisal. Practicing hour of Dr. Forida Begum at Islami Bank Hospital, Barisal is 4pm to 8pm (Closed: Friday & Saturday).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Barisal",
+        "address": "Band Road, Chandmari, Barisal - 8200",
+        "visitingTime": "4pm to 8pm (Closed: Friday & Saturday)",
+        "appointmentNumber": "+8801318321847"
+      },
+      "id": "4cdc196a-55fa-4457-8f55-6f21dbcf35c7"
+    },
+    {
+      "name": "Dr. Shahnaz Shimul",
+      "degree": "MBBS, BCS (Health), DGO (BSMMU)",
+      "specialty": "Gynecologist & Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. Shahnaz Shimul is a Gynecologist in Barisal. Her qualification is MBBS, BCS (Health), DGO (BSMMU). She is a Consultant, Gynecology & Obstetrics at Sher-E-Bangla Medical College & Hospital. She regularly provides treatment to her patients at Rahat Anwar Hospital, Barisal. Practicing hour of Dr. Shahnaz Shimul at Rahat Anwar Hospital, Barisal is 4pm to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Rahat Anwar Hospital, Barisal",
+        "address": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
+        "visitingTime": "4pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801711993953"
+      },
+      "id": "5ea75b42-eb9e-46c5-b583-04b848204a28"
+    },
+    {
+      "name": "Dr. Mridula Kar",
+      "degree": "MBBS, FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. Mridula Kar is a Gynecologist in Barisal. Her qualification is MBBS, FCPS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Sher-E-Bangla Medical College & Hospital. She regularly provides treatment to her patients at Kirtonkhola Diagnostic Centre, Barisal. Practicing hour of Dr. Mridula Kar at Kirtonkhola Diagnostic Centre, Barisal is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Kirtonkhola Diagnostic Centre, Barisal",
+        "address": "19, Bibirpukur (Uttar Par), K.B. Hemayet Uddin Road, Barisal",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801739418571"
+      },
+      "id": "233aecf4-f33e-4f70-ad0f-76a988a10e51"
+    },
+    {
+      "name": "Dr. Shashwata Goldar Krishna",
+      "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. Shashwata Goldar Krishna is a Gynecologist in Barisal. Her qualification is MBBS, BCS (Health), FCPS (OBGYN). She is a Senior Consultant, Gynecology & Obstetrics at Sher-E-Bangla Medical College & Hospital. She regularly provides treatment to her patients at Rahat Anwar Hospital, Barisal. Practicing hour of Dr. Shashwata Goldar Krishna at Rahat Anwar Hospital, Barisal is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Rahat Anwar Hospital, Barisal",
+        "address": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801711993953"
+      },
+      "id": "5c987ecf-938d-47e0-94e1-0b9c93ffa2a1"
+    },
+    {
+      "name": "Dr. Asma Begum",
+      "degree": "MBBS, MPH, FWHO (Thailand)",
+      "specialty": "Gynecologist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. Asma Begum is a Gynecologist in Barisal. Her qualification is MBBS, MPH, FWHO (Thailand). She is a Former Registrar, Gynecology & Obstetrics at Sher-E-Bangla Medical College & Hospital. She regularly provides treatment to her patients at Islami Bank Hospital, Barisal. Practicing hour of Dr. Asma Begum at Islami Bank Hospital, Barisal is 10am to 2pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Barisal",
+        "address": "Band Road, Chandmari, Barisal - 8200",
+        "visitingTime": "10am to 2pm (Closed: Friday)",
+        "appointmentNumber": "+8801318321847"
+      },
+      "id": "b311d563-ab71-43c1-a6c0-40ed59cd5d15"
+    },
+    {
+      "name": "Dr. Binoy Kirshna Goldar",
+      "degree": "MBBS, DMAS, FMAS, MRCOG (UK)",
+      "specialty": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
+      "workplace": "Patuakhali Medical College & Hospital",
+      "info": "Dr. Binoy Kirshna Goldar is a Gynecologist in Barisal. His qualification is MBBS, DMAS, FMAS, MRCOG (UK). He is a Assistant Professor, Gynecology & Obstetrics at Patuakhali Medical College & Hospital. He regularly provides treatment to his patients at Rahat Anwar Hospital, Barisal. Practicing hour of Dr. Binoy Kirshna Goldar at Rahat Anwar Hospital, Barisal is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Rahat Anwar Hospital, Barisal",
+        "address": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801711993953"
+      },
+      "id": "f448d028-a560-40a3-98d4-7e224c64803c"
+    },
+    {
+      "name": "Dr. Kaniz Fatema Mily",
+      "degree": "MBBS, DGO",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. Kaniz Fatema Mily is a Gynecologist in Barisal. Her qualification is MBBS, DGO. She is a Consultant, Gynecology at Sher-E-Bangla Medical College & Hospital. She regularly provides treatment to her patients at D-LAB Medical Services Ltd. Practicing hour of Dr. Kaniz Fatema Mily at D-LAB Medical Services Ltd is 6pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "D-LAB Medical Services Ltd",
+        "address": "108, Mohila College Goli, Agorpur Road, Barishal",
+        "visitingTime": "6pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801715293589"
+      },
+      "id": "a0f578c5-0ef8-49f5-905d-abb22c7ff078"
+    },
+    {
+      "name": "Dr. Kazi Towkia Rahman",
+      "degree": "MBBS. DGO (BSMMU)",
+      "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+      "workplace": "Divisional Police Hospital, Barisal",
+      "info": "Dr. Kazi Towkia Rahman is a Gynecologist in Barisal. Her qualification is MBBS. DGO (BSMMU). She is a Consultant, Gyne & Obs Dept at Divisional Police Hospital, Barisal. She regularly provides treatment to her patients at Royal City Hospital, Barisal. Practicing hour of Dr. Kazi Towkia Rahman at Royal City Hospital, Barisal is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Royal City Hospital, Barisal",
+        "address": "Brown Compound (Opposite to Mosque), Barisal",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801708-436520"
+      },
+      "id": "259c5abc-ab2a-4a9b-a0bc-b91c2a18edee"
+    }
+  ]
+}

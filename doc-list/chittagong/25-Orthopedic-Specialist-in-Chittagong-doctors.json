@@ -1,0 +1,690 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Md. Tayef Mahmud",
+      "degree": "MBBS, BCS (Health), MS (Ortho Surgery)",
+      "specialty": "Orthopedic (Bone, Joint, Arthritis, Trauma, Paralysis) Specialist & Surgeon",
+      "workplace": "Chittagong Medical College & HospitalAppointment: 01810-004550",
+      "info": "Dr. Md. Tayef Mahmud is a Orthopedic Surgeon in Chittagong. His qualification is MBBS, BCS (Health), MS (Ortho Surgery). He is a Assistant Registrar, Orthopedic Surgery Dept at Chittagong Medical College Hospital. He regularly provides treatment to his patients at Asperia Health Care Ltd, Chittagong. Practicing hour of Dr. Md. Tayef Mahmud at Asperia Health Care Ltd, Chittagong is Saturday to Thursday (Closed: Friday).",
+      "chamber": {
+        "hospital": "Asperia Health Care Ltd, Chittagong",
+        "address": "Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram",
+        "visitingTime": "Saturday to Thursday (Closed: Friday)",
+        "appointmentNumber": "+8801810-004550"
+      },
+      "id": "c82e081b-5036-442b-aa86-5dd86209caa8"
+    },
+    {
+      "name": "Dr. A.H.M. Azgar Ali Chowdhury",
+      "degree": "MBBS, BCS (Health), MS (Orthopedics), Fellow (Pediatric Orthopedics)",
+      "specialty": "Orthopedics, Pediatrics Orthopedics, Bone, Joint, Trauma, Spine Specialist & Surgeon",
+      "workplace": "Chittagong 250 Bed General Hospital, ChattogramAppointment: 01617-654525",
+      "info": "Belle Vue Hospital, Chittagong\nAddress: Prabartak Hill, 12/12, O.R. Nizam Road, Panchlaish, Chattogram\nVisiting Hour: 4pm to 7pm (Closed: Wed & Friday)\nAppointment: +8801617654525\nCall Now",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Wed & Friday)",
+        "appointmentNumber": "+8801617654525"
+      },
+      "id": "b0eb3e5d-c0a3-4f1f-8082-00fbfbed834f"
+    },
+    {
+      "name": "Dr. Mostofa Kamal",
+      "degree": "MBBS, BCS (Health), D-ORTHO (BSMMU)",
+      "specialty": "Orthopedics (Bone, Joint, Paralysis) Specialist, Trauma & Spine Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Lancet Diagnostic Center, Chittagong\nAddress: 106/B, K.B. Fazlul Kader Road, Panchlaish, Chattogram (Room: 304)\nVisiting Hour: 9pm to 10.30pm (Closed: Wed & Friday)\nAppointment: +8801824919849\nCall Now",
+      "chamber": {
+        "hospital": "Asperia Treatment (Treatment Hospital)",
+        "address": "100, O.R Nizam Road, Panchlaish, Chittagong",
+        "visitingTime": "7.30pm to 9pm (Closed: Wed & Friday)",
+        "appointmentNumber": "+8801323337344"
+      },
+      "id": "4faafd4d-e53c-4d2d-bc25-7e740a373b9d"
+    },
+    {
+      "name": "Dr. Chandan Kumar Das",
+      "degree": "MBBS, MS (ORTHO), AO (Trauma), Masters (LE), MIO, Fellow (AIIMS)",
+      "specialty": "Orthopedic Specialist & Trauma Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Chandan Kumar Das is a Orthopedic Surgeon in Chittagong. His qualification is MBBS, MS (ORTHO), AO (Trauma), Masters (LE), MIO, Fellow (AIIMS). He is a Professor, Orthopedics at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at People's Hospital, Chittagong. Practicing hour of Dr. Chandan Kumar Das at People's Hospital, Chittagong is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "People's Hospital, Chittagong",
+        "address": "94, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801930533981"
+      },
+      "id": "e8a0f5df-5a58-4471-9c0d-a57d1798df7f"
+    },
+    {
+      "name": "Prof. Dr. Bidhan Chandra Roy",
+      "degree": "MBBS, MS (Ortho Surgery), FICS (USA), Fellow (Australia)",
+      "specialty": "Orthopedic & Accident Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Prof. Dr. Bidhan Chandra Roy is a Orthopedic Surgeon in Chittagong. His qualification is MBBS, MS (Ortho Surgery), FICS (USA), Fellow (Australia). He is a Professor, Orthopedics at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Chittagong. Practicing hour of Prof. Dr. Bidhan Chandra Roy at Popular Diagnostic Center, Chittagong is 5pm to 11pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Chittagong",
+        "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 11pm (Closed: Friday)",
+        "appointmentNumber": "+8801912512385"
+      },
+      "id": "b0c0c476-4105-44b0-b2b6-f0641fc0d613"
+    },
+    {
+      "name": "Dr. Jabed Jahangir Tuhin",
+      "degree": "MBBS, BCS (Health), MS (Orthopedics), AO (Fellow)",
+      "specialty": "Orthopedics, Trauma, Spine, Arthroscopic & Knee Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Surecell Medical, Chattogram\nAddress: Al-Noor Badrun Centre (3rd Floor), 1486/1672, OR Nizam Road, Chattogram\nVisiting Hour: 1.30pm to 3.30pm (Sat, Mon & Wed)\nAppointment: +8801701664440\nCall Now",
+      "chamber": {
+        "hospital": "Asperia Health Care Ltd, Chittagong",
+        "address": "Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram",
+        "visitingTime": "2pm to 4pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801810004550"
+      },
+      "id": "e45c6b53-32d9-46f5-9abf-02f7e7abb6ca"
+    },
+    {
+      "name": "Dr. Wakil Ahmed",
+      "degree": "MBBS, MCPS (Surgery), MS (ORTHO), MMEd, FRCS (UK), FACS (USA)",
+      "specialty": "Arthroscopic & Joint Replacement Surgeon",
+      "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+      "info": "Parkview Hospital, Chittagong\nAddress: 94/103, Katalganj Road, Panchlaish, Chattogram\nVisiting Hour: 10am to 5pm (Only Friday)\nAppointment: +8801976022333\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
+        "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+        "visitingTime": "7pm to 10pm (Closed: Thu & Fri)",
+        "appointmentNumber": "+8809610010615"
+      },
+      "id": "2514b873-6f2d-4107-8afa-6f0e7b2d097d"
+    },
+    {
+      "name": "Prof. Dr. Md. Mizanur Rahman Chowdhury",
+      "degree": "MBBS, MS (Orthopedic), Training in Arthroplasty (India)",
+      "specialty": "Orthopedics (Bone, Joint, Fractures, Sports Injury, Trauma) & Spine Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Prof. Dr. Md. Mizanur Rahman Chowdhury is a Orthopedic Surgeon in Chittagong. His qualification is MBBS, MS (Orthopedic), Training in Arthroplasty (India). He is a Professor & Head, Orthopedic Surgery at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Medical Centre Hospital, Chittagong. Practicing hour of Prof. Dr. Md. Mizanur Rahman Chowdhury at Medical Centre Hospital, Chittagong is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medical Centre Hospital, Chittagong",
+        "address": "953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801881872709"
+      },
+      "id": "7ee2f3cc-8f70-4035-acdf-98d702a7d524"
+    },
+    {
+      "name": "Prof. Dr. Md. Iqbal Hossain",
+      "degree": "MBBS, MS (ORTHO)",
+      "specialty": "Orthopedics Specialist & Trauma Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Prof. Dr. Md. Iqbal Hossain is a Orthopedic Surgeon in Chittagong. His qualification is MBBS, MS (ORTHO). He is a Professor, Orthopedics at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Chevron Clinical Laboratory, Chittagong. Practicing hour of Prof. Dr. Md. Iqbal Hossain at Chevron Clinical Laboratory, Chittagong is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Chittagong",
+        "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801755666969"
+      },
+      "id": "45e12d96-2abc-46c9-af36-f1e3b8efdbf6"
+    },
+    {
+      "name": "Dr. Mohammad Abdul Hye",
+      "degree": "MBBS, BCS (Health), MS (Orthopedic Surgery)",
+      "specialty": "Arthroscopy, Arthroplasty, Orthopedic & Trauma Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Chittagong\nAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 6pm to 7pm (Sun & Thursday)\nAppointment: +8801836112977\nCall Now",
+      "chamber": {
+        "hospital": "Epic Healthcare, Chittagong",
+        "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "2.30pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801746500717"
+      },
+      "id": "08d2b0e6-5f4e-4b39-8edf-6b4bc64cd943"
+    },
+    {
+      "name": "Dr. Saleh Uddin Ahmad",
+      "degree": "MBBS, MS (Ortho Surgery)",
+      "specialty": "Orthopedic (Bone, Joint, Arthritis, Injury) & Trauma Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Saleh Uddin Ahmad is a Orthopedic Surgeon in Chittagong. His qualification is MBBS, MS (Ortho Surgery). He is a Consultant, Orthopedics & Traumatology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Surgiscope Hospital, Chittagong. Practicing hour of Dr. Saleh Uddin Ahmad at Surgiscope Hospital, Chittagong is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Surgiscope Hospital, Chittagong",
+        "address": "Unit 2, 53/1, Panchlaish, Chattogram - 4203",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+880312555102"
+      },
+      "id": "53cf6701-e767-4ea3-b64c-c9edbaaa115e"
+    },
+    {
+      "name": "Dr. Md. Jamal Uddin",
+      "degree": "MBBS, MS (ORTHO)",
+      "specialty": "Orthopedic, Trauma & Vascular Surgery Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Md. Jamal Uddin is a Orthopedic Surgeon in Chittagong. His qualification is MBBS, MS (ORTHO). He is a Assistant Professor, Orthopedic Surgery at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Chittagong. Practicing hour of Dr. Md. Jamal Uddin at Popular Diagnostic Center, Chittagong is 3pm to 6pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Chittagong",
+        "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "3pm to 6pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8809666787810"
+      },
+      "id": "12b791a6-b083-4aaf-ae5a-84c65294beb4"
+    },
+    {
+      "name": "Prof. Dr. Alak Kanti Biswas",
+      "degree": "MBBS, MS (Ortho Surgery)",
+      "specialty": "Orthopedic (Bone, Joint, Arthritis, Injury) & Trauma Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Prof. Dr. Alak Kanti Biswas is a Orthopedic Surgeon in Chittagong. His qualification is MBBS, MS (Ortho Surgery). He is a Professor, Orthopedics & Traumatology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Surgiscope Hospital, Chittagong. Practicing hour of Prof. Dr. Alak Kanti Biswas at Surgiscope Hospital, Chittagong is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Surgiscope Hospital, Chittagong",
+        "address": "Unit 2, 53/1, Panchlaish, Chattogram - 4203",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801823725985"
+      },
+      "id": "2009b052-9ce4-4c0d-81d5-5d3242eb44bc"
+    },
+    {
+      "name": "Dr. Md. Mayen Uddin Majumder",
+      "degree": "MBBS, BCS (Health), MS-ORTHO (NITOR), AO (Basic)",
+      "specialty": "Orthopedics (Bone, Joint, Fractures, Sports Injury, Trauma) & Spine Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Md. Mayen Uddin Majumder is a Orthopedic Surgeon in Chittagong. His qualification is MBBS, BCS (Health), MS-ORTHO (NITOR), AO (Basic). He is a Assistant Professor, Orthopedics & Traumatology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Delta Health Care, Chittagong. Practicing hour of Dr. Md. Mayen Uddin Majumder at Delta Health Care, Chittagong is 7pm to 10pm (Closed: Wednesday & Friday).",
+      "chamber": {
+        "hospital": "Delta Health Care, Chittagong",
+        "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Wednesday & Friday)",
+        "appointmentNumber": "+8801841906010"
+      },
+      "id": "69199321-9f8b-425d-9942-5b2fe714aa28"
+    },
+    {
+      "name": "Dr. A.N.M Humayun Kabir",
+      "degree": "MBBS, D-ORTHO (Traumatology)",
+      "specialty": "Orthopedics (Bone, Joint, Injury, Arthritis) Specialist & Trauma Surgeon",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Dr. A.N.M Humayun Kabir is a Orthopedic Specialist in Chittagong. His qualification is MBBS, D-ORTHO (Traumatology). He is a Senior Consultant, Orthopedic Surgery at Chattogram Maa-O-Shishu Hospital Medical College. He regularly provides treatment to his patients at Chattogram Metropolitan Hospital. Practicing hour of Dr. A.N.M Humayun Kabir at Chattogram Metropolitan Hospital is 12pm to 3pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital",
+        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "12pm to 3pm (Closed: Friday)",
+        "appointmentNumber": "+8801814651077"
+      },
+      "id": "3215ff34-f8a3-4e5a-96a8-0e7c35e9a1ba"
+    },
+    {
+      "name": "Dr. Mahamudur Rahaman",
+      "degree": "MBBS, BCS (Health), MS (ORTHO)",
+      "specialty": "Bone, Joint, Arthritis, Sports Injury & Trauma Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Chattogram Metropolitan Hospital\nAddress: 698/752, O.R. Nizam Road, Panchlaish, Chattogram\nVisiting Hour: 7pm to 10pm (Closed: Tue & Friday)\nAppointment: +8801835203547\nCall Now",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 7pm (Closed: Mon & Friday)",
+        "appointmentNumber": "+8801976022333"
+      },
+      "id": "8e430bbc-3ec1-4381-8312-66cc97ffae19"
+    },
+    {
+      "name": "Dr. Rakib Mohammad Monjur",
+      "degree": "MBBS, MS (ORTHO)",
+      "specialty": "Orthopedic Specialist & Trauma Surgeon",
+      "workplace": "National Institute of Traumatology & Orthopaedic Rehabilitation",
+      "info": "Dr. Rakib Mohammad Monjur is a Orthopedic Surgeon in Chittagong. His qualification is MBBS, MS (ORTHO). He is a Assistant Professor, Orthopedic Surgery at National Institute of Traumatology & Orthopaedic Rehabilitation. He regularly provides treatment to his patients at CSCR Hospital, Chittagong. Practicing hour of Dr. Rakib Mohammad Monjur at CSCR Hospital, Chittagong is 3pm to 5pm (Only Friday).",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "3pm to 5pm (Only Friday)",
+        "appointmentNumber": "+8801887656565"
+      },
+      "id": "6d9be7fa-0839-4733-a0da-8c217acf8bb7"
+    },
+    {
+      "name": "Dr. Md. Saifuddin Rokon",
+      "degree": "MBBS (CMC), D-ORTHO",
+      "specialty": "Orthopedic Specialist & Trauma Surgeon",
+      "workplace": "Chattogram International Medical College & Hospital",
+      "info": "Dr. Md. Saifuddin Rokon is a Orthopedic Specialist in Chittagong. His qualification is MBBS (CMC), D-ORTHO. He is a Assistant Professor, Orthopedic Surgery at Chattogram International Medical College & Hospital. He regularly provides treatment to his patients at Chattogram Metropolitan Hospital. Practicing hour of Dr. Md. Saifuddin Rokon at Chattogram Metropolitan Hospital is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital",
+        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801814651077"
+      },
+      "id": "16538339-4bd0-4ba3-907b-c29e8e49691f"
+    },
+    {
+      "name": "Prof. Dr. Md. Imam Uddin",
+      "degree": "MBBS, MS (Ortho Surgery)",
+      "specialty": "Orthopedic Specialist & Trauma Surgeon",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Prof. Dr. Md. Imam Uddin is a Orthopedic Surgeon in Chittagong. His qualification is MBBS, MS (Ortho Surgery). He is a Professor, Orthopedics & Traumatology at Chattogram Maa-O-Shishu Hospital Medical College. He regularly provides treatment to his patients at Labaid Specialized Hospital, Chattogram. Practicing hour of Prof. Dr. Md. Imam Uddin at Labaid Specialized Hospital, Chattogram is 10am to 1pm (Mon & Wed).",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Chattogram",
+        "address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
+        "visitingTime": "10am to 1pm (Mon & Wed)",
+        "appointmentNumber": "+8801766662828"
+      },
+      "id": "e3ead7fe-5474-4a2e-8a07-6e990fb0aa6c"
+    },
+    {
+      "name": "Prof. Dr. Hossain Ahmed",
+      "degree": "MBBS, MS (ORTHO), MO (India), Training (Arthroplasty)",
+      "specialty": "Orthopedic Specialist & Trauma Surgeon",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Prof. Dr. Hossain Ahmed is a Orthopedic Surgeon in Chittagong. His qualification is MBBS, MS (ORTHO), MO (India), Training (Arthroplasty). He is working as a Orthopedic Specialist & Trauma Surgeon doctor in Chattogram Maa-O-Shishu Hospital Medical College. He regularly provides treatment to his patients at Islami Bank Hospital, Chittagong. Practicing hour of Prof. Dr. Hossain Ahmed at Islami Bank Hospital, Chittagong is 10am to 2pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Chittagong",
+        "address": "3, Sheikh Mujib Road, Agrabad, Chittagong",
+        "visitingTime": "10am to 2pm (Closed: Friday)",
+        "appointmentNumber": "+8801731253990"
+      },
+      "id": "7e2422a8-c642-4bf9-8a4e-2ce5f16d67fd"
+    },
+    {
+      "name": "Dr. Mohammed Abdul Awwal",
+      "degree": "MBBS, MS (ORTHO), Fellow Spine (ISIC),  AO Spine Basic (India), AO Spine Advanced (KSA)",
+      "specialty": "Orthopedic & Spine Surgery Specialist",
+      "workplace": "Evercare Hospital, Chattogram",
+      "info": "Dr. Mohammed Abdul Awwal is a Orthopedic Surgeon in Chittagong. His qualification is MBBS, MS (ORTHO), Fellow Spine (ISIC),  AO Spine Basic (India), AO Spine Advanced (KSA). He is a Consultant, Orthopedic Surgery at Evercare Hospital, Chattogram. He regularly provides treatment to his patients at Evercare Hospital, Chattogram. Practicing hour of Dr. Mohammed Abdul Awwal at Evercare Hospital, Chattogram is 9am to 5pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Evercare Hospital, Chattogram",
+        "address": "H1, Ananna R/A, CDA, Hathazari, Chattogram",
+        "visitingTime": "9am to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8809610810663"
+      },
+      "id": "35eb2b8d-9cf7-42ce-8d12-e20685abc7a5"
+    },
+    {
+      "name": "Dr. A.H.M Rezaul Haque",
+      "degree": "MBBS, MS (Orthopedics), Fellowship Training (Singapore, Korea, India)",
+      "specialty": "Orthopedic, Arthroplasty & Arthroscopic Surgeon",
+      "workplace": "Evercare Hospital, Chattogram",
+      "info": "Dr. A.H.M Rezaul Haque is a Orthopedic Surgeon in Chittagong. His qualification is MBBS, MS (Orthopedics), Fellowship Training (Singapore, Korea, India). He is a Senior Consultant, Orthopedic Surgery at Evercare Hospital, Chattogram. He regularly provides treatment to his patients at Evercare Hospital, Chattogram. Practicing hour of Dr. A.H.M Rezaul Haque at Evercare Hospital, Chattogram is 9am to 5pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Evercare Hospital, Chattogram",
+        "address": "H1, Ananna R/A, CDA, Hathazari, Chattogram",
+        "visitingTime": "9am to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8809610810663"
+      },
+      "id": "eb95cc07-3b8a-497b-9144-11b78aa63fd3"
+    },
+    {
+      "name": "Dr. ATM Rezaul Karim",
+      "degree": "MBBS, D-ORTHO, MS (ORTHO)",
+      "specialty": "Bone, Joint, Arthritis, Sports Injury, Spine & Trauma Surgeon",
+      "workplace": "Parkview Hospital, Chittagong",
+      "info": "Dr. ATM Rezaul Karim is a Orthopedic Surgeon in Chittagong. His qualification is MBBS, D-ORTHO, MS (ORTHO). He is a Consultant, Orthopedics at Parkview Hospital, Chittagong. He regularly provides treatment to his patients at Parkview Hospital, Chittagong. Practicing hour of Dr. ATM Rezaul Karim at Parkview Hospital, Chittagong is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801976022333"
+      },
+      "id": "24a0bad1-7fae-4fc2-ade4-feba63409e52"
+    },
+    {
+      "name": "Dr. Tafhim Ehsan Kabir (Fahim)",
+      "degree": "MBBS, MS (ORTHO)",
+      "specialty": "Orthopedic Specialist & Trauma Surgeon",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Dr. Tafhim Ehsan Kabir (Fahim) is a Orthopedic Doctor in Chittagong. His qualification is MBBS, MS (ORTHO). He is working as a Orthopedic Specialist & Trauma Surgeon doctor in Chattogram Maa-O-Shishu Hospital Medical College. He regularly provides treatment to his patients at Chattogram Metropolitan Hospital. Practicing hour of Dr. Tafhim Ehsan Kabir (Fahim) at Chattogram Metropolitan Hospital is 7pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital",
+        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801814651077"
+      },
+      "id": "c215af0d-c6db-4633-af05-0072660182b4"
+    },
+    {
+      "name": "Dr. Ajoy Das",
+      "degree": "MBBS, BCS (Health), D-ORTHO",
+      "specialty": "Orthopedics (Bone, Joint, Arthritis, Trauma) Specialist Surgeon",
+      "workplace": "General Hospital, Chittagong",
+      "info": "Dr. Ajoy Das is a Orthopedic Surgeon in Chittagong. His qualification is MBBS, BCS (Health), D-ORTHO. He is a Senior Consultant, Orthopedics at General Hospital, Chittagong. He regularly provides treatment to his patients at Max Hospital & Diagnostic, Chittagong. Practicing hour of Dr. Ajoy Das at Max Hospital & Diagnostic, Chittagong is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Max Hospital & Diagnostic, Chittagong",
+        "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801713998199"
+      },
+      "id": "c3940fd3-ea2b-4aad-a345-fdf06a568046"
+    },
+    {
+      "name": "Dr. Md. Fahad Goni",
+      "degree": "MBBS, MS (ORTHO)",
+      "specialty": "Orthopedics (Bone, Joint, Sports Injury, Trauma) & Spine Surgeon",
+      "workplace": "Bangabandhu Memorial Hospital, USTC, Chittagong",
+      "info": "Dr. Md. Fahad Goni is a Orthopedic Specialist in Chittagong. His qualification is MBBS, MS (ORTHO). He is a Assistant Professor & Head, Orthopedics Surgery at Bangabandhu Memorial Hospital, USTC, Chittagong. He regularly provides treatment to his patients at Shahjalal Diagnostic Clinic, Chittagong. Practicing hour of Dr. Md. Fahad Goni at Shahjalal Diagnostic Clinic, Chittagong is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Shahjalal Diagnostic Clinic, Chittagong",
+        "address": "143, Sheikh Mujib Road, Badamtoli, Agrabad, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801719652444"
+      },
+      "id": "5cade5b8-5a41-49e3-ba77-fb78444c8ae3"
+    },
+    {
+      "name": "Dr. Biplab Mozumder",
+      "degree": "MBBS, BCS (Health), D-ORTHO, MS (Orthopedics)",
+      "specialty": "Pediatric Orthopedic Surgeon",
+      "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+      "info": "Parkview Hospital, Chittagong\nAddress: 94/103, Katalganj Road, Panchlaish, Chattogram\nVisiting Hour: 6pm to 9pm (2nd and 4th Thursday)\nAppointment: +8801892962636\nCall Now",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Uttara (Unit 02)",
+        "address": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
+        "visitingTime": "5pm to 7pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801676008580"
+      },
+      "id": "37112e39-0d4d-447a-9af6-e8bcb3014342"
+    },
+    {
+      "name": "Dr. Myen Uddin Mozumder",
+      "degree": "MBBS, BCS (Health), MS (ORTHO)",
+      "specialty": "Orthopedics, Trauma, Joint Replacement & Arthroscopic Surgeon",
+      "workplace": "Rangamati Medical College & Hospital",
+      "info": "Delta Health Care, Chittagong\nAddress: 28 Katalganj, Mirzapul Road, Panchlaish, Chattogram\nVisiting Hour: 6pm to 8pm (Sat, Mon & Wed)\nAppointment: +8802334450694\nCall Now",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Chattogram",
+        "address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801766662828"
+      },
+      "id": "137112ff-59e3-4215-8414-a7c41b455e6c"
+    },
+    {
+      "name": "Dr. Monzurul Karim Biplob",
+      "degree": "MBBS, D-ORTHO (CU), AO (BASIC), Fellow (India), Training (Thailand)",
+      "specialty": "Orthopedic & Trauma Surgery Specialist",
+      "workplace": "Chittagong Diabetic General Hospital",
+      "info": "Dr. Monzurul Karim Biplob is a Orthopedic Surgeon in Chittagong. His qualification is MBBS, D-ORTHO (CU), AO (BASIC), Fellow (India), Training (Thailand). He is a Consultant, Orthopedics at Chittagong Diabetic General Hospital. He regularly provides treatment to his patients at Sensiv Private Limited, Chittagong. Practicing hour of Dr. Monzurul Karim Biplob at Sensiv Private Limited, Chittagong is 7pm to 9.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Sensiv Private Limited, Chittagong",
+        "address": "14, Jamal Khan Road, Jamal Khan, Chattogram",
+        "visitingTime": "7pm to 9.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801788855786"
+      },
+      "id": "7d2589bf-b4f6-4477-aa85-bf983a7e1e60"
+    },
+    {
+      "name": "Dr. Syed Saiful Islam",
+      "degree": "MBBS, D-ORTHO, MS (ORTHO)",
+      "specialty": "Orthopedic (Bone, Joint, Arthritis, Injury) & Trauma Surgeon",
+      "workplace": "BGC Trust Medical College, Chittagong",
+      "info": "Dr. Syed Saiful Islam is a Orthopedic Surgeon in Chittagong. His qualification is MBBS, D-ORTHO, MS (ORTHO). He is a Associate Professor & Head, Orthopedics & Traumatology at BGC Trust Medical College, Chittagong. He regularly provides treatment to his patients at Metro Diagnostic Center, Chittagong. Practicing hour of Dr. Syed Saiful Islam at Metro Diagnostic Center, Chittagong is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Metro Diagnostic Center, Chittagong",
+        "address": "Metro Tower, Goal Pahar Mor, Mehedibag, Chattogram",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801742520887"
+      },
+      "id": "7356a7d1-fcee-4d90-97c0-ad8e24c89136"
+    },
+    {
+      "name": "Dr. Mohammad Mamun",
+      "degree": "MBBS, D-ORTHO",
+      "specialty": "Bone, Joint, Sports Injury & Trauma Surgeon",
+      "workplace": "Parkview Hospital, Chittagong",
+      "info": "Dr. Mohammad Mamun is a Orthopedic Surgeon in Chittagong. His qualification is MBBS, D-ORTHO. He is a Consultant, Orthopedics at Parkview Hospital, Chittagong. He regularly provides treatment to his patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Mohammad Mamun at Parkview Hospital, Chittagong is 10am to 1pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "10am to 1pm (Closed: Friday)",
+        "appointmentNumber": "+8801976022333"
+      },
+      "id": "1b75ec89-7ff6-49f1-bfd7-c08f8f2414e0"
+    },
+    {
+      "name": "Dr. Khaled Bin Islam",
+      "degree": "MBBS, BCS (Health), MS (ORTHO)",
+      "specialty": "Orthopedic (Bone, Joint, Arthritis, Injury) & Trauma Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Khaled Bin Islam is a Orthopedic Surgeon in Chittagong. His qualification is MBBS, BCS (Health), MS (ORTHO). He is a Consultant, Orthopedics & Traumatology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Max Hospital & Diagnostic, Chittagong. Practicing hour of Dr. Khaled Bin Islam at Max Hospital & Diagnostic, Chittagong is 7pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Max Hospital & Diagnostic, Chittagong",
+        "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801713998199"
+      },
+      "id": "4908a3f5-2dd2-4990-a0b9-797117774d1d"
+    },
+    {
+      "name": "Dr. Mohammad Selim",
+      "degree": "MBBS, D-ORTHO, MS (ORTHO)",
+      "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
+      "workplace": "Surecell Medical, Chattogram",
+      "info": "Dr. Mohammad Selim is a Orthopedic Surgeon in Chittagong. His qualification is MBBS, D-ORTHO, MS (ORTHO). He is a Consultant, Orthopedics at Surecell Medical, Chattogram. He regularly provides treatment to his patients at Surecell Medical, Chattogram. Practicing hour of Dr. Mohammad Selim at Surecell Medical, Chattogram is 10am to 12pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Surecell Medical, Chattogram",
+        "address": "Al-Noor Badrun Centre (3rd Floor), 1486/1672, OR Nizam Road, Chattogram",
+        "visitingTime": "10am to 12pm (Closed: Friday)",
+        "appointmentNumber": "+8801701664440"
+      },
+      "id": "c53ade6d-eab7-49ed-99ab-e1c3f7501347"
+    },
+    {
+      "name": "Dr. Md. Abdul Mukit",
+      "degree": "MBBS, D-ORTHO (CU)",
+      "specialty": "Orthopedic Specialist & Trauma Surgeon",
+      "workplace": "Chittagong Diabetic General Hospital",
+      "info": "Dr. Md. Abdul Mukit is a Orthopedic Surgeon in Chittagong. His qualification is MBBS, D-ORTHO (CU). He is working as a Orthopedic Specialist & Trauma Surgeon doctor in Chittagong Diabetic General Hospital. He regularly provides treatment to his patients at People's Hospital, Chittagong. Practicing hour of Dr. Md. Abdul Mukit at People's Hospital, Chittagong is 4pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "People's Hospital, Chittagong",
+        "address": "94, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "4pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+88031658911"
+      },
+      "id": "373853a6-9e0f-46ff-963a-88e5244ff800"
+    },
+    {
+      "name": "Dr. Prabal Bhattacharyya",
+      "degree": "MBBS, D-Ortho, AoA Trauma",
+      "specialty": "Orthopedics (Bone, Joint, Arthritis, Injury) & Trauma Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Medical Centre Hospital, Chittagong\nAddress: 953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram\nVisiting Hour: Sunday, Tuesday & Thursday\nAppointment: +8801860-831958\nCall Now",
+      "chamber": {
+        "hospital": "Blue Vue Health Care Ltd, Chittagong",
+        "address": "1530/A, O.R. Nizam Road, GEC More, Panchlaish, Chattogram",
+        "visitingTime": "Saturday, Monday & Wednesday",
+        "appointmentNumber": "+880241355934"
+      },
+      "id": "44f9bba0-2077-412b-a96a-dd990948c8d7"
+    },
+    {
+      "name": "Dr. A.K.M. Harun-Or-Rashid",
+      "degree": "MBBS, BCS (Health), MS (Ortho Surgery)",
+      "specialty": "Orthopedic Specialist & Trauma Specialist Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. A.K.M. Harun-Or-Rashid is a Orthopedic Surgeon in Chittagong. His qualification is MBBS, BCS (Health), MS (Ortho Surgery). He is a Assistant Professor, Orthopedic Surgery at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Chittagong. Practicing hour of Dr. A.K.M. Harun-Or-Rashid at Popular Diagnostic Center, Chittagong is 7pm to 9pm (Sat, Thu & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Chittagong",
+        "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 9pm (Sat, Thu & Friday)",
+        "appointmentNumber": "+8809666787810"
+      },
+      "id": "4a260f0a-2410-423b-90da-cf9b6561ba27"
+    },
+    {
+      "name": "Dr. Md. Mozaherul Islam",
+      "degree": "MBBS (DMC), BCS (Health), MS (Ortho Surgery), AO (Basic)",
+      "specialty": "Orthopedic Specialist & Trauma Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Md. Mozaherul Islam is a Orthopedic Surgeon in Chittagong. His qualification is MBBS (DMC), BCS (Health), MS (Ortho Surgery), AO (Basic). He is working as a Orthopedic Specialist & Trauma Surgeon doctor in Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Lancet Diagnostic Center, Chittagong. Practicing hour of Dr. Md. Mozaherul Islam at Lancet Diagnostic Center, Chittagong is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Lancet Diagnostic Center, Chittagong",
+        "address": "106/B, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801552674425"
+      },
+      "id": "92e96029-9071-4730-b02e-738433c8f7b1"
+    },
+    {
+      "name": "Dr. Md Shagar Azad",
+      "degree": "MBBS, MS-ORTHO (BSMMU)",
+      "specialty": "Orthopedics (Bone, Joint, Trauma, Sports Injury) Specialist & Surgeon",
+      "workplace": "BGC Trust Medical College, Chittagong",
+      "info": "Dr. Md Shagar Azad is a Orthopedic Surgeon in Chittagong. His qualification is MBBS, MS-ORTHO (BSMMU). He is a Assistant Professor, Orthopedics Surgery at BGC Trust Medical College, Chittagong. He regularly provides treatment to his patients at Labaid Specialized Hospital, Chattogram. Practicing hour of Dr. Md Shagar Azad at Labaid Specialized Hospital, Chattogram is 5pm to 7pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Chattogram",
+        "address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 7pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801766662828"
+      },
+      "id": "8fed728a-cbb3-4ec8-bbc5-4185ca6e2b10"
+    },
+    {
+      "name": "Dr. Naimul Alam",
+      "degree": "MBBS, MS (Orthopedics), NITOR",
+      "specialty": "Orthopedics, Trauma, Spine, Sports Injury Specialist & Surgeon",
+      "workplace": "Marine City Medical College & Hospital",
+      "info": "Dr. Naimul Alam is a Orthopedic Surgeon in Chittagong. His qualification is MBBS, MS (Orthopedics), NITOR. He is a Assistant Professor, Orthopedics at Marine City Medical College & Hospital. He regularly provides treatment to his patients at Doctors Lab, Chittagong. Practicing hour of Dr. Naimul Alam at Doctors Lab, Chittagong is 7pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Doctors Lab, Chittagong",
+        "address": "131, KB Fazlul Kader Road, Probortok More, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801940876810"
+      },
+      "id": "20dfd047-4370-44c8-9c94-7936e4235042"
+    },
+    {
+      "name": "Dr. A.S.M. Saif Uddin Nahid",
+      "degree": "MBBS, D-ORTHO",
+      "specialty": "Orthopedic Specialist & Trauma Surgeon",
+      "workplace": "Southern Medical College & Hospital",
+      "info": "Dr. A.S.M. Saif Uddin Nahid is a Orthopedic Surgeon in Chittagong. His qualification is MBBS, D-ORTHO. He is working as a Orthopedic Specialist & Trauma Surgeon doctor in Southern Medical College & Hospital. He regularly provides treatment to his patients at Al Amin Hospital & Diagnostic Center, Chittagong. Practicing hour of Dr. A.S.M. Saif Uddin Nahid at Al Amin Hospital & Diagnostic Center, Chittagong is 6.30pm to 8.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Al Amin Hospital & Diagnostic Center, Chittagong",
+        "address": "830, Zakir Hossain Road, AK Khan Gate, North Pahartali, Chattogram",
+        "visitingTime": "6.30pm to 8.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801683076070"
+      },
+      "id": "8cfb8400-6552-4de4-b281-d7b95f005688"
+    },
+    {
+      "name": "Dr. Robiul Awal",
+      "degree": "MBBS, PGT (General & Orthopedic Surgery), MS (Course), CCD (BIRDEM)",
+      "specialty": "Orthopedics Surgery & Diabetes Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Dr. Robiul Awal is a Orthopedic Specialist in Chittagong. His qualification is MBBS, PGT (General & Orthopedic Surgery), MS (Course), CCD (BIRDEM). He is a Consultant, Orthopedics at Chattogram Maa-O-Shishu Hospital Medical College. He regularly provides treatment to his patients at Shahjalal Diagnostic Clinic, Chittagong. Practicing hour of Dr. Robiul Awal at Shahjalal Diagnostic Clinic, Chittagong is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Shahjalal Diagnostic Clinic, Chittagong",
+        "address": "143, Sheikh Mujib Road, Badamtoli, Agrabad, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801722122863"
+      },
+      "id": "8bb72164-e8c2-4461-a0c3-a211f4db5d48"
+    },
+    {
+      "name": "Dr. Md. Bulbul Ahmed",
+      "degree": "MBBS, BCS (Health), MS (Orthopedic Surgery)",
+      "specialty": "Orthopedic (Bone, Joint, Arthritis, Spine) Specialist & Trauma Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Human Diagnostic Center & Hospital, Comilla\nAddress: Racecourse (Beside Mukti Hospital), Cumilla\nVisiting Hour: 3.30pm to 8.30pm\nAppointment: +8801724081159\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Chittagong",
+        "address": "Room 507, Block-B, 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 10pm (Sunday & Wednesday)",
+        "appointmentNumber": "+8801620807692"
+      },
+      "id": "0eec9c6c-ad71-4228-a7e6-88dc60d2e010"
+    },
+    {
+      "name": "Dr. Md. Abu Hasan",
+      "degree": "MBBS, BCS (Health), MS (Orthopedics) NITOR, AO Trauma (Basic & Advanced)",
+      "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Green Health Hospital & Diagnostic Center\nAddress: Fatepur, Modonhat, Hathazari, Chattogram\nVisiting Hour: 7pm to 9pm (Closed: Friday)\nAppointment: +8801864491318\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Chittagong",
+        "address": "House # 12/A, Road # 02, Katalgonj, Panchlaish, Chattogram",
+        "visitingTime": "3pm to 5pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809610009622"
+      },
+      "id": "4963ac33-df26-4bc7-ba0b-2b332f72373d"
+    },
+    {
+      "name": "Dr. Muhammad Towhidul Alam (Rubel)",
+      "degree": "MBBS, BCS (Health), D-Ortho (Orthopedic Surgery)",
+      "specialty": "Orthopedic (Bone, Joint, Arthritis, Trauma) Specialist & Surgeon",
+      "workplace": "Upazila Health & Family Planning Officer, Rangunia, Chattogram",
+      "info": "Rangunia Galaxy Lab, Chittagong\nAddress: Beside Rangunia Upazilla Health Complex, Chittagong\nVisiting Hour: 1pm to 3pm (Saturday & Thursday)\nAppointment: +880181705098\nCall Now",
+      "chamber": {
+        "hospital": "Surgiscope Hospital, Chittagong",
+        "address": "Unit 2, 445/466, Katalgonj, Chawkbazar, Chattogram",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801613908623"
+      },
+      "id": "ee1df7ab-c3f1-4f38-9039-7a51515e287a"
+    },
+    {
+      "name": "Dr. K. M. Badar Uddin",
+      "degree": "MBBS, BCS (Health), MS (Orthopedics)",
+      "specialty": "Orthopedics (Bone, Joint, Spine) Specialist & Trauma Surgeon",
+      "workplace": "Chakaria Upazila Health Complex, Cox's Bazar",
+      "info": "Health View Diagnostic & Consultation Center\nAddress: Taherabad R/A, Aturar Depo, Panchlaish, Chattogram\nVisiting Hour: 7pm to 10pm (Everyday)\nAppointment: +8801812379384, +8801976379384\nCall Now",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital",
+        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 10pm (Sunday & Thursday)",
+        "appointmentNumber": "+8801815380048"
+      },
+      "id": "1d88a54c-d569-46bf-8cea-abc657d32850"
+    },
+    {
+      "name": "Dr. Md. Joynal Abedin",
+      "degree": "MBBS, BCS (Health), MPH, D-ORTHO (BSMMU)",
+      "specialty": "Orthopedics (Bone, Joint, Trauma) Specialist & Surgeon",
+      "workplace": "Chittagong Medical College Hospital",
+      "info": "Dr. Md. Joynal Abedin is a Orthopedic Surgeon in Chittagong. His qualification is MBBS, BCS (Health), MPH, D-ORTHO (BSMMU). He is a Consultant at Chittagong Medical College Hospital. He regularly provides treatment to his patients at Asperia Treatment Health Care, Chittagong. Practicing hour of Dr. Md. Joynal Abedin at Asperia Treatment Health Care, Chittagong is 3pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Asperia Treatment Health Care, Chittagong",
+        "address": "1st Floor, 100, Panchlaish, (opposite to Probortok School), Chittagong",
+        "visitingTime": "3pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801323337344"
+      },
+      "id": "66d0f839-73ce-4f04-9d68-11fe37cbc11d"
+    },
+    {
+      "name": "Dr. Raju Prasad Dey",
+      "degree": "MBBS, BCS (Health), MS (Orthopedics)",
+      "specialty": "Orthopaedic, Trauma, Arthroscopy & Joint Replacement Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Raju Prasad Dey is a highly skilled Orthopaedic, Trauma, Arthroscopy, and Joint Replacement Surgeon with extensive expertise in treating musculoskeletal conditions. Holding an MBBS, BCS (Health), and MS in Orthopedics, he has also completed a Fellowship in Arthroscopy & Arthroplasty, making him a specialist in minimally invasive joint surgeries. Dr. Dey is a Consultant Orthopedic Surgeon at Bangabandhu Sheikh Mujib Medical University Hospital, where he provides advanced treatments for conditions such as arthritis, joint pain, fractures, ligament injuries, and sports-related trauma. He offers consultations at Belle Vue Hospital, Chittagong, located at Prabartak Hill, 12/12, O.R. Nizam Road, Panchlaish, Chattogram, from 7:30 PM to 10:00 PM. Patients seeking expert care for joint replacements, arthroscopic procedures, and orthopedic trauma management can benefit from his extensive experience and specialized approach.",
+      "chamber": {
+        "hospital": "Belle Vue Hospital, Chittagong",
+        "address": "Prabartak Hill, 12/12, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "7.30pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801331242375"
+      },
+      "id": "a7e30d40-bb78-4911-94b6-bd694c043687"
+    },
+    {
+      "name": "Dr. Showkat Jahan Chowdhury",
+      "degree": "MBBS, BCS (Health), D-ortho (BSMMU)",
+      "specialty": "Orthopaedics Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Showkat Jahan Chowdhury is a Orthopedic Specialist in Chittagong. His qualification is MBBS, BCS (Health), D-ortho (BSMMU). He is a Registrar, Orthopaedics & Traumatology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Islami Bank Hospital, Chittagong. Practicing hour of Dr. Showkat Jahan Chowdhury at Islami Bank Hospital, Chittagong is 3pm to 6pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Chittagong",
+        "address": "3, Sheikh Mujib Road, Agrabad, Chittagong",
+        "visitingTime": "3pm to 6pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801810000122"
+      },
+      "id": "cdd8d5c9-54a7-4ca6-86d0-4aa0400fa931"
+    },
+    {
+      "name": "Dr. Binimoy Baran Roy",
+      "degree": "MBBS, D-ORTHO, MPH (BSMMU)",
+      "specialty": "Bone-Joint, Pain, Arthritis, Trauma Specialist & Surgeon",
+      "workplace": "Chittagong Medical College Hospital",
+      "info": "Dr. Binimoy Baran Roy is an experienced Bone, Joint, Pain, Arthritis, and Trauma Specialist & Surgeon in Chattogram, holding MBBS, D-Ortho, and MPH (BSMMU) degrees. He serves as a Consultant in the Orthopedics Department at Chittagong Medical College Hospital. Dr. Binimoy Baran Roy treats conditions such as fractures, arthritis, joint dislocations, back pain, spinal injuries, and bone infections. He sees patients at Basic Lab, Chattogram (Beside Popular Chittagong, CMCH East Gate, Chattogram) from 5pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Basic Lab, Chattogram",
+        "address": "Beside Popular Chittagong, CMCH East Gate, Chattogram",
+        "visitingTime": "5pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801711122701, +8801960295155"
+      },
+      "id": "c5c12b34-a450-4193-8f83-fd266dcda22f"
+    }
+  ]
+}

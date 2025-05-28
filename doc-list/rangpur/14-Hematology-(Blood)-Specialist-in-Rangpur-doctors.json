@@ -1,0 +1,60 @@
+{
+  "doctor": [
+    {
+      "name": "Prof. Dr. A.K.M. Kamruzzaman",
+      "degree": "MBBS, FCPS (Hematology)",
+      "specialty": "Blood Diseases, Blood Cancer & Hematology Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Prof. Dr. A.K.M. Kamruzzaman is a Hematologist in Rangpur. His qualification is MBBS, FCPS (Hematology). He is a Professor & Head, Hematology at Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Dr. Amanullah Diagnostic Center, Rangpur. Practicing hour of Prof. Dr. A.K.M. Kamruzzaman at Dr. Amanullah Diagnostic Center, Rangpur is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Dr. Amanullah Diagnostic Center, Rangpur",
+        "address": "Jail Road, Dhap, Rangpur",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801796711116"
+      },
+      "id": "3e60ec88-6d9e-4d2d-8e08-77a0e0ea6dd3"
+    },
+    {
+      "name": "Dr. Md. Abdul Kader Zilani",
+      "degree": "MBBS, BCS (Health), MD (Hematology)",
+      "specialty": "Blood Cancer, Blood Diseases & Hematology Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Md. Abdul Kader Zilani is a Hematologist in Rangpur. His qualification is MBBS, BCS (Health), MD (Hematology). He is a Associate Professor, Hematology at Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Quality Diagnostic Center, Rangpur. Practicing hour of Dr. Md. Abdul Kader Zilani at Quality Diagnostic Center, Rangpur is 3pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Quality Diagnostic Center, Rangpur",
+        "address": "Dhap, R. K. Road, Rangpur (Opposite to cantonment public school)",
+        "visitingTime": "3pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801309002298"
+      },
+      "id": "8abef4db-51b3-4d9f-95db-bb30f2eaa9ae"
+    },
+    {
+      "name": "Dr. Md. Najmul Karim",
+      "degree": "MBBS, BCS (Health), MD (Hematology)",
+      "specialty": "Hematology (Blood Disorders, Blood Cancer, Thalassemia) Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Md. Najmul Karim is a Hematologist in Rangpur. His qualification is MBBS, BCS (Health), MD (Hematology). He is a Assistant Professor, Hematology at Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Hypertension & Research Center, Rangpur. Practicing hour of Dr. Md. Najmul Karim at Hypertension & Research Center, Rangpur is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Hypertension & Research Center, Rangpur",
+        "address": "Holding No: 13/2, Hypertension Centre Lane, Dhap, Jail Road, Rangpur",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801832222719"
+      },
+      "id": "90aae3e0-34a3-4d3b-8655-e3351159b34d"
+    },
+    {
+      "name": "Dr. Md Mahamudul Hasan",
+      "degree": "MBBS, BCS (Health), MD (Hematology)",
+      "specialty": "Haematology (Blood Diseases, Blood Cancer) Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Md Mahamudul Hasan is a Hematologist in Rangpur. His qualification is MBBS, BCS (Health), MD (Hematology). He is a Registrar, Hematology at Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center 1, Rangpur. Practicing hour of Dr. Md Mahamudul Hasan at Popular Diagnostic Center 1, Rangpur is 3:30pm to 10:00pm (Everyday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center 1, Rangpur",
+        "address": "Room No. 501, 4th Floor, Dhap Jail Road, Rangpur",
+        "visitingTime": "3:30pm to 10:00pm (Everyday)",
+        "appointmentNumber": "+8801772729072, +8801708310322"
+      },
+      "id": "755f025d-2127-43c1-9dbc-49194d17d7e2"
+    }
+  ]
+}

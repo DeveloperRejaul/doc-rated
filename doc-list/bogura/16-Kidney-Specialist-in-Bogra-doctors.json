@@ -1,0 +1,88 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. A.N.M Ehsanul Karim",
+      "degree": "MBBS, FCPS (Medicine), MD (Nephrology)",
+      "specialty": "Kidney & Medicine Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. A.N.M Ehsanul Karim is a Kidney Specialist in Bogra. His qualification is MBBS, FCPS (Medicine), MD (Nephrology). He is a Associate Professor & Head, Nephrology at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. A.N.M Ehsanul Karim at Popular Diagnostic Center, Bogra is 2.30pm to 10pm (Thursday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "2.30pm to 10pm (Thursday)",
+        "appointmentNumber": "+8809666787812"
+      },
+      "id": "12141fdc-806d-46ac-90b9-2d920dfebe1a"
+    },
+    {
+      "name": "Dr. A.S.M. Julfekar Helal",
+      "degree": "MBBS, MD (Nephrology), CCD (BIRDEM), FCPS (Medicine)",
+      "specialty": "Kidney, Diabetes & Medicine Specialist",
+      "workplace": "TMSS Medical College & Hospital",
+      "info": "Dr. A.S.M. Julfekar Helal is a Kidney Specialist in Bogra. His qualification is MBBS, MD (Nephrology), CCD (BIRDEM), FCPS (Medicine). He is a Associate Professor, Nephrology at TMSS Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. A.S.M. Julfekar Helal at Popular Diagnostic Center, Bogra is 10am to 5pm (Tues & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "10am to 5pm (Tues & Friday)",
+        "appointmentNumber": "+8809666787812"
+      },
+      "id": "e601e3b4-2562-48f0-96bc-119d23e916ab"
+    },
+    {
+      "name": "Dr. Swapan Kumar Saha",
+      "degree": "MBBS, MD (Nephrology), MPH (Epidemiology)",
+      "specialty": "Kidney Diseases Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Popular Diagnostic Center, RajshahiAddress: House # 474, Chowdhury Tower, Laxmipur, RajshahiVisiting Hour: 3pm to 9pm (Closed: Friday)Appointment: +8809666787811Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "1:30pm to 3:30pm (Mon, Tue & Wednesday)",
+        "appointmentNumber": "+8809666787812"
+      },
+      "id": "c003edc9-6e13-410d-aa1b-c2d482334311"
+    },
+    {
+      "name": "Dr. A.H.M. Sanjedul Haque Sumon",
+      "degree": "MBBS, BCS (Health), MD (Nephrology)",
+      "specialty": "Kidney Diseases Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. A.H.M. Sanjedul Haque Sumon is a Nephrologist in Bogra. His qualification is MBBS, BCS (Health), MD (Nephrology). He is a Consultant, Nephrology at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. A.H.M. Sanjedul Haque Sumon at Popular Diagnostic Center, Bogra is 3pm to 9pm (Closed: Monday), 9am to 7pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "3pm to 9pm (Closed: Monday), 9am to 7pm (Friday)",
+        "appointmentNumber": "+8809666787812"
+      },
+      "id": "d044ca44-66c6-4f80-abc0-239774c5dd73"
+    },
+    {
+      "name": "Dr. S. Haque Sumon",
+      "degree": "MBBS, BCS (Health), MD (Nephrology)",
+      "specialty": "Kidney Diseases Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. S. Haque Sumon is a Kidney Specialist in Bogra. His qualification is MBBS, BCS (Health), MD (Nephrology). He is a Consultant, Nephrology at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic & Consultation Center, Bogra. Practicing hour of Dr. S. Haque Sumon at Ibn Sina Diagnostic & Consultation Center, Bogra is 3pm to 5pm (Closed: Mon & Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
+        "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
+        "visitingTime": "3pm to 5pm (Closed: Mon & Friday)",
+        "appointmentNumber": "+8801701560011"
+      },
+      "id": "f8631f38-b5e7-4c2c-bdcc-150b4f6731e1"
+    },
+    {
+      "name": "Dr. Jakia Sultana",
+      "degree": "MBBS, MCPS (Pediatrics), MD (Pediatric Nephrology)",
+      "specialty": "Child Diseases & Child Kidney Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Jakia Sultana is a Pediatric Nephrologist in Bogra. Her qualification is MBBS, MCPS (Pediatrics), MD (Pediatric Nephrology). She is a Consultant, Pediatrics at Shaheed Ziaur Rahman Medical College & Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Jakia Sultana at Popular Diagnostic Center, Bogra is 3pm to 8pm (Closed: Wednesday), 11am to 2pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "3pm to 8pm (Closed: Wednesday), 11am to 2pm (Friday)",
+        "appointmentNumber": "+8809666787812"
+      },
+      "id": "ef951c3a-e999-4592-8c1c-97e5270c6243"
+    }
+  ]
+}

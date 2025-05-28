@@ -1,0 +1,74 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Md. Gias Uddin",
+      "degree": "MBBS (SSMC), BCS (Health), MD (Rheumatology)MSK Sonologist",
+      "specialty": "Rheumatology (Arthritis, Vasculitis, SLE, Osteoporosis) Specialist",
+      "workplace": "Directorate General of Health Services (DGHS)",
+      "info": "National Hospital, Chittagong\nAddress: 14/15, Dampara Lane, Mehedibag, Chattogram\nVisiting Hour: 3pm to 6pm (Sat, Sun, Tue & Wed)\nAppointment: +8801751238396\nCall Now",
+      "chamber": {
+        "hospital": "Epic Diagnostic",
+        "address": "Chawkbazar, Chattagram",
+        "visitingTime": "7pm to 9pm (Sat, Mon, Tue & Thu)",
+        "appointmentNumber": "+8801751238396"
+      },
+      "id": "35e7702f-cec4-47cd-9bc7-83b773ab7954"
+    },
+    {
+      "name": "Dr. Md. Nazibur Rahman Khokon",
+      "degree": "MBBS, MCPS (Medicine), MD (Rheumatology), ECRD (Switzerland)",
+      "specialty": "Rheumatology, Arthritis & Medicine Specialist",
+      "workplace": "Parkview Hospital Ltd, Chittagong",
+      "info": "Islami Bank Hospital, Chittagong\nAddress: 3, Sheikh Mujib Road, Agrabad, Chittagong\nVisiting Hour: 3pm to 5pm (Sat, Mon & Wed)\nAppointment: +8801810000122\nCall Now",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "Room 208, 94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 10pm (Closed: Tue & Friday)",
+        "appointmentNumber": "+8801781292892"
+      },
+      "id": "2e6a7e7d-dae5-4801-a821-0417c1785c78"
+    },
+    {
+      "name": "Dr. Abdullah Al Morshed",
+      "degree": "MBBS, BCS (Health), MD (Rheumatology)",
+      "specialty": "Rheumatology (Arthritis, Osteoarthritis, Pain, Gout) Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Abdullah Al Morshed is a Rheumatologist in Chittagong. His qualification is MBBS, BCS (Health), MD (Rheumatology). He is a Consultant, Rheumatology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Chittagong. Practicing hour of Dr. Abdullah Al Morshed at Popular Diagnostic Center, Chittagong is 2:30pm to 5pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Chittagong",
+        "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "2:30pm to 5pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809666787810"
+      },
+      "id": "c93e8697-85ba-431b-ac48-a2cd76709214"
+    },
+    {
+      "name": "Dr. Nasim Reza Chowdhury",
+      "degree": "MBBS, BCS (Health), MD (Rheumatology), ECRD (Switzerland)",
+      "specialty": "Rheumatology Specialist",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Nasim Reza Chowdhury is a Rheumatologist in Chittagong. His qualification is MBBS, BCS (Health), MD (Rheumatology), ECRD (Switzerland). He is a Consultant, Rheumatology at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Epic Healthcare, Chittagong. Practicing hour of Dr. Nasim Reza Chowdhury at Epic Healthcare, Chittagong is 6pm to 10pm (Only Friday).",
+      "chamber": {
+        "hospital": "Epic Healthcare, Chittagong",
+        "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 10pm (Only Friday)",
+        "appointmentNumber": "+8801984499600"
+      },
+      "id": "7000b2e5-404c-4839-aad4-d31d2ffc3100"
+    },
+    {
+      "name": "Asst. Prof Dr. Abdul Mahin Tazbir",
+      "degree": "MBBS, MD (Rheumatology, BMU), ECRD (Switzerland)",
+      "specialty": "Rheumatology (Arthritis-RA, SpA, SLE, Osteoporosis) Specialist",
+      "workplace": "Enam Medical College & Hospital",
+      "info": "Asst. Prof Dr. Abdul Mahin Tazbir is a highly qualified Rheumatology specialist in Chattogram, holding an MBBS and MD in Rheumatology from BMU, along with an ECRD from Switzerland. He currently serves as an Assistant Professor in the Department of Rheumatology at Enam Medical College & Hospital. Dr. Tazbir specializes in treating various rheumatic diseases including Arthritis, Rheumatoid Arthritis (RA), Spondyloarthritis (SpA), Systemic Lupus Erythematosus (SLE), and Osteoporosis. He provides consultations at National Hospital, Chittagong, located at Room-4022, 14/15 Dampara Lane, Mehedibag, Chattogram, with visiting hours from 3pm to 6pm on Thursday and Friday.",
+      "chamber": {
+        "hospital": "National Hospital, Chittagong",
+        "address": "Room-4022, 14/15, Dampara Lane, Mehedibag, Chattogram",
+        "visitingTime": "3pm to 6pm (Thursday & Friday)",
+        "appointmentNumber": "+8801318676153"
+      },
+      "id": "0d574382-f475-417f-9ae7-51c6a4937c4f"
+    }
+  ]
+}

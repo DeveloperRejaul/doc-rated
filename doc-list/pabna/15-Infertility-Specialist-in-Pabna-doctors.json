@@ -1,0 +1,46 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Nasrin Nigar",
+      "degree": "MBBS, DGO (BSMMU), DMU (SUB)",
+      "specialty": "Gynecology, Obstetrics, Infertility Specialist & Laparoscopic Surgeon",
+      "workplace": "Khwaja Yunus Ali Medical College & Hospital",
+      "info": "Dr. Nasrin Nigar is a Gynecologist in Pabna. Her qualification is MBBS, DGO (BSMMU), DMU (SUB). She is a Assistant Professor, Gynecology & Obstetrics at Khwaja Yunus Ali Medical College & Hospital. She regularly provides treatment to her patients at Shafique Hospital, Pabna. Practicing hour of Dr. Nasrin Nigar at Shafique Hospital, Pabna is 4pm to 8pm (Sat, Sun, Mon, Tue & Friday).",
+      "chamber": {
+        "hospital": "Shafique Hospital, Pabna",
+        "address": "Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna",
+        "visitingTime": "4pm to 8pm (Sat, Sun, Mon, Tue & Friday)",
+        "appointmentNumber": "+8801744690481"
+      },
+      "id": "efdd325f-b8dc-453b-b765-e494a87eaf75"
+    },
+    {
+      "name": "Dr. Nargis Sultana",
+      "degree": "MBBS, FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+      "workplace": "Pabna Medical College & Hospital",
+      "info": "Dr. Nargis Sultana is a Gynecologist in Pabna. Her qualification is MBBS, FCPS (OBGYN). She is a Assistant Professor, Gynecology & Obstetrics at Pabna Medical College & Hospital. She regularly provides treatment to her patients at Kimia Diagnostic Center, Pabna. Practicing hour of Dr. Nargis Sultana at Kimia Diagnostic Center, Pabna is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Kimia Diagnostic Center, Pabna",
+        "address": "Pach Matha Mor, Beside Central Girls School, Shalgaria, Pabna",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801711489711"
+      },
+      "id": "984ba208-4572-4adb-9d52-452996ffaff6"
+    },
+    {
+      "name": "Dr. Fatema Masur",
+      "degree": "MBBS, FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+      "workplace": "Pabna Medical College & Hospital",
+      "info": "Dr. Fatema Masur is a Gynecologist in Pabna. Her qualification is MBBS, FCPS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Pabna Medical College & Hospital. She regularly provides treatment to her patients at PDC Specialized Hospital, Pabna. Practicing hour of Dr. Fatema Masur at PDC Specialized Hospital, Pabna is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "PDC Specialized Hospital, Pabna",
+        "address": "Capt. Anisur Rahman’s Building, Hospital Road, Pabna",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801798249955"
+      },
+      "id": "67fa86de-216f-496a-8018-4366d13842db"
+    }
+  ]
+}

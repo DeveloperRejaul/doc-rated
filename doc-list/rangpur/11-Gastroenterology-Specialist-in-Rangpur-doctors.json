@@ -1,0 +1,88 @@
+{
+  "doctor": [
+    {
+      "name": "Prof. Dr. Noor Islam",
+      "degree": "MBBS, FCPS (Medicine), FACP (USA), MD (Gastroenterology)",
+      "specialty": "Gastroenterology & Liver Diseases Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Prof. Dr. Noor Islam is a Gastroenterologist in Rangpur. His qualification is MBBS, FCPS (Medicine), FACP (USA), MD (Gastroenterology). He is a Professor, Gastroenterology & Liver at Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rangpur. Practicing hour of Prof. Dr. Noor Islam at Popular Diagnostic Center, Rangpur is 7pm to 10pm (Closed: Tuesday & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rangpur",
+        "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
+        "visitingTime": "7pm to 10pm (Closed: Tuesday & Friday)",
+        "appointmentNumber": "+8809666787813"
+      },
+      "id": "abe2ba93-7cfb-456e-b865-17c809be2142"
+    },
+    {
+      "name": "Dr. Jimma Hossain",
+      "degree": "MBBS, MD (Gastroenterology), Fellow (India)",
+      "specialty": "Gastroenterology, Liver Diseases & Pancreas Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Jimma Hossain is a Gastroenterologist in Rangpur. His qualification is MBBS, MD (Gastroenterology), Fellow (India). He is a Associate Professor, Gastroenterology at Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rangpur. Practicing hour of Dr. Jimma Hossain at Popular Diagnostic Center, Rangpur is 4pm to 9pm (Sat to Thu) & 10am to 12pm (Fri).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rangpur",
+        "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
+        "visitingTime": "4pm to 9pm (Sat to Thu) & 10am to 12pm (Fri)",
+        "appointmentNumber": "+8809666787813"
+      },
+      "id": "857f8e53-db46-4228-9cae-3995e92c5fbd"
+    },
+    {
+      "name": "Dr. Md. Naushad Ali",
+      "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
+      "specialty": "Gastroenterology, Liver Diseases & Medicine Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Md. Naushad Ali is a Gastroenterologist in Rangpur. His qualification is MBBS, FCPS (Medicine), MD (Gastroenterology). He is working as a Gastroenterology, Liver Diseases & Medicine Specialist doctor in Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Rangpur. Practicing hour of Dr. Md. Naushad Ali at Labaid Diagnostic, Rangpur is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Rangpur",
+        "address": "House # 69, Dhap, Jail Road, Rangpur",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801766663099"
+      },
+      "id": "d798e84d-9b86-4a99-9bfe-2c036a68d10e"
+    },
+    {
+      "name": "Dr. Md. Shakhawat Hossain",
+      "degree": "MBBS, MD (Gastroenterology), MACP (USA), MACG (USA), Advanced Endoscopy Training (AIG)",
+      "specialty": "Gastroenterology (Gastroliver, Pancreas & ERCP) Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Md. Shakhawat Hossain is a Gastroenterologist in Rangpur. His qualification is MBBS, MD (Gastroenterology), MACP (USA), MACG (USA), Advanced Endoscopy Training (AIG). He is a Assistant Professor, Gastroenterology at Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rangpur. Practicing hour of Dr. Md. Shakhawat Hossain at Popular Diagnostic Center, Rangpur is 3pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rangpur",
+        "address": "Unit - 02, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
+        "visitingTime": "3pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787813"
+      },
+      "id": "b1b1751e-aff2-4f46-899f-919c1110dcce"
+    },
+    {
+      "name": "Dr. Miah Mohammad Rubel",
+      "degree": "MBBS (DMC), BCS (Health), FCPS (Medicine), MCPS (Medicine), MACP (USA), MD (Gastroenterology)",
+      "specialty": "Medicine, Gastroenterology & Liver Diseases Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "",
+      "chamber": {
+        "hospital": "LabZone Diagnostic, Rangpur",
+        "address": "Dhap, Jail Road (Opposite to 8 Tola Mosque), Rangpur",
+        "visitingTime": "3pm to 9pm (Closed: Sat, Tue & Friday)",
+        "appointmentNumber": "+8801727769514"
+      },
+      "id": "302516af-f49b-4bc9-924c-94811fd6634e"
+    },
+    {
+      "name": "Dr. Khondoker Monirul Alam Russel",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), FCPS (Gastroenterology)",
+      "specialty": "Medicine Specialist & Gastro Liver Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Khondoker Monirul Alam Russel is a Medicine Specialist & Gastro Liver Specialist in Rangpur. His qualification is MBBS, BCS (Health), FCPS (Medicine), FCPS (Gastroenterology). He is a Consultant, Gastroenterology Department at Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Ideal Health City, Rangpur. Practicing hour of Dr. Khondoker Monirul Alam Russel at Ideal Health City, Rangpur is 3pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ideal Health City, Rangpur",
+        "address": "6/7, Treatment Tower, Dhap, Jail Road, Rangpur",
+        "visitingTime": "3pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801876986778"
+      },
+      "id": "7225f8ef-409d-49b1-bf56-b5f8b27b514d"
+    }
+  ]
+}

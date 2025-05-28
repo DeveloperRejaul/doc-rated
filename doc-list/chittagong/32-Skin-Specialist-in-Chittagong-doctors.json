@@ -1,0 +1,578 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Mohammad Lutfur Rahman Rahat",
+      "degree": "MBBS, MD (SKIN & VD, BSMMU)",
+      "specialty": "Skin, Sexual Diseases, Leprosy, STD, Aesthetics & Dermatosurgery Specialist",
+      "workplace": "Central Skin & Social Hygiene Center (American Hospital), Chittagong",
+      "info": "Dr. Mohammad Lutfur Rahman Rahat is a Dermatologist in Chittagong. His qualification is MBBS, MD (SKIN & VD, BSMMU). He is a Dermatologist, Dermatology & Venereology at Central Skin & Social Hygiene Center (American Hospital), Chittagong. He regularly provides treatment to his patients at Zyona Laser & Skin Care Center. Practicing hour of Dr. Mohammad Lutfur Rahman Rahat at Zyona Laser & Skin Care Center is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Zyona Laser & Skin Care Center",
+        "address": "House # 499/685, Siddique Valley, 3rd Floor, Agrabad Access Road, Chattogram",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801307842071"
+      },
+      "id": "8e9db425-42e6-456a-a40f-60649508c2a1"
+    },
+    {
+      "name": "Dr. Shakti Chowdhury",
+      "degree": "MBBS (CMC), DDV (BSMMU)",
+      "specialty": "Dermatology (Skin, Allergy, Hair, Nail. Leprosy) & Cosmetology Specialist",
+      "workplace": "Surecell Medical, ChattogramAppointment: 01701-664440",
+      "info": "Dr. Shakti Chowdhury is a Dermatologist in Chittagong. Her qualification is MBBS (CMC), DDV (BSMMU). She is a Consultant, Dermatology at Surecell Medical, Chattogram. She regularly provides treatment to her patients at Surecell Medical, Chattogram. Practicing hour of Dr. Shakti Chowdhury at Surecell Medical, Chattogram is 4pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Surecell Medical, Chattogram",
+        "address": "Al-Noor Badrun Centre (3rd Floor), 1486/1672, OR Nizam Road, Chattogram",
+        "visitingTime": "4pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801701664440"
+      },
+      "id": "a4903f4b-29f8-46f1-875b-f8415f1c3351"
+    },
+    {
+      "name": "Dr. Mohammad Istiak Arif",
+      "degree": "MBBS, BCS (Health), MD (Skin & VD)",
+      "specialty": "Skin, Allergy, Hair, Nail, Sexual Diseases Specialist",
+      "workplace": "Chittagong Medical College HospitalAppointment: 01810-004550",
+      "info": "Dr. Mohammad Istiak Arif is a skilled skin, allergy, hair, nail, and sexual diseases specialist in Chattogram, holding MBBS, BCS (Health), and MD (Skin & VD) qualifications. He currently serves as a Consultant in the Dermatology Department at Chittagong Medical College Hospital. Dr. Istiak treats a wide range of skin conditions including eczema, psoriasis, acne, fungal infections, hair fall, nail diseases, vitiligo, urticaria, sexually transmitted diseases, and other dermatological issues. He offers consultations at Asperia Health Care Ltd, located at Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram. His chamber remains open from 7pm to 9pm, Sunday to Thursday.",
+      "chamber": {
+        "hospital": "Asperia Health Care Ltd, Chittagong",
+        "address": "Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram",
+        "visitingTime": "7pm to 9pm (Sunday to Thursday)",
+        "appointmentNumber": "+8801810004550"
+      },
+      "id": "b480a47a-bb4a-4069-9364-b38252d3b476"
+    },
+    {
+      "name": "Dr. Chowdhury Farhana Tinnee",
+      "degree": "MBBS, MD (Dermatology & Venereology - BSMMU)",
+      "specialty": "Skin, Allergy, Sex, Aesthetic Medicine Specialist & Dermatosurgeon",
+      "workplace": "Chittagong Medical College Hospital",
+      "info": "Surecell Medical, Chattogram\nAddress: Al-Noor Badrun Centre (3rd Floor), 1486/1672, OR Nizam Road, Chattogram\nVisiting Hour: Prior Appointment\nAppointment: +8801701664440\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Chittagong",
+        "address": "Room - 513, Block - B, 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "4pm to 7pm (Everyday)",
+        "appointmentNumber": "+8801974896998, +8809666787810"
+      },
+      "id": "c01c7693-3fd1-4e99-90e8-2f65fb75e5c5"
+    },
+    {
+      "name": "Prof. Dr. Mansurul Alam",
+      "degree": "MBBS, BCS (Health), FCPS (Dermatology), MD (SKIN & VD), PhD, FRCP (GLASGOW)",
+      "specialty": "Skin, Allergy, Leprosy, Sexual Diseases Specialist & Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Parkview Hospital, Chittagong\nAddress: 94/103, Katalganj Road, Panchlaish, Chattogram\nVisiting Hour: 9am to 1pm (Closed: Friday)\nAppointment: +8801976022333\nCall Now",
+      "chamber": {
+        "hospital": "Epic Healthcare, Chittagong",
+        "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "3.30pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801984499600"
+      },
+      "id": "daa3c460-ff87-44f4-9166-e988bc62cc5f"
+    },
+    {
+      "name": "Dr. Samira Jamal",
+      "degree": "MBBS, BCS (Health), MD (Dermatology)",
+      "specialty": "Skin, Allergy, Leprosy, Sexual Diseases Specialist & Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Samira Jamal is a Dermatologist in Chittagong. Her qualification is MBBS, BCS (Health), MD (Dermatology). She is a Assistant Professor, Dermatology & Venereology at Chittagong Medical College & Hospital. She regularly provides treatment to her patients at Chevron Clinical Laboratory, Chittagong. Practicing hour of Dr. Samira Jamal at Chevron Clinical Laboratory, Chittagong is 4.30pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Chittagong",
+        "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "4.30pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801713487913"
+      },
+      "id": "4b80aa62-69ac-490b-9542-3513ca14b73b"
+    },
+    {
+      "name": "Prof. Dr. Zeenat Meraj Shopna",
+      "degree": "MBBS, MCPS, DD (Bangkok), FCPS, FRCP (Glasgow)",
+      "specialty": "Aesthetic Dermatology & Laser Specialist",
+      "workplace": "United Hospital Limited, Dhaka",
+      "info": "দেশের বিশিষ্ট চর্মরোগ ও লেজার থেরাপি বিশেষজ্ঞ অধ্যাপক ডা. জিনাত মেরাজ স্বপ্না আর নেই। দীর্ঘদিন ধরে ব্রেস্ট ক্যান্সারের সঙ্গে লড়াই করে আজ রাজধানীর একটি হাসপাতালে মারা গেছেন। শনিবার (২৩ সেপ্টেম্বর) সকালে রাজধানীর একটি বেসরকারি হাসপাতালে শেষ নিঃশ্বাস ত্যাগ করেন তিনি (ইন্না লিল্লাহি ওয়া ইন্না ইলাইহি রজিউন)। সদ্য প্রয়াত অধ্যাপক ডা. জিনাত মেরাজ স্বপ্না ছিলেন অ্যাসথেটিক ডার্মাটোলজি সোসাইটি অব বাংলাদেশের সাবেক সভাপতি। সবশেষ তিনি ইউনাইটেড হাসপাতালের ডার্মাটোলজি বিভাগের কনসালট্যান্ট হিসেবে কর্মরত ছিলেন। এর আগে তিনি চট্টগ্রাম মেডিকেল কলেজ হাসপাতালের সহযোগী অধ্যাপক হিসেবে ছিলেন। ডা. জিনাত মেরাজের মৃত্যুতে ডার্মাটোলজিতে নিখুঁত চিকিৎসা দেওয়ার একজন চিকিৎসক হারাল বাংলাদেশ।",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "Not Available২৩ সেপ্টেম্বর ২০২৩ তারিখে অধ্যাপক ডা. জিনাত মেরাজ স্বপ্না ইন্তেকাল করেছেন",
+        "appointmentNumber": "Not Available"
+      },
+      "id": "248519f8-79ca-4302-933c-fe5537963f83"
+    },
+    {
+      "name": "Prof. Dr. Md. Abul Kashem Chowdhury",
+      "degree": "MBBS, DDV, FCPS",
+      "specialty": "Skin, Allergy, Sexual Diseases Specialist & Dermatosurgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Prof. Dr. Md. Abul Kashem Chowdhury is a Dermatologist in Chittagong. His qualification is MBBS, DDV, FCPS. He is a Former Professor & Head, Dermatology & Venereology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Labaid Specialized Hospital, Chattogram. Practicing hour of Prof. Dr. Md. Abul Kashem Chowdhury at Labaid Specialized Hospital, Chattogram is 10am to 1pm & 5pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Chattogram",
+        "address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
+        "visitingTime": "10am to 1pm & 5pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662828"
+      },
+      "id": "181d6812-c914-47dd-b45a-413f562fea6a"
+    },
+    {
+      "name": "Dr. Muhammad Manjurul Karim",
+      "degree": "MBBS, DD (Thailand), MSc (Dermatology)",
+      "specialty": "Skin, Allergy, Hair, Nail, Leprosy & Sexual Diseases Specialist",
+      "workplace": "Apollo Imperial Hospital, Chittagong",
+      "info": "Dr. Muhammad Manjurul Karim is a Dermatologist in Chittagong. His qualification is MBBS, DD (Thailand), MSc (Dermatology). He is a Consultant, Dermatology & Venereology at Apollo Imperial Hospital, Chittagong. He regularly provides treatment to his patients at Apollo Imperial Hospital, Chittagong. Practicing hour of Dr. Muhammad Manjurul Karim at Apollo Imperial Hospital, Chittagong is 9am to 2pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Apollo Imperial Hospital, Chittagong",
+        "address": "Zakir Hossain Road, Pahartali, Chattogram",
+        "visitingTime": "9am to 2pm (Closed: Friday)",
+        "appointmentNumber": "+8809612247247"
+      },
+      "id": "c91d3307-d77d-4cb2-9947-2e498a24ec58"
+    },
+    {
+      "name": "Dr. Shamim Ara Sizu",
+      "degree": "MBBS, DDV, MD (Dermatology)",
+      "specialty": "Skin, Allergy, Hair, Nail, Leprosy & Sexual Diseases Specialist",
+      "workplace": "Chattagram International Medical College & Hospital",
+      "info": "Dr. Shamim Ara Sizu is a Dermatologist in Chittagong. Her qualification is MBBS, DDV, MD (Dermatology). She is a Associate Professor & Head, Dermatology & Venereology at Chattagram International Medical College & Hospital. She regularly provides treatment to her patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Shamim Ara Sizu at Parkview Hospital, Chittagong is 7pm to 9pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 9pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801976022333"
+      },
+      "id": "8421fa61-272d-4c13-9b20-ae866dcb1a37"
+    },
+    {
+      "name": "Dr. Shamsun Nahar",
+      "degree": "MBBS, DDV (CMC), Fellow (Aesthetic Dermatology & Trichology)",
+      "specialty": "Skin, Allergy, Leprosy & Sex Diseases Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Dr. Shamsun Nahar is a Dermatologist in Chittagong. Her qualification is MBBS, DDV (CMC), Fellow (Aesthetic Dermatology & Trichology). She is a Senior Consultant, Dermatology & Venereology at Chattogram Maa-O-Shishu Hospital Medical College. She regularly provides treatment to her patients at National Hospital, Chittagong. Practicing hour of Dr. Shamsun Nahar at National Hospital, Chittagong is 3pm to 5pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "National Hospital, Chittagong",
+        "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
+        "visitingTime": "3pm to 5pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801822685066"
+      },
+      "id": "9f07fc54-1807-493a-b4ff-8fee7145a982"
+    },
+    {
+      "name": "Prof. Dr. Muhammad Ismail",
+      "degree": "MBBS, BCS (Health), MD (Dermatology & Venereology)",
+      "specialty": "Skin, Sexual Diseases & Allergy Specialist",
+      "workplace": "Bangabandhu Memorial Hospital, USTC, Chittagong",
+      "info": "Prof. Dr. Muhammad Ismail is a Dermatologist in Chittagong. His qualification is MBBS, BCS (Health), MD (Dermatology & Venereology). He is a Professor, Dermatology & Venereology at Bangabandhu Memorial Hospital, USTC, Chittagong. He regularly provides treatment to his patients at Chattogram Metropolitan Hospital. Practicing hour of Prof. Dr. Muhammad Ismail at Chattogram Metropolitan Hospital is 6pm to 10.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital",
+        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 10.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801920174451"
+      },
+      "id": "1d7e6f94-0a5b-49bb-9df5-d9ba175addfd"
+    },
+    {
+      "name": "Dr. Barnali Barua",
+      "degree": "MBBS, MD (Dermatology)",
+      "specialty": "Dermatologist, Cosmetologist & Trichologist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Popular Diagnostic Center, ChittagongAddress: Room-512, 20/B, K. B. Fazlul Kader Road, Panchlaish, ChattogramVisiting Hour: 4:30pm to 6:30pm (Closed: Friday)Appointment: +8801896094552Call Now",
+      "chamber": {
+        "hospital": "Holy Health Hospital, Chittagong",
+        "address": "107, Opposite Chittagong Medical College Gate, Palclaish, Chattogram",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801812605505"
+      },
+      "id": "9a1e0183-ccb5-436d-9533-b0c9c323b074"
+    },
+    {
+      "name": "Prof. Dr. Habibur Rahman",
+      "degree": "MBBS, BCS (Health), DDV (CU)",
+      "specialty": "Skin, Allergy, Hair, Nail & Sexual Diseases Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Prof. Dr. Habibur Rahman is a Dermatologist in Chittagong. His qualification is MBBS, BCS (Health), DDV (CU). He is a Professor, Dermatology & Venereology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Chittagong. Practicing hour of Prof. Dr. Habibur Rahman at Ibn Sina Diagnostic Center, Chittagong is 10am to 12pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Chittagong",
+        "address": "House # 12/A, Road # 02, Katalgonj, Panchlaish, Chattogram",
+        "visitingTime": "10am to 12pm (Closed: Friday)",
+        "appointmentNumber": "+8801886610115"
+      },
+      "id": "0c213aac-b562-43d0-93bf-fc62c350fc0e"
+    },
+    {
+      "name": "Dr. Roksana Hoque",
+      "degree": "MBBS (CMC), DDV, MCPS (Dermatology & Venereology)",
+      "specialty": "Skin, Allergy, Leprosy Specialistশুধুমাত্র মহিলা এবং শিশু রোগী দেখা হয়",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Care Lab, Chittagong\nAddress: 130, Panchlaish R/A, In front of Chittagong Medical College (Sonali Bank Goli), Chattogram\nVisiting Hour: 7pm to 9pm (Closed: Friday)\nAppointment: +8801872289202\nCall Now",
+      "chamber": {
+        "hospital": "Max Hospital & Diagnostic, Chittagong",
+        "address": "Room - 208, 35/36, Mehedibag Road, Chattogram",
+        "visitingTime": "11am to 1pm (Closed: Friday)",
+        "appointmentNumber": "+8801713998166"
+      },
+      "id": "b4369849-e945-4e13-94ab-1474ac5f3ab9"
+    },
+    {
+      "name": "Dr. Mohammad Rafiqul Mowla",
+      "degree": "MBBS, BCS (Health), MD (Dermatology), PhD",
+      "specialty": "Skin, Allergy, Hair, Nail, Leprosy & Sexual Diseases Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Mohammad Rafiqul Mowla is a Dermatologist in Chittagong. His qualification is MBBS, BCS (Health), MD (Dermatology), PhD. He is a Associate Professor, Dermatology & Venereology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Chittagong. Practicing hour of Dr. Mohammad Rafiqul Mowla at Popular Diagnostic Center, Chittagong is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Chittagong",
+        "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787810"
+      },
+      "id": "ed52dee8-c27b-4ed1-aeeb-ffcfd69362aa"
+    },
+    {
+      "name": "Dr. Alvin Saha",
+      "degree": "MBBS (CU), DD (Bangkok & Japan), SLRTC (India)",
+      "specialty": "Skin, Allergy, Leprosy, Sexual Diseases Specialist & Surgeon",
+      "workplace": "BGC Trust Medical College, Chittagong",
+      "info": "Dr. Alvin Saha is a Dermatologist in Chittagong. His qualification is MBBS (CU), DD (Bangkok & Japan), SLRTC (India). He is a Associate Professor & Head, Dermatology & Venereology at BGC Trust Medical College, Chittagong. He regularly provides treatment to his patients at Metro Diagnostic Center, Chittagong. Practicing hour of Dr. Alvin Saha at Metro Diagnostic Center, Chittagong is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Metro Diagnostic Center, Chittagong",
+        "address": "Metro Tower, Goal Pahar Mor, Mehedibag, Chattogram",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801819078842"
+      },
+      "id": "c2293dbb-beea-446c-9735-5fc9f4b502d6"
+    },
+    {
+      "name": "Prof. Dr. Sardar Ghulam Murtaza",
+      "degree": "MBBS, DD (THAILAND & JAPAN)",
+      "specialty": "Skin, Allergy, Leprosy, Hair & Sexual Diseases Specialist",
+      "workplace": "Comilla Medical College & Hospital",
+      "info": "Prof. Dr. Sordar Golam Murtaza is a Dermatologist in Chittagong. His qualification is MBBS, DD (THAILAND & JAPAN). He is a Former Professor & Head, Dermatology & Venereology at Comilla Medical College & Hospital. He regularly provides treatment to his patients at Dr. Sardar Ghulam Murtaza's Personal Chanmber. Practicing hour of Prof. Dr. Sardar Ghulam Murtaza at Dr. Sardar Ghulam Murtaza's Personal Chanmber is 11am to 3pm & 5pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Dr. Sardar Ghulam Murtaza's Personal Chanmber",
+        "address": "84, (3rd Floor of Eastern Bank) Jamal Khan Road, Chittagong",
+        "visitingTime": "11am to 3pm & 5pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801752276247"
+      },
+      "id": "076977b9-faec-4bfb-a9e7-f3a39330a978"
+    },
+    {
+      "name": "Dr. Ajay Kumar Ghosh",
+      "degree": "MBBS, BCS (Health), DDV (BSMMU)",
+      "specialty": "Skin, Allergy, STD & Sexual Diseases Specialist",
+      "workplace": "American Hospital, Chittagong",
+      "info": "Dr. Ajay Kumar Ghosh is a Dermatologist in Chittagong. His qualification is MBBS, BCS (Health), DDV (BSMMU). He is a Consultant, Dermatology & Venereology at American Hospital, Chittagong. He regularly provides treatment to his patients at Max Hospital & Diagnostic, Chittagong. Practicing hour of Dr. Ajay Kumar Ghosh at Max Hospital & Diagnostic, Chittagong is 2pm to 3pm (Sat to Thu) & 6pm to 10pm (Friday).",
+      "chamber": {
+        "hospital": "Max Hospital & Diagnostic, Chittagong",
+        "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+        "visitingTime": "2pm to 3pm (Sat to Thu) & 6pm to 10pm (Friday)",
+        "appointmentNumber": "+8801713998199"
+      },
+      "id": "42f684ca-1272-4b6a-9215-f9ad1d82abb0"
+    },
+    {
+      "name": "Dr. Pritish Barua",
+      "degree": "MBBS (CU), DGUM (UK), DD (Australia)",
+      "specialty": "Skin, Allergy, Hair, Nail, Sexual Diseases Specialist",
+      "workplace": "Lab One Health Services, Chittagong",
+      "info": "Dr. Pritish Barua is a Skin Specialist in Chittagong. His qualification is MBBS (CU), DGUM (UK), DD (Australia). He is a Consultant, Dermatology & Venereology at Lab One Health Services, Chittagong. He regularly provides treatment to his patients at Shahjalal Diagnostic Clinic, Chittagong. Practicing hour of Dr. Pritish Barua at Shahjalal Diagnostic Clinic, Chittagong is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Shahjalal Diagnostic Clinic, Chittagong",
+        "address": "143, Sheikh Mujib Road, Badamtoli, Agrabad, Chattogram",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801812506020"
+      },
+      "id": "59a0c50b-19c4-4aa1-9d37-4dd9b70a679b"
+    },
+    {
+      "name": "Dr. Md. Ziaur Rahman Bhuiyan",
+      "degree": "MBBS (CMC), BCS (Health), MCPS, FCPS (Dermatology)",
+      "specialty": "Skin & Sexual Diseases Specialist",
+      "workplace": "Cox's Bazar Medical College & Hospital",
+      "info": "People’s Hospital, Chittagong\nAddress: 94, K. B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +88031658911\nCall Now",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 9pm (Closed: Sat, Sun & Mon)",
+        "appointmentNumber": "+8801976022333"
+      },
+      "id": "4abaab78-f994-4d6e-bad0-ce0ac537af1d"
+    },
+    {
+      "name": "Dr. Salah Uddin Ahmed",
+      "degree": "MBBS, DDV",
+      "specialty": "Skin, Sex Diseases, Allergy Specialist, Cosmetic & Laser Surgeon",
+      "workplace": "Bangabandhu Memorial Hospital, USTC, Chittagong",
+      "info": "Dr. Salah Uddin Ahmed is a Dermatologist in Chittagong. His qualification is MBBS, DDV. He is a Associate Professor & Head, Dermatology & Venereology at Bangabandhu Memorial Hospital, USTC, Chittagong. He regularly provides treatment to his patients at Chattogram Metropolitan Hospital. Practicing hour of Dr. Salah Uddin Ahmed at Chattogram Metropolitan Hospital is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital",
+        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801814651077"
+      },
+      "id": "034525d1-1e80-4f87-b58f-5dc82511b8e8"
+    },
+    {
+      "name": "Dr. Meherun Kabir",
+      "degree": "MBBS, DDV, MCPS (Skin & Sex)",
+      "specialty": "Skin, Allergy, Hair, Nail, Sexual Diseases Specialist",
+      "workplace": "Southern Medical College & Hospital",
+      "info": "Chittagong Square Clinical Laboratory\nAddress: 195, Plot # 20, Road # 11, KB Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 6pm to 10pm (Everyday)\nAppointment: +8801841005588\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Chittagong",
+        "address": "House # 12/A, Road # 02, Katalgonj, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801886610115"
+      },
+      "id": "7f7214e7-37c0-4a25-885b-0a03bd2aab21"
+    },
+    {
+      "name": "Dr. Md. Mizanur Rahman",
+      "degree": "MBBS, BCS (Health), DDV (BSMMU)",
+      "specialty": "Skin, Allergy, Leprosy & Sexual Diseases Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Md. Mizanur Rahman is a Dermatologist in Chittagong. His qualification is MBBS, BCS (Health), DDV (BSMMU). He is a Assistant Professor, Dermatology & Venereology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Life Care Center, Chittagong. Practicing hour of Dr. Md. Mizanur Rahman at Life Care Center, Chittagong is 6pm to 9pm (Sun, Tue & Thu).",
+      "chamber": {
+        "hospital": "Life Care Center, Chittagong",
+        "address": "129, K.B Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801679082070"
+      },
+      "id": "1ac4624d-65d5-4a7e-9da2-b0736e79fee6"
+    },
+    {
+      "name": "Dr. Mst. Nasrin Sultana",
+      "degree": "MBBS, MD (BSMMU)",
+      "specialty": "Skin, Sexual Diseases & Allergy Specialist",
+      "workplace": "Chittagong Diabetic General Hospital",
+      "info": "Dr. Mst. Nasrin Sultana is a Dermatologist in Chittagong. Her qualification is MBBS, MD (BSMMU). She is a Consultant, Dermatology & Venereology at Chittagong Diabetic General Hospital. She regularly provides treatment to her patients at Chattogram Metropolitan Hospital. Practicing hour of Dr. Mst. Nasrin Sultana at Chattogram Metropolitan Hospital is 4.30pm to 6.40pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital",
+        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "4.30pm to 6.40pm (Closed: Friday)",
+        "appointmentNumber": "+8801810030999"
+      },
+      "id": "966528f9-f2ec-4619-9993-5bdcfbb9fe3a"
+    },
+    {
+      "name": "Dr. Junayed Mahmood Khan",
+      "degree": "MBBS, BCS (Health), DDV",
+      "specialty": "Skin, Allergy, STD, AIDS & Sexual Diseases Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Junayed Mahmood Khan is a Dermatologist in Chittagong. His qualification is MBBS, BCS (Health), DDV. He is a Consultant, Dermatology & Venereology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Chevron Clinical Laboratory, Chittagong. Practicing hour of Dr. Junayed Mahmood Khan at Chevron Clinical Laboratory, Chittagong is 7.30pm to 10pm (Sat, Mon, Wed & Thu).",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Chittagong",
+        "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "7.30pm to 10pm (Sat, Mon, Wed & Thu)",
+        "appointmentNumber": "+8801755666969"
+      },
+      "id": "093fff3f-9b96-4628-a807-fa7a04b32c89"
+    },
+    {
+      "name": "Dr. Md. Nasim Hyder",
+      "degree": "MBBS, DDV",
+      "specialty": "Skin, Allergy, Hair, Scalp & Sexual Diseases Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Md. Nasim Hyder is a Dermatologist in Chittagong. His qualification is MBBS, DDV. He is a Former Associate Professor, Dermatology & Venereology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Woodland Diagnostic Center. Practicing hour of Dr. Md. Nasim Hyder at Woodland Diagnostic Center is 4.30pm to 6.30pm (Closed: Wed & Friday).",
+      "chamber": {
+        "hospital": "Woodland Diagnostic Center",
+        "address": "37, KB Fazlul Kader Road, Panchlaish, Chittagong",
+        "visitingTime": "4.30pm to 6.30pm (Closed: Wed & Friday)",
+        "appointmentNumber": "+8801818154533"
+      },
+      "id": "b10b4f28-96ad-4948-937b-388edcb9209a"
+    },
+    {
+      "name": "Dr. Nishith Ranjan Dey",
+      "degree": "MBBS, FRCP, MD (SKIN & VD)",
+      "specialty": "Aesthetic Dermatology, Cosmetology & Regenerative Medicine Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Nishith Ranjan Dey is a Dermatologist in Chittagong. His qualification is MBBS, FRCP, MD (SKIN & VD). He is a Associate Professor, Dermatology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Surecell Medical, Chattogram. Practicing hour of Dr. Nishith Ranjan Dey at Surecell Medical, Chattogram is 3pm to 4.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Surecell Medical, Chattogram",
+        "address": "Al-Noor Badrun Centre (3rd Floor), 1486/1672, OR Nizam Road, Chattogram",
+        "visitingTime": "3pm to 4.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801701664440"
+      },
+      "id": "6278d1f6-e1ef-4910-b069-904b0acaa86d"
+    },
+    {
+      "name": "Dr. Mohammad Ehsan",
+      "degree": "MBBS, DD (Thailand-Japan), DPD (UK), ABLS (USA), Skin & Laser Surgery (Bangkok)",
+      "specialty": "Skin, Allergy, Leprosy, Hair & Sexual Diseases Specialist",
+      "workplace": "Delta Health Care, Chittagong",
+      "info": "Dr. Mohammad Ehsan is a Dermatologist in Chittagong. His qualification is MBBS, DD (Thailand-Japan), DPD (UK), ABLS (USA), Skin & Laser Surgery (Bangkok). He is a Consultant, Dermatology & Venereology at Delta Health Care, Chittagong. He regularly provides treatment to his patients at Delta Health Care, Chittagong. Practicing hour of Dr. Mohammad Ehsan at Delta Health Care, Chittagong is 6pm to 9pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Delta Health Care, Chittagong",
+        "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801841906010"
+      },
+      "id": "d0686194-c282-4161-8146-4434f3f0711a"
+    },
+    {
+      "name": "Dr. Shyamali Das",
+      "degree": "MBBS, MD (Dermatology), MPH (NIPSOM)",
+      "specialty": "Skin, Sex & Allergy Specialist",
+      "workplace": "Sensiv Private Limited, Chittagong",
+      "info": "Dr. Shyamali Das is a Dermatologist in Chittagong. Her qualification is MBBS, MD (Dermatology), MPH (NIPSOM). She is a Consultant, Dermatology & Venereology at Sensiv Private Limited, Chittagong. She regularly provides treatment to her patients at Sensiv Private Limited, Chittagong. Practicing hour of Dr. Shyamali Das at Sensiv Private Limited, Chittagong is 7pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Sensiv Private Limited, Chittagong",
+        "address": "14, Jamal Khan Road, Jamal Khan, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801919803386"
+      },
+      "id": "f0e5ac8f-97f1-4de3-8d40-14133aeb97d7"
+    },
+    {
+      "name": "Dr. Kazi Zainal Abedin",
+      "degree": "MBBS, BCS (Health), DD (Dermatology)",
+      "specialty": "Skin, Allergy, Leprosy & Sexual Diseases Specialist",
+      "workplace": "American Hospital, Chittagong",
+      "info": "Dr. Kazi Zainal Abedin is a Dermatologist in Chittagong. His qualification is MBBS, BCS (Health), DD (Dermatology). He is a Senior Consultant (Ex), Dermatology & Venereology at American Hospital, Chittagong. He regularly provides treatment to his patients at Doctors Lab, Chittagong. Practicing hour of Dr. Kazi Zainal Abedin at Doctors Lab, Chittagong is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Doctors Lab, Chittagong",
+        "address": "131, KB Fazlul Kader Road, Probortok More, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801940876810"
+      },
+      "id": "caa8efe8-c848-4b98-b071-057317aa079e"
+    },
+    {
+      "name": "Dr. Didaruzzaman",
+      "degree": "MBBS, DD (Thailand), Post Doc Fellowship in STD & AIDS (USA)",
+      "specialty": "Skin, Allergy, STD, AIDS & Sexual Diseases Specialist",
+      "workplace": "National Hospital, Chittagong",
+      "info": "Dr. Didaruzzaman is a Dermatologist in Chittagong. His qualification is MBBS, DD (Thailand), Post Doc Fellowship in STD & AIDS (USA). He is a Senior Consultant, Dermatology & Venereology at National Hospital, Chittagong. He regularly provides treatment to his patients at National Hospital, Chittagong. Practicing hour of Dr. Didaruzzaman at National Hospital, Chittagong is 10am to 12pm & 6pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "National Hospital, Chittagong",
+        "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
+        "visitingTime": "10am to 12pm & 6pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801822685066"
+      },
+      "id": "b3d9c721-af8a-4b45-8873-83ad00ba568b"
+    },
+    {
+      "name": "Dr. Md. Mostafizur Rahman Nahid",
+      "degree": "MBBS, BCS (Health), DDV (Skin & VD)",
+      "specialty": "Skin, Sex, Allergy & Cosmetic Dermatology Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Md. Mostafizur Rahman Nahid is a Dermatologist in Chittagong. His qualification is MBBS, BCS (Health), DDV (Skin & VD). He is a Assistant Professor, Dermatology & Venereology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Delta Health Care, Chittagong. Practicing hour of Dr. Md. Mostafizur Rahman Nahid at Delta Health Care, Chittagong is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Delta Health Care, Chittagong",
+        "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801841906010"
+      },
+      "id": "da77e6ac-eaa0-40c8-b225-f0980b6f94e7"
+    },
+    {
+      "name": "Dr. Deva Pratim Barua",
+      "degree": "MBBS, BCS (Health), MD (Dermatology)",
+      "specialty": "Dermatology, Venereology, Allergology, Sexual Disorders & Dermatosurgery Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Deva Pratim Barua is a Dermatologist in Chittagong. His qualification is MBBS, BCS (Health), MD (Dermatology) . He is a Registrar, Dermatology & Venerology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Chittagong. Practicing hour of Dr. Deva Pratim Barua at Ibn Sina Diagnostic Center, Chittagong is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Chittagong",
+        "address": "Room - 703, House # 12/A, Road # 02, Katalgonj, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809610009622"
+      },
+      "id": "562e71cd-74fd-40b1-8182-a9bc2b097cb9"
+    },
+    {
+      "name": "Dr. Tasnuva Tazrin Papri",
+      "degree": "MBBS, DDV (BSMMU)",
+      "specialty": "Skin, Allergy, Hair & LASER Specialist",
+      "workplace": "Iconic Skin Care, Chittagong",
+      "info": "Dr. Tasnuva Tazrin Papri is a Dermatologist in Chittagong. Her qualification is MBBS, DDV (BSMMU), Fellowship in Dermatosurgery, Trained in Aesthetic Dermatology (DDI). She is a Consultant at Iconic Skin Care, Chittagong. She regularly provides treatment to her patients at Iconic Skin Care, Chittagong. Practicing hour of Dr. Tasnuva Tazrin Papri at Iconic Skin Care, Chittagong is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Iconic Skin Care, Chittagong",
+        "address": "SF Empire (SIBL Building), Level 2, Chatteshwari Moor, Mehedibag, Chattogram",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801862708221"
+      },
+      "id": "c3e1446e-2704-46e6-b727-a9cd978e9541"
+    },
+    {
+      "name": "Dr. Sheikh Mohammad Faisal",
+      "degree": "MBBS, BCS (Health), DDV (Skin & VD)",
+      "specialty": "Skin, Allergy, Leprosy, Sex Diseases Specialist & Dermato Surgeon",
+      "workplace": "Chittagong Medical College & Hospial",
+      "info": "Dr. Sheikh Mohammad Faisal is a Dermatologist in Chittagong. His qualification is MBBS, BCS (Health), DDV (Skin & VD). He is a Medical Officer, Department of Dermatology & Venereology at Chittagong Medical College & Hospial. He regularly provides treatment to his patients at Dr.Faisal's Laser Hair & Skin Care. Practicing hour of Dr. Sheikh Mohammad Faisal at Dr.Faisal's Laser Hair & Skin Care is 5pm to 9pm (Saturday to Wednesday).",
+      "chamber": {
+        "hospital": "Dr.Faisal's Laser Hair & Skin Care",
+        "address": "SK House, 1635B,  Mimi Residential Area, Beside Mimi Super Market, Nasirabad, Chittagong",
+        "visitingTime": "5pm to 9pm (Saturday to Wednesday)",
+        "appointmentNumber": "+8801784978763"
+      },
+      "id": "fa083164-a21c-4f64-8cbc-63e630309465"
+    },
+    {
+      "name": "Dr. Feroza Meher",
+      "degree": "MBBS (CMC), Post Graduate Diploma in Dermatology (South Wales University, UK)",
+      "specialty": "Aesthetic Dermatology & Cosmetology Specialist",
+      "workplace": "Surecell Medical, Chattogram",
+      "info": "Dr. Feroza Meher is a Dermatologist in Chittagong. Her qualification is MBBS (CMC), Post Graduate Diploma in Dermatology (South Wales University, UK). She is a Consultant, Dermatology at Surecell Medical, Chattogram. She regularly provides treatment to her patients at Surecell Medical, Chattogram. Practicing hour of Dr. Feroza Meher at Surecell Medical, Chattogram is 5pm to 7pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Surecell Medical, Chattogram",
+        "address": "Al-Noor Badrun Centre (3rd Floor), 1486/1672, OR Nizam Road, Chattogram",
+        "visitingTime": "5pm to 7pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801701664440"
+      },
+      "id": "a0d63a5d-af2b-4be3-b85b-cef1370d0e3e"
+    },
+    {
+      "name": "Dr. Emrul Hassan",
+      "degree": "MBBS, BCS (Health), DDV (SKIN & VD, BSMMU)",
+      "specialty": "Skin, Hair, Nail, Allergy, Leprosy & Sexual Diseases Specialist",
+      "workplace": "Rangamati General Hospital",
+      "info": "Dr. Emrul Hassan is a Dermatologist in Chittagong. His qualification is MBBS, BCS (Health), DDV (SKIN & VD, BSMMU). He is a Consultant, Dermatology & Venerology at Rangamati General Hospital. He regularly provides treatment to his patients at Intensive Care Diagnostic & Consultant Chamber. Practicing hour of Dr. Emrul Hassan at Intensive Care Diagnostic & Consultant Chamber is 6pm to 9pm (Thu, Fri & Sat).",
+      "chamber": {
+        "hospital": "Intensive Care Diagnostic & Consultant Chamber",
+        "address": "Amanat Market (2nd & 3rd floor), 280/1, Polytechnical Mor, Bayezid Road, Chittagong",
+        "visitingTime": "6pm to 9pm (Thu, Fri & Sat)",
+        "appointmentNumber": "+8801926087227"
+      },
+      "id": "20e29bbf-56f5-41f6-b17c-e34a6c0f55fb"
+    },
+    {
+      "name": "Dr. A.F.M. Mizanur Rahaman",
+      "degree": "MBBS, DDV(BSMMU)",
+      "specialty": "Dermatologist & Venereologist",
+      "workplace": "BGC Trust Medical College, Chittagong",
+      "info": "Dr. A.F.M. Mizanur Rahaman is a Dermatologist in Chittagong. His qualification is MBBS, DDV(BSMMU). He is a Consultant at BGC Trust Medical College, Chittagong. He regularly provides treatment to his patients at Surgiscope Hospital, Chittagong. Practicing hour of Dr. A.F.M. Mizanur Rahaman at Surgiscope Hospital, Chittagong is 7.30pm to 9pm (Sat, Mon & Wednesday).",
+      "chamber": {
+        "hospital": "Surgiscope Hospital, Chittagong",
+        "address": "Room 107, Unit 2, 445/466, Katalgonj, Chawkbazar, Chattogram",
+        "visitingTime": "7.30pm to 9pm (Sat, Mon & Wednesday)",
+        "appointmentNumber": "+8801643424293"
+      },
+      "id": "9a43c956-12ac-4c98-ad42-df33f3bd2760"
+    },
+    {
+      "name": "Dr. Nusrat Sultana",
+      "degree": "MBBS, DD, MSc, Fellow AAAM",
+      "specialty": "Laser & Aesthetic Dermatology Specialist",
+      "workplace": "Apollo Imperial Hospital, Chittagong",
+      "info": "Max Hospital & Diagnostic, Chittagong\nAddress: 35/36, Mehedibag Road, Chawkbazar, Chattogram\nVisiting Hour: 7pm to 9pm (Closed: Sun & Friday)\nAppointment: +8801845565366\nCall Now",
+      "chamber": {
+        "hospital": "Apollo Imperial Hospital, Chittagong",
+        "address": "Zakir Hossain Road, Pahartali, Chattogram",
+        "visitingTime": "4pm to 6pm (Closed: Sun & Friday)",
+        "appointmentNumber": "+8809612247247"
+      },
+      "id": "0f26cb6b-bb5c-4798-ae42-9a5ea1ac282c"
+    },
+    {
+      "name": "Dr. Tahmina Alam Sonali",
+      "degree": "MBBS, BCS, DDV",
+      "specialty": "Skin, Sex, Allergy Specialist & Skin Laser Surgeon",
+      "workplace": "Chattogram Medical College Hospital",
+      "info": "Chevron Clinical Laboratory, Halishahar\nAddress: Choto Pool, Shantibag Mor, Agrabad, Chattogram\nVisiting Hour: 7pm to 9pm (Sat, Mon & Thu)\nAppointment: +8801886466455\nCall Now",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Chittagong",
+        "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "4pm to 6pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801601345336"
+      },
+      "id": "8b180841-d303-4839-87a5-9b1ea1d3b61c"
+    }
+  ]
+}

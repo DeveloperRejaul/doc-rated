@@ -1,0 +1,46 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Shadab Saud Sunny",
+      "degree": "MBBS, BCS (Health), MD (Rheumatology), ECRD (Switzerland), MACR (USA)",
+      "specialty": "Arthritis, Rheumatology & Medicine Specialist",
+      "workplace": "Ministry of Health & Family Welfare",
+      "info": "Al-Kamy Hospital Ltd, Feni\nAddress: Shohid Sohidullah Kaiser(SSK) Road, Feni\nVisiting Hour: 5pm to 9pm (Every Thursday)\nAppointment: +8801839994132\nCall Now",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Cumilla",
+        "address": "Tomsom Bridge, Laksam Road, Cumilla",
+        "visitingTime": "4pm to 8pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801824641090"
+      },
+      "id": "9304cdb3-afad-49b7-8a9c-88bca3eda418"
+    },
+    {
+      "name": "Dr. Md. Kamrul Hasan Sajib",
+      "degree": "MBBS, BCS (Health), MD (Rheumatology), ECRD (Switzerland), Fellow Member, ACR (USA)",
+      "specialty": "Rheumatology, Arthritis & Pain Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Ibn Sina Diagnostic Center, Comilla\nAddress: House # 29, Kotbari Road, Tomsom Bridge, Cumilla\nVisiting Hour: 10am to 5pm (Every Friday)\nAppointment: +8801841212275\nCall Now",
+      "chamber": {
+        "hospital": "Japan Bangladesh Friendship Hospital",
+        "address": "55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi",
+        "visitingTime": "7.30pm to 10pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801711-647877"
+      },
+      "id": "8b88e704-15b0-4d53-ac5a-14baddab4680"
+    },
+    {
+      "name": "Dr. Md. Zakir Hossain",
+      "degree": "MBBS (CMC), BCS (Health), MD (Rheumatology)",
+      "specialty": "Rheumatology (বাতজ্বর ও বাতব্যথা বিশেষজ্ঞ) Specialist",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Md. Zakir Hossain is a Rheumatologist in Comilla. His qualification is MBBS (CMC), BCS (Health), MD (Rheumatology). He is a Consultant, Rheumatology at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Cumilla Medical Center Pvt. Ltd. (Tower Hospital). Practicing hour of Dr. Md. Zakir Hossain at Cumilla Medical Center Pvt. Ltd. (Tower Hospital) is 3pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+        "address": "Room 563, Old Building (4th Floor), Kandirpar, Cumilla",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801303542254"
+      },
+      "id": "1180002a-bef3-45a8-888f-69da86892758"
+    }
+  ]
+}

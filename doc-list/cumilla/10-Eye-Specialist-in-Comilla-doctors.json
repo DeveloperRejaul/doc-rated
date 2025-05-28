@@ -1,0 +1,102 @@
+{
+  "doctor": [
+    {
+      "name": "Prof. Dr. Md. Firoz Kabir",
+      "degree": "MBBS, FCPS (ENT)",
+      "specialty": "Eye Diseases Specialist & Phaco Surgeon",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Prof. Dr. Md. Firoz Kabir is a Eye Specialist in Comilla. His qualification is MBBS, FCPS (ENT). He is a Professor, Ophthalmology at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Mukti Hospital, Comilla. Practicing hour of Prof. Dr. Md. Firoz Kabir at Mukti Hospital, Comilla is 3pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Mukti Hospital, Comilla",
+        "address": "Race Course, Sasongacha, Cumilla - 3500",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801834220141"
+      },
+      "id": "13188f5d-1a1e-4564-9ce8-d3c99e8945a1"
+    },
+    {
+      "name": "Dr. Md. Abdul Quayum Khan",
+      "degree": "MBBS, BCS (Health), FCPS (EYE), MS (EYE)",
+      "specialty": "Eye Diseases (Retina, Glaucoma, Cataract) Specialist & Phaco Surgeon",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Gomati Hospital, Comilla\nAddress: Nazrul Avenue, Kandirpar, Cumilla – 3500\nVisiting Hour: 3pm to 8pm (Thu, Fri & Sat)\nAppointment: +8801711798083\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Comilla",
+        "address": "House # 29, Kotbari Road, Tomsom Bridge, Cumilla",
+        "visitingTime": "4pm to 6pm (Sun, Mon, Tue & Wed)",
+        "appointmentNumber": "+8801841212275"
+      },
+      "id": "2dabf330-f241-495a-b951-2276b6da8254"
+    },
+    {
+      "name": "Prof. Dr. Md. Nazmus Saadat",
+      "degree": "MBBS, DO (DU), FCPS (EYE)",
+      "specialty": "Eye (Retina, Glaucoma, Cataract) Specialist & Phaco Surgeon",
+      "workplace": "Mainamoti Medical College & Hospital",
+      "info": "Prof. Dr. Md. Nazmus Saadat is a Eye Specialist in Comilla. His qualification is MBBS, DO (DU), FCPS (EYE). He is a Professor & Head, Ophthalmology at Mainamoti Medical College & Hospital. He regularly provides treatment to his patients at Moon Hospital, Comilla. Practicing hour of Prof. Dr. Md. Nazmus Saadat at Moon Hospital, Comilla is 5pm to 8pm (Everyday).",
+      "chamber": {
+        "hospital": "Moon Hospital, Comilla",
+        "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
+        "visitingTime": "5pm to 8pm (Everyday)",
+        "appointmentNumber": "+8801766556655"
+      },
+      "id": "b3890748-c2cb-488e-838a-cdedcbdde7f2"
+    },
+    {
+      "name": "Dr. Sayaka Sultana",
+      "degree": "MBBS, MS (EYE-BSMMU)",
+      "specialty": "Eye Diseases Specialist & Phaco Surgeon",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Sayaka Sultana is a Eye Specialist in Comilla. Her qualification is MBBS, MS (EYE-BSMMU). She is a Junior Consultant, Ophthalmology at Cumilla Medical College & Hospital. She regularly provides treatment to her patients at Cumilla Medical Center Pvt. Ltd. (Tower Hospital). Practicing hour of Dr. Sayaka Sultana at Cumilla Medical Center Pvt. Ltd. (Tower Hospital) is 5pm to 7pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+        "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+        "visitingTime": "5pm to 7pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801711144786"
+      },
+      "id": "a2f96d95-a63a-47ec-b09e-3a3f751f2dc4"
+    },
+    {
+      "name": "Dr. Anis Uddin Ahmed",
+      "degree": "MBBS, BCS (Health), MS (EYE)",
+      "specialty": "Eye Diseases Specialist & Micro Surgeon",
+      "workplace": "General Hospital, Cumilla",
+      "info": "Ibn Sina Medical College Hospital, KallyanpurAddress: 1/1 B, Kallyanpur, DhakaVisiting Hour: 5pm to 9pm (Thursday & Friday)Appointment: +8801703725590Call Now",
+      "chamber": {
+        "hospital": "Comilla Popular Hospital Pvt. Ltd.",
+        "address": "Laksam Road, Cumilla",
+        "visitingTime": "3pm to 8pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801711785442"
+      },
+      "id": "dbb2d9d6-13af-41fe-954a-54c792835469"
+    },
+    {
+      "name": "Dr. Md. Jahangir Alam",
+      "degree": "MBBS, DO (EYE)",
+      "specialty": "Eye Diseases Specialist & Phaco Surgeon",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Md. Jahangir Alam is a Eye Specialist in Comilla. His qualification is MBBS, DO (EYE). He is a Resident Surgeon, Ophthalmology at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Comilla Trauma Center. Practicing hour of Dr. Md. Jahangir Alam at Comilla Trauma Center is 4pm to 8pm (Sat, Mon Tue & Thu).",
+      "chamber": {
+        "hospital": "Comilla Trauma Center",
+        "address": "511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla",
+        "visitingTime": "4pm to 8pm (Sat, Mon Tue & Thu)",
+        "appointmentNumber": "+8809612808182"
+      },
+      "id": "21698711-2876-4ec8-bb75-8e8511094516"
+    },
+    {
+      "name": "Dr. Md. Nowroz Bahar (Pintu)",
+      "degree": "MBBS, DO, FVRS",
+      "specialty": "Eye Specialist, Phaco & Retina Surgeon",
+      "workplace": "Bangladesh Eye Hospital, Mirpur, Dhaka",
+      "info": "Retina Glaucoma Center Super Speciality Eye Hospital (RGC)\nAddress: 57/E, Panthapath, Dhaka (Near BRB Hospital)\nVisiting Hour: 4pm to 8pm (Monday)\nAppointment: +8801301481208\nCall Now",
+      "chamber": {
+        "hospital": "Bangladesh Eye Hospital, Mirpur",
+        "address": "Sumi Tower, 66 Zoo Road, Mirpur-2, Dhaka-1216",
+        "visitingTime": "5pm to 9pm (Sat, Sun, Tue & Wed)",
+        "appointmentNumber": "+8801301481208"
+      },
+      "id": "1372b167-68cd-4e3c-bb83-7f2895b4ff86"
+    }
+  ]
+}

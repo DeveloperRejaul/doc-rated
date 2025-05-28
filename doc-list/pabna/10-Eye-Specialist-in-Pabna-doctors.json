@@ -1,0 +1,130 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Sanjay Kumar Sarker",
+      "degree": "MBBS (DMC), BCS (Health), FCPS (EYE), MCPS (EYE), Fellow (Vitreo-Retina)",
+      "specialty": "Eye Specialist & Phaco Surgeon",
+      "workplace": "National Institute of Ophthalmology & Hospital",
+      "info": "Shimla Hospital, Pabna\nAddress: Shimla Tower, Thana Mor, Hospital Road, Pabna\nVisiting Hour: 9am to 9pm (Only Friday)\nAppointment: +8801713228218\nCall Now",
+      "chamber": {
+        "hospital": "Green Eye Hospital, Dhaka",
+        "address": "Rupayan Khan Plaza, House No: 500/A, Road No: 7, Dhanmondi 1205",
+        "visitingTime": "4pm to 8pm (Sunday & Tuesday)",
+        "appointmentNumber": "+8801717487807"
+      },
+      "id": "7bcbc370-30ba-45e4-8fb7-a0b99787567f"
+    },
+    {
+      "name": "Dr. Fazley Rabby",
+      "degree": "MBBS, BCS (Health), FCPS (EYE), MCPS (EYE), ICO (UK)",
+      "specialty": "Eye Specialist & Phaco Surgeon",
+      "workplace": "National Institute of Ophthalmology & Hospital",
+      "info": "Dr. Fazley Rabby is a Eye Specialist in Pabna. His qualification is MBBS, BCS (Health), FCPS (EYE), MCPS (EYE), ICO (UK). He is a Resident Surgeon, Eye at National Institute of Ophthalmology & Hospital. He regularly provides treatment to his patients at Shimla Hospital, Pabna. Practicing hour of Dr. Fazley Rabby at Shimla Hospital, Pabna is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Shimla Hospital, Pabna",
+        "address": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801713228218"
+      },
+      "id": "fae4cca1-99eb-4577-84c2-8a41ae4b39df"
+    },
+    {
+      "name": "Dr. Md. Aminur Rashid Akonda",
+      "degree": "MBBS, BCS (Health), MS (EYE)",
+      "specialty": "Eye Diseases Specialist & Phaco Surgeon",
+      "workplace": "250 Bedded General Hospital, Pabna",
+      "info": "Dr. Md. Aminur Rashid Akonda is a Eye Specialist in Pabna. His qualification is MBBS, BCS (Health), MS (EYE). He is a Senior Consultant, Ophthalmology at 250 Bedded General Hospital, Pabna. He regularly provides treatment to his patients at Shimla Hospital, Pabna. Practicing hour of Dr. Md. Aminur Rashid Akonda at Shimla Hospital, Pabna is 3pm to 9pm (Sat, Sun & Wed).",
+      "chamber": {
+        "hospital": "Shimla Hospital, Pabna",
+        "address": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
+        "visitingTime": "3pm to 9pm (Sat, Sun & Wed)",
+        "appointmentNumber": "+8801713228218"
+      },
+      "id": "f51cb10c-21d7-4eac-a121-0c9b9a06f076"
+    },
+    {
+      "name": "Dr. Md. Saiful Islam (Sattar)",
+      "degree": "MBBS (RU), DO (EYE), MS (EYE, DU)",
+      "specialty": "Eye Specialist, Cornea, Phaco & Lasik Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "PDC Specialized Hospital, Pabna\nAddress: Capt. Anisur Rahman’s Building, Hospital Road, Pabna\nVisiting Hour: 8am to 3pm (Every Friday)\nAppointment: +8801798249955\nCall Now",
+      "chamber": {
+        "hospital": "North Bengal Cornea & Phaco Center",
+        "address": "Rajshahi General Hospital & Diagnostic Center (3rd Floor),Shershah Road, Laxmipur, Rajshahi (লক্ষ্মীপুর মোড় থেকে ৩০০ গজ পশ্চিমে)",
+        "visitingTime": "4pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801729918684"
+      },
+      "id": "d07be9da-013b-454b-8d4a-d289eabdb2be"
+    },
+    {
+      "name": "Dr. Al Mamun",
+      "degree": "MBBS, BCS (Health), FCPS (Eye), ICO (UK)",
+      "specialty": "Eye Specialist & Surgeon",
+      "workplace": "Kushtia Medical College & Hospital",
+      "info": "Dr. Al Mamun is a Eye Specialist in Pabna. His qualification is MBBS, BCS (Health), FCPS (Eye), ICO (UK). He is working as a Eye Specialist & Surgeon doctor in Kushtia Medical College & Hospital. He regularly provides treatment to his patients at Pabna Eye Hospital & Phaco Center. Practicing hour of Dr. Al Mamun at Pabna Eye Hospital & Phaco Center is 9am to 2pm & 4pm to 8pm (Everyday).",
+      "chamber": {
+        "hospital": "Pabna Eye Hospital & Phaco Center",
+        "address": "Mahendrapur, Pabna Sadar, Pabna",
+        "visitingTime": "9am to 2pm & 4pm to 8pm (Everyday)",
+        "appointmentNumber": "+8801767727701"
+      },
+      "id": "b3ae0b14-5005-4228-9873-b917a1b4306d"
+    },
+    {
+      "name": "Dr. Md. Sayeed Hasan Jami",
+      "degree": "MBBS, DO (BSMMU), SICR, DCR",
+      "specialty": "Eye Specialist & Surgeon",
+      "workplace": "Grameen Diagnostic Center, Pabna",
+      "info": "Dr. Md. Sayeed Hasan Jami is a Eye Specialist in Pabna. His qualification is MBBS, DO (BSMMU), SICR, DCR. He is a Consultant, Ophthalmology at Grameen Diagnostic Center, Pabna. He regularly provides treatment to his patients at Grameen Diagnostic Center, Pabna. Practicing hour of Dr. Md. Sayeed Hasan Jami at Grameen Diagnostic Center, Pabna is From 9.30pm (Monday & Friday).",
+      "chamber": {
+        "hospital": "Grameen Diagnostic Center, Pabna",
+        "address": "Sadar Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "From 9.30pm (Monday & Friday)",
+        "appointmentNumber": "+8801950998955"
+      },
+      "id": "995181c2-5623-459d-8414-4ace8b392196"
+    },
+    {
+      "name": "Dr. Nazmus Sakib",
+      "degree": "MBBS, DO, MCPS, FCPS (EYE)",
+      "specialty": "Eye Specialist & Surgeon",
+      "workplace": "Islami Eye Hospital, Dhaka",
+      "info": "Dr. Nazmus Sakib is a Eye Specialist in Pabna. His qualification is MBBS, DO, MCPS, FCPS (EYE). He is working as a Eye Specialist & Surgeon doctor in Islami Eye Hospital, Dhaka. He regularly provides treatment to his patients at Pabna Eye Hospital & Phaco Center. Practicing hour of Dr. Nazmus Sakib at Pabna Eye Hospital & Phaco Center is 9am to 2pm & 4pm to 8pm (Everyday).",
+      "chamber": {
+        "hospital": "Pabna Eye Hospital & Phaco Center",
+        "address": "Mahendrapur, Pabna Sadar, Pabna",
+        "visitingTime": "9am to 2pm & 4pm to 8pm (Everyday)",
+        "appointmentNumber": "+8801767727701"
+      },
+      "id": "29560935-24b5-49f6-b6f2-7e169e2f56f2"
+    },
+    {
+      "name": "Dr. Md. Sajibur Rahman Pran",
+      "degree": "MBBS, DO (DU)",
+      "specialty": "Eye Specialist & Surgeon",
+      "workplace": "Islami Eye Hospital, Dhaka",
+      "info": "Dr. Md. Sajibur Rahman Pran is a Eye Specialist in Pabna. His qualification is MBBS, DO (DU). He is working as a Eye Specialist & Surgeon doctor in Islami Eye Hospital, Dhaka. He regularly provides treatment to his patients at Pabna Eye Hospital & Phaco Center. Practicing hour of Dr. Md. Sajibur Rahman Pran at Pabna Eye Hospital & Phaco Center is 9am to 2pm & 4pm to 8pm (Everyday).",
+      "chamber": {
+        "hospital": "Pabna Eye Hospital & Phaco Center",
+        "address": "Mahendrapur, Pabna Sadar, Pabna",
+        "visitingTime": "9am to 2pm & 4pm to 8pm (Everyday)",
+        "appointmentNumber": "+8801767727701"
+      },
+      "id": "8a604764-f175-42f1-b220-e078f8050982"
+    },
+    {
+      "name": "Dr. Kh. Md. Abul Ehsan Echo",
+      "degree": "MBBS, DO (BSMMU), FIGO (India)",
+      "specialty": "Eye Specialist & Surgeon",
+      "workplace": "Islami Eye Hospital, Dhaka",
+      "info": "Dr. Kh. Md. Abul Ehsan Echo is a Eye Specialist in Pabna. His qualification is MBBS, DO (BSMMU), FIGO (India). He is working as a Eye Specialist & Surgeon doctor in Islami Eye Hospital, Dhaka. He regularly provides treatment to his patients at Pabna Eye Hospital & Phaco Center. Practicing hour of Dr. Kh. Md. Abul Ehsan Echo at Pabna Eye Hospital & Phaco Center is 9am to 2pm & 4pm to 8pm (Everyday).",
+      "chamber": {
+        "hospital": "Pabna Eye Hospital & Phaco Center",
+        "address": "Mahendrapur, Pabna Sadar, Pabna",
+        "visitingTime": "9am to 2pm & 4pm to 8pm (Everyday)",
+        "appointmentNumber": "+8801767727701"
+      },
+      "id": "7128fb6d-43f6-414c-9e30-3b9d86749eaa"
+    }
+  ]
+}

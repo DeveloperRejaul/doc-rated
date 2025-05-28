@@ -1,0 +1,46 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Hasan Habibur Rahman",
+      "degree": "MBBS, BCS (Health), MD (Physical Medicine)",
+      "specialty": "Pain, Arthritis, Paralysis, Sports Injury & Physical Medicine Specialist",
+      "workplace": "Sheikh Hasina National Institute of Burn & Plastic Surgery",
+      "info": "Dr. Hasan Habibur Rahman is a Physical Medicine Specialist in Pabna. His qualification is MBBS, BCS (Health), MD (Physical Medicine). He is a Assistant Professor, Physical Medicine & Rehabilitation at Sheikh Hasina National Institute of Burn & Plastic Surgery. He regularly provides treatment to his patients at Shimla Hospital, Pabna. Practicing hour of Dr. Hasan Habibur Rahman at Shimla Hospital, Pabna is 9am to 5pm (Only Friday).",
+      "chamber": {
+        "hospital": "Shimla Hospital, Pabna",
+        "address": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
+        "visitingTime": "9am to 5pm (Only Friday)",
+        "appointmentNumber": "+8801713228218"
+      },
+      "id": "282f19bd-ac04-4477-bb6f-72ff7c667abc"
+    },
+    {
+      "name": "Dr. Md. Monjurul Momin Khan",
+      "degree": "MBBS, BCS (Health), FCPS (Physical Medicine)",
+      "specialty": "Pain, Arthritis, Paralysis, Sports Injury & Physical Medicine Specialist",
+      "workplace": "Pabna Medical College & Hospital",
+      "info": "Dr. Md. Monjurul Momin Khan is a Physical Medicine Specialist in Pabna. His qualification is MBBS, BCS (Health), FCPS (Physical Medicine). He is a Assistant Professor, Physical Medicine & Rehabilitation at Pabna Medical College & Hospital. He regularly provides treatment to his patients at Shimla Hospital, Pabna. Practicing hour of Dr. Md. Monjurul Momin Khan at Shimla Hospital, Pabna is 3pm to 7pm (Only Sunday).",
+      "chamber": {
+        "hospital": "Shimla Hospital, Pabna",
+        "address": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
+        "visitingTime": "3pm to 7pm (Only Sunday)",
+        "appointmentNumber": "+8801713228218"
+      },
+      "id": "eae161e3-a94c-4feb-b575-cd5473d9e95b"
+    },
+    {
+      "name": "Dr. Monzur Ahmed",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Pain, Paralysis, Sports Injury & Physical Medicine Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Monzur Ahmed is a Physical Medicine Doctor in Pabna. His qualification is MBBS, FCPS (Physical Medicine). He is working as a Pain, Paralysis, Sports Injury & Physical Medicine Specialist doctor in Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Kimia Diagnostic Center, Pabna. Practicing hour of Dr. Monzur Ahmed at Kimia Diagnostic Center, Pabna is Every Friday (Call for time).",
+      "chamber": {
+        "hospital": "Kimia Diagnostic Center, Pabna",
+        "address": "Pach Matha Mor, Beside Central Girls School, Shalgaria, Pabna",
+        "visitingTime": "Every Friday (Call for time)",
+        "appointmentNumber": "+8801711489711"
+      },
+      "id": "b1dfdaf8-f149-4efb-998c-8dad386abb29"
+    }
+  ]
+}

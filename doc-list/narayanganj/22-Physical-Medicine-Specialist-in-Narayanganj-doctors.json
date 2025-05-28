@@ -1,0 +1,46 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Ehsanul Haque Khan",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Arthritis, Pain, Physical Medicine & Rehabilitation Specialist",
+      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+      "info": "Modern Diagnostic Center, Narayanganj\nAddress: 207, Bangabandhu Road, Chashara, Narayanganj – 1400\nVisiting Hour: 5pm to 8pm (Sat, Mon & Wed)\nAppointment: +8801820842293\nCall Now",
+      "chamber": {
+        "hospital": "Health and Hope Hospital",
+        "address": "152/2/G, Green Road, Panthapath, Dhaka – 1205",
+        "visitingTime": "8.30pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8809611996699"
+      },
+      "id": "0012629c-ac24-41d9-8175-0a2b041c9209"
+    },
+    {
+      "name": "Dr. Md. Imamur Rashid",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Arthritis, Pain, Paralysis & Rheumatic Diseases Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, B.B. Road, Chashara, Narayanganj – 1400\nVisiting Hour: 5pm to 8pm (Sun, Tue & Thu)\nAppointment: +8809666787804\nCall Now",
+      "chamber": {
+        "hospital": "Khidmah Hospital, Dhaka",
+        "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
+        "visitingTime": "3pm to 6pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809606063030"
+      },
+      "id": "7b34cbb3-b5f3-4c56-999d-1e4ca03d6d9a"
+    },
+    {
+      "name": "Dr. Sajeda Islam",
+      "degree": "MBBS, BCS (Health), MD (PMR-BSMMU)",
+      "specialty": "Arthritis, Pain, Paralysis & Physical Medicine Specialist",
+      "workplace": "Mugda Medical College & Hospital",
+      "info": "Dr. Sajeda Islam is a Physical Medicine Specialist in Narayanganj. Her qualification is MBBS, BCS (Health), MD (PMR-BSMMU). She is a Consultant, Physical Medicine & Rehabilitation at Mugda Medical College & Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Sajeda Islam at Popular Diagnostic Center, Narayanganj is 4:30pm to 8:30pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "4:30pm to 8:30pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809666787804"
+      },
+      "id": "54ae45da-c337-4716-86c6-02454056aa74"
+    }
+  ]
+}

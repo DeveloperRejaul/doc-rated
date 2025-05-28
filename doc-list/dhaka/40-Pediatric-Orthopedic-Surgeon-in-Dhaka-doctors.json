@@ -1,0 +1,88 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Sarwar Ibne Salam",
+      "degree": "MBBS, MS (ORTHO)",
+      "specialty": "Orthopedic & Pediatric Orthopedic Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Sarwar Ibne Salam is a Pediatric Orthopedic Surgeon in Dhaka. His qualification is MBBS, MS (ORTHO). He is a Assistant Professor, Pediatric Orthopedic at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Health and Hope Hospital. Practicing hour of Dr. Sarwar Ibne Salam at Health and Hope Hospital is 6pm to 9pm (Sun, Mon & Thu) & 4pm to 9pm (Tue).",
+      "chamber": {
+        "hospital": "Health and Hope Hospital",
+        "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
+        "visitingTime": "6pm to 9pm (Sun, Mon & Thu) & 4pm to 9pm (Tue)",
+        "appointmentNumber": "+8809611996699"
+      },
+      "id": "6e94ed72-b223-41a4-bfdc-615d92d1bd62"
+    },
+    {
+      "name": "Dr. Quazi Shahid-Ul-Alam",
+      "degree": "MBBS (DMC), BCS (Health), MS (ORTHO), DMC",
+      "specialty": "Pediatric Orthopedic (Birth Deformity, Spine, Trauma Rheumatic & Joint) Surgery Specialist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Popular Diagnostic Center, DhanmondiAddress: House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205Visiting Hour: 10am to 12pm (Only Friday)Appointment: +8809666787801Call Now",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Dhanmondi",
+        "address": "Room - 437, Old Building, Road # 04, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "5pm to 9pm (Closed: Mon & Friday)",
+        "appointmentNumber": "+8801766142663"
+      },
+      "id": "9f975f6c-da17-4122-a085-60771c29d881"
+    },
+    {
+      "name": "Dr. Qaisur Rabbi",
+      "degree": "MBBS, D-ORTHO",
+      "specialty": "Pediatric Orthopedic Surgery Specialist",
+      "workplace": "Center for the Rehabilitation of the Paralyzed (CRP), Savar",
+      "info": "Dr. Qaisur Rabbi is a Pediatric Orthopedic Surgeon in Dhaka. His qualification is MBBS, D-ORTHO. He is a Consultant, Orthopedic Surgery at Center for the Rehabilitation of the Paralyzed (CRP), Savar. He regularly provides treatment to his patients at Health and Hope Hospital. Practicing hour of Dr. Qaisur Rabbi at Health and Hope Hospital is Only with prior appointment (Sun, Mon, Wed & Thu).",
+      "chamber": {
+        "hospital": "Health and Hope Hospital",
+        "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
+        "visitingTime": "Only with prior appointment (Sun, Mon, Wed & Thu)",
+        "appointmentNumber": "+8801534919618"
+      },
+      "id": "3af75e51-4851-4636-b560-7136f5aadcae"
+    },
+    {
+      "name": "Dr. Biplab Mozumder",
+      "degree": "MBBS, BCS (Health), D-ORTHO, MS (Orthopedics)",
+      "specialty": "Pediatric Orthopedic Surgeon",
+      "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+      "info": "Parkview Hospital, Chittagong\nAddress: 94/103, Katalganj Road, Panchlaish, Chattogram\nVisiting Hour: 6pm to 9pm (2nd and 4th Thursday)\nAppointment: +8801892962636\nCall Now",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Uttara (Unit 02)",
+        "address": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
+        "visitingTime": "5pm to 7pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801676008580"
+      },
+      "id": "b173d952-a779-4c5b-b800-6c4936036be8"
+    },
+    {
+      "name": "Dr. Nripen Kumar Kundu",
+      "degree": "MBBS, FCPS (Surgery), D-ORTHO, AO Trauma (BASIC)",
+      "specialty": "Orthopedic Specialist & Trauma Surgeon",
+      "workplace": "Popular Medical College & Hospital",
+      "info": "Dr. Nripen Kumar Kundu is a Orthopedic Surgeon in Dhaka. His qualification is MBBS, FCPS (Surgery), D-ORTHO, AO Trauma (BASIC). He is a Assistant Professor, Orthopedics at Popular Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Dhanmondi. Practicing hour of Dr. Nripen Kumar Kundu at Popular Diagnostic Center, Dhanmondi is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Dhanmondi",
+        "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801715012020"
+      },
+      "id": "e77f6bc2-5454-438f-803a-4f30ac923c72"
+    },
+    {
+      "name": "Dr. Mohammad Rubaiath Tashfin",
+      "degree": "MBBS, MS (Orthopedic Surgery)",
+      "specialty": "Paediatric Orthopaedic Surgery & Brachial Plexus Birth Palsy Specialist",
+      "workplace": "Health and Hope Hospital, Dhaka",
+      "info": "Dr. Mohammad Rubaiath Tashfin is a highly skilled specialist in Pediatric Orthopedic Surgery and Brachial Plexus Birth Palsy. He holds an MBBS and an MS in Orthopedic Surgery, along with a Clinical Fellowship in Pediatric Orthopedic Surgery, with specialized training in Brachial Plexus Birth Palsy. Currently, he serves as a Consultant at Health and Hope Hospital in Dhaka. Dr. Tashfin practices at Health and Hope Hospital, located at 152/2/G, Green Road, Panthapath, Dhaka – 1205, where he is available for consultations from 5 PM to 8 PM, Sunday to Wednesday.",
+      "chamber": {
+        "hospital": "Health and Hope Hospital",
+        "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
+        "visitingTime": "5pm to 8pm (Sunday to Wednesday)",
+        "appointmentNumber": "+8801755799743"
+      },
+      "id": "a5f02997-aae7-438a-8e26-ec2c938358df"
+    }
+  ]
+}

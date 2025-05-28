@@ -1,0 +1,32 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Syed Anisuzzaman Mithun",
+      "degree": "MBBS, MD (Nephrology)",
+      "specialty": "Kidney Diseases, Dialysis & Medicine Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Syed Anisuzzaman Mithun is a Nephrologist in Rangpur. His qualification is MBBS, MD (Nephrology). He is working as a Kidney Diseases, Dialysis & Medicine Specialist doctor in Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Rangpur. Practicing hour of Dr. Syed Anisuzzaman Mithun at Labaid Diagnostic, Rangpur is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Rangpur",
+        "address": "House # 69, Dhap, Jail Road, Rangpur",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801766663099"
+      },
+      "id": "f6686279-0c74-4b8d-95df-a6aec18e4f9c"
+    },
+    {
+      "name": "Dr. Md. Abdul Mukit",
+      "degree": "MBBS, MD (Nephrology)",
+      "specialty": "Kidney Diseases Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Md. Abdul Mukit is a Nephrologist in Rangpur. His qualification is MBBS, MD (Nephrology). He is working as a Kidney Diseases Specialist doctor in Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Apollo Diagnostic Center, Rangpur. Practicing hour of Dr. Md. Abdul Mukit at Apollo Diagnostic Center, Rangpur is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Apollo Diagnostic Center, Rangpur",
+        "address": "Dhap, Jail Road, Rangpur",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801733008088"
+      },
+      "id": "353a7d14-999c-42e9-ae33-aadc8907fed1"
+    }
+  ]
+}

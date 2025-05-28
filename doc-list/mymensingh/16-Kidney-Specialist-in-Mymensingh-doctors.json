@@ -1,0 +1,172 @@
+{
+  "doctor": [
+    {
+      "name": "Prof. Dr. Ashutosh Saha Roy",
+      "degree": "MBBS, MD (Nephrology), MACP (USA)",
+      "specialty": "Kidney Diseases, Dialysis & Medicine Specialist (Nephrologist)",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Prof. Dr. Ashutosh Saha Roy is a Nephrologist in Mymensingh. His qualification is MBBS, MD (Nephrology), MACP (USA). He is a Professor, Nephrology at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Mymensingh. Practicing hour of Prof. Dr. Ashutosh Saha Roy at Labaid Diagnostic, Mymensingh is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Mymensingh",
+        "address": "72, Charpara, Medical College Gate, Mymensingh",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801766663000"
+      },
+      "id": "1d7bb2e8-69ba-4288-ae72-c9888e0e5606"
+    },
+    {
+      "name": "Dr. Omar Faruque Miah",
+      "degree": "MBBS, BCS (Health), MD (Nephrology)",
+      "specialty": "Kidney Diseases Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Omar Faruque Miah is a Nephrologist in Mymenshing. His qualification is MBBS, BCS (Health), MD (Nephrology). He is a Associate Professor, Nephrology at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Mymensingh. Practicing hour of Dr. Omar Faruque Miah at Popular Diagnostic Center, Mymensingh is 3pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mymensingh",
+        "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+        "visitingTime": "3pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787814"
+      },
+      "id": "bdac5851-1db4-47b7-b716-c3448314d32b"
+    },
+    {
+      "name": "Dr. Syed Hasanul Islam (Akash)",
+      "degree": "MBBS, MD (Nephrology), BCS (Health), MACP (Internal Medicine, America)",
+      "specialty": "Intervention Nephrologist & Medicine Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Syed Hasanul Islam (Akash) is a Nephrologist in Mymensingh. His qualification is MBBS, MD (Nephrology), BCS (Health), MACP (Internal Medicine, America). He is a Consultant, Department of Nephrology at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Pranto Diagnostic Center, Mymensingh. Practicing hour of Dr. Syed Hasanul Islam (Akash) at Pranto Diagnostic Center, Mymensingh is 2.30pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Pranto Diagnostic Center, Mymensingh",
+        "address": "Room - 309, 211,Charpara (Beside Foot Overbridge), Mymensingh",
+        "visitingTime": "2.30pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801612200065"
+      },
+      "id": "8e5e2f71-f198-4ea5-bb4b-b6d92d18b057"
+    },
+    {
+      "name": "Dr. Mohammad Asaduzzaman (Ratan)",
+      "degree": "MBBS (Dhaka), MD (Nephrology), FCPS (Medicine), MASN (USA)",
+      "specialty": "Kidney Diseases & Medicine Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Mohammad Asaduzzaman (Ratan) is a Nephrologist in Mymensingh. His qualification is MBBS (Dhaka), MD (Nephrology), FCPS (Medicine), MASN (USA). He is a Assistant Professor, Nephrology at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Sayem Diagno Complex & Hospital, Mymensingh. Practicing hour of Dr. Mohammad Asaduzzaman (Ratan) at Sayem Diagno Complex & Hospital, Mymensingh is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Sayem Diagno Complex & Hospital, Mymensingh",
+        "address": "30/A/1, Dengu Bepari Road, Sehora, Mymensingh – 2200",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801725516141"
+      },
+      "id": "0e36fe63-c22a-4b17-b2fb-dcbfd58aa93b"
+    },
+    {
+      "name": "Dr. Mahmud Javed Hasan",
+      "degree": "MBBS, MD (Nephrology), MASN (USA), MACP (USA)",
+      "specialty": "Kidney & Medicine Specialist",
+      "workplace": "Community Based Medical College & Hospital",
+      "info": "Dr. Mahmud Javed Hasan is a Kidney Specialist in Mymensingh. His qualification is MBBS, MD (Nephrology), MASN (USA), MACP (USA). He is a Associate Professor & Head, Nephrology at Community Based Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Mymensingh. Practicing hour of Dr. Mahmud Javed Hasan at Popular Diagnostic Center, Mymensingh is 2pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mymensingh",
+        "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+        "visitingTime": "2pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787814"
+      },
+      "id": "a63a8205-cf5d-4220-9ceb-a2b5c6222038"
+    },
+    {
+      "name": "Dr. Saleh Uddin Ahmed Mukul",
+      "degree": "MBBS, BCS (Health), MD (Nephrology)",
+      "specialty": "Kidney Diseases, Dialysis & Medicine Specialist (Nephrologist)",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Saleh Uddin Ahmed Mukul is a Nephrologist in Mymenshing. His qualification is MBBS, BCS (Health), MD (Nephrology). He is a Associate Professor, Nephrology at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Mymensingh. Practicing hour of Dr. Saleh Uddin Ahmed Mukul at Popular Diagnostic Center, Mymensingh is 3pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mymensingh",
+        "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787814"
+      },
+      "id": "2d5d1d6a-3b1f-45ac-afee-0f5f9bb22159"
+    },
+    {
+      "name": "Dr. Tridip Kanti Barman",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Nephrology)",
+      "specialty": "Kidney & Medicine Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Tridip Kanti Barman is a Kidney Specialist in Mymensingh. His qualification is MBBS, BCS (Health), FCPS (Medicine), MD (Nephrology). He is a Assistant Professor, Nephrology at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Serum Hospital Pvt. Ltd, Mymensingh. Practicing hour of Dr. Tridip Kanti Barman at Serum Hospital Pvt. Ltd, Mymensingh is 2.30pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Serum Hospital Pvt. Ltd, Mymensingh",
+        "address": "Chomir Plaza, Charpara Mor, Mymensingh – 2220",
+        "visitingTime": "2.30pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801732141999"
+      },
+      "id": "121c194f-3bfb-472c-b573-7146817fc718"
+    },
+    {
+      "name": "Dr. Md. Billal Hossain",
+      "degree": "MBBS, BCS (Health), MD (Nephrology), MACP (USA)",
+      "specialty": "Kidney & Medicine Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Md. Billal Hossain is a Nephrologist in Mymensingh. His qualification is MBBS, BCS (Health), MD (Nephrology), MACP (USA). He is a Assistant Professor, Nephrology at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Sodesh Hospital, Mymensingh. Practicing hour of Dr. Md. Billal Hossain at Sodesh Hospital, Mymensingh is 4pm to 7pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Sodesh Hospital, Mymensingh",
+        "address": "298/2, Maskanda (Bus Stand), Mymensingh - 2200",
+        "visitingTime": "4pm to 7pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8809666777990"
+      },
+      "id": "816c6052-bb33-41c4-b9d2-e4ff09be4230"
+    },
+    {
+      "name": "Dr. Abu Zafor Md. Salahuddin",
+      "degree": "MBBS (Dhaka), BCS (Health), MD (Nephrology) BSMMU",
+      "specialty": "Kidney & Hypertension Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "TMC Diagnostic & Hospital, Mymensingh\nAddress: Zeropoint, Noudhar, Trishal, Mymensingh – 2220\nVisiting Hour: 2pm to 5pm (Wednesday)\nAppointment: +8801774955555\nCall Now",
+      "chamber": {
+        "hospital": "Nexus Hospital, Mymensingh",
+        "address": "29, Sehora, Mymensingh Sadar, Mymensingh – 2200",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801796586561"
+      },
+      "id": "88102629-0fb3-4d30-a5ca-34e42e6248a8"
+    },
+    {
+      "name": "Dr. Gobinda Chandra Barman",
+      "degree": "MBBS, BCS (Health), MD (Nephrology)",
+      "specialty": "Kidney Diseases Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Gobinda Chandra Barman is a Nephrologist in Mymensingh. His qualification is MBBS, BCS (Health), MD (Nephrology). He is a Assistant Professor, Nephrology at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Mymensingh. Practicing hour of Dr. Gobinda Chandra Barman at Popular Diagnostic Center, Mymensingh is 3pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mymensingh",
+        "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787814"
+      },
+      "id": "2b6d25df-a200-43cc-96d9-e255ee43d2ae"
+    },
+    {
+      "name": "Dr. Samir Kumar Das",
+      "degree": "MBBS (Dhaka), BCS (Health), FCPS (Medicine), MD (Nephrology)",
+      "specialty": "Kidney Diseases & Medicine Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Delta Health Care, Mymensingh\nAddress: 55/5, Medical College Gate, Charpara, Mymensingh\nVisiting Hour: 5pm to 8pm (Closed: Fri & Sat)\nAppointment: +8801847158301\nCall Now",
+      "chamber": {
+        "hospital": "Pranto Specialized Hospital, Mymensingh",
+        "address": "67, Charpara, Mymensingh",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801788222000"
+      },
+      "id": "ed078110-b5a4-4b21-9208-f1b304459604"
+    },
+    {
+      "name": "Dr. Nitai Chandra Roy",
+      "degree": "MBBS, MD (Nephrology), MCPS (Medicine), MACP (USA)",
+      "specialty": "Kidney Diseases & Medicine Specialist",
+      "workplace": "Community Based Medical College & Hospital",
+      "info": "Delta Health Care, Mymensingh\nAddress: 55/5, Medical College Gate, Charpara, Mymensingh\nVisiting Hour: 5pm to 8pm (Closed: Fri & Sat)\nAppointment: +8801847158301\nCall Now",
+      "chamber": {
+        "hospital": "Union Specialized Hospital, Mymensingh",
+        "address": "337, Charpara, Mymensingh",
+        "visitingTime": "Sun to Thu (Closed: Wednesday)",
+        "appointmentNumber": "+8801958280000"
+      },
+      "id": "62aaf257-42d6-40c6-b5bf-34e96adfaf1c"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "doctor": [
+    {
+      "name": "Prof. Dr. K.N. Nahar",
+      "degree": "MBBS, DGO, MS (OBGYN)",
+      "specialty": "Gynecology, Infertility Specialist & Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. K.N. Nahar is a Gynecologist in Narayanganj. Her qualification is MBBS, DGO, MS (OBGYN). She is a Professor, Obstetrics & Gynecology at Bangabandhu Sheikh Mujib Medical University Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Prof. Dr. K.N. Nahar at Popular Diagnostic Center, Narayanganj is 2:30pm to 6pm (Sun, Tue & Thu).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "2:30pm to 6pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8809666787804"
+      },
+      "id": "6deeb7d1-9ded-4a0b-846d-16c4010b2f5c"
+    },
+    {
+      "name": "Dr. Kamrun Nahar",
+      "degree": "MBBS, DGO, MS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+      "workplace": "300 Bed Hospital, Narayanganj",
+      "info": "Dr. Kamrun Nahar is a Gynecologist in Narayanganj. Her qualification is MBBS, DGO, MS (OBGYN). She is a Consultant, Obstetrics & Gynecology at 300 Bed Hospital, Narayanganj. She regularly provides treatment to her patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Kamrun Nahar at Popular Diagnostic Center, Narayanganj is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787804"
+      },
+      "id": "1e8ac5ae-5a65-485f-b5bd-ca91e4d605de"
+    },
+    {
+      "name": "Dr. Laila Parveen Banu Madhobi",
+      "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Laila Parveen Banu Madhobi is a Gynecologist in Narayanganj. Her qualification is MBBS, BCS (Health), FCPS (OBGYN). She is a Former Associate Professor (Gyne & Obs) at Sylhet MAG Osmani Medical College & Hospital. She regularly provides treatment to her patients at Medistar Hospital & Renaissance Lab, Narayanganj. Practicing hour of Dr. Laila Parveen Banu Madhobi at Medistar Hospital & Renaissance Lab, Narayanganj is 12pm to 5pm (Sat & Wed), 6pm to 8pm (Sun, Mon, Tue, Thu).",
+      "chamber": {
+        "hospital": "Medistar Hospital & Renaissance Lab, Narayanganj",
+        "address": "17, Nabab Salimullah Road, Don Chamber, Narayanganj",
+        "visitingTime": "12pm to 5pm (Sat & Wed), 6pm to 8pm (Sun, Mon, Tue, Thu)",
+        "appointmentNumber": "+8801964997788"
+      },
+      "id": "ee6eeb98-02fc-41cd-bffe-846f283f3b41"
+    },
+    {
+      "name": "Dr. Nurjahan Begum",
+      "degree": "MBBS, MCPS, FCPS (OBGYN)",
+      "specialty": "Gynecologist, Obstetrics, Infertility, Gyne Cancer, Laparoscopic Surgeon & Coloposcopist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Nurjahan Begum is a Gynecologist in Narayanganj. Her qualification is MBBS, MCPS, FCPS (OBGYN). She is a Associate Professor, Reproductive Endocrinology & Infertility at Bangabandhu Sheikh Mujib Medical University Hospital. She regularly provides treatment to her patients at Labaid Diagnostic, Narayanganj. Practicing hour of Dr. Nurjahan Begum at Labaid Diagnostic, Narayanganj is 4pm to 9pm (Closed: Mon & Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Narayanganj",
+        "address": "House - 56, AKM Samsusjoha Road, Chashara, Narayanganj",
+        "visitingTime": "4pm to 9pm (Closed: Mon & Friday)",
+        "appointmentNumber": "+8801999984343"
+      },
+      "id": "4fa04f11-e278-424f-8caf-eb50ce1f0c20"
+    },
+    {
+      "name": "Dr. Jahanara Akter",
+      "degree": "MBBS, BCS (Health), MS (OBGYN)",
+      "specialty": "Infertility, Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Institute of Child & Mother Health",
+      "info": "Dr. Jahanara Akter is a Gynecologist in Narayanganj. Her qualification is MBBS, BCS (Health), MS (OBGYN). She is a Assistant Professor, Gynecology & Obstetrics at Institute of Child & Mother Health. She regularly provides treatment to her patients at Medinova Medical Services, Narayanganj. Practicing hour of Dr. Jahanara Akter at Medinova Medical Services, Narayanganj is 5pm to 8pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Narayanganj",
+        "address": "145, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "5pm to 8pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801913119989"
+      },
+      "id": "67aacb13-b871-4010-9cd6-23a39e74c435"
+    }
+  ]
+}

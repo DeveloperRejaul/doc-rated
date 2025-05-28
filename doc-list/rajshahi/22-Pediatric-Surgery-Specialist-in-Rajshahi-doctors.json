@@ -1,0 +1,74 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Md. Nowshad Ali",
+      "degree": "MBBS, FCPS (Surgery), MS (Pediatric Surgery), PESI (India), JICA Fellow (Japan)",
+      "specialty": "Neonatal & Pediatric Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Md. Nowshad Ali is a Pediatric Surgeon in Rajshahi. His qualification is MBBS, FCPS (Surgery), MS (Pediatric Surgery), PESI (India), JICA Fellow (Japan). He is the Principal of Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Md. Nowshad Ali at Popular Diagnostic Center, Rajshahi is 4pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "4pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787811"
+      },
+      "id": "2cea1d32-754b-4e15-8dd4-74897d13a8dc"
+    },
+    {
+      "name": "Dr. S. M. Ahsan Shahid",
+      "degree": "MBBS, FCPS (Surgery), MS (Pediatric Surgery), PhD (Hypospadias Surgery)",
+      "specialty": "Pediatric, General, Laparoscopic, Urology & Cancer Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Rajshahi Royal Hospital & Diagnostic Center\nAddress: Laxmipur Mor, Rajshahi\nVisiting Hour: 4.30pm to 7pm & 9pm to 10pm (Everyday)\nAppointment: +8801711277286\nCall Now",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Rajshahi",
+        "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
+        "visitingTime": "2.30pm to 4pm & 7.30pm to 9pm (Everyday)",
+        "appointmentNumber": "+8801711277286"
+      },
+      "id": "a1f8dcf2-8b4a-4e4a-8787-38ac691637f5"
+    },
+    {
+      "name": "Dr. Md. Zamil Hossain",
+      "degree": "MBBS, BCS (Health), MS (Pediatric Surgery), FACS (USA)",
+      "specialty": "Child, Adolescent & Newborn SurgeonChild Urology and Endo-Laparoscopic Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Bashundhara Hospital & Diagnostic Center\nAddress: Laxmipur, Rajshahi\nVisiting Hour: 3pm to 9pm (Closed: Thu & Friday)\nAppointment: +8801713468450\nCall Now",
+      "chamber": {
+        "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
+        "address": "Laxmipur Mor, Rajshahi",
+        "visitingTime": "4pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801762685090"
+      },
+      "id": "38d3e466-5d33-4188-9e1d-9f7723775384"
+    },
+    {
+      "name": "Dr. Syed Sirajul Islam",
+      "degree": "MBBS, MS (Pediatric Surgery), FRSH (UK), PhD (Fellow)",
+      "specialty": "Pediatric Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Syed Sirajul Islam is a Pediatric Surgeon in Rajshahi. His qualification is MBBS, MS (Pediatric Surgery), FRSH (UK), PhD (Fellow). He is working as a Pediatric Surgeon doctor in Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Rajshahi Royal Hospital Pvt. Ltd.. Practicing hour of Dr. Syed Sirajul Islam at Rajshahi Royal Hospital Pvt. Ltd. is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
+        "address": "Laxmipur Mor, Rajshahi",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801762685090"
+      },
+      "id": "afd14797-10da-4d4e-bfa9-8a697d95b0e6"
+    },
+    {
+      "name": "Dr. Abdullah Al Mamun",
+      "degree": "MBBS, BCS (Health), MS (Pediatric Surgery), MRCS (Osce, UK)",
+      "specialty": "Child & Newborn Surgeon, Endo-Laparoscopic Surgeon, Pediatric Urologist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Ibn Sina Diagnostic & Consultation Center, Rajshahi\nAddress: House# 223 & 224, Kazihata (Opposite of Television Centre), Rajpara, Rajshahi\nVisiting Hour: 4pm to 6pm\nAppointment: +8801765711314\nCall Now",
+      "chamber": {
+        "hospital": "Rajshahi General Hospital",
+        "address": "Sher Shah Road, Laxmipur, Rajshahi",
+        "visitingTime": "3pm to 6pm",
+        "appointmentNumber": "+8801765711314"
+      },
+      "id": "02dc02e8-6356-454c-b263-235bd9133fd7"
+    }
+  ]
+}

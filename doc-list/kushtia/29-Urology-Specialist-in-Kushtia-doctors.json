@@ -1,0 +1,60 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Md. Nasir Uddin",
+      "degree": "MBBS, BCS (Health), FCPS (Urology)",
+      "specialty": "Urology (Kidney, Prostate, Ureters, Bladder) Specialist & Surgeon",
+      "workplace": "National Institute of Kidney Diseases & Urology",
+      "info": "Popular Diagnostic Centre, Kushtia\nAddress: City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia\nVisiting Hour: 9am to 7pm (Only Friday)\nAppointment: +8809666787817\nCall Now",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Mirpur",
+        "address": "House # 06, Block # B, Section # 01, Mirpur, Dhaka",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662888"
+      },
+      "id": "6230b53c-94a6-4442-9f5c-a7b9c0d708e0"
+    },
+    {
+      "name": "Dr. Khondaker Arafuzzaman Lipton",
+      "degree": "MBBS, FCPS (Urology)",
+      "specialty": "Kidney, Ureters, Bladder, Prostate, Male Sexuality Specialist & Surgeon",
+      "workplace": "Mugda Medical College & Hospital",
+      "info": "Sono Diagnostic Center, Kushtia\nAddress: Sono Tower, College Mor, Court Para, Kushtia\nVisiting Hour: 9am to 5pm (Only Friday)\nAppointment: +8801754602998\nCall Now",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Motijheel",
+        "address": "24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka",
+        "visitingTime": "5pm to 7pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801727666741"
+      },
+      "id": "84e2ed54-9268-446c-a7c3-5e0035f51822"
+    },
+    {
+      "name": "Dr. Mehedi Hasan Jony",
+      "degree": "MBBS, BCS (Health), MS (Urology), PGT (Surgery)",
+      "specialty": "Urology (Kidney, Prostate, Ureters, Bladder) Specialist & Surgeon",
+      "workplace": "Kushtia Medical College & Hospital",
+      "info": "Dr. Mehedi Hasan Jony is a Urologist in Kushtia. His qualification is MBBS, BCS (Health), MS (Urology), PGT (Surgery). He is a Consultant, Urology at Kushtia Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Centre, Kushtia. Practicing hour of Dr. Mehedi Hasan Jony at Popular Diagnostic Centre, Kushtia is 4pm to 8pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Centre, Kushtia",
+        "address": "City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia",
+        "visitingTime": "4pm to 8pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809666787817"
+      },
+      "id": "87d6b701-f068-4227-a877-1cee9c65ec5a"
+    },
+    {
+      "name": "Dr. Md. Obaidur Rahman",
+      "degree": "MBBS, BCS (Health), MS (Urology)",
+      "specialty": "Urology (Kidney, Ureter, Bladder, Prostate) Specialist & Surgeon",
+      "workplace": "Kushtia Medical College & Hospital",
+      "info": "Dr. Md. Obaidur Rahman is a Urologist in Kushtia. His qualification is MBBS, BCS (Health), MS (Urology). He is a Urologist, Dept of Urology at Kushtia Medical College & Hospital. He regularly provides treatment to his patients at Sono Diagnostic Center, Kushtia. Practicing hour of Dr. Md. Obaidur Rahman at Sono Diagnostic Center, Kushtia is 3pm to 8pm (Sat to Thu), 9am to 5pm (Friday).",
+      "chamber": {
+        "hospital": "Sono Diagnostic Center, Kushtia",
+        "address": "Sono Tower, College Mor, Court Para, Kushtia",
+        "visitingTime": "3pm to 8pm (Sat to Thu), 9am to 5pm (Friday)",
+        "appointmentNumber": "+8801759638759, +8801819498715"
+      },
+      "id": "44a6d44c-bc43-4c6b-814e-9c2b0d91a60e"
+    }
+  ]
+}

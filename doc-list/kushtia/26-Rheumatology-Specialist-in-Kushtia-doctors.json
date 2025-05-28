@@ -1,0 +1,18 @@
+{
+  "doctor": [
+    {
+      "name": "Prof. Dr. Mir Mahfuzul Haque Chowdhury",
+      "degree": "MBBS, MD (Internal Medicine)",
+      "specialty": "Internal Medicine & Rheumatology Specialist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Amin Diagnostic & Medical Services, Kushtia\nAddress: Ram Chandra Ray Chowdhury Road, College Mor, Court Para, Kushtia\nVisiting Hour: 5pm to 11pm (Thursday), 10am to 6pm (Friday)\nAppointment: +8801712243514\nCall Now",
+      "chamber": {
+        "hospital": "Bangladesh Specialized Hospital",
+        "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8809666700100"
+      },
+      "id": "52e0ec98-514c-4d73-af05-d69306e17c70"
+    }
+  ]
+}

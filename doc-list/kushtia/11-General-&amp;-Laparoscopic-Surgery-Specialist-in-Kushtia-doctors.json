@@ -1,0 +1,60 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Md. Ariful Islam",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General, Colorectal & Endo-Laparoscopic Surgeon",
+      "workplace": "Kushtia Medical College & Hospital",
+      "info": "Dr. Md. Ariful Islam is a General Surgeon in Kushtia. His qualification is MBBS, BCS (Health), FCPS (Surgery). He is a Consultant, Surgery at Kushtia Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Centre, Kushtia. Practicing hour of Dr. Md. Ariful Islam at Popular Diagnostic Centre, Kushtia is 3pm to 6pm (Closed: Monday), 9am to 3pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Centre, Kushtia",
+        "address": "City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia",
+        "visitingTime": "3pm to 6pm (Closed: Monday), 9am to 3pm (Friday)",
+        "appointmentNumber": "+8809666787817"
+      },
+      "id": "2a01e9a4-22a8-41be-983a-c404203ad628"
+    },
+    {
+      "name": "Dr. Md. Abu Sayem",
+      "degree": "MBBS (Dhaka), BCS (Health), FCPS (Surgery), FACS (America)",
+      "specialty": "General, Laparoscopic, Colorectal & Cancer Surgeon",
+      "workplace": "National Institute of Cancer Research & Hospital",
+      "info": "Popular Diagnostic Centre, Kushtia\nAddress: City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia\nVisiting Hour: 9am to 5pm (Friday)\nAppointment: +8809666787817\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Badda",
+        "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
+        "visitingTime": "9am to 3pm (Friday), 3pm to 7pm (Thursday)",
+        "appointmentNumber": "+8809610009614"
+      },
+      "id": "ef9a0e1f-c27a-48d8-b966-7e5f04ae18e7"
+    },
+    {
+      "name": "Dr. Md. Amirul Islam",
+      "degree": "MBBS, MS (SURGERY)",
+      "specialty": "General & Laparoscopic Surgery Specialist",
+      "workplace": "Kushtia Medical College & Hospital",
+      "info": "Dr. Md. Amirul Islam is a General Surgeon in Kushtia. His qualification is MBBS, MS (SURGERY). He is a Ex. Associate Professor, Surgery at Kushtia Medical College & Hospital. He regularly provides treatment to his patients at Sono Diagnostic Center, Kushtia. Practicing hour of Dr. Md. Amirul Islam at Sono Diagnostic Center, Kushtia is 1pm to 2pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Sono Diagnostic Center, Kushtia",
+        "address": "Sono Tower, College Mor, Court Para, Kushtia",
+        "visitingTime": "1pm to 2pm (Closed: Friday)",
+        "appointmentNumber": "+8801930543929"
+      },
+      "id": "4c6205f0-11fb-489c-896c-1ef299a50bc7"
+    },
+    {
+      "name": "Dr. Debashis Paul",
+      "degree": "MBBS (DMC), FCPS (Surgery), FMAS (Laparoscopy, India)",
+      "specialty": "General & Laparoscopic Surgery Specialist",
+      "workplace": "Kushtia Medical College & Hospital",
+      "info": "Dr. Debashis Paul is a General Surgeon in Kushtia. His qualification is MBBS (DMC), FCPS (Surgery), FMAS (Laparoscopy, India). He is a Assistant Professor, Surgery at Kushtia Medical College & Hospital. He regularly provides treatment to his patients at Amin Diagnostic & Medical Services, Kushtia. Practicing hour of Dr. Debashis Paul at Amin Diagnostic & Medical Services, Kushtia is 3pm to 8pm (Sat to Thu), 10am to 8pm (Fri).",
+      "chamber": {
+        "hospital": "Amin Diagnostic & Medical Services, Kushtia",
+        "address": "Ram Chandra Ray Chowdhury Road, College Mor, Court Para, Kushtia",
+        "visitingTime": "3pm to 8pm (Sat to Thu), 10am to 8pm (Fri)",
+        "appointmentNumber": "+8801712243514"
+      },
+      "id": "8f7c107e-9657-44e4-b185-7be652d89575"
+    }
+  ]
+}

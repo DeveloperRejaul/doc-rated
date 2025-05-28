@@ -1,12 +1,14 @@
+/* eslint-disable @typescript-eslint/ban-ts-comment */
 import Bot from "./bot"
 import { district } from "./constance";
 import departments  from "../departments.json";
+import { Doctor } from "../types";
 // import doctors from "../doctors.json";
 const bot = new Bot ()
 
 async function main () {
   try {
-    await bot.init();
+    // await bot.init();
     // await bot.getDepartmentList(district);
     // const data = {
     //   "dhaka": [
@@ -17,10 +19,12 @@ async function main () {
     //     },
     //   ]
     // }
-    await bot.getDoctorList(departments.department);
+    // await bot.getDoctorList(departments.department);
     // console.log(doctors.doctor.dhaka.length);
     // console.log(doctors.doctor.chittagong.length);
-    
+    // console.log(bot.getTotalDoctorsCount());
+    //@ts-ignore
+    // bot.modifyAllDoc((doc:Doctor)=>({chamber:{...doc.chamber, appointmentNumber: doc.chamber.appointmentNumber.replace("Call Now","") } }))
   } catch (error) {
     console.log(error);
   }

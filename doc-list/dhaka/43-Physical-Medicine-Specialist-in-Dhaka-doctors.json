@@ -1,0 +1,844 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Nadim Kamal",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Pain, Arthritis, Paralysis, Sports Injury & Neurological Rehabilitation Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Nadim Kamal is a Physical Medicine Specialist in Dhaka. His qualification is MBBS, FCPS (Physical Medicine). He is an Assistant Professor (Physical Medicine & Rehabilitation) at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Medinova Medical Services, Malibagh. Practicing hour of Dr. Nadim Kamal at Medinova Medical Services, Malibagh is 3pm to 6pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Malibagh",
+        "address": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
+        "visitingTime": "3pm to 6pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801790118855"
+      },
+      "id": "bcf8e470-cf77-43cd-823d-05523bc8be4a"
+    },
+    {
+      "name": "Dr. Shamim Md. Fuad",
+      "degree": "MBBS (DMC), MD (BSMMU), FIPM (INDIA)",
+      "specialty": "Pain, Arthritis, Paralysis, Stroke, Physical Medicine & Rehabilitation Specialist",
+      "workplace": "Asgar Ali Hospital, Dhaka",
+      "info": "Labaid Diagnostic, Malibagh\nAddress: House # B65, Chowdhury Para, Malibagh, Dhaka\nVisiting Hour: 8pm to 10pm (Sat, Mon & Wed)\nAppointment: +8801766662555\nCall Now",
+      "chamber": {
+        "hospital": "Asgar Ali Hospital, Dhaka",
+        "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
+        "visitingTime": "11am to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801787683333"
+      },
+      "id": "201bdb0f-843a-498b-aa54-6212f120df72"
+    },
+    {
+      "name": "Dr. Nadia Siddiquee",
+      "degree": "MBBS, CCD, FCPS (Physical Medicine & Rehabilitation)",
+      "specialty": "Pain, Arthritis, Paralysis, Osteoporosis, Sports Injury & Physical Medicine Specialist",
+      "workplace": "Birdem General Hospital & Ibrahim Medical College",
+      "info": "Dr. Nadia Siddiquee is a Physical Medicine Specialist in Dhaka. Her qualification is <span style=\"color:green\">MBBS, CCD, FCPS (Physical Medicine & Rehabilitation)</span>, Fellowship in Pain Management (India). She is a Assistant Professor, Physical Medicine & Rehabilitation at Birdem General Hospital & Ibrahim Medical College. She regularly provides treatment to her patients at BIRDEM Specialized Chamber Complex. Practicing hour of Dr. Nadia Siddiquee at BIRDEM Specialized Chamber Complex is <span style=\"color:green;font-weight:700\">2.30pm to 6pm (Sat, Sun, Tue & Wednesday)</span>.",
+      "chamber": {
+        "hospital": "BIRDEM Specialized Chamber Complex",
+        "address": "Room - 209, Main Building, 122, Kazi Nazrul Islam Avenue, Shahbag, Dhaka",
+        "visitingTime": "2.30pm to 6pm (Sat, Sun, Tue & Wednesday)",
+        "appointmentNumber": "+8801726-727406"
+      },
+      "id": "e40b2bb3-e1d6-4073-8f9a-93c4f80b697c"
+    },
+    {
+      "name": "Prof. Dr. Sunam Kumar Barua",
+      "degree": "MBBS, BCS (Health), FCPS (Physical Medicine & Rehabilitation), DTM&H (Thailand), MPH (Belgium)",
+      "specialty": "Physical Medicine (Pain, Arthritis, Paralysis) & Rehabilitation Specialist",
+      "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+      "info": "Prof. Dr. Sunam Kumar Barua is a Physical Medicine Specialist in Dhaka. His qualification is MBBS, BCS (Health), FCPS (Physical Medicine & Rehabilitation), DTM&H (Thailand), MPH (Belgium). He is a Professor (Physical Medicine & Rehabilitation) at National Institute of Traumatology & Orthopedic Rehabilitation. He regularly provides treatment to his patients at Medinova Medical Services, Malibagh. Practicing hour of Prof. Dr. Sunam Kumar Barua at Medinova Medical Services, Malibagh is 2.30pm to 4.30pm (Monday & Wednesday).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Malibagh",
+        "address": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
+        "visitingTime": "2.30pm to 4.30pm (Monday & Wednesday)",
+        "appointmentNumber": "+8801716410062"
+      },
+      "id": "4ef51590-9342-4a76-b66f-b36befd72e78"
+    },
+    {
+      "name": "Prof. Dr. Syed Mozaffar Ahmed",
+      "degree": "MBBS, FCPS (Physical Medicine), PhD (Rheumatology), MACP (USA)",
+      "specialty": "Physical Medicine & Rheumatology Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. Syed Mozaffar Ahmed is a Physical Medicine Specialist in Dhaka. His qualification is MBBS, FCPS (Physical Medicine), PhD (Rheumatology), MACP (USA). He is a Professor, Physical Medicine & Rehabilitation at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Labaid Specialized Hospital, Dhanmondi. Practicing hour of Prof. Dr. Syed Mozaffar Ahmed at Labaid Specialized Hospital, Dhanmondi is 5pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Dhanmondi",
+        "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "5pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "10606"
+      },
+      "id": "dd22f532-aee0-4360-9255-9084042f3876"
+    },
+    {
+      "name": "Prof. Dr. M. A. Shakoor",
+      "degree": "MBBS, FCPS (Physical Medicine), PhD (CU)",
+      "specialty": "Pain, Arthritis, Paralysis, Stroke, Physical Medicine & Rehabilitation Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. M. A. Shakoor is a Physical Medicine Specialist in Dhaka. His qualification is MBBS, FCPS (Physical Medicine), PhD (CU). He is a Professor, Physical Medicine & Rehabilitation at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Dhanmondi. Practicing hour of Prof. Dr. M. A. Shakoor at Ibn Sina Diagnostic Center, Dhanmondi is 6.30pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
+        "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+        "visitingTime": "6.30pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809610010615"
+      },
+      "id": "239fbae8-4cc4-4953-801d-53300e7e4e19"
+    },
+    {
+      "name": "Prof. Dr. Md. Taslim Uddin",
+      "degree": "MBBS, FCPS (Physical Medicine & Rehabilitation)",
+      "specialty": "Pain, Arthritis, Paralysis, Stroke, Physical Medicine & Rehabilitation Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. Md. Taslim Uddin is a Physical Medicine Specialist in Dhaka. His qualification is MBBS, FCPS (Physical Medicine & Rehabilitation). He is a Professor, Physical Medicine & Rehabilitation at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Dhanmondi. Practicing hour of Prof. Dr. Md. Taslim Uddin at Popular Diagnostic Center, Dhanmondi is 4pm to 8pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Dhanmondi",
+        "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+        "visitingTime": "4pm to 8pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809666787801"
+      },
+      "id": "7fd5a40e-093a-4d33-a665-716dfaab890b"
+    },
+    {
+      "name": "Dr. Muhibbur Rahman Rafe",
+      "degree": "MBBS, BCS (Health), MD (Physical Medicine), MACP (USA)",
+      "specialty": "Pain, Arthritis, Paralysis, Stroke & Rehab Specialist",
+      "workplace": "Government Employee Hospital, Dhaka",
+      "info": "Dr. Muhibbur Rahman Rafe is a Physical Medicine Specialist in Dhaka. His qualification is MBBS, BCS (Health), MD (Physical Medicine), MACP (USA). He is a Consultant & Head, Physical Medicine & Rehabilitation at Government Employee Hospital, Dhaka. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Dhanmondi. Practicing hour of Dr. Muhibbur Rahman Rafe at Ibn Sina Diagnostic Center, Dhanmondi is 5pm to 8pm (Closed: Sunday & Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
+        "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+        "visitingTime": "5pm to 8pm (Closed: Sunday & Friday)",
+        "appointmentNumber": "+8809610010615"
+      },
+      "id": "19eade9b-749c-403b-8583-ad99f5d3acce"
+    },
+    {
+      "name": "Dr. Md. Nuruzzaman Khandaker Noman",
+      "degree": "MBBS, FCPS (Physical Medicine & Rehabilitation), EULAR Fellow (Switzerland)",
+      "specialty": "Physical Medicine & Rheumatology Specialist",
+      "workplace": "Bangladesh Medical University (PG Hospital)",
+      "info": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)\nAddress: Comilla Tower, Laksam Road, Kandirpar, Cumilla – 3500\nVisiting Hour: 4pm to 8.30pm (Thursday) & 9am to 2pm (Friday)\nAppointment: +8801947112233\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Doyagonj",
+        "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
+        "visitingTime": "7pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809610009615"
+      },
+      "id": "718e213c-9cea-4ea5-9c68-cf60aa50916e"
+    },
+    {
+      "name": "Prof. Dr. Md. Ruhul Amin",
+      "degree": "MBBS, BCS (Health), FCPS (Physical Medicine), FIPM (India), Fellow (TOBI USA)",
+      "specialty": "Physical Medicine (Pain, Paralysis) & Rehabilitation Specialist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Ibn Sina Diagnostic Center, Mirpur\nAddress: House # 11, Haji Road, Avenue 3, Rupnagar, Mirpur 2, Dhaka\nVisiting Hour: 5pm to 7pm (Closed: Thu & Friday)\nAppointment: +8801847262996\nCall Now",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Mirpur",
+        "address": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
+        "visitingTime": "7.30pm to 9.30pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801844610513"
+      },
+      "id": "0d2863e6-2747-4f42-a12e-d1e82dbdd695"
+    },
+    {
+      "name": "Prof. Dr. Md. Ahsan Ullah",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Arthritis, Pain, Paralysis, Rheumatic Fever & Physical Medicine Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Popular Diagnostic Center, Dhanmondi\nAddress: House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205\nVisiting Hour: 12pm to 1pm (Closed: Thu & Friday) & 5pm to 9pm (Sun, Tue & Thu)\nAppointment: +8809666787801\nCall Now",
+      "chamber": {
+        "hospital": "Khidmah Hospital, Dhaka",
+        "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
+        "visitingTime": "2.30pm to 7.30pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809606063030"
+      },
+      "id": "eda33286-5f8a-4a42-95c9-afdd518f225a"
+    },
+    {
+      "name": "Prof. Dr. Md. Maidul Islam",
+      "degree": "MBBS, MS (Ortho Surgery), FCPS (Physical Medicine)",
+      "specialty": "Orthopedics, Pain, Paralysis, Sports Injury & Physical Medicine Specialist",
+      "workplace": "Z.H. Sikder Women's Medical College & Hospital",
+      "info": "Islami Bank Specialized & General Hospital, Nayapaltan\nAddress: 71-72, VIP Road, Nayapaltan, Dhaka\nVisiting Hour: 4pm to 6pm (Closed: Friday)\nAppointment: +8801977552283\nCall Now",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Mirpur",
+        "address": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
+        "visitingTime": "11am to 2.30pm (Sat to Tue)",
+        "appointmentNumber": "+8801992346632"
+      },
+      "id": "1ac1677e-9311-4855-8395-c59f87b9a4ff"
+    },
+    {
+      "name": "Dr. M M Zaman",
+      "degree": "MBBS, FCPS, FIAS, MACR, MAAPMR, MAARM (USA)",
+      "specialty": "Physical Medicine, Interventional Pain, Arthritis & Spine Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. M M Zaman is a Physical Medicine Specialist in Dhaka. His qualification is MBBS, FCPS, FIAS, MACR, MAAPMR, MAARM (USA). He is a Associate Professor, Physical Medicine & Rehabilitation at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Dhanmondi. Practicing hour of Dr. M M Zaman at Popular Diagnostic Center, Dhanmondi is 7pm to 11pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Dhanmondi",
+        "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+        "visitingTime": "7pm to 11pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787801"
+      },
+      "id": "76aa966d-6bcf-48b9-943f-d7f021e66fa8"
+    },
+    {
+      "name": "Prof. Dr. Md. Ibrahim Hossain",
+      "degree": "MBBS, MD (Physical Medicine), MACR (USA)",
+      "specialty": "Pain, Paralysis, Sports Injury & Physical Medicine Specialist",
+      "workplace": "Kumudini Womens Medical College & Hospital",
+      "info": "Prof. Dr. Md. Ibrahim Hossain is a Physical Medicine Doctor in Dhaka. His qualification is MBBS, MD (Physical Medicine), MACR (USA). He is a Assistant Professor, Physical Medicine & Rehabilitation at Kumudini Womens Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Uttara. Practicing hour of Prof. Dr. Md. Ibrahim Hossain at Ibn Sina Diagnostic Center, Uttara is 6pm to 9pm (Friday: 7pm to 9pm).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Uttara",
+        "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
+        "visitingTime": "6pm to 9pm (Friday: 7pm to 9pm)",
+        "appointmentNumber": "+8809610009612"
+      },
+      "id": "3c2efde2-c5ab-432d-84e9-2aa4da2b3f6e"
+    },
+    {
+      "name": "Prof. Dr. Khurshid Mahmood",
+      "degree": "MBBS, FCPS (Physical Medicine), Training (Srilanka, Egypt)",
+      "specialty": "Physical Medicine Specialist",
+      "workplace": "National Institute of Neurosciences & Hospital",
+      "info": "Prof. Dr. Khurshid Mahmood is a Physical Medicine Doctor in Dhaka. His qualification is MBBS, FCPS (Physical Medicine), Training (Srilanka, Egypt). He is a Professor & Head, Physical Medicine & Rehabilitation at National Institute of Neurosciences & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Mirpur. Practicing hour of Prof. Dr. Khurshid Mahmood at Popular Diagnostic Center, Mirpur is 5pm to 8:30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mirpur",
+        "address": "Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka",
+        "visitingTime": "5pm to 8:30pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787807"
+      },
+      "id": "6faa3586-9b85-4f7e-9b56-6d34bbaa85fe"
+    },
+    {
+      "name": "Prof. Dr. Md. Moyeenuzzaman",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Physical Medicine (Arthritis, Pain, Paralysis, Sports Injury) Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. Md. Moyeenuzzaman is a Physical Medicine Specialist in Dhaka. His qualification is MBBS, FCPS (Physical Medicine). He is a Former Professor & Head, Physical Medicine & Rehabilitation at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at SPRC & Neurology Hospital. Practicing hour of Prof. Dr. Md. Moyeenuzzaman at SPRC & Neurology Hospital is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "SPRC & Neurology Hospital",
+        "address": "135, New Eskaton Road (Opposite to Dilu Road), Dhaka - 1000",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8802222229089"
+      },
+      "id": "10559147-1954-4960-a4b8-7e4d28771b7a"
+    },
+    {
+      "name": "Prof. Dr. Kazi Abdullah Al Mamun",
+      "degree": "MBBS (CMC), FCPS (Physical Medicine), FRCP (Glasg. UK), MACP (USA)",
+      "specialty": "Physical Medicine, Rheumatology, Neurology & Sports InjuryMedical & Interventional Rehab Physician",
+      "workplace": "Central Medical College & Hospital",
+      "info": "Prof. Dr. Kazi Abdullah Al Mamun is a Physical Medicine Specialist in Dhaka. His qualification is MBBS (CMC), FCPS (Physical Medicine), FRCP (Glasg. UK), MACP (USA). He is a Professor & Head, Dept. of Physical Medicine at Central Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Medical Imaging Center, Zigatola. Practicing hour of Prof. Dr. Kazi Abdullah Al Mamun at Ibn Sina Medical Imaging Center, Zigatola is 11am to 2pm & 7pm to 9pm (Closed: Wed & Thu).",
+      "chamber": {
+        "hospital": "Ibn Sina Medical Imaging Center, Zigatola",
+        "address": "House # 58, Road # 2A, Zigatola Bus Stand, Dhaka - 1209",
+        "visitingTime": "11am to 2pm & 7pm to 9pm (Closed: Wed & Thu)",
+        "appointmentNumber": "+8809610009625"
+      },
+      "id": "1b3c4c23-5a6d-4543-895b-353ed2d60e73"
+    },
+    {
+      "name": "Prof. Dr. Sohely Rahman",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Pain, Arthritis, Stroke, Paralysis & Rehabilitation Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Prof. Dr. Sohely Rahman is a Physical Medicine Specialist in Dhaka. Her qualification is MBBS, FCPS (Physical Medicine). She is a Former Professor & Head, Physical Medicine & Rehabilitation at Dhaka Medical College & Hospital. She regularly provides treatment to her patients at Square Hospital, Dhaka. Practicing hour of Prof. Dr. Sohely Rahman at Square Hospital, Dhaka is 10.30am to 1pm & 5pm to 7.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Square Hospital, Dhaka",
+        "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
+        "visitingTime": "10.30am to 1pm & 5pm to 7.30pm (Closed: Friday)",
+        "appointmentNumber": "10616"
+      },
+      "id": "37e653a2-3f98-41c6-8aff-1326b1ccc68b"
+    },
+    {
+      "name": "Dr. Md. Jobayer Hossain",
+      "degree": "MBBS, MD (BSMMU), FIPM (INDIA)",
+      "specialty": "Pain Medicine Specialist",
+      "workplace": "Dhaka Pain & Spine Center, Banani",
+      "info": "Dr. Md. Jobayer Hossain is a Pain Specialist in Dhaka. His qualification is MBBS, MD (BSMMU), FIPM (INDIA). He is a Consultant at Dhaka Pain & Spine Center, Banani. He regularly provides treatment to his patients at Dhaka Pain & Spine Center, Banani. Practicing hour of Dr. Md. Jobayer Hossain at Dhaka Pain & Spine Center, Banani is 12pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Dhaka Pain & Spine Center, Banani",
+        "address": "House # 35, Road # 17, Block # E, Banani, Dhaka",
+        "visitingTime": "12pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801733-888388"
+      },
+      "id": "94f76d6f-b073-4371-a2ef-0e0c397659e1"
+    },
+    {
+      "name": "Dr. Md. Anisur Rahman",
+      "degree": "MBBS, MD (BSMMU), FIPM (India)",
+      "specialty": "Pain Medicine Specialist",
+      "workplace": "Dhaka Pain & Spine Center, Banani",
+      "info": "Dr. Md. Anisur Rahman is a Pain Specialist in Dhaka. His qualification is MBBS, MD (BSMMU), FIPM (India). He is a Consultant at Dhaka Pain & Spine Center, Banani. He regularly provides treatment to his patients at Dhaka Pain & Spine Center, Banani. Practicing hour of Dr. Md. Anisur Rahman at Dhaka Pain & Spine Center, Banani is 12pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Dhaka Pain & Spine Center, Banani",
+        "address": "House # 35, Road # 17, Block # E, Banani, Dhaka",
+        "visitingTime": "12pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801733-888388"
+      },
+      "id": "eb8fd463-f281-48de-bfe2-e3ba1ca3667a"
+    },
+    {
+      "name": "Dr. Md. Jahidul Islam",
+      "degree": "MBBS, BCS (Health), MPH, FCPS",
+      "specialty": "Physical Medicine & Rehabilitation Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Md. Jahidul Islam is a Physical Medicine Specialist in Dhaka. His qualification is MBBS, BCS (Health), MPH, FCPS. He is working as a Physical Medicine & Rehabilitation Specialist doctor in Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Malibagh. Practicing hour of Dr. Md. Jahidul Islam at Ibn Sina Diagnostic Center, Malibagh is 6pm to 8pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Malibagh",
+        "address": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
+        "visitingTime": "6pm to 8pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801844141717"
+      },
+      "id": "de72c2bd-3e7c-46ae-841d-0a8a749e762a"
+    },
+    {
+      "name": "Dr. Monzur Ahmed",
+      "degree": "MBBS, BCS (Health), FCPS (Physical Medicine)",
+      "specialty": "Pain, Paralysis, Arthritis, Physical Medicine & Rehabilitation Specialist",
+      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+      "info": "Dr. Monzur Ahmed is a Physical Medicine Doctor in Savar. His qualification is MBBS, BCS (Health), FCPS (Physical Medicine). He is a Assistant Professor, Physical Medicine at Shaheed Suhrawardy Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Savar. Practicing hour of Dr. Monzur Ahmed at Ibn Sina Diagnostic Center, Savar is 3.30pm to 6.30pm (Closed: Sun, Tue & Thu).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Savar",
+        "address": "31/6 Jaleshwar, Aricha Road, Savar, Dhaka - 1340",
+        "visitingTime": "3.30pm to 6.30pm (Closed: Sun, Tue & Thu)",
+        "appointmentNumber": "+88 09610009613"
+      },
+      "id": "0fa34a9a-dc2b-4183-aeab-89650cde0c75"
+    },
+    {
+      "name": "Prof. Dr. Jebun Nessa (Rumu)",
+      "degree": "MBBS, FCPS (Physical Medicine), MD",
+      "specialty": "Physical Medicine (Pain, Arthritis, Paralysis, Stroke) & Rehabilitation Specialist",
+      "workplace": "Mugda Medical College & Hospital",
+      "info": "Prof. Dr. Jebun Nessa (Rumu) is a Physical Medicine Specialist in Dhaka. Her qualification is MBBS, FCPS (Physical Medicine), MD. She is a Professor & Head, Physical Medicine & Rehabilitation at Mugda Medical College & Hospital. She regularly provides treatment to her patients at Samorita Hospital Ltd, Panthapath. Practicing hour of Prof. Dr. Jebun Nessa (Rumu) at Samorita Hospital Ltd, Panthapath is 3.30pm to 5.30pm (Sat & Tue), 5.30pm to 7.30pm (Sun & Wed).",
+      "chamber": {
+        "hospital": "Samorita Hospital Ltd, Panthapath",
+        "address": "89/1, Panthapath, Dhaka - 1215, Bangladesh",
+        "visitingTime": "3.30pm to 5.30pm (Sat & Tue), 5.30pm to 7.30pm (Sun & Wed)",
+        "appointmentNumber": "+8801832626053"
+      },
+      "id": "760599ef-12da-4850-bf4d-abe841cb9119"
+    },
+    {
+      "name": "Dr. Hasina Bilkis Banu",
+      "degree": "MBBS, FCPS (PM&R)",
+      "specialty": "Pain, Arthritis, Paralysis & Rheumatic Diseases Specialist",
+      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+      "info": "Dr. Hasina Bilkis Banu is a Physical Medicine Specialist in Dhaka. Her qualification is MBBS, FCPS (PM&R). She is working as a Pain, Arthritis, Paralysis & Rheumatic Diseases Specialist doctor in Shaheed Suhrawardy Medical College & Hospital. She regularly provides treatment to her patients at Ibn Sina Diagnostic Center, Doyagonj. Practicing hour of Dr. Hasina Bilkis Banu at Ibn Sina Diagnostic Center, Doyagonj is 5pm to 7.30pm (Closed: Friday & Saturday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Doyagonj",
+        "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
+        "visitingTime": "5pm to 7.30pm (Closed: Friday & Saturday)",
+        "appointmentNumber": "+8801878115751"
+      },
+      "id": "9c3198cf-7292-40c6-a494-70c7d9cdd820"
+    },
+    {
+      "name": "Prof. Dr. Md. Shahidur Rahman",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Physical Medicine (Pain, Arthritis, Paralysis) & Rehabilitation Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. Md. Shahidur Rahman is a Physical Medicine Specialist in Dhaka. His qualification is MBBS, FCPS (Physical Medicine). He is a Professor, Physical Medicine & Rehabilitation at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at SPRC & Neurology Hospital. Practicing hour of Prof. Dr. Md. Shahidur Rahman at SPRC & Neurology Hospital is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "SPRC & Neurology Hospital",
+        "address": "135, New Eskaton Road (Opposite to Dilu Road), Dhaka - 1000",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801716040807"
+      },
+      "id": "99fc7033-33a0-4975-afb1-a6ffad4b22b6"
+    },
+    {
+      "name": "Dr. A. K. Azad",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Physical Medicine & Rehabilitation Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. A. K. Azad is a Physical Medicine Specialist in Dhaka. His qualification is MBBS, FCPS (Physical Medicine). He is working as a Physical Medicine & Rehabilitation Specialist doctor in Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Padma Diagnostic Center, Malibagh. Practicing hour of Dr. A. K. Azad at Padma Diagnostic Center, Malibagh is 7pm to 9pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Padma Diagnostic Center, Malibagh",
+        "address": "245/2 New Circular Road, West Malibagh, Dhaka",
+        "visitingTime": "7pm to 9pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8809617444222"
+      },
+      "id": "feac306b-f2ca-48d1-92e6-972a5ab93fbd"
+    },
+    {
+      "name": "Dr. Ehsanul Haque Khan",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Arthritis, Pain, Physical Medicine & Rehabilitation Specialist",
+      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+      "info": "Modern Diagnostic Center, Narayanganj\nAddress: 207, Bangabandhu Road, Chashara, Narayanganj – 1400\nVisiting Hour: 5pm to 8pm (Sat, Mon & Wed)\nAppointment: +8801820842293\nCall Now",
+      "chamber": {
+        "hospital": "Health and Hope Hospital",
+        "address": "152/2/G, Green Road, Panthapath, Dhaka – 1205",
+        "visitingTime": "8.30pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8809611996699"
+      },
+      "id": "1af9f7a3-ae3d-4af2-81af-30d73eb19418"
+    },
+    {
+      "name": "Dr. Mohammed Mohiuddin Araf",
+      "degree": "MBBS (India), MD (AIIMS)",
+      "specialty": "Physical Medicine (Acute & Chronic Pain) & Rehabilitation Specialist",
+      "workplace": "Evercare Hospital, Dhaka",
+      "info": "Dr. Mohammed Mohiuddin Araf is a Physical Medicine Specialist in Dhaka. His qualification is MBBS (India), MD (AIIMS). He is a Coordinator & Senior Consultant, Physical Medicine & Rehabilitation at Evercare Hospital, Dhaka. He regularly provides treatment to his patients at Evercare Hospital, Dhaka. Practicing hour of Dr. Mohammed Mohiuddin Araf at Evercare Hospital, Dhaka is 9am to 5pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Evercare Hospital, Dhaka",
+        "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
+        "visitingTime": "9am to 5pm (Closed: Friday)",
+        "appointmentNumber": "10678"
+      },
+      "id": "adec8700-6289-4c4b-a3d2-df4697577851"
+    },
+    {
+      "name": "Dr. Muhammad Kamrul Hassan",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Physical Medicine (Pain, Arthritis, Paralysis, Stroke) Specialist",
+      "workplace": "Shahabuddin Medical College & Hospital",
+      "info": "Sono Diagnostic Center, Kushtia\nAddress: Sono Tower, College Mor, Court Para, Kushtia\nVisiting Hour: 9am to 5pm (Only Friday)\nAppointment: +8801930543929\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Badda",
+        "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809610009614"
+      },
+      "id": "996ed774-8a28-48c2-805d-60718f3a67ad"
+    },
+    {
+      "name": "Prof. Dr. Shamsun Nahar",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Pain, Paralysis & Physical Therapy Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. Shamsun Nahar is a Physical Medicine Specialist in Dhaka. Her qualification is MBBS, FCPS (Physical Medicine). She is a Former Professor & Head, Physical Medicine & Rehabilitation at Bangabandhu Sheikh Mujib Medical University Hospital. She regularly provides treatment to her patients at Medinova Medical Services, Dhanmondi. Practicing hour of Prof. Dr. Shamsun Nahar at Medinova Medical Services, Dhanmondi is 6pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Dhanmondi",
+        "address": "House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka",
+        "visitingTime": "6pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "10658"
+      },
+      "id": "3a254b21-f70a-4963-8087-b0a4e3c9a81e"
+    },
+    {
+      "name": "Dr. Musa Mohammad Hojaifa",
+      "degree": "MBBS, BCS (Health), CCD (BIRDEM), FCPS (Physical Medicne)",
+      "specialty": "Back Pain, Paralysis, Sports Injury & Arthritis Specialist",
+      "workplace": "Sheikh Hasina National Institute of Burn & Plastic Surgery",
+      "info": "Islami Bank Hospital, Motijheel\nAddress: 24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka\nVisiting Hour: 5pm to 7pm (Closed: Friday)\nAppointment: +8801727666741\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Malibagh",
+        "address": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
+        "visitingTime": "8.30pm to 9.30pm (Everyday)",
+        "appointmentNumber": "+8801844141717"
+      },
+      "id": "0f5c9f67-502d-4bb7-95cb-64c4dc5be7d3"
+    },
+    {
+      "name": "Prof. Dr. Ali Emran",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Physical Medicine Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. Ali Emran is a Physical Medicine Doctor in Dhaka. His qualification is MBBS, FCPS (Physical Medicine). He is working as a Physical Medicine Specialist doctor in Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Mirpur. Practicing hour of Prof. Dr. Ali Emran at Popular Diagnostic Center, Mirpur is 6pm to 8.30pm (Everyday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mirpur",
+        "address": "Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka",
+        "visitingTime": "6pm to 8.30pm (Everyday)",
+        "appointmentNumber": "+8809666787807"
+      },
+      "id": "d33c76b5-c5a3-4f1c-a922-24b01b3132f4"
+    },
+    {
+      "name": "Dr. Md. Mahfuzul Alam",
+      "degree": "MBBS, BCS (Health), FCPS (Physical Medicine)",
+      "specialty": "Arthritis, Pain, Paralysis, Disability & Spine Rehabilitation Specialist",
+      "workplace": "Kurmitola General Hospital, Dhaka",
+      "info": "Dr. Md. Mahfuzul Alam is a Physical Medicine Specialist in Dhaka. His qualification is MBBS, BCS (Health), FCPS (Physical Medicine). He is a Consultant, Physical Medicine & Rehabilitation at Kurmitola General Hospital, Dhaka. He regularly provides treatment to his patients at Khidmah Hospital, Dhaka. Practicing hour of Dr. Md. Mahfuzul Alam at Khidmah Hospital, Dhaka is 9.30am to 12pm (Friday).",
+      "chamber": {
+        "hospital": "Khidmah Hospital, Dhaka",
+        "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
+        "visitingTime": "9.30am to 12pm (Friday)",
+        "appointmentNumber": "+8809606063030"
+      },
+      "id": "c2a4194b-e813-461a-8349-ba87486bed8c"
+    },
+    {
+      "name": "Dr. Md. Mahmudur Rahman",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Physical Medicine (Pain, Arthritis, Paralysis) & Rehabilitation Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Md. Mahmudur Rahman is a Physical Medicine Specialist in Dhaka. His qualification is MBBS, FCPS (Physical Medicine). He is a Associate Professor, Physical Medicine at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Uttara. Practicing hour of Dr. Md. Mahmudur Rahman at Ibn Sina Diagnostic Center, Uttara is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Uttara",
+        "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809610009612"
+      },
+      "id": "4d3180c8-b306-4d04-be75-a4470b4d14c3"
+    },
+    {
+      "name": "Dr. Md. Imamur Rashid",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Arthritis, Pain, Paralysis & Rheumatic Diseases Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, B.B. Road, Chashara, Narayanganj – 1400\nVisiting Hour: 5pm to 8pm (Sun, Tue & Thu)\nAppointment: +8809666787804\nCall Now",
+      "chamber": {
+        "hospital": "Khidmah Hospital, Dhaka",
+        "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
+        "visitingTime": "3pm to 6pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809606063030"
+      },
+      "id": "b1061608-c932-4d84-8727-a05a94488b4d"
+    },
+    {
+      "name": "Prof. Dr. M. A. Rashid",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Physical Medicine, Pain, Paralysis & Rheumatic Diseases Specialist",
+      "workplace": "Square Hospital, Dhaka",
+      "info": "Prof. Dr. M. A. Rashid is a Physical Medicine Specialist in Dhaka. His qualification is MBBS, FCPS (Physical Medicine). He is a Senior Consultant, Physical Medicine & Rehabilitation at Square Hospital, Dhaka. He regularly provides treatment to his patients at Square Hospital, Dhaka. Practicing hour of Prof. Dr. M. A. Rashid at Square Hospital, Dhaka is 11am to 1pm & 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Square Hospital, Dhaka",
+        "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
+        "visitingTime": "11am to 1pm & 5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "10616"
+      },
+      "id": "9c091195-0441-4dfa-a266-326bb815e33e"
+    },
+    {
+      "name": "Dr. Md. Aminul Alam",
+      "degree": "MBBS, FCPS (Physical Medicine & Rehabilitation)",
+      "specialty": "Pain, Paralysis, Sports Injury & Physical Medicine Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Md. Aminul Alam is a Physical Medicine Specialist in Dhaka. His qualification is MBBS, FCPS (Physical Medicine & Rehabilitation). He is a Medical Officer, Physical Medicine & Rehabilitation at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Islami Bank Central Hospital, Kakrail. Practicing hour of Dr. Md. Aminul Alam at Islami Bank Central Hospital, Kakrail is 8pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Central Hospital, Kakrail",
+        "address": "30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000",
+        "visitingTime": "8pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801810000116"
+      },
+      "id": "eaac9735-a8a9-4a47-bdf2-a8b6682205bc"
+    },
+    {
+      "name": "Dr. Moinuddin Hossain Khan",
+      "degree": "MBBS, BCS (Health), FCPS (Physical Medicine), CCD (BIRDEM)",
+      "specialty": "Physical Medicine (Pain, Arthritis, Stroke, Paralysis, Sports Injury) Specialist",
+      "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+      "info": "Dr. Moinuddin Hossain Khan is a Physical Medicine Specialist in Dhaka. His qualification is MBBS, BCS (Health), FCPS (Physical Medicine), CCD (BIRDEM). He is a Associate Professor of Physical Medicine at National Institute of Traumatology & Orthopedic Rehabilitation. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Dhanmondi. Practicing hour of Dr. Moinuddin Hossain Khan at Ibn Sina Diagnostic Center, Dhanmondi is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
+        "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809610010615"
+      },
+      "id": "877710fa-c770-4840-a3cf-fdd669982b11"
+    },
+    {
+      "name": "Dr. Muhammad Firoz Hasan",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Physical Medicine & Rehabilitation Specialist",
+      "workplace": "Super Medical Hospital, Savar",
+      "info": "Dr. Muhammad Firoz Hasan is a Physical Medicine Doctor in Savar. His qualification is MBBS, FCPS (Physical Medicine). He is a Consultant, Physical Medicine & Rehabilitation at Super Medical Hospital, Savar. He regularly provides treatment to his patients at Super Medical Hospital, Savar. Practicing hour of Dr. Muhammad Firoz Hasan at Super Medical Hospital, Savar is 10am to 2pm (Sat to Thu) & 4pm to 8pm (Fri).",
+      "chamber": {
+        "hospital": "Super Medical Hospital, Savar",
+        "address": "Near Razzak Plaza, B-119/3, Jaleshwar, Savar, Dhaka",
+        "visitingTime": "10am to 2pm (Sat to Thu) & 4pm to 8pm (Fri)",
+        "appointmentNumber": "+8801711266169"
+      },
+      "id": "5eb0eebd-0997-480a-b31f-96484f63e797"
+    },
+    {
+      "name": "Prof. Dr. Farjana Khan Soma",
+      "degree": "MBBS, FCPS (PM&R)",
+      "specialty": "Physical Medicine Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. Farjana Khan Soma is a Physical Medicine Doctor in Dhaka. Her qualification is MBBS, FCPS (PM&R). She is working as a Physical Medicine Specialist doctor in Bangabandhu Sheikh Mujib Medical University Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Shyamoli. Practicing hour of Prof. Dr. Farjana Khan Soma at Popular Diagnostic Center, Shyamoli is 2pm to 3pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Shyamoli",
+        "address": "Opposite to Shyamoli Shishu Mela, Babor Road, Mohammadpur, Dhaka",
+        "visitingTime": "2pm to 3pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8809666787806"
+      },
+      "id": "746865f4-5f23-4f1e-b881-88bf2e839291"
+    },
+    {
+      "name": "Dr. Zahid Hossain",
+      "degree": "MBBS (Dhaka), FCPS (Physical Medicine)",
+      "specialty": "Pain, Arthritis, Paralysis & Rehabilitation Medicine Specialist",
+      "workplace": "Ibn Sina Diagnostic & Imaging Centre, Dhanmondi",
+      "info": "Dr. Zahid Hossain is a Physical Medicine Specialist in Dhaka. His qualification is MBBS (Dhaka), FCPS (Physical Medicine). He is a Consultant, Physical Medicine & Rehabilitation at Ibn Sina Diagnostic & Imaging Centre, Dhanmondi. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Dhanmondi. Practicing hour of Dr. Zahid Hossain at Ibn Sina Diagnostic Center, Dhanmondi is 6pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
+        "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+        "visitingTime": "6pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801671086620"
+      },
+      "id": "9c9fc5b9-9d69-42d0-97fd-64f8f5812ab4"
+    },
+    {
+      "name": "Dr. AK Azad",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Physical Medicine & Rehabilitation Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. AK Azad is a Physical Medicine Specialist in Dhaka. His qualification is MBBS, FCPS (Physical Medicine). He is working as a Physical Medicine & Rehabilitation Specialist doctor in Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Doyagonj. Practicing hour of Dr. AK Azad at Ibn Sina Diagnostic Center, Doyagonj is 4pm to 7pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Doyagonj",
+        "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
+        "visitingTime": "4pm to 7pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801878115751"
+      },
+      "id": "a2f5fc0d-0ef7-4b67-99b5-8ba066394039"
+    },
+    {
+      "name": "Dr. Md. Ahamedur Reza",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Arthritis, Paralysis, Pain & Physical Medicine Specialist",
+      "workplace": "Uttara Adhunik Medical College & Hospital",
+      "info": "Dr. Md. Ahamedur Reza is a Physical Medicine Specialist in Dhaka. His qualification is MBBS, FCPS (Physical Medicine). He is a Assistant Professor, Physical Medicine & Rehabilitation at Uttara Adhunik Medical College & Hospital. He regularly provides treatment to his patients at Shin Shin Japan Hospital, Uttara. Practicing hour of Dr. Md. Ahamedur Reza at Shin Shin Japan Hospital, Uttara is 4pm to 6pm (Sun, Mon & Tue).",
+      "chamber": {
+        "hospital": "Shin Shin Japan Hospital, Uttara",
+        "address": "17, Garib E Nawaz Ave, Sector # 11, Uttara, Dhaka",
+        "visitingTime": "4pm to 6pm (Sun, Mon & Tue)",
+        "appointmentNumber": "+8801929478565"
+      },
+      "id": "9048017a-f636-4403-a54f-4c2a07640960"
+    },
+    {
+      "name": "Dr. Prasanta Kumar Chakraborty",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Pain, Arthritis, Paralysis, Rehabilitation, Sports Injury & Physical Medicine Specialist",
+      "workplace": "National Institute of Cancer Research & Hospital",
+      "info": "Dr. Prasanta Kumar Chakraborty is a Physical Medicine Specialist in Dhaka. His qualification is MBBS, FCPS (Physical Medicine). He is a Associate Professor & Head, Physical Medicine & Rehabilitation at National Institute of Cancer Research & Hospital. He regularly provides treatment to his patients at Delta Hospital, Mirpur. Practicing hour of Dr. Prasanta Kumar Chakraborty at Delta Hospital, Mirpur is 6.30pm to 9pm (Sunday & Thursday).",
+      "chamber": {
+        "hospital": "Delta Hospital, Mirpur",
+        "address": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka - 1216",
+        "visitingTime": "6.30pm to 9pm (Sunday & Thursday)",
+        "appointmentNumber": "+8801301254924"
+      },
+      "id": "1bfbaf9a-d674-46f9-a3a4-41eb3da7ebe4"
+    },
+    {
+      "name": "Dr. Sanjida Parvin",
+      "degree": "MBBS, BCS (Health), FCPS (Physical Medicine)",
+      "specialty": "Physical Medicine Specialist",
+      "workplace": "National Institute of Diseases of the Chest & Hospital",
+      "info": "Dr. Sanjida Parvin is a Physical Medicine Specialist in Dhaka. Her qualification is MBBS, BCS (Health), FCPS (Physical Medicine). She is a Consultant, Physical Medicine & Rehabilitation at National Institute of Diseases of the Chest & Hospital. She regularly provides treatment to her patients at Aalok Health Care, Kachukhet. Practicing hour of Dr. Sanjida Parvin at Aalok Health Care, Kachukhet is 7pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Aalok Health Care, Kachukhet",
+        "address": "Rajanigandha Tower (4th & 5th Floor), Kachukhet, Dhaka",
+        "visitingTime": "7pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801725694669"
+      },
+      "id": "46d4cbf1-fe0b-44ca-9807-1b31112b68e2"
+    },
+    {
+      "name": "Dr. Saifur Ahmed",
+      "degree": "MBBS, BCS, MD, FCGP, CCD",
+      "specialty": "Physical Medicine (Pain, Arthritis, Paralysis, Sports Injury) Specialist",
+      "workplace": "National Institute of Neurosciences & Hospital",
+      "info": "Dr. Saifur Ahmed is a Physical Medicine Specialist in Dhaka. His qualification is MBBS, BCS, MD, FCGP, CCD. He is a Consultant, Physical Medicine at National Institute of Neurosciences & Hospital. He regularly provides treatment to his patients at Aalok Health Care, Pallabi. Practicing hour of Dr. Saifur Ahmed at Aalok Health Care, Pallabi is 7pm to 9pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Aalok Health Care, Pallabi",
+        "address": "2/6 Begum Rokeya Avenue, Pallabi, Mirpur 11.5, Dhaka",
+        "visitingTime": "7pm to 9pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801825002867"
+      },
+      "id": "7836092d-4169-420d-87ee-ca200dc1ce68"
+    },
+    {
+      "name": "Dr. Dilir Jamal",
+      "degree": "MBBS (Dhaka), BCS (Health), FCPS (Physical Medicine)",
+      "specialty": "Arthritis, Joint Pain, Paralysis, Sports Injury & Physical Medicine Specialist",
+      "workplace": "National Institute of ENT & Hospital",
+      "info": "Dr. Dilir Jamal is a Physical Medicine Specialist in Dhaka. His qualification is MBBS (Dhaka), BCS (Health), FCPS (Physical Medicine). He is a Assistant Professor, Physical Medicine & Rehabilitation at National Institute of ENT & Hospital. He regularly provides treatment to his patients at Central Hospital, Dhanmondi. Practicing hour of Dr. Dilir Jamal at Central Hospital, Dhanmondi is 6pm to 9pm (Su, Tues & Thursday).",
+      "chamber": {
+        "hospital": "Central Hospital, Dhanmondi",
+        "address": "House # 02, Road # 05, Green Road, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "6pm to 9pm (Su, Tues & Thursday)",
+        "appointmentNumber": "+8802-41060800"
+      },
+      "id": "45fce787-81e7-4082-a98b-42f2d2a2b46a"
+    },
+    {
+      "name": "Dr. Md. Golam Nobi",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Pain, Paralysis & Physical Medicine Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Md. Golam Nobi is a Physical Medicine Doctor in Dhaka. His qualification is MBBS, FCPS (Physical Medicine). He is working as a Pain, Paralysis & Physical Medicine Specialist doctor in Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Lalbagh. Practicing hour of Dr. Md. Golam Nobi at Ibn Sina Diagnostic Center, Lalbagh is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Lalbagh",
+        "address": "27/4 Dhakeshwori Road, Lalbagh, Dhaka",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801783356048"
+      },
+      "id": "60345f6e-f2db-485b-8a1e-dca645fc7407"
+    },
+    {
+      "name": "Dr. Rayhan Hamid",
+      "degree": "MBBS, BCS (Health), FCPS (Physical Medicine)",
+      "specialty": "Physical Medicine & Rehabilitation Specialist",
+      "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+      "info": "Dr. Rayhan Hamid is a Physical Medicine Doctor in Dhaka. His qualification is MBBS, BCS (Health), FCPS (Physical Medicine). He is working as a Physical Medicine & Rehabilitation Specialist doctor in National Institute of Traumatology & Orthopedic Rehabilitation. He regularly provides treatment to his patients at Ibn Sina Medical College Hospital, Kallyanpur. Practicing hour of Dr. Rayhan Hamid at Ibn Sina Medical College Hospital, Kallyanpur is 5pm to 7pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
+        "address": "1/1 B, Kallyanpur, Dhaka",
+        "visitingTime": "5pm to 7pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801703725590"
+      },
+      "id": "5ab61111-a0f8-40c7-9788-63a8ea5c7c97"
+    },
+    {
+      "name": "Prof. Dr. Badrunnesa Ahmed",
+      "degree": "MBBS, FCPS (Physical Medicine & Rehabilitation)",
+      "specialty": "Physical Medicine & Rehabilitation Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. Badrunnesa Ahmed is a Physical Medicine Doctor in Dhaka. His qualification is MBBS, FCPS (Physical Medicine & Rehabilitation). He is working as a Physical Medicine & Rehabilitation Specialist doctor in Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Badda. Practicing hour of Prof. Dr. Badrunnesa Ahmed at Ibn Sina Diagnostic Center, Badda is 6pm to 9pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Badda",
+        "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
+        "visitingTime": "6pm to 9pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809610009614"
+      },
+      "id": "4b4019b6-4749-41b9-bd42-1ef97f4f5bcd"
+    },
+    {
+      "name": "Dr. Prasanta Kumar Chakraborty",
+      "degree": "MBBS, BCS (Health), FCPS (Physical Medicine)",
+      "specialty": "Physical Medicine & Rehabilitation Specialist",
+      "workplace": "National Institute of Cancer Research & Hospital",
+      "info": "Dr. Prasanta Kumar Chakraborty is a Physical Medicine Doctor in Dhaka. His qualification is MBBS, BCS (Health), FCPS (Physical Medicine). He is working as a Physical Medicine & Rehabilitation Specialist doctor in National Institute of Cancer Research & Hospital. He regularly provides treatment to his patients at Ibn Sina Medical College Hospital, Kallyanpur. Practicing hour of Dr. Prasanta Kumar Chakraborty at Ibn Sina Medical College Hospital, Kallyanpur is 4pm to 6pm (Sun, Tue & Thursday).",
+      "chamber": {
+        "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
+        "address": "1/1 B, Kallyanpur, Dhaka",
+        "visitingTime": "4pm to 6pm (Sun, Tue & Thursday)",
+        "appointmentNumber": "+8801703725590"
+      },
+      "id": "90a41400-dcdc-4ddb-a219-185c52254bb8"
+    },
+    {
+      "name": "Dr. Md. Tariqul Islam",
+      "degree": "MBBS, FCPS (Physical Medicine & Rehabilitation)",
+      "specialty": "Pain, Arthritis, Sports Injury, Neuro & Rheumatological Rehab Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Md. Tariqul Islam is a Physical Medicine Specialist in Dhaka. His qualification is MBBS, FCPS (Physical Medicine & Rehabilitation). He is a Associate Professor (Physical Medicine & Rehabilitation) at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Labaid Specialized Hospital, Dhanmondi. Practicing hour of Dr. Md. Tariqul Islam at Labaid Specialized Hospital, Dhanmondi is 5pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Dhanmondi",
+        "address": "House # 06, Road # 04, Dhanmondi, Dhaka – 1205",
+        "visitingTime": "5pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "10606"
+      },
+      "id": "d49ce0fc-9dda-4e2f-84d9-b12b77e5b16a"
+    },
+    {
+      "name": "Dr. Amitav Banik",
+      "degree": "MBBS, BCS (Health), FCPS (Physical Medicine)",
+      "specialty": "Physical Medicine (Arthritis, Pain, Paralysis, Sports Injury) Specialist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Dr. Amitav Banik is a Physical Medicine Specialist in Dhaka. His qualification is MBBS, BCS (Health), FCPS (Physical Medicine). He is a Assistant Professor, Physical Medicine at Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Shyamoli. Practicing hour of Dr. Amitav Banik at Popular Diagnostic Center, Shyamoli is 3pm to 5pm (Sat, Sun, Tue & Wed).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Shyamoli",
+        "address": "Opposite to Shyamoli Shishu Mela, Babor Road, Mohammadpur, Dhaka",
+        "visitingTime": "3pm to 5pm (Sat, Sun, Tue & Wed)",
+        "appointmentNumber": "+8809666787806"
+      },
+      "id": "181a52f1-5889-47ef-85e3-0d04ad477c9b"
+    },
+    {
+      "name": "Dr. F.R. Al-Mahmud",
+      "degree": "MBBS, FCPS",
+      "specialty": "Physical Medicine & Rehabilitation Specialist",
+      "workplace": "TMSS Medical College & Hospital",
+      "info": "Dr. F.R. Al-Mahmud is a Physical Medicine Specialist in Dhaka. His qualification is MBBS, FCPS. He is a Associate Professor, Physical Medicine & Rehabilitation at TMSS Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Uttara (Jasimuddin). Practicing hour of Dr. F.R. Al-Mahmud at Popular Diagnostic Center, Uttara (Jasimuddin) is 10am to 1pm & 4pm to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
+        "address": "House # 21, Road # 7, Sector # 4, Uttara, Dhaka",
+        "visitingTime": "10am to 1pm & 4pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801821895232"
+      },
+      "id": "d14b6f9f-1b56-4ae6-a4e8-b31c9471ddc6"
+    },
+    {
+      "name": "Dr. H.N Masuk Rahman",
+      "degree": "MBBS, CCD, FCPS, MACP (USA)",
+      "specialty": "Physical Medicine (Pain, Arthritis, Paralysis) & Rehabilitation Specialist",
+      "workplace": "Bangladesh Institute of Health Science (BIHS)",
+      "info": "Dr. H.N Masuk Rahman is a Physical Medicine Specialist in Dhaka. His qualification is MBBS, CCD, FCPS, MACP (USA). He is a Assistant Professor & Head, Physical Medicine & Rehabilitation at Bangladesh Institute of Health Science (BIHS). He regularly provides treatment to his patients at Medinova Medical Services, Mirpur. Practicing hour of Dr. H.N Masuk Rahman at Medinova Medical Services, Mirpur is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Mirpur",
+        "address": "Plot # 29-30, Block # Kha, Road # 1, Section # 6, Mirpur 10, Dhaka",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801735696339"
+      },
+      "id": "51a766ca-b51b-462e-8ffa-1c919225caeb"
+    },
+    {
+      "name": "Prof. Dr. Monirul Islam",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Pain, Arthritis, Paralysis & Rheumatic Diseases Specialist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Prof. Dr. Monirul Islam is a Physical Medicine Specialist in Dhaka. His qualification is MBBS, FCPS (Physical Medicine). He is a rofessor of Physical Medicine and Rehabilitation at Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Dhanmondi. Practicing hour of Prof. Dr. Monirul Islam at Popular Diagnostic Center, Dhanmondi is 5pm to 10pm (Sat, Sun, Tue & Wed).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Dhanmondi",
+        "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+        "visitingTime": "5pm to 10pm (Sat, Sun, Tue & Wed)",
+        "appointmentNumber": "+8809666787801"
+      },
+      "id": "219dde9d-03d1-45df-9bbc-09ed0f4283e9"
+    },
+    {
+      "name": "Dr. A. Bivab Bikash Baral",
+      "degree": "MBBS, BCS (Health), FCPS (Physical Medicine)",
+      "specialty": "Physical Medicine (Pain, Arthritis, Stroke, Paralysis, Sports Injury) Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. A. Bivab Bikash Baral is a Physical Medicine Specialist in Dhaka. His qualification is MBBS, BCS (Health), FCPS (Physical Medicine). He is a Assistant Professor of Physical Medicine & Rehabilitation at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Badda. Practicing hour of Dr. A. Bivab Bikash Baral at Popular Diagnostic Center, Badda is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Badda",
+        "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787809"
+      },
+      "id": "39b611d4-ada0-461d-85d4-ba65cc49d936"
+    },
+    {
+      "name": "Dr. Nuzhat Nuery",
+      "degree": "MBBS (SSMC), BCS (Health), FCPS (Physical Medicine & Rehabilitation), FIPM (India)",
+      "specialty": "Physical Medicine, Rheumatic Diseases, Pain, Paralysis & Rehab Specialist",
+      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+      "info": "Dr. Nuzhat Nuery is a Physical Medicine Specialist in Dhaka. Her qualification is MBBS (SSMC), BCS (Health), FCPS (Physical Medicine & Rehabilitation), FIPM (India). She is a Medical Officer at Shaheed Suhrawardy Medical College & Hospital. She regularly provides treatment to her patients at Labaid Diagnostic, Uttara (Unit 02). Practicing hour of Dr. Nuzhat Nuery at Labaid Diagnostic, Uttara (Unit 02) is 5.30pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Uttara (Unit 02)",
+        "address": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
+        "visitingTime": "5.30pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662050"
+      },
+      "id": "294cdac3-f487-492b-a8b6-c50e1fcef7e1"
+    },
+    {
+      "name": "Dr. Syed Ahmad Refaie",
+      "degree": "MBBS, MD (Physical Medicine & Rehabilitation)",
+      "specialty": "Physical Medicine (Arthritis, Pain, Paralysis, Sports Injury) & Rehabilitation Specialist",
+      "workplace": "Brac Healthcare Limited, Kazipara, Mirpur",
+      "info": "Dr. Syed Ahmad Refaie is a qualified Physical Medicine and Rehabilitation consultant. He earned his MBBS degree from Sylhet M.A.G Osmani Medical College followed by an MD in Physical Medicine from Bangladesh Sheikh Mujib Medical University, honing his skills in the specialized domain of physical medicine and rehabilitation. In his role as a Consultant in Physical Medicine, Dr. Refaie is renowned for his compassionate and patient-centric approach. With extensive expertise across diverse medical conditions, he focuses on rehabilitation techniques that improve his patients’ quality of life. Driven by a belief in personalized care, he tailors treatment plans to address the unique needs and aspirations of each individual.",
+      "chamber": {
+        "hospital": "Brac Healthcare Limited, Kazipara, Mirpur",
+        "address": "840, Kazipara, Begum Rokeya Shoroni, Mirpur, Dhaka - 1216",
+        "visitingTime": "8pm to 10pm (Sun, Mon & Wednesday)",
+        "appointmentNumber": "+8809678191911"
+      },
+      "id": "cee19670-9f90-4056-a782-58c542046b1f"
+    },
+    {
+      "name": "Dr. Md. Shakil Younus",
+      "degree": "MBBS (DMC), FCPS (Physical Medicine), DLP (BIRDEM)",
+      "specialty": "Rheumatic Pain, Paralysis, Arthritis, Diabetic, Neuropathy & Medicine Specialist",
+      "workplace": "International Medical College & Hospital, Gazipur",
+      "info": "Dr. Md. Shakil Younus is a Physical Medicine Specialist in Dhaka. His qualification is MBBS (DMC), FCPS (Physical Medicine), DLP (BIRDEM). He is a Assistant Professor & Head of the Department (Physical Medicine & Rehabilitation) at International Medical College & Hospital, Gazipur. He regularly provides treatment to his patients at Labaid Diagnostic, Uttara (Unit 02). Practicing hour of Dr. Md. Shakil Younus at Labaid Diagnostic, Uttara (Unit 02) is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Uttara (Unit 02)",
+        "address": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662050"
+      },
+      "id": "ae23e02f-03ca-46aa-b39f-59d5bec19bd5"
+    }
+  ]
+}

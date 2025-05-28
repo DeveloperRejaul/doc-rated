@@ -1,0 +1,32 @@
+{
+  "doctor": [
+    {
+      "name": "Prof. Dr. Md. Sayedur Rahman",
+      "degree": "MBBS, DA",
+      "specialty": "Anesthesiology (Pain Management) Specialist",
+      "workplace": "Rangpur Community Medical College & Hospital",
+      "info": "Prof. Dr. Md. Sayedur Rahman is a Anesthesiologist in Rangpur. His qualification is MBBS, DA. He is a Professor (Anesthesiology) at Rangpur Community Medical College & Hospital. He regularly provides treatment to his patients at Doctor's Community Hospital, Rangpur. Practicing hour of Prof. Dr. Md. Sayedur Rahman at Doctor's Community Hospital, Rangpur is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Doctor's Community Hospital, Rangpur",
+        "address": "Medical East Gate, Health City Road, Dhap, Rangpur",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801717292458"
+      },
+      "id": "67357672-1bc7-418f-8d84-8e5d134a22c2"
+    },
+    {
+      "name": "Dr. Mutasim Mehedi Masum",
+      "degree": "MBBS, FCPS, DA, FMD, BCS (HEALTH), FIPM (INDIA), CPEM (UK)",
+      "specialty": "Anesthesia, ICU, Pain & Emergency Medicine Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Mutasim Mehedi Masum is a Anesthesiologist in Rangpur. His qualification is MBBS, FCPS, DA, FMD, BCS (HEALTH), FIPM (INDIA), CPEM (UK). He is a Consultant, Anesthesia & ICU at Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Evercare, Rangpur. Practicing hour of Dr. Mutasim Mehedi Masum at Evercare, Rangpur is 3pm to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Evercare, Rangpur",
+        "address": "Evercare Hospital, Rangpur",
+        "visitingTime": "3pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801637363636"
+      },
+      "id": "309ee5c9-04af-49b0-a248-5e156ea152dc"
+    }
+  ]
+}
