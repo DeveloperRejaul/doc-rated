@@ -1,0 +1,18 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. S.M. Parvez Ahmed (Sohel)",
+      "degree": "MBBS, MS (Surgery), MS (Vascular Surgery)",
+      "specialty": "Vascular & Endovascular Surgeon",
+      "workplace": "National Institute of Cardiovascular Diseases & Hospital",
+      "info": "Ibn Sina Medical College Hospital, Kallyanpur\nAddress: 1/1 B, Kallyanpur, Dhaka\nVisiting Hour: 3pm to 6pm (Sat, Mon & Wenesday)\nAppointment: +8801703725590\nCall Now",
+      "chamber": {
+        "hospital": "Aalok Hospital, Mirpur",
+        "address": "Home-1, Road-5, Block-A, Section-6, Dhaka-1216",
+        "visitingTime": "8pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8809678822822"
+      },
+      "id": "469e1183-6cc9-4adc-a2a6-ffaf4c97ad43"
+    }
+  ]
+}

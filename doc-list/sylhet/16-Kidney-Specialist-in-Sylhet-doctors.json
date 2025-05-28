@@ -1,0 +1,130 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Alamgir Chowdhury",
+      "degree": "MBBS, MCPS (Medicine), MD (Nephrology)",
+      "specialty": "Kidney & Medicine Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Alamgir Chowdhury is a Kidney Specialist in Sylhet. His qualification is MBBS, MCPS (Medicine), MD (Nephrology). He is a Associate Professor & Head, Nephrology at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Dr. Alamgir Chowdhury at Mount Adora Hospital, Akhalia, Sylhet is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801713328577"
+      },
+      "id": "3ae81aa2-0fdc-4c68-b681-660bac33f6c9"
+    },
+    {
+      "name": "Dr. Nazmus Saqib",
+      "degree": "MBBS, BCS (Health), MD (Thesis, Nephrology)",
+      "specialty": "Kidney Diseases Specialist",
+      "workplace": "Shahid Shamsuddin Ahmed District Hospital, Sylhet",
+      "info": "Dr. Nazmus Saqib is a Kidney Specialist in Sylhet. His qualification is MBBS, BCS (Health), MD (Thesis, Nephrology). He is a Consultant, Nephrology at Shahid Shamsuddin Ahmed District Hospital, Sylhet. He regularly provides treatment to his patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Dr. Nazmus Saqib at Mount Adora Hospital, Akhalia, Sylhet is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801316172333"
+      },
+      "id": "115855f5-99ce-4ce5-9529-3d900e428d90"
+    },
+    {
+      "name": "Dr. Dhruba Das",
+      "degree": "MBBS (DMC), MD (Nephrology), BSMMU",
+      "specialty": "Kidney & Medicine Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Dhruba Das is a Kidney Specialist in Sylhet. His qualification is MBBS (DMC), MD (Nephrology), BSMMU. He is a Assistant Professor, Nephrology at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Popular Medical Center, Sylhet. Practicing hour of Dr. Dhruba Das at Popular Medical Center, Sylhet is 3pm to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "3pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801765205184"
+      },
+      "id": "7397bfab-31d3-4925-9a1b-02e3f5e253b3"
+    },
+    {
+      "name": "Prof. Dr. Md. Nazmul Islam",
+      "degree": "MBBS, MSc (London)",
+      "specialty": "Kidney Diseases Specialist",
+      "workplace": "North East Medical College & Hospital",
+      "info": "Maraim Ishaque Hospital, Sylhet\nAddress: Al-Fazal Plaza, Sunamgonj Road, Dorshon Dewri, Amberkhana, Sylhet\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8801725-276777\nCall Now",
+      "chamber": {
+        "hospital": "North East Medical College & Hospital",
+        "address": "Gohorpur Road, South Surma, Sylhet - 3100",
+        "visitingTime": "10am to 1.30pm (Sat, Mon, Wed & Thu)",
+        "appointmentNumber": "+8801715944733"
+      },
+      "id": "4067a2d8-9d31-43ab-9a68-1d6e97934ebd"
+    },
+    {
+      "name": "Dr. Shubharthi Kar",
+      "degree": "MBBS (CMC), BCS (Health), MD (Nephrology), BSMMU, Training (AU)",
+      "specialty": "Kidney & Medicine Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Shubharthi Kar is a Kidney Specialist in Sylhet. His qualification is MBBS (CMC), BCS (Health), MD (Nephrology), BSMMU, Training (AU). He is a Assistant Professor, Nephrology at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Mount Adora Hospital, Nayasarak, Sylhet. Practicing hour of Dr. Shubharthi Kar at Mount Adora Hospital, Nayasarak, Sylhet is 5pm to 8pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Nayasarak, Sylhet",
+        "address": "Nayasarak Road, Mirboxtula, Nayasarak, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801776572087"
+      },
+      "id": "1aedb4b6-278e-4878-85f2-49005d84ce30"
+    },
+    {
+      "name": "Dr. Mohammad Saifur Rahman",
+      "degree": "MBBS, BCS (Health), MD (Nephrology)",
+      "specialty": "Kidney Diseases Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Mohammad Saifur Rahman is a Kidney Specialist in Sylhet. His qualification is MBBS, BCS (Health), MD (Nephrology). He is a Assistant Professor, Nephrology at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Popular Medical Center, Sylhet. Practicing hour of Dr. Mohammad Saifur Rahman at Popular Medical Center, Sylhet is 5pm to 8pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801825269089"
+      },
+      "id": "8e8b9213-35c9-4b94-a1a9-558d25032993"
+    },
+    {
+      "name": "Dr. Abdul Latif Renu",
+      "degree": "MBBS, MD (Nephrology)",
+      "specialty": "Kidney Diseases Specialist",
+      "workplace": "Al Haramain Hospital Private Limited, Sylhet",
+      "info": "Dr. Abdul Latif Renu is a Kidney Specialist in Sylhet. His qualification is MBBS, MD (Nephrology). He is a Consultant, Nephrology at Al Haramain Hospital Private Limited, Sylhet. He regularly provides treatment to his patients at Al Haramain Hospital, Sylhet. Practicing hour of Dr. Abdul Latif Renu at Al Haramain Hospital, Sylhet is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Al Haramain Hospital, Sylhet",
+        "address": "Samato-30, Chali Bandar, Bishwa Road, Subhani Ghat, Sylhet",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801931225555"
+      },
+      "id": "9bc01a70-f84e-495f-acc0-537a37157cef"
+    },
+    {
+      "name": "Dr. Md. Saiful Islam",
+      "degree": "MBBS (Dhaka), MD (Nephrology), Member (ISN)",
+      "specialty": "Kidney & Medicine Specialist",
+      "workplace": "Sylhet Womens Medical College & Hospital",
+      "info": "Dr. Md. Saiful Islam is a Kidney Specialist in Sylhet. His qualification is MBBS (Dhaka), MD (Nephrology), Member (ISN). He is a Assistant Professor & Head, Nephrology at Sylhet Womens Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Hospital, Sylhet. Practicing hour of Dr. Md. Saiful Islam at Ibn Sina Hospital, Sylhet is Only Friday.",
+      "chamber": {
+        "hospital": "Ibn Sina Hospital, Sylhet",
+        "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+        "visitingTime": "Only Friday",
+        "appointmentNumber": "+8809610009640"
+      },
+      "id": "92ea336a-9008-416d-9ebc-75648500385d"
+    },
+    {
+      "name": "Dr. Fatema Khanam",
+      "degree": "MBBS (Dhaka), FCPS (Nephrology)",
+      "specialty": "Kidney Diseases Specialist (Nephrologist)",
+      "workplace": "Kidney Foundation Hospital Sylhet",
+      "info": "Mount Adora Hospital, Akhalia, Sylhet\nAddress: Sylhet-Sunamganj Highway, Akhalia, Sylhet – 3100\nVisiting Hour: 6pm to 10pm (Closed: Friday)\nAppointment: +8809610848484\nCall Now",
+      "chamber": {
+        "hospital": "Kidney Foundation Hospital Sylhet",
+        "address": "Nazirer Gaon, Temukhi, New Central Jail Road (Badaghat Road), Ward 38, Sylhet",
+        "visitingTime": "8am to 2pm (Closed: Friday)",
+        "appointmentNumber": "+8801789444958"
+      },
+      "id": "009facbb-c66f-4f22-8a67-5c4560cdf94f"
+    }
+  ]
+}

@@ -24,7 +24,7 @@ async function main () {
     // console.log(doctors.doctor.chittagong.length);
     // console.log(bot.getTotalDoctorsCount());
     //@ts-ignore
-    // bot.modifyAllDoc((doc:Doctor)=>({chamber:{...doc.chamber, appointmentNumber: doc.chamber.appointmentNumber.replace("Call Now","") } }))
+    // bot.modifyAllDoc((doc:Doctor)=>({id: bot.generateUUIDv4() ,...doc,chamber:{...doc.chamber, appointmentNumber: doc.chamber.appointmentNumber.replace("Call Now","") } }))
   } catch (error) {
     console.log(error);
   }

@@ -1,0 +1,354 @@
+{
+  "doctor": [
+    {
+      "name": "Prof. Dr. Ishtiaque Ul Fattah",
+      "degree": "MBBS, MS (ORTHOPEDICS)",
+      "specialty": "Orthopedics (Bone, Joint, Arthritis, Spine, Injury) Specialist & Trauma Surgeon",
+      "workplace": "Parkview Medical College & Hospital",
+      "info": "Prof. Dr. Ishtiaque Ul Fattah is a Orthopedic Surgeon in Sylhet. His qualification is MBBS, MS (ORTHOPEDICS). He is a Former Professor & Head, Ortho Surgery at Parkview Medical College & Hospital. He regularly provides treatment to his patients at Queen's Hospital, Sylhet. Practicing hour of Prof. Dr. Ishtiaque Ul Fattah at Queen's Hospital, Sylhet is 5pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Queen's Hospital, Sylhet",
+        "address": "Subid Bazar, Sylhet - 3100, Bangladesh",
+        "visitingTime": "5pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801318210276"
+      },
+      "id": "f1995304-c80f-4335-9027-a777245a7377"
+    },
+    {
+      "name": "Dr. Shankar Kumar Roy",
+      "degree": "MBBS (CU), MS (Orthopedics)",
+      "specialty": "Bone Joint, Trauma, Orthopedics Specialist & Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Shankar Kumar Roy is a Orthopedic Surgeon in Sylhet. His qualification is MBBS (CU), MS (Orthopedics). He is a Associate Professor & Head, Orthopedics at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic Limited, Sylhet. Practicing hour of Dr. Shankar Kumar Roy at Labaid Diagnostic Limited, Sylhet is 4pm to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic Limited, Sylhet",
+        "address": "House # 362-363, New Medical Road, Kajol Shah, Sylhet",
+        "visitingTime": "4pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662727"
+      },
+      "id": "a0cdf84a-85ce-4027-b0cf-16bfb817e7b8"
+    },
+    {
+      "name": "Dr. Md. Baqi Billah",
+      "degree": "MBBS, BCS (Health), MCPS (Surgery), MS (ORTHO)",
+      "specialty": "Orthopedics, Trauma Arthroscopy, Arthoplasty & Spine Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Md. Baqi Billah is a Orthopedic Surgeon in Sylhet. His qualification is MBBS, BCS (Health), MCPS (Surgery), MS (ORTHO). He is a Assistant Professor, Orthopedics at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Dr. Md. Baqi Billah at Mount Adora Hospital, Akhalia, Sylhet is 3pm to 8pm (Sat, Mon & Wednesday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "3pm to 8pm (Sat, Mon & Wednesday)",
+        "appointmentNumber": "+8801610312200"
+      },
+      "id": "a982b2ef-fa59-4b80-ac2d-791458f9cb65"
+    },
+    {
+      "name": "Prof. Dr. Sumon Mollik",
+      "degree": "MBBS, MS (ORTHO)",
+      "specialty": "Orthopedics & Trauma Specialist Surgeon",
+      "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+      "info": "Prof. Dr. Sumon Mollik is a Orthopedic Surgeon in Sylhet. His qualification is MBBS, MS (ORTHO). He is a Professor, Orthopedics at Jalalabad Ragib-Rabeya Medical College & Hospital. He regularly provides treatment to his patients at Popular Medical Center, Sylhet. Practicing hour of Prof. Dr. Sumon Mollik at Popular Medical Center, Sylhet is 7pm to 10pm (Everyday).",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "7pm to 10pm (Everyday)",
+        "appointmentNumber": "+8801717611118"
+      },
+      "id": "798c3b81-b885-4c05-8b19-f69e3ef8f271"
+    },
+    {
+      "name": "Dr. M. A. Hannan",
+      "degree": "MBBS, BCS (Health), MS (ORTHO), FICS (USA), APSS Spine Fellow (India)",
+      "specialty": "Orthopedics (Bone, Joint, Arthritis, Spine) Specialist Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. M. A. Hannan is a Orthopedic Surgeon in Sylhet. His qualification is MBBS, BCS (Health), MS (ORTHO), FICS (USA), APSS Spine Fellow (India). He is a Consultant, Orthopedics at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Hospital, Sylhet. Practicing hour of Dr. M. A. Hannan at Ibn Sina Hospital, Sylhet is 4pm to 9pm (Sun, Mon, Tue, Wed).",
+      "chamber": {
+        "hospital": "Ibn Sina Hospital, Sylhet",
+        "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+        "visitingTime": "4pm to 9pm (Sun, Mon, Tue, Wed)",
+        "appointmentNumber": "+8809610009640"
+      },
+      "id": "669baa30-6c82-4c7f-9e87-c5871b7a76f1"
+    },
+    {
+      "name": "Prof. Dr. Cyrus Shakiba",
+      "degree": "MBBS, MS (ORTHO)",
+      "specialty": "Orthopedics, Sports Medicine, Arthroscopy, Joint Replacement Surgery Specialist",
+      "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+      "info": "Prof. Dr. Cyrus Shakiba is a Orthopedic Surgeon in Sylhet. His qualification is MBBS, MS (ORTHO). He is a Professor & Head, Orthopedics Surgery at Jalalabad Ragib-Rabeya Medical College & Hospital. He regularly provides treatment to his patients at Popular Medical Center & Hospital, Sylhet. Practicing hour of Prof. Dr. Cyrus Shakiba at Popular Medical Center & Hospital, Sylhet is 4pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Medical Center & Hospital, Sylhet",
+        "address": "Subhanighat, Sylhet",
+        "visitingTime": "4pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801710890539"
+      },
+      "id": "e195e8b2-5605-4baa-aff5-eb65864af0a2"
+    },
+    {
+      "name": "Dr. Syed Mosharraf Hussain",
+      "degree": "MBBS, MS (Ortho Surgery), Member - AO Trauma (Switzerland), Fellow (India)",
+      "specialty": "Orthopedics Specialist & Trauma Surgeon",
+      "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+      "info": "Stadium Market, Sylhet\nAddress: 13, Stadium Market, Rikabi Bazar, Sylhet – 3100\nVisiting Hour: 6pm to 9pm (Closed: Friday)\nAppointment: +8801711376225\nCall Now",
+      "chamber": {
+        "hospital": "Noorjahan Hospital, Sylhet",
+        "address": "Waves 1, Ritz Tower, Dargah Gate, Sylhet - 3100",
+        "visitingTime": "3pm to 6pm (Everyday)",
+        "appointmentNumber": "+8801979005522"
+      },
+      "id": "48e70341-43b7-4171-913e-ac7cc32d09ed"
+    },
+    {
+      "name": "Prof. Dr. Alamgir Adil Samdany",
+      "degree": "MBBS, D-ORTHO, MSC (ORTHO), MRCS (UK), FRCS (UK)",
+      "specialty": "Orthopedics (Bone, Joint, Arthritis, Spine), Arthroscopy & Arthoplasty Surgeon",
+      "workplace": "North East Medical College & Hospital",
+      "info": "North East Medical College & Hospital\nAddress: Gohorpur Road, South Surma, Sylhet – 3100\nVisiting Hour: 11am to 1.30pm (Closed: Friday)\nAppointment: +8801715944733\nCall Now",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "5pm to 9pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801777000815"
+      },
+      "id": "439b0caf-3935-4012-bcb6-f23c90484313"
+    },
+    {
+      "name": "Prof. Dr. M. A. Gaffar",
+      "degree": "MBBS, MS (Orthopedics)",
+      "specialty": "Orthopedics & Trauma Specialist Surgeon",
+      "workplace": "Sylhet Central Dental College, Sylhet",
+      "info": "Prof. Dr. M. A. Gaffar is a Orthopedic Surgeon in Sylhet. His qualification is MBBS, MS (Orthopedics). He is the Principal of Sylhet Central Dental College, Sylhet. He regularly provides treatment to his patients at Trust Medical Services, Sylhet. Practicing hour of Prof. Dr. M. A. Gaffar at Trust Medical Services, Sylhet is 4.30pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Trust Medical Services, Sylhet",
+        "address": "16, Modhushahid, New Medical Road, Sylhet - 3100",
+        "visitingTime": "4.30pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+880821728930"
+      },
+      "id": "dc38122e-3e27-4c3d-984b-315349d697bb"
+    },
+    {
+      "name": "Dr. Chowdhury Foyzur Rob Zubayer",
+      "degree": "MBBS, MS (Orthopedics)",
+      "specialty": "Bone, Joint, Sports Injury Specialist & Ilizarov Surgeon",
+      "workplace": "North East Medical College & Hospital",
+      "info": "Al Haramain Hospital, Sylhet\nAddress: Samato-30, Chali Bandar, Bishwa Road, Subhani Ghat, Sylhet\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8801931225555\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Hospital, Sylhet",
+        "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+        "visitingTime": "6pm to 9pm (Closed: Tuesday & Friday)",
+        "appointmentNumber": "+8809610009640"
+      },
+      "id": "fdb8d9a0-24f8-4d98-94a4-7e9fb74cfdba"
+    },
+    {
+      "name": "Dr. Mohsinuzzaman Khan",
+      "degree": "MBBS, D-ORTHO, MS (ORTHO)",
+      "specialty": "Orthopedics Specialist & Trauma Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Mohsinuzzaman Khan is a Orthopedic Specialist in Sylhet. His qualification is MBBS, D-ORTHO, MS (ORTHO). He is a Consultant, Orthopedics at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic Limited, Sylhet. Practicing hour of Dr. Mohsinuzzaman Khan at Labaid Diagnostic Limited, Sylhet is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic Limited, Sylhet",
+        "address": "House # 362-363, New Medical Road, Kajol Shah, Sylhet",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662727"
+      },
+      "id": "d02e9e23-5715-4162-ac08-5b607ce6d0ba"
+    },
+    {
+      "name": "Dr. Mukul Ranjan Ghosh",
+      "degree": "MBBS, D-ORTHO, MS (ORTHO)",
+      "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist Surgeon",
+      "workplace": "Parkview Medical College & Hospital",
+      "info": "Dr. Mukul Ranjan Ghosh is a Orthopedic Specialist in Sylhet. His qualification is MBBS, D-ORTHO, MS (ORTHO). He is a Associate Professor, Orthopedics at Parkview Medical College & Hospital. He regularly provides treatment to his patients at Popular Medical Center, Sylhet. Practicing hour of Dr. Mukul Ranjan Ghosh at Popular Medical Center, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801716333521"
+      },
+      "id": "4dfae88f-96aa-4fbe-9a8f-c34e7bb416cc"
+    },
+    {
+      "name": "Prof. Col. (Hon.) Dr. Partha Sarathi Shome",
+      "degree": "MBBS, MS (Ortho), FICS",
+      "specialty": "Bone Joint, Trauma, Orthopedics Specialist & Surgeon",
+      "workplace": "Colonel (Hon), Consultant Orthopedic Surgeon,CMH, Jalalabad Cantonment & BGB Sylhet",
+      "info": "",
+      "chamber": {
+        "hospital": "Labaid Diagnostic Limited, Sylhet",
+        "address": "House # 362-363, New Medical Road, Kajol Shah, Sylhet",
+        "visitingTime": "10am to 12pm (Everyday), 4pm to 9pm (Sat to Thu)",
+        "appointmentNumber": "+8801799456656"
+      },
+      "id": "45c96764-7e57-4454-a145-31f32486ecc6"
+    },
+    {
+      "name": "Dr. Syed Abdus Subhan Rahin",
+      "degree": "MBBS, BCS (Health), MS (ORTHO)",
+      "specialty": "Orthopedics (Bone, Joint, Arthritis, Spine, Trauma) Specialist Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Syed Abdus Subhan Rahin is a Orthopedic Surgeon in Sylhet. His qualification is MBBS, BCS (Health), MS (ORTHO). He is a Assistant Professor, Orthopedics at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Hospital, Sylhet. Practicing hour of Dr. Syed Abdus Subhan Rahin at Ibn Sina Hospital, Sylhet is 3pm to 7pm (Everyday).",
+      "chamber": {
+        "hospital": "Ibn Sina Hospital, Sylhet",
+        "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+        "visitingTime": "3pm to 7pm (Everyday)",
+        "appointmentNumber": "+8809610009640"
+      },
+      "id": "a84a1041-8ea4-4345-b544-2a6dbc05bd3d"
+    },
+    {
+      "name": "Dr. Mohammad Musa",
+      "degree": "MBBS, BCS (Health), MS (Orthopedic Surgery)",
+      "specialty": "Orthopedics (Bone, Joint, Trauma) Specialist & Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Mohammad Musa is a Orthopedic Surgeon in Sylhet. His qualification is MBBS, BCS (Health), MS (Orthopedic Surgery). He is a Assistant Professor, Department of Orthopedics at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Popular Medical Center, Sylhet. Practicing hour of Dr. Mohammad Musa at Popular Medical Center, Sylhet is 4pm to 8pm (Closed: Friday & Govt. Holidays).",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "Room 520 (5th Floor), New Medical Road, Kajolshah, Sylhet",
+        "visitingTime": "4pm to 8pm (Closed: Friday & Govt. Holidays)",
+        "appointmentNumber": "+8801920337191"
+      },
+      "id": "9e1b207b-2e46-4c39-aa12-4badd790b14e"
+    },
+    {
+      "name": "Dr. Mirza Osman Beg",
+      "degree": "MBBS, FCPS (ORTHO)",
+      "specialty": "Orthopedics (Bone, Joint, Arthritis, Spine, Trauma) Surgeon",
+      "workplace": "North East Medical College & Hospital",
+      "info": "Dr. Mirza Osman Beg is a Orthopedic Surgeon in Sylhet. His qualification is MBBS, FCPS (ORTHO). He is a Associate Professor, Orthopedics at North East Medical College & Hospital. He regularly provides treatment to his patients at North East Medical College & Hospital. Practicing hour of Dr. Mirza Osman Beg at North East Medical College & Hospital is 10am to 1.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "North East Medical College & Hospital",
+        "address": "Gohorpur Road, South Surma, Sylhet - 3100",
+        "visitingTime": "10am to 1.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801715944733"
+      },
+      "id": "a3bf915e-4289-4b22-99f1-36cdd41bae97"
+    },
+    {
+      "name": "Dr. Mohammad Faruqul Islam",
+      "degree": "MBBS, BCS (Health), MS (ORTHO)",
+      "specialty": "Bone Joint, Trauma, Orthopedics Specialist & Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Mohammad Faruqul Islam is a Orthopedic Specialist in Sylhet. His qualification is MBBS, BCS (Health), MS (ORTHO). He is a Consultant, Orthopedics at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Medinova Medical Services, Sylhet. Practicing hour of Dr. Mohammad Faruqul Islam at Medinova Medical Services, Sylhet is 6pm to 10pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Sylhet",
+        "address": "98, New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "6pm to 10pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801754673017"
+      },
+      "id": "875194ed-f909-4bd5-acb5-a7b68823ca9c"
+    },
+    {
+      "name": "Dr. Syed Mahmud Hasan",
+      "degree": "MBBS, D-ORTHO (VU)",
+      "specialty": "Orthopedics & Trauma Specialist Surgeon",
+      "workplace": "Mount Adora Hospital, Sylhet",
+      "info": "Dr. Syed Mahmud Hasan is a Orthopedic Surgeon in Sylhet. His qualification is MBBS, D-ORTHO (VU). He is a Senior Consultant, Orthopedics at Mount Adora Hospital, Sylhet. He regularly provides treatment to his patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Dr. Syed Mahmud Hasan at Mount Adora Hospital, Akhalia, Sylhet is 11am to 1pm (Closed: Friday) & 5pm to 8pm (Closed: Thursday & Friday) .",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "11am to 1pm (Closed: Friday) & 5pm to 8pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801735849350"
+      },
+      "id": "1177243f-ec63-438e-9f1b-1c22ffbba2f0"
+    },
+    {
+      "name": "Dr. Mirza Omar Beg Probal",
+      "degree": "MBBS (SOMC), MS (ORTHO)",
+      "specialty": "Orthopedics (Bone, Joint, Arthritis, Spine) Specialist Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Mirza Omar Beg Probal is a Orthopedic Surgeon in Sylhet. His qualification is MBBS (SOMC), MS (ORTHO). He is a Consultant, Orthopedics at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Sylhet Trauma Center & Specialized Hospital. Practicing hour of Dr. Mirza Omar Beg Probal at Sylhet Trauma Center & Specialized Hospital is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Sylhet Trauma Center & Specialized Hospital",
+        "address": "Manikpir Road, Charadighirpar, Sylhet (In Front of Manikpir Mazar Gate)",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801777654158"
+      },
+      "id": "34190e92-f84c-4db0-b189-03136be82519"
+    },
+    {
+      "name": "Dr. Abdus Samad",
+      "degree": "MBBS, MS (ORTHO)",
+      "specialty": "Bone, Joint, Orthopedics & Trauma Specialist Surgeon",
+      "workplace": "North East Medical College & Hospital",
+      "info": "Dr. Abdus Samad is a Orthopedic Surgeon in Sylhet. His qualification is MBBS, MS (ORTHO). He is a Assistant Professor, Orthopedic Surgery at North East Medical College & Hospital. He regularly provides treatment to his patients at North East Medical College & Hospital. Practicing hour of Dr. Abdus Samad at North East Medical College & Hospital is 10am to 1.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "North East Medical College & Hospital",
+        "address": "Gohorpur Road, South Surma, Sylhet - 3100",
+        "visitingTime": "10am to 1.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801715944733"
+      },
+      "id": "89932506-2926-4e0f-bf79-d437d02fc432"
+    },
+    {
+      "name": "Dr. Shantanu Dhar Imon",
+      "degree": "MBBS, MS (ORTHO)",
+      "specialty": "Bone Joint Specialist & Orthopedic Surgeon",
+      "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+      "info": "ফ্রি ডাক্তার হেল্পলাইন",
+      "chamber": {
+        "hospital": "Ideal Computerized Diagnostic Center",
+        "address": "Madan Mohan College Road, Rikabi Bazar, Sylhet",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801761333666"
+      },
+      "id": "60e613d7-5da4-4f2f-91c2-2bb24514fbd9"
+    },
+    {
+      "name": "Dr. Md. Mahin",
+      "degree": "MBBS, D-ORTHO",
+      "specialty": "Orthopedics (Bone, Joint, Arthritis, Trauma) Specialist Surgeon",
+      "workplace": "North East Medical College & Hospital",
+      "info": "Dr. Md. Mahin is a Orthopedic Surgeon in Sylhet. His qualification is MBBS, D-ORTHO. He is a Assistant Professor, Orthopedic Surgery at North East Medical College & Hospital. He regularly provides treatment to his patients at North East Medical College & Hospital. Practicing hour of Dr. Md. Mahin at North East Medical College & Hospital is 10am to 1.30pm (Sat, Tue, Wed, Thu).",
+      "chamber": {
+        "hospital": "North East Medical College & Hospital",
+        "address": "Gohorpur Road, South Surma, Sylhet - 3100",
+        "visitingTime": "10am to 1.30pm (Sat, Tue, Wed, Thu)",
+        "appointmentNumber": "+8801715944733"
+      },
+      "id": "9d7ea858-fe81-47fd-8096-b418642c125a"
+    },
+    {
+      "name": "Dr. Bipul Chandra Ghosh",
+      "degree": "MBBS, D-ORTHO, Fellow (AOAF), Fellowship (India)",
+      "specialty": "Orthopedics (Bone, Joint, Arthritis, Trauma) Specialist & Spine Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Bipul Chandra Ghosh is a Orthopedic Surgeon in Sylhet. His qualification is MBBS, D-ORTHO, Fellow (AOAF), Fellowship (India). He is a Resident Surgeon, Orthopedics at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Comfort Medical Services, Sylhet. Practicing hour of Dr. Bipul Chandra Ghosh at Comfort Medical Services, Sylhet is 5pm to 8pm (Closed: Monday & Friday).",
+      "chamber": {
+        "hospital": "Comfort Medical Services, Sylhet",
+        "address": "17, New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Monday & Friday)",
+        "appointmentNumber": "+8801730585050"
+      },
+      "id": "82cb62f3-3ec1-4b5c-a9bd-fc007fa7fd81"
+    },
+    {
+      "name": "Lt. Col. Dr. Suman Kumar Sen",
+      "degree": "MBBS (Dhaka), MS (Orthopedics)",
+      "specialty": "Bone, Joint, Sports Injury Specialist & Trauma Surgeon",
+      "workplace": "Combined Military Hospital, Sylhet",
+      "info": "Lt. Col. Dr. Suman Kumar Sen is a Orthopedic Surgeon in Sylhet. His qualification is MBBS (Dhaka), MS (Orthopedics). He is a Consultant, Orthopedics at Combined Military Hospital, Sylhet. He regularly provides treatment to his patients at Al Haramain Hospital, Sylhet. Practicing hour of Lt. Col. Dr. Suman Kumar Sen at Al Haramain Hospital, Sylhet is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Al Haramain Hospital, Sylhet",
+        "address": "Samato-30, Chali Bandar, Bishwa Road, Subhani Ghat, Sylhet",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801931225555"
+      },
+      "id": "1ff3c5e0-44cf-46c6-a4af-6190db1a0dd1"
+    },
+    {
+      "name": "Prof. Dr. Dipankar Nath Talukder",
+      "degree": "MBBS, MPH, MS (Ortho), FACS, FRCS (Glasgow), FICS (Ortho)",
+      "specialty": "Bone & Joint Specialist, Trauma and Orthopedic Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Prof. Dr. Dipankar Nath Talukder is a Orthopedic Surgeon in Sylhet. His qualification is MBBS, MPH, MS (Ortho), FACS, FRCS (Glasgow), FICS (Ortho). He is a Professor & Former Head of the Dept. of Orthopedic Surgery at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Medinova Medical Services, Sylhet. Practicing hour of Prof. Dr. Dipankar Nath Talukder at Medinova Medical Services, Sylhet is From 9am (Closed: Friday & Saturday).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Sylhet",
+        "address": "98, New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "From 9am (Closed: Friday & Saturday)",
+        "appointmentNumber": "+8801674375782"
+      },
+      "id": "f2e1344b-6222-4484-ace9-8f87fc0b6df8"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "doctor": [
+    {
+      "name": "Prof. Dr. Md. Shahnewaz Chowdhury",
+      "degree": "MBBS, DA (DU), MCPS (Anesthesiology)",
+      "specialty": "Anesthesiology, Pain Management & Critical Care Medicine Specialist",
+      "workplace": "Sylhet Womens Medical College & Hospital",
+      "info": "Prof. Dr. Md. Shahnewaz Chowdhury is a Anesthesiologist in Sylhet. His qualification is MBBS, DA (DU), MCPS (Anesthesiology). He is a Consultant, Anesthesiology at Sylhet Womens Medical College & Hospital. He regularly provides treatment to his patients at Popular Medical Center, Sylhet. Practicing hour of Prof. Dr. Md. Shahnewaz Chowdhury at Popular Medical Center, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801842995065"
+      },
+      "id": "dfa9b325-0d58-48d2-8806-195fc0119a59"
+    },
+    {
+      "name": "Dr. Muhammad Khairul Bashar",
+      "degree": "MBBS, BCS, DA, FIPM (India)",
+      "specialty": "Pain Specialist (Interventional Pain Medicine)",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Al-Raiyan Hospital, Sylhet\nAddress: 129, New Medical Road, Madhushaheed, Sylhet\nVisiting Hour: 4pm to 8pm (Sun, Tue & Thu)\nAppointment: +8801835-424038\nCall Now",
+      "chamber": {
+        "hospital": "Doctors Chamber",
+        "address": "Sattar Mansion (2nd Floor), Ahmmad Khan Road, Gopalganj, Sylhet",
+        "visitingTime": "4pm to 8pm (Sat, Mon & Wednesday)",
+        "appointmentNumber": "+8801719306464"
+      },
+      "id": "d192ef4a-ad48-4e70-ad9a-5c7df55ad121"
+    }
+  ]
+}

@@ -1,0 +1,368 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Monoranjan Sarkar",
+      "degree": "MBBS (Dhaka), MS (Surgery)",
+      "specialty": "General, Laparoscopic & Colorectal (Piles) Surgery Specialist",
+      "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+      "info": "Mother Care Diagnostic Center\nAddress: 1071, Sreemangal Road, Berirpar, Moulovibazar\nVisiting Hour: 5pm to 8pm (Only Thursday)\nAppointment: +8801313735555\nCall Now",
+      "chamber": {
+        "hospital": "Oasis Hospital, Sylhet",
+        "address": "Bishwa Road, Subhanighat, Sylhet Sadar, Sylhet",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801763990044"
+      },
+      "id": "7df4764c-6294-49d0-91cb-535a4a2a54fb"
+    },
+    {
+      "name": "Dr. Choudhury Md. Anwar Sadat",
+      "degree": "MBBS, MS (SURGERY)",
+      "specialty": "Laparoscopic, Colorectal, Breast & General Surgeon",
+      "workplace": "Parkview Medical College & Hospital, Sylhet",
+      "info": "Anwara Hospital Diagnostic & Subfertility Centre\nAddress: Rajanigandha, 18, Nobab Road, Sylhet\nVisiting Hour: 3pm to 5pm (Closed: Friday)\nAppointment: +8801324590607\nCall Now",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "Room - 408 (3rd Floor), New Medical Road, Kajolshah, Sylhet",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801324590607"
+      },
+      "id": "1ee85113-44b6-46ab-a00b-cb40971998c0"
+    },
+    {
+      "name": "Prof. Dr. Parveen Aktar",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "General, Laparoscopic, Breast & Colorectal Surgery Specialist",
+      "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+      "info": "Prof. Dr. Parveen Aktar is a General Surgeon in Sylhet. His qualification is MBBS, FCPS (Surgery). He is a Professor, Surgery at Jalalabad Ragib-Rabeya Medical College & Hospital. He regularly provides treatment to his patients at Popular Medical Center & Hospital, Sylhet. Practicing hour of Prof. Dr. Parveen Aktar at Popular Medical Center & Hospital, Sylhet is 5pm to 8:30pm (Closed: Sat, Thur & Friday).",
+      "chamber": {
+        "hospital": "Popular Medical Center & Hospital, Sylhet",
+        "address": "Subhanighat, Sylhet",
+        "visitingTime": "5pm to 8:30pm (Closed: Sat, Thur & Friday)",
+        "appointmentNumber": "+8801773035138"
+      },
+      "id": "5a2bd7d0-d6fa-431a-8ea8-49e75d40a238"
+    },
+    {
+      "name": "Prof. Dr. D. A. Hassan Chowdhury",
+      "degree": "MBBS, FCPS (Surgery), FRCS (EDIN), FRCS (Glasgow)",
+      "specialty": "General, Laparoscopic & Colorectal (Piles) Surgery Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Prof. Dr. D. A. Hassan Chowdhury (Prof. Dr. Dewan Ali Hassan Chowdhury) is a General Surgeon in Sylhet. His qualification is MBBS, FCPS (Surgery), FRCS (EDIN), FRCS (Glasgow). He is a Professor & Head, Surgery at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Stadium Market, Sylhet. Practicing hour of Prof. Dr. D. A. Hassan Chowdhury at Stadium Market, Sylhet is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Stadium Market, Sylhet",
+        "address": "53, Stadium Market, Rikabi Bazar, Sylhet - 3100",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801711349091"
+      },
+      "id": "3c461a14-7bd8-4cc8-b8ed-d9f410235a4a"
+    },
+    {
+      "name": "Prof. Dr. Shaiek Aziz Chowdhury",
+      "degree": "MBBS (CU), FCPS (Surgery)",
+      "specialty": "Advanced General, Endo-Laparoscopic & Hepatobiliary Surgeon",
+      "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+      "info": "Prof. Dr. Shaiek Aziz Chowdhury is a General Surgeon in Sylhet. His qualification is MBBS (CU), FCPS (Surgery). He is a Professor, Surgery at Jalalabad Ragib-Rabeya Medical College & Hospital. He regularly provides treatment to his patients at Popular Medical Center & Hospital, Sylhet. Practicing hour of Prof. Dr. Shaiek Aziz Chowdhury at Popular Medical Center & Hospital, Sylhet is 5:30pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Medical Center & Hospital, Sylhet",
+        "address": "Subhanighat, Sylhet",
+        "visitingTime": "5:30pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801970135522"
+      },
+      "id": "5e3a5160-4d4f-4963-a829-92d00480623b"
+    },
+    {
+      "name": "Dr. Md. Abdul Mannan",
+      "degree": "MBBS, MCPS (Surgery), FCPS (Surgery), FCPS (Plastic Surgery)",
+      "specialty": "Burn, Trauma, Plastic, Cosmetic, Hand Surgery, Micro Surgery & General Surgery Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Medinova Medical Services, Sylhet\nAddress: 98, New Medical Road, Kajolshah, Sylhet – 3100\nVisiting Hour: 2.30pm to 5pm (Closed: Friday)\nAppointment: +880821710918\nCall Now",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "5pm to 9pm (Sat, Mon & Wednesday)",
+        "appointmentNumber": "+8801737382648"
+      },
+      "id": "465f64c9-7ee3-4b79-aa58-c1bda52a1765"
+    },
+    {
+      "name": "Prof. Dr. Guljar Ahmed",
+      "degree": "MBBS, MS (General Surgery)",
+      "specialty": "General, Laparoscopic & Colorectal Specialist Surgeon",
+      "workplace": "North East Medical College & Hospital",
+      "info": "North East Medical College & Hospital\nAddress: Gohorpur Road, South Surma, Sylhet – 3100\nVisiting Hour: 11am to 1.30pm (Closed: Friday)\nAppointment: +8801715944733\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Hospital, Sylhet",
+        "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+        "visitingTime": "Evening (Closed: Friday)",
+        "appointmentNumber": "+8809610009640"
+      },
+      "id": "c9ba201c-1343-4ebc-9fe2-ee12ab678f5a"
+    },
+    {
+      "name": "Dr. Nurul Quayum Md. Musallin",
+      "degree": "MBBS (CU), FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Surgery Specialist",
+      "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+      "info": "Dr. Nurul Quayum Md. Musallin is a General Surgeon in Sylhet. His qualification is MBBS (CU), FCPS (Surgery). He is a Associate Professor, Surgery at Jalalabad Ragib-Rabeya Medical College & Hospital. He regularly provides treatment to his patients at Stadium Market, Sylhet. Practicing hour of Dr. Nurul Quayum Md. Musallin at Stadium Market, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Stadium Market, Sylhet",
+        "address": "30, Stadium Market, Rikabi Bazar, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801711735766"
+      },
+      "id": "32a83aac-c810-4301-993b-beaf8c0b452a"
+    },
+    {
+      "name": "Dr. Mohammad Abdul Quadir",
+      "degree": "MBBS (CU), BCS (Health), FCPS (Surgery), Fellow (Colorectal Surgery)",
+      "specialty": "General, Colorectal & Laparoscopic Surgery Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Mohammad Abdul Quadir is a General Surgeon in Sylhet. His qualification is MBBS (CU), BCS (Health), FCPS (Surgery), Fellow (Colorectal Surgery). He is a Assistant Professor, Surgery at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Dr. Mohammad Abdul Quadir at Mount Adora Hospital, Akhalia, Sylhet is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801792515959"
+      },
+      "id": "11637082-590a-4f1e-9921-2e75997afd8d"
+    },
+    {
+      "name": "Prof. Dr. Jamal Ahmed Chowdhury",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "General, Colorectal & Laparoscopic Specialist Surgeon",
+      "workplace": "Sylhet Womens Medical College & Hospital",
+      "info": "Prof. Dr. Jamal Ahmed Chowdhury is a General Surgeon in Sylhet. His qualification is MBBS, FCPS (Surgery). He is a Professor & Head, Surgery at Sylhet Womens Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Hospital, Sylhet. Practicing hour of Prof. Dr. Jamal Ahmed Chowdhury at Ibn Sina Hospital, Sylhet is Evening (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Hospital, Sylhet",
+        "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+        "visitingTime": "Evening (Closed: Friday)",
+        "appointmentNumber": "+8809610009640"
+      },
+      "id": "fe2e2f38-facc-4f1d-bb7c-1a7798920c70"
+    },
+    {
+      "name": "Dr. Samiran Chandra Nath",
+      "degree": "MBBS, BCS (Health), MS (General Surgery)",
+      "specialty": "General & Laparoscopic Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Samiran Chandra Nath is a General Surgeon in Sylhet. His qualification is MBBS, BCS (Health), MS (General Surgery). He is a Resident Surgeon, Burn & Plastic Surgery at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Trust Medical Services, Sylhet. Practicing hour of Dr. Samiran Chandra Nath at Trust Medical Services, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Trust Medical Services, Sylhet",
+        "address": "16, Modhushahid, New Medical Road, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+880821728930"
+      },
+      "id": "5cb818b8-1d86-434b-abfe-131a7bb6522e"
+    },
+    {
+      "name": "Dr. Arun Kumar Baishnab",
+      "degree": "MBBS, MS (Surgery)",
+      "specialty": "General & Laparoscopic Surgery Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Arun Kumar Baishnab is a General Surgeon in Sylhet. His qualification is MBBS, MS (Surgery). He is a Assistant Professor, Surgery at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Comfort Medical Services, Sylhet. Practicing hour of Dr. Arun Kumar Baishnab at Comfort Medical Services, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Comfort Medical Services, Sylhet",
+        "address": "17, New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801730585050"
+      },
+      "id": "29f77a33-ee15-458e-9b41-10a10771b71b"
+    },
+    {
+      "name": "Prof. Dr. Mrigen Kumar Das Chowdhury",
+      "degree": "MBBS, FCPS (General Surgery), Fellow Pediatric Surgery (Australia)",
+      "specialty": "General & Pediatric Surgery Specialist",
+      "workplace": "Sylhet Womens Medical College & Hospital",
+      "info": "Mount Adora Hospital, Akhalia, Sylhet\nAddress: Sylhet-Sunamganj Highway, Akhalia, Sylhet – 3100\nVisiting Hour: 10am to 1pm (Closed: Friday)\nAppointment: +8801787134034\nCall Now",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Nayasarak, Sylhet",
+        "address": "Nayasarak Road, Mirboxtula, Nayasarak, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801787134034"
+      },
+      "id": "28358ccb-3b72-4913-8613-93dcea96ad75"
+    },
+    {
+      "name": "Dr. Jahir Ahmed",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Jahir Ahmed is a General Surgeon in Sylhet. His qualification is MBBS, BCS (Health), FCPS (Surgery). He is a Assistant Professor, Surgery at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Hospital, Sylhet. Practicing hour of Dr. Jahir Ahmed at Ibn Sina Hospital, Sylhet is Evening (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Hospital, Sylhet",
+        "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+        "visitingTime": "Evening (Closed: Friday)",
+        "appointmentNumber": "+8809610009640"
+      },
+      "id": "8d5c5c07-a630-4297-87d0-860ddaa11ddd"
+    },
+    {
+      "name": "Dr. Md. Golam Mowla",
+      "degree": "MBBS, MS (Surgery)",
+      "specialty": "General & Laparoscopic Surgeon",
+      "workplace": "Sylhet Womens Medical College & Hospital",
+      "info": "Dr. Md. Golam Mowla is a General Surgeon in Sylhet. His qualification is MBBS, MS (Surgery). He is a Associate Professor, Surgery at Sylhet Womens Medical College & Hospital. He regularly provides treatment to his patients at Mount Adora Hospital, Nayasarak, Sylhet. Practicing hour of Dr. Md. Golam Mowla at Mount Adora Hospital, Nayasarak, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Nayasarak, Sylhet",
+        "address": "Nayasarak Road, Mirboxtula, Nayasarak, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801911528203"
+      },
+      "id": "5394c7a7-c0d5-4552-8625-c564fc4c2469"
+    },
+    {
+      "name": "Dr. M. Khaled Mahmud",
+      "degree": "MBBS (Dhaka), FCPS (Surgery)",
+      "specialty": "Surgery Specialist",
+      "workplace": "Shahid Shamsuddin Ahmed District Hospital, Sylhet",
+      "info": "Dr. M. Khaled Mahmud is a Surgery Specialist in Sylhet. His qualification is MBBS (Dhaka), FCPS (Surgery). He is a Senior Consultant, Surgery at Shahid Shamsuddin Ahmed District Hospital, Sylhet. He regularly provides treatment to his patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Dr. M. Khaled Mahmud at Mount Adora Hospital, Akhalia, Sylhet is 5pm to 8pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801703954012"
+      },
+      "id": "8c2e27e6-6be4-4f43-9ce9-e91dd90f2931"
+    },
+    {
+      "name": "Dr. Md. Mustafizur Rahman",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Md. Mustafizur Rahman is a General Surgeon in Sylhet. His qualification is MBBS, FCPS (Surgery). He is a Associate Professor, Surgery at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Al Haramain Hospital, Sylhet. Practicing hour of Dr. Md. Mustafizur Rahman at Al Haramain Hospital, Sylhet is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Al Haramain Hospital, Sylhet",
+        "address": "Samato-30, Chali Bandar, Bishwa Road, Subhani Ghat, Sylhet",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801931225555"
+      },
+      "id": "713fa455-f2d1-46af-866e-4390328d701c"
+    },
+    {
+      "name": "Dr. Ahmod Nasim Hassan (Lavlu)",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Ahmod Nasim Hassan (Lavlu) is a General Surgeon in Sylhet. His qualification is MBBS, BCS (Health), FCPS (Surgery). He is a General Surgeon, Surgery at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Rikabi Bazar. Practicing hour of Dr. Ahmod Nasim Hassan (Lavlu) at Ibn Sina Diagnostic Center, Rikabi Bazar is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Rikabi Bazar",
+        "address": "New Medical College Road, Rikabi Bazar, Sylhet - 3100",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801708399305"
+      },
+      "id": "ea8ecd06-89f3-4e09-9753-787fb8a90bd4"
+    },
+    {
+      "name": "Dr. Mohammad Jasim Uddin",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Surgery Specialist",
+      "workplace": "North East Medical College & Hospital",
+      "info": "North East Medical College & Hospital\nAddress: Gohorpur Road, South Surma, Sylhet – 3100\nVisiting Hour: 11am to 1.30pm (Closed: Friday)\nAppointment: +8801715944733\nCall Now",
+      "chamber": {
+        "hospital": "Medi-Aid Diagnostic & Consultation Center",
+        "address": "Medical College Road, Modhushohid, Rikabi Bazar, Sylhet - 3100",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801711275902"
+      },
+      "id": "421a61b7-d573-46c0-8cfc-bd3b6458231a"
+    },
+    {
+      "name": "Dr. Showkat Uddin Ahmed",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Surgery Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Showkat Uddin Ahmed is a General Surgeon in Sylhet. His qualification is MBBS, BCS (Health), FCPS (Surgery). He is a Assistant Professor, Dept of Surgery at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Dr. Showkat Uddin Ahmed at Mount Adora Hospital, Akhalia, Sylhet is 3pm to 5pm (Sun, Tue & Thu).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "3pm to 5pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801714561325"
+      },
+      "id": "4c78ee04-3641-4232-8511-51b4ffc70641"
+    },
+    {
+      "name": "Dr. Tapos Singha",
+      "degree": "MBBS, FCPS (General Surgery)",
+      "specialty": "General & Laparoscopic Surgery Specialist",
+      "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+      "info": "Dr. Tapos Singha is a General Surgeon in Sylhet. His qualification is MBBS, FCPS (General Surgery). He is a Surgeon, Surgery at Jalalabad Ragib-Rabeya Medical College & Hospital. He regularly provides treatment to his patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Dr. Tapos Singha at Mount Adora Hospital, Akhalia, Sylhet is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801752361274"
+      },
+      "id": "ba170ba4-9984-4a3e-b464-14a3c4528287"
+    },
+    {
+      "name": "Dr. Ahmad Maksud Hasan Laskar",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Specialist Surgeon",
+      "workplace": "Ibn Sina Hospital Sylhet Limited",
+      "info": "Dr. Ahmad Maksud Hasan Laskar is a General Surgeon in Sylhet. His qualification is MBBS, FCPS (Surgery). He is a Consultant, Surgery at Ibn Sina Hospital Sylhet Limited. He regularly provides treatment to his patients at Ibn Sina Hospital, Sylhet. Practicing hour of Dr. Ahmad Maksud Hasan Laskar at Ibn Sina Hospital, Sylhet is Evening (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Hospital, Sylhet",
+        "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+        "visitingTime": "Evening (Closed: Friday)",
+        "appointmentNumber": "+8809610009640"
+      },
+      "id": "ed4d34fd-5a80-476e-8920-8fec706c4805"
+    },
+    {
+      "name": "Major Dr. Md. Kamruzzaman",
+      "degree": "MBBS, FCPS (Surgery), Special Training in Traumatology (India)",
+      "specialty": "General & Laparoscopic Surgery Specialist",
+      "workplace": "Combined Military Hospital, Sylhet",
+      "info": "Major Dr. Md. Kamruzzaman is a General Surgeon in Sylhet. His qualification is MBBS, FCPS (Surgery), Special Training in Traumatology (India). He is a Head, Surgery at Combined Military Hospital, Sylhet. He regularly provides treatment to his patients at Oasis Hospital, Sylhet. Practicing hour of Major Dr. Md. Kamruzzaman at Oasis Hospital, Sylhet is 6pm to 8pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Oasis Hospital, Sylhet",
+        "address": "Bishwa Road, Subhanighat, Sylhet Sadar, Sylhet - 3100",
+        "visitingTime": "6pm to 8pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801763990044"
+      },
+      "id": "32918d00-2135-426a-92ff-643c6a389ea5"
+    },
+    {
+      "name": "Dr. Reza Ahmad",
+      "degree": "MBBS (DMC), FCPS (Surgery)",
+      "specialty": "General, Laparoscopic & Colorectal Specialist Surgeon",
+      "workplace": "Al Haramain Hospital Private Limited, Sylhet",
+      "info": "Dr. Reza Ahmad is a General Surgeon in Sylhet. His qualification is MBBS (DMC), FCPS (Surgery). He is a Consultant, Surgery at Al Haramain Hospital Private Limited, Sylhet. He regularly provides treatment to his patients at Al Haramain Hospital, Sylhet. Practicing hour of Dr. Reza Ahmad at Al Haramain Hospital, Sylhet is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Al Haramain Hospital, Sylhet",
+        "address": "Samato-30, Chali Bandar, Bishwa Road, Subhani Ghat, Sylhet",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801931225555"
+      },
+      "id": "8535f3e9-f802-44ce-9b43-0ee75609d4b1"
+    },
+    {
+      "name": "Dr. Md. Mazedur Rahman",
+      "degree": "MBBS, MS (General Surgery)",
+      "specialty": "General & Laparoscopic Surgery Specialist",
+      "workplace": "North East Medical College & Hospital",
+      "info": "Dr. Md. Mazedur Rahman is a General Surgeon in Sylhet. His qualification is MBBS, MS (General Surgery). He is a Associate Professor, Surgery at North East Medical College & Hospital. He regularly provides treatment to his patients at North East Medical College & Hospital. Practicing hour of Dr. Md. Mazedur Rahman at North East Medical College & Hospital is 10am to 1.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "North East Medical College & Hospital",
+        "address": "Gohorpur Road, South Surma, Sylhet - 3100",
+        "visitingTime": "10am to 1.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801715944733"
+      },
+      "id": "f005f639-6ad2-4e26-97a0-2cae77183c52"
+    },
+    {
+      "name": "Dr. Mamun Ibn Munim",
+      "degree": "MBBS (SOMC), MS (General Surgery)",
+      "specialty": "General & Laparoscopic Surgery Specialist",
+      "workplace": "North East Medical College & Hospital",
+      "info": "Dr. Mamun Ibn Munim is a General Surgeon in Sylhet. His qualification is MBBS (SOMC), MS (General Surgery). He is a Assistant Professor, Surgery at North East Medical College & Hospital. He regularly provides treatment to his patients at Trust Medical Services, Sylhet. Practicing hour of Dr. Mamun Ibn Munim at Trust Medical Services, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Trust Medical Services, Sylhet",
+        "address": "16, Modhushahid, New Medical Road, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801794261032"
+      },
+      "id": "ed6e0a34-f007-425e-bb66-4bb75bc97be3"
+    }
+  ]
+}

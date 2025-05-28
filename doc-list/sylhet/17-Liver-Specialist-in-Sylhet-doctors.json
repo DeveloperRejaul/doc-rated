@@ -1,0 +1,88 @@
+{
+  "doctor": [
+    {
+      "name": "Prof. Dr. Madhusudan Saha",
+      "degree": "MBBS, MD (Gastroenterology)",
+      "specialty": "Gastroenterology, Liver & Pancreatic Diseases Specialist",
+      "workplace": "North East Medical College & Hospital",
+      "info": "Prof. Dr. Madhusudan Saha is a Gastroenterologist in Sylhet. His qualification is MBBS, MD (Gastroenterology). He is a Professor, Gastroenterology at North East Medical College & Hospital. He regularly provides treatment to his patients at Popular Medical Center, Sylhet. Practicing hour of Prof. Dr. Madhusudan Saha at Popular Medical Center, Sylhet is 3pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801715084078"
+      },
+      "id": "a6f282dd-9ae3-44a3-93e3-c9088f5a68c1"
+    },
+    {
+      "name": "Prof. Dr. Md. Jahangir Alam",
+      "degree": "MBBS, MCPS (Medicine), MD (Gastroenterology)",
+      "specialty": "Medicine, Gastrointentine & Liver Diseases Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Prof. Dr. Md. Jahangir Alam is a Gastroenterologist in Sylhet. His qualification is MBBS, MCPS (Medicine), MD (Gastroenterology). He is a Professor & Head, Gastroenterology at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Trust Medical Services, Sylhet. Practicing hour of Prof. Dr. Md. Jahangir Alam at Trust Medical Services, Sylhet is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Trust Medical Services, Sylhet",
+        "address": "16, Modhushahid, New Medical Road, Sylhet - 3100",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801735849422"
+      },
+      "id": "912e81c6-1ab7-464c-96de-50d9daedb75f"
+    },
+    {
+      "name": "Prof. Dr. Syed Alamgir Safwath",
+      "degree": "MBBS, MCPS (Medicine), MD (Gastroenterology)",
+      "specialty": "Medicine, Liver Diseases , Gastrointestine & Gastroenterology Specialist",
+      "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+      "info": "Prof. Dr. Syed Alamgir Safwath is a Gastroenterologist in Sylhet. His qualification is MBBS, MCPS (Medicine), MD (Gastroenterology). He is a Professor & Head, Gastroenterology at Jalalabad Ragib-Rabeya Medical College & Hospital. He regularly provides treatment to his patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Prof. Dr. Syed Alamgir Safwath at Mount Adora Hospital, Akhalia, Sylhet is 3pm to 8pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "3pm to 8pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801732644475"
+      },
+      "id": "9ff43518-db89-4002-99f1-6eaccc47418e"
+    },
+    {
+      "name": "Prof. Dr. K. M. J. Jaki",
+      "degree": "MBBS, MD (Hepatology)",
+      "specialty": "Liver Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Comfort Medical Services, Sylhet\nAddress: 17, New Medical Road, Kajolshah, Sylhet – 3100\nVisiting Hour: 5pm to 9pm (Closed: Thursday & Friday)\nAppointment: +8801730585050\nCall Now",
+      "chamber": {
+        "hospital": "Labaid Diagnostic Limited, Sylhet",
+        "address": "House # 362-363, New Medical Road, Kajol Shah, Sylhet",
+        "visitingTime": "6pm to 9pm (Closed: Saturday & Friday)",
+        "appointmentNumber": "+8801766662728"
+      },
+      "id": "f4508a68-6e17-4270-b838-32dcac2f764b"
+    },
+    {
+      "name": "Prof. Dr. M. A. Ahbab",
+      "degree": "MBBS, FCPS, MD",
+      "specialty": "Medicine, Liver Diseses & Diabetes Specialist",
+      "workplace": "Sylhet Diabetic Hospital",
+      "info": "Prof. Dr. M. A. Ahbab is a Medicine Specialist in Sylhet. His qualification is MBBS, FCPS, MD. He is a Chief Consultant at Sylhet Diabetic Hospital. He regularly provides treatment to his patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Prof. Dr. M. A. Ahbab at Mount Adora Hospital, Akhalia, Sylhet is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801961013893"
+      },
+      "id": "7cc7a9b1-f312-4cf9-8ae2-54e048183270"
+    },
+    {
+      "name": "Dr Muhammad Razaul Karim",
+      "degree": "MBBS, FCPS (Medicine), MD (Hepatology), MACP( USA)",
+      "specialty": "Gastro-Liver & Medicine Specialist",
+      "workplace": "Bangladesh National Parliament Secretariat Medical Center",
+      "info": "Tanha Health Care Hospital, Shafipur\nAddress: Room 501, Dhaka – Tangail Highway, Shafipur Bazar, Kaliakoir, Gazipur\nVisiting Hour: 4pm to 8pm (Sat, Mon & Wed)\nAppointment: +8801717690460\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Shyamoli",
+        "address": "Room 204, Opposite to Shyamoli Shishu Mela, Babor Road, Mohammadpur, Dhaka",
+        "visitingTime": "8am to 8.50am (Everyday), 3pm to 5pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801717690460"
+      },
+      "id": "b1c940a6-acb4-4957-a73b-5777cbbf5b5f"
+    }
+  ]
+}

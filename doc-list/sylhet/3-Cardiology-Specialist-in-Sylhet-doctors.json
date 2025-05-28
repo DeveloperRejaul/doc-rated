@@ -1,0 +1,508 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Md. Sirajur Rahman Sarwar",
+      "degree": "MBBS (DMC), BCS (Health), MD (Cardiology), FCPS (Final)",
+      "specialty": "Cardiology & Medicine Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Mount Adora Hospital, Akhalia, Sylhet\nAddress: Room 1409, Sylhet-Sunamganj Highway, Akhalia, Sylhet\nVisiting Hour: 5pm to 9pm (Closed: Thu & Friday)\nAppointment: +8801601655913\nCall Now",
+      "chamber": {
+        "hospital": "Greenview Computerized Diagnostic Center",
+        "address": "Behind Mohanogor Hospital, Dorgah Moholla, Sylhet",
+        "visitingTime": "3pm to 4pm (Closed: Friday)",
+        "appointmentNumber": "+8801775495870"
+      },
+      "id": "457157d9-0f25-4b11-b7db-84bb07d9b74a"
+    },
+    {
+      "name": "Prof. Dr. Shishir Basak",
+      "degree": "MBBS (DMC), MCPS (Medicine), D-CARD (DU), MD (Cardiology), MRCP (UK)",
+      "specialty": "Cardiology & Medicine Specialist",
+      "workplace": "Parkview Medical College & Hospital, Sylhet",
+      "info": "প্রতিদিন সকাল ১০:০০ টা হতে টিকিট দেয়া হয়। শুক্রবার, শনিবার ও সরকারি ছুটির দিন বন্ধ। প্রথমে নিচের লিঙ্কে ক্লিক করে ডাক্তারের ওয়েবসাইটে ঢুকুন। তারপর টিকিটের জন্য Appointment Button এ চাপুন। নতুন পেইজটি খোলার পর আপনার নাম, মোবাইল নাম্বার, ঠিকানা, বয়স এনআইডি নাম্বার সহ প্রয়োজনীয় তথ্যগুলো লিখে Book Now এ চাপুন। তারপর আপনার মোবাইলে একটি সিরিয়াল নাম্বার সহ মেসেজ যাবে। ডাক্তারের সাথে সাক্ষ্যাৎ এর সময় অবশ্যই আপনার মোবাইল সাথে থাকতে হবে।\nডাক্তারের ওয়েবসাইট",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "5pm to 10pm (Closed: Sat & Friday)",
+        "appointmentNumber": "+8801726450182"
+      },
+      "id": "c18a23a7-957b-40bc-ad61-3034981bb14c"
+    },
+    {
+      "name": "Prof. Dr. Muhammad Shahabuddin",
+      "degree": "MBBS, MD (Cardiology)",
+      "specialty": "Clinical & Interventional Cardiologist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Prof. Dr. Muhammad Shahabuddin is a Cardiologist in Sylhet. His qualification is MBBS, MD (Cardiology). He is a Professor & Head, Cardiology at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Prof. Dr. Muhammad Shahabuddin at Mount Adora Hospital, Akhalia, Sylhet is 3pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "3pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801715067019"
+      },
+      "id": "ed6afe93-f890-46f8-8dc1-db5fcff5eaa0"
+    },
+    {
+      "name": "Prof. Dr. Ayesha Rafiq Chowdhury",
+      "degree": "MBBS, MRCP (UK), FCPS (Medicine), MD (Cardiology), Fellow (Interventional Cardiology)",
+      "specialty": "Cardiology & Medicine Specialist",
+      "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+      "info": "Prof. Dr. Ayesha Rafiq Chowdhury is a Cardiologist in Sylhet. Her qualification is MBBS, MRCP (UK), FCPS (Medicine), MD (Cardiology), Fellow (Interventional Cardiology). She is a Professor & Head, Cardiology at Jalalabad Ragib-Rabeya Medical College & Hospital. She regularly provides treatment to her patients at Ibn Sina Hospital, Sylhet. Practicing hour of Prof. Dr. Ayesha Rafiq Chowdhury at Ibn Sina Hospital, Sylhet is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Hospital, Sylhet",
+        "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809610009640"
+      },
+      "id": "1c2efbab-41e5-4695-9fe9-21cb88f523ac"
+    },
+    {
+      "name": "Dr. Md. Abdul Goni",
+      "degree": "MBBS (CU), D-CARD (BSMMU), PGT (Medicine & Cardiology)",
+      "specialty": "Cardiology & Child Heart Diseases Specialist",
+      "workplace": "North East Medical College & Hospital",
+      "info": "Dr. Md. Abdul Goni is a Cardiologist in Sylhet. His qualification is MBBS (CU), D-CARD (BSMMU), PGT (Medicine & Cardiology). He is a Associate Professor, Cardiology at North East Medical College & Hospital. He regularly provides treatment to his patients at Noorjahan Hospital, Sylhet. Practicing hour of Dr. Md. Abdul Goni at Noorjahan Hospital, Sylhet is 8pm to 10pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Noorjahan Hospital, Sylhet",
+        "address": "Waves 1, Ritz Tower, Dargah Gate, Sylhet - 3100",
+        "visitingTime": "8pm to 10pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801306448363"
+      },
+      "id": "b0adb34d-127f-4b03-a8bc-024ca73a7568"
+    },
+    {
+      "name": "Prof. Dr. K.M. Akhtaruzzaman",
+      "degree": "MBBS, DCM, MCPS (Medicine), MD (Cardiology)",
+      "specialty": "Cardiology (Heart, Hypertension, Rheumatic Fever) & Medicine Specialist",
+      "workplace": "Sylhet Womens Medical College & Hospital",
+      "info": "Prof. Dr. K.M. Akhtaruzzaman is a Cardiologist in Sylhet. His qualification is MBBS, DCM, MCPS (Medicine), MD (Cardiology). He is a Professor & Head, Cardiology at Sylhet Womens Medical College & Hospital. He regularly provides treatment to his patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Prof. Dr. K.M. Akhtaruzzaman at Mount Adora Hospital, Akhalia, Sylhet is 2pm to 9pm (Closed: Sat & Friday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "2pm to 9pm (Closed: Sat & Friday)",
+        "appointmentNumber": "+8801714000770"
+      },
+      "id": "043b78d6-8cf4-4141-a396-3acc1dd8bef2"
+    },
+    {
+      "name": "Dr. Md. Mokhlesur Rahman",
+      "degree": "MBBS, BCS (Health), MD (Cardiology)",
+      "specialty": "Cardiology (Heart, Hypertension, Rheumatic Fever) Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Trust Medical Services, Sylhet\nAddress: 16, Modhushahid, New Medical Road, Sylhet – 3100\nVisiting Hour: 4pm to 5pm (Closed: Friday)\nAppointment: +8801755275375\nCall Now",
+      "chamber": {
+        "hospital": "Stadium Market, Sylhet",
+        "address": "27, Stadium Market, Rikabi Bazar, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801762233844"
+      },
+      "id": "a77eae27-aa72-4ac5-ab81-cd429d727e6d"
+    },
+    {
+      "name": "Dr. S.M. Habibullah Selim",
+      "degree": "MBBS, MCCP (USA), D-CARD (UK), MD (Cardiology)",
+      "specialty": "Cardiology (Heart, Hypertension, Rheumatic Fever) & Medicine Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. S.M. Habibullah Selim is a Cardiologist in Sylhet. His qualification is MBBS, MCCP (USA), D-CARD (UK), MD (Cardiology). He is a Associate Professor, Cardiology at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Medinova Medical Services, Sylhet. Practicing hour of Dr. S.M. Habibullah Selim at Medinova Medical Services, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Sylhet",
+        "address": "98, New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+880821710918"
+      },
+      "id": "9956fa50-c12f-4b0e-b743-7f55fdadea1c"
+    },
+    {
+      "name": "Prof. Dr. Md. Shah Jamal Hossain",
+      "degree": "MBBS, PhD, MD (Cardiology)",
+      "specialty": "Cardiology, Hypertension, Diabetes & Medicine Specialist",
+      "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+      "info": "Prof. Dr. Md. Shah Jamal Hossain is a Cardiologist in Sylhet. His qualification is MBBS, PhD, MD (Cardiology). He is a Professor, Cardiology at Jalalabad Ragib-Rabeya Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic Limited, Sylhet. Practicing hour of Prof. Dr. Md. Shah Jamal Hossain at Labaid Diagnostic Limited, Sylhet is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic Limited, Sylhet",
+        "address": "House # 362-363, New Medical Road, Kajol Shah, Sylhet",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801745672262"
+      },
+      "id": "959858b2-b5b8-4ac6-b0c4-1c8a0d682634"
+    },
+    {
+      "name": "Dr. Mohammad Iqbal Ahmed",
+      "degree": "MBBS, MD (Cardiology), MBCS (UK), AACC (USA)",
+      "specialty": "Clinical & Interventional Cardiologist",
+      "workplace": "National Heart Foundation Hospital & Research Institute, Sylhet",
+      "info": "Popular Medical Center & Hospital, Sylhet\nAddress: Subhanighat, Sylhet\nVisiting Hour: 3pm to 6pm (Closed: Friday)\nAppointment: +8801773035138\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Hospital, Sylhet",
+        "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809610009640"
+      },
+      "id": "14cb81c3-91b7-450f-875e-ea8e2b57e28e"
+    },
+    {
+      "name": "Dr. Chowdhury Md. Omar Faruque",
+      "degree": "MBBS, BCS (Health), MD (Cardiology), FCPS (Medicine Final Part)",
+      "specialty": "Cardiology & Medicine Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Chowdhury Md. Omar Faruque is a Cardiologist in Sylhet. His qualification is MBBS, BCS (Health), MD (Cardiology), FCPS (Medicine Final Part). He is a Assistant Professor, Cardiology at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Hospital, Sylhet. Practicing hour of Dr. Chowdhury Md. Omar Faruque at Ibn Sina Hospital, Sylhet is Evening (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Hospital, Sylhet",
+        "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+        "visitingTime": "Evening (Closed: Friday)",
+        "appointmentNumber": "+8809610009640"
+      },
+      "id": "901d3c48-d772-49b2-b06d-7362b4fa86db"
+    },
+    {
+      "name": "Dr. Farzana Tazin",
+      "degree": "MBBS, FCPS (Cardiology)",
+      "specialty": "Cardiology & Rheumatic Fever Specialist",
+      "workplace": "National Heart Foundation Hospital, Sylhet",
+      "info": "Dr. Farzana Tazin is a Cardiologist in Sylhet. Her qualification is MBBS, FCPS (Cardiology). She is a Senior Consultant at National Heart Foundation Hospital, Sylhet. She regularly provides treatment to her patients at National Heart Foundation Hospital, Sylhet. Practicing hour of Dr. Farzana Tazin at National Heart Foundation Hospital, Sylhet is 9am to 3pm & 6pm to 9pm.",
+      "chamber": {
+        "hospital": "National Heart Foundation Hospital, Sylhet",
+        "address": "Tilagor Road, East Shahi Eidgah, Sylhet, Bangladesh",
+        "visitingTime": "9am to 3pm & 6pm to 9pm",
+        "appointmentNumber": "+8801787487117"
+      },
+      "id": "04b24d0b-a4fc-4d3d-9902-05b2c7bad8b1"
+    },
+    {
+      "name": "Dr. Debashish Paul",
+      "degree": "MBBS, MD (Cardiology), Training in Echocardiography (India)",
+      "specialty": "Cardiology & Medicine Specialist",
+      "workplace": "Sylhet Womens Medical College & Hospital",
+      "info": "Icon Medical Services, Moulvibazar\nAddress: Bebir Par, Sreemangal Road, Moulvibazar Sadar, Moulvibazar\nVisiting Hour: 10.30am to 4pm (Only Friday)\nAppointment: +8801731399110\nCall Now",
+      "chamber": {
+        "hospital": "Trust Medical Services, Sylhet",
+        "address": "16, Modhushahid, New Medical Road, Sylhet - 3100",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801746727154"
+      },
+      "id": "7cf02cae-3171-480d-9260-a5d80c2c4774"
+    },
+    {
+      "name": "Dr. Mohammed Kamal Hossain Ovi",
+      "degree": "MBBS (SOMCH), BCS (Health), MD (Cardiology) BSMMU",
+      "specialty": "Heart Diseases & Medicine Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Mohammed Kamal Hossain Ovi is a Cardiologist in Sylhet. His qualification is MBBS (SOMCH), BCS (Health), MD (Cardiology) BSMMU. He is a Cardiologist, Cardiology at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Dr. Mohammed Kamal Hossain Ovi at Mount Adora Hospital, Akhalia, Sylhet is 5pm to 9pm (Closed: Tues & Friday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Room - 1415, Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "5pm to 9pm (Closed: Tues & Friday)",
+        "appointmentNumber": "+8801326543163"
+      },
+      "id": "c5db3fe3-1394-43e7-97db-de88aa8679bd"
+    },
+    {
+      "name": "Dr. Md. Nurul Afsar Badrul",
+      "degree": "MBBS, MS (Cardiology), D-CARD, FESC (UK), FACC (USA), PhD (Diabetes)",
+      "specialty": "Cardiology, Medicine & Diabetes Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "North East Medical College & Hospital\nAddress: Gohorpur Road, South Surma, Sylhet – 3100\nVisiting Hour: 10am to 1.30pm (Closed: Friday)\nAppointment: +8801715944733\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Rikabi Bazar",
+        "address": "New Medical College Road, Rikabi Bazar, Sylhet - 3100",
+        "visitingTime": "1pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801708399305"
+      },
+      "id": "29a4d3d5-4d7a-434d-aee9-40ed558602dd"
+    },
+    {
+      "name": "Dr. Ajoy Kumar Dutta",
+      "degree": "MBBS, MD (Cardiology), NICVD",
+      "specialty": "Cardiology, Hypertension & Rheumatic Fever Specialist",
+      "workplace": "Al Haramain Hospital Private Limited, Sylhet",
+      "info": "Mount Adora Hospital, Akhalia, Sylhet\nAddress: Sylhet-Sunamganj Highway, Akhalia, Sylhet – 3100\nVisiting Hour: 5pm to 9pm (Closed: Thursday & Friday)\nAppointment: +8801765885907\nCall Now",
+      "chamber": {
+        "hospital": "Al Haramain Hospital, Sylhet",
+        "address": "Samato-30, Chali Bandar, Bishwa Road, Subhani Ghat, Sylhet",
+        "visitingTime": "5pm to 9pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801931225555"
+      },
+      "id": "fb86be6b-d725-4133-81fd-655849b431fe"
+    },
+    {
+      "name": "Dr. G. M. Mohiuddin",
+      "degree": "MBBS, MD (Cardiology)",
+      "specialty": "Cardiology (Heart Diseases, Hypertension, Rheumatic Fever) Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. G. M. Mohiuddin is a Cardiologist in Sylhet. His qualification is MBBS, MD (Cardiology). He is a Assistant Professor, Cardiology at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Popular Medical Center, Sylhet. Practicing hour of Dr. G. M. Mohiuddin at Popular Medical Center, Sylhet is 3pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "3pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801624634816"
+      },
+      "id": "4b62385c-3859-41a5-93c6-c672d40eddc9"
+    },
+    {
+      "name": "Dr. Hironmoy Das",
+      "degree": "MBBS (Dhaka), MD (Cardiology), BSMMU",
+      "specialty": "Cardiology & Medicine Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Hironmoy Das is a Cardiologist in Sylhet. His qualification is MBBS (Dhaka), MD (Cardiology), BSMMU. He is a Assistant Professor, Cardiology at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Popular Medical Center, Sylhet. Practicing hour of Dr. Hironmoy Das at Popular Medical Center, Sylhet is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801749937601"
+      },
+      "id": "3abd6f2a-e857-4252-8b88-6e7c61b18aad"
+    },
+    {
+      "name": "Dr. Md. Azizur Rahman Roman",
+      "degree": "MBBS, BCS (Health), MD (Cardiology), FSCAI, Fellow (China)",
+      "specialty": "Cardiology & Heart Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Md. Azizur Rahman Roman is a Cardiologist in Sylhet. His qualification is MBBS, BCS (Health), MD (Cardiology), FSCAI, Fellow (China). He is a Assistant Professor, Cardiology at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Dr. Md. Azizur Rahman Roman at Mount Adora Hospital, Akhalia, Sylhet is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801761666912"
+      },
+      "id": "733ae5ac-e16a-473f-9c0b-03a1bfaaac81"
+    },
+    {
+      "name": "Prof. Dr. Md. Faruque Uddin",
+      "degree": "MBBS, D-CARD, MD (Cardiology)",
+      "specialty": "Cardiology, Hypertension & Rheumatic Fever Specialist",
+      "workplace": "North East Medical College & Hospital",
+      "info": "North East Medical College & Hospital\nAddress: Gohorpur Road, South Surma, Sylhet – 3100\nVisiting Hour: 11am to 1.30pm (Closed: Friday)\nAppointment: +8801715944733\nCall Now",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801711462103"
+      },
+      "id": "14d87acc-b13d-492f-b809-ee83609a463b"
+    },
+    {
+      "name": "Dr. Mahbub Alam Jibon",
+      "degree": "MBBS, BCS (Health), MD (Cardiology), NICVD",
+      "specialty": "Cardiology Specialist",
+      "workplace": "Ibn Sina Hospital Sylhet Limited",
+      "info": "Dr. Mahbub Alam Jibon is a Cardiologist in Sylhet. His qualification is MBBS, BCS (Health), MD (Cardiology), NICVD. He is a Consultant, Cardiology at Ibn Sina Hospital Sylhet Limited. He regularly provides treatment to his patients at Ibn Sina Hospital, Sylhet. Practicing hour of Dr. Mahbub Alam Jibon at Ibn Sina Hospital, Sylhet is 5.30pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Hospital, Sylhet",
+        "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+        "visitingTime": "5.30pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809610009640"
+      },
+      "id": "1b339253-49da-4b7c-ad15-0b493d6cf559"
+    },
+    {
+      "name": "Dr. Sudarshan Sen",
+      "degree": "MBBS (CU), CCD (BIRDEM), FRCH (UK), PGT (Cardiology), FCPS (Medicine)",
+      "specialty": "Medicine & Cardiology Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Sudarshan Sen is a Medicine Specialist in Sylhet. His qualification is MBBS (CU), CCD (BIRDEM), FRCH (UK), PGT (Cardiology), FCPS (Medicine). He is a Consultant, Medicine at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Stadium Market, Sylhet. Practicing hour of Dr. Sudarshan Sen at Stadium Market, Sylhet is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Stadium Market, Sylhet",
+        "address": "19, Stadium Market, Lamabazar Road, Rikabi Bazar, Sylhet",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801712246504"
+      },
+      "id": "7420ad4c-f755-45d1-ba92-665249d15a4f"
+    },
+    {
+      "name": "Dr. Choudhury Gulshan Ara Kamal Lipa",
+      "degree": "MBBS (SOMC), BCS (Health), MD (Cardiology - BSMMU)",
+      "specialty": "Cardiology & Medicine Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Mount Adora Hospital, Akhalia, SylhetAddress: Sylhet-Sunamganj Highway, Akhalia, Sylhet – 3100Visiting Hour: 5pm to 8:30pm (Closed: Friday)Appointment: +8801715067019Call Now",
+      "chamber": {
+        "hospital": "Trust Medical Services, Sylhet",
+        "address": "16, Modhushahid, New Medical Road, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday & Saturday)",
+        "appointmentNumber": "+8801739067376"
+      },
+      "id": "1170faa6-bd63-4d9e-b5e3-a5537f841475"
+    },
+    {
+      "name": "Dr. Md. Mosharul Haque",
+      "degree": "MBBS, BCS (Health), D-CARD (NICVD), MD (Cardiology)",
+      "specialty": "Cardiology & Medicine Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Md. Mosharul Haque is a Cardiologist in Sylhet. His qualification is MBBS, BCS (Health), D-CARD (NICVD), MD (Cardiology). He is a Assistant Professor, Cardiology at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Mount Adora Hospital, Nayasarak, Sylhet. Practicing hour of Dr. Md. Mosharul Haque at Mount Adora Hospital, Nayasarak, Sylhet is 3pm to 7pm (Sat, Mon, Wed & Thursday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Nayasarak, Sylhet",
+        "address": "Nayasarak Road, Mirboxtula, Nayasarak, Sylhet - 3100",
+        "visitingTime": "3pm to 7pm (Sat, Mon, Wed & Thursday)",
+        "appointmentNumber": "+88 01718973110"
+      },
+      "id": "45978c00-a51f-4a39-ba7f-eec857783bec"
+    },
+    {
+      "name": "Dr. Md. Anamur Rahman",
+      "degree": "MBBS, BCS (Health), MD (Cardiology)",
+      "specialty": "Cardiology (Heart Diseases, Hypertension, Rheumatic Fever) Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "National Diagnostic Center, Sylhet\nAddress: 33, Arnob Mirer Moydan Point, Polica Line, Sylhet\nVisiting Hour: 3pm to 5pm (Closed: Friday)\nAppointment: +8801737321777\nCall Now",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Nayasarak, Sylhet",
+        "address": "Nayasarak Road, Mirboxtula, Nayasarak, Sylhet - 3100",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801972091261"
+      },
+      "id": "7e84cfc2-e9d8-479e-b1f6-a9a03d2611b0"
+    },
+    {
+      "name": "Dr. Md. Suhail Alam",
+      "degree": "MBBS, MD (Cardiology, BSMMU)",
+      "specialty": "Cardiology, Heart Diseases & Rheumatic Fever Specialist",
+      "workplace": "Al Haramain Hospital Private Limited, Sylhet",
+      "info": "Dr. Md. Suhail Alam is a Cardiologist in Sylhet. His qualification is MBBS, MD (Cardiology, BSMMU). He is a Consultant, Cardiology at Al Haramain Hospital Private Limited, Sylhet. He regularly provides treatment to his patients at Al Haramain Hospital, Sylhet. Practicing hour of Dr. Md. Suhail Alam at Al Haramain Hospital, Sylhet is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Al Haramain Hospital, Sylhet",
+        "address": "Samato-30, Chali Bandar, Bishwa Road, Subhani Ghat, Sylhet",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801931225555"
+      },
+      "id": "9d4ede8d-1aba-41dc-9f4a-75326e44c223"
+    },
+    {
+      "name": "Dr. Tanvir Hossain Chowdhury",
+      "degree": "MBBS, D-CARD, CCD (BIRDEM)",
+      "specialty": "Cardiology (Heart Diseases, Hypertension & Diabetes) Specialist",
+      "workplace": "North East Medical College & Hospital",
+      "info": "Dr. Tanvir Hossain Chowdhury is a Cardiologist in Sylhet. His qualification is MBBS, D-CARD, CCD (BIRDEM). He is a Consultant, Cardiology at North East Medical College & Hospital. He regularly provides treatment to his patients at Noorjahan Hospital, Sylhet. Practicing hour of Dr. Tanvir Hossain Chowdhury at Noorjahan Hospital, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Noorjahan Hospital, Sylhet",
+        "address": "Waves 1, Ritz Tower, Dargah Gate, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801979005522"
+      },
+      "id": "e6790389-a1a6-4790-b9a2-60efbb4055d4"
+    },
+    {
+      "name": "Dr. Saleh Ahmed Tahlil",
+      "degree": "MBBS, MSc (Cardiology, UK), Higher Training (UK)",
+      "specialty": "Cardiology & Medicine Specialist",
+      "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+      "info": "Dr. Saleh Ahmed Tahlil is a Cardiologist in Sylhet. His qualification is MBBS, MSc (Cardiology, UK), Higher Training (UK). He is a Assistant Professor, Cardiology at Jalalabad Ragib-Rabeya Medical College & Hospital. He regularly provides treatment to his patients at Oasis Hospital, Sylhet. Practicing hour of Dr. Saleh Ahmed Tahlil at Oasis Hospital, Sylhet is 4pm to 8pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Oasis Hospital, Sylhet",
+        "address": "Bishwa Road, Subhanighat, Sylhet Sadar, Sylhet - 3100",
+        "visitingTime": "4pm to 8pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801763990044"
+      },
+      "id": "c3585b4e-350b-4c89-a43f-a0c72136043a"
+    },
+    {
+      "name": "Dr. Sulaiman Ahmed",
+      "degree": "MBBS, MSc (Cardiology, UK), Higher Training (UK)",
+      "specialty": "Cardiology & Medicine Specialist",
+      "workplace": "Oasis Hospital, Sylhet",
+      "info": "Dr. Sulaiman Ahmed is a Cardiologist in Sylhet. His qualification is MBBS, MSc (Cardiology, UK), Higher Training (UK). He is a Consultant, Cardiology at Oasis Hospital, Sylhet. He regularly provides treatment to his patients at Oasis Hospital, Sylhet. Practicing hour of Dr. Sulaiman Ahmed at Oasis Hospital, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Oasis Hospital, Sylhet",
+        "address": "Bishwa Road, Subhanighat, Sylhet Sadar, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801763990044"
+      },
+      "id": "f375226c-613d-4c77-be88-187d50a2b7f5"
+    },
+    {
+      "name": "Dr. Md. Fakhrul Islam",
+      "degree": "MBBS, BCS (Health), MD (Cardiology)",
+      "specialty": "Cardiology Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Md. Fakhrul Islam is a Cardiologist in Sylhet. His qualification is MBBS, BCS (Health), MD (Cardiology). He is a Consultant, Cardiology at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Medi-Aid Diagnostic & Consultation Center. Practicing hour of Dr. Md. Fakhrul Islam at Medi-Aid Diagnostic & Consultation Center is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medi-Aid Diagnostic & Consultation Center",
+        "address": "Medical College Road, Modhushohid, Rikabi Bazar, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801711275902"
+      },
+      "id": "d6349c22-7ad8-4007-8da0-a8c8e5343023"
+    },
+    {
+      "name": "Dr. Md. Sharif Uddin",
+      "degree": "MBBS, D-CARD, CCD, MACC",
+      "specialty": "Heart Diseases, Medicine & Diabetes Specialist",
+      "workplace": "North East Medical College & Hospital",
+      "info": "Dr. Md. Sharif Uddin is a Cardiologist in Sylhet. His qualification is MBBS, D-CARD, CCD, MACC. He is a Assistant Professor, Cardiology at North East Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic Limited, Sylhet. Practicing hour of Dr. Md. Sharif Uddin at Labaid Diagnostic Limited, Sylhet is 5pm to 8pm (Sun, Mon & Tue).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic Limited, Sylhet",
+        "address": "House # 362-363, New Medical Road, Kajol Shah, Sylhet",
+        "visitingTime": "5pm to 8pm (Sun, Mon & Tue)",
+        "appointmentNumber": "+8801927867934"
+      },
+      "id": "55ffc223-e9f0-4e92-97d5-9d1ade59b424"
+    },
+    {
+      "name": "Dr. Mohammad Abdullah",
+      "degree": "MBBS, BCS (health), MACP, MD (Cardiology)",
+      "specialty": "Cardiology & Medicine Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Mohammad Abdullah is a Cardiologist in Sylhet. His qualification is MBBS, BCS (health), MACP, MD (Cardiology). He is a Consultant (Cardiology) at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic Limited, Sylhet. Practicing hour of Dr. Mohammad Abdullah at Labaid Diagnostic Limited, Sylhet is 4pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic Limited, Sylhet",
+        "address": "House # 362-363, New Medical Road, Kajol Shah, Sylhet",
+        "visitingTime": "4pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801611402872"
+      },
+      "id": "d786ce2f-a646-49ff-aaf5-3b6955b86672"
+    },
+    {
+      "name": "Dr. Koushik Majumder",
+      "degree": "MBBS, MD (Cardiology)",
+      "specialty": "Cardiology (Heart Diseases, Hypertension) Specialist",
+      "workplace": "National Heart Foundation Hospital, Sylhet",
+      "info": "Dr. Koushik Majumder is a Cardiologist in Sylhet. His qualification is MBBS, MD (Cardiology). He is a Senior Consultant at National Heart Foundation Hospital, Sylhet. He regularly provides treatment to his patients at National Heart Foundation Hospital, Sylhet. Practicing hour of Dr. Koushik Majumder at National Heart Foundation Hospital, Sylhet is 9am to 3pm & 6pm to 9pm.",
+      "chamber": {
+        "hospital": "National Heart Foundation Hospital, Sylhet",
+        "address": "Tilagor Road, East Shahi Eidgah, Sylhet, Bangladesh",
+        "visitingTime": "9am to 3pm & 6pm to 9pm",
+        "appointmentNumber": "+8801787487117"
+      },
+      "id": "f596ca51-ded9-4982-9d0c-3b4374a6d3e7"
+    },
+    {
+      "name": "Dr. Rajib Das",
+      "degree": "MBBS, MD (Cardiology)",
+      "specialty": "Clinical & Interventional Cardiologist",
+      "workplace": "National Heart Foundation Hospital, Sylhet",
+      "info": "Dr. Rajib Das is a Cardiologist in Sylhet. His qualification is MBBS, MD (Cardiology). He is a Senior Consultant at National Heart Foundation Hospital, Sylhet. He regularly provides treatment to his patients at National Heart Foundation Hospital, Sylhet. Practicing hour of Dr. Rajib Das at National Heart Foundation Hospital, Sylhet is 9am to 3pm & 6pm to 9pm.",
+      "chamber": {
+        "hospital": "National Heart Foundation Hospital, Sylhet",
+        "address": "Tilagor Road, East Shahi Eidgah, Sylhet, Bangladesh",
+        "visitingTime": "9am to 3pm & 6pm to 9pm",
+        "appointmentNumber": "+8801787487117"
+      },
+      "id": "8f887768-e2b7-44f5-b880-5976fbda777c"
+    },
+    {
+      "name": "Prof. Dr. Sudhanshu Ranjan Dey",
+      "degree": "MBBS, MD (Cardiology), MCSI, FESC, FACC (USA)",
+      "specialty": "Cardiology (Heart Diseases, Hypertension, Rheumatic Fever) Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Medinova Medical Services, Sylhet\nAddress: 98, New Medical Road, Kajolshah, Sylhet – 3100\nVisiting Hour: 5pm to 10pm (Closed: Friday)\nAppointment: +880821710918\nCall Now",
+      "chamber": {
+        "hospital": "National Heart Foundation Hospital, Sylhet",
+        "address": "Tilagor Road, East Shahi Eidgah, Sylhet, Bangladesh",
+        "visitingTime": "11am to 2pm (Closed: Friday)",
+        "appointmentNumber": "+8801787487117"
+      },
+      "id": "6a6824c3-257f-4e39-a655-cfbb99828586"
+    },
+    {
+      "name": "Prof. Dr. Md. Aminur Rahman Laskar",
+      "degree": "MBBS, D-CARD (DU)",
+      "specialty": "Cardiology (Heart Diseases, Hypertension) Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Mount Adora Hospital, Akhalia, Sylhet\nAddress: Sylhet-Sunamganj Highway, Akhalia, Sylhet – 3100\nVisiting Hour: 5pm to 8pm (Closed: Friday)\nAppointment: +8801683-521710\nCall Now",
+      "chamber": {
+        "hospital": "National Heart Foundation Hospital, Sylhet",
+        "address": "Tilagor Road, East Shahi Eidgah, Sylhet, Bangladesh",
+        "visitingTime": "10am to 2pm (Closed: Friday)",
+        "appointmentNumber": "+8801787487117"
+      },
+      "id": "254b4016-ab2f-4024-a2b4-29b121184328"
+    }
+  ]
+}
