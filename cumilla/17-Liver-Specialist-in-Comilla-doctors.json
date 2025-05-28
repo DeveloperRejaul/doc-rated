@@ -1,0 +1,69 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Mohammad Izazul Hoque",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Hepatology)",
+      "specialty": "Liver Diseases & Medicine Specialist",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Mohammad Izazul Hoque is a Liver Specialist in Comilla. His qualification is MBBS, BCS (Health), FCPS (Medicine), MD (Hepatology). He is a Associate Professor & Head, Hepatology at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Moon Hospital, Comilla. Practicing hour of Dr. Mohammad Izazul Hoque at Moon Hospital, Comilla is 3pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Moon Hospital, Comilla",
+        "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801815004681 Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Belalul Islam",
+      "degree": "MBBS, FCPS (Medicine), MD (Hepatology)",
+      "specialty": "Liver Diseases Specialist",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Md. Belalul Islam is a Liver Specialist in Comilla. His qualification is MBBS, FCPS (Medicine), MD (Hepatology). He is a Associate Professor, Hepatology at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Cumilla Medical Center Pvt. Ltd. (Tower Hospital). Practicing hour of Dr. Md. Belalul Islam at Cumilla Medical Center Pvt. Ltd. (Tower Hospital) is 3pm to 9pm (Sat to Thu) & 9am to 3pm (Fri).",
+      "chamber": {
+        "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+        "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+        "visitingTime": "3pm to 9pm (Sat to Thu) & 9am to 3pm (Fri)",
+        "appointmentNumber": "+8801711144786Call Now"
+      }
+    },
+    {
+      "name": "Dr. Dalil Uddin",
+      "degree": "MBBS, BCS (Health), MD (Hepatology)",
+      "specialty": "Liver, Gastrointestine Diseases Specialist & Endoscopist",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Ibn Sina Diagnostic Center, Comilla\nAddress: House # 29, Kotbari Road, Tomsom Bridge, Cumilla\nVisiting Hour: 12pm to 1pm (Closed: Friday)\nAppointment: +8801841212275\nCall Now",
+      "chamber": {
+        "hospital": "Comilla Trauma Center",
+        "address": "511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla",
+        "visitingTime": "2.30pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809612808182Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Forhad Abedin",
+      "degree": "MBBS, FCPS (MEDICINE), FRCP (GLASGOW)",
+      "specialty": "Liver Diseases, Medicine, Transplant & Liver Cancer Specialist",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Md. Forhad Abedin is a highly qualified Liver Diseases, Medicine, Transplant & Liver Cancer Specialist in Cumilla, holding an MBBS, FCPS (Medicine), and FRCP (Glasgow), along with a Post Doctoral Fellowship in Transplant Hepatology from Rela Hospital, Chennai, India. He currently serves as an Assistant Professor of Hepatology at Cumilla Medical College & Hospital. Dr. Abedin specializes in treating liver cirrhosis, hepatitis B and C, fatty liver disease, liver cancer, portal hypertension, ascites, jaundice, and complex hepatobiliary disorders. He provides consultations at Moon Hospital, Cumilla, located at Shahid Khawaja Nizamuddin Road, Jhautola, from 2pm to 8pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Moon Hospital, Comilla",
+        "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
+        "visitingTime": "2pm to 8pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801894853897Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Kamrul Millat",
+      "degree": "MBBS, BCS (Health), MD (Hepatology)",
+      "specialty": "Liver Diseases Specialist",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Md. Kamrul Millat is a Liver Specialist in Comilla. His qualification is MBBS, BCS (Health), MD (Hepatology). He is a Consultant, Hepatology at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Comilla. Practicing hour of Dr. Md. Kamrul Millat at Ibn Sina Diagnostic Center, Comilla is 5pm to 8pm (Mon & Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Comilla",
+        "address": "House # 29, Kotbari Road, Tomsom Bridge, Cumilla",
+        "visitingTime": "5pm to 8pm (Mon & Friday)",
+        "appointmentNumber": "+8801841212275Call Now"
+      }
+    }
+  ]
+}

@@ -1,0 +1,550 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Mir Habibur Rahman",
+      "degree": "BSc, BDS (Dhaka), FICD",
+      "specialty": "Oral & Dental Surgeon with Special Interest on Third Molar Surgery, Root Canal Treatment",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Mir Habibur Rahman is a senior dental surgeon of Chattogram with more than 50 years of experience in the field of dentistry. He obtained the prestigious Fellowship from International College of Dentists(USA). His qualification is BSc, BDS (Dhaka). He was a Former Head in the Department of Dentistry of Chittagong Medical College & Hospital. He is skilled at difficult tooth extractions, surgery of wisdom teeth, root canal treatment and general and cosmetic dental procedures. He provides high quality and international standard treatment to his patients at Habib Dental. Practicing hour of Dr. Mir Habibur Rahman at Habib Dental is 4.30pm to 8pm (Closed: Friday)",
+      "chamber": {
+        "hospital": "Habib Dental",
+        "address": "CPDL Majesta (Above EBL Bank), 84 Jamal Khan Road, Chittagong",
+        "visitingTime": "4.30pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8802333365839 (after 4pm) 01319046299Call Now"
+      }
+    },
+    {
+      "name": "Dr. Abdur Rahim",
+      "degree": "BDS (Chittagong Medical College), PGT, MPH",
+      "specialty": "Oral & Dental Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Premium Dental Surgery\nAddress: G-52, Road-01, CDA, Colonel Hat, Chittagong\nVisiting Hour: 4pm to 10pm (Sat, Mon & Wednesday)\nAppointment: +8801835-117344, 01620581593\nCall Now",
+      "chamber": {
+        "hospital": "Hena Dental Care",
+        "address": "House-39, Road -05, Panchlaish R/A (Opposite to Chevron)",
+        "visitingTime": "4pm to 10pm (Sun, Tue & Thursday)",
+        "appointmentNumber": "+8801878-900190, +8801620581593Call Now"
+      }
+    },
+    {
+      "name": "Dr. Moh’d Faridul Islam",
+      "degree": "BDS (Chittagong Medical College), BCS (Health), ADS, FCPS, OMS (Part ll)",
+      "specialty": "Dental and Maxillofacial Surgeon",
+      "workplace": "Jamal Khan Bellevue (Azad Bhaban)",
+      "info": "Dr. Moh’d Faridul Islam is a Dentist in Chittagong. His qualification is BDS (Chittagong Medical College), BCS (Health), ADS, FCPS, OMS (Part ll). He is a Consultant (Dental) at Jamal Khan Bellevue (Azad Bhaban). He regularly provides treatment to his patients at Jamal Khan Bellevue (Azad Bhaban). Practicing hour of Dr. Moh’d Faridul Islam at Jamal Khan Bellevue (Azad Bhaban) is 4.30pm to 11pm (Closed: Mon & Thursday).",
+      "chamber": {
+        "hospital": "Jamal Khan Bellevue (Azad Bhaban)",
+        "address": "79/A, Azad Bhaban, Jamal Khan Road, Chattogram",
+        "visitingTime": "4.30pm to 11pm (Closed: Mon & Thursday)",
+        "appointmentNumber": "01772667768, 01577007802Call Now"
+      }
+    },
+    {
+      "name": "Dr. Faisal Ahmed",
+      "degree": "BDS, MS (Orthodontics)",
+      "specialty": "Orthodontics (Braces, Bite & Jaw Problem) Specialist & Surgeon",
+      "workplace": "Chattogram International Dental College",
+      "info": "",
+      "chamber": {
+        "hospital": "Health View Diagnostic & Consultation Center",
+        "address": "Taherabad Residential Area, Aturar Depo, Panchlaish, Chattogram",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801827879846Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Kamrul Hasan",
+      "degree": "BDS, FCPS (Orthodontics), FWFO (USA), C-ORTHO (EU), C.GCP, C.MED",
+      "specialty": "Oral & Dental Specialist & Surgeon",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Dr. Md. Kamrul Hasan is a Dentist in Chittagong. His qualification is BDS, FCPS (Orthodontics), FWFO (USA), C-ORTHO (EU), C.GCP, C.MED. He is a Associate Professor & Head, Dental at Chattogram Maa-O-Shishu Hospital Medical College. He regularly provides treatment to his patients at Qrex Diagnostic & Consultation Centre, Chittagong. Practicing hour of Dr. Md. Kamrul Hasan at Qrex Diagnostic & Consultation Centre, Chittagong is 5pm to 9pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Qrex Diagnostic & Consultation Centre, Chittagong",
+        "address": "Plot # 9/A, Road # 1, Lane # 2, Block # G, Halishahar, Chattogram",
+        "visitingTime": "5pm to 9pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801867402369Call Now"
+      }
+    },
+    {
+      "name": "Dr. Sadia Afroz",
+      "degree": "BDS (DU), PGT (OMFS), MPH (Gold Medalist)",
+      "specialty": "Oral & Dental Surgeon",
+      "workplace": "Dr. Sadia's Dental Solutions",
+      "info": "Dr. Sadia Afroz is a Dental Surgeon in Chittagong. Her qualification is BDS (DU), PGT (OMFS), MPH (Gold Medalist), Diploma in Periodontics and Endodontics [USA], Special Training on Implantology. She is a Dentist, Dental at Dr. Sadia’s Dental Solutions. She regularly provides treatment to her patients at Dr. Sadia’s Dental Solutions. Practicing hour of Dr. Sadia Afroz at Dr. Sadia’s Dental Solutions is 5pm to 9pm (Sat to Thu) & 3pm to 6pm (Fri).",
+      "chamber": {
+        "hospital": "Dr. Sadia's Dental Solutions",
+        "address": "Opposite to Sensiv Diagnostic, 2nd Floor, 84, Jamal Khan Road, Chattogram",
+        "visitingTime": "5pm to 9pm (Sat to Thu) & 3pm to 6pm (Fri)",
+        "appointmentNumber": "+8801625254571Call Now"
+      }
+    },
+    {
+      "name": "Dr. Niaz Ahmed",
+      "degree": "MBBS, BCS (Health), MS (OMS), NST (Fellow), JICA (Fellow)",
+      "specialty": "Dental & Oral Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Niaz Ahmed is a Dental Surgeon in Chittagong. His qualification is MBBS, BCS (Health), MS (OMS), NST (Fellow), JICA (Fellow). He is a Consultant, Oral & Maxillofacial Surgery at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Chittagong. Practicing hour of Dr. Niaz Ahmed at Popular Diagnostic Center, Chittagong is 6pm to 9pm (Everyday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Chittagong",
+        "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Everyday)",
+        "appointmentNumber": "+8809666787810Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mohammad Ali Hossain",
+      "degree": "BDS, FCPS (Oral & Maxillofacial Surgery)",
+      "specialty": "Dental & Oral Specialist Surgeon",
+      "workplace": "Chattagram International Dental College & Hospital",
+      "info": "Dr. Mohammad Ali Hossain is a Dentist in Chittagong. His qualification is BDS, FCPS (Oral & Maxillofacial Surgery). He is a Associate Professor & Head, Dental & Maxillofacial Surgery at Chattagram International Dental College & Hospital. He regularly provides treatment to his patients at Evercare Hospital, Chattogram. Practicing hour of Dr. Mohammad Ali Hossain at Evercare Hospital, Chattogram is 2pm to 5pm (Sun to Wednesday).",
+      "chamber": {
+        "hospital": "Evercare Hospital, Chattogram",
+        "address": "H1, Ananna R/A, CDA, Hathazari, Chattogram",
+        "visitingTime": "2pm to 5pm (Sun to Wednesday)",
+        "appointmentNumber": "+8809610810663Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mir Abeed Rahman",
+      "degree": "BDS, MFD, RCS (Ireland), MSc (UCL, London), FICD",
+      "specialty": "Oral & Dental Surgeon (Conservative Dentistry)",
+      "workplace": "Evercare Hospital, Chattogram",
+      "info": "Evercare Hospital, Chattogram\nAddress: H1, Ananna R/A, CDA, Hathazari, Chattogram\nVisiting Hour: 10am to 1pm (Closed: Friday)\nAppointment: +8809610810663\nCall Now",
+      "chamber": {
+        "hospital": "Habib Dental",
+        "address": "CPDL Majesta (Above EBL Bank), 84 Jamal Khan Road, Chittagong",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801319046299Call Now"
+      }
+    },
+    {
+      "name": "Dr. Nazia Akter Swargo",
+      "degree": "BDS (Dhaka), CPR (DMC), PGT (BSMMU)",
+      "specialty": "Oral & Dental Surgeon",
+      "workplace": "Islami Bank Hospital, Chittagong",
+      "info": "Dr. Nazia Akter Swargo is a Dentist in Chittagong. Her qualification is BDS (Dhaka), CPR (DMC), PGT (BSMMU). She is working as a Oral & Dental Surgeon doctor in Islami Bank Hospital, Chittagong. She regularly provides treatment to her patients at Islami Bank Hospital, Chittagong. Practicing hour of Dr. Nazia Akter Swargo at Islami Bank Hospital, Chittagong is 3pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Chittagong",
+        "address": "3, Sheikh Mujib Road, Agrabad, Chittagong",
+        "visitingTime": "3pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801908402232Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Mosharraf Hossain",
+      "degree": "BDS (DU), MSC (OMS), PGT (BSMMU), USM (Malaysia)",
+      "specialty": "Oral & Maxillofacial Surgeon",
+      "workplace": "Islami Bank Hospital, Chittagong",
+      "info": "Dr. Md. Mosharraf Hossain is a Dentist in Chittagong. His qualification is BDS (DU), MSC (OMS), PGT (BSMMU), USM (Malaysia). He is working as a Oral & Maxillofacial Surgeon doctor in Islami Bank Hospital, Chittagong. He regularly provides treatment to his patients at Islami Bank Hospital, Chittagong. Practicing hour of Dr. Md. Mosharraf Hossain at Islami Bank Hospital, Chittagong is 8am to 3pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Chittagong",
+        "address": "3, Sheikh Mujib Road, Agrabad, Chittagong",
+        "visitingTime": "8am to 3pm (Closed: Friday)",
+        "appointmentNumber": "+8801908402232Call Now"
+      }
+    },
+    {
+      "name": "Dr. Nusrat Sultana",
+      "degree": "BDS (CU), PGT (OMS)",
+      "specialty": "Dental & Oral Specialist Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Nusrat Sultana is a Dentist in Chittagong. Her qualification is BDS (CU), PGT (OMS). She is working as a Dental & Oral Specialist Surgeon doctor in Chittagong Medical College & Hospital. She regularly provides treatment to her patients at Delta Health Care, Chittagong. Practicing hour of Dr. Nusrat Sultana at Delta Health Care, Chittagong is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Delta Health Care, Chittagong",
+        "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801841906010Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Abu Hanif",
+      "degree": "BDS (CMC), MPH (DHAKA)",
+      "specialty": "Oral & Dental Specialist & Surgeon",
+      "workplace": "Institute of Health Technology, Chittagong",
+      "info": "Dr. Md. Abu Hanif is a Dentist in Chittagong. His qualification is BDS (CMC), MPH (DHAKA). He is a Lecturer, Dental at Institute of Health Technology, Chittagong. He regularly provides treatment to his patients at Shahjalal Diagnostic Clinic, Chittagong. Practicing hour of Dr. Md. Abu Hanif at Shahjalal Diagnostic Clinic, Chittagong is 10am to 2pm & 6pm to 10.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Shahjalal Diagnostic Clinic, Chittagong",
+        "address": "143, Sheikh Mujib Road, Badamtoli, Agrabad, Chattogram",
+        "visitingTime": "10am to 2pm & 6pm to 10.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801798304932Call Now"
+      }
+    },
+    {
+      "name": "Dr. Nahian Ferdousi",
+      "degree": "BDS, PGT (Conservative Dentistry)",
+      "specialty": "Oral & Dental Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Nahian Ferdousi is a Dentist in Chittagong. Her qualification is BDS, PGT (Conservative Dentistry). She is working as a Oral & Dental Surgeon doctor in Chittagong Medical College & Hospital. She regularly provides treatment to her patients at Sensiv Private Limited, Chittagong. Practicing hour of Dr. Nahian Ferdousi at Sensiv Private Limited, Chittagong is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Sensiv Private Limited, Chittagong",
+        "address": "14, Jamal Khan Road, Jamal Khan, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801714044974Call Now"
+      }
+    },
+    {
+      "name": "Dr. S.M. Ali Ahsan",
+      "degree": "BDS, PhD",
+      "specialty": "General, Cosmetic Dentistry Specialist & Surgeon",
+      "workplace": "Lancet Hospital, Chittagong",
+      "info": "Evercare Hospital, Chattogram\nAddress: H1, Ananna R/A, CDA, Hathazari, Chattogram\nVisiting Hour: 10am to 5pm (Saturday) & 10am to 2pm (Wednesday)\nAppointment: +8809610810663\nCall Now",
+      "chamber": {
+        "hospital": "Lancet Diagnostic Center, Chittagong",
+        "address": "106/B, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "4pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801728542154Call Now"
+      }
+    },
+    {
+      "name": "Dr. Riaz Mohammad Adham",
+      "degree": "BDS (Dhaka), MSc (Orthodontics, Malaysia)",
+      "specialty": "Oral & Dental Surgeon (Root Canal & Braces System Expert)",
+      "workplace": "Evercare Hospital, Chattogram",
+      "info": "Dr. Riaz Mohammad Adham is a Dentist in Chittagong. His qualification is BDS (Dhaka), MSc (Orthodontics, Malaysia). He is a Consultant Dental Surgeon, Dental & Maxillofacial Surgery at Evercare Hospital, Chattogram. He regularly provides treatment to his patients at Evercare Hospital, Chattogram. Practicing hour of Dr. Riaz Mohammad Adham at Evercare Hospital, Chattogram is 10am to 2pm (Sunday) & 10am to 5pm (Tuesday).",
+      "chamber": {
+        "hospital": "Evercare Hospital, Chattogram",
+        "address": "H1, Ananna R/A, CDA, Hathazari, Chattogram",
+        "visitingTime": "10am to 2pm (Sunday) & 10am to 5pm (Tuesday)",
+        "appointmentNumber": "+8809610810663Call Now"
+      }
+    },
+    {
+      "name": "Dr. Tafhima Faruk",
+      "degree": "BDS (CU), PGT (CMCH)",
+      "specialty": "Dental, Oral & Maxillofacial Surgery Specialist",
+      "workplace": "Islami Bank Hospital, Chittagong",
+      "info": "Dr. Tafhima Faruk is a Dentist in Chittagong. Her qualification is BDS (CU), PGT (CMCH). She is working as a Dental, Oral & Maxillofacial Surgery Specialist doctor in Islami Bank Hospital, Chittagong. She regularly provides treatment to her patients at Islami Bank Hospital, Chittagong. Practicing hour of Dr. Tafhima Faruk at Islami Bank Hospital, Chittagong is 3pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Chittagong",
+        "address": "3, Sheikh Mujib Road, Agrabad, Chittagong",
+        "visitingTime": "3pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801908402232Call Now"
+      }
+    },
+    {
+      "name": "Dr. Rizwan Sadik Chowdhury",
+      "degree": "BDS (CU), MPH (NSU)",
+      "specialty": "Oral & Dental Surgeon",
+      "workplace": "Chowdhury's Premium Dental, Chattogram",
+      "info": "Chowdhury’s Premium Dental\nAddress: Luxury Heights, Flat # A-2/2029, Zakir Hossain By Lane, Khulsi, Chattogram\nVisiting Hour: 9am to 3pm (Sat, Sun & Wed)\nAppointment: +8801975136494\nCall Now",
+      "chamber": {
+        "hospital": "Chowdhury's Premium Dental",
+        "address": "Behind Chowdhury Complex, Kuwaish Link Road, Oxygen, Chattogram",
+        "visitingTime": "5pm to 10pm (Everyday)",
+        "appointmentNumber": "+8801841649474Call Now"
+      }
+    },
+    {
+      "name": "Dr. Rehnuma Tabassum",
+      "degree": "BDS (CU), PGT (OMS)",
+      "specialty": "Dental, Oral & Maxillofacial Surgery Specialist",
+      "workplace": "Islami Bank Hospital, Chittagong",
+      "info": "Dr. Rehnuma Tabassum is a Dentist in Chittagong. Her qualification is BDS (CU), PGT (OMS). She is a Consultant, Dental at Islami Bank Hospital, Chittagong. She regularly provides treatment to her patients at Islami Bank Hospital, Chittagong. Practicing hour of Dr. Rehnuma Tabassum at Islami Bank Hospital, Chittagong is 8am to 3pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Chittagong",
+        "address": "3, Sheikh Mujib Road, Agrabad, Chittagong",
+        "visitingTime": "8am to 3pm (Closed: Friday)",
+        "appointmentNumber": "+8801908402232Call Now"
+      }
+    },
+    {
+      "name": "Dr. Viqarunnisa Vicky",
+      "degree": "BDS (CU), PGT (Prosthodontics)",
+      "specialty": "Dental & Oral Specialist",
+      "workplace": "Institute of Health Technology, Chittagong",
+      "info": "Dr. Viqarunnisa Vicky is a Dentist in Chittagong. Her qualification is BDS (CU), PGT (Prosthodontics). She is working as a Dental & Oral Specialist doctor in Institute of Health Technology, Chittagong. She regularly provides treatment to her patients at Chevron Clinical Laboratory, Halishahar. Practicing hour of Dr. Viqarunnisa Vicky at Chevron Clinical Laboratory, Halishahar is 10.30am to 12pm & 7pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Halishahar",
+        "address": "993/2121, Agrabad Access Road, Halishahar, Chattogram",
+        "visitingTime": "10.30am to 12pm & 7pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801701229090Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mohammad Rakibul Hasan Chowdhury",
+      "degree": "BDS (CU), PGT (Prosthodontics), Training (Dental Implant)",
+      "specialty": "Dental & Oral Specialist",
+      "workplace": "Institute of Health Technology, Chittagong",
+      "info": "Dr. Mohammad Rakibul Hasan Chowdhury is a Dentist in Chittagong. His qualification is BDS (CU), PGT (Prosthodontics), Training (Dental Implant). He is working as a Dental & Oral Specialist doctor in Institute of Health Technology, Chittagong. He regularly provides treatment to his patients at Chevron Clinical Laboratory, Halishahar. Practicing hour of Dr. Mohammad Rakibul Hasan Chowdhury at Chevron Clinical Laboratory, Halishahar is 10.30am to 12pm & 7pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Halishahar",
+        "address": "993/2121, Agrabad Access Road, Halishahar, Chattogram",
+        "visitingTime": "10.30am to 12pm & 7pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801701229090Call Now"
+      }
+    },
+    {
+      "name": "Dr. Monwar Hamid",
+      "degree": "BDS (CU), MPH (CMC), PGT (Oral Surgery) CMC",
+      "specialty": "Oral & Dental Surgeon",
+      "workplace": "Dr. Shanto's Dental Clinic, Chittagong",
+      "info": "Dr. Monwar Hamid is a Dentist in Chittagong. His qualification is BDS (CU), MPH (CMC), PGT (Oral Surgery) CMC. He is a Oral & Dental Surgeon, Dental at Dr. Shanto's Dental Clinic, Chittagong. He regularly provides treatment to his patients at Dr. Shanto's Dental Clinic. Practicing hour of Dr. Monwar Hamid at Dr. Shanto's Dental Clinic is 5pm to 10pm (Everyday).",
+      "chamber": {
+        "hospital": "Dr. Shanto's Dental Clinic",
+        "address": "21, Mahimdas Road, Beside Kotwali Thana, Chittagong",
+        "visitingTime": "5pm to 10pm (Everyday)",
+        "appointmentNumber": "+8801789772448Call Now"
+      }
+    },
+    {
+      "name": "Dr. Jahedul Islam Shahed",
+      "degree": "BDS (CIDC), Training (Dental Implant)",
+      "specialty": "Oral & Dental Surgeon",
+      "workplace": "Chittagong International Dental College & Hospital",
+      "info": "Dr. Jahedul Islam Shahed is a Dentist in Chittagong. His qualification is BDS (CIDC), Training (Dental Implant). He is a Lecturer, Pediatric Dentistry at Chittagong International Dental College & Hospital. He regularly provides treatment to his patients at Fresh Dent Dental & Implant Center, Chittagong. Practicing hour of Dr. Jahedul Islam Shahed at Fresh Dent Dental & Implant Center, Chittagong is 4pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Fresh Dent Dental & Implant Center, Chittagong",
+        "address": "Rose Valley, H/N,  Road # 04, Chandgaon R/A, Chattogram",
+        "visitingTime": "4pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801300-056900Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Rabiul Hossain",
+      "degree": "BDS (CU)",
+      "specialty": "Dental & Oral Surgeon",
+      "workplace": "Islami Bank Hospital, Chittagong",
+      "info": "Dr. Md. Rabiul Hossain is a Dentist in Chittagong. His qualification is BDS (CU). He is working as a Dental & Oral Surgeon doctor in Islami Bank Hospital, Chittagong. He regularly provides treatment to his patients at Islami Bank Hospital, Chittagong. Practicing hour of Dr. Md. Rabiul Hossain at Islami Bank Hospital, Chittagong is 8am to 3pm (Everyday).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Chittagong",
+        "address": "3, Sheikh Mujib Road, Agrabad, Chittagong",
+        "visitingTime": "8am to 3pm (Everyday)",
+        "appointmentNumber": "+8801908402232Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Sifat Uddin",
+      "degree": "BDS (CU)",
+      "specialty": "General Dentistry (Fillings, Root Canals, Extractions) Specialist",
+      "workplace": "Araf Specialised Dental Care",
+      "info": "Dr. Md. Sifat Uddin is a Dentist in Chittagong. His qualification is BDS (CU). He is a Dental Surgeon, Conservative Dentistry at Araf Specialised Dental Care. He regularly provides treatment to his patients at Araf Specialised Dental Care. Practicing hour of Dr. Md. Sifat Uddin at Araf Specialised Dental Care is 11am to 2pm & 5pm to 10pm (Everyday).",
+      "chamber": {
+        "hospital": "Araf Specialised Dental Care",
+        "address": "96/D (3rd Floor), Road # 10, Shantibag R/A, Agrabad, Chittagong",
+        "visitingTime": "11am to 2pm & 5pm to 10pm (Everyday)",
+        "appointmentNumber": "+8801535220648Call Now"
+      }
+    },
+    {
+      "name": "Dr. Sarjana Yeasmin",
+      "degree": "BDS, MS (Pediatric Dentistry)",
+      "specialty": "Oral & Dental Diseases Specialist",
+      "workplace": "Chattogram International dental College & Hospital",
+      "info": "Dr. Sarjana’s Dental Surgery\nAddress: Star Lab, Abul Hosain Market, Chatori Chowmuhani, Anowara, Chittagong\nVisiting Hour: 3pm to 5pm (Closed: Friday)\nAppointment: +8801815949016\nCall Now",
+      "chamber": {
+        "hospital": "Dr. Sarjana's Kids & Family Dentistry",
+        "address": "IPL City Centre, # 162, O, R, Nizam Road, Goal Pahar More, Chattogram",
+        "visitingTime": "6pm to 10pm (Closed : Friday)",
+        "appointmentNumber": "+8801815949016Call Now"
+      }
+    },
+    {
+      "name": "Dr. Hasanul Hasib",
+      "degree": "BDS, MCPS (Dental Surgery), FCPS (OMFS)",
+      "specialty": "Oral & Maxillofacial Surgery Specialist",
+      "workplace": "Dr. Hasib’s Dental Surgery and Implant Centre",
+      "info": "Dr. Hasanul Hasib is a Dentist in Chittagong. His qualification is BDS, MCPS (Dental Surgery), FCPS (OMFS). He is a Chief Consultant at Dr. Hasib’s Dental Surgery and Implant Centre. He regularly provides treatment to his patients at Dr. Hasib’s Dental Surgery and Implant Centre. Practicing hour of Dr. Hasanul Hasib at Dr. Hasib’s Dental Surgery and Implant Centre is 5pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Dr. Hasib’s Dental Surgery and Implant Centre",
+        "address": "Jahin Complex (2nd Floor); Boropol more, Road-06; Block-G, Halishahar Housing Estate, Chittagong",
+        "visitingTime": "5pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801812711471Call Now"
+      }
+    },
+    {
+      "name": "Dr. Himel Chakma",
+      "degree": "BDS, MS (Orthodontics & Dentofacial Orthopedics), MCPS (Dental Surgery)",
+      "specialty": "Orthodontics & Dentofacial Orthopedics Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "AVE Dental Surgery & Orthodontics\nAddress: 102, Panchlaish R/A (Opposite to Probartak School), Chattogram\nVisiting Hour: 4pm to 9pm (Thursday), 9am to 1pm & 4pm t0 9pm (Friday)\nAppointment: +8801860753635\nCall Now",
+      "chamber": {
+        "hospital": "Triodent Dental BD",
+        "address": "21/4/A (2nd Floor), Zigatola Road, Dhanmondi, Dhaka",
+        "visitingTime": "5pm to 9pm (Saturday to Wednesday)",
+        "appointmentNumber": "+8801819352939Call Now"
+      }
+    },
+    {
+      "name": "Dr. Sakhawat Hossain",
+      "degree": "BDS (SOMC), PGT (Orthodontics) (CMC)",
+      "specialty": "Oral & Dental Specialist Surgeon",
+      "workplace": "Rakib Dental & Maxillofacial Centre",
+      "info": "Dr. Sakhawat Hossain is a Dentist in Chittagong. His qualification is BDS (SOMC), PGT (Orthodontics) (CMC). He is a Consultant, RD & MF Centre at Rakib Dental & Maxillofacial Centre. He regularly provides treatment to his patients at Rakib Dental & Maxillofacial Centre. Practicing hour of Dr. Sakhawat Hossain at Rakib Dental & Maxillofacial Centre is 5pm to 9pm (Everyday).",
+      "chamber": {
+        "hospital": "Rakib Dental & Maxillofacial Centre",
+        "address": "Islam Mansion, House #01, Lane #13, Road #01, (1st floor of Nilachol),Halishahar A Block, Bus Stand, Chittagong",
+        "visitingTime": "5pm to 9pm (Everyday)",
+        "appointmentNumber": "+8801924434988Call Now"
+      }
+    },
+    {
+      "name": "Dr. Muhammad Asiful Islam",
+      "degree": "BDS, BCS (Health)",
+      "specialty": "Oral & Dental Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Muhammad Asiful Islam is a Dentist in Chittagong. His qualification is BDS, BCS (Health). He is a Dental Surgeon, Oral & Maxillofacial Surgery at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Dr. Asif's Exclusive Dentistry. Practicing hour of Dr. Muhammad Asiful Islam at Dr. Asif's Exclusive Dentistry is 5pm to 9pm (Everyday).",
+      "chamber": {
+        "hospital": "Dr. Asif's Exclusive Dentistry",
+        "address": "Airbell Helianthus (Ground Floor), Opposite to Shirir Gora, Jamal Khan, Chittagong",
+        "visitingTime": "5pm to 9pm (Everyday)",
+        "appointmentNumber": "+8801894178790Call Now"
+      }
+    },
+    {
+      "name": "Dr. Nurul Kabir Masum",
+      "degree": "BDS, FICOI (USA), MPH, PG Diploma (On Course, UK), PGT (Orthodontics)",
+      "specialty": "Cosmetic Procedure, Invisalign/Aligner, Dental Implant, Smile Designing, Root Canal Treatment, Cosmetic Filling, Oral Surgeries",
+      "workplace": "Dr.Masum’s Dental Clinic, Dental Surgery and Orthodontics By Dr.Masum",
+      "info": "Dental Surgery and Orthodontics By Dr. Masum\nAddress: VIP Plaza (2nd Floor), Beside Dhaka Bank, Block-G, Halishahar H/E, Chittagong\nVisiting Hour: 10am to 10pm (Everyday)\nAppointment: +8801778912823\nCall Now",
+      "chamber": {
+        "hospital": "Dr.Masum’s Dental Clinic",
+        "address": "Momtaz Heights (2nd Floor), Beside NCC Bank, Opposite to Islami Bank, Boropol Mor, Halishahar, Chittagong",
+        "visitingTime": "10am to 10pm (Everyday)",
+        "appointmentNumber": "+8801778912823Call Now"
+      }
+    },
+    {
+      "name": "Dr. Sumaiya Chowdhury",
+      "degree": "BDS (CMC) (Gold Medalist), PGT (Paediatric Dentistry), PGT ( Conservative Dentistry & Endodontics)",
+      "specialty": "Oral & Dental Surgeon (Trained in Advanced Paediatric Dentistry)",
+      "workplace": "AVE Dental Surgery & Orthodontics",
+      "info": "Dr. Sumaiya Chowdhury is a Dentist in Chittagong. Her qualification is BDS (CMC) (Gold Medalist), PGT (Paediatric Dentistry), PGT ( Conservative Dentistry & Endodontics). She is a General Dentist at AVE Dental Surgery & Orthodontics. She regularly provides treatment to her patients at AVE Dental Surgery & Orthodontics. Practicing hour of Dr. Sumaiya Chowdhury at AVE Dental Surgery & Orthodontics is 4pm to 8.30pm (Everyday).",
+      "chamber": {
+        "hospital": "AVE Dental Surgery & Orthodontics",
+        "address": "102, Panchlaish R/A (Opposite to Probartak School), Chattogram",
+        "visitingTime": "4pm to 8.30pm (Everyday)",
+        "appointmentNumber": "+8801860753635Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md Shahidur Rahman",
+      "degree": "BDS, PGT (Conservative Dentistry & Endodontics)",
+      "specialty": "Oral & Dental Surgeon",
+      "workplace": "AVE Dental Surgery & Orthodontics",
+      "info": "Dr. Md Shahidur Rahman is a Dentist in Chittagong. His qualification is BDS, PGT (Conservative Dentistry & Endodontics). He is a General Dentist at AVE Dental Surgery & Orthodontics. He regularly provides treatment to his patients at AVE Dental Surgery & Orthodontics. Practicing hour of Dr. Md Shahidur Rahman at AVE Dental Surgery & Orthodontics is 10am to 2pm & 6pm to 9pm (Saturday to Wednesday).",
+      "chamber": {
+        "hospital": "AVE Dental Surgery & Orthodontics",
+        "address": "102, Panchlaish R/A (Opposite to Probartak School), Chattogram",
+        "visitingTime": "10am to 2pm & 6pm to 9pm (Saturday to Wednesday)",
+        "appointmentNumber": "+8801860-753635Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Mosharraf Hossain",
+      "degree": "BDS (DU), MSc (Oral & Maxillofacial Surgery) USM, Malaysia, PGT (OMS) BSMMU",
+      "specialty": "Oral and Maxillofacial Surgeon (Dental Surgeon)",
+      "workplace": "Islami Bank Hospital, Agrabad, Chittagong",
+      "info": "Dr. Md. Mosharraf Hossain is a Dentist in Chittagong. His qualification is BDS (DU), MSc (Oral & Maxillofacial Surgery) USM, Malaysia, PGT (OMS) BSMMU. He has Special Training on Orthodontics & Dental Implant from Hammersmith Orthodontics. He is a Head & Consultant (Department of Dentistry) at Islami Bank Hospital, Agrabad, Chittagong. He regularly provides treatment to his patients at Dental Pavilion, Chittagong. Practicing hour of Dr. Md. Mosharraf Hossain at Dental Pavilion, Chittagong is 5pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Dental Pavilion, Chittagong",
+        "address": "3rd Floor, Shah Plaza Market, Bandortila, CEPZ, Chittagong",
+        "visitingTime": "5pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "01886136352Call Now"
+      }
+    },
+    {
+      "name": "Dr. Jannatul Maowa Rumky",
+      "degree": "BDS ( CMC), DDS (BSMMU), BCS (Health)",
+      "specialty": "Oral & Dental Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Jannatul Maowa Rumky is a Dentist in Chittagong. Her qualification is BDS ( CMC), DDS (BSMMU), BCS (Health). She is a Lecturer, Department of Periodontology at Chittagong Medical College & Hospital. She regularly provides treatment to her patients at AVE Dental Surgery & Orthodontics. Practicing hour of Dr. Jannatul Maowa Rumky at AVE Dental Surgery & Orthodontics is 4pm to 9pm (Sat to Wed), On Call (Thu & Friday).",
+      "chamber": {
+        "hospital": "AVE Dental Surgery & Orthodontics",
+        "address": "102, Panchlaish R/A (Opposite to Probartak School), Chattogram",
+        "visitingTime": "4pm to 9pm (Sat to Wed), On Call (Thu & Friday)",
+        "appointmentNumber": "+8801892610236Call Now"
+      }
+    },
+    {
+      "name": "Dr. Abdullah Al Noman",
+      "degree": "BDS (CMC), FICOI (USA)(Dental Implant)",
+      "specialty": "Oral & Dental Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Abdullah Al Noman is a Dentist in Chittagong. His qualification is BDS (CMC), FICOI (USA)(Dental Implant). He is a Dental Surgeon at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Noman's Dental Care & Implant Center, Chittagong. Practicing hour of Dr. Abdullah Al Noman at Noman's Dental Care & Implant Center, Chittagong is 10am to 10pm (Everyday).",
+      "chamber": {
+        "hospital": "Noman's Dental Care & Implant Center, Chittagong",
+        "address": "316 Erfan Tower (1st Floor), Opposite to Safa Arcade Community Center, Chandanpura Circle, Nabab Siraj Ud Daula Road, Chittagong",
+        "visitingTime": "10am to 10pm (Everyday)",
+        "appointmentNumber": "+8801687915551Call Now"
+      }
+    },
+    {
+      "name": "Dr. Avijit Sen",
+      "degree": "BDS (DU), PGT (Chittagong Medical College Hospital)",
+      "specialty": "Oral and Dental Surgeon",
+      "workplace": "Bangladesh Navy Shaheed Moazzem Hospital",
+      "info": "Dr. Avijit Sen is a Dentist in Chittagong. His qualification is BDS (DU), PGT (Chittagong Medical College Hospital). He is a Medical Officer at Bangladesh Navy Shaheed Moazzem Hospital. He regularly provides treatment to his patients at Dr. Avi’s DENTAL HOME. Practicing hour of Dr. Avijit Sen at Dr. Avi’s DENTAL HOME is Saturday to Thursday (10.00am-1.00pm) & (4.00pm-10.00pm), Friday (On appointment).",
+      "chamber": {
+        "hospital": "Dr. Avi’s DENTAL HOME",
+        "address": "109, Z.M Tower (1st Floor), Kazem Ali Road, West Side of Master-Pool, Ghatfarhadbag, Anderkilla, Chittagong",
+        "visitingTime": "Saturday to Thursday (10.00am-1.00pm) & (4.00pm-10.00pm), Friday (On appointment)",
+        "appointmentNumber": "+8801521225317, +8801896146262Call Now"
+      }
+    },
+    {
+      "name": "Dr. NH Saon Khan",
+      "degree": "BDS (Chittagong Medical College), PGT (Oral & Maxillofacial Surgery)",
+      "specialty": "Oral & Dental Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. NH Saon Khan is a Dentist in Chittagong. His qualification is BDS (Chittagong Medical College), PGT (Oral & Maxillofacial Surgery). He is a Dentist at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Hena Dental Care. Practicing hour of Dr. NH Saon Khan at Hena Dental Care is 4pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Hena Dental Care",
+        "address": "House-39, Road -05, Panchlaish R/A (Opposite to Chevron)",
+        "visitingTime": "4pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801878-900190Call Now"
+      }
+    },
+    {
+      "name": "Dr. Shihab Uzzaman",
+      "degree": "BDS (DU), MPH (DU), PGT (BSMMU)",
+      "specialty": "Oral & Dental Surgeon",
+      "workplace": "Chattogram International Dental College",
+      "info": "Dr. Shihab Uzzaman is a Dentist in Chittagong. His qualification is BDS (DU), MPH (DU), PGT (BSMMU). He is a Lecturer, SDM at Chattogram International Dental College. He regularly provides treatment to his patients at Ultra Assay Diagnostic Center. Practicing hour of Dr. Shihab Uzzaman at Ultra Assay Diagnostic Center is 6pm to 10pm (Everyday).",
+      "chamber": {
+        "hospital": "Ultra Assay Diagnostic Center",
+        "address": "36, .Fazlul Quader Road, Medical Staff Quarter, Chattogram",
+        "visitingTime": "6pm to 10pm (Everyday)",
+        "appointmentNumber": "+8801680615880Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Md. Azom Khan",
+      "degree": "BDS, MS (Oral & Maxillofacial Surgery), NST Fellow (Oral Cancer)",
+      "specialty": "Dental, Oral & Maxillofacial Surgeon",
+      "workplace": "Chittagong Medical College Hospital",
+      "info": "Prof. Dr. Md. Azom Khan is a highly experienced dental, oral and maxillofacial surgeon in Chattogram, with qualifications including BDS, MS (Oral & Maxillofacial Surgery), and NST Fellowship in Oral Cancer. He serves as a Professor in the Dental Unit at Chittagong Medical College Hospital. Dr. Khan specializes in treating a range of conditions such as oral cancer, facial trauma, jaw fractures, impacted teeth, cysts and tumors of the oral cavity, cleft lip and palate, and TMJ (temporomandibular joint) disorders. He offers expert surgical and non-surgical care for complex oral and facial conditions. His private consultations are available at the Oral & Maxillofacial Surgery & Orthodontics Center, located at Epic Divine (2nd Floor), CMC Main Gate, Panchlaish R/A, Chattogram, with visiting hours from 9am to 2pm and 4pm to 9pm.",
+      "chamber": {
+        "hospital": "Oral & Maxillofacial Surgery & Orthodontics Center",
+        "address": "Epic Divine (2nd Floor), CMC Main Gate, Panchlaish R/A, Chittagong",
+        "visitingTime": "9am to 2pm & 4pm to 9pm",
+        "appointmentNumber": "+8801844462799Call Now"
+      }
+    },
+    {
+      "name": "Dr. Tashrin Alam Soma",
+      "degree": "BDS (DU), PGT (Cons & Endo)",
+      "specialty": "Oral & Dental Surgeon, Smile Designer",
+      "workplace": "Shan Dental, Chittagong",
+      "info": "Dr. Tashrin Alam Soma is a caring and experienced dental surgeon and smile designer in Chittagong, specializing in cosmetic and restorative dentistry. She holds a BDS from Dhaka University and PGT in Conservative Dentistry & Endodontics, with advanced training in root canal treatment, smile design, cosmetic fillings, crown and bridge work, and teeth whitening. As a consultant dentist at Shan Dental, Chittagong, Dr. Soma offers comprehensive dental care for issues such as dental cavities, gum disease, tooth sensitivity, broken or missing teeth, and aesthetic concerns. She is dedicated to creating confident smiles through personalized and painless treatments. Patients can consult her at Shan Dental, 932/A Mehedibag (North to Max Hospital), from 10:00 AM to 1:00 PM and 4:00 PM to 9:00 PM daily. For expert dental care and cosmetic dentistry in Chattogram, Dr. Tashrin Alam Soma is a trusted name.",
+      "chamber": {
+        "hospital": "Shan Dental, Chittagong",
+        "address": "932/A, Mehedibag (North to Max Hospital), Chittagong",
+        "visitingTime": "10am to 1pm & 4pm to 9pm",
+        "appointmentNumber": "+8801806418811Call Now"
+      }
+    },
+    {
+      "name": "Dr. Sheikh Md. Emad Uddin",
+      "degree": "BDS (CU)Chattogram International Dental College",
+      "specialty": "Oral & Dental Surgeon",
+      "workplace": "Sheikh Dental Care, Halishahar, Chittagong",
+      "info": "Dr. Sheikh Md. Emad Uddin is a caring and experienced Oral and Dental Surgeon in Chattogram, specializing in Aesthetic Dentistry (Smile Design), Root Canal Treatment, and comprehensive oral health care. He completed his BDS from Chattogram International Dental College and received advanced training in aesthetic dental procedures, including smile makeovers and cosmetic restorations. Dr. Emad Uddin currently practices at Sheikh Dental Care, Halishahar, Chattogram, located at Sheikh Manjil (2nd Floor), House # 01, Road # 01, Lane # 14, Block-A, Bus Stand Mor, Halishahar, Chittagong. Patients can consult with him from 5pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Sheikh Dental Care, Halishahar, Chittagong",
+        "address": "Sheikh Manjil (2nd Floor), House # 01, Road # 01, Lane # 14, Block-A,Bus Stand Mor, Halishahar, Chittagong",
+        "visitingTime": "5pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801973406326Call Now"
+      }
+    }
+  ]
+}

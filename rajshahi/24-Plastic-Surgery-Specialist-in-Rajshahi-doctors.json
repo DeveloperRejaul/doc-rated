@@ -1,0 +1,30 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Afroza Nazneen Asha",
+      "degree": "MBBS, FCPS (Plastic Surgery)",
+      "specialty": "Burn, Plastic, Cosmetic & Reconstructive Surgery Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Afroza Nazneen Asha is a Plastic Surgeon in Rajshahi. Her qualification is MBBS, FCPS (Plastic Surgery). She is a Associate Professor & Head, Plastic Surgery at Rajshahi Medical College & Hospital. She regularly provides treatment to her patients at Rajshahi Royal Hospital Pvt. Ltd.. Practicing hour of Dr. Afroza Nazneen Asha at Rajshahi Royal Hospital Pvt. Ltd. is 2pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
+        "address": "Laxmipur Mor, Rajshahi",
+        "visitingTime": "2pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801762685090Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mohammad Yousuf Ali",
+      "degree": "MBBS (RMC), BCS (Health),FCPS (Surgery), MS (Plastic Surgery)",
+      "specialty": "Plastic & Reconstructive Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Mohammad Yousuf Ali is a Plastic Surgeon in Rajshahi. His qualification is MBBS (RMC), BCS (Health),FCPS (Surgery), MS (Plastic Surgery). He is a Assistant Registrar of Burn & Plastic Surgery Department at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Medipath Diagnostic Complex, Rajshahi. Practicing hour of Dr. Mohammad Yousuf Ali at Medipath Diagnostic Complex, Rajshahi is 3pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medipath Diagnostic Complex, Rajshahi",
+        "address": "Shuvecca View, Greater Road, Laxmipur, Kajihata, Rajshahi",
+        "visitingTime": "3pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801711128179Call Now"
+      }
+    }
+  ]
+}

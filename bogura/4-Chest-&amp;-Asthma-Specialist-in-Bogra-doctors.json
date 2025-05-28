@@ -1,0 +1,69 @@
+{
+  "doctor": [
+    {
+      "name": "Prof. Dr. Md. Mojibar Rahman Selim",
+      "degree": "MBBS, DTCD, MD (Cardiology), WHO Fellow (Interventional Cardiology)",
+      "specialty": "Clinical & Interventional Cardiologist & Chest Specialist",
+      "workplace": "TMSS Medical College & Rafatullah Community HospitalProject Director, TMSS Heart Center, BoguraEx-Professor & Head, Department of CardiologyShaheed Ziaur Rahman Medical College & Hospital, Bogura",
+      "info": "Prof. Dr. Md. Mojibar Rahman Selim is a highly experienced Clinical and Interventional Cardiologist and Chest Specialist in Bogura. He holds MBBS, DTCD, MD (Cardiology) degrees and is a WHO Fellow in Interventional Cardiology. Currently, he is Professor and Head of the Department of Cardiology at TMSS Medical College & Rafatullah Community Hospital and Project Director of TMSS Heart Center, Bogura. He previously served as Professor and Head of the Department of Cardiology at Shaheed Ziaur Rahman Medical College & Hospital, Bogura. Dr. Selim treats heart diseases, hypertension, chest diseases, and performs interventional cardiology procedures. His chamber is at Popular Diagnostic Center, Bogura, House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura, with visiting hours from 2:30pm to 8:30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "2:30pm to 8:30pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "name": "Dr. Debashis Kumar Gupta",
+      "degree": "MBBS, BCS (Health), MCPS, MD (Chest Diseases)",
+      "specialty": "Chest Diseases & Asthma Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Debashis Kumar Gupta is a Chest Diseases Specialist in Bogra. His qualification is MBBS, BCS (Health), MCPS, MD (Chest Diseases). He is a Former Assistant Professor & Head, Respiratory Medicine at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic & Consultation Center, Bogra. Practicing hour of Dr. Debashis Kumar Gupta at Ibn Sina Diagnostic & Consultation Center, Bogra is 1pm to 4pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
+        "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
+        "visitingTime": "1pm to 4pm (Closed: Friday)",
+        "appointmentNumber": "+8801701560011Call Now"
+      }
+    },
+    {
+      "name": "Dr. K.M. Monjurul Alom",
+      "degree": "MBBS, DTCD, MD (Chest Diseases), FCCP (USA)",
+      "specialty": "Chest Diseases & Asthma Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. K.M. Monjurul Alom is a Chest Diseases Specialist in Bogra. His qualification is MBBS, DTCD, MD (Chest Diseases), FCCP (USA). He is a Assistant Professor, Respiratory Medicine at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. K.M. Monjurul Alom at Popular Diagnostic Center, Bogra is 3pm to 8pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "3pm to 8pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "name": "Dr. Rabindra Chandra Mitra",
+      "degree": "MBBS (Dhaka), DTCD (DU)",
+      "specialty": "Chest Diseases, Asthma & TB Specialist",
+      "workplace": "Chest Disease Hospital, Bogra",
+      "info": "Dr. Rabindra Chandra Mitra is a Chest Diseases Specialist in Bogra. His qualification is MBBS (Dhaka), DTCD (DU). He is a Consultant, Chest Diseases at Chest Disease Hospital, Bogra. He regularly provides treatment to his patients at Maleka Nursing Home, Bogura. Practicing hour of Dr. Rabindra Chandra Mitra at Maleka Nursing Home, Bogura is 10am to 3pm (Everyday).",
+      "chamber": {
+        "hospital": "Maleka Nursing Home, Bogura",
+        "address": "Sherpur Road, Sutrapur, Bogura - 5800",
+        "visitingTime": "10am to 3pm (Everyday)",
+        "appointmentNumber": "+8801718881897Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Mehedi Hasan",
+      "degree": "MBBS, MD (CHEST)",
+      "specialty": "Asthma & Chest Diseases Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Md. Mehedi Hasan is a Chest Diseases Specialist in Bogra. His qualification is MBBS, MD (CHEST). He is a Consultant, Respiratory Medicine at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Md. Mehedi Hasan at Popular Diagnostic Center, Bogra is 2.30pm to 8pm (Sat to Thu) & 10am to 6pm (Fri).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "2.30pm to 8pm (Sat to Thu) & 10am to 6pm (Fri)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    }
+  ]
+}

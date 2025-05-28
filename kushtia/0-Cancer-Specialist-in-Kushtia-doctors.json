@@ -1,0 +1,43 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Md. Shaheen Ferdous",
+      "degree": "MBBS (Dhaka), BCS (Health), MD (Oncology)",
+      "specialty": "Cancer Specialist",
+      "workplace": "National Institute of Cancer Research & Hospital",
+      "info": "Popular Diagnostic Centre, Kushtia\nAddress: City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia\nVisiting Hour: 10am to 4pm (Only Friday)\nAppointment: +8809666787817\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Mirpur",
+        "address": "House # 11, Haji Road, Avenue 3, Rupnagar, Mirpur 2, Dhaka",
+        "visitingTime": "5pm to 6pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809610010615Call Now"
+      }
+    },
+    {
+      "name": "Asst. Prof. Dr. Md. Tousifur Rahman",
+      "degree": "MBBS, MD (Oncology)",
+      "specialty": "Clinical & Radiation Oncologist (Cancer Specialist)",
+      "workplace": "TMSS Cancer Centre, Bogura",
+      "info": "Sono Consultation Center, Kushtia\nAddress: Sono Tower 2, Court Para, Kushtia, Bangladesh\nVisiting Hour: 9am to 3pm (Only Friday)\nAppointment: +8801770997352\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "4pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801701560012Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Shah Maruf Morshed",
+      "degree": "MBBS, BCS (Health), MD (Radiation Oncology), FCPS-Radiotherapy (Final Part)",
+      "specialty": "Clinical and Radiation Oncologist",
+      "workplace": "Kushtia Medical College & Hospital",
+      "info": "Popular Diagnostic Centre, Kushtia\nAddress: City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia\nVisiting Hour: 5pm to 8pm (Closed: Thu & friday)\nAppointment: +8809666787817\nCall Now",
+      "chamber": {
+        "hospital": "Amin Diagnostic & Medical Services, Kushtia",
+        "address": "Ram Chandra Ray Chowdhury Road, College Mor, Court Para, Kushtia",
+        "visitingTime": "4pm to 8pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801712243514Call Now"
+      }
+    }
+  ]
+}

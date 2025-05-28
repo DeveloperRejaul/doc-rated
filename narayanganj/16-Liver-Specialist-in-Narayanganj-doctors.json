@@ -1,0 +1,30 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Md. Asaduzzaman",
+      "degree": "MBBS, FCPS (Medicine), MD (Hepatology)",
+      "specialty": "Liver & Medicine Specialist",
+      "workplace": "Mugda Medical College & Hospital",
+      "info": "Dr. Md. Asaduzzaman is a Liver Specialist in Narayanganj. His qualification is MBBS, FCPS (Medicine), MD (Hepatology). He is a Assistant Professor, Hepatology at Mugda Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Md. Asaduzzaman at Popular Diagnostic Center, Narayanganj is 6pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "6pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "name": "Dr. Debraj Malakar",
+      "degree": "MBBS, BCS (Health), MD (Hepatology)",
+      "specialty": "Liver Diseases Specialist",
+      "workplace": "General Hospital (Victoria), Narayanganj",
+      "info": "Dr. Debraj Malakar is a Liver Specialist in Narayanganj. His qualification is MBBS, BCS (Health), MD (Hepatology). He is a Consultant, Hepatology at General Hospital (Victoria), Narayanganj. He regularly provides treatment to his patients at Modern Diagnostic Center, Narayanganj. Practicing hour of Dr. Debraj Malakar at Modern Diagnostic Center, Narayanganj is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Modern Diagnostic Center, Narayanganj",
+        "address": "207, Bangabandhu Road, Chashara, Narayanganj - 1400",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801820842293Call Now"
+      }
+    }
+  ]
+}

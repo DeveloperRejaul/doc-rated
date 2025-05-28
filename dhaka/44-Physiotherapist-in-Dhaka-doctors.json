@@ -1,0 +1,225 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Moniruzzaman Olive, PT",
+      "degree": "B.Sc in Physiotherapy (DU), MPH, Cert. Mulligan Concept (India)",
+      "specialty": "Physiotherapy & Pain Management Specialist",
+      "workplace": "Olive’s Physiotherapy Center, Uttara",
+      "info": "Dr. Moniruzzaman Olive, PT is a Physiotherapist in Dhaka. His qualification is B.Sc in Physiotherapy (DU), MPH, Cert. Mulligan Concept (India). He is a Head, Physiotherapy at Olive’s Physiotherapy Center, Uttara. He regularly provides treatment to his patients at Olive’s Physiotherapy Center, Uttara. Practicing hour of Dr. Moniruzzaman Olive, PT at Olive’s Physiotherapy Center, Uttara is 9am to 8pm (Everyday).",
+      "chamber": {
+        "hospital": "Olive’s Physiotherapy Center, Uttara",
+        "address": "23, Sonargoan Janpath Road, Sector # 12, Uttara, Dhaka - 1230",
+        "visitingTime": "9am to 8pm (Everyday)",
+        "appointmentNumber": "+8801946002600Call Now"
+      }
+    },
+    {
+      "name": "Dr. Nasiruddin Ahmed, PT",
+      "degree": "BPT, DSS (Exercise Physiology), MPH (Epidemiology), MSc (Physiotherapy)",
+      "specialty": "Pain, Arthritis, Paralysis & Physiotherapy Specialist",
+      "workplace": "IDSC, Ministry of Social Welfare",
+      "info": "Dr. Nasiruddin Ahmed, PT is a Physiotherapist in Dhaka. His qualification is BPT, DSS (Exercise Physiology), MPH (Epidemiology), MSc (Physiotherapy). He is a Consultant, Physiotherapy at IDSC, Ministry of Social Welfare. He regularly provides treatment to his patients at Nasir HealthCare & Physiotherapy. Practicing hour of Dr. Nasiruddin Ahmed, PT at Nasir HealthCare & Physiotherapy is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Nasir HealthCare & Physiotherapy",
+        "address": "60, West Monipur, Kamal Soroni, Mirpur-2, Dhaka",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801638618081Call Now"
+      }
+    },
+    {
+      "name": "Dr. Azharul Islam (PT)",
+      "degree": "Bachelor of Physiotherapy (DU) NITORProfessional Master’s in Speech & Language Pathology - PMSLP (DU)",
+      "specialty": "Pain, Paralysis, Disability & Urological Health Physiotherapy Specialist",
+      "workplace": "Mayfair Wellness Clinic, Gulshan",
+      "info": "Dr. Azharul Islam(PT) is a registered physiotherapist with degrees from BPT, faculty of Medicine, DU (NITOR) and Masters in speech and language pathology, Department of communication disorders (DU). He has worked in a variety of settings, encompassing orthopedics, neurology, pain, paralysis and sports physiotherapy through Mayfair Wellness Clinic.",
+      "chamber": {
+        "hospital": "Mayfair Wellness Clinic, Gulshan",
+        "address": "MCC Building (2nd Floor), 76 Gulshan Avenue, Dhaka",
+        "visitingTime": "10am to 9pm (Open Everyday)",
+        "appointmentNumber": "+8801986660000, +8801313896600Call Now"
+      }
+    },
+    {
+      "name": "Dr. Debika Dhar (PT)",
+      "degree": "BPT (NITOR), Faculty of Medicine (DU)Master’s in Public Health (IUB)",
+      "specialty": "Pain, Paralysis, Disability & Women’s Health Specialist",
+      "workplace": "Mayfair Wellness Clinic, Gulshan",
+      "info": "Dr. Debika Dhar (PT) is a registered physiotherapist with degrees from BPT (DU) NITOR, Masters in Public Health (IUB). She has experienced in different conditions of physiotherapy cases, encompassing orthopaedics, neurology, pain, paralysis, women’s health &sports physiotherapy through Mayfair Wellness Clinic.",
+      "chamber": {
+        "hospital": "Mayfair Wellness Clinic, Gulshan",
+        "address": "MCC Building (2nd Floor), 76 Gulshan Avenue, Dhaka",
+        "visitingTime": "10am to 9pm (Open Everyday)",
+        "appointmentNumber": "+8801986660000, +8801313896600Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Maksudur Rahman, PT",
+      "degree": "BPT (DU), PGT (BSMMU), ASMT (INDIA), MS (Physio in ORTHO)",
+      "specialty": "Pain, Stroke, Paralysis Specialist & Physiotherapist",
+      "workplace": "HAF General Hospital, Badda",
+      "info": "Dr. Md. Maksudur Rahman, PT is a Physiotherapist in Dhaka. His qualification is BPT (DU), PGT (BSMMU), ASMT (INDIA), MS (Physio in ORTHO). He is a Consultant, Physiotherapy at HAF General Hospital, Badda. He regularly provides treatment to his patients at HAF General Hospital, Badda. Practicing hour of Dr. Md. Maksudur Rahman, PT at HAF General Hospital, Badda is 2am to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "HAF General Hospital, Badda",
+        "address": "Cha 88/5, Thana Road, Uttar Badda, Dhaka",
+        "visitingTime": "2am to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801911123262Call Now"
+      }
+    },
+    {
+      "name": "Dr. Imtiaz Uddin Ahmed, PT",
+      "degree": "B.Sc in Physiotherapy",
+      "specialty": "Physiotherapy (Pain, Arthritis & Paralysis) Specialist",
+      "workplace": "Centre for Rehabilitation Services - CRS",
+      "info": "Dr. Imtiaz Uddin Ahmed, PT is a Physiotherapist in Dhaka. His qualification is B.Sc in Physiotherapy. He is a Clinical Physiotherapist, Physiotherapy at Centre for Rehabilitation Services - CRS. He regularly provides treatment to his patients at CRS Physiotherapy Center. Practicing hour of Dr. Imtiaz Uddin Ahmed, PT at CRS Physiotherapy Center is 12pm to 8pm (Everyday).",
+      "chamber": {
+        "hospital": "CRS Physiotherapy Center",
+        "address": "76, Gausul Azam Avenue, Sector-13, Uttara, Dhaka",
+        "visitingTime": "12pm to 8pm (Everyday)",
+        "appointmentNumber": "+8801912772241Call Now"
+      }
+    },
+    {
+      "name": "Dr. Jamila Sultana Urme (PT)",
+      "degree": "Bachelor of physiotherapy (DU) NITOR, PGD in Exercise Physiology (BKSP)Masters in Disability & Rehabilitation (BOU)",
+      "specialty": "Pain, Paralysis, Disability & Sports Injury Physiotherapy Specialist",
+      "workplace": "Mayfair Wellness Clinic, Gulshan",
+      "info": "Dr. Jamila Sultana Urme (PT) is a registered physiotherapist with degrees from BPT (DU) NITOR, PGD in Exercise Physiology (BKSP), Masters in Disability and Rehabilitation (BOU). She has experienced in different conditions of physiotherapy cases, encompassing orthopedics, neurology, pain, paralysis & sports physiotherapy through Mayfair Wellness Clinic.",
+      "chamber": {
+        "hospital": "Mayfair Wellness Clinic, Gulshan",
+        "address": "MCC Building (2nd Floor), 76 Gulshan Avenue, Dhaka",
+        "visitingTime": "10am to 9pm (Open Everyday)",
+        "appointmentNumber": "+8801986660000, +8801313896600Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Murad Hossain Mehedi (PT)",
+      "degree": "Bachelor of Physiotherapy (DU) NITOR, PGD in Exercise Physiology (BKSP)Masters in Nutrition & Food Science (UniSA)Certificate in Manual Physiotherapy (CMPT-Canada)",
+      "specialty": "Pain, Disability, Urological Health & Sports Injury Physiotherapy Specialist",
+      "workplace": "Mayfair Wellness Clinic, Gulshan",
+      "info": "Dr. Murad is the In-charge and Consultant Physiotherapist at Mayfair Wellness Clinic. He has working as a Physiotherapist for about 6 years and currently leads a Team of Professional Physiotherapists. His education qualification is Bachelor of Physiotherapy (DU) NITOR, PGD in Exercise Physiology (BKSP), Masters in Nutrition and food science (UniSA) and Certificate in Manual Physiotherapy (CMPT-Canada).",
+      "chamber": {
+        "hospital": "Mayfair Wellness Clinic, Gulshan",
+        "address": "MCC Building (2nd Floor), 76 Gulshan Avenue, Dhaka",
+        "visitingTime": "10am to 9pm (Open Everyday)",
+        "appointmentNumber": "+8801986660000, +8801313896600Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Rashel Chowdhury, PT",
+      "degree": "Bachelor of Science in Physiotherapy",
+      "specialty": "Physiotherapy (Pain, Arthritis & Paralysis) Specialist",
+      "workplace": "Olives Physiotherapy Center, Uttara",
+      "info": "Dr. Md. Rashel Chowdhury, PT is a Physiotherapist in Dhaka. His qualification is Bachelor of Science in Physiotherapy. He is a Clinical Physiotherapist, Physiotherapy and Rehabilitation at Olives Physiotherapy Center, Uttara . He regularly provides treatment to his patients at Olive’s Physiotherapy Center, Uttara. Practicing hour of Dr. Md. Rashel Chowdhury, PT at Olive’s Physiotherapy Center, Uttara is 9am to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Olive’s Physiotherapy Center, Uttara",
+        "address": "23, Sonargoan Janpath Road, Sector # 12, Uttara, Dhaka - 1230",
+        "visitingTime": "9am to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801650195727Call Now"
+      }
+    },
+    {
+      "name": "Dr. Sohana Akter, PT",
+      "degree": "PT (CRP, DU), MPT-Fellow (CRP, DU)",
+      "specialty": "Pain, Paralysis & Rehabilitation Specialist",
+      "workplace": "Centre for the Rehabilitation of the Paralysed (CRP), Savar",
+      "info": "Dr. Sohana Akter, PT is a Female Physiotherapist in Dhaka. Her qualification is PT (CRP, DU), MPT-Fellow (CRP, DU). She is a Ex. Clinical Neuro Physiotherapist at Centre for the Rehabilitation of the Paralysed (CRP), Savar. She regularly provides treatment to her patients at Triangle Pain & Rehabilitation. Practicing hour of Dr. Sohana Akter, PT at Triangle Pain & Rehabilitation is 9am to 1pm & 4pm to 9.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Triangle Pain & Rehabilitation",
+        "address": "2/3B, Block- E, Lalmatia, Mohammadpur, Dhaka (Opposite road of Mohammadpur Govt. College)",
+        "visitingTime": "9am to 1pm & 4pm to 9.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801932-978398Call Now"
+      }
+    },
+    {
+      "name": "Assoc. Prof. Dr. S.M. Mustofa Kamal, PT",
+      "degree": "MPH (BUHS), MDMR (SST-BOU), Bachelor of Physiotherapy (CRP-DU)",
+      "specialty": "Physiotherapy (Pain, Paralysis, Arthritis & Disability) Specialist",
+      "workplace": "Enam Medical College & Hospital",
+      "info": "Assoc. Prof. Dr. S.M. Mustofa Kamal, PT is a Physiotherapist in Dhaka. His qualification is MPH (BUHS), MDMR (SST-BOU), Bachelor of Physiotherapy (CRP-DU). He is a Associate Professor, Physiotherapy and Rehabilitation at Enam Medical College & Hospital. He regularly provides treatment to his patients at Academy of Physiotherapy Pain & Rehabilitation Centre. Practicing hour of Assoc. Prof. Dr. S.M. Mustofa Kamal, PT at Academy of Physiotherapy Pain & Rehabilitation Centre is 6pm to 9pm (Closed: Friday & Saturday).",
+      "chamber": {
+        "hospital": "Academy of Physiotherapy Pain & Rehabilitation Centre",
+        "address": "House # 05, Road # 08, Block # A, Section # 10 (Original), Mirpur, Dhaka",
+        "visitingTime": "6pm to 9pm (Closed: Friday & Saturday)",
+        "appointmentNumber": "+8801758394302Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Shafiullah Prodhan",
+      "degree": "PhD, MS (Disability & Rehabilitation), BPT(DU) NITOR",
+      "specialty": "Rehab-Physio Specialist of Pain, Paralysis, Sports Injury, Disabilities, Arthritis",
+      "workplace": "Associate Professor, International Institute of Health Sciences (IIHS)Lecturer (Ex), Bangladesh Medical College & HospitalConsultant, Dhaka Pain Physiotherapy & Rehabilitation Center (DPRC)President (Acting), Bangladesh Physiotherapy Soceity (BPS)Advisor, Editorial Board, Medicalbd News Portal",
+      "info": "Dr. Md. Shafiullah Prodhan, Chairman and Consultant at DPRC Ltd., is a renowned rehab-physio specialist with over two decades of experience. A top academic performer, he received district-based scholarships and completed his bachelor’s degree in physiotherapy from NITOR under Dhaka University’s Faculty of Medicine. He further enhanced his expertise with an MS in Disability and Rehabilitation from Bangladesh and a PhD from India, focusing on a comparative study of back pain in urban and rural populations.",
+      "chamber": {
+        "hospital": "DPRC Hospital & Diagnostic Ltd",
+        "address": "12/1, Ring Road, Shyamoli, Dhaka (Opposite to Shyamoli Club Field)",
+        "visitingTime": "10am to 2pm & 5pm to 8pm (Friday, 10am to 1pm)",
+        "appointmentNumber": "+8809666774411Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Nesar Uddin Shaker",
+      "degree": "BPT, MPT (BHPI-CRP), MS (Geriatric-DU), Diploma in Orthopedic Medicine (In Course)",
+      "specialty": "Physiotherapy (Pain, Arthritis, Paralysis) Specialist",
+      "workplace": "Physio Zone Physiotherapy Center, Uttara",
+      "info": "KC Hospital & Diagnostic Center\nAddress: 2620, Nowapara, Daskinkhan, Uttara, Dhaka\nVisiting Hour: 6pm to 9pm (Closed:Friday)\nAppointment: +8801978332936\nCall Now",
+      "chamber": {
+        "hospital": "Physio Zone Physiotherapy Center, Uttara",
+        "address": "22, Rabindra Sharani Road, Sector - 07, Uttara, Dhaka-1230",
+        "visitingTime": "10am to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8801978332936Call Now"
+      }
+    },
+    {
+      "name": "Dr. Razia Sultana (PT)",
+      "degree": "BPT, BHMS (1st Place, DU), MDMR, CDMed (BUP), DMUD",
+      "specialty": "Physiotherapy, Pain, Injury, Paralysis, Disability (Autism), Rehabilitation & Homeopathic Medicine Specialist",
+      "workplace": "Alfaz MediAid Physiotherapy & Homeopathy Center",
+      "info": "Sirajdikhan Chamber\nAddress: Ichapura Hospital Road, Sirajdikhan, Munshigonj\nVisiting Hour: 10am to 3pm\nAppointment: +8801796205569\nCall Now",
+      "chamber": {
+        "hospital": "Alfaz MediAid Physiotherapy & Homeopathy Center",
+        "address": "205, Newpaltan Line (Beside Dutch Bangla Bank Booth), Azimpur, Dhaka",
+        "visitingTime": "6pm to 9pm (Everyday)",
+        "appointmentNumber": "+8801796205569Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Abu Alam (PT)",
+      "degree": "Bachelor of Physiotherapy (DU) NITORPGD in Exercise Physiology (BKSP - Fellow)",
+      "specialty": "Pain, Paralysis, Disability, Urological Health & Sports Injury Physiotherapy Specialist",
+      "workplace": "Mayfair Wellness Clinic, Gulshan",
+      "info": "Dr. Md. Abu Alam is an experienced clinical physiotherapist. He completed his Bachelor of Physiotherapy from NITOR which is under of DU’s Faculty of Medicine. He is doing PGD from BKSP. He provides physiotherapy for Musculo-skeletal, Neurological, Disability, Sports injury and Urological health.",
+      "chamber": {
+        "hospital": "Mayfair Wellness Clinic, Gulshan",
+        "address": "MCC Building (2nd Floor), 76 Gulshan Avenue, Dhaka",
+        "visitingTime": "10am to 9pm (Open Everyday)",
+        "appointmentNumber": "+8801986660000, +8801313896600Call Now"
+      }
+    },
+    {
+      "name": "Goutoum Barai",
+      "degree": "Masters in Rehabilitation Science (MRS), BSPT(DU)",
+      "specialty": "Neurology, Bobath Basic and Advance 1 (IBITA)",
+      "workplace": "Fin-Bangla Paralysed Rehabilitation Center (FBPRC)",
+      "info": "Goutoum Barai is a Physiotherapist in Dhaka. His qualification is Masters in Rehabilitation Science (MRS), BSPT(DU). He is a Managing Director at Fin-Bangla Paralysed Rehabilitation Center (FBPRC). He regularly provides treatment to his patients at Fin-Bangla Paralysed Rehabilitation Center (FBPRC). Practicing hour of Goutoum Barai at Fin-Bangla Paralysed Rehabilitation Center (FBPRC) is 9am to 5pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Fin-Bangla Paralysed Rehabilitation Center (FBPRC)",
+        "address": "Plot-15, Hakim Center, Lift-9, Opposite of Mirpur New Market, Mirpur-1, Dhaka",
+        "visitingTime": "9am to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8801995277414Call Now"
+      }
+    },
+    {
+      "name": "Md. Hasan Tareq",
+      "degree": "B.Sc (Hons), Physiotherapy, MPH",
+      "specialty": "Pain, Paralysis, Disability & Sports Injury Physiotherapy Specialist",
+      "workplace": "Dhaka Medical Institute (DMI)",
+      "info": "Md. Hasan Tareq is a highly skilled physiotherapy specialist with expertise in pain management, paralysis, disability rehabilitation, and sports injury treatment. Holding a B.Sc (Hons) in Physiotherapy and an MPH, he is dedicated to helping patients recover mobility and improve their quality of life. As an Assistant Professor at Dhaka Medical Institute (DMI), he combines academic excellence with hands-on patient care. He specializes in treating stroke rehabilitation, spinal cord injuries, arthritis, back and neck pain, post-surgical recovery, and sports-related injuries. Patients can consult him at Comfort Diagnostic Center, Dhanmondi, where he provides personalized physiotherapy solutions. Book an appointment today for expert physiotherapy care and a faster recovery.",
+      "chamber": {
+        "hospital": "Comfort Diagnostic Center, Dhanmondi",
+        "address": "Comfort Doctors’ Chamber- 2, Green Road, Dhaka",
+        "visitingTime": "8am to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801731956033Call Now"
+      }
+    }
+  ]
+}

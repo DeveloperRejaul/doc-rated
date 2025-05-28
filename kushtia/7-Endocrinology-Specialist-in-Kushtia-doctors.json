@@ -1,0 +1,30 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Md. Humayun Kabir",
+      "degree": "MBBS, BCS( Health), DEM (BIRDEM), FCPS (Endocrinology-Thesis)",
+      "specialty": "Endocrinology (Diabetes, Thyroid, Hormone) Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Md. Humayun Kabir is a Endocrinologist in Kushtia. His qualification is MBBS, BCS( Health), DEM (BIRDEM), FCPS (Endocrinology-Thesis). He is a Assistant Registrar, Endocrinology at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Centre, Kushtia. Practicing hour of Dr. Md. Humayun Kabir at Popular Diagnostic Centre, Kushtia is 9am to 10pm (Only Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Centre, Kushtia",
+        "address": "City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia",
+        "visitingTime": "9am to 10pm (Only Friday)",
+        "appointmentNumber": "+8809666787817Call Now"
+      }
+    },
+    {
+      "name": "Dr. Hasan Mahfuz Reza (Likhon)",
+      "degree": "MBBS, CCD, DEM, MPhil, MACP, MSc, MPH",
+      "specialty": "Diabetes, Thyroid, Hormone & Medicine Specialist",
+      "workplace": "Sono Consultation Centre, Kushtia",
+      "info": "Dr. Hasan Mahfuz Reza (Likhon) is a Endocrinologist in Kushtia. His qualification is MBBS, CCD, DEM, MPhil, MACP, MSc, MPH. He is a Consultant Endocrinologist at Sono Consultation Centre, Kushtia. He regularly provides treatment to his patients at Centre For Hormone Care. Practicing hour of Dr. Hasan Mahfuz Reza (Likhon) at Centre For Hormone Care is 9am to 1pm & 4pm to 8pm (Sat to Thu), am to 4pm (Friday).",
+      "chamber": {
+        "hospital": "Centre For Hormone Care",
+        "address": "Sono Consultation Centre, Sono Tower-2, Room 502, Courtpara, Kushtia",
+        "visitingTime": "9am to 1pm & 4pm to 8pm (Sat to Thu), am to 4pm (Friday)",
+        "appointmentNumber": "+8801799694760Call Now"
+      }
+    }
+  ]
+}

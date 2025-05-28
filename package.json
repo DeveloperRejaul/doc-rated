@@ -1,0 +1,26 @@
+{
+  "name": "docrated",
+  "version": "1.0.0",
+  "description": "docrated project ",
+  "main": "dist/index.js",
+  "scripts": {
+    "start": "node dist/index.js",
+    "dev": "ts-node src/index.ts",
+    "build": "esbuild --bundle src/index.ts --outdir=dist --platform=node --target=es2020 --minify"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "p-limit": "^6.2.0",
+    "puppeteer": "^24.6.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.25.0",
+    "esbuild": "^0.25.2",
+    "eslint": "^9.25.0",
+    "globals": "^16.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.3",
+    "typescript-eslint": "^8.30.1"
+  }
+}

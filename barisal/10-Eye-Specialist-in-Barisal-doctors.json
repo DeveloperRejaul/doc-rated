@@ -1,0 +1,56 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. D.B. Pal",
+      "degree": "MBBS, DO, MS (EYE)",
+      "specialty": "Eye Specialist & Phaco Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. D.B. Pal is a Eye Specialist in Barisal. His qualification is MBBS, DO, MS (EYE). He is a Associate Professor & Head, Ophthalmology at Sher-E-Bangla Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Barisal. Practicing hour of Dr. D.B. Pal at Labaid Diagnostic, Barisal is 5pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Barisal",
+        "address": "K Jahan Center, House # 106, Sadar Road, Barisal",
+        "visitingTime": "5pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801766663305Call Now"
+      }
+    },
+    {
+      "name": "Dr. S. M. Zahid Hasan",
+      "degree": "MBBS, MD (Russia), CO (EYE), PhD (EYE)",
+      "specialty": "Eye Specialist & Phaco Surgeon",
+      "workplace": "BellView Hospital & Medical Services, Barisal",
+      "info": "Dr. S. M. Zahid Hasan is a Eye Specialist in Barisal. His qualification is MBBS, MD (Russia), CO (EYE), PhD (EYE). He is a Consultant, Eye at BellView Hospital & Medical Services, Barisal. He regularly provides treatment to his patients at BellView Hospital & Medical Services, Barisal. Practicing hour of Dr. S. M. Zahid Hasan at BellView Hospital & Medical Services, Barisal is 12pm to 3pm & 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "BellView Hospital & Medical Services, Barisal",
+        "address": "114, Sadar Road, Barisal",
+        "visitingTime": "12pm to 3pm & 6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801733063692Call Now"
+      }
+    },
+    {
+      "name": "Dr. Borna",
+      "degree": "MBBS, BCS (Health), DO (BSMMU), MCPS (EYE)",
+      "specialty": "Eye Specialist & Phaco Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. Borna is a Eye Specialist in Barisal. Her qualification is MBBS, BCS (Health), DO (BSMMU), MCPS (EYE). She is a Assistant Professor, Ophthalmology at Sher-E-Bangla Medical College & Hospital. She regularly provides treatment to her patients at Islami Bank Hospital, Barisal. Practicing hour of Dr. Borna at Islami Bank Hospital, Barisal is 4pm to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Barisal",
+        "address": "Band Road, Chandmari, Barisal - 8200",
+        "visitingTime": "4pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801318321847Call Now"
+      }
+    },
+    {
+      "name": "Dr. M R Khan Sohan",
+      "degree": "MBBS (DU), BCS (Health), DO (BSMMU)",
+      "specialty": "Eye Specialist & Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. M R Khan Sohan is a Eye Specialist in Barisal. His qualification is MBBS (DU), BCS (Health), DO (BSMMU). He is a Resident Surgeon, Ophthalmology at Sher-E-Bangla Medical College & Hospital. He regularly provides treatment to his patients at Rahat Anwar Hospital, Barisal. Practicing hour of Dr. M R Khan Sohan at Rahat Anwar Hospital, Barisal is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Rahat Anwar Hospital, Barisal",
+        "address": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801711993953Call Now"
+      }
+    }
+  ]
+}

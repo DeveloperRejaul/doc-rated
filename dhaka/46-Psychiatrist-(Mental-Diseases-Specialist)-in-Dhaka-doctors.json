@@ -1,0 +1,862 @@
+{
+  "doctor": [
+    {
+      "name": "Prof. Brig. Gen. Dr. Kumrul Hasan",
+      "degree": "MBBS, MCPS, MPHIL (Psychiatry), MMEd, Fellow Child Psychiatry (Pakistan), MACP (USA), FRCP (UK)",
+      "specialty": "Psychiatry, Brain, Drug Addiction, Sex Specialist & Neuro Psychiatrist",
+      "workplace": "Combined Military Hospital (CMH), Dhaka",
+      "info": "Prof. Brig. Gen. Dr. Kumrul Hasan is a Psychiatrist in Dhaka. His qualification is MBBS, MCPS, MPHIL (Psychiatry), MMEd, Fellow Child Psychiatry (Pakistan), MACP (USA), FRCP (UK). He is a Adviser Specialist, Psychiatry at Combined Military Hospital (CMH), Dhaka. He regularly provides treatment to his patients at Bangladesh Specialized Hospital. Practicing hour of Prof. Brig. Gen. Dr. Kumrul Hasan at Bangladesh Specialized Hospital is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Bangladesh Specialized Hospital",
+        "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666700100Call Now"
+      }
+    },
+    {
+      "name": "Dr. Redwana Hossain",
+      "degree": "MBBS, BCS (Health), MD (Psychiatry)",
+      "specialty": "Psychiatry, Drug Addiction, Dementia & Female Psychosexual Disorder Specialist",
+      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+      "info": "Insight Psycho-social Care\nAddress: 71/1, Pioneer Road, Segunbagicha (Opposite to NBR), Dhaka\nVisiting Hour: 5pm to 7pm (Sun, Tue & Thu)\nAppointment: +8801834623022\nCall Now",
+      "chamber": {
+        "hospital": "Khidmah Hospital, Dhaka",
+        "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
+        "visitingTime": "4pm to 6pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809606063030Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Nahid Mahjabin Morshed",
+      "degree": "MBBS, MSc (DU), M.Phil (Psychiatry), Fellow (WPA, Australia)",
+      "specialty": "Mental Diseases, Brain & Drug Addiction Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. Nahid Mahjabin Morshed is a Psychiatrist in Dhaka. Her qualification is MBBS, MSc (DU), M.Phil (Psychiatry), Fellow (WPA, Australia). She is a Professor, Child & Adolescent Psychiatry and Chairman, Department of Psychiatry at Bangabandhu Sheikh Mujib Medical University Hospital. She regularly provides treatment to her patients at Medinova Medical Services, Malibagh. Practicing hour of Prof. Dr. Nahid Mahjabin Morshed at Medinova Medical Services, Malibagh is 4pm to 6pm (Sun, Tue & Wednesday).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Malibagh",
+        "address": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
+        "visitingTime": "4pm to 6pm (Sun, Tue & Wednesday)",
+        "appointmentNumber": "+8801716410062, +8801790118855Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mekhala Sarkar",
+      "degree": "MBBS, FCPS (Psychiatry), Fellow WPA (Turkey)",
+      "specialty": "Mental Health Specialist & Psychiatrist",
+      "workplace": "National Institute of Mental Health & Hospital",
+      "info": "Popular Diagnostic Center, Dhanmondi\nAddress: Room # 407, House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205\nVisiting Hour: 5pm to 10pm (Sat, Sun, Tue & Wed)\nAppointment: +8809666787801\nCall Now",
+      "chamber": {
+        "hospital": "Health and Hope Hospital",
+        "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
+        "visitingTime": "7pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801611216232Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. M. A. Mohit Kamal",
+      "degree": "MBBS, MPhil (Psychiatry), PhD (Psychiatry), FWPA (USA), CME-WCP",
+      "specialty": "Psychiatry (Mental Diseases) Specialist & Psychotherapist",
+      "workplace": "National Institute of Mental Health & Hospital",
+      "info": "Popular Diagnostic Center, Dhanmondi\nAddress: House # 16, Road # 2, Dhanmondi, Dhaka – 1205\nVisiting Hour: 7pm to 10pm (Mon, Wed & Thu)\nAppointment: +8809666787801\nCall Now",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Dhanmondi",
+        "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "4.30pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "10606Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Jhunu Shamsun Nahar",
+      "degree": "MBBS, FCPS (Psychiatry)",
+      "specialty": "Psychiatrist & Psychotherapist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. Jhunu Shamsun Nahar is a Psychiatrist in Dhaka. Her qualification is MBBS, FCPS (Psychiatry).  She is a Ex. Professor & Chairman, Psychiatry at Bangabandhu Sheikh Mujib Medical University Hospital. She obtained trainings in Cognitive Behavior Therapy (CBT), Dialectical Behavior Therapy (DBT), Couple Therapy, Mindfulness, Relaxation Therapy and Neuro-Linguistic Programming (NLP) from home and abroad. She regularly provides treatment to her patients at Ibn Sina Diagnostic Center, Dhanmondi. Practicing hour of Prof. Dr. Jhunu Shamsun Nahar at Ibn Sina Diagnostic Center, Dhanmondi is 6pm to 9pm (Sunday, Tuesday & Thursday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
+        "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+        "visitingTime": "6pm to 9pm (Sunday, Tuesday & Thursday)",
+        "appointmentNumber": "+8809610010615Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Md. Shah Alam",
+      "degree": "MBBS, FCPS (Psychiatry)",
+      "specialty": "Mental Diseases, Drug Addiction, Sexual Health Specialist & Psychotherapist",
+      "workplace": "National Institute of Mental Health & Hospital",
+      "info": "Chittagong Square Clinical Laboratory\nAddress: 195, Plot # 20, Road # 11, KB Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 9am to 9pm (Every Thursday)\nAppointment: +8801736079570\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Dhanmondi",
+        "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+        "visitingTime": "6pm to 10pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809666787801Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Md. Mohsin Ali Shah",
+      "degree": "MBBS, M.Phil (Psychiatry), MD (Psychiatry)",
+      "specialty": "Mental Diseases, Drug Addiction, Sex Medicine &  Psychiatry Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, B.B. Road, Chashara, Narayanganj – 1400\nVisiting Hour: 4pm to 10pm (Only Tuesday)\nAppointment: +8809666787804\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Shantinagar",
+        "address": "Unit # 02, House # 15, Shantinagar, Motijheel, Dhaka",
+        "visitingTime": "4:30pm to 8pm (Monday & Thurday)",
+        "appointmentNumber": "+8809666787803Call Now"
+      }
+    },
+    {
+      "name": "Brig. Gen. Prof. Dr. Md. Azizul Islam",
+      "degree": "MBBS, FCPS (PSY), FRCP (UK), FACP (USA)",
+      "specialty": "Mental Diseases, Drug Addiction & Psychiatry Specialist",
+      "workplace": "Armed Forces Medical College, Dhaka",
+      "info": "Brig. Gen. Prof. Dr. Md. Azizul Islam is a Psychiatrist in Dhaka. His qualification is MBBS, FCPS (PSY), FRCP (UK), FACP (USA). He is a Professor & Head, Psychiatry at Armed Forces Medical College, Dhaka. He regularly provides treatment to his patients at Square Hospital, Dhaka. Practicing hour of Brig. Gen. Prof. Dr. Md. Azizul Islam at Square Hospital, Dhaka is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Square Hospital, Dhaka",
+        "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "10616Call Now"
+      }
+    },
+    {
+      "name": "Prof. Md. Waziul Alam Chowdhury",
+      "degree": "MBBS, FCPS (Psychiatry), MACP (USA), WHO Fellowship (India)",
+      "specialty": "Psychiatry & Mental Health Specialist",
+      "workplace": "National Institute of Mental Health & Hospital",
+      "info": "Anwer Khan Modern Medical College Hospital\nAddress: House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205\nVisiting Hour: 7pm to 9pm (Closed: Thursday & Friday)\nAppointment: +88+8801715315288\nCall Now",
+      "chamber": {
+        "hospital": "Square Hospital, Dhaka",
+        "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "10616Call Now"
+      }
+    },
+    {
+      "name": "Dr. Raisul Islam Parag",
+      "degree": "MBBS (DMC), MD (Psychiatry)",
+      "specialty": "Psychiatry (Mental Diseases, Depression, Sexual Problem) Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Raisul Islam Parag is a Psychiatrist in Dhaka. His qualification is MBBS (DMC), MD (Psychiatry). He is a Registrar, Psychiatry at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Prescription Point, Banani. Practicing hour of Dr. Raisul Islam Parag at Prescription Point, Banani is 2pm to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Prescription Point, Banani",
+        "address": "House - 105, Road - 12, Block - E, Banani, Dhaka",
+        "visitingTime": "2pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8802222297222Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Md. Abdus Salam",
+      "degree": "MBBS, DPM (DU), MCPS (Psychiatry)",
+      "specialty": "Psychiatry (Brain, Mind, Depression, Drug Addiction) Specialist & Psychotherapist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Moon Hospital, Comilla\nAddress: Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla\nVisiting Hour: 8am to 5pm (Only Friday)\nAppointment: +8801717294611\nCall Now",
+      "chamber": {
+        "hospital": "Bangladesh Psychiatric Care",
+        "address": "Suit # 6020, Shimanto Shambhar (6th Floor), Dhanmondi, Dhaka",
+        "visitingTime": "10am to 2pm (Closed: Sat & Friday)",
+        "appointmentNumber": "+8801872863002Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Md. Golam Rabbani",
+      "degree": "MBBS, FCPS (Psychiatry)",
+      "specialty": "Mental Diseases, Brain & Drug Addiction Specialist",
+      "workplace": "National Institute of Mental Health & Hospital",
+      "info": "Prof. Dr. Md. Golam Rabbani is a Psychiatrist in Dhaka. His qualification is MBBS, FCPS (Psychiatry). He is a Former Professor & Head, Psychiatry at National Institute of Mental Health & Hospital. He regularly provides treatment to his patients at Medinova Medical Services, Dhanmondi. Practicing hour of Prof. Dr. Md. Golam Rabbani at Medinova Medical Services, Dhanmondi is 8.30am to 10.30am & 6.30pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Dhanmondi",
+        "address": "House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka",
+        "visitingTime": "8.30am to 10.30am & 6.30pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "10658Call Now"
+      }
+    },
+    {
+      "name": "Dr. Nasim Jahan",
+      "degree": "MBBS, MCPS, FCPS (Psychiatry)",
+      "specialty": "Mental Diseases, Brain Disorder & Drug Addiction Specialist",
+      "workplace": "Birdem General Hospital & Ibrahim Medical College",
+      "info": "Dr. Nasim Jahan is a Psychiatrist in Dhaka. Her qualification is MBBS, MCPS, FCPS (Psychiatry). She is a Associate Professor, Psychiatry at Birdem General Hospital & Ibrahim Medical College. She regularly provides treatment to her patients at Birdem Mohila O Shishu Hospital. Practicing hour of Dr. Nasim Jahan at Birdem Mohila O Shishu Hospital is 5pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Birdem Mohila O Shishu Hospital",
+        "address": "1/A, Segun Bagicha Road, Dhaka – 1000",
+        "visitingTime": "5pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801847259770Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Nilufer Akhter Jahan",
+      "degree": "MBBS, M.Phil (Psychiatry), MD (Psychiatry)",
+      "specialty": "Psychiatry (Mental Diseases, Drug Addiction, Brain Disorder) Specialist",
+      "workplace": "National Institute of Mental Health & Hospital",
+      "info": "Prof. Dr. Nilufer Akhter Jahan is a Psychiatrist in Dhaka. Her qualification is MBBS, M.Phil (Psychiatry), MD (Psychiatry). She is a Professor, Geriatric & Organic Psychiatry at National Institute of Mental Health & Hospital. She regularly provides treatment to her patients at Ibn Sina Diagnostic Center, Badda. Practicing hour of Prof. Dr. Nilufer Akhter Jahan at Ibn Sina Diagnostic Center, Badda is 10.30am to 3.00pm (Sat, Sun, Tues & Thu).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Badda",
+        "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
+        "visitingTime": "10.30am to 3.00pm (Sat, Sun, Tues & Thu)",
+        "appointmentNumber": "+8809610009614Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. AHM Mustafizur Rahman",
+      "degree": "MBBS, FCPS (Psychiatry)",
+      "specialty": "Psychiatry (Mental Diseases) Specialist & Psychotherapist",
+      "workplace": "National Institute of Mental Health & Hospital",
+      "info": "Prof. Dr. AHM Mustafizur Rahman is a Psychiatrist in Dhaka. His qualification is MBBS, FCPS (Psychiatry). He is a Former Professor, Psychiatry at National Institute of Mental Health & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Dhanmondi. Practicing hour of Prof. Dr. AHM Mustafizur Rahman at Ibn Sina Diagnostic Center, Dhanmondi is 12pm to 1pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
+        "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+        "visitingTime": "12pm to 1pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809610010615Call Now"
+      }
+    },
+    {
+      "name": "Dr. Ahsan Uddin Ahmed",
+      "degree": "MBBS, BCS (Health), MCPS (Psychiatry), FCPS (Psychiatry)",
+      "specialty": "Psychiatrist & Psychotherapist",
+      "workplace": "National Institute of Mental Health & Hospital",
+      "info": "Dr. Ahsan Uddin Ahmed is a Psychiatrist in Dhaka. His qualification is MBBS, BCS (Health), MCPS (Psychiatry), FCPS (Psychiatry). He is a Associate Professor, Geriatric & Organic Psychiatry at National Institute of Mental Health & Hospital. He regularly provides treatment to his patients at BRB Hospital, Dhaka. Practicing hour of Dr. Ahsan Uddin Ahmed at BRB Hospital, Dhaka is 4pm to 9.30pm (Closed: Mon & Friday).",
+      "chamber": {
+        "hospital": "BRB Hospital, Dhaka",
+        "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
+        "visitingTime": "4pm to 9.30pm (Closed: Mon & Friday)",
+        "appointmentNumber": "10647Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Abdullah Al Mamun",
+      "degree": "MBBS, FCPS (Psychiatry)",
+      "specialty": "Psychiatry (Mental Diseases, Drug Addiction, Brain Disorder) Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Prof. Dr. Abdullah Al Mamun is a Psychiatrist in Dhaka. His qualification is MBBS, FCPS (Psychiatry). He is a Professor & Head, Dept. of Psychiatry at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Comfort Diagnostic Center, Dhanmondi. Practicing hour of Prof. Dr. Abdullah Al Mamun at Comfort Diagnostic Center, Dhanmondi is 6pm to 9pm (Sun, Mon, Wed & Thu).",
+      "chamber": {
+        "hospital": "Comfort Diagnostic Center, Dhanmondi",
+        "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "6pm to 9pm (Sun, Mon, Wed & Thu)",
+        "appointmentNumber": "+8801731956033Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Faruq Alam",
+      "degree": "MBBS, FCPS (Psychiatry), WHO Fellow (Child Psychiatry)",
+      "specialty": "Mental Diseases, Drug Addiction, Psychiatry & Child Psychiatry Specialist",
+      "workplace": "National Institute of Mental Health & Hospital",
+      "info": "Labaid Specialized Hospital, Dhanmondi\nAddress: House # 06, Road # 04, Dhanmondi, Dhaka – 1205\nVisiting Hour: Unknown. Please call to know visiting hour\nContact Number: 10606\nCall Now",
+      "chamber": {
+        "hospital": "Khidmah Hospital, Dhaka",
+        "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
+        "visitingTime": "4.30pm to 5.30pm (Only Thursday)",
+        "appointmentNumber": "+8809606063030Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Avro Das Voumik",
+      "degree": "MBBS, FCPS (Psychiatry), MAPA (USA)",
+      "specialty": "Psychiatry (Mental Diseases, Epilepsy, Drug Addiction) Specialist",
+      "workplace": "National Institute of Mental Health & Hospital",
+      "info": "Prof. Dr. Avro Das Voumik is a Mental Doctor in Dhaka. His qualification is MBBS, FCPS (Psychiatry), MAPA (USA). He is working as a Psychiatry (Mental Diseases, Epilepsy, Drug Addiction) Specialist doctor in National Institute of Mental Health & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Mirpur. Practicing hour of Prof. Dr. Avro Das Voumik at Popular Diagnostic Center, Mirpur is 7pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mirpur",
+        "address": "Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka",
+        "visitingTime": "7pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787807Call Now"
+      }
+    },
+    {
+      "name": "Dr. M.S. Kabir Jewel",
+      "degree": "MBBS, BCS (Health), Mphil (Neuro-Psychiatry), MD (Psychiatry)",
+      "specialty": "Psychiatrist cum Psychotherapist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Dr. M.S. Kabir Jewel is a Psychiatrist in Dhaka. His qualification is MBBS, BCS (Health), Mphil (Neuro-Psychiatry), MD (Psychiatry). He is a Associate Professor & Head, Psychiatry at Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Uttara. Practicing hour of Dr. M.S. Kabir Jewel at Ibn Sina Diagnostic Center, Uttara is 6.30pm to 9.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Uttara",
+        "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
+        "visitingTime": "6.30pm to 9.30pm (Closed: Friday)",
+        "appointmentNumber": "+8809610009612Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Mahmood Hasan",
+      "degree": "MBBS, FCPS (Psychiatry)",
+      "specialty": "Psychiatry (Mental Diseases, Depression, Drug Addiction) Specialist",
+      "workplace": "Bangladesh Medical College & Hospital",
+      "info": "Prof. Dr. Mahmood Hasan is a Psychiatrist in Dhaka. His qualification is MBBS, FCPS (Psychiatry). He is a Professor, Psychiatry at Bangladesh Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Medical Imaging Center, Zigatola. Practicing hour of Prof. Dr. Mahmood Hasan at Ibn Sina Medical Imaging Center, Zigatola is 7pm to 9.30pm (Closed: Tue & Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Medical Imaging Center, Zigatola",
+        "address": "House # 58, Road # 2A, Zigatola Bus Stand, Dhaka - 1209",
+        "visitingTime": "7pm to 9.30pm (Closed: Tue & Friday)",
+        "appointmentNumber": "+8801711625173Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Shamsul Ahsan Maksud",
+      "degree": "MBBS, MPHIL (Psych), FCPS (Psych), FECSM (Sex)",
+      "specialty": "Mental Health & Sexual Diseases Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Md. Shamsul Ahsan Maksud is a Mental Doctor in Dhaka. His qualification is MBBS, MPHIL (Psych), FCPS (Psych), FECSM (Sex). He is working as a Mental Health & Sexual Diseases Specialist doctor in Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Padma Diagnostic Center, Malibagh. Practicing hour of Dr. Md. Shamsul Ahsan Maksud at Padma Diagnostic Center, Malibagh is 5pm to 7pm (Closed: Tuesday & Friday).",
+      "chamber": {
+        "hospital": "Padma Diagnostic Center, Malibagh",
+        "address": "245/2 New Circular Road, West Malibagh, Dhaka",
+        "visitingTime": "5pm to 7pm (Closed: Tuesday & Friday)",
+        "appointmentNumber": "+8809617444222Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Tariqul Alam Sumon",
+      "degree": "MBBS, MCPS (Psychiatry), FCPS (Psychiatry)",
+      "specialty": "Mental Health, Drug Addiction & Psychiatry Specialist",
+      "workplace": "National Institute of Mental Health & Hospital",
+      "info": "BellView Hospital & Medical Services, Barisal\nAddress: 114, Sadar Road, Barisal\nVisiting Hour: 10am to 6pm (Only Friday)\nAppointment: +8801733063692\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Shyamoli",
+        "address": "Opposite to Shyamoli Shishu Mela, Babor Road, Mohammadpur, Dhaka",
+        "visitingTime": "3pm to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787806Call Now"
+      }
+    },
+    {
+      "name": "Dr. Fatima Zohra",
+      "degree": "MBBS, MD (Psychiatry)",
+      "specialty": "Psychiatry (Mental Diseases, Headache, Drug Addiction, Sex) Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Fatima Zohra is a Psychiatrist in Dhaka. Her qualification is MBBS, MD (Psychiatry). She is a Assistant Professor, Psychiatry at Bangabandhu Sheikh Mujib Medical University Hospital. She regularly provides treatment to her patients at Advance Hospital, Banasree. Practicing hour of Dr. Fatima Zohra at Advance Hospital, Banasree is 6pm to 8pm (Closed: Fri & Sat).",
+      "chamber": {
+        "hospital": "Advance Hospital, Banasree",
+        "address": "House # 1, Main Road, Block # F, Banasree, Dhaka",
+        "visitingTime": "6pm to 8pm (Closed: Fri & Sat)",
+        "appointmentNumber": "+8801999242424Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Mohammad Ahsanul Habib",
+      "degree": "MBBS, FCPS (Psychiatry)",
+      "specialty": "Psychiatry & Drug Rehabilitation Specialist",
+      "workplace": "Anwer Khan Modern Medical College & Hospital",
+      "info": "Prof. Dr. Mohammad Ahsanul Habib is a Psychiatry Specialist in Dhaka. His qualification is MBBS, FCPS (Psychiatry). He is a Professor & Head, Psychiatry at Anwer Khan Modern Medical College & Hospital. He regularly provides treatment to his patients at Anwer Khan Modern Medical College Hospital. Practicing hour of Prof. Dr. Mohammad Ahsanul Habib at Anwer Khan Modern Medical College Hospital is 9am to 2pm & 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Anwer Khan Modern Medical College Hospital",
+        "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
+        "visitingTime": "9am to 2pm & 7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801675924222Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Saroj Kumar Das",
+      "degree": "MBBS, FCPS (Psychiatry)",
+      "specialty": "Mental Diseases, Brain, Sex & Drug Addiction Specialist",
+      "workplace": "Mental Hospital, Pabna",
+      "info": "Prof. Dr. Saroj Kumar Das is a Psychiatrist in Dhaka. His qualification is MBBS, FCPS (Psychiatry). He is a Former Professor & Head, Psychiatry at Mental Hospital, Pabna. He regularly provides treatment to his patients at Medinova Medical Services, Dhanmondi. Practicing hour of Prof. Dr. Saroj Kumar Das at Medinova Medical Services, Dhanmondi is 5pm to 8pm (Mon, Tue, Wed & Thu).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Dhanmondi",
+        "address": "House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka",
+        "visitingTime": "5pm to 8pm (Mon, Tue, Wed & Thu)",
+        "appointmentNumber": "+8801750557722Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Mohammad SI Mullick",
+      "degree": "MBBS, FCPS, PhD, FRCPsych (London), DCAP (London), FAPA (USA), DFAACAP (USA)",
+      "specialty": "General, Child & Adolescent Psychiatrist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. Mohammad SI Mullick is a Psychiatrist in Dhaka. His qualification is MBBS, FCPS, PhD, FRCPsych (London), DCAP (London), FAPA (USA), DFAACAP (USA). He is a Ex. Professor, Psychiatry at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Bangladesh Psychiatric Care. Practicing hour of Prof. Dr. Mohammad SI Mullick at Bangladesh Psychiatric Care is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Bangladesh Psychiatric Care",
+        "address": "Suit # 6020, Shimanto Shambhar (6th Floor), Dhanmondi, Dhaka",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801872863002Call Now"
+      }
+    },
+    {
+      "name": "Dr. Farzana Rabin (Shormi)",
+      "degree": "MBBS, M.Phil (Psychiatry), MD (Psychiatry)",
+      "specialty": "Psychiatry (Brain Disorder, Mental Diseases, Drug Addiction) Specialist",
+      "workplace": "Holy Family Red Crescent Medical College & Hospital",
+      "info": "Dr. Farzana Rabin (Shormi) is a Psychiatrist in Dhaka. Her qualification is MBBS, M.Phil (Psychiatry), MD (Psychiatry). She is a Associate Professor & Head, Psychiatry at Holy Family Red Crescent Medical College & Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Shantinagar. Practicing hour of Dr. Farzana Rabin (Shormi) at Popular Diagnostic Center, Shantinagar is 4pm to 6pm (Sun), 2pm to 4pm (Tue).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Shantinagar",
+        "address": "Unit # 01, House # 11, Shantinagar, Motijheel, Dhaka",
+        "visitingTime": "4pm to 6pm (Sun), 2pm to 4pm (Tue)",
+        "appointmentNumber": "+8809666787803Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Jahangir Hossain",
+      "degree": "MBBS, MPhil (Psychiatry)",
+      "specialty": "Mental Health, Drug Addiction & Brain Disorder Specialist",
+      "workplace": "Monno Medical College & Hospital",
+      "info": "Super Medical Hospital, Savar\nAddress: Near Razzak Plaza, B-119/3, Jaleshwar, Savar, Dhaka\nVisiting Hour: 5pm to 8pm (Closed: Thu & Fri)\nAppointment: +8801711266169\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Savar",
+        "address": "31/6 Jaleshwar, Aricha Road, Savar, Dhaka - 1340",
+        "visitingTime": "4pm to 6pm (Sun & Wed)",
+        "appointmentNumber": "+88 09610009613Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Dewan Abdur Rahim",
+      "degree": "MBBS, BCS (Health), MCPS (Psychiatry), DPM, PhD",
+      "specialty": "Mental Health Specialist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Prof. Dr. Dewan Abdur Rahim is a Mental Doctor in Dhaka. His qualification is MBBS, BCS (Health), MCPS (Psychiatry), DPM, PhD. He is working as a Mental Health Specialist doctor in Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at BRB Hospital, Dhaka. Practicing hour of Prof. Dr. Dewan Abdur Rahim at BRB Hospital, Dhaka is 10am to 1pm & 6pm to 8pm (Closed: Mon, Thu & Friday).",
+      "chamber": {
+        "hospital": "BRB Hospital, Dhaka",
+        "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
+        "visitingTime": "10am to 1pm & 6pm to 8pm (Closed: Mon, Thu & Friday)",
+        "appointmentNumber": "+8801777764800Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. A.K. Moyeenuddin Ahmed",
+      "degree": "MBBS, MCPS (Psychiatry)",
+      "specialty": "Mental Diseases, Drug Addiction Specialist & Neuropsychiatrist",
+      "workplace": "Shaheed Monsur Ali Medical College & Hospital",
+      "info": "Prof. Dr. A.K. Moyeenuddin Ahmed is a Psychiatrist in Dhaka. His qualification is MBBS, MCPS (Psychiatry). He is a Professor & Head, Psychiatry at Shaheed Monsur Ali Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Uttara (Jasimuddin). Practicing hour of Prof. Dr. A.K. Moyeenuddin Ahmed at Popular Diagnostic Center, Uttara (Jasimuddin) is 4pm to 7:30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
+        "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
+        "visitingTime": "4pm to 7:30pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787805Call Now"
+      }
+    },
+    {
+      "name": "Brig. Gen. Dr. Md. Habibur Rahman",
+      "degree": "MBBS, FCPS (Psychiatry)",
+      "specialty": "Psychiatry Specialist",
+      "workplace": "Armed Forces Medical College, Dhaka",
+      "info": "Brig. Gen. Dr. Md. Habibur Rahman is a Mental Doctor in Dhaka. His qualification is MBBS, FCPS (Psychiatry). He is working as a Psychiatry Specialist doctor in Armed Forces Medical College, Dhaka. He regularly provides treatment to his patients at Popular Diagnostic Center, Uttara (Jasimuddin). Practicing hour of Brig. Gen. Dr. Md. Habibur Rahman at Popular Diagnostic Center, Uttara (Jasimuddin) is 10am to 12pm (Sun, Tue, Thu & Fri).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
+        "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
+        "visitingTime": "10am to 12pm (Sun, Tue, Thu & Fri)",
+        "appointmentNumber": "+8809666787805Call Now"
+      }
+    },
+    {
+      "name": "Dr. Nasrin Akter",
+      "degree": "MBBS, MPH, FCPS (Psychiatry), MPhil (Psychiatry)",
+      "specialty": "Psychiatry (Mental Diseases, Headache, Drug Addiction) Specialist",
+      "workplace": "National Institute of Mental Health & Hospital",
+      "info": "Dr. Nasrin Akter is a Psychiatrist in Dhaka. Her qualification is MBBS, MPH, FCPS (Psychiatry), MPhil (Psychiatry). She is a Assistant Professor, Psychiatry at National Institute of Mental Health & Hospital. She regularly provides treatment to her patients at Advance Hospital, Banasree. Practicing hour of Dr. Nasrin Akter at Advance Hospital, Banasree is 5pm to 6pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Advance Hospital, Banasree",
+        "address": "House # 1, Main Road, Block # F, Banasree, Dhaka",
+        "visitingTime": "5pm to 6pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801999242424Call Now"
+      }
+    },
+    {
+      "name": "Dr. Chiranjeeb Biswas",
+      "degree": "MBBS (DU), M Phil (Psychiatry)",
+      "specialty": "Mental Health Specialist",
+      "workplace": "Medical College for Women & Hospital",
+      "info": "Dr. Chiranjeeb Biswas is a Mental Doctor in Dhaka. His qualification is MBBS (DU), M Phil (Psychiatry). He is working as a Mental Health Specialist doctor in Medical College for Women & Hospital. He regularly provides treatment to his patients at BRB Hospital, Dhaka. Practicing hour of Dr. Chiranjeeb Biswas at BRB Hospital, Dhaka is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "BRB Hospital, Dhaka",
+        "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801777764800Call Now"
+      }
+    },
+    {
+      "name": "Dr. Taiyeb Ibna Zahangir",
+      "degree": "MBBS, BCS (Health), MD (Psychiatry), MACP (USA)",
+      "specialty": "Psychiatry (Brain, Mental Diseases, Drug Addiction) Specialist",
+      "workplace": "National Institute of Mental Health & Hospital",
+      "info": "Popular Diagnostic Center, DhanmondiAddress: House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205Visiting Hour: 5pm to 8pm (Closed: Friday)Appointment: +8809666787801Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Shantinagar",
+        "address": "Unit # 01, House # 11, Shantinagar, Motijheel, Dhaka",
+        "visitingTime": "2pm to 4pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787803Call Now"
+      }
+    },
+    {
+      "name": "Dr. Helal Uddin Ahmed",
+      "degree": "MBBS, MD (Psychiatry)",
+      "specialty": "Psychiatry (Mental Diseases, Autism, Brain Disorder, Drug Addiction) Specialist",
+      "workplace": "National Institute of Mental Health & Hospital",
+      "info": "Dr. Helal Uddin Ahmed is a Psychiatrist in Dhaka. His qualification is MBBS, MD (Psychiatry). He is a Associate Professor, Child, Adolescent & Family Psychiatry at National Institute of Mental Health & Hospital. He regularly provides treatment to his patients at Green Life Hospital, Dhaka. Practicing hour of Dr. Helal Uddin Ahmed at Green Life Hospital, Dhaka is 6pm to 9pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Green Life Hospital, Dhaka",
+        "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+        "visitingTime": "6pm to 9pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801925466419Call Now"
+      }
+    },
+    {
+      "name": "Col. Prof. Dr. Md. Nurul Azim",
+      "degree": "MBBS, FCPS (Psychiatry), MD (USA), PhD (USA), PsyD (USA), FRCP (UK), FACP (USA)",
+      "specialty": "Consultant Psychiatrist & Behavioral Scientist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "D’ Akbar Health Care Pvt. Ltd\nAddress: House # 50, Road # 2/A, Block – D, Bashundhara, Dhaka\nVisiting Hour: 9am to 10am (Sat to Thu) & 7pm to 9pm (Sat, Sun, Tue & Wed)\nAppointment: +8801611640538\nCall Now",
+      "chamber": {
+        "hospital": "United Hospital Ltd, Dhaka",
+        "address": "Plot # 15, Road # 71, Gulshan, Dhaka",
+        "visitingTime": "7.30pm to 9.30pm (Monday & Thursday)",
+        "appointmentNumber": "10666Call Now"
+      }
+    },
+    {
+      "name": "Lt. Col. Dr. Jesmin Akhter",
+      "degree": "MBBS, MCPS, FCPS",
+      "specialty": "Psychiatry (Brain, Mental Disorder, Drug Addiction) Specialist",
+      "workplace": "Combined Military Hospital (CMH), Dhaka",
+      "info": "Lt. Col. Dr. Jesmin Akhter is a Psychiatrist in Dhaka. Her qualification is MBBS, MCPS, FCPS. She is a Classified Specialist, Psychiatry at Combined Military Hospital (CMH), Dhaka. She regularly provides treatment to her patients at Aalok Health Care, Kachukhet. Practicing hour of Lt. Col. Dr. Jesmin Akhter at Aalok Health Care, Kachukhet is 5pm to 7pm (Sunday & Wednesday).",
+      "chamber": {
+        "hospital": "Aalok Health Care, Kachukhet",
+        "address": "Rajanigandha Tower (4th & 5th Floor), Kachukhet, Dhaka",
+        "visitingTime": "5pm to 7pm (Sunday & Wednesday)",
+        "appointmentNumber": "+8801725694669Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Mahbub Hasan Bappi",
+      "degree": "MBBS, MD (PSYCHIATRY)",
+      "specialty": "Psychiatry (Brain, Mental Diseases, Drug Addiction) Specialist",
+      "workplace": "National Institute of Mental Health & Hospital",
+      "info": "Central Hospital, Pabna\nAddress: South Side of Sadar Hospital Gate, Hospital Road, Shalgaria, Pabna\nVisiting Hour: 5pm to 9pm (Thursday), 9am to 6pm (Friday)\nAppointment: +8801322912612\nCall Now",
+      "chamber": {
+        "hospital": "Bangladesh Psychiatric Care",
+        "address": "Suit # 6020, Shimanto Shambhar (6th Floor), Dhanmondi, Dhaka",
+        "visitingTime": "6pm to 8pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801872863002Call Now"
+      }
+    },
+    {
+      "name": "Dr. Fahmidur Rahman",
+      "degree": "MBBS, MPhil (Psychiatry), FCPS (Psychiatry)",
+      "specialty": "Psychiatry, Brain, Mental Health & Drug Addiction Specialist",
+      "workplace": "Mugda Medical College & Hospital",
+      "info": "Dr. Fahmidur Rahman is a Psychiatrist in Dhaka. His qualification is MBBS, MPhil (Psychiatry), FCPS (Psychiatry). He is a Associate Professor, Psychiatry at Mugda Medical College & Hospital. He regularly provides treatment to his patients at Islami Bank Hospital, Motijheel. Practicing hour of Dr. Fahmidur Rahman at Islami Bank Hospital, Motijheel is 5.30pm to 7.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Motijheel",
+        "address": "24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka",
+        "visitingTime": "5.30pm to 7.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801727666741Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Khairul Bashar",
+      "degree": "MBBS, MCPS (Psychiatry), FCPS (Psychiatry)",
+      "specialty": "Psychiatry (Mental Diseases, Brain & Drug Addiction) Specialist",
+      "workplace": "Mental Hospital, Pabna",
+      "info": "Dr. Md. Khairul Bashar is a Psychiatrist in Dhaka. His qualification is MBBS, MCPS (Psychiatry), FCPS (Psychiatry). He is a Assistant Professor, Psychiatry at Mental Hospital, Pabna. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Doyagonj. Practicing hour of Dr. Md. Khairul Bashar at Ibn Sina Diagnostic Center, Doyagonj is 5pm to 7pm (Closed: Sun & Monday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Doyagonj",
+        "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
+        "visitingTime": "5pm to 7pm (Closed: Sun & Monday)",
+        "appointmentNumber": "+8801878115751Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Zillur Rahman Khan (Ratan)",
+      "degree": "MBBS, MPH (Epidemiology), FCPS (Psychiatry)",
+      "specialty": "Psychiatry (Mental Diseases, Brain & Drug Addiction) Specialist",
+      "workplace": "National Institute of Mental Health & Hospital",
+      "info": "Dr. Md. Zillur Rahman Khan (Ratan) is a Psychiatrist in Dhaka. His qualification is MBBS, MPH (Epidemiology), FCPS (Psychiatry). He is a Associate Professor & Head, Psychiatry at National Institute of Mental Health & Hospital. He regularly provides treatment to his patients at Aalok Healthcare & Hospital, Mirpur 10. Practicing hour of Dr. Md. Zillur Rahman Khan (Ratan) at Aalok Healthcare & Hospital, Mirpur 10 is 5pm to 9pm (Closed: Tue & Friday).",
+      "chamber": {
+        "hospital": "Aalok Healthcare & Hospital, Mirpur 10",
+        "address": "House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka",
+        "visitingTime": "5pm to 9pm (Closed: Tue & Friday)",
+        "appointmentNumber": "+8801915448491Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Md. Tazul Islam",
+      "degree": "MBBS, FCPS (Psychiatry)",
+      "specialty": "Mental Health Specialist",
+      "workplace": "National Institute of Mental Health & Hospital",
+      "info": "Prof. Dr. Md. Tazul Islam is a Psychiatrist in Dhaka. His qualification is MBBS, FCPS (Psychiatry). He is working as a Mental Health Specialist doctor in National Institute of Mental Health & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Lalbagh. Practicing hour of Prof. Dr. Md. Tazul Islam at Ibn Sina Diagnostic Center, Lalbagh is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Lalbagh",
+        "address": "27/4 Dhakeshwori Road, Lalbagh, Dhaka",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801783356048Call Now"
+      }
+    },
+    {
+      "name": "Prof. Col. Dr. Julhash Uddin Ahmmad",
+      "degree": "MBBS (Dhaka), MPhil (Psychiatry), FCPS (Psychiatry)",
+      "specialty": "Psychiatry & Neuromedicine Specialist",
+      "workplace": "Border Guard Hospital, Dhaka",
+      "info": "Bangladesh Psychiatric Care\nAddress: Suit # 6020, Shimanto Shambhar (6th Floor), Dhanmondi, Dhaka\nVisiting Hour: 1pm to 3pm (Sunday & Tuesday)\nAppointment: +8801711370916\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
+        "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801711370916Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Nurun Nahar Chowdhury",
+      "degree": "MBBS, MPhil (Psychiatry), MPH (NIPSOM)",
+      "specialty": "Psychiatry (Mental Diseases, Brain Disorder, Addiction) Specialist",
+      "workplace": "Green Life Medical College & Hospital",
+      "info": "Prof. Dr. Nurun Nahar Chowdhury is a Psychiatrist in Dhaka. Her qualification is MBBS, MPhil (Psychiatry), MPH (NIPSOM). She is a Professor & Head, Psychiatry at Green Life Medical College & Hospital. She regularly provides treatment to her patients at Green Life Hospital, Dhaka. Practicing hour of Prof. Dr. Nurun Nahar Chowdhury at Green Life Hospital, Dhaka is 6pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Green Life Hospital, Dhaka",
+        "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+        "visitingTime": "6pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801711907659Call Now"
+      }
+    },
+    {
+      "name": "Dr. Nasrin Akhter",
+      "degree": "MBBS, MPH, MCPS, M.Phil (Psychiatry)",
+      "specialty": "Mental Diseases, Drug Addiction & Psychiatry Specialist",
+      "workplace": "Mugda Medical College & Hospital",
+      "info": "Dr. Nasrin Akhter is a Psychiatrist in Dhaka. Her qualification is MBBS, MPH, MCPS, M.Phil (Psychiatry). She is a Assistant Professor, Psychiatry at Mugda Medical College & Hospital. She regularly provides treatment to her patients at Farazy Hospital, Banasree. Practicing hour of Dr. Nasrin Akhter at Farazy Hospital, Banasree is 3pm to 4.30pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Farazy Hospital, Banasree",
+        "address": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
+        "visitingTime": "3pm to 4.30pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801882084414Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Harunur Rashid",
+      "degree": "MBBS (DU), M.Phil (BSMMU), MCPS, FCPS (Psychiatry)",
+      "specialty": "Psychiatry (Mental Diseases, Brain, Mind, Drug Addiction) Specialist",
+      "workplace": "Delta Medical College & Hospital",
+      "info": "Dr. Md. Harunur Rashid is a Psychiatrist in Dhaka. His qualification is MBBS (DU), M.Phil (BSMMU), MCPS, FCPS (Psychiatry). He is a Associate professor, Psychiatry at Delta Medical College & Hospital. He regularly provides treatment to his patients at Monovubon Center, Dhaka. Practicing hour of Dr. Md. Harunur Rashid at Monovubon Center, Dhaka is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Monovubon Center, Dhaka",
+        "address": "2/5, Block - A, Lalmatia (East Side of Water Tank), Dhaka - 1207",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801717843533Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Fahad-Bin-Alauddin",
+      "degree": "MBBS (DU), MD (Child & Adolescent Psychiatry-BSMMU)",
+      "specialty": "Psychiatry (Child Psychiatry, Neurodevelopmental Disorders, ADHD, Autism & Drug Addiction) Specialist",
+      "workplace": "Diabetic Association Medical College, Faridpur",
+      "info": "Anwer Khan Modern Diagnostic Centre & Hospital Outdoor Service\nAddress: Plot 11, Road 11, Block G, Flat 1/A (1st & 2nd Floor), Banani, Dhaka-1213\nVisiting Hour: 7.30pm to 10pm (Friday and Saturday)\nAppointment: 01705407170, 01720501082\nCall Now",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Kalabagan",
+        "address": "House - 66, Mirpur Road, Kalabagan, Dhaka - 1205",
+        "visitingTime": "4pm to 6.30pm (Sun, Tues, Wed, Thrus)",
+        "appointmentNumber": "+8801780006670Call Now"
+      }
+    },
+    {
+      "name": "Dr. A. S. M. Morshed",
+      "degree": "MBBS, CCD, MD (Psychiatry)",
+      "specialty": "Psychiatry & Sexual Medicine Specialist",
+      "workplace": "Dr. Sirajul Islam Medical College & Hospital",
+      "info": "Dr. A. S. M. Morshed is a Psychiatrist in Dhaka. His qualification is MBBS, CCD, MD (Psychiatry). He is working as a Psychiatry & Sexual Medicine Specialist doctor in Dr. Sirajul Islam Medical College & Hospital. He regularly provides treatment to his patients at Asgar Ali Hospital, Dhaka. Practicing hour of Dr. A. S. M. Morshed at Asgar Ali Hospital, Dhaka is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Asgar Ali Hospital, Dhaka",
+        "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801787683333Call Now"
+      }
+    },
+    {
+      "name": "Dr. Arman Ibne Haq",
+      "degree": "MBBS , FCPS (PSYCHIATRY)",
+      "specialty": "Psychiatry (Mental Diseases, Brain Disorder, Addiction) Specialist",
+      "workplace": "Bangladesh Medical College & Hospital",
+      "info": "Dr. Arman Ibne Haq is a Psychiatrist in Dhaka. His qualification is MBBS , FCPS (PSYCHIATRY). He is a Assistant Professor, Psychiatry at Bangladesh Medical College & Hospital. He regularly provides treatment to his patients at Green Life Hospital, Dhaka. Practicing hour of Dr. Arman Ibne Haq at Green Life Hospital, Dhaka is 6pm to 9pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Green Life Hospital, Dhaka",
+        "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+        "visitingTime": "6pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801715622916Call Now"
+      }
+    },
+    {
+      "name": "Dr. Monirul Islam",
+      "degree": "MBBS, MD (Psychiatry)",
+      "specialty": "Psychiatry (Mental Diseases, Brain & Drug Addiction) Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Monirul Islam is a Psychiatrist in Dhaka. His qualification is MBBS, MD (Psychiatry). He is a Consultant (Psychiatry) at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Comfort Diagnostic Center, Dhanmondi. Practicing hour of Dr. Monirul Islam at Comfort Diagnostic Center, Dhanmondi is 7pm to 9pm (Closed: Mon & Friday).",
+      "chamber": {
+        "hospital": "Comfort Diagnostic Center, Dhanmondi",
+        "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "7pm to 9pm (Closed: Mon & Friday)",
+        "appointmentNumber": "+8801731956033Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Asaduzzaman",
+      "degree": "MBBS, DTM (Dublin), DPP (Psychiatry)",
+      "specialty": "Mental Diseases & Drug Addiction Specialist",
+      "workplace": "Al Manar Hospital Ltd.",
+      "info": "Dr. Md. Asaduzzaman is a Psychiatrist in Dhaka. His qualification is MBBS, DTM (Dublin), DPP (Psychiatry). He is a Consultant, Psychiatry at Al Manar Hospital Ltd.. He regularly provides treatment to his patients at Al-Manar Hospital Limited. Practicing hour of Dr. Md. Asaduzzaman at Al-Manar Hospital Limited is 10am to 12pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Al-Manar Hospital Limited",
+        "address": "Plot # Umo, Block # Rossoi, Satmosjid Road, Dhaka",
+        "visitingTime": "10am to 12pm (Closed: Friday)",
+        "appointmentNumber": "+8801550020885Call Now"
+      }
+    },
+    {
+      "name": "Dr. S M Atikur Rahman",
+      "degree": "MBBS, M. Phil (Psychiatry)",
+      "specialty": "Psychiatry (Mental Diseases, Drug Addiction, Sexual Diseases) Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. S M Atikur Rahman is a Psychiatrist in Dhaka. His qualification is MBBS, M. Phil (Psychiatry). He is a Associate Professor, Psychiatry at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Upasham Health Point (Pvt.) Ltd. Practicing hour of Dr. S M Atikur Rahman at Upasham Health Point (Pvt.) Ltd is 8pm to 9.30pm (Mon & Thu).",
+      "chamber": {
+        "hospital": "Upasham Health Point (Pvt.) Ltd",
+        "address": "House-14, Road-2/B, Block-J, Natun Bazar, Baridhara, Dhaka-1212",
+        "visitingTime": "8pm to 9.30pm (Mon & Thu)",
+        "appointmentNumber": "+8801932200200Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Shahida Chowdhury",
+      "degree": "MBBS, DPM",
+      "specialty": "Psychiatry Specialist",
+      "workplace": "Dhaka Community Medical College & Hospital",
+      "info": "Prof. Dr. Shahida Chowdhury is a Psychiatry Specialist in Dhaka. Her qualification is MBBS, DPM. She is working as a Psychiatry Specialist doctor at Dhaka Community Medical College & Hospital. She regularly provides treatment to her patients at Health and Hope Hospital. Practicing hour of Prof. Dr. Shahida Chowdhury at Health and Hope Hospital is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Health and Hope Hospital",
+        "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809611996699Call Now"
+      }
+    },
+    {
+      "name": "Asso. Prof. Dr. Zinat De Laila",
+      "degree": "MBBS, BCS (Health), MD (Psychiatry)",
+      "specialty": "Psychiatry (Mental Diseases, Brain & Drug Addiction) Specialist",
+      "workplace": "National Institute Of Mental Health & Hospital",
+      "info": "Asso. Prof. Dr. Zinat De Laila is a Psychiatrist in Dhaka. His qualification is MBBS, BCS (Health), MD (Psychiatry). He is a Associate Professor, Psychiatry at National Institute Of Mental Health & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Uttara (Unit 02). Practicing hour of Asso. Prof. Dr. Zinat De Laila at Labaid Diagnostic, Uttara (Unit 02) is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Uttara (Unit 02)",
+        "address": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662050Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mohammad Shahadath Hossain",
+      "degree": "MBBS (CMC), BCS (Health), MCPS (Psychiatry), FCPS (Psychiatry)",
+      "specialty": "Neuropsychiatrist, Addiction, Sleep & Sexual Health Specialist",
+      "workplace": "National Institute Of Mental Health & Hospital",
+      "info": "Popular Diagnostic Center, Noakhali\nAddress: House #1222, New Bus Stand, Maijdee Court, Noakhali\nVisiting Hour: 9.30am to 3.00pm (Only Friday)\nAppointment: +8809666787818\nCall Now",
+      "chamber": {
+        "hospital": "Online Chamber (WhatsApp)",
+        "address": "WhatsApp",
+        "visitingTime": "3pm to 9pm (Saturday, Monday & Wednesday)",
+        "appointmentNumber": "+8801516116120 (WhatsApp - Only Text)(No Call, No Voice)Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Sultana Algin",
+      "degree": "MBBS, FCPS (PSYCHIATRY)",
+      "specialty": "Psychiatry (Mental Diseases, Drug Addiction, Brain Disorder) Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Popular Diagnostic Center, BaddaAddress: Cha-90/2, North Badda (Pragoti Sharoni), Dhaka – 1212Visiting Hour: 7pm to 9.00pm (Tuesday)Appointment: +8809666787809Call Now",
+      "chamber": {
+        "hospital": "Samorita Hospital Ltd, Panthapath",
+        "address": "89/1, Panthapath, Dhaka - 1215, Bangladesh",
+        "visitingTime": "7pm to 9pm (Closed: Tue & Friday)",
+        "appointmentNumber": "10674Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Abdullah Al Mamun",
+      "degree": "MBBS, BCS (Health), MD (Psychiatry)",
+      "specialty": "Psychiatry (Mental Diseases) Specialist & Psychotherapist",
+      "workplace": "National Institute of Mental Health & Hospital",
+      "info": "Popular Diagnostic Center, Rajshahi\nAddress: House # 474, Chowdhury Tower, Laxmipur, Rajshahi\nVisiting Hour: 2pm to 9pm (Closed: Friday)\nAppointment: +8809666787811\nCall Now",
+      "chamber": {
+        "hospital": "Bangladesh Psychiatric Care",
+        "address": "Shimanto Shambhar Shopping Complex (6th Floor), Dhanmondi, Dhaka",
+        "visitingTime": "4pm to 7pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809604604604Call Now"
+      }
+    },
+    {
+      "name": "Dr. Muntasir Khan",
+      "degree": "MBBS (Dhaka), BCS (Health), MD (Psychiatry, NIMH)",
+      "specialty": "Psychiatrist (Mental Diseases, Headache, Drug Addiction & Sexual Dysfunction Specialist)",
+      "workplace": "Shariatpur Sadar Hospital",
+      "info": "Islamic Mission Diagnostic & Consultation Centre\nAddress: Islamic Foundation, Baitul Mukarram North Gate, Dhaka\nVisiting Hour: 3pm to 5pm (Sunday & Wednesday)\nAppointment: +8801550687777\nCall Now",
+      "chamber": {
+        "hospital": "Cognitive Cure",
+        "address": "House 4, Road 7, Block L, Dakkhin Banasree, Dhaka",
+        "visitingTime": "7pm to 12pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801684320857Call Now"
+      }
+    },
+    {
+      "name": "Lt. Col. Dr. Md. Azad Hossain",
+      "degree": "MBBS, FCPS (Psychiatry)",
+      "specialty": "Psychiatry (Mental Disorders, Sexual Disorders, Drug Addiction, Brain Disorders) Specialist & Psychotherapist",
+      "workplace": "Combined Military Hospital (CMH), Dhaka",
+      "info": "Marine Health Care, Khilkhet\nAddress: Ka-196/1/B, Marine Tower, Tatultola, Khilkhet, Dhaka\nVisiting Hour: 4pm to 6pm (Tuesday & Thursday)\nAppointment: +8801907798505\nCall Now",
+      "chamber": {
+        "hospital": "USB Specialized Hospital, Uttara",
+        "address": "House No 13, Issakha Avenue, Sector 6, Uttara, Dhaka",
+        "visitingTime": "6pm to 8pm (Tuesday & Thursday)",
+        "appointmentNumber": "+8801924752988Call Now"
+      }
+    },
+    {
+      "name": "Dr. Col. Mohammad Monirul Islam",
+      "degree": "MBBS, FCPS (Psychiatry), MRSH (UK), MACP (USA), Training in Neuropsychiatry",
+      "specialty": "Psychiatrist & Neuropsychiatrist",
+      "workplace": "Combined Military Hospital (CMH), Dhaka",
+      "info": "Dr. Col. Mohammad Monirul Islam is a Psychiatrist in Dhaka. His qualification is MBBS, FCPS (Psychiatry), MRSH (UK), MACP (USA), Training in Neuropsychiatry. He is the Head of the Department, Psychiatry at Combined Military Hospital (CMH), Dhaka. He regularly provides treatment to his patients at Labaid Diagnostic, Uttara (Unit 01). Practicing hour of Dr. Col. Mohammad Monirul Islam at Labaid Diagnostic, Uttara (Unit 01) is 5pm to 7.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Uttara (Unit 01)",
+        "address": "House # 15, Road # 12, Sector # 06, Uttara, Dhaka",
+        "visitingTime": "5pm to 7.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662606Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Faruk Hossain",
+      "degree": "MBBS, MCPS (Psychiatry), FCPS (Psychiatry)",
+      "specialty": "Mental, Behavioral & Neurodevelopmental Disorders Specialist(Including Drug Addiction & Sexual Dysfunctions)",
+      "workplace": "Enam Medical College & Hospital",
+      "info": "Dr. Md. Faruk Hossain is a Psychiatrist in Dhaka. His qualification is MBBS, MCPS (Psychiatry), FCPS (Psychiatry). He is a Associate Professor & Head, Department of Psychiatry at Enam Medical College & Hospital. He regularly provides treatment to his patients at MindWell - Center of Happiness. Practicing hour of Dr. Md. Faruk Hossain at MindWell - Center of Happiness is 3pm to7pm (Everyday except Friday & Holidays).",
+      "chamber": {
+        "hospital": "MindWell - Center of Happiness",
+        "address": "45, Probal Tower (3rd Floor), Ring Road, Adabor, Shaymoli, Dhaka",
+        "visitingTime": "3pm to7pm (Everyday except Friday & Holidays)",
+        "appointmentNumber": "+8801883266511Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Faijul Islam",
+      "degree": "MBBS, BCS (Health), MD (Psychiatry)",
+      "specialty": "Psychiatry (Mental Diseases, Brain & Drug Addiction) Specialist",
+      "workplace": "Colonel Malek Medical College Hospital, Manikganj",
+      "info": "Dr. Md. Faijul Islam is a Psychiatrist in Dhaka. His qualification is MBBS, BCS (Health), MD (Psychiatry). He is a Psychiatrist at Colonel Malek Medical College Hospital, Manikganj. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Savar. Practicing hour of Dr. Md. Faijul Islam at Ibn Sina Diagnostic Center, Savar is 3pm to 6pm (Monday & Tuesday), 4.30pm to 8pm (Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Savar",
+        "address": "31/6 Jaleshwar, Aricha Road, Savar, Dhaka - 1340",
+        "visitingTime": "3pm to 6pm (Monday & Tuesday), 4.30pm to 8pm (Friday)",
+        "appointmentNumber": "+8801784188708Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Shalahuddin Qusar Biplob",
+      "degree": "MBBS, M.Phil (Psychiatry), MD (Psychiatry)",
+      "specialty": "Psychiatric Disorders, Sexual Problems & Drug Addiction Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. Shalahuddin Qusar Biplob is a renowned Psychiatrist specializing in psychiatric disorders, sexual health issues, and drug addiction treatment. He holds an MBBS, an M.Phil in Psychiatry, and an MD in Psychiatry, with vast experience in mental health care. As a Professor and former Chairman of the Department of Psychiatry at Bangabandhu Sheikh Mujib Medical University Hospital, he has made significant contributions to the field of psychiatry in Bangladesh. Dr. Shalahuddin Qusar Biplob provides expert diagnosis and treatment for conditions such as depression, anxiety disorders, schizophrenia, bipolar disorder, obsessive-compulsive disorder (OCD), and substance abuse-related mental health issues. He consults at Moner Khabor For Care (MK4C), located at Navana Barek Carmela (Level 3), 11, Moghbazar Road, Dhaka. His visiting hours are from 5 PM to 10 PM, except on Fridays. For specialized psychiatric care, book an appointment with Dr. Shalahuddin Qusar Biplob today.",
+      "chamber": {
+        "hospital": "Moner Khabor For Care (MK4C)",
+        "address": "Navana Barek Carmela (Level 3), 11, Moghbazar Road, Dhaka",
+        "visitingTime": "5pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801858727030Call Now"
+      }
+    },
+    {
+      "name": "Dr. Zillur Kamal",
+      "degree": "MBBS, DPM, MSc (Psychology), STOP (NIMHANS, India)",
+      "specialty": "Psychiatry and Sexual Health Specialist",
+      "workplace": "National Institute of Mental Health & Hospital, Dhaka",
+      "info": "Popular Diagnostic Center, Khulna\nAddress: 37 KDA Avenue, Khulna\nVisiting Hour: 10a to 4pm (Only Friday)\nAppointment: +8801717417855\nCall Now",
+      "chamber": {
+        "hospital": "Health and Hope Hospital",
+        "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
+        "visitingTime": "1pm to 4pm (Sunday & Wednesday)",
+        "appointmentNumber": "+8801971819537Call Now"
+      }
+    }
+  ]
+}

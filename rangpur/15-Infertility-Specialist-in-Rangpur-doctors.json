@@ -1,0 +1,56 @@
+{
+  "doctor": [
+    {
+      "name": "Prof. Dr. Anisa Begum",
+      "degree": "MBBS, FCPS (OBGYN), MCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Prof. Dr. Anisa Begum is a Gynecologist in Rangpur. Her qualification is MBBS, FCPS (OBGYN), MCPS (OBGYN). She is working as a Gynecology, Obstetrics, Infertility Specialist & Surgeon doctor in Rangpur Medical College & Hospital. She regularly provides treatment to her patients at Doctor's Diagnostic Centre Unit-2, Rangpur. Practicing hour of Prof. Dr. Anisa Begum at Doctor's Diagnostic Centre Unit-2, Rangpur is 2.30pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Doctor's Diagnostic Centre Unit-2, Rangpur",
+        "address": "Dhap, Jail Road, Rangpur",
+        "visitingTime": "2.30pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801719783286Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Aziza Begum Lucy",
+      "degree": "MBBS. DGO, FCPS (OBGYN)",
+      "specialty": "Gynecology, Infertility Specialist & Surgeon",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Prof. Dr. Aziza Begum Lucy is a Gynecologist in Rangpur. Her qualification is MBBS. DGO, FCPS (OBGYN). She is a Former Professor, Gynecology & Obstetrics at Rangpur Medical College & Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Rangpur. Practicing hour of Prof. Dr. Aziza Begum Lucy at Popular Diagnostic Center, Rangpur is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rangpur",
+        "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787813Call Now"
+      }
+    },
+    {
+      "name": "Dr. Nusrat Hossain Laz",
+      "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
+      "specialty": "Gynecology, Infertility Specialist & Surgeon",
+      "workplace": "Pirgacha Upazila Health Complex",
+      "info": "Dr. Nusrat Hossain Laz is a Gynecologist in Rangpur. Her qualification is MBBS, BCS (Health), FCPS (OBGYN). She is a Junior Consultant, Gynecology & Obstetrics at  Pirgacha Upazila Health Complex. She regularly provides treatment to her patients at Lab A One. Practicing hour of Dr. Nusrat Hossain Laz at Lab A One is 2.30pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Lab A One",
+        "address": "Jaill Road, Dhap, Rangpur",
+        "visitingTime": "2.30pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801740627373Call Now"
+      }
+    },
+    {
+      "name": "Dr. Kismot Ara Sheikh Mala",
+      "degree": "MBBS, MCPS (OBGYN), FRSH (UK)",
+      "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Kismot Ara Sheikh Mala is a Gynecologist in Rangpur. Her qualification is MBBS, MCPS (OBGYN), FRSH (UK). She is working as a Gynecology, Obstetrics, Infertility Specialist & Surgeon doctor in Rangpur Medical College & Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Rangpur. Practicing hour of Dr. Kismot Ara Sheikh Mala at Popular Diagnostic Center, Rangpur is 4pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rangpur",
+        "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
+        "visitingTime": "4pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787813Call Now"
+      }
+    }
+  ]
+}

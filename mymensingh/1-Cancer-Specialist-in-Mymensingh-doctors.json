@@ -1,0 +1,95 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Asaduzzaman Biddut",
+      "degree": "MBBS (SSMC), MD (Medical Oncology)",
+      "specialty": "Medical Oncologist & Cancer Medicine Specialist",
+      "workplace": "National Institute of Cancer Research & Hospital",
+      "info": "Popular Diagnostic Center, Mymensingh\nAddress: 171, Charpara, Medical College Gate, Mymensingh – 2200\nVisiting Hour: 8am to 5pm (Only Friday)\nAppointment: +8809666787814\nCall Now",
+      "chamber": {
+        "hospital": "Aalok Healthcare & Hospital, Mirpur 10",
+        "address": "House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka",
+        "visitingTime": "5.30pm to 9pm (Sat, Sun, Mon & Wed)",
+        "appointmentNumber": "+8801307267402Call Now"
+      }
+    },
+    {
+      "name": "Dr. Beauty Saha",
+      "degree": "MBBS (DU), DMU (DIU), MD (Oncology)",
+      "specialty": "Cancer & Breast Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Sayem Diagno Complex & Hospital, Mymensingh\nAddress: Unit 2, Room 402 (3rd Floor), 213 & 214, Charpara, Mymensingh\nVisiting Hour: 3pm to 7pm (Closed: Friday)\nAppointment: +8801715808068\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mymensingh",
+        "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+        "visitingTime": "3pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787814Call Now"
+      }
+    },
+    {
+      "name": "Dr. A.T.M. Sazzad Hossain",
+      "degree": "MBBS, MPhil (Radiotherapy), Highly Trained (Malaysia)",
+      "specialty": "Cancer & Tumor Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Sodesh Hospital, Mymensingh\nAddress: 298/2, Maskanda (Bus Stand), Mymensingh – 2200\nVisiting Hour: 3pm to 10pm (Thu & Friday)\nAppointment: +8809666777990\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mymensingh",
+        "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+        "visitingTime": "3pm to 10pm (Sunday &Monday)",
+        "appointmentNumber": "+8809666787814Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. M. Safiul Alam",
+      "degree": "MBBS, DMRT (DU)",
+      "specialty": "Cancer & Tumor Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Prof. Dr. M. Safiul Alam is a Cancer Specialist in Mymensingh. His qualification is MBBS, DMRT (DU). He is a Former Professor & Head, Radiotherapy at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Sayem Diagno Complex & Hospital, Mymensingh. Practicing hour of Prof. Dr. M. Safiul Alam at Sayem Diagno Complex & Hospital, Mymensingh is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Sayem Diagno Complex & Hospital, Mymensingh",
+        "address": "30/A/1, Dengu Bepari Road, Sehora, Mymensingh – 2200",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801725516141Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Md. Aminul Islam",
+      "degree": "MBBS, DMRT (DU), FACP (USA)",
+      "specialty": "Cancer Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Prof. Dr. Md. Aminul Islam is a Oncologist in Mymensingh. His qualification is MBBS, DMRT (DU), FACP (USA). He is a Professor & Head, Radiotherapy at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Mymensingh. Practicing hour of Prof. Dr. Md. Aminul Islam at Popular Diagnostic Center, Mymensingh is 3pm to 9pm (Sat, Sun, Tue & Wed).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mymensingh",
+        "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+        "visitingTime": "3pm to 9pm (Sat, Sun, Tue & Wed)",
+        "appointmentNumber": "+8809666787814Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Saiful Islam Pathan",
+      "degree": "MBBS, BCS (Health), MD (Radiation Oncology)",
+      "specialty": "Cancer & Tumor Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Md. Saiful Islam Pathan is a Cancer Specialist in Mymensingh. His qualification is MBBS, BCS (Health), MD (Radiation Oncology). He is a Resident Physician, Radiotherapy at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Sodesh Hospital, Mymensingh. Practicing hour of Dr. Md. Saiful Islam Pathan at Sodesh Hospital, Mymensingh is 4pm to 7pm (Sun, Mon, Tue & Wed).",
+      "chamber": {
+        "hospital": "Sodesh Hospital, Mymensingh",
+        "address": "298/2, Maskanda (Bus Stand), Mymensingh - 2200",
+        "visitingTime": "4pm to 7pm (Sun, Mon, Tue & Wed)",
+        "appointmentNumber": "+8809666777990Call Now"
+      }
+    },
+    {
+      "name": "Dr. Ahmed Jabeer",
+      "degree": "MBBS, BCS (Health), MD (Medical Oncology)",
+      "specialty": "Medical Oncologist (Cancer & Tumor Specialist)",
+      "workplace": "Delta Health Care Mymensingh Ltd",
+      "info": "Dr. Ahmed Jabeer is a Oncologist in Mymensingh. His qualification is MBBS, BCS (Health), MD (Medical Oncology). He is a Consultant (Medical Oncology ) at Delta Health Care Mymensingh Ltd. He regularly provides treatment to his patients at Delta Health Care, Mymensingh. Practicing hour of Dr. Ahmed Jabeer at Delta Health Care, Mymensingh is 3pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Delta Health Care, Mymensingh",
+        "address": "55/5, Medical College Gate, Charpara, Mymensingh",
+        "visitingTime": "3pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801847158301Call Now"
+      }
+    }
+  ]
+}

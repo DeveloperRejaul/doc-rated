@@ -1,0 +1,30 @@
+{
+  "doctor": [
+    {
+      "name": "Prof. Dr. Mohammad Manirul Islam",
+      "degree": "MBBS, FCPS (Anesthesiology)",
+      "specialty": "Pain Management Specialist & Anesthesiologist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Prof. Dr. Mohammad Manirul Islam is a Anesthesiologist in Mymensingh. His qualification is MBBS, FCPS (Anesthesiology). He is a Professor & Head, Anesthesiology at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Mymensingh Medical College & Hospital. Practicing hour of Prof. Dr. Mohammad Manirul Islam at Mymensingh Medical College & Hospital is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Mymensingh Medical College & Hospital",
+        "address": "Charpara, Mymensingh",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801768027015Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Abul Kalam Azad Khan",
+      "degree": "MBBS, DA",
+      "specialty": "Anesthesiologist & Pain Specialist",
+      "workplace": "Community Based Medical College & Hospital",
+      "info": "Dr. Md. Abul Kalam Azad Khan is a Anesthesiologist in Mymensingh. His qualification is MBBS, DA. He is a Associate Professor & Head, Anesthesiology at Community Based Medical College & Hospital. He regularly provides treatment to his patients at Community Based Medical College & Hospital. Practicing hour of Dr. Md. Abul Kalam Azad Khan at Community Based Medical College & Hospital is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Community Based Medical College & Hospital",
+        "address": "Chomir Plaza, Charpara Mor, Mymensingh – 2200",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801711707738Call Now"
+      }
+    }
+  ]
+}

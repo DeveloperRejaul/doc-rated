@@ -1,0 +1,693 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Mohammad Nurul Momin",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "Specialist General & Laparoscopic Surgeon",
+      "workplace": "Chattogram General HospitalAppointment: 01810-004550",
+      "info": "Dr. Mohammad Nurul Momin is a General Surgeon in Chittagong. His qualification is MBBS, BCS (Health), FCPS (Surgery). He is a Senior Consultant, Surgery at Chattogram General Hospital. He regularly provides treatment to his patients at Asperia Health Care Ltd, Chittagong. Practicing hour of Dr. Mohammad Nurul Momin at Asperia Health Care Ltd, Chittagong is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Asperia Health Care Ltd, Chittagong",
+        "address": "Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801810-004550Call Now"
+      }
+    },
+    {
+      "name": "Dr. Syed Md. Muhsin",
+      "degree": "MBBS, MCPS, MS (Surgery), FRCS (Hon.), FACS (Hon.), FMAS",
+      "specialty": "General and Laparoscopic Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Syed Md. Muhsin is a General Surgeon in Chittagong. His qualification is MBBS, MCPS, MS (Surgery), FRCS (Hon.), FACS (Hon.), FMAS. He is an Associate Professor of Surgery at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Surgiscope Hospital, Chittagong. Practicing hour of Dr. Syed Md. Muhsin at Surgiscope Hospital, Chittagong is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Surgiscope Hospital, Chittagong",
+        "address": "Unit 2, 445/466, Katalgonj, Chawkbazar, Chattogram – 4203",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801711946412Call Now"
+      }
+    },
+    {
+      "name": "Dr. Abdus Salam",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery), MS (Urology)",
+      "specialty": "Urology (Kidney, Prostate, Ureters, Stone) Specialist & Laparoscopic Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "National Hospital, Chittagong\nAddress: 14/15, Dampara Lane, Mehedibag, Chattogram\nVisiting Hour: 3pm to 4pm (Sat, Mon & Wed)\nAppointment: +8801822685066\nCall Now",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 8pm (Closed: Monday & Friday)",
+        "appointmentNumber": "+8801976022333Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. G. M. Zakir Hossain",
+      "degree": "MBBS, FCPS (Surgery), FCPS (Urology), FRCS (Glassgow)",
+      "specialty": "General & Urological Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Chittagong\nAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 3pm to 6pm (Closed: Friday)\nAppointment: +8809666787810\nCall Now",
+      "chamber": {
+        "hospital": "Lancet Diagnostic Center, Chittagong",
+        "address": "106/B, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801552674425Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Khondker A.K. Azad",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery), FRCS (UK)",
+      "specialty": "General & Laparoscopic Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Prof. Dr. Khondker A.K. Azad is a Surgery Specialist in Chittagong. His qualification is MBBS, BCS (Health), FCPS (Surgery), FRCS (UK). He is a Former Professor & Head, Surgery at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at CSCR Hospital, Chittagong. Practicing hour of Prof. Dr. Khondker A.K. Azad at CSCR Hospital, Chittagong is 6.30pm to 9pm (Sun, Tue & Wed).",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "6.30pm to 9pm (Sun, Tue & Wed)",
+        "appointmentNumber": "+8801887656565Call Now"
+      }
+    },
+    {
+      "name": "Dr. Sakera Ahmed",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General, Laparoscopic, Breast & Colorectal Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Sakera Ahmed is a Surgery Specialist in Chittagong. Her qualification is MBBS, BCS (Health), FCPS (Surgery). She is a Assistant Professor, Surgery at Chittagong Medical College & Hospital. She regularly provides treatment to her patients at CSCR Hospital, Chittagong. Practicing hour of Dr. Sakera Ahmed at CSCR Hospital, Chittagong is 4pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "4pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801781882776Call Now"
+      }
+    },
+    {
+      "name": "Dr. Shagorika Sharmeen",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General, Breast & Colorectal Surgery Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Lancet Diagnostic Center, Chittagong\nAddress: 106/B, K.B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 7pm to 10pm (Closed: Friday)\nAppointment: +8801552674425\nCall Now",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Chittagong",
+        "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "10am to 1pm (Closed: Friday)",
+        "appointmentNumber": "+8801755666969Call Now"
+      }
+    },
+    {
+      "name": "Dr. Najma Mahboob",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General, Breast, Colorectal & Laparoscopic Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Najma Mahboob is a General Surgeon in Chittagong. Her qualification is MBBS, BCS (Health), FCPS (Surgery). She is a Assistant Professor, Surgery at Chittagong Medical College & Hospital. She regularly provides treatment to her patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Najma Mahboob at Parkview Hospital, Chittagong is 6.30pm to 9pm (Closed: Friday & Saturday).",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "6.30pm to 9pm (Closed: Friday & Saturday)",
+        "appointmentNumber": "+8801976022333Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Md. Nur Hossain Bhuiyan",
+      "degree": "MBBS, FCPS (Surgery), FMAS (India), FACS (USA), FRCS (UK)",
+      "specialty": "General, Colorectal, Endo-Laparoscopic & Laser Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Medical Centre Hospital, Chittagong\nAddress: 953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram\nVisiting Hour: 6pm to 9pm (Thursday & Friday)\nAppointment: +88031658501\nCall Now",
+      "chamber": {
+        "hospital": "Green Life Hospital, Dhaka",
+        "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+        "visitingTime": "3pm to 6pm (Sun, Mon & Tue)",
+        "appointmentNumber": "+8801753291984Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mohammad Masud Karim",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery), FMAS (India)",
+      "specialty": "General, Laparoscopic, Hepatobiliary & Colorectal Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Mohammad Masud Karim is a Surgery Specialist in Chittagong. His qualification is MBBS, BCS (Health), FCPS (Surgery), FMAS (India). He is working as a General, Laparoscopic, Hepatobiliary & Colorectal Surgeon doctor in Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Chevron Clinical Laboratory, Chittagong. Practicing hour of Dr. Mohammad Masud Karim at Chevron Clinical Laboratory, Chittagong is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Chittagong",
+        "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801755666969Call Now"
+      }
+    },
+    {
+      "name": "Dr. Prabir Chowdhury",
+      "degree": "MBBS, MCPS (Surgery), FCPS (Surgery)",
+      "specialty": "General & Pediatric Surgeon",
+      "workplace": "Bangabandhu Memorial Hospital, USTC, Chittagong",
+      "info": "Shajinaz Hospital Ltd.\nAddress: Arefin Nagar, Bayezid Link Road, Bayezid Bostami, Chattogram\nVisiting Hour: 2pm to 5pm (Only Thursday)\nAppointment: +8801886-338811\nCall Now",
+      "chamber": {
+        "hospital": "Doctors Lab, Chittagong",
+        "address": "131, KB Fazlul Kader Road, Probortok More, Panchlaish, Chattogram",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801940876810Call Now"
+      }
+    },
+    {
+      "name": "Dr. Jasmin Begum",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "General & Breast Cancer Surgery Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Dr. Jasmin Begum is a Surgery Specialist in Chittagong. Her qualification is MBBS, FCPS (Surgery). She is a Consultant, Surgery at Chattogram Maa-O-Shishu Hospital Medical College. She regularly provides treatment to her patients at Max Hospital & Diagnostic, Chittagong. Practicing hour of Dr. Jasmin Begum at Max Hospital & Diagnostic, Chittagong is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Max Hospital & Diagnostic, Chittagong",
+        "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801713998199Call Now"
+      }
+    },
+    {
+      "name": "Dr. Bijan Kumar Nath",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Specialist Surgeon",
+      "workplace": "General Hospital, Chittagong",
+      "info": "Dr. Bijan Kumar Nath is a Surgery Specialist in Chittagong. His qualification is MBBS, FCPS (Surgery). He is a Senior Consultant, Surgery at General Hospital, Chittagong. He regularly provides treatment to his patients at Metro Diagnostic Center, Chittagong. Practicing hour of Dr. Bijan Kumar Nath at Metro Diagnostic Center, Chittagong is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Metro Diagnostic Center, Chittagong",
+        "address": "Metro Tower, Goal Pahar Mor, Mehedibag, Chattogram",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801823378189Call Now"
+      }
+    },
+    {
+      "name": "Dr. Sayera Banu Sheuly",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General, Colorectal, Breast & Laparoscopic Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Medical Centre Hospital, Chittagong\nAddress: 953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram\nVisiting Hour: 4pm to 6pm (Closed: Friday)\nAppointment: +8801783558161\nCall Now",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Chittagong",
+        "address": "3, Sheikh Mujib Road, Agrabad, Chittagong",
+        "visitingTime": "3pm to 5pm (Only Wednesday)",
+        "appointmentNumber": "+8801731253990Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Shib Sankar Saha",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "General, Colorectal & Laparoscopic Surgeon",
+      "workplace": "Bangabandhu Memorial Hospital, USTC, Chittagong",
+      "info": "Royal Hospital & Bellevue Chittagong\nAddress: 1530/A, O.R. Nizam Road, GEC More, Panchlaish, Chattogram\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +880241355934\nCall Now",
+      "chamber": {
+        "hospital": "Max Hospital & Diagnostic, Chittagong",
+        "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801713998199Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mina Ahmed",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Mina Ahmed is a Surgery Specialist in Chittagong. Her qualification is MBBS, BCS (Health), FCPS (Surgery). She is a Consultant, Surgery at Chittagong Medical College & Hospital. She regularly provides treatment to her patients at Epic Healthcare, Chittagong. Practicing hour of Dr. Mina Ahmed at Epic Healthcare, Chittagong is 7pm to 9pm (Sun, Tue & Thu).",
+      "chamber": {
+        "hospital": "Epic Healthcare, Chittagong",
+        "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 9pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801984499600Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Md. M. H. Nasim",
+      "degree": "MBBS, FCPS (Surgery), MS (Urology)",
+      "specialty": "General, Laparoscopic, Colorectal & Urological Surgeon",
+      "workplace": "Rangamati Medical College & Hospital",
+      "info": "Prof. Dr. Md. M. H. Nasim is a Urological Surgeon in Chittagong. His qualification is MBBS, FCPS (Surgery), MS (Urology). He is a Professor, Surgery at Rangamati Medical College & Hospital. He regularly provides treatment to his patients at National Hospital, Chittagong. Practicing hour of Prof. Dr. Md. M. H. Nasim at National Hospital, Chittagong is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "National Hospital, Chittagong",
+        "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801822685066Call Now"
+      }
+    },
+    {
+      "name": "Dr. Tazdina Hoque Khan",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General, Laparoscopic, Colorectal & Breast Specialist Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "CSCR Hospital, Chittagong\nAddress: CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram\nVisiting Hour: 3pm to 6.30pm (Closed: Friday)\nAppointment: +8801872090677\nCall Now",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital",
+        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801814651077Call Now"
+      }
+    },
+    {
+      "name": "Dr. Raihana Ahmed",
+      "degree": "MBBS, BCS (Health), MS (Surgery)",
+      "specialty": "Breast, General, Laparoscopic & Colorectal Surgery Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Labaid Specialized Hospital, Chattogram\nAddress: 3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram\nVisiting Hour: 7.30pm to 9.30pm (Sat, Mon & Wed)\nAppointment: +8801766662828\nCall Now",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "3pm to 6pm (Closed: Saturday)",
+        "appointmentNumber": "+8801976022333Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Md. Mokhlesur Rahman",
+      "degree": "MBBS, MS (General Surgery)",
+      "specialty": "General, Laparoscopic & Colorectal Surgeon",
+      "workplace": "Chattogram International Medical College & Hospital",
+      "info": "Chattogram Metropolitan Hospital\nAddress: 698/752, O.R. Nizam Road, Panchlaish, Chattogram\nVisiting Hour: 7pm to 10pm (Closed: Friday)\nAppointment: +8801814651077\nCall Now",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Chittagong",
+        "address": "3, Sheikh Mujib Road, Agrabad, Chittagong",
+        "visitingTime": "2pm to 3pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801731253990Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Saiful Haque",
+      "degree": "MBBS, FCPS, FMAS (India), FRCS (Glasgow, UK)",
+      "specialty": "General, Laparoscopic & Colorectal Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Md. Saiful Haque is a General Surgeon in Chittagong. His qualification is MBBS, FCPS, FMAS (India), FRCS (Glasgow, UK). He is a Professor & Head, Department of Surgery at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Chittagong. Practicing hour of Dr. Md. Saiful Haque at Popular Diagnostic Center, Chittagong is 7pm to 10pm (Sat, Tue, Wed & Thursday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Chittagong",
+        "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 10pm (Sat, Tue, Wed & Thursday)",
+        "appointmentNumber": "+8809666787810Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Md. Anwarul Haque",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General, Colorectal (Piles) & Laparoscopic Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Doctors Lab, Chittagong\nAddress: 131, KB Fazlul Kader Road, Probortok More, Panchlaish, Chattogram\nVisiting Hour: 4pm to 8pm (Closed: Friday)\nAppointment: +8801940876810\nCall Now",
+      "chamber": {
+        "hospital": "Epic Healthcare, Chittagong",
+        "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801984499600Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Md. Matiar Rahaman Khan",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "General, Colorectal & Laparoscopic Specialist Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Prof. Dr. Md. Matiar Rahaman Khan is a Surgery Specialist in Chittagong. His qualification is MBBS, FCPS (Surgery). He is a Professor & Head, Surgery at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at People's Hospital, Chittagong. Practicing hour of Prof. Dr. Md. Matiar Rahaman Khan at People's Hospital, Chittagong is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "People's Hospital, Chittagong",
+        "address": "94, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+88031658911Call Now"
+      }
+    },
+    {
+      "name": "Dr. Tahira Benzir",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General, Laparoscopic Colorectal & Breast Specialist Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Popular Diagnostic Center, ChittagongAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, ChattogramVisiting Hour: 4:30pm to 7pm (Closed: Mon & Friday)Appointment: +8809666787810Call Now",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801976022111Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Sanaullah Shelly",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "Endolaparoscopic, Colorectal & Bariatric Specialist Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Md. Sanaullah Shelly is a Surgery Specialist in Chittagong. His qualification is MBBS, FCPS (Surgery). He is a Consultant, Surgery at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at CSCR Hospital, Chittagong. Practicing hour of Dr. Md. Sanaullah Shelly at CSCR Hospital, Chittagong is 6.30pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "6.30pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801887656565Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mohammad Zakir Hossain Bhuiyan",
+      "degree": "MBBS, BCS (Health), MCPS (Surgery), MS (Chest), FMAS (India)",
+      "specialty": "Chest Diseases Specialist & Esophageal Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Chittagong\nAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 6pm to 7pm (Closed: Tue & Friday)\nAppointment: +8809666787810\nCall Now",
+      "chamber": {
+        "hospital": "National Hospital, Chittagong",
+        "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801822685066Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Jashim Uddin Ahmed",
+      "degree": "MBBS, FCPS (Surgery), FMAS (India)",
+      "specialty": "Surgery Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Prof. Dr. Jashim Uddin Ahmed is a General Surgeon in Chittagong. His qualification is MBBS, FCPS (Surgery), FMAS (India). He is a Former Professor, Surgery at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Chattogram Metropolitan Hospital. Practicing hour of Prof. Dr. Jashim Uddin Ahmed at Chattogram Metropolitan Hospital is 3pm to 5pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital",
+        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "3pm to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8801814651077Call Now"
+      }
+    },
+    {
+      "name": "Dr. Pradip Kumar Nath",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Medical Centre Hospital, Chittagong\nAddress: 953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram\nVisiting Hour: 7pm to 9pm (Closed: Thursday & Friday)\nAppointment: +8801783558161\nCall Now",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Chittagong",
+        "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801755666969Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Nurul Amin Bhuiyan",
+      "degree": "MBBS (CMC), BCS (Health), FCPS (Surgery)",
+      "specialty": "General, Laparoscopic & Colorectal Surgery Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Medical Centre Hospital, Chittagong\nAddress: 953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram\nVisiting Hour: 5pm to 7pm (Closed: Friday)\nAppointment: +88031658501\nCall Now",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801887656565Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mayin Uddin Mahmud",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery), FMAS (India)",
+      "specialty": "General, Colorectal & Laparoscopic Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Max Hospital & Diagnostic, Chittagong\nAddress: 35/36, Mehedibag Road, Chawkbazar, Chattogram\nVisiting Hour: 8pm to 9.30pm (Closed: Thu & Friday)\nAppointment: +8801770736139\nCall Now",
+      "chamber": {
+        "hospital": "Epic Healthcare, Chittagong",
+        "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "2.30pm to 4pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801770736139Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Surman Ali",
+      "degree": "MBBS, FCPS (Surgery), MS (Urology)",
+      "specialty": "General, Colorectal & Laparoscopic Specialist Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Evercare Hospital, Chattogram\nAddress: H1, Ananna R/A, CDA, Hathazari, Chattogram\nVisiting Hour: 9am to 5pm (Closed: Friday)\nAppointment: +8809610810663\nCall Now",
+      "chamber": {
+        "hospital": "Max Hospital & Diagnostic, Chittagong",
+        "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+        "visitingTime": "6pm to 8.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801713998199Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Ahsanul Abedin",
+      "degree": "MBBS, BCS (Health), MCPS (Surgery), FCPS (Surgery), FACS (USA), FMAS (India)",
+      "specialty": "General, Laparoscopic & Colorectal Surgery Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Md. Ahsanul Abedin is a General Surgeon in Chittagong. His qualification is MBBS, BCS (Health), MCPS (Surgery), FCPS (Surgery), FACS (USA), FMAS (India). He is a Assistant Professor, Surgery at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at CSCR Hospital, Chittagong. Practicing hour of Dr. Md. Ahsanul Abedin at CSCR Hospital, Chittagong is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "Room 400, Block # B, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801814055221Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mohammad Ershad Alam",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General, Colorectal & Laparoscopic Surgery Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Popular Diagnostic Center, ChittagongAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, ChattogramVisiting Hour: 6:30pm to 9pm (Sun, Mon, Tue & Thursday)Appointment: +8809666787810Call Now",
+      "chamber": {
+        "hospital": "Treatment Hospital, Chittagong",
+        "address": "100, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "8pm to 10pm (Closed: Saturday & Wednesday)",
+        "appointmentNumber": "+880312557925Call Now"
+      }
+    },
+    {
+      "name": "Dr. Shantanu Biswas",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "Gastrointestinal, Hepatobiliary & Pancreatic Specialist Surgeon",
+      "workplace": "National Gastroliver Institute & Hospital",
+      "info": "Max Hospital & Diagnostic, Chittagong\nAddress: 35/36, Mehedibag Road, Chawkbazar, Chattogram\nVisiting Hour: 7pm to 9pm (Thursday & Friday) & 10am to 12pm (Friday)\nAppointment: +8801713998199\nCall Now",
+      "chamber": {
+        "hospital": "SIBL Foundation Hospital & Diagnostic Center",
+        "address": "Fattah Plaza, 70, Green Road, Panthapath, Dhaka - 1205",
+        "visitingTime": "5pm to 7pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801538104977Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. S.M. Ashraf Ali",
+      "degree": "MBBS, FCPS (Surgery), FMAS (India), FACS (USA)",
+      "specialty": "General & Advanced Laparoscopic Surgeon",
+      "workplace": "Marine City Medical College & Hospital",
+      "info": "Prof. Dr. S.M. Ashraf Ali is a General Surgeon in Chittagong. His qualification is MBBS, FCPS (Surgery), FMAS (India), FACS (USA). He is a Professor & Head, Surgery at Marine City Medical College & Hospital. He regularly provides treatment to his patients at Royal Hospital, Chittagong. Practicing hour of Prof. Dr. S.M. Ashraf Ali at Royal Hospital, Chittagong is 6.30pm to 8.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Royal Hospital, Chittagong",
+        "address": "1530/A, O.R. Nizam Road, GEC More, Panchlaish, Chattogram",
+        "visitingTime": "6.30pm to 8.30pm (Closed: Friday)",
+        "appointmentNumber": "+880241355934Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mohammad Salim",
+      "degree": "MBBS, BCS (Health), MCPS (Surgery), MS (Surgery), Fellow (India)",
+      "specialty": "General, Laparoscopic & Colorectal Specialist Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Mohammad Salim is a General Surgeon in Chittagong. His qualification is MBBS, BCS (Health), MCPS (Surgery), MS (Surgery), Fellow (India). He is a Consultant, Surgery at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Lancet Diagnostic Center, Chittagong. Practicing hour of Dr. Mohammad Salim at Lancet Diagnostic Center, Chittagong is 5pm to 9pm (Closed: Friday & Saturday).",
+      "chamber": {
+        "hospital": "Lancet Diagnostic Center, Chittagong",
+        "address": "106/B, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 9pm (Closed: Friday & Saturday)",
+        "appointmentNumber": "+8801552674425Call Now"
+      }
+    },
+    {
+      "name": "Dr. Rivu Raj Chakraborty",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General, Laparoscopic, Endoscopic & Trauma Surgeon",
+      "workplace": "Rangamati Medical College & Hospital",
+      "info": "Dr. Rivu Raj Chakraborty is a General Surgeon in Chittagong. His qualification is MBBS, BCS (Health), FCPS (Surgery). He is a Assistant Professor, Surgery at Rangamati Medical College & Hospital. He regularly provides treatment to his patients at Evercare Hospital, Chattogram. Practicing hour of Dr. Rivu Raj Chakraborty at Evercare Hospital, Chattogram is 2pm to 5pm (Closed: Sun & Friday).",
+      "chamber": {
+        "hospital": "Evercare Hospital, Chattogram",
+        "address": "H1, Ananna R/A, CDA, Hathazari, Chattogram",
+        "visitingTime": "2pm to 5pm (Closed: Sun & Friday)",
+        "appointmentNumber": "+8809610810663Call Now"
+      }
+    },
+    {
+      "name": "Dr. Rashedul Hasan",
+      "degree": "MBBS, FCPS (Surgery), DipMAS",
+      "specialty": "General, Laparoscopic, Colorectal, Cancer & Laser Surgery Specialist",
+      "workplace": "Rangamati Medical College & Hospital",
+      "info": "Dr. Rashedul Hasan is a General Surgeon in Chittagong. His qualification is MBBS, FCPS (Surgery), DipMAS. He is a Assistant Professor, Surgery at Rangamati Medical College & Hospital. He regularly provides treatment to his patients at Labaid Specialized Hospital, Chattogram. Practicing hour of Dr. Rashedul Hasan at Labaid Specialized Hospital, Chattogram is 7.30pm to 9.30pm (Sun, Tue & Thu).",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Chattogram",
+        "address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
+        "visitingTime": "7.30pm to 9.30pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801766662828Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Md. Yunus Haroon Chowdhury",
+      "degree": "MBBS, BCS (Health), MS (Surgery)",
+      "specialty": "General, Laparoscopic & Colorectal Surgery Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Prof. Dr. Md. Yunus Haroon Chowdhury is a General Surgeon in Chittagong. His qualification is MBBS, BCS (Health), MS (Surgery). He is a Professor of Surgery at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Royal Hospital, Chittagong. Practicing hour of Prof. Dr. Md. Yunus Haroon Chowdhury at Royal Hospital, Chittagong is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Royal Hospital, Chittagong",
+        "address": "1530/A, O.R. Nizam Road, GEC More, Panchlaish, Chattogram",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+880241355934Call Now"
+      }
+    },
+    {
+      "name": "Dr. Morshed Ali",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Specialist Surgeon",
+      "workplace": "Parkview Hospital, Chittagong",
+      "info": "Dr. Morshed Ali is a General Surgeon in Chittagong. His qualification is MBBS, BCS (Health), FCPS (Surgery). He is a Consultant, Surgery at Parkview Hospital, Chittagong. He regularly provides treatment to his patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Morshed Ali at Parkview Hospital, Chittagong is 8pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "8pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801976022333Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. P. B. Roy",
+      "degree": "MBBS, FCPS (Surgery), FRCS (UK)",
+      "specialty": "General, Laparoscopic & Colorectal Specialist Surgeon",
+      "workplace": "Bangabandhu Memorial Hospital, Chittagong",
+      "info": "Prof. Dr. P. B. Roy is a General Surgeon in Chittagong. His qualification is MBBS, FCPS (Surgery), FRCS (UK). He is a Former Professor, Surgery at Bangabandhu Memorial Hospital, Chittagong. He regularly provides treatment to his patients at Chevron Clinical Laboratory, Chittagong. Practicing hour of Prof. Dr. P. B. Roy at Chevron Clinical Laboratory, Chittagong is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Chittagong",
+        "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801755666969Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Sadik Saifur Rahman",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Surgeon",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Prof. Dr. Sadik Saifur Rahman is a Surgery Specialist in Chittagong. His qualification is MBBS, FCPS (Surgery). He is a Professor, Surgery at Chattogram Maa-O-Shishu Hospital Medical College. He regularly provides treatment to his patients at Metro Diagnostic Center, Chittagong. Practicing hour of Prof. Dr. Sadik Saifur Rahman at Metro Diagnostic Center, Chittagong is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Metro Diagnostic Center, Chittagong",
+        "address": "Metro Tower, Goal Pahar Mor, Mehedibag, Chattogram",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801822169345Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Jahangir Hossain Ricky",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Surgery Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Md. Jahangir Hossain Ricky is a Surgery Specialist in Chittagong. His qualification is MBBS, BCS (Health), FCPS (Surgery). He is working as a General & Laparoscopic Surgery Specialist doctor in Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Surgiscope Hospital, Chittagong. Practicing hour of Dr. Md. Jahangir Hossain Ricky at Surgiscope Hospital, Chittagong is 6pm to 9pm (Everyday).",
+      "chamber": {
+        "hospital": "Surgiscope Hospital, Chittagong",
+        "address": "Unit 2, 53/1, Panchlaish, Chattogram - 4203",
+        "visitingTime": "6pm to 9pm (Everyday)",
+        "appointmentNumber": "+8801864444248Call Now"
+      }
+    },
+    {
+      "name": "Dr. Surjit Ghosh",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General Surgery Specialist",
+      "workplace": "Patiya Upazila Health Complex, Chittagong",
+      "info": "Dr. Surjit Ghosh is a Surgery Specialist in Chittagong. His qualification is MBBS, BCS (Health), FCPS (Surgery). He is a Consultant, Surgery at Patiya Upazila Health Complex, Chittagong. He regularly provides treatment to his patients at Chevron Clinical Laboratory, Halishahar. Practicing hour of Dr. Surjit Ghosh at Chevron Clinical Laboratory, Halishahar is 5pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Halishahar",
+        "address": "993/2121, Agrabad Access Road, Halishahar, Chattogram",
+        "visitingTime": "5pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801701229090Call Now"
+      }
+    },
+    {
+      "name": "Dr. S.M. Ishtiaque Ali Rubel",
+      "degree": "MBBS. FCPS (Surgery)",
+      "specialty": "General, Laparoscopic. Colorectal. Breast & Trauma Surgeon",
+      "workplace": "Rangamati Medical College & Hospital",
+      "info": "Shahjalal Diagnostic Clinic, Chittagong\nAddress: 143, Sheikh Mujib Road, Badamtoli, Agrabad, Chattogram\nVisiting Hour: 7pm to 9pm (Closed: Friday)\nAppointment: +8801317661879\nCall Now",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9.30pm (Everyday)",
+        "appointmentNumber": "+8801976022333Call Now"
+      }
+    },
+    {
+      "name": "Dr. Abdullah Al Mamun Chowdhury",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Specialist Surgeon",
+      "workplace": "Chandanaish Upazila Health Complex, Chittagong",
+      "info": "Dr. Abdullah Al Mamun Chowdhury is a General Surgeon in Chittagong. His qualification is MBBS, BCS (Health), FCPS (Surgery). He is a Consultant, Surgery at Chandanaish Upazila Health Complex, Chittagong. He regularly provides treatment to his patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Abdullah Al Mamun Chowdhury at Parkview Hospital, Chittagong is 7pm to 9.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 9.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801976022333Call Now"
+      }
+    },
+    {
+      "name": "Dr. Meshkat Uddin Khan",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Surgery Specialist",
+      "workplace": "Chittagong International Medical College & Hospital",
+      "info": "Dr. Meshkat Uddin Khan is a General Surgeon in Chittagong. His qualification is MBBS, FCPS (Surgery). He is a Assistant Professor, Surgery at Chittagong International Medical College & Hospital. He regularly provides treatment to his patients at Peerless Diagnostic Center, Chittagong. Practicing hour of Dr. Meshkat Uddin Khan at Peerless Diagnostic Center, Chittagong is 6pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Peerless Diagnostic Center, Chittagong",
+        "address": "504, O.R Nizam Road, Gol Pahar Mor, Chttogram",
+        "visitingTime": "6pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801716-396048Call Now"
+      }
+    },
+    {
+      "name": "Dr. Shamima Nasrin Tamanna",
+      "degree": "MBBS (CMC), MS (SURGERY), BCS (HEALTH), CMU ( DU), CCD (BIRDEM)",
+      "specialty": "Breast, Colorectal (Piles), Laparoscopic & General Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Chattogram Metropolitan Diagnostic Center\nAddress: Room 306, Golpahar Mor (Above Shwapno), Chattogram\nVisiting Hour: 8pm to 9pm (Closed: Friday)\nAppointment: +8801850944102\nCall Now",
+      "chamber": {
+        "hospital": "Epic Healthcare, Chittagong",
+        "address": "Beside CGS School, K.B. Fazlul Kader Road, Chattogram",
+        "visitingTime": "6pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801850944102Call Now"
+      }
+    },
+    {
+      "name": "Dr. Ashish Kumar Chowdhury",
+      "degree": "MBBS (CMC), CO (Surgery), PhD (Surgery)",
+      "specialty": "General, Laparoscopy and Colorectal Surgery Specialist",
+      "workplace": "University of Science and Technology Chittagong",
+      "info": "Dr. Ashish Kumar Chowdhury is a General Surgeon in Chittagong. His qualification is MBBS (CMC), CO (Surgery), PhD (Surgery). He is a Former Associate Professor of Surgery at University of Science and Technology Chittagong. He regularly provides treatment to his patients at Chevron Clinical Laboratory, Chittagong. Practicing hour of Dr. Ashish Kumar Chowdhury at Chevron Clinical Laboratory, Chittagong is 3pm to 7pm (Sunday, Tuesday & Thursday).",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Chittagong",
+        "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "3pm to 7pm (Sunday, Tuesday & Thursday)",
+        "appointmentNumber": "+8801850415494Call Now"
+      }
+    },
+    {
+      "name": "Porf. Col. Dr. Sohel Ahmed",
+      "degree": "MBBS (CU), FCPS (Surgery), FACS (USA)",
+      "specialty": "General, Laparoscopic & Colorectal Surgery Specialist",
+      "workplace": "Apollo Imperial Hospital, Chittagong",
+      "info": "Porf. Col. Dr. Sohel Ahmed is a General Surgeon in Chittagong. His qualification is MBBS (CU), FCPS (Surgery), FACS (USA). He is a Consultant (Surgery) at Apollo Imperial Hospital, Chittagong. He regularly provides treatment to his patients at Shajinaz Hospital Ltd.. Practicing hour of Porf. Col. Dr. Sohel Ahmed at Shajinaz Hospital Ltd. is 5.30pm to 7pm (Sun, Tue & Thu).",
+      "chamber": {
+        "hospital": "Shajinaz Hospital Ltd.",
+        "address": "Arefin Nagar, Bayezid Link Road, Bayezid Bostami, Chattogram",
+        "visitingTime": "5.30pm to 7pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801886338811Call Now"
+      }
+    },
+    {
+      "name": "Dr Syed Aftub Uddin",
+      "degree": "MBBS (SOMC), BCS (Health), MS (General Surgery), CCCD (NHF)",
+      "specialty": "General, Laparoscopic, Colorectal & Breast Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Surgeons Lounge\nAddress: House # 01, Road # 07, Goribullah Shah Housing, Khulshi, Chittagong\nVisiting Hour: 6pm to 9pm (Everyday)\nAppointment: +8801537586358\nCall Now",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "Room 224, 94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Everyday)",
+        "appointmentNumber": "+8801537586358Call Now"
+      }
+    },
+    {
+      "name": "Dr. Abdullah-Al-Maruf",
+      "degree": "MBBS (CMC), BCS (Health), FCPS (Surgery)",
+      "specialty": "General, Laparoscopic & Oncosurgery Spcialist",
+      "workplace": "CSCR Hospital & Diagnostic Centre, Chittagong",
+      "info": "Dr. Abdullah-Al-Maruf is a General Surgeon in Chittagong. His qualification is MBBS (CMC), BCS (Health), FCPS (Surgery). He is a Consultant (Surgery) at CSCR Hospital & Diagnostic Centre, Chittagong. He regularly provides treatment to his patients at CSCR Hospital, Chittagong. Practicing hour of Dr. Abdullah-Al-Maruf at CSCR Hospital, Chittagong is 7pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "Room 205 (2nd Floor), 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801833996600Call Now"
+      }
+    },
+    {
+      "name": "Dr. Yeahea Manik",
+      "degree": "MBBS, BCS (Health), MS (General Surgery - BSMMU)",
+      "specialty": "General, Laparoscopic & Colorectal Surgeon",
+      "workplace": "Chittagong Medical College Hospital",
+      "info": "Dr. Yeahea Manik is a General Surgeon in Chittagong. His qualification is MBBS, BCS (Health), MS (General Surgery - BSMMU). He is a Jr. Consultant (Surgery) at Chittagong Medical College Hospital. He regularly provides treatment to his patients at Asperia Treatment Health Care, Chittagong. Practicing hour of Dr. Yeahea Manik at Asperia Treatment Health Care, Chittagong is 8pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Asperia Treatment Health Care, Chittagong",
+        "address": "1st Floor, 100, Panchlaish, (opposite to Probortok School), Chittagong",
+        "visitingTime": "8pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801323337344Call Now"
+      }
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Md. Kabir Hasan Parvez",
+      "degree": "MBBS, BCS (Health), MD (Psychiatry), MACP (USA)",
+      "specialty": "Psychiatry (Mental Illness, Addiction & Sexual Medicine) Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Md. Kabir Hasan Parvez is a Psychiatrist in Mymensingh. His qualification is MBBS, BCS (Health), MD (Psychiatry), MACP (USA). He is a Assistant Professor & Head, Psychiatry at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Pranto Diagnostic Center, Mymensingh. Practicing hour of Dr. Md. Kabir Hasan Parvez at Pranto Diagnostic Center, Mymensingh is 2.30pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Pranto Diagnostic Center, Mymensingh",
+        "address": "211, Charpara (Opposite to Hospital Gate), Mymensingh",
+        "visitingTime": "2.30pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801888107041Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Bidhan Ranjan Roy Poddar",
+      "degree": "MBBS, DPM, MPhil (Psychiatry)",
+      "specialty": "Mental Health, Drug Addiction & Sexual Diseases Specialist",
+      "workplace": "National Institute of Mental Health & Hospital",
+      "info": "Prof. Dr. Bidhan Ranjan Roy Poddar is a Psychiatrist in Mymensingh. His qualification is MBBS, DPM, MPhil (Psychiatry). He is the Director cum Professor, Psychiatry at National Institute of Mental Health & Hospital. He regularly provides treatment to his patients at Union Specialized Hospital, Mymensingh. Practicing hour of Prof. Dr. Bidhan Ranjan Roy Poddar at Union Specialized Hospital, Mymensingh is 10am to 4pm (Friday & Saturday).",
+      "chamber": {
+        "hospital": "Union Specialized Hospital, Mymensingh",
+        "address": "337, Charpara, Mymensingh",
+        "visitingTime": "10am to 4pm (Friday & Saturday)",
+        "appointmentNumber": "+8801958280000Call Now"
+      }
+    },
+    {
+      "name": "Dr. M. Asraful Siddike Pathan",
+      "degree": "MBBS, MPhil (Psychiatry)",
+      "specialty": "Mental Health, Drug Addiction & Sexual Diseases Specialist",
+      "workplace": "Community Based Medical College & Hospital",
+      "info": "Dr. M. Asraful Siddike Pathan is a Psychiatrist in Mymensingh. His qualification is MBBS, MPhil (Psychiatry). He is a Associate Professor & Head, Psychiatry at Community Based Medical College & Hospital. He regularly provides treatment to his patients at Union Specialized Hospital, Mymensingh. Practicing hour of Dr. M. Asraful Siddike Pathan at Union Specialized Hospital, Mymensingh is Sat to Thu (Closed: Sunday).",
+      "chamber": {
+        "hospital": "Union Specialized Hospital, Mymensingh",
+        "address": "337, Charpara, Mymensingh",
+        "visitingTime": "Sat to Thu (Closed: Sunday)",
+        "appointmentNumber": "+8801958280000Call Now"
+      }
+    },
+    {
+      "name": "Dr. Dil Md. Sazzadul Kabir (Sabuz)",
+      "degree": "MBBS (Dhaka), BCS (Health), MD (Psychiatry)",
+      "specialty": "Mental Diseases, Drug Addiction & Sexual Medicine Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Dil Md. Sazzadul Kabir (Sabuz) is a Psychiatrist in Mymensingh. His qualification is MBBS (Dhaka), BCS (Health), MD (Psychiatry). He is a Registrar, Psychiatry at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Sodesh Hospital, Mymensingh. Practicing hour of Dr. Dil Md. Sazzadul Kabir (Sabuz) at Sodesh Hospital, Mymensingh is 3pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Sodesh Hospital, Mymensingh",
+        "address": "298/2, Maskanda (Bus Stand), Mymensingh – 2200",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809666777990Call Now"
+      }
+    }
+  ]
+}

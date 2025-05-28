@@ -1,0 +1,537 @@
+{
+  "doctor": [
+    {
+      "name": "Asst. Prof. Dr. Dulal Chandra Das",
+      "degree": "MBBS, MD (Hepatology)",
+      "specialty": "Liver, Gallbladder, Biliary, Pancreas & Gastroenterology Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Popular Diagnostic Center, Gazipur\nAddress: Room 707, Unit 01, Shibbari Mor, Joydebpur, Gazipur\nVisiting Hour: 9am to 7pm (Only Friday)\nAppointment: +8809666787816\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
+        "address": "Bhaban 1, Room 606, House # 23, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
+        "visitingTime": "4pm to 9pm (Sat, Sun, Tue, Wed & Thu), 7pm to 9pm (Mon)",
+        "appointmentNumber": "+8801740214338Call Now"
+      }
+    },
+    {
+      "name": "Dr. Abul Hayat Manik",
+      "degree": "MBBS, BCS (Health), MD (Hepatology)",
+      "specialty": "Hepatology (Liver, Gallbladder, Jaundice, Pancreas) Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Abul Hayat Manik is a highly skilled Hepatology Specialist, specializing in the treatment of liver, gallbladder, jaundice, and pancreas-related diseases. He holds an MBBS degree, is a BCS (Health) cadre, and has earned an MD in Hepatology. With advanced training in Interventional Endoscopy from India and Malaysia, he is an expert in diagnosing and managing conditions such as hepatitis (B & C), liver cirrhosis, fatty liver disease, gallbladder stones, pancreatitis, and gastrointestinal bleeding. As a Registrar in the Hepatology Department at Dhaka Medical College & Hospital, he actively contributes to liver disease research and treatment advancements. He is also a member of the Asian Pacific Association for the Study of Liver (APASL) and serves as an Executive Member of the Association for the Study of Liver Diseases, Bangladesh (ASLDB).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Malibagh",
+        "address": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
+        "visitingTime": "6pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801716410062Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Mamun Al Mahtab Shwapnil",
+      "degree": "MBBS, MSc (Gastroenterology, London), MD (Hepatology)",
+      "specialty": "Hepatologist & Gastroenterologist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. Mamun Al Mahtab Shwapnil is a renowned hepatologist and gastroenterologist in Bangladesh with extensive expertise in liver and digestive diseases. Holding an MBBS, MSc in Gastroenterology from London, and an MD in Hepatology, he has also earned prestigious fellowships, including FICP (India), FRCP (Ireland, London), FBAS, and a PhD from the University of Malaya. As the Head of the Interventional Hepatology Division and former Chairman of the Department of Hepatology at Bangabandhu Sheikh Mujib Medical University Hospital, he specializes in treating liver cirrhosis, hepatitis B and C, fatty liver disease, and gastrointestinal disorders. He consults at Farabi General Hospital, Dhanmondi, Dhaka, from 4 PM to 11 PM (closed on Fridays).",
+      "chamber": {
+        "hospital": "Farabi General Hospital, Dhanmondi",
+        "address": "House # 8/3, Road # 14 (New), Dhanmondi R/A, (West Side of Sobhanbag Mosque), Dhaka",
+        "visitingTime": "4pm to 11pm (Closed: Friday)",
+        "appointmentNumber": "+8801316345602, +8801894448401Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Mobin Khan",
+      "degree": "MBBS, MSC (Hepatology), FCPS (BD & PK),  FRCP (Glasg & Edin), FACP (USA), FCCP (USA)",
+      "specialty": "Liver Diseases & Medicine Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof Dr Mobin Khan, former treasurer of Bangabandhu Sheikh Mujib Medical University and founding chairman of the hepatology department, has passed away. He died on Thursday around 3:30pm while receiving treatment in the intensive care unit at Anwer Khan Modern Medical College Hospital in Dhaka. He was 75 years old. Dr Fazle Fahim of the hospital’s hepatology department told bdnews24.com, “Sir was ill due to age-related complications and had Parkinson’s disease. He was admitted here for treatment.”",
+      "chamber": {
+        "hospital": "অধ্যাপক ডা. মবিন খান মারা গেছেন",
+        "address": "Mirza Golam Hafiz Road, House # 64, Road # 8/A, Dhanmondi R/A, Dhaka",
+        "visitingTime": "৩১ অক্টোবর ২০২৪ তারিখে ফাদার অব হেপাটোলজি ইন বাংলাদেশ খ্যাত অধ্যাপক ডা. মবিন খান মারা গেছেন।",
+        "appointmentNumber": "+8801750839384Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Md. Shahinul Alam",
+      "degree": "MBBS, FCPS (Medicine), MD (Hepatology)",
+      "specialty": "Liver Diseases, Medicine & Therapeutic Endoscopy Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. Md. Shahinul Alam is a Liver Specialist in Dhaka. His qualification is MBBS, FCPS (Medicine), MD (Hepatology). He is a Professor, Hepatology at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Dhanmondi. Practicing hour of Prof. Dr. Md. Shahinul Alam at Ibn Sina Diagnostic Center, Dhanmondi is 6pm to 11pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
+        "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+        "visitingTime": "6pm to 11pm (Closed: Friday)",
+        "appointmentNumber": "+8809610010615Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. A.K.M Shamsul Kabir",
+      "degree": "MBBS (DU), FCPS (Medicine), MD (Hepatology)",
+      "specialty": "Liver Diseases & Medicine Specialist",
+      "workplace": "Holy Family Red Crescent Medical College & Hospital",
+      "info": "Prof. Dr. A.K.M Shamsul Kabir is a Liver Specialist in Dhaka. His qualification is MBBS (DU), FCPS (Medicine), MD (Hepatology). He is a Professor, Medicine at Holy Family Red Crescent Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Gulshan. Practicing hour of Prof. Dr. A.K.M Shamsul Kabir at Labaid Diagnostic, Gulshan is 5.30pm to 9.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Gulshan",
+        "address": "House # 13/A, Road # 35, Gulshan 2, Dhaka",
+        "visitingTime": "5.30pm to 9.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662525Call Now"
+      }
+    },
+    {
+      "name": "Dr. Sayedul Haque Jewel",
+      "degree": "MBBS, BCS (Health), MD (Hepatology)",
+      "specialty": "Liver Diseases, Gastroenterology & Medicine Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Sayedul Haque Jewel is a Liver Specialist in Dhaka. His qualification is MBBS, BCS (Health), MD (Hepatology). He is a Assistant Professor, Hepatology at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Dhaka Gastro-Liver Center. Practicing hour of Dr. Sayedul Haque Jewel at Dhaka Gastro-Liver Center is 8pm to 10pm (Everyday).",
+      "chamber": {
+        "hospital": "Dhaka Gastro-Liver Center",
+        "address": "24/1 Shan Tower, Chamelibagh, Shantinagar, Dhaka",
+        "visitingTime": "8pm to 10pm (Everyday)",
+        "appointmentNumber": "+8801703728601Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Salimur Rahman",
+      "degree": "MBBS (DMC), FCPS (Medicine), FRCP (Ireland), FRCP (Edinburgh)",
+      "specialty": "Medicine & Liver Diseases Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Anwer Khan Modern Medical College Hospital\nAddress: House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205\nVisiting Hour: 4.30pm to 6pm (Closed: Friday)\nAppointment: +8801310855867\nCall Now",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Dhanmondi",
+        "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "8pm to 11pm (Closed: Friday)",
+        "appointmentNumber": "10606Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Md. Jamshed Alam Khan",
+      "degree": "MBBS, MCPS (Medicine), MD (Hepatology)",
+      "specialty": "Liver Diseases Specialist",
+      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+      "info": "Farazy Hospital, Banasree\nAddress: House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka\nVisiting Hour: 5.30pm to 7.30pm (Sat, Mon & Wed)\nAppointment: +8801766111137\nCall Now",
+      "chamber": {
+        "hospital": "BRB Hospital, Dhaka",
+        "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
+        "visitingTime": "10am to 2pm (Closed: Friday)",
+        "appointmentNumber": "+8801777764800Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Jahangir Kabir",
+      "degree": "MBBS, BCS (Health), MD (Hepatology)",
+      "specialty": "Liver, Gastrointestine Diseases & Medicine Specialist",
+      "workplace": "Kurmitola General Hospital, Dhaka",
+      "info": "City Diagnostic Center, Pabna\nAddress: Beside TB Hospital, Hospital Road, Shalgaria, Pabna\nVisiting Hour: 8m to 4pm (Every Friday)\nAppointment: +8801757204642\nCall Now",
+      "chamber": {
+        "hospital": "Upasham Health Point (Pvt.) Ltd",
+        "address": "House-14, Road-2/B, Block-J, Natun Bazar, Baridhara, Dhaka-1212",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+88022222298460Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Mahbub H. Khan",
+      "degree": "MBBS, PhD (Liver Medicine, Sydney), DSM (Vienna), Fellow (Liver & Gastroenterology)",
+      "specialty": "Liver & Gastroenterology Specialist",
+      "workplace": "Bangladesh Institute of Health Sciences Hospital",
+      "info": "Labaid Diagnostic, Kalabagan\nAddress: House – 66, Mirpur Road, Kalabagan, Dhaka – 1205\nVisiting Hour: 6pm to 9pm (Closed: Thu & Friday)\nAppointment: +8801766661331\nCall Now",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Dhanmondi",
+        "address": "House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka",
+        "visitingTime": "10am to 12.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801911356298Call Now"
+      }
+    },
+    {
+      "name": "Dr. Sheikh Mohammad Noor-E-Alam",
+      "degree": "MBBS, MD (Hepatology)",
+      "specialty": "Liver & Pancreatic Diseases Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Sheikh Mohammad Noor-E-Alam is a Liver Specialist in Dhaka. His qualification is MBBS, MD (Hepatology). He is a Associate Professor, Hepatology at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Dhanmondi. Practicing hour of Dr. Sheikh Mohammad Noor-E-Alam at Popular Diagnostic Center, Dhanmondi is 5pm to 8:30pm (Closed: Wed & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Dhanmondi",
+        "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+        "visitingTime": "5pm to 8:30pm (Closed: Wed & Friday)",
+        "appointmentNumber": "+8809666787801Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Nooruddin Ahmad",
+      "degree": "MBBS, FCPS (Med), Training (Liver, Japan & Thailand)",
+      "specialty": "Liver & Medicine Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. Nooruddin Ahmad is a Liver Doctor in Dhaka. His qualification is MBBS, FCPS (Med), Training (Liver, Japan & Thailand). He is working as a Liver & Medicine Specialist doctor in Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Labaid Specialized Hospital, Dhanmondi. Practicing hour of Prof. Dr. Nooruddin Ahmad at Labaid Specialized Hospital, Dhanmondi is 4pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Dhanmondi",
+        "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "4pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "10606Call Now"
+      }
+    },
+    {
+      "name": "Dr. SM Shahadat Hossain",
+      "degree": "MBBS, BCS (Health), MD (Hepatology), MRCP (Medicine),(UK), APASL, AASLD",
+      "specialty": "Interventional Hepatologist (Liver Diseases) & Endoscopist",
+      "workplace": "Kurmitola General Hospital, Dhaka",
+      "info": "Dr. SM Shahadat Hossain is a Liver Specialist in Dhaka. His qualification is MBBS, BCS (Health), MD (Hepatology), MRCP (Medicine),(UK), APASL, AASLD. He is a Consultant, Hepatology at Kurmitola General Hospital, Dhaka. He regularly provides treatment to his patients at Popular Diagnostic Center, Mirpur. Practicing hour of Dr. SM Shahadat Hossain at Popular Diagnostic Center, Mirpur is 7:30pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mirpur",
+        "address": "Unit 02, House # 02, Block # A, Section # 10, Mirpur, Dhaka",
+        "visitingTime": "7:30pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787807Call Now"
+      }
+    },
+    {
+      "name": "Dr. Dalil Uddin",
+      "degree": "MBBS, BCS (Health), MD (Hepatology)",
+      "specialty": "Liver, Gastrointestine Diseases Specialist & Endoscopist",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Ibn Sina Diagnostic Center, Comilla\nAddress: House # 29, Kotbari Road, Tomsom Bridge, Cumilla\nVisiting Hour: 12pm to 1pm (Closed: Friday)\nAppointment: +8801841212275\nCall Now",
+      "chamber": {
+        "hospital": "Comilla Trauma Center",
+        "address": "511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla",
+        "visitingTime": "2.30pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809612808182Call Now"
+      }
+    },
+    {
+      "name": "Dr. Faiz Ahmad Khondaker",
+      "degree": "MBBS (DMC), FCPS (Medicine), MD (Hepatology)",
+      "specialty": "Liver Diseases & Medicine Specialist",
+      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+      "info": "Dr. Faiz Ahmad Khondaker is a Liver Specialist in Dhaka. His qualification is MBBS (DMC), FCPS (Medicine), MD (Hepatology). He is a Associate Professor, Hepatology at Shaheed Suhrawardy Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Shantinagar. Practicing hour of Dr. Faiz Ahmad Khondaker at Popular Diagnostic Center, Shantinagar is 6pm to 9pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Shantinagar",
+        "address": "Unit # 02, House # 15, Shantinagar, Motijheel, Dhaka",
+        "visitingTime": "6pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809666787803Call Now"
+      }
+    },
+    {
+      "name": "Dr. Asma Helen Khan",
+      "degree": "MBBS, FCPS (Hepatology)",
+      "specialty": "Liver Diseases & Gastroenterology Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Asma Helen Khan is a Liver Specialist in Dhaka. Her qualification is MBBS, FCPS (Hepatology). She is a Consultant, Hepatology at Bangabandhu Sheikh Mujib Medical University Hospital. She regularly provides treatment to her patients at Islami Bank Hospital, Mirpur. Practicing hour of Dr. Asma Helen Khan at Islami Bank Hospital, Mirpur is 8pm to 9.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Mirpur",
+        "address": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
+        "visitingTime": "8pm to 9.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801992346632Call Now"
+      }
+    },
+    {
+      "name": "Dr. M Golam Azam",
+      "degree": "MBBS (DMC), MD (Hepatology), Training in Liver Diseases (Japan)",
+      "specialty": "Liver Diseases & Gastroenterology Specialist",
+      "workplace": "Birdem General Hospital & Ibrahim Medical College",
+      "info": "Dr. M Golam Azam is a Liver Specialist in Dhaka. His qualification is MBBS (DMC), MD (Hepatology), Training in Liver Diseases (Japan). He is a Associate Professor, Gastroenterology & Hepatology at Birdem General Hospital & Ibrahim Medical College. He regularly provides treatment to his patients at Anwer Khan Modern Medical College Hospital. Practicing hour of Dr. M Golam Azam at Anwer Khan Modern Medical College Hospital is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Anwer Khan Modern Medical College Hospital",
+        "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801826-179686Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Fazal Karim",
+      "degree": "MBBS, FCPS (Medicine), MD (Hepatology)",
+      "specialty": "Liver & Medicine Specialist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Comfort Diagnostic Center, Dhanmondi\nAddress: 167/B, Green Road, Dhanmondi, Dhaka – 1205\nVisiting Hour: 2pm to 3pm (Closed: Friday)\nAppointment: +8801731956033\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Doyagonj",
+        "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
+        "visitingTime": "9pm to 10pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801878115751Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Saiful Islam Parvez",
+      "degree": "MBBS (DMC), BCS (Health), MD (Heapatology)",
+      "specialty": "Liver Diseases Specialist",
+      "workplace": "Mugda Medical College & Hospital",
+      "info": "Dr. Md. Saiful Islam Parvez is a Liver Doctor in Savar. His qualification is MBBS (DMC), BCS (Health), MD (Heapatology). He is a Assistant Professor, Hepatology at Mugda Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Savar. Practicing hour of Dr. Md. Saiful Islam Parvez at Ibn Sina Diagnostic Center, Savar is 4pm to 7pm (Mon, Thu & Fri).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Savar",
+        "address": "31/6 Jaleshwar, Aricha Road, Savar, Dhaka - 1340",
+        "visitingTime": "4pm to 7pm (Mon, Thu & Fri)",
+        "appointmentNumber": "+88 09610009613Call Now"
+      }
+    },
+    {
+      "name": "Dr Muhammad Razaul Karim",
+      "degree": "MBBS, FCPS (Medicine), MD (Hepatology), MACP( USA)",
+      "specialty": "Gastro-Liver & Medicine Specialist",
+      "workplace": "Bangladesh National Parliament Secretariat Medical Center",
+      "info": "Tanha Health Care Hospital, Shafipur\nAddress: Room 501, Dhaka – Tangail Highway, Shafipur Bazar, Kaliakoir, Gazipur\nVisiting Hour: 4pm to 8pm (Sat, Mon & Wed)\nAppointment: +8801717690460\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Shyamoli",
+        "address": "Room 204, Opposite to Shyamoli Shishu Mela, Babor Road, Mohammadpur, Dhaka",
+        "visitingTime": "8am to 8.50am (Everyday), 3pm to 5pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801717690460Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Mahabubul Alam (Prince)",
+      "degree": "MBBS (DMC), MD (Hepatology)",
+      "specialty": "Liver Diseases & Gastroenterology Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Md. Mahabubul Alam (Prince) is a Liver Specialist in Dhaka. His qualification is MBBS (DMC), MD (Hepatology). He is a Consultant, Hepatology at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at BRB Hospital, Dhaka. Practicing hour of Dr. Md. Mahabubul Alam (Prince) at BRB Hospital, Dhaka is 3pm to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "BRB Hospital, Dhaka",
+        "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
+        "visitingTime": "3pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "10647Call Now"
+      }
+    },
+    {
+      "name": "Dr. Forhad Hossain Md. Shahed",
+      "degree": "MBBS, BCS (Health), MD (Hepatology)",
+      "specialty": "Liver Diseases, Gastroenterology & Medicine Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Central Hospital, Dhanmondi\nAddress: House # 02, Road # 05, Green Road, Dhanmondi, Dhaka – 1205\nVisiting Hour: 7pm to 9pm (Closed: Thu & Friday)\nAppointment: +8801321213963\nCall Now",
+      "chamber": {
+        "hospital": "Japan Bangladesh Friendship Hospital",
+        "address": "55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi",
+        "visitingTime": "3pm to 6pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801711647877Call Now"
+      }
+    },
+    {
+      "name": "Dr. Jhumur Ghosh",
+      "degree": "MBBS, MD (Hepatology)",
+      "specialty": "Liver, Gastroenterology, Medicine Specialist & Interventional Endoscopist",
+      "workplace": "MH Samorita Hospital & Medical College",
+      "info": "Dr. Jhumur Ghosh is the first female hepatologist in Bangladesh. Her qualification is MBBS, MD (Hepatology). She is a Associate Professor, Hepatology at MH Samorita Hospital & Medical College. She regularly provides treatment to her patients at Popular Diagnostic Center, English Road. Practicing hour of Dr. Jhumur Ghosh at Popular Diagnostic Center, English Road is 3pm to 5pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, English Road",
+        "address": "House # 2, English Road, Ray Shaheb Bazar, Dhaka",
+        "visitingTime": "3pm to 5pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809666787802Call Now"
+      }
+    },
+    {
+      "name": "Dr. Provat Kumar Podder",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Hepatology)",
+      "specialty": "Liver Diseases, Gastroenterology, Medicine Specialist & Interventional Hepatologist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Dr. Provat Kumar Podder is a Liver Specialist in Dhaka. His qualification is MBBS, BCS (Health), FCPS (Medicine), MD (Hepatology). He is a Associate Professor, Hepatology at Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at Green Life Hospital, Dhaka. Practicing hour of Dr. Provat Kumar Podder at Green Life Hospital, Dhaka is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Green Life Hospital, Dhaka",
+        "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801737488895Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Forhadul Islam Chowdhury",
+      "degree": "MBBS, MD (Hepatology), CCD (BIRDEM)",
+      "specialty": "Hepatology (Liver, Gallbladder, Jaundice, Pancreas) Specialist",
+      "workplace": "Bangladesh Institute of Health Sciences Hospital",
+      "info": "Dr. Md. Forhadul Islam Chowdhury is a Hepatologist in Dhaka. His qualification is MBBS, MD (Hepatology), CCD (BIRDEM). He is a Associate Professor & Head (Hepatology) at Bangladesh Institute of Health Sciences Hospital. He regularly provides treatment to his patients at Aalok Healthcare & Hospital, Mirpur 10. Practicing hour of Dr. Md. Forhadul Islam Chowdhury at Aalok Healthcare & Hospital, Mirpur 10 is 5pm to 9pm (Closed: Mon, Wed & Friday).",
+      "chamber": {
+        "hospital": "Aalok Healthcare & Hospital, Mirpur 10",
+        "address": "House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka",
+        "visitingTime": "5pm to 9pm (Closed: Mon, Wed & Friday)",
+        "appointmentNumber": "+8801915448491Call Now"
+      }
+    },
+    {
+      "name": "Dr. Utpal Das Gupta",
+      "degree": "MBBS, FCPS (Medicine), MD (Hepatology)",
+      "specialty": "Liver Specialist",
+      "workplace": "Asgar Ali Hospital, Dhaka",
+      "info": "Dr. Utpal Das Gupta is a Hepatologist in Dhaka. His qualification is MBBS, FCPS (Medicine), MD (Hepatology) . He is working as a Liver Specialist doctor in Asgar Ali Hospital, Dhaka. He regularly provides treatment to his patients at Asgar Ali Hospital, Dhaka. Practicing hour of Dr. Utpal Das Gupta at Asgar Ali Hospital, Dhaka is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Asgar Ali Hospital, Dhaka",
+        "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801787683333Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Ashraful Alam",
+      "degree": "MBBS, MD (Hepatology)",
+      "specialty": "Liver Specialist & Interventional Hepatologist",
+      "workplace": "Shaheed Tajuddin Ahmad Medical College & Hospital",
+      "info": "Dr. Md. Ashraful Alam is a Hepatologist in Dhaka. His qualification is MBBS, MD (Hepatology). He is a Associate Professor & Head, Hepatology at Shaheed Tajuddin Ahmad Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Uttara (Unit 02). Practicing hour of Dr. Md. Ashraful Alam at Labaid Diagnostic, Uttara (Unit 02) is 3pm to 5pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Uttara (Unit 02)",
+        "address": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
+        "visitingTime": "3pm to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662050Call Now"
+      }
+    },
+    {
+      "name": "Dr. Fowaz Hussain Shuvo",
+      "degree": "MBBS, MD (Hepatology)",
+      "specialty": "Liver, Gallbladder, Biliary Tree & Pancreas Diseases Specialist",
+      "workplace": "Square Hospital, Dhaka",
+      "info": "Dr. Fowaz Hussain Shuvo is a Hepatologist in Dhaka. His qualification is MBBS, MD (Hepatology). He is a Consultant, Hepatology at Square Hospital, Dhaka. He regularly provides treatment to his patients at Square Hospital, Dhaka. Practicing hour of Dr. Fowaz Hussain Shuvo at Square Hospital, Dhaka is 10am to 1pm & 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Square Hospital, Dhaka",
+        "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
+        "visitingTime": "10am to 1pm & 4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "10616Call Now"
+      }
+    },
+    {
+      "name": "Dr. Kazi Zakir Hosain",
+      "degree": "MBBS, BCS (Health), MD (Hepatology)",
+      "specialty": "Liver Diseases, Medicine & Gastroenterology Specialist",
+      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+      "info": "Dr. Kazi Zakir Hosain is a Liver Specialist in Dhaka. His qualification is MBBS, BCS (Health), MD (Hepatology). He is a Consultant, Hepatology at Shaheed Suhrawardy Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Mirpur. Practicing hour of Dr. Kazi Zakir Hosain at Popular Diagnostic Center, Mirpur is 6:30pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mirpur",
+        "address": "Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka",
+        "visitingTime": "6:30pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787807Call Now"
+      }
+    },
+    {
+      "name": "Dr. Arifa Tasnim",
+      "degree": "MBBS (DMC), BCS (Health), MD (Hepatology)",
+      "specialty": "Liver Diseases Specialist",
+      "workplace": "National Gastroliver Institute & Hospital",
+      "info": "Dr. Arifa Tasnim is a Liver Specialist in Dhaka. Her qualification is MBBS (DMC), BCS (Health), MD (Hepatology). She is a Consultant, Hepatology at National Gastroliver Institute & Hospital. She regularly provides treatment to her patients at Ibn Sina Diagnostic Center, Dhanmondi. Practicing hour of Dr. Arifa Tasnim at Ibn Sina Diagnostic Center, Dhanmondi is 7pm to 9pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
+        "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+        "visitingTime": "7pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809610010615Call Now"
+      }
+    },
+    {
+      "name": "Dr. Tahmid Mahbub",
+      "degree": "MBBS, MD (Hepatology)",
+      "specialty": "Liver, Gallbladder, Biliary Tree & Pancreas Specialist",
+      "workplace": "National Gastroliver Institute & Hospital",
+      "info": "Dr. Tahmid Mahbub is a Liver Specialist in Dhaka. His qualification is MBBS, MD (Hepatology). He is a Consultant, Hepatology at National Gastroliver Institute & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Uttara (Unit 01). Practicing hour of Dr. Tahmid Mahbub at Labaid Diagnostic, Uttara (Unit 01) is 5pm to 8pm (Sat, Sun, Tue & Fri).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Uttara (Unit 01)",
+        "address": "House # 15, Road # 12, Sector # 06, Uttara, Dhaka",
+        "visitingTime": "5pm to 8pm (Sat, Sun, Tue & Fri)",
+        "appointmentNumber": "+8801766662606Call Now"
+      }
+    },
+    {
+      "name": "Dr. Shawkat Hossain Romel",
+      "degree": "MBBS, BCS (Health), MD (Hepatology)",
+      "specialty": "Liver, Gastrointestinal Diseases Specialist & Therapeutic Endoscopist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Dr. Shawkat Hossain Romel is a Liver Specialist in Dhaka. His qualification is MBBS, BCS (Health), MD (Hepatology). He is a Assistant Professor, Hepatology at Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at Green Life Hospital, Dhaka. Practicing hour of Dr. Shawkat Hossain Romel at Green Life Hospital, Dhaka is 5pm to 10pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Green Life Hospital, Dhaka",
+        "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+        "visitingTime": "5pm to 10pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801707533047Call Now"
+      }
+    },
+    {
+      "name": "Dr. Partho Pratik Roy",
+      "degree": "MBBS, BCS (Health), MD (Hepatology)",
+      "specialty": "Liver Diseases, Gastroenterology Specialist & Endoscopist",
+      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+      "info": "Savar Prime Hospital\nAddress: A-89, Thana Road, Talbagh, Savar, Dhaka – 1340\nVisiting Hour: 3pm to 6pm (Only Tuesday)\nAppointment: +8801752561542\nCall Now",
+      "chamber": {
+        "hospital": "Japan Bangladesh Friendship Hospital",
+        "address": "A-89, Thana Road, Talbagh, Savar, Dhaka - 1340",
+        "visitingTime": "3pm to 5pm & 9pm to 10pm (Closed: Tuesday)",
+        "appointmentNumber": "+88029672277Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Kamrul Anam",
+      "degree": "MBBS, BCS (Health), MD (Hepatology)",
+      "specialty": "Medicine, Liver, Gastroenterology & Pancreas Specialist",
+      "workplace": "Railway General Hospitsl, Dhaka",
+      "info": "Dr. Md. Kamrul Anam is a Liver Specialist in Dhaka. His qualification is MBBS, BCS (Health), MD (Hepatology). He is a Consultant, Hepatology at Railway General Hospitsl, Dhaka. He regularly provides treatment to his patients at Islami Bank Hospital, Mugda. Practicing hour of Dr. Md. Kamrul Anam at Islami Bank Hospital, Mugda is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Mugda",
+        "address": "1/24/B, Kamalapur Manda Road, South Mugdapara, Dhaka",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801724008677Call Now"
+      }
+    },
+    {
+      "name": "Dr. A.M. Abdullah Al Yeusuf",
+      "degree": "MBBS (Dhaka), MD (Hepatology)",
+      "specialty": "Liver, Gastroenterology & Pancreas Specialist",
+      "workplace": "Dhaka Central International Medical College & Hospital",
+      "info": "Medinova Medical Services, Dhanmondi\nAddress: House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka\nVisiting Hour: 7.30pm to 9.30pm (Sun, Tue & Thu)\nContact Number: 10658\nCall Now",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Mugda",
+        "address": "1/24/B, Kamalapur Manda Road, South Mugdapara, Dhaka",
+        "visitingTime": "7.30pm to 9.30pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801724008677Call Now"
+      }
+    },
+    {
+      "name": "Dr. Faysal Ahmed",
+      "degree": "MBBS, MD (Hepatology)",
+      "specialty": "Liver & Gastroenterology Specialist, Endoscopist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Faysal Ahmed is a Liver Specialist in Dhaka. His qualification is MBBS, MD (Hepatology). He is a Consultant, Department of Hepatology at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Uttara (Garib-E-Newaz). Practicing hour of Dr. Faysal Ahmed at Popular Diagnostic Center, Uttara (Garib-E-Newaz) is 4pm to 6pm (Sat, Mon, Tues & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Uttara (Garib-E-Newaz)",
+        "address": "House # 41, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
+        "visitingTime": "4pm to 6pm (Sat, Mon, Tues & Friday)",
+        "appointmentNumber": "+8809666787823Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Muhammad Mahbub Hussain",
+      "degree": "MBBS, MD (Hepatology)",
+      "specialty": "Hepatology (Liver Diseases, Gallbladder, Pancreas) Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Prof. Dr. Muhammad Mahbub Hussain is a Hepatologist in Dhaka. His qualification is MBBS, MD (Hepatology). He is a Founder, Former Professor & Head of Hepatology Department at Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Mirpur. Practicing hour of Prof. Dr. Muhammad Mahbub Hussain at Popular Diagnostic Center, Mirpur is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mirpur",
+        "address": "Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787807Call Now"
+      }
+    },
+    {
+      "name": "Dr. Syed Abul Foyez",
+      "degree": "MBBS, BCS(Health), FCPS(Medicine), MD (Hepatology)",
+      "specialty": "Medicine & Liver Specialist",
+      "workplace": "Popular Medical College & Hospital",
+      "info": "Dr. Syed Abul Foyez is a Liver Specialist in Dhaka. His qualification is MBBS, BCS(Health), FCPS(Medicine), MD (Hepatology). He is a Consultant, Hepatology at Popular Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Dhanmondi. Practicing hour of Dr. Syed Abul Foyez at Popular Diagnostic Center, Dhanmondi is 6pm to 9pm (Only Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Dhanmondi",
+        "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+        "visitingTime": "6pm to 9pm (Only Friday)",
+        "appointmentNumber": "+8809666787801Call Now"
+      }
+    },
+    {
+      "name": "Dr. Jahangir Alam",
+      "degree": "MBBS, MD (Hepatology)",
+      "specialty": "Liver Diseases, Gastroenterology & Medicine Specialist",
+      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+      "info": "Dr. Jahangir Alam is a Hepatologist in Dhaka. His qualification is MBBS, MD (Hepatology). He is a Associate Professor of Hepatology at Shaheed Suhrawardy Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Badda. Practicing hour of Dr. Jahangir Alam at Popular Diagnostic Center, Badda is 7pm to 8.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Badda",
+        "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka",
+        "visitingTime": "7pm to 8.30pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787809Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Enamul Haque (Faisal)",
+      "degree": "MBBS, BCS (Health), MD (Hepatology)",
+      "specialty": "Liver Specialist & Interventional Hepatologist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Dr. Md. Enamul Haque (Faisal) is a Liver Specialist in Dhaka. His qualification is MBBS, BCS (Health), MD (Hepatology). He is a Consultant (Hepatology) at Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at Mirpur General Hospital & Diagnostic Center. Practicing hour of Dr. Md. Enamul Haque (Faisal) at Mirpur General Hospital & Diagnostic Center is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Mirpur General Hospital & Diagnostic Center",
+        "address": "Plot - 10, Road - 4/5, Section - 12, Kalshi Road, Mirpur, Dhaka",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801610964966Call Now"
+      }
+    }
+  ]
+}

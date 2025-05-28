@@ -1,0 +1,69 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Md. Asadur Rahman",
+      "degree": "MBBS, FCPS (ENT)",
+      "specialty": "ENT Specialist & Head Neck Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Amin Diagnostic & Medical Services, Kushtia\nAddress: Ram Chandra Ray Chowdhury Road, College Mor, Court Para, Kushtia\nVisiting Hour: 5pm to 8pm (Thu), 8am to 5pm (Fri)\nAppointment: +8801712243514\nCall Now",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Rajshahi",
+        "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
+        "visitingTime": "3pm to 8pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801777242536Call Now"
+      }
+    },
+    {
+      "name": "Dr. M.A Mannan",
+      "degree": "MBBS, DLO (DU)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "250 Bedded General Hospital, Kushtia",
+      "info": "Dr. M.A Mannan is a ENT Specialist in Kushtia. His qualification is MBBS, DLO (DU). He is a Ex. Consultant, ENT at 250 Bedded General Hospital, Kushtia. He regularly provides treatment to his patients at Sono Diagnostic Center, Kushtia. Practicing hour of Dr. M.A Mannan at Sono Diagnostic Center, Kushtia is 10am to 2pm (Everyday), 5pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Sono Diagnostic Center, Kushtia",
+        "address": "Sono Tower, College Mor, Court Para, Kushtia",
+        "visitingTime": "10am to 2pm (Everyday), 5pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801712193430Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Emamul Haque",
+      "degree": "MBBS, BCS (Health), FCPS (ENT)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head-Neck Surgeon",
+      "workplace": "Kushtia Medical College & Hospital",
+      "info": "Dr. Md. Emamul Haque is a ENT Specialist in Kushtia. His qualification is MBBS, BCS (Health), FCPS (ENT). He is a Assistant Professor, ENT & Head Neck Surgery at Kushtia Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Centre, Kushtia. Practicing hour of Dr. Md. Emamul Haque at Popular Diagnostic Centre, Kushtia is 3pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Centre, Kushtia",
+        "address": "City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia",
+        "visitingTime": "3pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787817Call Now"
+      }
+    },
+    {
+      "name": "Dr. Zulfiquor Haider",
+      "degree": "MBBS, DLO (DU), MCPS (ENT)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Kushtia Medical College & Hospital",
+      "info": "Dr. Zulfiquor Haider’s Home\nAddress: Behind Kamrul Islam Siddique Shishu Park, Courtpara, Kushtia\nVisiting Hour: 9am to 3pm & 5pm to 8pm (Everyday)\nAppointment: +8801713259838\nCall Now",
+      "chamber": {
+        "hospital": "Kushtia Trauma Center & Specialized Hospital",
+        "address": "97/5, Ramchandra Roy Chowdhury Road, Courtpara, Kushtia",
+        "visitingTime": "4pm to 7pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801321232512Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Mozaharul Islam",
+      "degree": "MBBS, MCPS (ENT), DLO (DU)",
+      "specialty": "Ear, Nose, Throat Diseases Specialist & Surgeon",
+      "workplace": "Kushtia Medical College & Hospital",
+      "info": "Dr. Md. Mozaharul Islam is a ENT Specialist in Kushtia. His qualification is MBBS, MCPS (ENT), DLO (DU). He is a Ex. Associate Professor, ENT at Kushtia Medical College & Hospital. He regularly provides treatment to his patients at Sono Consultation Center, Kushtia. Practicing hour of Dr. Md. Mozaharul Islam at Sono Consultation Center, Kushtia is 11am to 1pm (Everyday).",
+      "chamber": {
+        "hospital": "Sono Consultation Center, Kushtia",
+        "address": "Sono Tower 2, Court Para, Kushtia, Bangladesh",
+        "visitingTime": "11am to 1pm (Everyday)",
+        "appointmentNumber": "+8801770997352Call Now"
+      }
+    }
+  ]
+}

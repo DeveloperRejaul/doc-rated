@@ -1,0 +1,82 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Md. Abdul Wahab",
+      "degree": "BDS (Dhaka), BCS (Health), PGT (Mitford), MRSH (UK)",
+      "specialty": "Oral & Dental Specialist Surgeon",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Md. Abdul Wahab is a Dentist in Rangpur. His qualification is BDS (Dhaka), BCS (Health), PGT (Mitford), MRSH (UK). He is a Dental Surgeon, Dental at Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Ayesha Villa. Practicing hour of Dr. Md. Abdul Wahab at Ayesha Villa is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Ayesha Villa",
+        "address": "House # 29/4 (Opposite to Sarak Bhaban), Road # 01, Dhap, Jail Road, Rangpur",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801712200961Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Musa Siddik Juwel",
+      "degree": "BDS, MCPS, FCPS (Maxillofacial Surgery)",
+      "specialty": "Oral Tumor, Cancer and Maxillofacial Surgeon (Dental Surgeon)",
+      "workplace": "Principal, Rangpur Community Dental College",
+      "info": "Dr. Musa Siddik Jewel is a Renowned Dental and Maxillofacial surgeon in Rangpur.\nHe is a Professor & Head of Maxillofacial Surgery as well as Principal of Rangpur Community Dental College. He regularly provides treatment to his patients at Dental Maxillofacial & Implant Center. Practicing hour of Prof. Dr. Musa Siddik Juwel at Dental Maxillofacial & Implant Center is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Dental Maxillofacial & Implant Center",
+        "address": "Beside Ma-Moni Hotel, Jail Road, Dhap, Rangpur",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801312826279Call Now"
+      }
+    },
+    {
+      "name": "Dr. Marina Akther Jolly",
+      "degree": "BDS, FCPS (Orthodontics), WHO Fellow (USA)",
+      "specialty": "Orthodontics (Braces, Bite & Jaw Problem) Specialist & Dental Surgeon",
+      "workplace": "Rangpur Community Dental College",
+      "info": "Dr. Marina Akther Jolly is a Dentist in Rangpur. Her qualification is BDS, FCPS (Orthodontics), WHO Fellow (USA). She is the Vice Principal and Associate Professor & Head of Orthodontics Department at Rangpur Community Dental College. She regularly provides treatment to her patients at Jolly Dental & Orthodontics. Practicing hour of Dr. Marina Akther Jolly at Jolly Dental & Orthodontics is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Jolly Dental & Orthodontics",
+        "address": "Opposite to Sarak Bhaban, Jail Road, Dhap Rangpur",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801749427316Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Taz Uddin Biswas",
+      "degree": "BDS, BCS (Health), MS (OMF)",
+      "specialty": "Oral & Maxilofacial Surgeon",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Md. Taz Uddin Biswas is a Dentist in Rangpur. His qualification is BDS, BCS (Health), MS (OMF). He is working as a Oral & Maxilofacial Surgeon doctor in Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Namira Hospital, Rangpur. Practicing hour of Dr. Md. Taz Uddin Biswas at Namira Hospital, Rangpur is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Namira Hospital, Rangpur",
+        "address": "Opposite BGB 1 No. Gate near CO Bazar, Rangpur",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801750908297Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Abdur Rahman (Shaku)",
+      "degree": "BDS, MS (Orthodontics), BCS (Health)",
+      "specialty": "Orthodontics (Braces, Bite & Jaw Problem) Specialist & Dental Surgeon",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Md. Abdur Rahman (Shaku) is a Orthodontist in Rangpur. His qualification is BDS, MS (Orthodontics), BCS (Health). He is a Assistant Professor, Orthodontics at Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Shayaan Dental & Orthodontics. Practicing hour of Dr. Md. Abdur Rahman (Shaku) at Shayaan Dental & Orthodontics is 3.30pm to 8.30pm (Closed: Sun & Friday).",
+      "chamber": {
+        "hospital": "Shayaan Dental & Orthodontics",
+        "address": "7th Floor, Goribullah Tower, Opposite to CMM Court, Kacharibazar, Rangpur",
+        "visitingTime": "3.30pm to 8.30pm (Closed: Sun & Friday)",
+        "appointmentNumber": "+8801795733183Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Ariful Islam",
+      "degree": "BDS, BCS (Health), FCPS (OMS)",
+      "specialty": "Tumor, Cancer, Cyst, Oral & Maxillofacial Surgeon",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Md. Ariful Islam is a Dentist in Rangpur. His qualification is BDS, BCS (Health), FCPS (OMS). He is an Assistant Professor & Head of Dept (Oral & Maxillofacial Surgery) at Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Elegant Dentistry, Rangpur. Practicing hour of Dr. Md. Ariful Islam at Elegant Dentistry, Rangpur is 4.30pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Elegant Dentistry, Rangpur",
+        "address": "Canopus Building (4th Floor), 39/7, RDRS More, Dhap, Jail Road, Rangpur",
+        "visitingTime": "4.30pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801764889923Call Now"
+      }
+    }
+  ]
+}

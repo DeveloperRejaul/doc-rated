@@ -1,0 +1,17 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Md. Zahid Raihan",
+      "degree": "MBBS, BCS (Health), MS (Neurosurgery)",
+      "specialty": "Brain, Nerve, Stroke, Paralysis, Parkinson Specialist & Surgeon",
+      "workplace": "Kushtia Medical College & Hospital",
+      "info": "Shimla Hospital, Pabna\nAddress: Shimla Tower, Thana Mor, Hospital Road, Pabna\nVisiting Hour: 4pm to 8pm (2nd & 4th Saturday of Every Month)\nAppointment: +8801713228218\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Centre, Kushtia",
+        "address": "City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia",
+        "visitingTime": "8am to 2pm (Friday)",
+        "appointmentNumber": "+8809666787817Call Now"
+      }
+    }
+  ]
+}

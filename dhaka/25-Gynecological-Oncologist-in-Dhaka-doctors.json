@@ -1,0 +1,147 @@
+{
+  "doctor": [
+    {
+      "name": "Prof. Dr. Shahana Pervin",
+      "degree": "MBBS, DGO, FCPS (OBGYN)",
+      "specialty": "Gynecology, Gynecological Cancer Specialist & Surgeon",
+      "workplace": "National Institute of Cancer Research & Hospital",
+      "info": "Labaid Cancer Hospital and Super Speciality Centre\nAddress: 26 Green Road, Dhaka\nVisiting Hour: 8pm to 10pm (Sat, Mon, Tue & Wed)\nAppointment: 10606, +8801766662111\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Cancer Diagnostic Center, Dhanmondi",
+        "address": "House # 47, Road # 10/A, Satmasjid Road, Dhanmondi, Dhaka",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801313095910, 10615Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Jannatul Ferdous",
+      "degree": "MBBS (DMC), FCPS (OBGYN), FCPS (Gynecological Oncology)",
+      "specialty": "Gynecological Cancer Specialist & Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. Jannatul Ferdous is a Gynecologist in Dhaka. Her qualification is MBBS (DMC), FCPS (OBGYN), FCPS (Gynecological Oncology). She is a Professor, Gynecology & Obstetrics at Bangabandhu Sheikh Mujib Medical University Hospital. She regularly provides treatment to her patients at Labaid Diagnostic, Uttara (Unit 01). Practicing hour of Prof. Dr. Jannatul Ferdous at Labaid Diagnostic, Uttara (Unit 01) is 4pm to 7pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Uttara (Unit 01)",
+        "address": "House # 15, Road # 12, Sector # 06, Uttara, Dhaka",
+        "visitingTime": "4pm to 7pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801766662606Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Shirin Akter Begum",
+      "degree": "MBBS, DGO, MCPS, MS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics, Gynecological Cancer Specialist & Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. Shirin Akter Begum is a Gynecologist in Dhaka. Her qualification is MBBS, DGO, MCPS, MS (OBGYN). She is a Professor, Gynecological Oncology at Bangabandhu Sheikh Mujib Medical University Hospital. She regularly provides treatment to her patients at Green Life Hospital, Dhaka. Practicing hour of Prof. Dr. Shirin Akter Begum at Green Life Hospital, Dhaka is 5pm to 9pm (Sun, Tue & Thu).",
+      "chamber": {
+        "hospital": "Green Life Hospital, Dhaka",
+        "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+        "visitingTime": "5pm to 9pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801552321697Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Sabera Khatun",
+      "degree": "MBBS (Dhaka), FCPS (OBGYN), FICS, Fellow in Gyne Oncology (UK & SG)",
+      "specialty": "Gynecological Cancer Specialist & Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Labaid Cancer Hospital & Super Speciality Center\nAddress: 26, Green Road, Dhaka\nVisiting Hour: 11am to 9pm (Sun, Tue & Thu)\nAppointment: +8809666710001\nCall Now",
+      "chamber": {
+        "hospital": "Central Hospital, Dhanmondi",
+        "address": "House # 02, Road # 05, Green Road, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "6pm to 8.30pm (Closed: Friday)",
+        "appointmentNumber": "+8802-41060800Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Dilruba Akter",
+      "degree": "MBBS, BCS (Health), MCPS, FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
+      "workplace": "Institute of Child & Mother Health",
+      "info": "Prof. Dr. Dilruba Akter is a Gynecologist in Dhaka. Her qualification is MBBS, BCS (Health), MCPS, FCPS (OBGYN). She is a Professor & Head, Gynecology & Obstetrics at Institute of Child & Mother Health. She regularly provides treatment to her patients at Popular Diagnostic Center, Dhanmondi. Practicing hour of Prof. Dr. Dilruba Akter at Popular Diagnostic Center, Dhanmondi is 6pm to 9pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Dhanmondi",
+        "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+        "visitingTime": "6pm to 9pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809666787801Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Rehana Parveen",
+      "degree": "MBBS, FCPS (OBGYN)",
+      "specialty": "Gynecology, Gynecological Cancer Specialist & Surgeon",
+      "workplace": "Square Hospital, Dhaka",
+      "info": "Prof. Dr. Rehana Parveen is a Gynecologist in Dhaka. Her qualification is MBBS, FCPS (OBGYN). She is a Senior Consultant, Gynecological Oncology at Square Hospital, Dhaka. She regularly provides treatment to her patients at Square Hospital, Dhaka. Practicing hour of Prof. Dr. Rehana Parveen at Square Hospital, Dhaka is 10am to 1pm & 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Square Hospital, Dhaka",
+        "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
+        "visitingTime": "10am to 1pm & 5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "10616Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Farhat Hussain",
+      "degree": "MBBS (DMC), FCPS (OBGYN), Trained in Gyne Oncology (India)",
+      "specialty": "Gynecologist & Gyne Cancer Specialist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Bangladesh Specialized Hospital\nAddress: 21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8809666700100\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Dhanmondi",
+        "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+        "visitingTime": "6:30pm to 8:30pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8809666787801Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Nazma Hoque",
+      "degree": "MBBS, DGO, FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics, Gyne Cancer Specialist & Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Prof. Dr. Nazma Hoque is a Gynecologist in Dhaka. Her qualification is MBBS, DGO, FCPS (OBGYN). She is a Professor, Gynecology & Obstetrics at Dhaka Medical College & Hospital. She regularly provides treatment to her patients at Central Hospital, Dhanmondi. Practicing hour of Prof. Dr. Nazma Hoque at Central Hospital, Dhanmondi is 6.30pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Central Hospital, Dhanmondi",
+        "address": "House # 02, Road # 05, Green Road, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "6.30pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8802-41060800Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Fawzia Hossain",
+      "degree": "MBBS, FRCOG (UK), MS, MRCOG (UK), FIAOG (India), DFFP (Glasgow)",
+      "specialty": "Gynecological Oncology & Gynecology Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. Fawzia Hossain is a Gynecological Oncologist in Dhaka. Her qualification is MBBS, FRCOG (UK), MS, MRCOG (UK), FIAOG (India), DFFP (Glasgow). She is a Professor, Gynecological Oncology at Bangabandhu Sheikh Mujib Medical University Hospital. She regularly provides treatment to her patients at Central Hospital, Dhanmondi. Practicing hour of Prof. Dr. Fawzia Hossain at Central Hospital, Dhanmondi is 6.30pm to 9.30pm (Sat, Mon & Wednesday).",
+      "chamber": {
+        "hospital": "Central Hospital, Dhanmondi",
+        "address": "House # 02, Road # 05, Green Road, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "6.30pm to 9.30pm (Sat, Mon & Wednesday)",
+        "appointmentNumber": "+8802-41060800Call Now"
+      }
+    },
+    {
+      "name": "Dr. Silvia Hossain",
+      "degree": "MBBS (SSMC), DGO, FCPS (Gynae & Obst), FCPS( Gynecological Oncology)",
+      "specialty": "Gynae, Gynaecological Oncologist & Laparoscopic surgeon",
+      "workplace": "National Institute of Cancer Research & Hospital",
+      "info": "Square Hospital Ltd, Dhaka\nAddress: 8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka\nVisiting Hour: 4pm to 8pm (Sunday & Thursday)\nAppointment: 10616\nCall Now",
+      "chamber": {
+        "hospital": "Labaid Cancer Hospital & Super Speciality Center",
+        "address": "26, Green Road, Dhaka",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "10664Call Now"
+      }
+    },
+    {
+      "name": "Dr. Jebunnahar",
+      "degree": "MBBS, BCS (Health), FCPS (Obs & Gyne), FCPS (Gynecological Oncology)",
+      "specialty": "Gynecology, Gynecological Cancer Specialist & Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Jebunnahar is a Gynecological Oncologist in Dhaka. Her qualification is MBBS, BCS (Health), FCPS (Obs & Gyne), FCPS (Gynecological Oncology). She is a Consultant, Gyne & Obs Dept at Dhaka Medical College & Hospital. She regularly provides treatment to her patients at Labaid Diagnostic, Malibagh. Practicing hour of Dr. Jebunnahar at Labaid Diagnostic, Malibagh is 7pm to 9pm (Everyday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Malibagh",
+        "address": "House # B65, Chowdhury Para, Malibagh, Dhaka",
+        "visitingTime": "7pm to 9pm (Everyday)",
+        "appointmentNumber": "+8801766662555Call Now"
+      }
+    }
+  ]
+}

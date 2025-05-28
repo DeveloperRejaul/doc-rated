@@ -1,0 +1,56 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Nahida Islam Nipa",
+      "degree": "MBBS (DU), DDV (DU), FRCP (Glasgow), MACP (USA)",
+      "specialty": "Skin, Allergy, Hair, Nail, Sexual Diseases Specialist & Dermato Surgeon",
+      "workplace": "Community Based Medical College & Hospital",
+      "info": "Dr. Nahida Islam Nipa is a Dermatologist in Mymensingh. Her qualification is MBBS (DU), DDV (DU), FRCP (Glasgow), MACP (USA). She is a Associate Professor & Head (Dermatology) at Community Based Medical College & Hospital. She regularly provides treatment to her patients at Delta Health Care, Mymensingh. Practicing hour of Dr. Nahida Islam Nipa at Delta Health Care, Mymensingh is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Delta Health Care, Mymensingh",
+        "address": "55/5, Medical College Gate, Charpara, Mymensingh",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801847158301Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Nazrul Islam",
+      "degree": "MBBS (Dhaka), DDV (BSMMU), FCPS (Skin & Sex), MCPS (Skin & Sex)",
+      "specialty": "Skin, Allergy, Leprosy & Sexual Diseases Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Md. Nazrul Islam is a Dermatologist in Mymensingh. His qualification is MBBS (Dhaka), DDV (BSMMU), FCPS (Skin & Sex), MCPS (Skin & Sex). He is a Senior Consultant, Dermatology & Venereology at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Pranto Specialized Hospital, Mymensingh. Practicing hour of Dr. Md. Nazrul Islam at Pranto Specialized Hospital, Mymensingh is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Pranto Specialized Hospital, Mymensingh",
+        "address": "67, Charpara, Mymensingh",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801788222000Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Fashiur Rahman",
+      "degree": "MBBS, MCPS, DDV, MD",
+      "specialty": "Skin, Allergy & Sexual Diseases Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Md. Fashiur Rahman is a Dermatologist in Mymensingh. His qualification is MBBS, MCPS, DDV, MD. He is a Professor & Head, Dermatology & Venereology at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Mymensingh. Practicing hour of Dr. Md. Fashiur Rahman at Popular Diagnostic Center, Mymensingh is 12pm to 8pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mymensingh",
+        "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+        "visitingTime": "12pm to 8pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8809666787814Call Now"
+      }
+    },
+    {
+      "name": "Dr. Susthir Sarker Apu",
+      "degree": "MBBS, DDV (DU), FCPS (Skin & Sex), CCD (BIRDEM)",
+      "specialty": "Skin & Sexual Diseases Specialist & Cosmetic Dermatosurgeon",
+      "workplace": "Community Based Medical College & Hospital",
+      "info": "Dr. Susthir Sarker Apu is a Dermatologist in Mymensingh. His qualification is MBBS, DDV (DU), FCPS (Skin & Sex), CCD (BIRDEM). He is a Consultant, Dermatology & Venereology at Community Based Medical College & Hospital. He regularly provides treatment to his patients at Sayem Diagno Complex & Hospital, Mymensingh. Practicing hour of Dr. Susthir Sarker Apu at Sayem Diagno Complex & Hospital, Mymensingh is 4pm to 8pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Sayem Diagno Complex & Hospital, Mymensingh",
+        "address": "30/A/1, Dengu Bepari Road, Sehora, Mymensingh – 2200",
+        "visitingTime": "4pm to 8pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801725516141Call Now"
+      }
+    }
+  ]
+}

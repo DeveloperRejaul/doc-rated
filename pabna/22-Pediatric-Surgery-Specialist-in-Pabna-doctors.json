@@ -1,0 +1,43 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Md. Zamil Hossain",
+      "degree": "MBBS, BCS (Health), MS (Pediatric Surgery), FACS (USA)",
+      "specialty": "Child, Adolescent & Newborn SurgeonChild Urology and Endo-Laparoscopic Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Bashundhara Hospital & Diagnostic Center\nAddress: Laxmipur, Rajshahi\nVisiting Hour: 3pm to 9pm (Closed: Thu & Friday)\nAppointment: +8801713468450\nCall Now",
+      "chamber": {
+        "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
+        "address": "Laxmipur Mor, Rajshahi",
+        "visitingTime": "4pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801762685090Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mustafizur Rahman Masum",
+      "degree": "MBBS, MS (Pediatric Surgery)",
+      "specialty": "Pediatric Surgery Specialist & Laparoscopic Surgeon",
+      "workplace": "Barind Medical College & Hospital",
+      "info": "Dr. Mustafizur Rahman Masum is a Pediatric Surgeon in Pabna. His qualification is MBBS, MS (Pediatric Surgery). He is a Assistant Professor & Head, Pediatric Surgery at Barind Medical College & Hospital. He regularly provides treatment to his patients at City Diagnostic Center, Pabna. Practicing hour of Dr. Mustafizur Rahman Masum at City Diagnostic Center, Pabna is 10am to 7pm (Fri & Sat), 4pm to 8pm (Mon & Thu).",
+      "chamber": {
+        "hospital": "City Diagnostic Center, Pabna",
+        "address": "Beside TB Hospital, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "10am to 7pm (Fri & Sat), 4pm to 8pm (Mon & Thu)",
+        "appointmentNumber": "+8801757204642Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Ashekin Abir",
+      "degree": "MBBS, BCS (Health), MS (Pediatric Surgery)",
+      "specialty": "Newborn & Adolescent & Child Surgery Specialist",
+      "workplace": "250 Bedded General Hospital, Pabna",
+      "info": "Dr. Md. Ashekin Abir is a Pediatric Surgeon in Pabna. His qualification is MBBS, BCS (Health), MS (Pediatric Surgery). He is a Medical Officer (Surgery) at 250 Bedded General Hospital, Pabna. He regularly provides treatment to his patients at Shafique Hospital, Pabna. Practicing hour of Dr. Md. Ashekin Abir at Shafique Hospital, Pabna is 3pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Shafique Hospital, Pabna",
+        "address": "Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801701654390Call Now"
+      }
+    }
+  ]
+}

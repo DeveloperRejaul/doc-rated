@@ -1,0 +1,862 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. SK Mallick",
+      "degree": "MBBS, MCPS (Medicine), MPH, MD (Cardiology), FIC",
+      "specialty": "Cardiology (Heart, Hypertension, Rheumatic Fever) & Medicine Specialist",
+      "workplace": "Max Hospital & Diagnostic Ltd, Chittagong",
+      "info": "",
+      "chamber": {
+        "hospital": "Max Hospital & Diagnostic, Chittagong",
+        "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+        "visitingTime": "11am to 1pm & 6pm to 8pm (Closed: Tuesday & Friday)",
+        "appointmentNumber": "+8801881560721Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Ekram Hossain",
+      "degree": "MBBS, MPH, D-CARD",
+      "specialty": "Cardiology (Heart Diseases, Hypertension & Rheumatic Fever) Specialist",
+      "workplace": "Chattogram General HospitalAppointment: 01810-004550",
+      "info": "Dr. Md. Ekram Hossain is a Cardiologist in Chittagong. His qualification is MBBS, MPH, D-CARD. He is a Senior Consultant, Cardiology at Chattogram General Hospital. He regularly provides treatment to his patients at Asperia Health Care Ltd, Chittagong. Practicing hour of Dr. Md. Ekram Hossain at Asperia Health Care Ltd, Chittagong is 5pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Asperia Health Care Ltd, Chittagong",
+        "address": "Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram",
+        "visitingTime": "5pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801810-004550Call Now"
+      }
+    },
+    {
+      "name": "Dr. M. A. Rahim",
+      "degree": "MBBS, FCPS (Medicine), MD (Cardiology)",
+      "specialty": "Cardiology (Heart, Hypertension, Rheumatic Fever) & Medicine Specialist",
+      "workplace": "Chittagong Medical College & HospitalAppointment: 01323-337344",
+      "info": "Chevron Clinical Laboratory, Chittagong\nAddress: 12/12, O.R Nizam Road, Panchlaish, Chattogram\nVisiting Hour: 7pm to 10pm (Closed: Friday)\nAppointment: +8801755666969\nCall Now",
+      "chamber": {
+        "hospital": "Asperia Treatment Health Care, Chittagong",
+        "address": "1st Floor, 100, Panchlaish, (opposite to Probortok School), Chittagong",
+        "visitingTime": "3pm to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8801323337344Call Now"
+      }
+    },
+    {
+      "name": "Dr. Anisul Awal",
+      "degree": "MBBS, MCPS (Medicine), FCPS (Medicine), MD (Cardiology), FSCAI (USA)",
+      "specialty": "Cardiology (Heart Diseases) & Medicine Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Anisul Awal is a Cardiologist in Chittagong. His qualification is MBBS, MCPS (Medicine), FCPS (Medicine), MD (Cardiology), FSCAI (USA). He is a Assistant Professor, Cardiology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at CSCR Hospital, Chittagong. Practicing hour of Dr. Anisul Awal at CSCR Hospital, Chittagong is 7pm to 11pm (Everyday).",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "7pm to 11pm (Everyday)",
+        "appointmentNumber": "+8801887656565Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mohammad Ibrahim Chowdhury",
+      "degree": "MBBS, FCPS (Medicine), D-CARD, MD (Cardiology)",
+      "specialty": "Cardiology (Heart, Hypertension, Rheumatic Fever) & Medicine Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Mohammad Ibrahim Chowdhury is a Cardiologist in Chittagong. His qualification is MBBS, FCPS (Medicine), D-CARD, MD (Cardiology). He is a Associate Professor, Cardiology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at CSCR Hospital, Chittagong. Practicing hour of Dr. Mohammad Ibrahim Chowdhury at CSCR Hospital, Chittagong is 6pm to 10pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "6pm to 10pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801887656565Call Now"
+      }
+    },
+    {
+      "name": "Dr. Ashish Dey",
+      "degree": "MBBS, FCPS (Medicine), MD (Cardiology), FSCAI (USA)",
+      "specialty": "Cardiology & Medicine Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "People’s Hospital, Chittagong\nAddress: 94, K. B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 5pm to 9pm (Sunday to Wednesday)\nAppointment: +88031658911\nCall Now",
+      "chamber": {
+        "hospital": "Max Hospital & Diagnostic, Chittagong",
+        "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+        "visitingTime": "5pm to 9pm (Thursday & Saturday)",
+        "appointmentNumber": "+8801713998199Call Now"
+      }
+    },
+    {
+      "name": "Professor (Dr.) Prabir Kumar Das",
+      "degree": "MBBS, FCPS (Medicine), MD (Cardiology), FACC (USA), FCSI",
+      "specialty": "Heart Disease, Hypertension, Rheumatic Fever & Medicine Specialist",
+      "workplace": "Founder Professor & Former Head, Cardiology Dept, Chittagong Medical CollegeSecretary General, Chattogram Heart FoundationPresident, Bangladesh Hypertension & Heart Failure Foundation",
+      "info": "Professor (Dr.) Prabir Kumar Das is a Cardiologist in Chittagong. His qualification is MBBS, FCPS (Medicine), MD (Cardiology), FACC (USA), FCSI. He is Founder Professor & Former Head,Cardiology Dept, Chittagong Medical College, Secretary General, Chattogram Heart Foundation and President, Bangladesh Hypertension & Heart Failure Foundation. He regularly provides treatment to his patients at Epic Healthcare, Chittagong. Practicing hour of Professor (Dr.) Prabir Kumar Das at Epic Healthcare, Chittagong is 6pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Epic Healthcare, Chittagong",
+        "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801984499600Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. M. A. Rouf",
+      "degree": "MBBS, FCPS (Medicine), D-CARD, MD, DTCD, DTM&H (Bangkok), FRSTM (UK)",
+      "specialty": "Cardiology, Chest & Medicine Specialist",
+      "workplace": "Bangabandhu Memorial Hospital, USTC, Chittagong",
+      "info": "Max Hospital & Diagnostic, Chittagong\nAddress: 35/36, Mehedibag Road, Chawkbazar, Chattogram\nVisiting Hour: 9am to 3pm (Closed: Friday)\nAppointment: +8801713998199\nCall Now",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Chittagong",
+        "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801755666969Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mohammad Nur Uddin Tareq",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Cardiology)",
+      "specialty": "Cardiology & Medicine Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "CSCR Hospital, Chittagong\nAddress: Room 305 (3rd Floor), 1675/A, O.R. Nizam Road, Chattogram\nVisiting Hour: 3pm to 6pm (Closed: Friday)\nAppointment: +8801776100148\nCall Now",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Chittagong",
+        "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801755666969Call Now"
+      }
+    },
+    {
+      "name": "Dr. Kazi Mohammad Faisal",
+      "degree": "MBBS, BCS (Health), MD (Cardiology), FCPS (Medicine) (FP), CCD (Diabetes)",
+      "specialty": "Cardiology (Heart Diseases, Hypertension, Rheumatic Fever) Specialist",
+      "workplace": "Chittagong Medical College Hospital",
+      "info": "Dr. Kazi Mohammad Faisal is a skilled Cardiology Specialist in Chattogram, holding MBBS, BCS (Health), MD (Cardiology), FCPS (Medicine) (FP), and CCD (Diabetes). He works as a Consultant in the Cardiology Department at Chittagong Medical College Hospital. Dr. Faisal specializes in treating heart diseases, hypertension, rheumatic fever, ischemic heart disease, heart failure, chest pain, palpitation, and diabetes. He provides consultations at Epic Healthcare Ltd. (East Gate Branch), Room 803, K.B. Fazlul Kader Road, Panchlaish, Chattogram, from 5pm to 8pm (closed on Friday).",
+      "chamber": {
+        "hospital": "Epic Healthcare Ltd. (East Gate Branch)",
+        "address": "Room 803, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801865362949Call Now"
+      }
+    },
+    {
+      "name": "Dr. Shaikh Mohammad Hasan Mamun",
+      "degree": "MBBS, FCPS (Medicine), MD (Cardiology), MRCP (UK)",
+      "specialty": "Cardiology, Rheumatic Fever, Hypertension & Medicine Specialist",
+      "workplace": "Evercare Hospital, Chattogram",
+      "info": "Evercare Hospital, Chattogram\nAddress: H1, Ananna R/A, CDA, Hathazari, Chattogram\nVisiting Hour: 9am to 5pm (Closed: Friday)\nAppointment: +8809610810663\nCall Now",
+      "chamber": {
+        "hospital": "Max Hospital & Diagnostic, Chittagong",
+        "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801713998199Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Abu Tarek Iqbal",
+      "degree": "MBBS, D-CARD, MD (Internal Medicine), MD (Cardiology)",
+      "specialty": "Cardiology & Medicine Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital",
+      "info": "Dr. Md. Abu Tarek Iqbal is a Cardiologist in Chittagong. His qualification is MBBS, D-CARD, MD (Internal Medicine), MD (Cardiology). He is a Associate Professor & Head, Medicine at Chattogram Maa-O-Shishu Hospital. He regularly provides treatment to his patients at Chevron Clinical Laboratory, Chittagong. Practicing hour of Dr. Md. Abu Tarek Iqbal at Chevron Clinical Laboratory, Chittagong is 5pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Chittagong",
+        "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801755666969Call Now"
+      }
+    },
+    {
+      "name": "Dr. Jinnat Fatema Saira Safa",
+      "degree": "MBBS, MCPS (Medicine), FCPS (Medicine), MD (Cardiology)",
+      "specialty": "Medicine & Cardiology Specialist",
+      "workplace": "Evercare Hospital, Chattogram",
+      "info": "Evercare Hospital, Chattogram\nAddress: H1, Ananna R/A, CDA, Hathazari, Chattogram\nVisiting Hour: 9am to 5pm (Closed: Friday)\nAppointment: +8809610810663\nCall Now",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "5pm to 9pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801755019576Call Now"
+      }
+    },
+    {
+      "name": "Dr. A.K. Boshak",
+      "degree": "MBBS, MD (Cardiology)",
+      "specialty": "Cardiology, Hypertension & Rheumatic Diseases Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. A.K. Boshak is a Cardiologist in Chittagong. His qualification is MBBS, MD (Cardiology). He is a Associate Professor, Cardiology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Chittagong. Practicing hour of Dr. A.K. Boshak at Popular Diagnostic Center, Chittagong is 7:20pm to 9:20pm (Closed: Monday & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Chittagong",
+        "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "7:20pm to 9:20pm (Closed: Monday & Friday)",
+        "appointmentNumber": "+8809666787810Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Abdul Mottalib",
+      "degree": "MBBS, MD (Cardiology)",
+      "specialty": "Cardiology (Heart Diseases, Hypertension & Rheumatic Fever) Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Md. Abdul Mottalib is a Cardiologist in Chittagong. His qualification is MBBS, MD (Cardiology). He is a Consultant, Cardiology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Chattogram Metropolitan Hospital. Practicing hour of Dr. Md. Abdul Mottalib at Chattogram Metropolitan Hospital is 9am to 2pm & 7pm to 10.30pm (Everyday).",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital",
+        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "9am to 2pm & 7pm to 10.30pm (Everyday)",
+        "appointmentNumber": "+8801835203547Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Md. Anwarul Hoque Chowdhury",
+      "degree": "MBBS (CMC), D-CARD (DU), MCPS (Medicine), MD (Cardiology)",
+      "specialty": "Cardiology & Medicine Specialist",
+      "workplace": "Southern Medical College & Hospital",
+      "info": "Prof. Dr. Md. Anwarul Hoque Chowdhury is a Cardiologist in Chittagong. His qualification is MBBS (CMC), D-CARD (DU), MCPS (Medicine), MD (Cardiology). He is a Professor, Medicine at Southern Medical College & Hospital. He regularly provides treatment to his patients at Chevron Clinical Laboratory, Chittagong. Practicing hour of Prof. Dr. Md. Anwarul Hoque Chowdhury at Chevron Clinical Laboratory, Chittagong is 10am to 1pm & 5pm to 9pm (Closed: Tuesday & Friday).",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Chittagong",
+        "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "10am to 1pm & 5pm to 9pm (Closed: Tuesday & Friday)",
+        "appointmentNumber": "+8801755666969Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mohammad Kafil Uddin",
+      "degree": "MBBS, BCS (Health), MD (Cardiology), FCPS-FP (Medicine), CCD (BIRDEM)",
+      "specialty": "Cardiology, Medicine, Hypertension & Diabetes Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Doctors Lab, Chittagong\nAddress: 131, KB Fazlul Kader Road, Probortok More, Panchlaish, Chattogram\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8801940876810\nCall Now",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Chittagong",
+        "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "10am to 1pm (Closed: Friday)",
+        "appointmentNumber": "+8801755666969Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Abdur Razzak",
+      "degree": "MBBS, BCS (Health), D-CARD (NICVD), PGT (Medicine & Diabetes)",
+      "specialty": "Cardiology & Medicine Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Md. Abdur Razzak is a Cardiologist in Chittagong. His qualification is MBBS, BCS (Health), D-CARD (NICVD), PGT (Medicine & Diabetes). He is a Associate Professor, Cardiology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Islami Bank Hospital, Chittagong. Practicing hour of Dr. Md. Abdur Razzak at Islami Bank Hospital, Chittagong is 11am to 2pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Chittagong",
+        "address": "3, Sheikh Mujib Road, Agrabad, Chittagong",
+        "visitingTime": "11am to 2pm (Closed: Friday)",
+        "appointmentNumber": "+8801731253990Call Now"
+      }
+    },
+    {
+      "name": "Dr. Shaifur Rahman Shohel",
+      "degree": "MBBS, D-CARD",
+      "specialty": "Cardiology (Heart Diseases, Hypertension & Rheumatic Fever) Specialist",
+      "workplace": "Fortis Escorts Heart Institute, Chittagong",
+      "info": "Dr. Shaifur Rahman Shohel is a Cardiologist in Chittagong. His qualification is MBBS, D-CARD. He is working as a Cardiology (Heart Diseases, Hypertension & Rheumatic Fever) Specialist doctor in Fortis Escorts Heart Institute, Chittagong. He regularly provides treatment to his patients at Apollo Imperial Hospital, Chittagong. Practicing hour of Dr. Shaifur Rahman Shohel at Apollo Imperial Hospital, Chittagong is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Apollo Imperial Hospital, Chittagong",
+        "address": "Zakir Hossain Road, Pahartali, Chattogram",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8809612247247Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mohammad Mustafizur Rahman",
+      "degree": "MBBS, D-CARD (NICVD), MRCP (UK)",
+      "specialty": "Cardiology (Heart Diseases, Medicine & Rheumatic Fever) Specialist",
+      "workplace": "Apollo Imperial Hospital, Chittagong",
+      "info": "Dr. Mohammad Mustafizur Rahman is a Cardiologist in Chittagong. His qualification is MBBS, D-CARD (NICVD), MRCP (UK). He is a Consultant, Medicine at Apollo Imperial Hospital, Chittagong. He regularly provides treatment to his patients at Apollo Imperial Hospital, Chittagong. Practicing hour of Dr. Mohammad Mustafizur Rahman at Apollo Imperial Hospital, Chittagong is 9am to 1pm & 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Apollo Imperial Hospital, Chittagong",
+        "address": "Zakir Hossain Road, Pahartali, Chattogram",
+        "visitingTime": "9am to 1pm & 4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809612247247Call Now"
+      }
+    },
+    {
+      "name": "Dr. Biplab Bhattacharjee",
+      "degree": "MBBS, D-CARD, MD (Cardiology)",
+      "specialty": "Cardiology Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Biplab Bhattacharjee is a Cardiologist in Chittagong. His qualification is MBBS, D-CARD, MD (Cardiology). He is working as a Cardiology Specialist doctor in Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Max Hospital & Diagnostic, Chittagong. Practicing hour of Dr. Biplab Bhattacharjee at Max Hospital & Diagnostic, Chittagong is 6pm to 8pm (Sunday & Wednesday).",
+      "chamber": {
+        "hospital": "Max Hospital & Diagnostic, Chittagong",
+        "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+        "visitingTime": "6pm to 8pm (Sunday & Wednesday)",
+        "appointmentNumber": "+8801713998199Call Now"
+      }
+    },
+    {
+      "name": "Dr. Zahiruddin Mahmud Illius",
+      "degree": "MBBS, MCPS (Internal Medicine), MD (Cardiology), DEM, MACP (USA)",
+      "specialty": "Cardiology, Medicine & Endocrinology Specialist",
+      "workplace": "Evercare Hospital, Chattogram",
+      "info": "Dr. Zahiruddin Mahmud Illius is a Cardiology Specialist in Chittagong. His qualification is MBBS, MCPS (Internal Medicine), MD (Cardiology), DEM, MACP (USA). He is a Senior Consultant, Cardiology at Evercare Hospital, Chattogram. He regularly provides treatment to his patients at Evercare Hospital, Chattogram. Practicing hour of Dr. Zahiruddin Mahmud Illius at Evercare Hospital, Chattogram is 9am to 5pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Evercare Hospital, Chattogram",
+        "address": "H1, Ananna R/A, CDA, Hathazari, Chattogram",
+        "visitingTime": "9am to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8809610810663Call Now"
+      }
+    },
+    {
+      "name": "Dr. A.K.M. Monzur Morshed",
+      "degree": "MBBS, FCPS, DME",
+      "specialty": "Cardiology (Heart Diseases, Medicine & Rheumatic Fever) Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. A.K.M. Monzur Morshed is a Cardiologist in Chittagong. His qualification is MBBS, FCPS, DME. He is a Professor, Cardiology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Chevron Clinical Laboratory, Chittagong. Practicing hour of Dr. A.K.M. Monzur Morshed at Chevron Clinical Laboratory, Chittagong is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Chittagong",
+        "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801755666969Call Now"
+      }
+    },
+    {
+      "name": "Dr. Ayon Kumar",
+      "degree": "MBBS, MD (Medicine), DNB (Cardiology)",
+      "specialty": "Cardiology (Heart, Hypertension, Rheumatic Fever) & Medicine Specialist",
+      "workplace": "Chattogram Metropolitan Hospital",
+      "info": "Dr. Ayon Kumar is a Cardiologist in Chittagong. His qualification is MBBS, MD (Medicine), DNB (Cardiology). He is a Consultant, Cardiology at Chattogram Metropolitan Hospital. He regularly provides treatment to his patients at Chattogram Metropolitan Hospital. Practicing hour of Dr. Ayon Kumar at Chattogram Metropolitan Hospital is 9am to 2pm & 7pm to 10.30pm (Everyday).",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital",
+        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "9am to 2pm & 7pm to 10.30pm (Everyday)",
+        "appointmentNumber": "+8801814651073Call Now"
+      }
+    },
+    {
+      "name": "Dr. S.M. Muizzul Akbar Chowdhury",
+      "degree": "MBBS, MD (Cardiology), CCD (Diabetology)",
+      "specialty": "Cardiology, Hypertension, Diabetes & Rheumatic Fever Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Ibn Sina Diagnostic Center, Chittagong\nAddress: House # 12/A, Road # 02, Katalgonj, Panchlaish, Chattogram\nVisiting Hour: 5pm to 7pm (Closed: Thursday & Friday)\nAppointment: +8801886610115\nCall Now",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Chittagong",
+        "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "4pm to 8.30pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801755666969Call Now"
+      }
+    },
+    {
+      "name": "Dr. Jamal Ahmed",
+      "degree": "MBBS, D-CARD",
+      "specialty": "Cardiology (Heart Diseases, Hypertension & Rheumatic Fever) Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Jamal Ahmed is a Cardiologist in Chittagong. His qualification is MBBS, D-CARD. He is a Consultant, Cardiology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at CSCR Hospital, Chittagong. Practicing hour of Dr. Jamal Ahmed at CSCR Hospital, Chittagong is 6pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "6pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801887656565Call Now"
+      }
+    },
+    {
+      "name": "Dr. S. C. Dhar",
+      "degree": "MBBS, D-CARD, FCCP (USA)",
+      "specialty": "Cardiology (Heart Diseases, Medicine & Rheumatic Fever) Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. S. C. Dhar is a Cardiologist in Chittagong. His qualification is MBBS, D-CARD, FCCP (USA). He is a Consultant, Cardiology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Medical Centre Hospital, Chittagong. Practicing hour of Dr. S. C. Dhar at Medical Centre Hospital, Chittagong is 11am to 1pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medical Centre Hospital, Chittagong",
+        "address": "953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram",
+        "visitingTime": "11am to 1pm (Closed: Friday)",
+        "appointmentNumber": "+88031658501Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Sheikh Mamun",
+      "degree": "MBBS, BCS (Health), MD (Cardiology), NICVD",
+      "specialty": "Cardiology Specialist",
+      "workplace": "National Institute of Cardiovascular Diseases & Hospital",
+      "info": "Dr. Md. Sheikh Mamun is a Cardiologist in Chittagong. His qualification is MBBS, BCS (Health), MD (Cardiology), NICVD. He is a Assistant Professor, Cardiology at National Institute of Cardiovascular Diseases & Hospital. He regularly provides treatment to his patients at Metro Diagnostic Center, Chittagong. Practicing hour of Dr. Md. Sheikh Mamun at Metro Diagnostic Center, Chittagong is 7pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Metro Diagnostic Center, Chittagong",
+        "address": "Metro Tower, Goal Pahar Mor, Mehedibag, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801882650764Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Shafiul Azam",
+      "degree": "MBBS, MCPS (Medicine), D-CARD (DU), MD (Cardiology)",
+      "specialty": "Cardiology (Heart, Hypertension, Rheumatic Fever) & Medicine Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Chittagong\nAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 3pm to 5pm (Closed: Friday)\nAppointment: +8809666787810\nCall Now",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital",
+        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "10am to 2pm (Closed: Friday)",
+        "appointmentNumber": "+8801814651077Call Now"
+      }
+    },
+    {
+      "name": "Dr. Habibul Islam Chowdhury",
+      "degree": "MBBS, BCS (Health), MD (Cardiology)",
+      "specialty": "Cardiology, Hypertension, Rheumatic Fever & Medicine Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Medical Centre Hospital, Chittagong\nAddress: 953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram\nVisiting Hour: 8pm to 10pm (Closed: Friday)\nAppointment: +8801783558161\nCall Now",
+      "chamber": {
+        "hospital": "National Hospital, Chittagong",
+        "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
+        "visitingTime": "8pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801822685066Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Emran Hossain",
+      "degree": "MBBS, BCS (Health), MD (Cardiology)",
+      "specialty": "Cardiology Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Md. Emran Hossain is a Cardiologist in Chittagong. His qualification is MBBS, BCS (Health), MD (Cardiology). He is a Assistant Professor, Cardiology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Epic Healthcare, Chittagong. Practicing hour of Dr. Md. Emran Hossain at Epic Healthcare, Chittagong is 6pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Epic Healthcare, Chittagong",
+        "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801984499600Call Now"
+      }
+    },
+    {
+      "name": "Dr. M M Alam Sadi",
+      "degree": "MBBS, MCPS (Medicine), MD (Cardiology)",
+      "specialty": "Cardiology, Medicine, Hypertension & Rheumatic Fever Specialist",
+      "workplace": "Parkview Hospital, Chittagong",
+      "info": "Dr. M M Alam Sadi is a Cardiologist in Chittagong. His qualification is MBBS, MCPS (Medicine), MD (Cardiology). He is a Consultant, Cardiology at Parkview Hospital, Chittagong. He regularly provides treatment to his patients at Parkview Hospital, Chittagong. Practicing hour of Dr. M M Alam Sadi at Parkview Hospital, Chittagong is 5pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801976022333Call Now"
+      }
+    },
+    {
+      "name": "Dr. Jishu Deb Nath",
+      "degree": "MBBS (CMC), FCPS (Medicine), D-CARD (NICVD)",
+      "specialty": "Cardiology & Medicine Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Shahjalal Diagnostic Clinic, Chittagong\nAddress: 143, Sheikh Mujib Road, Badamtoli, Agrabad, Chattogram\nVisiting Hour: 7pm to 10pm (Closed: Friday)\nAppointment: +8801911278108\nCall Now",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Chittagong",
+        "address": "3, Sheikh Mujib Road, Agrabad, Chittagong",
+        "visitingTime": "5pm to 7pm (Everyday)",
+        "appointmentNumber": "+8801731253990Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mohammad Akram Hossain",
+      "degree": "MBBS, MPH, D-CARD, Diploma in Asthma (UK)",
+      "specialty": "Cardiology & Asthma Specialist",
+      "workplace": "Center for Specialized Care & Research (CSCR)",
+      "info": "Dr. Mohammad Akram Hossain is a Cardiologist in Chittagong. His qualification is MBBS, MPH, D-CARD, Diploma in Asthma (UK). He is working as a Cardiology & Asthma Specialist doctor in Center for Specialized Care & Research (CSCR). He regularly provides treatment to his patients at CSCR Hospital, Chittagong. Practicing hour of Dr. Mohammad Akram Hossain at CSCR Hospital, Chittagong is 5pm to 9pm (Sat, Tue & Wed).",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "5pm to 9pm (Sat, Tue & Wed)",
+        "appointmentNumber": "+8801887656565Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Mostafizur Rahman",
+      "degree": "MBBS, BCS (Health), MD (Cardiology)",
+      "specialty": "Cardiology, Rheumatic Fever & Medicine Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Chittagong\nAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 4pm to 7pm (Closed: Friday)\nAppointment: +8809666787810\nCall Now",
+      "chamber": {
+        "hospital": "National Hospital, Chittagong",
+        "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801822685066Call Now"
+      }
+    },
+    {
+      "name": "Dr. Abu Sayem Md. Omar Faruk",
+      "degree": "MBBS, MD (Cardiology)",
+      "specialty": "Cardiology (Heart, Hypertension, Rheumatic Fever) Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Abu Sayem Md. Omar Faruk is a Cardiologist in Chittagong. His qualification is MBBS, MD (Cardiology). He is a Consultant, Cardiology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Chattogram Metropolitan Hospital. Practicing hour of Dr. Abu Sayem Md. Omar Faruk at Chattogram Metropolitan Hospital is 3pm to 6pm (Sun, Tue & Thu).",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital",
+        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "3pm to 6pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801814651077Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Tarik Bin Abdur Rashid",
+      "degree": "MBBS, MD (Cardiology)",
+      "specialty": "Clinical & Interventional Cardiology Specialist",
+      "workplace": "Evercare Hospital, Chattogram",
+      "info": "Dr. Md. Tarik Bin Abdur Rashid is a Cardiologist in Chittagong. His qualification is MBBS, MD (Cardiology). He is a Senior Consultant, Cardiology at Evercare Hospital, Chattogram. He regularly provides treatment to his patients at Evercare Hospital, Chattogram. Practicing hour of Dr. Md. Tarik Bin Abdur Rashid at Evercare Hospital, Chattogram is 9am to 5pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Evercare Hospital, Chattogram",
+        "address": "H1, Ananna R/A, CDA, Hathazari, Chattogram",
+        "visitingTime": "9am to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8809610810663Call Now"
+      }
+    },
+    {
+      "name": "Dr. M. Saleh Uddin Siddique Ujjal",
+      "degree": "MBBS, MD (Cardiology), D-CARD (BSMMU)",
+      "specialty": "Cardiology, Hypertension & Rheumatic Fever Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. M. Saleh Uddin Siddique Ujjal is a Cardiologist in Chittagong. His qualification is MBBS, MD (Cardiology), D-CARD (BSMMU). He is a Assistant Professor, Cardiology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Epic Healthcare, Chittagong. Practicing hour of Dr. M. Saleh Uddin Siddique Ujjal at Epic Healthcare, Chittagong is 7.30pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Epic Healthcare, Chittagong",
+        "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "7.30pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801984499600Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Abul Hossain Shahin",
+      "degree": "MBBS, BCS (Health), D-CARD (BSMMU)",
+      "specialty": "Cardiology (Heart Diseases, Hypertension & Rheumatic Fever) Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Doctors Lab, Chittagong\nAddress: 131, KB Fazlul Kader Road, Probortok More, Panchlaish, Chattogram\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8801940876810\nCall Now",
+      "chamber": {
+        "hospital": "Max Hospital & Diagnostic, Chittagong",
+        "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+        "visitingTime": "6pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801713998199Call Now"
+      }
+    },
+    {
+      "name": "Dr. Saurav Das",
+      "degree": "MBBS, BCS (Health), MD (Cardiology) BSMMU, MACP, MRCP-UK (PACES), FCPS (FP), CCD (BIRDEM)",
+      "specialty": "Clinical and Interventional Cardiologist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Saurav Das is a Cardiologist in Chittagong. His qualification is MBBS, BCS (Health), MD (Cardiology) BSMMU, MACP, MRCP-UK (PACES), FCPS (FP), CCD (BIRDEM). He is a Consultant, Cardiology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Chittagong. Practicing hour of Dr. Saurav Das at Popular Diagnostic Center, Chittagong is 4pm to 8:30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Chittagong",
+        "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "4pm to 8:30pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787810Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Abdul Jalil",
+      "degree": "MBBS, BCS (Health), D-CARD (NICVD), CCD (BIRDEM)",
+      "specialty": "Cardiology & Diabetes Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Md. Abdul Jalil is a Cardiologist in Chittagong. His qualification is MBBS, BCS (Health), D-CARD (NICVD), CCD (BIRDEM). He is a Former Associate Professor, Cardiology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at National Hospital, Chittagong. Practicing hour of Dr. Md. Abdul Jalil at National Hospital, Chittagong is 5.30pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "National Hospital, Chittagong",
+        "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
+        "visitingTime": "5.30pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801822685066Call Now"
+      }
+    },
+    {
+      "name": "Dr A.E.M.N Jahangir Selim",
+      "degree": "MBBS, BCS (Health), MD (Cardiology)",
+      "specialty": "Cardiology, Hypertension & Rheumatic Fever Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr A.E.M.N Jahangir Selim is a Cardiologist in Chittagong. His qualification is MBBS, BCS (Health), MD (Cardiology). He is a Assistant Professor, Cardiology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Parkview Hospital, Chittagong. Practicing hour of Dr A.E.M.N Jahangir Selim at Parkview Hospital, Chittagong is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801976022333Call Now"
+      }
+    },
+    {
+      "name": "Dr. Muhammad Khurshed Alam",
+      "degree": "MBBS, BCS (Health), MD (Cardiology)",
+      "specialty": "Cardiology, Hypertension & Rheumatic Fever Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Muhammad Khurshed Alam is a Cardiologist in Chittagong. His qualification is MBBS, BCS (Health), MD (Cardiology). He is a Assistant Professor, Cardiology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Chittagong. Practicing hour of Dr. Muhammad Khurshed Alam at Popular Diagnostic Center, Chittagong is 7pm to 10pm (Closed: Monday & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Chittagong",
+        "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Monday & Friday)",
+        "appointmentNumber": "+8809666787810Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Salahuddin",
+      "degree": "MBBS, D-CARD, CCD (BIRDEM)",
+      "specialty": "Cardiology (Heart Diseases, Diabetes & Rheumatic Fever) Specialist",
+      "workplace": "Chattogram Metropolitan Hospital",
+      "info": "Dr. Md. Salahuddin is a Cardiologist in Chittagong. His qualification is MBBS, D-CARD, CCD (BIRDEM). He is a Consultant, Cardiology at Chattogram Metropolitan Hospital. He regularly provides treatment to his patients at Chattogram Metropolitan Hospital. Practicing hour of Dr. Md. Salahuddin at Chattogram Metropolitan Hospital is 10am to 2pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital",
+        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "10am to 2pm (Closed: Friday)",
+        "appointmentNumber": "+8801814651073Call Now"
+      }
+    },
+    {
+      "name": "Dr. Salma Nahid",
+      "degree": "MBBS, BCS (Health), MD (Cardiology)",
+      "specialty": "Cardiology, Heart Diseases & Rheumatic Fever Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Salma Nahid is a Cardiologist in Chittagong. Her qualification is MBBS, BCS (Health), MD (Cardiology). She is a Assistant Professor, Cardiology at Chittagong Medical College & Hospital. She regularly provides treatment to her patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Salma Nahid at Parkview Hospital, Chittagong is 7pm to 9pm (Closed: Friday & Saturday).",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 9pm (Closed: Friday & Saturday)",
+        "appointmentNumber": "+8801976022333Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Rezwan Rehan",
+      "degree": "MBBS, D-CARD",
+      "specialty": "Cardiology (Heart Diseases, Hypertension & Rheumatic Fever) Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Md. Rezwan Rehan is a Cardiologist in Chittagong. His qualification is MBBS, D-CARD. He is a Consultant, Cardiology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Max Hospital & Diagnostic, Chittagong. Practicing hour of Dr. Md. Rezwan Rehan at Max Hospital & Diagnostic, Chittagong is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Max Hospital & Diagnostic, Chittagong",
+        "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801713998199Call Now"
+      }
+    },
+    {
+      "name": "Dr. Rajib Dey",
+      "degree": "MBBS, BCS (Health), D-CARD (Cardiology)",
+      "specialty": "Cardiology & Medicine Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Rajib Dey is a Cardiologist in Chittagong. His qualification is MBBS, BCS (Health), D-CARD (Cardiology). He successfully performed about 500 Angiogram, more than 150 temporary Pacemaker. He is a Consultant, Cardiology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Labaid Specialized Hospital, Chattogram. Practicing hour of Dr. Rajib Dey at Labaid Specialized Hospital, Chattogram is 4.30pm to 6.30pm (Closed: Tue & Friday).",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Chattogram",
+        "address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
+        "visitingTime": "4.30pm to 6.30pm (Closed: Tue & Friday)",
+        "appointmentNumber": "+8801766662828Call Now"
+      }
+    },
+    {
+      "name": "Dr. Sandipan Das",
+      "degree": "MBBS, BCS (Health), MD (Cardiology)",
+      "specialty": "Cardiology (Heart Diseases, Hypertension & Rheumatic Fever) Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Sandipan Das is a Cardiologist in Chittagong. His qualification is MBBS, BCS (Health), MD (Cardiology). He is a Junior Consultant, Cardiology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Sensiv Private Limited, Chittagong. Practicing hour of Dr. Sandipan Das at Sensiv Private Limited, Chittagong is 7pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Sensiv Private Limited, Chittagong",
+        "address": "14, Jamal Khan Road, Jamal Khan, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801839156689Call Now"
+      }
+    },
+    {
+      "name": "Dr. Kazi Shamim Al Mamun",
+      "degree": "MBBS, BCS (Health), MD (Cardiology), MESC, MACP (USA), FACC (USA)",
+      "specialty": "Cardiology & Medicine Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Kazi Shamim Al Mamun is a Cardiologist in Chittagong. His qualification is MBBS, BCS (Health), MD (Cardiology), MESC, MACP (USA), FACC (USA). He is trained on Angiogram, Pacemaker & Cardiac Catheter. He is a Consultant, Cardiology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Labaid Specialized Hospital, Chattogram. Practicing hour of Dr. Kazi Shamim Al Mamun at Labaid Specialized Hospital, Chattogram is 3pm to 6pm (Sat, Mon, Tue & Thu).",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Chattogram",
+        "address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
+        "visitingTime": "3pm to 6pm (Sat, Mon, Tue & Thu)",
+        "appointmentNumber": "+8801766662828Call Now"
+      }
+    },
+    {
+      "name": "Dr. S.M. Iftekharul Islam",
+      "degree": "MBBS, BCS (Health), MD (Cardiology)",
+      "specialty": "Cardiology, Hypertension & Rheumatic Fever Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. S.M. Iftekharul Islam is a Cardiologist in Chittagong. His qualification is MBBS, BCS (Health), MD (Cardiology). He is working as a Cardiology, Hypertension & Rheumatic Fever Specialist doctor in Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Delta Health Care, Chittagong. Practicing hour of Dr. S.M. Iftekharul Islam at Delta Health Care, Chittagong is 5pm to 8pm (Closed: Monday & Friday).",
+      "chamber": {
+        "hospital": "Delta Health Care, Chittagong",
+        "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 8pm (Closed: Monday & Friday)",
+        "appointmentNumber": "+8801841906010Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Shakhawat Ullah",
+      "degree": "MBBS, BCS (Health), MD (Cardiology)",
+      "specialty": "Cardiology, Hypertension & Rheumatic Fever Specialist",
+      "workplace": "Bangladesh Institute of Tropical & Infectious Diseases",
+      "info": "Dr. Md. Shakhawat Ullah is a Cardiologist in Chittagong. His qualification is MBBS, BCS (Health), MD (Cardiology). He is the Director (Admin) at Bangladesh Institute of Tropical & Infectious Diseases. He regularly provides treatment to his patients at Asperia Health Care Ltd, Chittagong. Practicing hour of Dr. Md. Shakhawat Ullah at Asperia Health Care Ltd, Chittagong is 3pm to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Asperia Health Care Ltd, Chittagong",
+        "address": "Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram",
+        "visitingTime": "3pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801810-004550Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mohammad Abidur Shahedin Chowdhury",
+      "degree": "MBBS, D-CARD (Cardiology), CCD (BIRDEM)",
+      "specialty": "Cardiology (Heart Diseases, Diabetes & Rheumatic Fever) Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Mohammad Abidur Shahedin Chowdhury is a Cardiologist in Chittagong. His qualification is MBBS, D-CARD (Cardiology), CCD (BIRDEM). He is a Consultant, Cardiology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Chittagong. Practicing hour of Dr. Mohammad Abidur Shahedin Chowdhury at Ibn Sina Diagnostic Center, Chittagong is 8pm to 10pm (Closed: Tuesday & Wednesday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Chittagong",
+        "address": "House # 12/A, Road # 02, Katalgonj, Panchlaish, Chattogram",
+        "visitingTime": "8pm to 10pm (Closed: Tuesday & Wednesday)",
+        "appointmentNumber": "+8801886610115Call Now"
+      }
+    },
+    {
+      "name": "Dr. Umme Kulsum Khadiza Parvin",
+      "degree": "MBBS, BCS (Health), D-CARD (BSMMU), MRCP (UK)",
+      "specialty": "Cardiology & Medicine Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Umme Kulsum Khadiza Parvin is a Cardiologist in Chittagong. Her qualification is MBBS, BCS (Health), D-CARD (BSMMU), MRCP (UK). She is working as a Cardiology & Medicine Specialist doctor in Chittagong Medical College & Hospital. She regularly provides treatment to her patients at Delta Health Care, Chittagong. Practicing hour of Dr. Umme Kulsum Khadiza Parvin at Delta Health Care, Chittagong is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Delta Health Care, Chittagong",
+        "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801841906010Call Now"
+      }
+    },
+    {
+      "name": "Dr. Sreepati Bhattacharya",
+      "degree": "MBBS, BCS (Health), D-CARD",
+      "specialty": "Cardiology & Medicine Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Sreepati Bhattacharya is a Cardiologist in Chittagong. His qualification is MBBS, BCS (Health), D-CARD. He is a Resident Physician, Cardiology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Labaid Specialized Hospital, Chattogram. Practicing hour of Dr. Sreepati Bhattacharya at Labaid Specialized Hospital, Chattogram is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Chattogram",
+        "address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662828Call Now"
+      }
+    },
+    {
+      "name": "Dr. Saiful Islam Tipu Chowdhury",
+      "degree": "MBBS, BCS (Health), MD (Cardiology), FACP (USA), FESC",
+      "specialty": "Cardiology (Heart Diseases, Hypertension, Rheumatic Fever) Specialist",
+      "workplace": "Chittagong 250 Bed General Hospital",
+      "info": "Dr. Saiful Islam Tipu Chowdhury is a Cardiologist in Chittagong. His qualification is MBBS, BCS (Health), MD (Cardiology), FACP (USA), FESC. He is a Consultant, Cardiology at Chittagong 250 Bed General Hospital. He regularly provides treatment to his patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Saiful Islam Tipu Chowdhury at Parkview Hospital, Chittagong is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809610818888Call Now"
+      }
+    },
+    {
+      "name": "Dr. Safiul Alam",
+      "degree": "MBBS, BCS (Health), MD (Cardiology)",
+      "specialty": "Cardiology Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Safiul Alam is a Cardiologist in Chittagong. His qualification is MBBS, BCS (Health), MD (Cardiology). He is a Assistant Professor, Cardiology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Surgiscope Hospital, Chittagong. Practicing hour of Dr. Safiul Alam at Surgiscope Hospital, Chittagong is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Surgiscope Hospital, Chittagong",
+        "address": "Unit 2, 53/1, Panchlaish, Chattogram - 4203",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801747500115Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Akhter Hossain",
+      "degree": "MBBS, BCS (Health), D-CARD (NICVD)",
+      "specialty": "Cardiology (Heart Diseases, Hypertension & Rheumatic Fever) Specialist",
+      "workplace": "Chattogram Metropolitan Hospital",
+      "info": "Dr. Md. Akhter Hossain is a Cardiologist in Chittagong. His qualification is MBBS, BCS (Health), D-CARD (NICVD). He is a Consultant, Cardiology at Chattogram Metropolitan Hospital. He regularly provides treatment to his patients at Chattogram Metropolitan Hospital. Practicing hour of Dr. Md. Akhter Hossain at Chattogram Metropolitan Hospital is 10am to 2pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital",
+        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "10am to 2pm (Closed: Friday)",
+        "appointmentNumber": "+8801814651077Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Nurul Amin Chowdhury",
+      "degree": "MBBS, D-CARD (DU), FCPS (Medicine)",
+      "specialty": "Cardiology (Heart Diseases, Medicine & Rheumatic Fever) Specialist",
+      "workplace": "Sensiv Private Limited, Chittagong",
+      "info": "Dr. Md. Nurul Amin Chowdhury is a Cardiologist in Chittagong. His qualification is MBBS, D-CARD (DU), FCPS (Medicine). He is a Consultant, Cardiology at Sensiv Private Limited, Chittagong. He regularly provides treatment to his patients at Sensiv Private Limited, Chittagong. Practicing hour of Dr. Md. Nurul Amin Chowdhury at Sensiv Private Limited, Chittagong is 10am to 12pm & 6pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Sensiv Private Limited, Chittagong",
+        "address": "14, Jamal Khan Road, Jamal Khan, Chattogram",
+        "visitingTime": "10am to 12pm & 6pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801714044974Call Now"
+      }
+    },
+    {
+      "name": "Dr. Zhinuk Baidya",
+      "degree": "MBBS, MD (Cardiology), FCGS, PhD",
+      "specialty": "Cardiology (Heart Diseases, Hypertension & Rheumatic Fever) Specialist",
+      "workplace": "Chevron Clinical Laboratory, Chittagong",
+      "info": "Dr. Zhinuk Baidya is a Cardiologist in Chittagong. His qualification is MBBS, MD (Cardiology), FCGS, PhD. He is a Consultant, Cardiology at Chevron Clinical Laboratory, Chittagong. He regularly provides treatment to his patients at Chevron Clinical Laboratory, Chittagong. Practicing hour of Dr. Zhinuk Baidya at Chevron Clinical Laboratory, Chittagong is 10am to 1pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Chittagong",
+        "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "10am to 1pm (Closed: Friday)",
+        "appointmentNumber": "+8801755666969Call Now"
+      }
+    },
+    {
+      "name": "Dr. ABK Basir Uddin Sayem",
+      "degree": "MBBS, BCS (Health), MD (Cardiology)",
+      "specialty": "Cardiology (Heart Diseases, Cardiology, Rheumatic Diseases) Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Chittagong\nAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 5pm to 10pm (Sat & Thursday), 10am to 1pm (Friday)\nAppointment: +8809666787810\nCall Now",
+      "chamber": {
+        "hospital": "Epic Healthcare, Chittagong",
+        "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801984499600Call Now"
+      }
+    },
+    {
+      "name": "Dr. Muhammad Khurshadul Alam",
+      "degree": "MBBS, MD (Cardiology), MACP (USA)",
+      "specialty": "Clinical & Interventional Cardiology Specialist",
+      "workplace": "National Institute of Cardiovascular Diseases & Hospital",
+      "info": "Dr. Muhammad Khurshadul Alam is a Cardiologist in Chittagong. His qualification is MBBS, MD (Cardiology), MACP (USA). He is a Consultant, Cardiology at National Institute of Cardiovascular Diseases & Hospital. He regularly provides treatment to his patients at Labaid Specialized Hospital, Chattogram. Practicing hour of Dr. Muhammad Khurshadul Alam at Labaid Specialized Hospital, Chattogram is 3pm to 7pm (Only Friday).",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Chattogram",
+        "address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
+        "visitingTime": "3pm to 7pm (Only Friday)",
+        "appointmentNumber": "+8801766662828Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Emtiaj Uddin",
+      "degree": "MBBS, BCS (Health), D-CARD (BSMMU)",
+      "specialty": "Cardiology (Heart Diseases, Hypertension, Rheumatic Fever) Specialist",
+      "workplace": "Delta Health Care, Chittagong",
+      "info": "Dr. Md. Emtiaj Uddin is a Cardiologist in Chittagong. His qualification is MBBS, BCS (Health), D-CARD (BSMMU). He is a Consultant Cardiologist, Cardiology at Delta Health Care, Chittagong. He regularly provides treatment to his patients at Delta Health Care, Chittagong. Practicing hour of Dr. Md. Emtiaj Uddin at Delta Health Care, Chittagong is 7pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Delta Health Care, Chittagong",
+        "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801956414212Call Now"
+      }
+    },
+    {
+      "name": "Dr. Nasim Bhuiyan",
+      "degree": "MBBS, D-CARD (DU)",
+      "specialty": "Cardiology (Heart Diseases, Medicine & Rheumatic Fever) Specialist",
+      "workplace": "Medical Centre Hospital, Chittagong",
+      "info": "Dr. Nasim Bhuiyan is a Cardiologist in Chittagong. His qualification is MBBS, D-CARD (DU). He is a Consultant, Cardiology at Medical Centre Hospital, Chittagong. He regularly provides treatment to his patients at Medical Centre Hospital, Chittagong. Practicing hour of Dr. Nasim Bhuiyan at Medical Centre Hospital, Chittagong is 11am to 1pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medical Centre Hospital, Chittagong",
+        "address": "953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram",
+        "visitingTime": "11am to 1pm (Closed: Friday)",
+        "appointmentNumber": "+88031658501Call Now"
+      }
+    },
+    {
+      "name": "Dr. Syedul Alam Quraishi",
+      "degree": "MBBS, BCS (Health), CCD (BIRDEM), D-CARD (CU)",
+      "specialty": "Cardiology & Medicine Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Syedul Alam Quraishi is a Cardiologist in Chittagong. His qualification is MBBS, BCS (Health), CCD (BIRDEM), D-CARD (CU). He is working as a Cardiology & Medicine Specialist doctor in Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Delta Health Care, Chittagong. Practicing hour of Dr. Syedul Alam Quraishi at Delta Health Care, Chittagong is 8pm to 10pm (Sat to Thu) & 9am to 12pm (Fri).",
+      "chamber": {
+        "hospital": "Delta Health Care, Chittagong",
+        "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
+        "visitingTime": "8pm to 10pm (Sat to Thu) & 9am to 12pm (Fri)",
+        "appointmentNumber": "+8801841906010Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Mujibul Haque",
+      "degree": "MBBS, BCS (Health), D-CARD (BSMMU)",
+      "specialty": "Cardiology Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Md. Mujibul Haque is a Cardiologist in Chittagong. His qualification is MBBS, BCS (Health), D-CARD (BSMMU). He is a Cardiologist at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at CSCR Hospital, Chittagong. Practicing hour of Dr. Md. Mujibul Haque at CSCR Hospital, Chittagong is 6.30pm to 9.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "6.30pm to 9.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801825763275Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mintu Dhar",
+      "degree": "MBBS, BCS (Health), MCPS (Medicine), MD (Cardiology) BSMMU",
+      "specialty": "Clinical & Interventional Cardiologist & Medicine Specialist",
+      "workplace": "Chittagong Medical College Hospital",
+      "info": "Epic Healthcare Ltd. (East Gate Branch)\nAddress: Room 910, 36, K.B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 6pm to 8.30pm (Saturday to Wednesday)\nAppointment: +8809610-800111\nCall Now",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital",
+        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "4pm to 6pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801810030998Call Now"
+      }
+    }
+  ]
+}

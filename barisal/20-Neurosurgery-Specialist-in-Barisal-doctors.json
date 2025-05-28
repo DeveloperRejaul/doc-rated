@@ -1,0 +1,56 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Syed Shahreor Razzaque",
+      "degree": "MBBS (DMC), BCS (Health), MS (Neurosurgery, BSMMU), CCD (BIRDEM)",
+      "specialty": "Neurosurgery (Brain, Spine, Nerve & Stroke) Specialist",
+      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+      "info": "Ibn Sina Diagnostic Center, Malibagh\nAddress: Building 2, House # 490, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka\nVisiting Hour: 8pm to 10pm (Sat, Mon & Wed)\nAppointment: +8801844-141717\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "9am to 8pm (Every Friday)",
+        "appointmentNumber": "+8801313032691Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Mahfuzur Rahman",
+      "degree": "MBBS, BCS (Health), FCPS (Neurosurgery)",
+      "specialty": "Brain, Nerve, Stroke, Spine Specialist & Neurosurgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Authentic Diagnostic & Consultation Center\nAddress: House # 71/4, Hoseni Dalan Road, Chankharpul, Dhaka\nVisiting Hour: 2.30pm to 3.30pm (Closed: Friday)\nAppointment: +8801841715269\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Shantinagar",
+        "address": "Room - 605, Unit # 02, Building # 15, Shantinagar, Dhaka",
+        "visitingTime": "5pm to 6pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809666787803Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Mahboob-E-Haseeb Shahryar Sabet",
+      "degree": "MBBS, FCPS (Surgery), MD (USA)",
+      "specialty": "Neurosurgery (Brain, Nerve, Spine Surgery) Specialist",
+      "workplace": "Uttara Adhunik Medical College & Hospital",
+      "info": "South Apollo Diagnostic Complex, Barisal\nAddress: 135, Sadar Road, Barisal\nVisiting Hour: 11am to 10pm (Thursday) & 10am to 8pm (Friday)\nAppointment: +8801711457444\nCall Now",
+      "chamber": {
+        "hospital": "Samorita Hospital Ltd, Panthapath",
+        "address": "89/1, Panthapath, Dhaka - 1215, Bangladesh",
+        "visitingTime": "7pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "10674Call Now"
+      }
+    },
+    {
+      "name": "Dr. Sajib Chandra Sarkar",
+      "degree": "MBBS, BCS (Health), MS (Neurosurgery)",
+      "specialty": "Brain, Nerve, Spine, Neuro Specialist & Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. Sajib Chandra Sarkar is a Neurosurgeon in Barisal. His qualification is MBBS, BCS (Health), MS (Neurosurgery). He is a Consultant (Neurosurgery) at Sher-E-Bangla Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Barisal. Practicing hour of Dr. Sajib Chandra Sarkar at Popular Diagnostic Center, Barisal is 3pm to 7pm (Saturday to Tuesday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "3pm to 7pm (Saturday to Tuesday)",
+        "appointmentNumber": "+8809666787819Call Now"
+      }
+    }
+  ]
+}

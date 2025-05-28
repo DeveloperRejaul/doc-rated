@@ -1,0 +1,43 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Mohammad Ruhul Amin Manzil",
+      "degree": "MBBS, BCS (Health), MD (Cardiology)",
+      "specialty": "Cardiology, Medicine, Rheumatology & Hypertension Specialist",
+      "workplace": "Mohammad Ali Hospital, Bogra",
+      "info": "Labaid Diagnostic, Bogura\nAddress: House # 1872, Sherpur Road, Colony, Bogura\nVisiting Hour: 4pm to 6pm (Closed: Thu & Friday)\nAppointment: +8801766662777\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
+        "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
+        "visitingTime": "3pm to 4pm & 6pm to 8pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801701560011Call Now"
+      }
+    },
+    {
+      "name": "Dr. A.K.M. Rezwanul Islam",
+      "degree": "MBBS, BCS (Health), MD (Cardiology)",
+      "specialty": "Cardiology, Medicine, Rheumatic Fever & Hypertension Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. A.K.M. Rezwanul Islam is a Cardiologist in Bogra. His qualification is MBBS, BCS (Health), MD (Cardiology). He is a Junior Consultant, Cardiology at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic & Consultation Center, Bogra. Practicing hour of Dr. A.K.M. Rezwanul Islam at Ibn Sina Diagnostic & Consultation Center, Bogra is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
+        "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801701560011Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Younus Ali",
+      "degree": "MBBS, CCD (BIRDEM), D-CARD (BSMMU)",
+      "specialty": "Cardiology, Blood Pressure, Rheumatic Fever & Diabetes Specialist",
+      "workplace": "TMSS Medical College & Hospital",
+      "info": "Dr. Md. Younus Ali is a Cardiologist in Bogra. His qualification is MBBS, CCD (BIRDEM), D-CARD (BSMMU). He is a Assistant Professor, Cardiology at TMSS Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic & Consultation Center, Bogra. Practicing hour of Dr. Md. Younus Ali at Ibn Sina Diagnostic & Consultation Center, Bogra is 3pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
+        "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
+        "visitingTime": "3pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801701560011Call Now"
+      }
+    }
+  ]
+}

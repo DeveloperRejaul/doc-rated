@@ -1,0 +1,30 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Adnan Kaiser",
+      "degree": "MBBS (DMC), MS (Plastic Surgery)",
+      "specialty": "Burn & Plastic Surgeon",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Adnan Kaiser is a Plastic Surgeon in Mymensingh. His qualification is MBBS (DMC), MS (Plastic Surgery). He is a Assistant Professor, Burn & Plastic Surgery at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Nexus Hospital, Mymensingh. Practicing hour of Dr. Adnan Kaiser at Nexus Hospital, Mymensingh is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Nexus Hospital, Mymensingh",
+        "address": "29, Sehora, Mymensingh Sadar, Mymensingh – 2200",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801796586561Call Now"
+      }
+    },
+    {
+      "name": "Dr. Sultana Razia",
+      "degree": "MBBS, BCS (Health), MS (Plastic Surgery)",
+      "specialty": "Plastic & Cosmetic Surgeon",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Sultana Razia is a Plastic Surgeon in Mymensingh. Her qualification is MBBS, BCS (Health), MS (Plastic Surgery). She is a Consultant, Burn & Plastic Surgery at Mymensingh Medical College & Hospital. She regularly provides treatment to her patients at Sodesh Hospital, Mymensingh. Practicing hour of Dr. Sultana Razia at Sodesh Hospital, Mymensingh is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Sodesh Hospital, Mymensingh",
+        "address": "298/2, Maskanda (Bus Stand), Mymensingh - 2200",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809666777990Call Now"
+      }
+    }
+  ]
+}

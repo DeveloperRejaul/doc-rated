@@ -1,0 +1,95 @@
+{
+  "doctor": [
+    {
+      "name": "Prof. Dr. Dilip Kumar Roy",
+      "degree": "MBBS, FCPS (Medicine), MD (Nephrology), Senior Fellowship in Nephrology ( Singapore)",
+      "specialty": "Kidney Diseases & Medicine Specialist",
+      "workplace": "National Institute of Kidney Diseases & Urology",
+      "info": "Moon Hospital, Comilla\nAddress: Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla\nVisiting Hour: 2pm to 8pm (Thu) & 7am to 8pm (Fri)\nAppointment: +8801714473231\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Shantinagar",
+        "address": "Unit # 01, House # 11, Shantinagar, Motijheel, Dhaka",
+        "visitingTime": "5.30pm to 8.30pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787803Call Now"
+      }
+    },
+    {
+      "name": "Dr. Bablu Kumar Paul",
+      "degree": "MBBS, BCS (Health), MD (Nephrology)",
+      "specialty": "Kidney Specialist",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Bablu Kumar Paul is a Kidney Specialist in Comilla. His qualification is MBBS, BCS (Health), MD (Nephrology). He is a Associate Professor & Head, Nephrology at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Moon Hospital, Comilla. Practicing hour of Dr. Bablu Kumar Paul at Moon Hospital, Comilla is 2pmto 8pm (Sat to Thu) & 10am to 1pm (Fri).",
+      "chamber": {
+        "hospital": "Moon Hospital, Comilla",
+        "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
+        "visitingTime": "2pmto 8pm (Sat to Thu) & 10am to 1pm (Fri)",
+        "appointmentNumber": "+8801722316208Call Now"
+      }
+    },
+    {
+      "name": "Dr. Golam Mahabub Sikder",
+      "degree": "MBBS, BCS (Health), MD (Nephrology), CCD (BIRDEM), MACP (USA)",
+      "specialty": "Kidney, Medicine, Diabetes & Hypertension Specialist",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Sikder Diagnostic & Consultation Center\nAddress: Gouripur Bazar, South Side of Bulirpar Bridge, Daudkandi Cumilla\nVisiting Hour: 3pm to 7pm (Sat, Sun, Tue & Wed), 10am to 7pm (Friday)\nAppointment: +8801818455101\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Comilla",
+        "address": "House # 29, Kotbari Road, Tomsom Bridge, Cumilla",
+        "visitingTime": "3pm to 8pm (Sun, Tue & Thu) & 7pm to 9pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801841212275Call Now"
+      }
+    },
+    {
+      "name": "Dr. Ripon Chandra Mazumder",
+      "degree": "MBBS (Dhaka), MD (Nephrology), MACP (USA)",
+      "specialty": "Kidney Diseases & Medicine Specialist",
+      "workplace": "Central Medical College & Hospital, Comilla",
+      "info": "Moon Hospital, Comilla\nAddress: Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla\nVisiting Hour: 4pm to 9pm (Everyday)\nAppointment: +8801787-790198\nCall Now",
+      "chamber": {
+        "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+        "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+        "visitingTime": "4.30pm to 7.30pm (Everyday)",
+        "appointmentNumber": "+8801312-108518Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mohammad Zahir Uddin",
+      "degree": "MBBS, BCS (Health), MD (Nephrology)",
+      "specialty": "Kidney Diseases, Dialysis & Transplant Specialist",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Mohammad Zahir Uddin is a Kidney Specialist in Comilla. His qualification is MBBS, BCS (Health), MD (Nephrology). He is a Assistant Professor, Nephrology at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at CD Path & Hospital Pvt. Ltd.. Practicing hour of Dr. Mohammad Zahir Uddin at CD Path & Hospital Pvt. Ltd. is 2.30pm to 3.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "CD Path & Hospital Pvt. Ltd.",
+        "address": "Shishu Monagal Road, Badurtoal, Cumilla – 3500",
+        "visitingTime": "2.30pm to 3.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801721503971Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Maksud Ullah",
+      "degree": "MBBS (SSMC), MD (Nephrology), MACP (USA)",
+      "specialty": "Kidney Diseases, Dialysis, Transplant & Medicine Specialist",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Md. Maksud Ullah is a Kidney Specialist in Comilla. His qualification is MBBS (SSMC), MD (Nephrology), MACP (USA). He is a Registrar, Department of Medicine at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Cumilla Medical Center Pvt. Ltd. (Tower Hospital). Practicing hour of Dr. Md. Maksud Ullah at Cumilla Medical Center Pvt. Ltd. (Tower Hospital) is 2.45pm to 8.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+        "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+        "visitingTime": "2.45pm to 8.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801300483768Call Now"
+      }
+    },
+    {
+      "name": "Dr. Sourav Saha",
+      "degree": "MBBS, MD (Nephrology)",
+      "specialty": "Kidney Diseases, Dialysis & Transplant Specialist",
+      "workplace": "Mainamoti Medical College & Hospital",
+      "info": "Dr. Sourav Saha is a Kidney Specialist in Comilla. His qualification is MBBS, MD (Nephrology). He is a Assistant Professor & Head, Kidney & Medicine at Mainamoti Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Cumilla. Practicing hour of Dr. Sourav Saha at Labaid Diagnostic, Cumilla is 3pm to 7pm (Closed: Friday & Saturday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Cumilla",
+        "address": "Tomsom Bridge, Laksam Road, Cumilla",
+        "visitingTime": "3pm to 7pm (Closed: Friday & Saturday)",
+        "appointmentNumber": "+8801766661133Call Now"
+      }
+    }
+  ]
+}

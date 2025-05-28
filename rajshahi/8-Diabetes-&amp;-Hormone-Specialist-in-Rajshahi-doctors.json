@@ -1,0 +1,43 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Md. Motiur Rahman",
+      "degree": "MBBS, FCPS (Medicine), DEM (BIRDEM)",
+      "specialty": "Medicine, Diabetes, Thyroid & Hormone Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Md. Motiur Rahman is a Medicine Specialist in Rajshahi. His qualification is MBBS, FCPS (Medicine), DEM (BIRDEM). He is a Registrar, Department of Medicine at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Md. Motiur Rahman at Popular Diagnostic Center, Rajshahi is 4:30pm to 9pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "4:30pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809666787811Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Masud Un Nabi",
+      "degree": "MBBS, BCS (Health), MD (Endocrinology)",
+      "specialty": "Diabetes, Thyroid, Medicine & Hormone Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Shimla Hospital, Pabna\nAddress: Shimla Tower, Thana Mor, Hospital Road, Pabna\nVisiting Hour: 4pm to 10pm (Thu), 9am to 4pm (Fri)\nAppointment: +8801713228218\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "4:30pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809666787811Call Now"
+      }
+    },
+    {
+      "name": "Dr. D. A. Rashid",
+      "degree": "MBBS, MCPS, MD (Endocrinology)",
+      "specialty": "Endocrinology (Diabetes, Thyroid & Hormonal Diseases) Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. D. A. Rashid is a Endocrinologist in Rajshahi. His qualification is MBBS, MCPS, MD (Endocrinology). He is a Former Associate Professor, Endocrinology at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. D. A. Rashid at Popular Diagnostic Center, Rajshahi is 4pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "4pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787811Call Now"
+      }
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "doctor": [
+    {
+      "name": "Prof. Dr. Tarit Kumar Samadder",
+      "degree": "MBBS, DMRT, TSF (JAPAN), ASCO (USA), ESMO (EU), AROI (INDIA)",
+      "specialty": "Cancer & Tumor Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Medinova Medical Services, Barisal\nAddress: K.B. Hemayet Uddin Road, Girja Moholla, Barisal\nVisiting Hour: 10am to 12pm (Only Monday)\nAppointment: +8801711240969\nCall Now",
+      "chamber": {
+        "hospital": "Labaid Cancer Hospital & Super Speciality Center",
+        "address": "26, Green Road, Dhaka",
+        "visitingTime": "10am to 2pm & 5pm to 9pm (Sat, Wed, Thu & Fri)",
+        "appointmentNumber": "+8809666710001Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Mohsin Howlader",
+      "degree": "MBBS, FCPS (Radiotherapy)",
+      "specialty": "Cancer Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. Md. Mohsin Howlader is a Cancer Specialist in Barisal. His qualification is MBBS, FCPS (Radiotherapy). He is a Consultant, Radiotherapy at Sher-E-Bangla Medical College & Hospital. He regularly provides treatment to his patients at South Apollo Diagnostic Complex, Barisal. Practicing hour of Dr. Md. Mohsin Howlader at South Apollo Diagnostic Complex, Barisal is 6pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "South Apollo Diagnostic Complex, Barisal",
+        "address": "135, Sadar Road, Barisal",
+        "visitingTime": "6pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801711457444Call Now"
+      }
+    },
+    {
+      "name": "Dr. A.N.M. Mainul Islam",
+      "degree": "MBBS (Dhaka), BCS (Health), MPhil (Radiotherapy)",
+      "specialty": "Cancer & Tumor Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. A.N.M. Mainul Islam is a Cancer Specialist in Barisal. His qualification is MBBS (Dhaka), BCS (Health), MPhil (Radiotherapy). He is a Assistant Professor & Head, Radiotherapy at Sher-E-Bangla Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Barisal. Practicing hour of Dr. A.N.M. Mainul Islam at Popular Diagnostic Center, Barisal is 5:30pm to 7pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "5:30pm to 7pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809666787819Call Now"
+      }
+    },
+    {
+      "name": "Dr. Farhana Khan",
+      "degree": "MBBS, BCS (Health), MD (Oncology)",
+      "specialty": "Cancer Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Popular Diagnostic Center, BarisalAddress: 955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, BarisalVisiting Hour: 6:30pm to 9pm (Closed: Thu & Friday)Appointment: +8809666787819Call Now",
+      "chamber": {
+        "hospital": "Rahat Anwar Hospital, Barisal",
+        "address": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801711993953Call Now"
+      }
+    },
+    {
+      "name": "Dr. Sirajus Salekin",
+      "degree": "MBBS, BCS (Health), MD (Oncology)",
+      "specialty": "Cancer Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. Sirajus Salekin is a Cancer Specialist in Barisal. His qualification is MBBS, BCS (Health), MD (Oncology). He is a Indoor Medical Officer at Sher-E-Bangla Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Barisal. Practicing hour of Dr. Sirajus Salekin at Popular Diagnostic Center, Barisal is 5pm to 9pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "5pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801819673273Call Now"
+      }
+    }
+  ]
+}

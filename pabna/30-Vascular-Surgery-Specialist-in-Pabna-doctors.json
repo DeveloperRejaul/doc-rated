@@ -1,0 +1,17 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Md. Arif Reza",
+      "degree": "MBBS, BCS (Health), MS (Neurosurgery)",
+      "specialty": "Neurosurgery Specialist",
+      "workplace": "National Institute of Neurosciences & Hospital",
+      "info": "Popular Diagnostic Centre, Kushtia\nAddress: City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia\nVisiting Hour: 4pm to 10pm (Only Thursday)\nAppointment: +8809666787817\nCall Now",
+      "chamber": {
+        "hospital": "Shimla Hospital, Pabna",
+        "address": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
+        "visitingTime": "9am to 5pm (Only Friday)",
+        "appointmentNumber": "+8801713228218Call Now"
+      }
+    }
+  ]
+}

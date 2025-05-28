@@ -1,0 +1,147 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Naresh Kumar Roy",
+      "degree": "MBBS, D-ORTHO, MS (ORTHO)",
+      "specialty": "Bone Joint, Arthritis, Orthopedics Specialist & Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Doctors Clinic, Bogura\nAddress: Unit 2, Thanthania, Sherpur Road, Bogura\nVisiting Hour: 5pm to 9pm (Closed: Friday)\nAppointment: +8801716106796\nCall Now",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Bogura",
+        "address": "House # 1872, Sherpur Road, Colony, Bogura",
+        "visitingTime": "2.30pm to 5pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801766662777Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Rezaul Karim",
+      "degree": "MBBS, BCS (Health), MS (Ortho Surgery), AO Spine (Singapore), Fellow (Ilizarov Surgery)",
+      "specialty": "Orthopedic Specialist & Trauma, Spine Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Md. Rezaul Karim is a Orthopedic Surgeon in Bogra. His qualification is MBBS, BCS (Health), MS (Ortho Surgery), AO Spine (Singapore), Fellow (Ilizarov Surgery). He is a Assistant Professor, Orthopedic Surgery at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Md. Rezaul Karim at Popular Diagnostic Center, Bogra is 10am to 8pm (Wednesday), 3pm to 8pm (Thursday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "10am to 8pm (Wednesday), 3pm to 8pm (Thursday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "name": "Dr. Abdullah Al Muti Suborno",
+      "degree": "MBBS, BCS (Health), MS (Ortho)",
+      "specialty": "Orthopedics Specialist & Trauma Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Abdullah Al Muti Suborno is a Orthopedic Surgeon in Bogra. His qualification is MBBS, BCS (Health), MS (Ortho). He is a Assistant Professor, Orthopedic Surgery at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Abdullah Al Muti Suborno at Popular Diagnostic Center, Bogra is 4pm to 9pm (Closed: Wed & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "4pm to 9pm (Closed: Wed & Friday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Mohiuddin Aslam Koushik",
+      "degree": "MBBS, BCS (Health), MS (Ortho Surgery), Fellowship (Pain Management)",
+      "specialty": "Bone Joint, Spine, Trauma Specialist & Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Md. Mohiuddin Aslam Koushik is a Orthopedic Surgeon in Bogra. His qualification is MBBS, BCS (Health), MS (Ortho Surgery), Fellowship (Pain Management). He is a Assistant Professor, Orthopedic Surgery at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Md. Mohiuddin Aslam Koushik at Popular Diagnostic Center, Bogra is 3pm to 9pm (Sat to Thu) & 9am to 3pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "3pm to 9pm (Sat to Thu) & 9am to 3pm (Friday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "name": "Dr. Syed Shamsul Arefin Juwel",
+      "degree": "MBBS, BCS (Health), MS (Ortho Surgery)",
+      "specialty": "Bone Joint, Fractures, Trauma, Spine Specialist & Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Popular Diagnostic Center, BograAddress: House # 12/310, Thanthania Bus Stand, Sherpur Road, BoguraVisiting Hour: 3pm to 8pm (Closed: Tuesday), 9am to 3pm (Friday)Appointment: +8809666787812Call Now",
+      "chamber": {
+        "hospital": "Saic General Hospital, Bogura",
+        "address": "Bhai Pagla Mazar Lane, Thanthania, Bogura",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801936005870Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Wadudul Haq Tarafder Nahid",
+      "degree": "MBBS, D-ORTHO, MS (ORTHO, BSMMU), AO Spine (Singapore)",
+      "specialty": "Bone Joint, Spine, Trauma Specialist & Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Md. Wadudul Haq Tarafder Nahid is a Orthopedic Surgeon in Bogra. His qualification is MBBS, D-ORTHO, MS (ORTHO, BSMMU), AO Spine (Singapore). He is a Assistant Professor, Orthopedic Surgery at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Md. Wadudul Haq Tarafder Nahid at Popular Diagnostic Center, Bogra is 3pm to 9pm (Sat to Thu) & 10am to 8pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "3pm to 9pm (Sat to Thu) & 10am to 8pm (Friday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Arifur Rahman Talukdar",
+      "degree": "MBBS, BCS (Health), D-Ortho (NITOR), AO Trauma (India)",
+      "specialty": "Orthopedic, Trauma & Spine Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Md. Arifur Rahman Talukdar is a Orthopedic Surgeon in Bogra. His qualification is MBBS, BCS (Health), D-Ortho (NITOR), AO Trauma (India). He is a Consultant, Orthopedic Surgery at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic & Consultation Center, Bogra. Practicing hour of Dr. Md. Arifur Rahman Talukdar at Ibn Sina Diagnostic & Consultation Center, Bogra is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
+        "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801701560011Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Nazrul Islam Nahid",
+      "degree": "MBBS, BCS (Health), MS (Ortho Surgery)",
+      "specialty": "Bone Joint, Complex Fractures, Trauma Specialist & Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Md. Nazrul Islam Nahid is a Orthopedic Surgeon in Bogra. His qualification is MBBS, BCS (Health), MS (Ortho Surgery). He is a Consultant, Orthopedic Surgery at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic & Consultation Center, Bogra. Practicing hour of Dr. Md. Nazrul Islam Nahid at Ibn Sina Diagnostic & Consultation Center, Bogra is 3pm to 5pm (Closed: Mon & Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
+        "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
+        "visitingTime": "3pm to 5pm (Closed: Mon & Friday)",
+        "appointmentNumber": "+8801701560011Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Nazibullah",
+      "degree": "MBBS (DU), D-ORTHO (DU)",
+      "specialty": "Orthopedics Specialist & Trauma Surgeon",
+      "workplace": "TMSS Medical College & Hospital",
+      "info": "Dr. Md. Nazibullah is a Orthopedic Surgeon in Bogra. His qualification is MBBS (DU), D-ORTHO (DU). He is a Associate Professor & Head, Orthopedic Surgery at TMSS Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic & Consultation Center, Bogra. Practicing hour of Dr. Md. Nazibullah at Ibn Sina Diagnostic & Consultation Center, Bogra is 4pm to 8pm (Closed: Mon & Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
+        "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
+        "visitingTime": "4pm to 8pm (Closed: Mon & Friday)",
+        "appointmentNumber": "+8801701560011Call Now"
+      }
+    },
+    {
+      "name": "Dr. M.A.K. Shams Uddin Mintu",
+      "degree": "MBBS, D-ORTHO",
+      "specialty": "Orthopedics Specialist & Trauma Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. M.A.K. Shams Uddin Mintu is a Orthopedic Surgeon in Bogra. His qualification is MBBS, D-ORTHO. He is a Former Associate Professor & Head, Orthopedic Surgery at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic & Consultation Center, Bogra. Practicing hour of Dr. M.A.K. Shams Uddin Mintu at Ibn Sina Diagnostic & Consultation Center, Bogra is 10am to 1pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
+        "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
+        "visitingTime": "10am to 1pm (Closed: Friday)",
+        "appointmentNumber": "+8801701560011Call Now"
+      }
+    },
+    {
+      "name": "Dr. A.K.M. Shaharul Islam",
+      "degree": "MBBS, D-ORTHO (BSMMU)",
+      "specialty": "Orthopedic Specialist & Trauma Surgeon",
+      "workplace": "TMSS Medical College & Hospital",
+      "info": "Dr. A.K.M. Shaharul Islam is a Orthopedic Specialist in Bogra. His qualification is MBBS, D-ORTHO (BSMMU). He is a Assistant Professor, Orthopedic Surgery at TMSS Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic & Consultation Center, Bogra. Practicing hour of Dr. A.K.M. Shaharul Islam at Ibn Sina Diagnostic & Consultation Center, Bogra is 5pm to 8pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
+        "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
+        "visitingTime": "5pm to 8pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801701560011Call Now"
+      }
+    }
+  ]
+}

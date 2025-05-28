@@ -1,0 +1,108 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Shahriar Md. Kabir Hasan",
+      "degree": "MBBS, BCS (Health), MS (Urology)",
+      "specialty": "Kidney, Ureter, Bladder, Prostate, Male Genitalia, Male Infertility, Sexual Disease SpecialistEndoscopic & Laparoscopic Surgeon",
+      "workplace": "National Institute of Kidney Diseases & Urology",
+      "info": "DKMC Hospital, Narayanganj\nAddress: Bhai Bhai Complex, Bhulta, Rupganj, Narayanganj\nVisiting Hour: 4pm to 7pm (Sun, Wed & Thu)\nAppointment: +8801971600112\nCall Now",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Gulshan",
+        "address": "House # 13/A, Road # 35, Gulshan 2, Dhaka",
+        "visitingTime": "5pm to 7pm (Sat, Mon & Tue)",
+        "appointmentNumber": "+8801766662525Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Waliul Islam Maruf",
+      "degree": "MBBS, MS (Urology), MRCPS (UK)",
+      "specialty": "Urology (Kidney Ureter, Bladder, Prostate) Specialist & Surgeon",
+      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Shyamoli\nAddress: Opposite to Shyamoli Shishu Mela, Babor Road, Mohammadpur, Dhaka\nVisiting Hour: 5.30pm to 7pm (Sat, Mon & Wed)\nAppointment: +8809666787806\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "4pm to 8:30pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "name": "Dr. M. Mahfuzur Rahman Sagar",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urology & Andrology Specialist",
+      "workplace": "National Institute Of Kidney Diseases & Urology",
+      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, B.B. Road, Chashara, Narayanganj – 1400\nVisiting Hour: 4pm to 8pm (Sat, Mon & Wed) & 10am to 1pm (Friday)\nAppointment: +8809666787804\nCall Now",
+      "chamber": {
+        "hospital": "Health and Hope Hospital",
+        "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
+        "visitingTime": "5pm to 7pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8809611996699Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Aulad Hossain",
+      "degree": "MBBS (DMC), FCPS (Surgery), MS (Urology)",
+      "specialty": "Urology (Kidney Ureter, Bladder, Prostate) Specialist & Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Md. Aulad Hossain is a Urologist in Narayanganj. His qualification is MBBS (DMC), FCPS (Surgery), MS (Urology). He is a Assistant Professor, Urology at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Md. Aulad Hossain at Popular Diagnostic Center, Narayanganj is 5pm to 9pm (Closed: Sunday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "5pm to 9pm (Closed: Sunday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "name": "Dr. A.S.M. Feroz Mustafa Manna",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery), MS (Urology)",
+      "specialty": "Urology (Kidney Ureter, Bladder, Prostate) Specialist & Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. A.S.M. Feroz Mustafa Manna is a Urologist in Narayanganj. His qualification is MBBS, BCS (Health), FCPS (Surgery), MS (Urology). He is a Assistant Professor, Urology at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. A.S.M. Feroz Mustafa Manna at Popular Diagnostic Center, Narayanganj is 4pm to 7pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "4pm to 7pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Shah Alam",
+      "degree": "MBBS, BCS (Health), MS (Urology)",
+      "specialty": "Urology, Kidney, Male Infertility Specialist & Surgeon",
+      "workplace": "Mugda Medical College & Hospital",
+      "info": "Dr. Md. Shah Alam is a Urologist in Narayanganj. His qualification is MBBS, BCS (Health), MS (Urology). He is a Consultant, Urology at Mugda Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Md. Shah Alam at Popular Diagnostic Center, Narayanganj is 7pm to 9pm (Monday) & 10am to 4pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "7pm to 9pm (Monday) & 10am to 4pm (Friday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Md. Jahangir Alam",
+      "degree": "MBBS, BCS, MRCS (London), MS (Urology), FACS (USA)",
+      "specialty": "Urology (Kidneys, Bladder, Ureters, Prostate) Specialist & Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Prof. Dr. Md. Jahangir Alam is a Urologist in Narayanganj. His qualification is MBBS, BCS, MRCS (London), MS (Urology), FACS (USA). He is a Professor, Urology at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Medinova Medical Services, Narayanganj. Practicing hour of Prof. Dr. Md. Jahangir Alam at Medinova Medical Services, Narayanganj is 5.30pm to 9.30pm (Closed: Wed & Friday).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Narayanganj",
+        "address": "145, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "5.30pm to 9.30pm (Closed: Wed & Friday)",
+        "appointmentNumber": "+8801778-437889Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Nasir Uddin (Kajal)",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery), MS (Urology), FACS (USA)",
+      "specialty": "Urologist, Andrologist, Laparoscopic SurgeonKidney, Urethral, ​​Bladder, Prostate, Reproductive System Surgeon",
+      "workplace": "Pro-Active Medical College Hospital",
+      "info": "Dr. Md. Nasir Uddin (Kajal) is a Urologist in Narayanganj. His qualification is MBBS, BCS (Health), FCPS (Surgery), MS (Urology), FACS (USA). He is an Assistant Professor of Urology at Pro-Active Medical College Hospital. He regularly provides treatment to his patients at Modern Diagnostic Center, Narayanganj. Practicing hour of Dr. Md. Nasir Uddin (Kajal) at Modern Diagnostic Center, Narayanganj is 7pm to 9pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Modern Diagnostic Center, Narayanganj",
+        "address": "BJA Babhan, Bangabandhu Road, Chashara, Narayanganj",
+        "visitingTime": "7pm to 9pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801820842293Call Now"
+      }
+    }
+  ]
+}

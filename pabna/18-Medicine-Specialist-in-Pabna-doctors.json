@@ -1,0 +1,355 @@
+{
+  "doctor": [
+    {
+      "name": "Prof. Dr. Abu Md. Shafiqul Hasan",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine)",
+      "specialty": "Medicine, Diabetes, Hypertension & Chest Diseases Specialist",
+      "workplace": "Pabna Medical College & Hospital",
+      "info": "Labaid Diagnostic, Malibagh\nAddress: House # B65, Chowdhury Para, Malibagh, Dhaka\nVisiting Hour: 7pm to 10pm (Thu & Friday)\nAppointment: +8801766662555\nCall Now",
+      "chamber": {
+        "hospital": "Jalal Memorial Hospital, Pabna",
+        "address": "Godaun Mor, Hospital Road, Shalgaria, Pabna - 6600",
+        "visitingTime": "3pm to 8pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801743708079Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Habibul Haque Habib",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Gastroenterology), CCD (BIRDEM)",
+      "specialty": "Medicine, Gastro-Liver & Diabetes Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Md. Habibul Haque Habib is a Medicine Specialist and Medicine Specialist in Pabna. His qualification is MBBS, BCS (Health), FCPS (Medicine), MD (Gastroenterology), CCD (BIRDEM). He is a Resident Physician, Department of Medicine at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Shafique Hospital, Pabna. Practicing hour of Dr. Md. Habibul Haque Habib at Shafique Hospital, Pabna is 4pm to 10pm (Thu) & 9am to 4pm (Fri).",
+      "chamber": {
+        "hospital": "Shafique Hospital, Pabna",
+        "address": "Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna",
+        "visitingTime": "4pm to 10pm (Thu) & 9am to 4pm (Fri)",
+        "appointmentNumber": "+8801701654390Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Ruhid Hossain",
+      "degree": "MBBS (DMC), BCS (Health), FCPS (Medicine), PGT (Neurology, Cardiology)",
+      "specialty": "Medicine, Neurology & Cardiology Specialist",
+      "workplace": "250 Bedded General Hospital, Pabna",
+      "info": "Fair Hospital & Diagnostic Center, Pabna\nAddress: Beside Pabna TB Hospital, Hospital Road, Shalgaria, Pabna\nVisiting Hour: 3pm to 4pm (Closed: Thu & Friday)\nAppointment: +8801731326134\nCall Now",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Pabna",
+        "address": "Beside Joy Kali Bari, Thana Road, Shalgaria, Pabna",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801766661901Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Shahriar Siddiki",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), FCPS (Neurology - FP), CCD (BIRDEM), MRCP (UK)",
+      "specialty": "Medicine, Neuromedicine & Diabetes Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Md. Shahriar Siddiki is a Medicine Specialist in Pabna. His qualification is MBBS, BCS (Health), FCPS (Medicine), FCPS (Neurology - FP), CCD (BIRDEM), MRCP (UK). He is a Indoor Medical Officer, Department of Medicine at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Fair Hospital & Diagnostic Center, Pabna. Practicing hour of Dr. Md. Shahriar Siddiki at Fair Hospital & Diagnostic Center, Pabna is 3pm to 8pm (Only Thursday).",
+      "chamber": {
+        "hospital": "Fair Hospital & Diagnostic Center, Pabna",
+        "address": "Beside Pabna TB Hospital, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "3pm to 8pm (Only Thursday)",
+        "appointmentNumber": "+8801731326134Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mohammad Habibullah",
+      "degree": "MBBS (DMC), FCPS (Medicine)",
+      "specialty": "Medicine, Diabetes & Chest Diseases Specialist",
+      "workplace": "Pabna Medical College & Hospital",
+      "info": "Dr. Mohammad Habibullah is a Medicine Specialist in Pabna. His qualification is MBBS (DMC), FCPS (Medicine). He is a Assistant Professor, Medicine at Pabna Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Pabna. Practicing hour of Dr. Mohammad Habibullah at Labaid Diagnostic, Pabna is 6pm to 11pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Pabna",
+        "address": "Beside Joy Kali Bari, Thana Road, Shalgaria, Pabna",
+        "visitingTime": "6pm to 11pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801766661901Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Nazmul Islam",
+      "degree": "MBBS (DU), FCPS (Medicine)",
+      "specialty": "Medicine, Diabetes & Hypertension Specialist",
+      "workplace": "250 Bedded General Hospital, Pabna",
+      "info": "Dr. Md. Nazmul Islam is a Medicine Specialist in Pabna. His qualification is MBBS (DU), FCPS (Medicine). He is a Consultant, Department of Medicine at 250 Bedded General Hospital, Pabna. He regularly provides treatment to his patients at Central Hospital, Pabna. Practicing hour of Dr. Md. Nazmul Islam at Central Hospital, Pabna is 3pm to 11pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Central Hospital, Pabna",
+        "address": "South Side of Sadar Hospital Gate, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "3pm to 11pm (Closed: Friday)",
+        "appointmentNumber": "+8801322912612Call Now"
+      }
+    },
+    {
+      "name": "Dr. Saleh Muhammad Ali",
+      "degree": "MBBS, FCPS (Medicine)",
+      "specialty": "Medicine, Diabetes & Chest Diseases Specialist",
+      "workplace": "250 Bedded General Hospital, Pabna",
+      "info": "Dr. Saleh Muhammad Ali is a Medicine Specialist in Pabna. His qualification is MBBS, FCPS (Medicine). He is a Senior Consultant, Medicine at 250 Bedded General Hospital, Pabna. He regularly provides treatment to his patients at Euro Medical Center, Pabna. Practicing hour of Dr. Saleh Muhammad Ali at Euro Medical Center, Pabna is 3pm to 9pm (Sat to Thu), 10am to 3pm (Fri).",
+      "chamber": {
+        "hospital": "Euro Medical Center, Pabna",
+        "address": "Beside JoyKali Bari, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "3pm to 9pm (Sat to Thu), 10am to 3pm (Fri)",
+        "appointmentNumber": "+8801772974000Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Iftekhar Mahmood",
+      "degree": "MBBS, PhD, MCCP, MACP, MASM",
+      "specialty": "Medicine, Chest Diseases, Hypertension & Diabetes Specialist",
+      "workplace": "Kushtia Medical College & Hospital",
+      "info": "Prof. Dr. Iftekhar Mahmood is a Medicine Specialist in Pabna. His qualification is MBBS, PhD, MCCP, MACP, MASM. He is a Former Principal & Professor, Medicine at Kushtia Medical College & Hospital. He regularly provides treatment to his patients at Parijat Diagnostic Center, Pabna. Practicing hour of Prof. Dr. Iftekhar Mahmood at Parijat Diagnostic Center, Pabna is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Parijat Diagnostic Center, Pabna",
+        "address": "Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801714085049Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mazid Mahmud",
+      "degree": "MBBS, BCS (Health), CCD (BIRDEM), FCPS (Medicine, FP), PGT (Cardiology), PGT (Neurology)",
+      "specialty": "Diabetes, Medicine & Asthma Specialist",
+      "workplace": "Chatmohor Upazila Health Complex, Pabna",
+      "info": "Dr. Mazid Mahmud is a Medicine Specialist in Pabna. His qualification is MBBS, BCS (Health), CCD (BIRDEM), FCPS (Medicine, FP), PGT (Cardiology), PGT (Neurology). He is a Medical Officer, Department of Medicine at Chatmohor Upazila Health Complex, Pabna. He regularly provides treatment to his patients at Apollo Plus Medical Services, Pabna. Practicing hour of Dr. Mazid Mahmud at Apollo Plus Medical Services, Pabna is 3pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Apollo Plus Medical Services, Pabna",
+        "address": "Godaun Mor, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801303667575Call Now"
+      }
+    },
+    {
+      "name": "Dr. Ishtiak Karim Adnan",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), CCD (BIRDEM), MCPS (USA)",
+      "specialty": "Medicine, Diabetes & Hormone Specialist",
+      "workplace": "250 Bedded General Hospital, Pabna",
+      "info": "Dr. Ishtiak Karim Adnan is a Medicine Specialist in Pabna. His qualification is MBBS, BCS (Health), FCPS (Medicine), CCD (BIRDEM), MCPS (USA). He is a Consultant, Department of Medicine at 250 Bedded General Hospital, Pabna. He regularly provides treatment to his patients at City Diagnostic Center, Pabna. Practicing hour of Dr. Ishtiak Karim Adnan at City Diagnostic Center, Pabna is 3pm to 8pm (Sat to Thu), 9am to 5pm (Fri).",
+      "chamber": {
+        "hospital": "City Diagnostic Center, Pabna",
+        "address": "Beside TB Hospital, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "3pm to 8pm (Sat to Thu), 9am to 5pm (Fri)",
+        "appointmentNumber": "+8801757204642Call Now"
+      }
+    },
+    {
+      "name": "Dr. Abdullah Al Mamun",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Abdullah Al Mamun is a Medicine Specialist in Pabna. His qualification is MBBS, BCS (Health), FCPS (Medicine). He is a Consultant, Medicine at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Shimla Hospital, Pabna. Practicing hour of Dr. Abdullah Al Mamun at Shimla Hospital, Pabna is 4pm to 10pm (Sat, Sun & Mon), 9am to 4pm (Friday).",
+      "chamber": {
+        "hospital": "Shimla Hospital, Pabna",
+        "address": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
+        "visitingTime": "4pm to 10pm (Sat, Sun & Mon), 9am to 4pm (Friday)",
+        "appointmentNumber": "+8801713228218Call Now"
+      }
+    },
+    {
+      "name": "Dr. Captain Sarwar Jahan Faiz",
+      "degree": "MBBS, FCGP, FMD, Fellow IAGP (India), Fellow RSH (UK)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Armed Forces Medical College, Dhaka",
+      "info": "Dr. Captain Sarwar Jahan Faiz is a Medicine Doctor in Pabna. His qualification is MBBS, FCGP, FMD, Fellow IAGP (India), Fellow RSH (UK). He was worked as a Medicine Specialist doctor in Armed Forces Medical College, Dhaka. Now, He regularly provides treatment to his patients at Shimla Hospital, Pabna. Practicing hour of Dr. Captain Sarwar Jahan Faiz at Shimla Hospital, Pabna is 10am to 08pm (Everyday).",
+      "chamber": {
+        "hospital": "Shimla Hospital, Pabna",
+        "address": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
+        "visitingTime": "10am to 08pm (Everyday)",
+        "appointmentNumber": "+8801713228218Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Abdus Sattar Miah",
+      "degree": "MBBS, BCS (Health), MD (Internal Medicine)",
+      "specialty": "Medicine (All Diseases of Adults) , Diabetes & Chest Diseases Specialist",
+      "workplace": "Pabna Medical College & Hospital",
+      "info": "Dr. Md. Abdus Sattar Miah is a Medicine Specialist in Pabna. His qualification is MBBS, BCS (Health), MD (Internal Medicine). He is a Ex. Associate Professor, Department of Medicine at Pabna Medical College & Hospital. He regularly provides treatment to his patients at Central Hospital, Pabna. Practicing hour of Dr. Md. Abdus Sattar Miah at Central Hospital, Pabna is 10am to 1pm (Everyday), 4pm to 8pm (Sat to Thu).",
+      "chamber": {
+        "hospital": "Central Hospital, Pabna",
+        "address": "South Side of Sadar Hospital Gate, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "10am to 1pm (Everyday), 4pm to 8pm (Sat to Thu)",
+        "appointmentNumber": "+8801322912612Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Mahbubul Alam Parvez",
+      "degree": "MBBS, MD (Medicine)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Pabna Medical College & Hospital",
+      "info": "Dr. Md. Mahbubul Alam Parvez is a Medicine Specialist in Pabna. His qualification is MBBS, MD (Medicine). He is a Assistant Professor, Medicine at Pabna Medical College & Hospital. He regularly provides treatment to his patients at Central Hospital, Pabna. Practicing hour of Dr. Md. Mahbubul Alam Parvez at Central Hospital, Pabna is 3pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Central Hospital, Pabna",
+        "address": "South Side of Sadar Hospital Gate, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "3pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801322912612Call Now"
+      }
+    },
+    {
+      "name": "Dr. Farid Ahmed Khan",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Internal Medicine), MACP (USA)",
+      "specialty": "Medicine (All Diseases of Adults) Specialist",
+      "workplace": "250 Bedded General Hospital, Pabna",
+      "info": "Dr. Farid Ahmed Khan is a Medicine Specialist in Pabna. His qualification is MBBS, BCS (Health), FCPS (Medicine), MD (Internal Medicine), MACP (USA). He is a Consultant, Medicine at 250 Bedded General Hospital, Pabna. He regularly provides treatment to his patients at Shimla Hospital, Pabna. Practicing hour of Dr. Farid Ahmed Khan at Shimla Hospital, Pabna is 4pm to 9pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Shimla Hospital, Pabna",
+        "address": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
+        "visitingTime": "4pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801713228218Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Golam Sarwar",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine, FP), MD (Gastroenterology, P2)",
+      "specialty": "Gastroenterology, Liver & Medicine Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Md. Golam Sarwar is a Medicine Specialist in Pabna. His qualification is MBBS, BCS (Health), FCPS (Medicine, FP), MD (Gastroenterology, P2). He is a Assistant Registrar, Department of Medicine at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Dr. Gaffar Diagnostic Complex, Pabna. Practicing hour of Dr. Md. Golam Sarwar at Dr. Gaffar Diagnostic Complex, Pabna is 2pm to 4pm (Everyday).",
+      "chamber": {
+        "hospital": "Dr. Gaffar Diagnostic Complex, Pabna",
+        "address": "South Side of Sadar Thana, Hospital Road, Pabna",
+        "visitingTime": "2pm to 4pm (Everyday)",
+        "appointmentNumber": "+8801780817051Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Md. Kamal Osman",
+      "degree": "MBBS, MCPS, DLM (Japan), PhD (Liver & Kidney Toxicity), PhD (Psychology, USA)",
+      "specialty": "Medicine (All Diseases of Adults) Specialist",
+      "workplace": "Pabna Medical College & Hospital",
+      "info": "Prof. Dr. Md. Kamal Osman is a Medicine Specialist in Pabna. His qualification is MBBS, MCPS, DLM (Japan), PhD (Liver & Kidney Toxicity), PhD (Psychology, USA). He is a Ex. Professor, Medicine at Pabna Medical College & Hospital. He regularly provides treatment to his patients at Dr. Gaffar Diagnostic Complex, Pabna. Practicing hour of Prof. Dr. Md. Kamal Osman at Dr. Gaffar Diagnostic Complex, Pabna is 11am to 8pm (Mon, Tue, Wed & Thu).",
+      "chamber": {
+        "hospital": "Dr. Gaffar Diagnostic Complex, Pabna",
+        "address": "Thana Mor (Beside Shimla Hospital), Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "11am to 8pm (Mon, Tue, Wed & Thu)",
+        "appointmentNumber": "+8801780817051Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Shamsul Amin (Nayan)",
+      "degree": "MBBS (Dhaka), CCD (BIRDEM), MRCP (Medicine, UK), FCPS (Medicine, CF)",
+      "specialty": "Medicine & Diabetes Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Md. Shamsul Amin (Nayan) is a Medicine Specialist in Pabna. His qualification is MBBS (Dhaka), CCD (BIRDEM), MRCP (Medicine, UK), FCPS (Medicine, CF). He is a  at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Akota Diagnostic Center, Pabna. Practicing hour of Dr. Md. Shamsul Amin (Nayan) at Akota Diagnostic Center, Pabna is 11am to 8pm (Sunday to Wednesday).",
+      "chamber": {
+        "hospital": "Akota Diagnostic Center, Pabna",
+        "address": "Sadar Hospital Gate, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "11am to 8pm (Sunday to Wednesday)",
+        "appointmentNumber": "+8801701787870Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Nazmul Ahsan",
+      "degree": "MBBS, CCD (BIRDEM), DMU, FMD (USTC), Certificate Course (Cardiology & Dermatology)",
+      "specialty": "Family Medicine & Diabetes Specialist",
+      "workplace": "Bangladesh Diabetic Samity",
+      "info": "Dr. Md. Nazmul Ahsan is a Medicine Specialist in Pabna. His qualification is MBBS, CCD (BIRDEM), DMU, FMD (USTC), Certificate Course (Cardiology & Dermatology). He is a Senior Medical Officer, Medicine at Bangladesh Diabetic Samity. He regularly provides treatment to his patients at Grameen Diagnostic Center, Pabna. Practicing hour of Dr. Md. Nazmul Ahsan at Grameen Diagnostic Center, Pabna is From 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Grameen Diagnostic Center, Pabna",
+        "address": "Kazi Office Road, Thana Para, Shalgaria, Pabna",
+        "visitingTime": "From 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801950998955Call Now"
+      }
+    },
+    {
+      "name": "Dr. Shaikh Ibn Anowar",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine - FP), PGT (Medicine), CMU, CCD (BIRDEM)",
+      "specialty": "Medicine (All Diseases of Adults) Specialist",
+      "workplace": "Pabna Medical College & Hospital",
+      "info": "Dr. Shaikh Ibn Anowar is a Medicine Specialist in Pabna. His qualification is MBBS, BCS (Health), FCPS (Medicine - FP), PGT (Medicine), CMU, CCD (BIRDEM). He is a Consultant, Medicine at Pabna Medical College & Hospital. He regularly provides treatment to his patients at Digital Diagnostic Center, Pabna. Practicing hour of Dr. Shaikh Ibn Anowar at Digital Diagnostic Center, Pabna is 9am to 5pm (Only Friday).",
+      "chamber": {
+        "hospital": "Digital Diagnostic Center, Pabna",
+        "address": "Kazi Office Road, Thana Para, Shalgaria, Pabna",
+        "visitingTime": "9am to 5pm (Only Friday)",
+        "appointmentNumber": "+8801748343270Call Now"
+      }
+    },
+    {
+      "name": "Dr. Rifat Zaman",
+      "degree": "MBBS, MD (Internal Medicine), PGT (Critical Care Medicine)",
+      "specialty": "Internal Medicine Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Rifat Zaman is a Medicine Specialist in Pabna. His qualification is MBBS, MD (Internal Medicine), PGT (Critical Care Medicine). He is a Consultant, Medicine at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Fair Hospital & Diagnostic Center, Pabna. Practicing hour of Dr. Rifat Zaman at Fair Hospital & Diagnostic Center, Pabna is 9am to 5pm (Only Friday).",
+      "chamber": {
+        "hospital": "Fair Hospital & Diagnostic Center, Pabna",
+        "address": "Beside Pabna TB Hospital, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "9am to 5pm (Only Friday)",
+        "appointmentNumber": "+8801730880795Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Mehedi Hasan",
+      "degree": "MBBS, BCS (Health), MD (Neuromedicine), FCPS (Medicine-FP), MAAN",
+      "specialty": "Medicine & Neuromedicine Specialist",
+      "workplace": "Directorate General of Health Services (DGHS), Mohakhali, Dhaka",
+      "info": "Dr. Md. Mehedi Hasan is a medicine & neuromedicine Specialist in Pabna. His qualification is MBBS, BCS (Health), MD (Neuromedicine), FCPS (Medicine-FP), MAAN. He is a Consultant, Neurologist at Directorate General of Health Services (DGHS), Mohakhali, Dhaka. He regularly provides treatment to his patients at Shimla Hospital, Pabna. Practicing hour of Dr. Md. Mehedi Hasan at Shimla Hospital, Pabna is 3pm to 9pm (Sat to Thu), 9am to 8pm (Friday).",
+      "chamber": {
+        "hospital": "Shimla Hospital, Pabna",
+        "address": "Room: 214, Shimla Tower, Thana Mor, Hospital Road, Pabna",
+        "visitingTime": "3pm to 9pm (Sat to Thu), 9am to 8pm (Friday)",
+        "appointmentNumber": "+8801713228218Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Zahir Uddin Khan",
+      "degree": "MBBS, PGT (Medicine), CCD (BIRDEM), DMU (Ultrasonography)",
+      "specialty": "Medicine Specialist & Sonologist",
+      "workplace": "Akota Diagnostic Center, Pabna",
+      "info": "Dr. Md. Zahir Uddin Khan is a Medicine Doctor in Pabna. His qualification is MBBS, PGT (Medicine), CCD (BIRDEM), DMU (Ultrasonography). He is working as a Medicine Specialist & Sonologist doctor in Akota Diagnostic Center, Pabna. He regularly provides treatment to his patients at Akota Diagnostic Center, Pabna. Practicing hour of Dr. Md. Zahir Uddin Khan at Akota Diagnostic Center, Pabna is 10pm to 3pm & 5pm to 8pm (Everyday).",
+      "chamber": {
+        "hospital": "Akota Diagnostic Center, Pabna",
+        "address": "Sadar Hospital Gate, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "10pm to 3pm & 5pm to 8pm (Everyday)",
+        "appointmentNumber": "+8801701787870Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Nazmus Shakib Umam",
+      "degree": "MBBS, DA (BSMMU), PGT (Heart Disease), PGT (Medicine)",
+      "specialty": "Medicine & Heart Specialist",
+      "workplace": "Halima Clinic, Pabna",
+      "info": "Dr. Md. Nazmus Shakib Umam is a Medicine Doctor in Pabna. His qualification is MBBS, DA (BSMMU), PGT (Heart Disease), PGT (Medicine). He is working as a Medicine & Heart Specialist doctor in Halima Clinic, Pabna. He regularly provides treatment to his patients at Halima Clinic, Pabna. Practicing hour of Dr. Md. Nazmus Shakib Umam at Halima Clinic, Pabna is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Halima Clinic, Pabna",
+        "address": "Front of Bangladesh Eidgah, Ataikula Road, Shalgaria, Pabna",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801711345743Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Sohel Uddin",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine)",
+      "specialty": "Medicine (All Diseases of Adults Related to Medicine) Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Md. Sohel Uddin is a Medicine Specialist in Pabna. His qualification is MBBS, BCS (Health), FCPS (Medicine). He is a Consultant, Medicine at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Shafique Hospital, Pabna. Practicing hour of Dr. Md. Sohel Uddin at Shafique Hospital, Pabna is 3pm to 9pm (Sunday & Tuesday).",
+      "chamber": {
+        "hospital": "Shafique Hospital, Pabna",
+        "address": "Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna",
+        "visitingTime": "3pm to 9pm (Sunday & Tuesday)",
+        "appointmentNumber": "+8801701654390Call Now"
+      }
+    },
+    {
+      "name": "Dr. Istajul Khan",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), D-CARD, FACP (USA), MRCP (Medicine)",
+      "specialty": "Interventional Cardiologist & Medicine Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Istajul Khan is a Medicine Specialist in Pabna. His qualification is MBBS, BCS (Health), FCPS (Medicine), D-CARD, FACP (USA), MRCP (Medicine). He is a Consultant, Department of Medicine at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Shafique Hospital, Pabna. Practicing hour of Dr. Istajul Khan at Shafique Hospital, Pabna is 4pm to 8pm (Only Friday).",
+      "chamber": {
+        "hospital": "Shafique Hospital, Pabna",
+        "address": "Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna",
+        "visitingTime": "4pm to 8pm (Only Friday)",
+        "appointmentNumber": "+8801701654390Call Now"
+      }
+    },
+    {
+      "name": "Dr. K.M. Salauddin (Ovi)",
+      "degree": "MBBS (Raj), BCS (Health), PGT (Medicine, Skin & Sex, Mental Diseases)",
+      "specialty": "Medicine Physician",
+      "workplace": "250 Bedded General Hospital, Pabna",
+      "info": "Dr. K.M. Salauddin (Ovi) is a Medicine Specialist in Pabna. His qualification is MBBS (Raj), BCS (Health), PGT (Medicine, Skin & Sex, Mental Diseases). He is a Assistant Registrar (Medicine) at 250 Bedded General Hospital, Pabna. He regularly provides treatment to his patients at Shafique Hospital, Pabna. Practicing hour of Dr. K.M. Salauddin (Ovi) at Shafique Hospital, Pabna is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Shafique Hospital, Pabna",
+        "address": "Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801701654390Call Now"
+      }
+    }
+  ]
+}

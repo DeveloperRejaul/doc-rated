@@ -1,0 +1,82 @@
+{
+  "doctor": [
+    {
+      "name": "Prof. Dr. Habibur Rahman",
+      "degree": "MBBS, FCPS (Pediatrics), MD (Pediatrics Nephrology)",
+      "specialty": "Child & Child Kidney Diseases Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. Habibur Rahman is a Pediatric Nephrologist in Dhaka. His qualification is MBBS, FCPS (Pediatrics), MD (Pediatrics Nephrology). He is a Professor, Pediatric Nephrology at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Central Hospital, Dhanmondi. Practicing hour of Prof. Dr. Habibur Rahman at Central Hospital, Dhanmondi is 4pm to 8.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Central Hospital, Dhanmondi",
+        "address": "House # 02, Road # 05, Green Road, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "4pm to 8.30pm (Closed: Friday)",
+        "appointmentNumber": "+8802-41060800Call Now"
+      }
+    },
+    {
+      "name": "Dr. Syed Saimul Haque",
+      "degree": "MBBS, MD (Child Kidney), Clinical Fellow (Child Kidney Diseases)",
+      "specialty": "Child Kidney Diseases Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Syed Saimul Haque is a Pediatric Nephrologist in Dhaka. His qualification is MBBS, MD (Child Kidney), Clinical Fellow (Child Kidney Diseases). He is a Associate Professor, Pediatric Nephrology at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Labaid Specialized Hospital, Dhanmondi. Practicing hour of Dr. Syed Saimul Haque at Labaid Specialized Hospital, Dhanmondi is 6pm to 9pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Dhanmondi",
+        "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "6pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "10606Call Now"
+      }
+    },
+    {
+      "name": "Dr. Abdullah Al Mamun",
+      "degree": "MBBS, MD (Pediatric Nephrology), Fellow - ISPD (Bangalore, India)",
+      "specialty": "Child Kidney Diseases Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Abdullah Al Mamun is a Pediatric Nephrologist in Dhaka. His qualification is MBBS, MD (Pediatric Nephrology), Fellow - ISPD (Bangalore, India). He is a Assistant Professor, Pediatric Nephrology at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at BRB Hospital, Dhaka. Practicing hour of Dr. Abdullah Al Mamun at BRB Hospital, Dhaka is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "BRB Hospital, Dhaka",
+        "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801777764800Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Afroza Begum",
+      "degree": "MBBS (DU), FCPS (Child), MD (Child Kidney), FRCP (UK), WHO Fellow (AIIMS, Delhi)",
+      "specialty": "Child & Child Kidney Diseases Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. Afroza Begum is a Pediatric Nephrologist in Dhaka. Her qualification is MBBS (DU), FCPS (Child), MD (Child Kidney), FRCP (UK), WHO Fellow (AIIMS, Delhi). She is a Chairman, Dept. of Pediatric Nephrology at Bangabandhu Sheikh Mujib Medical University Hospital. She regularly provides treatment to her patients at Monowara Hospital (Pvt) Ltd.. Practicing hour of Prof. Dr. Afroza Begum at Monowara Hospital (Pvt) Ltd. is 5pm to 8pm (Sunday to Saturday) (Except National Holidays).",
+      "chamber": {
+        "hospital": "Monowara Hospital (Pvt) Ltd.",
+        "address": "54, Siddeshwari Road, Dhaka-1217, Bangladesh",
+        "visitingTime": "5pm to 8pm (Sunday to Saturday) (Except National Holidays)",
+        "appointmentNumber": "+8801789446240Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Golam Muin Uddin",
+      "degree": "MBBS, FCPS (Pediatrics), FRCP (Edinburgh, UK)",
+      "specialty": "Child Diseases Specialist & Pediatric Nephrologist/Child Kidney Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. Golam Muin Uddin is a Pediatric Nephrologist in Dhaka. His qualification is MBBS, FCPS (Pediatrics), FRCP (Edinburgh, UK). He is a Ex. Chairman & Professor, Pediatric Nephrology at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Anwer Khan Modern Diagnostic Centre, Banani. Practicing hour of Prof. Dr. Golam Muin Uddin at Anwer Khan Modern Diagnostic Centre, Banani is 10am to 12pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Anwer Khan Modern Diagnostic Centre, Banani",
+        "address": "Plot: 11, Road: 11, Block: G, Flat: 1/A (1st & 2nd Floor), Banani, Dhaka",
+        "visitingTime": "10am to 12pm (Closed: Friday)",
+        "appointmentNumber": "+8801705407170Call Now"
+      }
+    },
+    {
+      "name": "Dr. Tarannum Khondaker",
+      "degree": "MBBS, MCPS (Paediatrics), FCPS (Paediatrics), FCPS (Paediatric Nephrology), IPNA Fellow (Bangalore, India)",
+      "specialty": "Child & Child Kidney Diseases Specialist",
+      "workplace": "Bangladesh Shishu Hospital & Institute",
+      "info": "Dr. Tarannum Khondaker is a Pediatric Nephrologist in Dhaka. Her qualification is MBBS, MCPS (Paediatrics), FCPS (Paediatrics), FCPS (Paediatric Nephrology), IPNA Fellow (Bangalore, India). She is a Associate Professor, Paediatric Nephrology Department at Bangladesh Shishu Hospital & Institute. She regularly provides treatment to her patients at SIBL Foundation Hospital & Diagnostic Center. Practicing hour of Dr. Tarannum Khondaker at SIBL Foundation Hospital & Diagnostic Center is 5pm to 8pm (Sat, Mon, Tues, Wed).",
+      "chamber": {
+        "hospital": "SIBL Foundation Hospital & Diagnostic Center",
+        "address": "Fattah Plaza, 70, Green Road, Panthapath, Dhaka - 1205",
+        "visitingTime": "5pm to 8pm (Sat, Mon, Tues, Wed)",
+        "appointmentNumber": "+8801958339339Call Now"
+      }
+    }
+  ]
+}

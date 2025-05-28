@@ -1,0 +1,381 @@
+{
+  "doctor": [
+    {
+      "name": "Brigadier General Prof. Dr. Md. Shirajul Islam Khan",
+      "degree": "MBBS, FCPS (SKIN & SEX), MCPS, DDV, FRCP (UK), MACP (USA)",
+      "specialty": "Skin, Allergy, Cosmetic, Laser & Sexual Diseases Specialist",
+      "workplace": "Combined Military Hospital (CMH), Dhaka,Armed Forces Medical College (AFMC), Dhaka",
+      "info": "Aalok Healthcare & Hospital, Mirpur 10\nAddress: House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka\nVisiting Hour: 4pm to 6pm (Sun, Tue & Thu), 9am to 12pm (Friday)\nAppointment: +8801769040824\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Dhanmondi",
+        "address": "Room # 603, Building # 6, House # 16, Road # 2, Dhanmondi R/A, Dhaka",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801769040824Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. M.N. Huda",
+      "degree": "MBBS (DMC), DDV (DU), FCPS (Skin & Sex)",
+      "specialty": "Expert Dermatologist, Sexologist & Venereologist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Banglamotor Chamber\nAddress: Nurjahan Tower, 2 Link Road, Banglamotor, Dhaka\nVisiting Hour: 4pm to 10pm (Sat, Mon & Wed)\nAppointment: +8801915848333\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
+        "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
+        "visitingTime": "9am to 12pm & 4.30pm to 10pm (Sun & Tue)",
+        "appointmentNumber": "+8809666787805Call Now"
+      }
+    },
+    {
+      "name": "Prof. Lt. Col. Dr. Md. Abdul Wahab",
+      "degree": "MBBS, DDV, MCPS, FACP (USA), FCPS (Dermatology), FRCP (UK), Higher Training (Thailand)",
+      "specialty": "Skin, Allergy, Leprosy & Sexual Diseases Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Aalok Healthcare & Hospital, Mirpur 10\nAddress: House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka\nVisiting Hour: 4pm to 6pm (Sat, Mon & Wed)\nAppointment: +8801915448491\nCall Now",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Dhanmondi",
+        "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "3.30pm to 8.30pm (Sun, Tue & Thu)",
+        "appointmentNumber": "10606Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. M. U. Kabir Chowdhury",
+      "degree": "MBBS, DDV (Vienna), AFICA (USA), FRCP (Glasgow)",
+      "specialty": "Skin, Allergy & Sexual Diseases Specialist",
+      "workplace": "Holy Family Red Crescent Medical College & Hospital",
+      "info": "Prof. Dr. M. U. Kabir Chowdhury is a Dermatologist in Dhaka. His qualification is MBBS, DDV (Vienna), AFICA (USA), FRCP (Glasgow). He is a Professor, Dermatology & Venereology at Holy Family Red Crescent Medical College & Hospital. He regularly provides treatment to his patients at National Skin Center, Dhaka. Practicing hour of Prof. Dr. M. U. Kabir Chowdhury at National Skin Center, Dhaka is 8am to 8pm (Everyday).",
+      "chamber": {
+        "hospital": "National Skin Center, Dhaka",
+        "address": "57/E (Near Samorita Hospital), Panthapath, Dhaka",
+        "visitingTime": "8am to 8pm (Everyday)",
+        "appointmentNumber": "+88029103130Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. M Mujibul Hoque",
+      "degree": "MBBS, FCPS, FRCP, DDV (DU), DDV (Austria)",
+      "specialty": "Skin, Allergy, Leprosy, Hair & Sexual Diseases Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Prof. Dr. M Mujibul Hoque is a Skin Specialist in Dhaka. His qualification is MBBS, FCPS, FRCP, DDV (DU), DDV (Austria). He is a Former Professor & Head, Dermatology & Venerology at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Dhanmondi. Practicing hour of Prof. Dr. M Mujibul Hoque at Popular Diagnostic Center, Dhanmondi is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Dhanmondi",
+        "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787801Call Now"
+      }
+    },
+    {
+      "name": "Dr. Yasmin Joardar",
+      "degree": "MBBS (DU), DDV (DMC)",
+      "specialty": "Skin, Allergy, Leprosy, Hair, Sex & Child Skin Diseases Specialist",
+      "workplace": "Dr. MR Khan Shishu hospital & Institute of Child Health",
+      "info": "Dr. Yasmin Joardar is a Dermatologist in Dhaka. Her qualification is MBBS (DU), DDV (DMC). She is a Associate Professor, Dermatology & Venereology at Dr. MR Khan Shishu hospital & Institute of Child Health. She regularly provides treatment to her patients at Ibn Sina Diagnostic Center, Dhanmondi. Practicing hour of Dr. Yasmin Joardar at Ibn Sina Diagnostic Center, Dhanmondi is 3.30pm to 5.30pm (Sun, Tue & Thu).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
+        "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+        "visitingTime": "3.30pm to 5.30pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8809610010615Call Now"
+      }
+    },
+    {
+      "name": "Dr. ABM Khalekuzzaman Shipon",
+      "degree": "MBBS, PGT (SKIN & VD), FRSH (London), Training (Dermato & Cosmetic Surgery)",
+      "specialty": "Skin, Sexual Diseases, Allergy, Hair Specialist & Cosmetic Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Pabna Shishu Hospital & Mattriseba\nAddress: Meril Bypass Road, Shalgaria, Pabna – 6600\nVisiting Hour: 9am to 3pm (Only Friday)\nAppointment: +8801777939898\nCall Now",
+      "chamber": {
+        "hospital": "Laser Chain & Skin Center",
+        "address": "Hussain Plaza, House # 01, Road # 15, Mirpur Road, Dhanmondi, Dhaka",
+        "visitingTime": "4pm to 7pm (Saturday, Monday & Wednesday)",
+        "appointmentNumber": "+8801777939898Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Mir Nazrul Islam",
+      "degree": "MBBS, DDS (Wels), MSC (UK), FRCP (Glasgow), FRCP (Edin)",
+      "specialty": "Skin, Allergy, Leprosy, Sexual Diseases Specialist & Laser Surgeon",
+      "workplace": "Birdem General Hospital & Ibrahim Medical College",
+      "info": "Prof. Dr. Mir Nazrul Islam is a Dermatologist in Dhaka. His qualification is MBBS, DDS (Wels), MSC (UK), FRCP (Glasgow), FRCP (Edin). He is a Professor, Dermatology & Venereology at Birdem General Hospital & Ibrahim Medical College. He regularly provides treatment to his patients at Labaid Specialized Hospital, Dhanmondi. Practicing hour of Prof. Dr. Mir Nazrul Islam at Labaid Specialized Hospital, Dhanmondi is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Dhanmondi",
+        "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "10606Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Saiful Islam Bhuiyan",
+      "degree": "MBBS, MD (Dermatology)",
+      "specialty": "Skin, Allergy, Leprosy & Sex Diseases Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Md. Saiful Islam Bhuiyan is a Skin Specialist in Dhaka. His qualification is MBBS, MD (Dermatology). He is a Associate Professor, Dermatology & Venereology at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Shantinagar. Practicing hour of Dr. Md. Saiful Islam Bhuiyan at Popular Diagnostic Center, Shantinagar is 3:30pm to 7pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Shantinagar",
+        "address": "Unit # 02, House # 15, Shantinagar, Motijheel, Dhaka",
+        "visitingTime": "3:30pm to 7pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809666787803Call Now"
+      }
+    },
+    {
+      "name": "Dr. Isabela Kabir",
+      "degree": "MBBS, MCPS, FCPS (Skin & VD)",
+      "specialty": "Skin, Allergy, Leprosy, Sexual Diseases Specialist",
+      "workplace": "Labaid Specialized Hospital, Dhanmondi",
+      "info": "Dr. Isabela Kabir is a Dermatologist in Dhaka. Her qualification is MBBS, MCPS, FCPS (Skin & VD). She is working as a Skin, Allergy, Leprosy, Sexual Diseases Specialist doctor in Labaid Specialized Hospital, Dhanmondi. She regularly provides treatment to her patients at Labaid Specialized Hospital, Dhanmondi. Practicing hour of Dr. Isabela Kabir at Labaid Specialized Hospital, Dhanmondi is 9am to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Dhanmondi",
+        "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "9am to 6pm (Closed: Friday)",
+        "appointmentNumber": "10606Call Now"
+      }
+    },
+    {
+      "name": "Dr. Lubna Khondker",
+      "degree": "MBBS, MPH, DDV (BSMMU), MCPS, FCPS (Dermatology & Venereology)",
+      "specialty": "Skin, Hair, Nail, STDs, Cosmetology, Dermatosurgery & Laser Treatment Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Aalok Healthcare & Hospital, Mirpur 10\nAddress: House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka\nVisiting Hour: 5.30pm to 7.30pm (Closed: Friday)\nAppointment: +8801919224895\nCall Now",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Mirpur",
+        "address": "Plot # 9, House # 06, Block # B, Section # 01, Mirpur 1, Dhaka",
+        "visitingTime": "8pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662888Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Md. Moazzem Hossain",
+      "degree": "MBBS, DDV (DU), Fellow (WHO), FRSH (UK)",
+      "specialty": "Skin, Allergy, Hair, Nail, Sexual Diseases Specialist & Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Popular Diagnostic Center, RajshahiAddress: House # 474, Chowdhury Tower, Laxmipur, RajshahiVisiting Hour: 10am to 6pm (Only Thursday)Appointment: +8809666787811Call Now",
+      "chamber": {
+        "hospital": "Japan Bangladesh Friendship Hospital",
+        "address": "55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi - 1209",
+        "visitingTime": "4pm to 6pm (Sat to Thu), 9am to 11am (Fri)",
+        "appointmentNumber": "+8801791-652450Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Col. Md. Obaidur Rahman Shah",
+      "degree": "MBBS, DDV, FCPS (Skin & Sex), FRCP (UK), Laser Training (USA)",
+      "specialty": "Skin & Sexual Diseases Specialist",
+      "workplace": "International Medical College & Hospital, Gazipur",
+      "info": "Popular Diagnostic Center, NarayanganjAddress: 231/4, Bangabandhu Road, Chashara, Narayanganj – 1400Visiting Hour: 8am to 2pm (Sat, Mon & Wed)Appointment: +8809666787804Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mirpur",
+        "address": "Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka",
+        "visitingTime": "6pm to 10pm (Everyday)",
+        "appointmentNumber": "+8809666787807Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mohammad Jamal Uddin",
+      "degree": "MBBS, MD (Dermatology)",
+      "specialty": "Skin, Leprosy, Allergy & Sexual Diseases Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Mohammad Jamal Uddin is a Dermatologist in Dhaka. His qualification is MBBS, MD (Dermatology). He is a Associate Professor, Dermatology & Venereology at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Uttara (Unit 01). Practicing hour of Dr. Mohammad Jamal Uddin at Labaid Diagnostic, Uttara (Unit 01) is 5pm to 8.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Uttara (Unit 01)",
+        "address": "House # 15, Road # 12, Sector # 06, Uttara, Dhaka",
+        "visitingTime": "5pm to 8.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662606Call Now"
+      }
+    },
+    {
+      "name": "Dr. Fahmida Zebin",
+      "degree": "MBBS, BCS (Health)",
+      "specialty": "Skin, Allergy, Leprosy, Hair & Sexual Diseases Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Fahmida Zebin is a Skin Specialist in Savar. Her qualification is MBBS, BCS (Health). She is a Medical Officer, Dermatology & Venereology at Dhaka Medical College & Hospital. She regularly provides treatment to her patients at Ibn Sina Diagnostic Center, Savar. Practicing hour of Dr. Fahmida Zebin at Ibn Sina Diagnostic Center, Savar is 4pm to 7pm (Sun, Tue & Wed) & 10am to 1pm (Fri).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Savar",
+        "address": "31/6 Jaleshwar, Aricha Road, Savar, Dhaka - 1340",
+        "visitingTime": "4pm to 7pm (Sun, Tue & Wed) & 10am to 1pm (Fri)",
+        "appointmentNumber": "+88 09610009613Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. (Col) Quazi Salim Yazdi",
+      "degree": "MBBS, DDV, MCPS, FCPS",
+      "specialty": "Skin, Allergy, Leprosy & Sexual Diseases Specialist",
+      "workplace": "Combined Military Hospital (CMH), Dhaka",
+      "info": "Prof. Dr. (Col) Quazi Salim Yazdi is a Dermatologist in Dhaka. His qualification is MBBS, DDV, MCPS, FCPS, Trained in Cosmetic and Laser Surgery (Thailand). He is a Senior Classified Dermatologist, Skin Department at Combined Military Hospital (CMH), Dhaka. He regularly provides treatment to his patients at Popular Diagnostic Center, Mirpur. Practicing hour of Prof. Dr. (Col) Quazi Salim Yazdi at Popular Diagnostic Center, Mirpur is 4:30pm to 10pm (Everyday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mirpur",
+        "address": "Unit 02, House # 02, Block # A, Section # 10, Mirpur, Dhaka",
+        "visitingTime": "4:30pm to 10pm (Everyday)",
+        "appointmentNumber": "+8809666-787807Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mosharraf Ahmed Khasru",
+      "degree": "MBBS, Diploma in Dermatology (Thailand & Japan)",
+      "specialty": "Skin, Sex Diseases & Allergy Specialist",
+      "workplace": "Asgar Ali Hospital, Dhaka",
+      "info": "Dr. Mosharraf Ahmed Khasru is a Dermatologist in Dhaka. His qualification is MBBS, Diploma in Dermatology (Thailand & Japan). He is a Consultant, Dermatology & Venereology at Asgar Ali Hospital, Dhaka. He regularly provides treatment to his patients at Asgar Ali Hospital, Dhaka. Practicing hour of Dr. Mosharraf Ahmed Khasru at Asgar Ali Hospital, Dhaka is 9.30am to 5pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Asgar Ali Hospital, Dhaka",
+        "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
+        "visitingTime": "9.30am to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8801787683333Call Now"
+      }
+    },
+    {
+      "name": "Brig. Gen. Prof. Dr. Nurul Amin",
+      "degree": "MBBS, MD (Dermatology), FCPS, FRCP (Glasgow), FAAD (USA), DDV (DU), DD (Thailand)",
+      "specialty": "Skin & STD, Leprosy & Cosmotology Specialist",
+      "workplace": "Armed Forces Medical College, Dhaka",
+      "info": "Brig. Gen. Prof. Dr. Nurul Amin is a Dermatologist in Bangladesh. His qualification is MBBS, MD (Dermatology), FCPS, FRCP (Glasgow), FAAD (USA), DDV (DU), DD (Thailand). He is a Professor & Head (Ex), Dermatology & Venereology at Armed Forces Medical College, Dhaka. He regularly provides treatment to his patients at Islami Bank Hospital, Mirpur. Practicing hour of Brig. Gen. Prof. Dr. Nurul Amin at Islami Bank Hospital, Mirpur is 10.30am to 12.30pm (Sun, Tue & Thu).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Mirpur",
+        "address": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
+        "visitingTime": "10.30am to 12.30pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801992346632Call Now"
+      }
+    },
+    {
+      "name": "Dr. Yasmin Joarder",
+      "degree": "MBBS, DDV (DMC)",
+      "specialty": "Skin, Allergy, Hair, Nail & Sexual Diseases Specialist",
+      "workplace": "Ad-din Barrister Rafique-ul Huq Hospital",
+      "info": "Dr. Yasmin Joarder is a Skin Specialist in Dhaka. Her qualification is MBBS, DDV (DMC). She is a Consultant, Dermatology & Venereology at Ad-din Barrister Rafique-ul Huq Hospital. She regularly provides treatment to her patients at Islami Bank Central Hospital, Kakrail. Practicing hour of Dr. Yasmin Joarder at Islami Bank Central Hospital, Kakrail is 3pm to 4pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Central Hospital, Kakrail",
+        "address": "30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000",
+        "visitingTime": "3pm to 4pm (Closed: Friday)",
+        "appointmentNumber": "+8801810000116Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Md. Rokon Uddin",
+      "degree": "MBBS (DMC), DDV (BSMMU)",
+      "specialty": "Allergy, Skin & Sexual Medicine Specialist",
+      "workplace": "Bangladesh Specialized Hospital",
+      "info": "Prof. Dr. Md. Rokon Uddin is a Dermatologist in Dhaka. His qualification is MBBS (DMC), DDV (BSMMU). He is a Consultant, Dermatology & Venereology at Bangladesh Specialized Hospital. He regularly provides treatment to his patients at Bangladesh Specialized Hospital. Practicing hour of Prof. Dr. Md. Rokon Uddin at Bangladesh Specialized Hospital is 3pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Bangladesh Specialized Hospital",
+        "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
+        "visitingTime": "3pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666700100Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Abdal Miah",
+      "degree": "MBBS, DDV, MD (Skin & Sex), MMEd, Gold Medalist",
+      "specialty": "Skin & Sexual Diseases Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Md. Abdal Miah is a Dermatologist in Dhaka. His qualification is MBBS, DDV, MD (Skin & Sex), MMEd, Gold Medalist. He is working as a Skin & Sexual Diseases Specialist doctor in Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Khidmah Hospital, Dhaka. Practicing hour of Dr. Md. Abdal Miah at Khidmah Hospital, Dhaka is 6pm to 9pm (Sat, Sun, Mon & Wednesday).",
+      "chamber": {
+        "hospital": "Khidmah Hospital, Dhaka",
+        "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
+        "visitingTime": "6pm to 9pm (Sat, Sun, Mon & Wednesday)",
+        "appointmentNumber": "+8809606063030Call Now"
+      }
+    },
+    {
+      "name": "Dr. Monira Yeasmin",
+      "degree": "MBBS, FCPS (Dermatology & Venereology)",
+      "specialty": "Skin & Sexual Diseases Specialist",
+      "workplace": "Anwer Khan Modern Medical College & Hospital",
+      "info": "Dr. Monira Yeasmin is a Skin Specialist in Dhaka. Her qualification is MBBS, FCPS (Dermatology & Venereology). She is a Associate Professor, Dermatology & Venereology at Anwer Khan Modern Medical College & Hospital. She regularly provides treatment to her patients at Anwer Khan Modern Medical College Hospital. Practicing hour of Dr. Monira Yeasmin at Anwer Khan Modern Medical College Hospital is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Anwer Khan Modern Medical College Hospital",
+        "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+88Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Nurul Alam (Sumon)",
+      "degree": "MBBS (DMC), FCPS (SKIN & VD), MCPS (Skin & VD)",
+      "specialty": "Skin, Sexual Diseases Specialist, Clinical & Interventional Dermatologist",
+      "workplace": "Nightingale Medical College Hosptial",
+      "info": "Dr. Md. Nurul Alam (Sumon) is a Skin Specialist in Dhaka. His qualification is MBBS (DMC), FCPS (SKIN & VD), MCPS (Skin & VD). He is a Assistant Professor, Dermatology & Venereology at Nightingale Medical College Hosptial. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Uttara. Practicing hour of Dr. Md. Nurul Alam (Sumon) at Ibn Sina Diagnostic Center, Uttara is 6.30pm to 9pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Uttara",
+        "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
+        "visitingTime": "6.30pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809610009612Call Now"
+      }
+    },
+    {
+      "name": "Dr. Rehnuma Nasim",
+      "degree": "MBBS, BCS (Health), MD (Dermatology, BSMMU)",
+      "specialty": "Skin, Allergy & Sexual Disease Specialist",
+      "workplace": "National Institute of Cancer Research & Hospital",
+      "info": "Dr. Rehnuma Nasim is a Dermatologist in Dhaka. Her qualification is MBBS, BCS (Health), MD (Dermatology, BSMMU). She is a Registrar, Hematology at National Institute of Cancer Research & Hospital. She regularly provides treatment to her patients at Islami Bank Specialized & General Hospital, Nayapaltan. Practicing hour of Dr. Rehnuma Nasim at Islami Bank Specialized & General Hospital, Nayapaltan is 6pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Specialized & General Hospital, Nayapaltan",
+        "address": "71-72, VIP Road, Nayapaltan, Dhaka",
+        "visitingTime": "6pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801977552283Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Nazmul Haque Sarker",
+      "degree": "MBBS, DDV, MCPS (Skin & STD)",
+      "specialty": "Skin & Sexual Diseases Specialist",
+      "workplace": "Shaheed Monsur Ali Medical College & Hospital",
+      "info": "Dr. Md. Nazmul Haque Sarker is a Skin Doctor in Dhaka. His qualification is MBBS, DDV, MCPS (Skin & STD). He is working as a Skin & Sexual Diseases Specialist doctor in Shaheed Monsur Ali Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Uttara (Jasimuddin). Practicing hour of Dr. Md. Nazmul Haque Sarker at Popular Diagnostic Center, Uttara (Jasimuddin) is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
+        "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787805Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mahmud Chowdhury",
+      "degree": "MBBS, DDV, MCPS (Dermatology & Venereology), FCPS (Skin & Sex)",
+      "specialty": "Skin, Allergy, Sex & Laser Surgery Specialist",
+      "workplace": "Bangladesh Specialized Hospital",
+      "info": "Dr. Mahmud Chowdhury is a Skin Specialist in Dhaka. His qualification is MBBS, DDV, MCPS (Dermatology & Venereology), FCPS (Skin & Sex). He is working as a Skin, Allergy, Sex & Laser Surgery Specialist doctor in Bangladesh Specialized Hospital. He regularly provides treatment to his patients at Bangladesh Specialized Hospital. Practicing hour of Dr. Mahmud Chowdhury at Bangladesh Specialized Hospital is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Bangladesh Specialized Hospital",
+        "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8809666700100Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Nasiruddin Molla Bulbul",
+      "degree": "MBBS (DU), MCPS (Dermatology), DDV (BSMMU)",
+      "specialty": "Skin, Hair & Sexual Diseases Specialist",
+      "workplace": "Islami Bank Hospital, Mugda",
+      "info": "Dr. Md. Nasiruddin Molla Bulbul is a Dermatologist in Dhaka. His qualification is MBBS (DU), MCPS (Dermatology), DDV (BSMMU). He is a Consultant, Dermatology & Venereology at Islami Bank Hospital, Mugda. He regularly provides treatment to his patients at Islami Bank Hospital, Mugda. Practicing hour of Dr. Md. Nasiruddin Molla Bulbul at Islami Bank Hospital, Mugda is 10am to 12.30pm & 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Mugda",
+        "address": "1/24/B, Kamalapur Manda Road, South Mugdapara, Dhaka",
+        "visitingTime": "10am to 12.30pm & 6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801724008677Call Now"
+      }
+    },
+    {
+      "name": "Dr. AKM Zayedul Haque",
+      "degree": "MBBS, MD (DERMATOLOGY), CCD (BIRDEM)",
+      "specialty": "Skin & Sexual Diseases Specialist",
+      "workplace": "Sheikh Hasina Medical College Hospital, Tangail",
+      "info": "Dr. AKM Zayedul Haque is a Dermatologist in Dhaka. His qualification is MBBS, MD (DERMATOLOGY), CCD (BIRDEM). He is a Assistant Professor, Dermatology & Venereology at Sheikh Hasina Medical College Hospital, Tangail. He regularly provides treatment to his patients at Savar Prime Hospital. Practicing hour of Dr. AKM Zayedul Haque at Savar Prime Hospital is 4pm to 7pm (Sun, Tue, Thu & Fri).",
+      "chamber": {
+        "hospital": "Savar Prime Hospital",
+        "address": "A-89, Thana Road, Talbagh, Savar, Dhaka - 1340",
+        "visitingTime": "4pm to 7pm (Sun, Tue, Thu & Fri)",
+        "appointmentNumber": "+8801752561542Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Shahinur Rahman",
+      "degree": "MBBS, DDV",
+      "specialty": "Skin, Allergy & Sexual Diseases Specialist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Dr. Md. Shahinur Rahman is a Dermatologist in Dhaka. His qualification is MBBS, DDV. He is a Assistant Professor, Dermatology & Venereology at Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at Al-Manar Hospital Limited. Practicing hour of Dr. Md. Shahinur Rahman at Al-Manar Hospital Limited is 11am to 1pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Al-Manar Hospital Limited",
+        "address": "Plot # Umo, Block # Rossoi, Satmosjid Road, Dhaka",
+        "visitingTime": "11am to 1pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801550020885Call Now"
+      }
+    }
+  ]
+}

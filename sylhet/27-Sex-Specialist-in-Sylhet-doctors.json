@@ -1,0 +1,173 @@
+{
+  "doctor": [
+    {
+      "name": "Prof. Dr. Shamima Akhter",
+      "degree": "MBBS, DDV, FCPS (Skin & Sex)",
+      "specialty": "Skin, Allergy, Leprosy, Sexual Diseases Specialist & Surgeon",
+      "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+      "info": "Prof. Dr. Shamima Akhter is a Skin & Sexual Diseases Specialist in Sylhet. Her qualification is MBBS, DDV, FCPS (Skin & Sex). She is a Professor & Head, Dermatology & Venereology at Jalalabad Ragib-Rabeya Medical College & Hospital. She regularly provides treatment to her patients at Trust Medical Services, Sylhet. Practicing hour of Prof. Dr. Shamima Akhter at Trust Medical Services, Sylhet is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Trust Medical Services, Sylhet",
+        "address": "16, Modhushahid, New Medical Road, Sylhet - 3100",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801714529195Call Now"
+      }
+    },
+    {
+      "name": "Dr. Afroza Rashid Nipa",
+      "degree": "MBBS, MPH, DDV",
+      "specialty": "Skin, STD, Allergy, Leprosy Specialist & Cosmetic Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Afroza Rashid Nipa is a Dermatologist in Sylhet. Her qualification is MBBS, MPH, DDV. She is a Assistant Professor, Dermatology & Venereology at Sylhet MAG Osmani Medical College & Hospital. She regularly provides treatment to her patients at Popular Medical Center, Sylhet. Practicing hour of Dr. Afroza Rashid Nipa at Popular Medical Center, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801793591620Call Now"
+      }
+    },
+    {
+      "name": "Dr. Parimal Kumar Sen",
+      "degree": "MBBS (DMC), BCS (Health), DDV, FCPS (Skin & Sex)",
+      "specialty": "Skin, Allergy & Sex Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Parimal Kumar Sen is a Dermatologist in Sylhet. His qualification is MBBS (DMC), BCS (Health), DDV, FCPS (Skin & Sex). He is a Consultant, Dermatology & Venereology at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Popular Medical Center, Sylhet. Practicing hour of Dr. Parimal Kumar Sen at Popular Medical Center, Sylhet is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801752234520Call Now"
+      }
+    },
+    {
+      "name": "Dr. Saleh Ahmed Saheen",
+      "degree": "MBBS, BCS (Health), MD (Dermatology), Higher Training (Germany)",
+      "specialty": "Skin, Sex, Allergy & Laser Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Labaid Diagnostic Limited, Sylhet\nAddress: House # 362-363, New Medical Road, Kajol Shah, Sylhet\nVisiting Hour: 7.30pm to 9.30pm (Closed: Friday)\nAppointment: +8801766662727\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Hospital, Sylhet",
+        "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809610009640Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Tawhidul Islam Imdad",
+      "degree": "MBBS, DDV, FCPS (Dermatology)",
+      "specialty": "Skin, Allergy, Sex, Aesthetic Laser Specialist & Cosmetic Dermatosurgeon",
+      "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+      "info": "Dr. Md. Tawhidul Islam Imdad is a Dermatologist in Sylhet. His qualification is MBBS, DDV, FCPS (Dermatology). He is a Associate Professor, Dermatology & Venereology at Jalalabad Ragib-Rabeya Medical College & Hospital. He regularly provides treatment to his patients at Popular Medical Center, Sylhet. Practicing hour of Dr. Md. Tawhidul Islam Imdad at Popular Medical Center, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801731255222Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Shahriar Hussain Chowdhury",
+      "degree": "MBBS, DDS",
+      "specialty": "Skin, Allergy, Leprosy, STD & Sexual Diseases Specialist",
+      "workplace": "North East Medical College & Hospital",
+      "info": "Prof. Dr. Shahriar Hussain Chowdhury is a Dermatologist in Sylhet. His qualification is MBBS, DDS. He is a Professor, Dermatology & Venereology at North East Medical College & Hospital. He regularly provides treatment to his patients at North East Medical College & Hospital. Practicing hour of Prof. Dr. Shahriar Hussain Chowdhury at North East Medical College & Hospital is 10am to 1.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "North East Medical College & Hospital",
+        "address": "Gohorpur Road, South Surma, Sylhet - 3100",
+        "visitingTime": "10am to 1.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801715944733Call Now"
+      }
+    },
+    {
+      "name": "Dr. Parveen Afroz Chowdhury",
+      "degree": "MBBS (DU), DDV (SUST)",
+      "specialty": "Skin, Sexual Diseases Specialist & Dermatosurgeon",
+      "workplace": "Sylhet Womens Medical College & Hospital",
+      "info": "Dr. Parveen Afroz Chowdhury is a Skin Specialist in Sylhet. Her qualification is MBBS (DU), DDV (SUST). She is a Assistant Professor, Dermatology & Venereology at Sylhet Womens Medical College & Hospital. She regularly provides treatment to her patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Dr. Parveen Afroz Chowdhury at Mount Adora Hospital, Akhalia, Sylhet is 5pm to 8pm (Sun, Tue & Thursday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Sun, Tue & Thursday)",
+        "appointmentNumber": "+8801675405295Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Rukon Uddin Ahmed",
+      "degree": "MBBS (CU), DDV (BSMMU)",
+      "specialty": "Skin, Allergy, Leprosy, STD & Sexual Diseases Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Prof. Dr. Rukon Uddin Ahmed is a Dermatologist in Sylhet. His qualification is MBBS (CU), DDV (BSMMU). He is a Former Professor, Dermatology & Venereology at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Trust Medical Services, Sylhet. Practicing hour of Prof. Dr. Rukon Uddin Ahmed at Trust Medical Services, Sylhet is 5.30pm to 8pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Trust Medical Services, Sylhet",
+        "address": "16, Modhushahid, New Medical Road, Sylhet - 3100",
+        "visitingTime": "5.30pm to 8pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801923664791Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Albabur Rahman",
+      "degree": "MBBS, DDV (BSMMU)",
+      "specialty": "Skin, Sex, Allergy, Leprosy Specialist & Dermato Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Ibn Sina Diagnostic Center, Sylhet\nAddress: Medical College Road, Rikabi Bazar Sylhet\nVisiting Hour: 3pm to 5pm (Closed: Thursday)\nAppointment: +8801708399305\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Hospital, Sylhet",
+        "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+        "visitingTime": "10am to 12pm (Closed: Friday)",
+        "appointmentNumber": "+8809610009640Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Mainul Islam Choudhury (Nanna)",
+      "degree": "MBBS (CU), BCS (Health), DDV (SUST)",
+      "specialty": "Skin, Sex, Allergy, Leprosy Specialist & Dermato Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Md. Mainul Islam Choudhury (Nanna) is a Dermatologist in Sylhet. His qualification is MBBS (CU), BCS (Health), DDV (SUST). He is a Assistant Professor, Dermatology & Venereology at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Dr. Md. Mainul Islam Choudhury (Nanna) at Mount Adora Hospital, Akhalia, Sylhet is 5:30pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "5:30pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801971453447Call Now"
+      }
+    },
+    {
+      "name": "Dr. (Major) Md. Moshiur Rahman",
+      "degree": "MBBS, DDV (BUP), FCPS (Dermatology)",
+      "specialty": "Skin, Sex, Allergy, Leprosy Specialist & Dermato Surgeon",
+      "workplace": "Combined Military Hospital, Sylhet",
+      "info": "Dr. (Major) Md. Moshiur Rahman is a Skin Specialist in Sylhet. His qualification is MBBS, DDV (BUP), FCPS (Dermatology). He is a Consultant, Dermatology & Venereology at Combined Military Hospital, Sylhet. He regularly provides treatment to his patients at Popular Medical Center & Hospital, Sylhet. Practicing hour of Dr. (Major) Md. Moshiur Rahman at Popular Medical Center & Hospital, Sylhet is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Medical Center & Hospital, Sylhet",
+        "address": "Subhanighat, Sylhet",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801773035138Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mahbubur Rashid",
+      "degree": "MBBS, DDV",
+      "specialty": "Skin, Allergy, Leprosy & Sexual Health Specialist",
+      "workplace": "North East Medical College & Hospital",
+      "info": "Dr. Mahbubur Rashid is a Dermatologist in Sylhet. His qualification is MBBS, DDV. He is a Associate Professor, Dermatology & Venereology at North East Medical College & Hospital. He regularly provides treatment to his patients at North East Medical College & Hospital. Practicing hour of Dr. Mahbubur Rashid at North East Medical College & Hospital is 10am to 1.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "North East Medical College & Hospital",
+        "address": "Gohorpur Road, South Surma, Sylhet - 3100",
+        "visitingTime": "10am to 1.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801715944733Call Now"
+      }
+    },
+    {
+      "name": "Dr. Arif Uddin Ahmed",
+      "degree": "MBBS, DDV",
+      "specialty": "Skin, Allergy & Sexual Diseases Specialist",
+      "workplace": "Sylhet Womens Medical College & Hospital",
+      "info": "Dr. Arif Uddin Ahmed is a Dermatologist in Sylhet. His qualification is MBBS, DDV. He is a Assistant Professor & Head, Dermatology & Venereology at Sylhet Womens Medical College & Hospital. He regularly provides treatment to his patients at Medi-Aid Diagnostic & Consultation Center. Practicing hour of Dr. Arif Uddin Ahmed at Medi-Aid Diagnostic & Consultation Center is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medi-Aid Diagnostic & Consultation Center",
+        "address": "Medical College Road, Modhushohid, Rikabi Bazar, Sylhet - 3100",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801711275902Call Now"
+      }
+    }
+  ]
+}

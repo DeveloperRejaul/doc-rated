@@ -1,0 +1,56 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Akhtari Hossain Chowdhury Nipa",
+      "degree": "MBBS, BCS (Health), DGO, MCPS (OBGYN), Training in Infertility (Malaysia)",
+      "specialty": "Gynecology, Infertility Specialist & Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Doctors Clinic, Bogura\nAddress: Unit 2, Thanthania, Sherpur Road, Bogura\nVisiting Hour: 7.30pm to 11.30pm (Sat to Thu) & 11.30am to 6pm (Fri)\nAppointment: +8801716106796\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "6pm to 9pm (Closed: Friday & Tuesday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "name": "Dr. Hasina Akhter Rekha",
+      "degree": "MBBS, BCS (Health), MS (OBGYN), FCPS (OBGYN)",
+      "specialty": "Gynecology, Infertility Specialist & Laparoscopic Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Hasina Akhter Rekha is a Gynecologist in Bogra. Her qualification is MBBS, BCS (Health), MS (OBGYN), FCPS (OBGYN). She is a Assistant Professor, Gynecology & Obstetrics at Shaheed Ziaur Rahman Medical College & Hospital. She regularly provides treatment to her patients at Ibn Sina Diagnostic & Consultation Center, Bogra. Practicing hour of Dr. Hasina Akhter Rekha at Ibn Sina Diagnostic & Consultation Center, Bogra is 4pm to 8pm (Sat to Thu) & 10am to 12pm (Fri).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
+        "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
+        "visitingTime": "4pm to 8pm (Sat to Thu) & 10am to 12pm (Fri)",
+        "appointmentNumber": "+8801701560011Call Now"
+      }
+    },
+    {
+      "name": "Dr. Taslima Abid Shapla",
+      "degree": "MBBS, BCS (Health), MCPS, FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Taslima Abid Shapla is a Gynecologist in Bogra. Her qualification is MBBS, BCS (Health), MCPS, FCPS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Shaheed Ziaur Rahman Medical College & Hospital. She regularly provides treatment to her patients at Ibn Sina Diagnostic & Consultation Center, Bogra. Practicing hour of Dr. Taslima Abid Shapla at Ibn Sina Diagnostic & Consultation Center, Bogra is 4pm to 8pm (Sat, Mon, Tue & Thu).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
+        "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
+        "visitingTime": "4pm to 8pm (Sat, Mon, Tue & Thu)",
+        "appointmentNumber": "+8801701560011Call Now"
+      }
+    },
+    {
+      "name": "Dr. Sharmin Akter Shampa",
+      "degree": "MBBS, FCPS (OBGYN)",
+      "specialty": "Gynecology, Infertility Specialist & Surgeon",
+      "workplace": "Popular Diagnostic Center, Bogra",
+      "info": "Dr. Sharmin Akter Shampa is a Gynecologist in Bogra. Her qualification is MBBS, FCPS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Popular Diagnostic Center, Bogra. She regularly provides treatment to her patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Sharmin Akter Shampa at Popular Diagnostic Center, Bogra is 12pm to 5pm (Mon, Tue, Wed & Thursday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "12pm to 5pm (Mon, Tue, Wed & Thursday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    }
+  ]
+}

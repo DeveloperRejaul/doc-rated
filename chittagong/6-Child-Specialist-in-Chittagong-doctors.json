@@ -1,0 +1,966 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Kamrunnahar Bhuiyan",
+      "degree": "MBBS, BCS (Health), DCH, FCPS (Pediatrics)",
+      "specialty": "Newborn & Child Diseases Specialist",
+      "workplace": "Chittagong Medical College & HospitalAppointment: 01810-004550",
+      "info": "Dr. Kamrunnahar Bhuiyan is a Child Specialist in Chittagong. Her qualification is MBBS, BCS (Health), DCH, FCPS (Pediatrics). She is a Consultant (Pediatrics) at Chittagong Medical College & Hospital. She regularly provides treatment to her patients at Asperia Health Care Ltd, Chittagong. Practicing hour of Dr. Kamrunnahar Bhuiyan at Asperia Health Care Ltd, Chittagong is 2.30pm to 5pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Asperia Health Care Ltd, Chittagong",
+        "address": "Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram",
+        "visitingTime": "2.30pm to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8801810004550Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Fazle Rabbi (Shihab)",
+      "degree": "MBBS (Dhaka), DCH (CU)",
+      "specialty": "Newborn & Child Diseases Specialist",
+      "workplace": "BGC Trust Medical College, ChandanaishAppointment: 01810-004550",
+      "info": "Dr. Md. Fazle Rabbi (Shihab) is a Child Specialist in Chittagong. His qualification is MBBS (Dhaka), DCH (CU). He is a Assistant Professor, Pediatrics at BGC Trust Medical College, Chandanaish. He regularly provides treatment to his patients at Asperia Health Care Ltd, Chittagong. Practicing hour of Dr. Md. Fazle Rabbi (Shihab) at Asperia Health Care Ltd, Chittagong is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Asperia Health Care Ltd, Chittagong",
+        "address": "Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801810-004550Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Basana Muhuri",
+      "degree": "MBBS, FCPS (Pediatrics)",
+      "specialty": "Child Diseases, Autism & Pediatric Nephrology Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Prof. Dr. Basana Muhuri is a Child Specialist in Chittagong. Her qualification is MBBS, FCPS (Pediatrics). She is a Former Professor & Head, Pediatrics at Chittagong Medical College & Hospital. She regularly provides treatment to her patients at Royal Hospital, Chittagong. Practicing hour of Prof. Dr. Basana Muhuri at Royal Hospital, Chittagong is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Royal Hospital, Chittagong",
+        "address": "1530/A, O.R. Nizam Road, GEC More, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+880241355934Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Badrul Alam",
+      "degree": "MBBS, FCPS (CHILD)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Prof. Dr. Badrul Alam is a Child Specialist in Chittagong. His qualification is MBBS, FCPS (CHILD). He is a Former Professor & Head, Pediatrics at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Dr. Badrul Alam Home Chamber. Practicing hour of Prof. Dr. Badrul Alam at Dr. Badrul Alam Home Chamber is 10am to 12pm & 5.30pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Dr. Badrul Alam Home Chamber",
+        "address": "Equity Excelsia, 105, Panchlaish R/A, Chittagong",
+        "visitingTime": "10am to 12pm & 5.30pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801716430043Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Didarul Alam",
+      "degree": "MBBS, DCH, MD (Pediatrics), FCPS (Pediatrics)",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Evercare Hospital, Chattogram\nAddress: H1, Ananna R/A, CDA, Hathazari, Chattogram\nVisiting Hour: 9am to 5pm (Closed: Friday)\nAppointment: +8809610810663\nCall Now",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital",
+        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801973104068Call Now"
+      }
+    },
+    {
+      "name": "Dr. Shahed Iqbal",
+      "degree": "MBBS, FCPS (Pediatrics)",
+      "specialty": "Neonatal & Child Diseases Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Dr. Shahed Iqbal is a Child Specialist in Chittagong. His qualification is MBBS, FCPS (Pediatrics). He is a Associate Professor, Pediatrics at Chattogram Maa-O-Shishu Hospital Medical College. He regularly provides treatment to his patients at Medical Centre Hospital, Chittagong. Practicing hour of Dr. Shahed Iqbal at Medical Centre Hospital, Chittagong is 4.30pm to 9.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medical Centre Hospital, Chittagong",
+        "address": "953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram",
+        "visitingTime": "4.30pm to 9.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801931527252Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Rasheda Samad",
+      "degree": "MBBS, FCPS (Pediatrics)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Prof. Dr. Rasheda Samad is a highly respected newborn, adolescent, and child diseases specialist in Chattogram. She holds MBBS and FCPS (Pediatrics) qualifications and has vast experience in treating a wide range of pediatric conditions including neonatal care, childhood infections, developmental issues, adolescent health problems, asthma, allergy, nutrition-related concerns, and vaccination guidance. Prof. Dr. Rasheda Samad currently serves as a Professor of Pediatrics at Chittagong Medical College & Hospital. She also provides consultation at CSCR Hospital, Chattogram (Room 311, Block A, 1675/A, O.R. Nizam Road, Chattogram) with visiting hours from 5pm to 9pm, except Fridays.",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "Room 311, Block A, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801703596158Call Now"
+      }
+    },
+    {
+      "name": "Dr. Bibhuti Bhusan Nath",
+      "degree": "MBBS, FCPS (Pediatrics), MRCP (UK)",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Bangabandhu Memorial Hospital, USTC, Chittagong",
+      "info": "Dr. Bibhuti Bhusan Nath is a Child Specialist in Chittagong. His qualification is MBBS, FCPS (Pediatrics), MRCP (UK). He is a Former Assistant Professor, Pediatrics at Bangabandhu Memorial Hospital, USTC, Chittagong. He regularly provides treatment to his patients at Max Hospital & Diagnostic, Chittagong. Practicing hour of Dr. Bibhuti Bhusan Nath at Max Hospital & Diagnostic, Chittagong is 10am to 1pm & 6pm to 9pm (Closed: Monday & Friday).",
+      "chamber": {
+        "hospital": "Max Hospital & Diagnostic, Chittagong",
+        "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+        "visitingTime": "10am to 1pm & 6pm to 9pm (Closed: Monday & Friday)",
+        "appointmentNumber": "+8801713998199Call Now"
+      }
+    },
+    {
+      "name": "Dr. Abdur Razzak Sikder",
+      "degree": "MBBS, DCH (Child Health), FCPS (Pediatrics), MD (Pediatrics)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Parkview Hospital, Chittagong",
+      "info": "Lancet Diagnostic Center, Chittagong\nAddress: 106/B, K.B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 5pm to 9pm (Closed: Friday)\nAppointment: +8801552674425\nCall Now",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "11am to 1pm (Closed: Friday)",
+        "appointmentNumber": "+8801976022333Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Pranab Kumar Chowdhury",
+      "degree": "MBBS, FCPS (Pediatrics), FRCP (UK)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Prof. Dr. Pranab Kumar Chowdhury is a Child Specialist in Chittagong. His qualification is MBBS, FCPS (Pediatrics), FRCP (UK). He is a Former Head & Professor, Pediatrics at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Doctors Lab, Chittagong. Practicing hour of Prof. Dr. Pranab Kumar Chowdhury at Doctors Lab, Chittagong is 6.30pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Doctors Lab, Chittagong",
+        "address": "131, KB Fazlul Kader Road, Probortok More, Panchlaish, Chattogram",
+        "visitingTime": "6.30pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801940876810Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Mahmood Ahmed Chowdhury (Arzu)",
+      "degree": "MBBS, DCH, FCPS (Pediatrics), FRCP (UK)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Chevron Clinical Laboratory, Halishahar\nAddress: 993/2121, Agrabad Access Road, Halishahar, Chattogram\nVisiting Hour: 9am to 12pm (Only Friday)\nAppointment: +8801701229090\nCall Now",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Chittagong",
+        "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801755666969Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Muslim Uddin Sobuj",
+      "degree": "MBBS, DCH, MD (Child Health)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Prof. Dr. Muslim Uddin Sobuj is a Child Specialist in Chittagong. His qualification is MBBS, DCH, MD (Child Health). He is a Professor & Head, Pediatrics at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Parkview Hospital, Chittagong. Practicing hour of Prof. Dr. Muslim Uddin Sobuj at Parkview Hospital, Chittagong is 3pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "3pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801976022333Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Arup Dutta Bappi",
+      "degree": "MBBS, FCPS (Pediatrics)",
+      "specialty": "Neonatal, Adolescent & Child Diseases Specialist",
+      "workplace": "BGC Trust Medical College, Chittagong",
+      "info": "Prof. Dr. Arup Dutta Bappi is a Child Specialist in Chittagong. His qualification is MBBS, FCPS (Pediatrics). He is a Professor, Pediatrics at BGC Trust Medical College, Chittagong. He regularly provides treatment to his patients at Epic Healthcare, Chittagong. Practicing hour of Prof. Dr. Arup Dutta Bappi at Epic Healthcare, Chittagong is 6pm to 8.30pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Epic Healthcare, Chittagong",
+        "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 8.30pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801984499600Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. A. J. M. Sadek",
+      "degree": "MBBS, FCPS (Pediatrics)",
+      "specialty": "Neonatal & Child Diseases Specialist",
+      "workplace": "Bangabandhu Memorial Hospital, USTC, Chittagong",
+      "info": "Chattogram Metropolitan Hospital\nAddress: 698/752, O.R. Nizam Road, Panchlaish, Chattogram\nVisiting Hour: 6pm to 9pm (Sun, Tue & Thu)\nAppointment: +8801814651077\nCall Now",
+      "chamber": {
+        "hospital": "National Hospital, Chittagong",
+        "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
+        "visitingTime": "1.30pm to 2pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801822685066Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Wazir Ahmed",
+      "degree": "MBBS (CU), DCH (DU), FRCP (Glasgow)",
+      "specialty": "Neonatal & Child Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Prof. Dr. Wazir Ahmed is a Child Specialist in Chittagong. His qualification is MBBS (CU), DCH (DU), FRCP (Glasgow). He is a Professor & Head, Neonatology at Chattogram Maa-O-Shishu Hospital Medical College. He regularly provides treatment to his patients at CSCR Hospital, Chittagong. Practicing hour of Prof. Dr. Wazir Ahmed at CSCR Hospital, Chittagong is 5pm to 10pm (Closed: Friday & Saturday).",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "5pm to 10pm (Closed: Friday & Saturday)",
+        "appointmentNumber": "+8801757003363Call Now"
+      }
+    },
+    {
+      "name": "Dr. Faisal Ahmed",
+      "degree": "MBBS, MD (Pediatrics), MRCPH (UK), Clinical Fellow (NICU, KSA)",
+      "specialty": "Neonatal, Adolescent & Child Diseases Specialist",
+      "workplace": "Labaid Specialized Hospital, Chattogram",
+      "info": "Shajinaz Hospital Ltd.\nAddress: Arefin Nagar, Bayezid Link Road, Bayezid Bostami, Chattogram\nVisiting Hour: 9am to 11am (Closed: Friday)\nAppointment: +8801886338811\nCall Now",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Chattogram",
+        "address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
+        "visitingTime": "11am to 2pm & 6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662420Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. A.K.M Rezaul Karim",
+      "degree": "MBBS, MD (Pediatrics), MD (Pediatric Hematology)",
+      "specialty": "New Born, Child Diseases, Child Blood Diseases & Cancer Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Prof. Dr. A.K.M Rezaul Karim is a Child Hematologist  in Chittagong. His qualification is MBBS, MD (Pediatrics), MD (Pediatric Hematology). He is a Professor, Pediatrics at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Parkview Hospital, Chittagong. Practicing hour of Prof. Dr. A.K.M Rezaul Karim at Parkview Hospital, Chittagong is 5pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801976022333Call Now"
+      }
+    },
+    {
+      "name": "Dr. Syeda Humaida Hasan",
+      "degree": "MBBS, BCS (Health), DCH,  FCPS (Pediatrics)",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Syeda Humaida Hasan is a Child Specialist in Chittagong. Her qualification is MBBS, BCS (Health), DCH,  FCPS (Pediatrics). She is a Consultant, Pediatrics at Chittagong Medical College & Hospital. She regularly provides treatment to her patients at Chevron Clinical Laboratory, Chittagong. Practicing hour of Dr. Syeda Humaida Hasan at Chevron Clinical Laboratory, Chittagong is 6pm to 9pm (Sat, Mon, Wed & Fri).",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Chittagong",
+        "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Sat, Mon, Wed & Fri)",
+        "appointmentNumber": "+8801755666969Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Mohammad Reazul Karim",
+      "degree": "MBBS, DCH, MCPS (Pediatrics), MSC, MD (Pediatrics), FRCP (Glasgow)",
+      "specialty": "Neonatal & Child Diseases Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Prof. Dr. Mohammad Reazul Karim is a Child Specialist in Chittagong. His qualification is MBBS, DCH, MCPS (Pediatrics), MSC, MD (Pediatrics), FRCP (Glasgow). He is a Professor & Head, Pediatrics at Chattogram Maa-O-Shishu Hospital Medical College. He regularly provides treatment to his patients at Parkview Hospital, Chittagong. Practicing hour of Prof. Dr. Mohammad Reazul Karim at Parkview Hospital, Chittagong is 6pm to 9pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801976022333Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mohammed Maruf-Ul-Quader",
+      "degree": "MBBS, MD (Pediatrics), FCPS (Pediatric Nephrology), MCPS (Pediatrics)",
+      "specialty": "Newborn, Child Diseases & Kidney Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Mohammed Maruf-Ul-Quader is a Pediatric Nephrologist in Chittagong. His qualification is MBBS, MD (Pediatrics), FCPS (Pediatric Nephrology), MCPS (Pediatrics). He is a Associate Professor, Pediatric Nephrology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Epic Healthcare, Chittagong. Practicing hour of Dr. Mohammed Maruf-Ul-Quader at Epic Healthcare, Chittagong is 6pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Epic Healthcare, Chittagong",
+        "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801984499600Call Now"
+      }
+    },
+    {
+      "name": "Dr. Kamrun Nahar (Luna)",
+      "degree": "MBBS, BCS (Health), MD (Pediatrics), FCPS (Pediatrics)",
+      "specialty": "Neonatal & Child Diseases Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Kamrun Nahar (Luna) is a Child Specialist in Chittagong. Her qualification is MBBS, BCS (Health), MD (Pediatrics), FCPS (Pediatrics). She is a Assistant Professor, Pediatrics at Chittagong Medical College & Hospital. She regularly provides treatment to her patients at Chattogram Metropolitan Hospital. Practicing hour of Dr. Kamrun Nahar (Luna) at Chattogram Metropolitan Hospital is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital",
+        "address": "487/B, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801997263421Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mohammed Shaheen",
+      "degree": "MBBS (CMC), BCS (Health), MD (Neonatology-BSMMU), FCPS (Pediatrics - P2)",
+      "specialty": "Pediatrics (Child) & Newborn ICU Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Mohammed Shaheen is a Child Specialist in Chittagong. His qualification is MBBS (CMC), BCS (Health), MD (Neonatology-BSMMU), FCPS (Pediatrics - P2). He is a Associate Professor & Head, Neonatology at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Apollo Imperial Hospital, Chittagong. Practicing hour of Dr. Mohammed Shaheen at Apollo Imperial Hospital, Chittagong is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Apollo Imperial Hospital, Chittagong",
+        "address": "Zakir Hossain Road, Pahartali (Near Fay's Lake), Chattogram",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809612247247Call Now"
+      }
+    },
+    {
+      "name": "Dr. Dipika Dey",
+      "degree": "MBBS, DCH, FCPS (Pediatrics)",
+      "specialty": "Neonatal, Adolescent & Child Diseases Specialist",
+      "workplace": "Evercare Hospital, Chattogram",
+      "info": "Evercare Hospital, Chattogram\nAddress: H1, Ananna R/A, CDA, Hathazari, Chattogram\nVisiting Hour: 9am to 5pm (Closed: Friday)\nAppointment: +8809610810663\nCall Now",
+      "chamber": {
+        "hospital": "Medical Centre Hospital, Chittagong",
+        "address": "953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801827024455Call Now"
+      }
+    },
+    {
+      "name": "Dr. Jishnu Majumder",
+      "degree": "MBBS, DCH, PGPN (Child Nutrition), CCD",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Dr. Jishnu Majumder is a Child Specialist in Chittagong. His qualification is MBBS, DCH, PGPN (Child Nutrition), CCD. He is working as a Child Diseases Specialist doctor in Chattogram Maa-O-Shishu Hospital Medical College. He regularly provides treatment to his patients at Sensiv Private Limited, Chittagong. Practicing hour of Dr. Jishnu Majumder at Sensiv Private Limited, Chittagong is 9am to 1pm (Everyday) & 6pm to 9pm (Sat to Thu).",
+      "chamber": {
+        "hospital": "Sensiv Private Limited, Chittagong",
+        "address": "14, Jamal Khan Road, Jamal Khan, Chattogram",
+        "visitingTime": "9am to 1pm (Everyday) & 6pm to 9pm (Sat to Thu)",
+        "appointmentNumber": "+8801711761766Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Nurul Islam Khan",
+      "degree": "MBBS, DCH (Glasgow), MRCP (UK), FRCP (EDIN), FRCP (Glasgow)",
+      "specialty": "Child Diseases & Neonatal Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Prof. Dr. Nurul Islam Khan is a Child Specialist in Chittagong. His qualification is MBBS, DCH (Glasgow), MRCP (UK), FRCP (EDIN), FRCP (Glasgow). He is a Professor & Head (Ex), Pediatrics at Chattogram Maa-O-Shishu Hospital Medical College. He regularly provides treatment to his patients at Shahjalal Diagnostic Clinic, Chittagong. Practicing hour of Prof. Dr. Nurul Islam Khan at Shahjalal Diagnostic Clinic, Chittagong is 10am to 1pm & 6pm to 10pm (Everyday).",
+      "chamber": {
+        "hospital": "Shahjalal Diagnostic Clinic, Chittagong",
+        "address": "143, Sheikh Mujib Road, Badamtoli, Agrabad, Chattogram",
+        "visitingTime": "10am to 1pm & 6pm to 10pm (Everyday)",
+        "appointmentNumber": "+8801711750040Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Nasir Uddin Mahmud",
+      "degree": "MBBS, DCH, FCPS (Pediatrics)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Prof. Dr. Nasir Uddin Mahmud is a Child Specialist in Chittagong. His qualification is MBBS, DCH, FCPS (Pediatrics). He is a Professor, Pediatrics at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Chittagong. Practicing hour of Prof. Dr. Nasir Uddin Mahmud at Popular Diagnostic Center, Chittagong is 6:30pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Chittagong",
+        "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "6:30pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787810Call Now"
+      }
+    },
+    {
+      "name": "Dr. Farah Chowdhury",
+      "degree": "MBBS, FCPS (Pediatrics), Training (Pediatric Echocardiography)",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Dr. Farah Chowdhury is a Child Specialist in Chittagong. Her qualification is MBBS, FCPS (Pediatrics), Training (Pediatric Echocardiography). She is a Assistant Professor, Pediatrics at Chattogram Maa-O-Shishu Hospital Medical College. She regularly provides treatment to her patients at Epic Healthcare, Chittagong. Practicing hour of Dr. Farah Chowdhury at Epic Healthcare, Chittagong is 4pm to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Epic Healthcare, Chittagong",
+        "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "4pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801984499600Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Abdullah Shahriar",
+      "degree": "MBBS, MD (CHILD)",
+      "specialty": "Child Specialist & Pediatric Cardiologist",
+      "workplace": "National Institute of Cardiovascular Diseases & Hospital",
+      "info": "Labaid Specialized Hospital, Chattogram\nAddress: 3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram\nVisiting Hour: 10am to 4pm (Only Friday)\nAppointment: +8801766662828\nCall Now",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Kalabagan",
+        "address": "House - 66, Mirpur Road, Kalabagan, Dhaka - 1205",
+        "visitingTime": "2pm to 5pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801766661331Call Now"
+      }
+    },
+    {
+      "name": "Dr. A.K.M. Jafor Ullah",
+      "degree": "MBBS, BCS (Health), MD (Child)",
+      "specialty": "Child Specialist",
+      "workplace": "Chittagong General Hospital",
+      "info": "Dr. A.K.M. Jafor Ullah is a Child Specialist in Chittagong. His qualification is MBBS, BCS (Health), MD (Child). He is working as a Child Specialist doctor in Chittagong General Hospital. He regularly provides treatment to his patients at Islami Bank Hospital, Chittagong. Practicing hour of Dr. A.K.M. Jafor Ullah at Islami Bank Hospital, Chittagong is 7pm to 10pm (Sat to Thu) & 9am to 12pm (Fri).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Chittagong",
+        "address": "3, Sheikh Mujib Road, Agrabad, Chittagong",
+        "visitingTime": "7pm to 10pm (Sat to Thu) & 9am to 12pm (Fri)",
+        "appointmentNumber": "+8801731253990Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Pranab Kanti Mallick",
+      "degree": "MBBS, FCPS (Pediatrics), MD (Pediatrics), MCPS,  FRCP (Glasgow)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Evercare Hospital, Chattogram",
+      "info": "Prof. Dr. Pranab Kanti Mallick is a Child Specialist in Chittagong. His qualification is MBBS, FCPS (Pediatrics), MD (Pediatrics), MCPS,  FRCP (Glasgow). He is a Senior Consultant, Pediatrics at Evercare Hospital, Chattogram. He regularly provides treatment to his patients at Evercare Hospital, Chattogram. Practicing hour of Prof. Dr. Pranab Kanti Mallick at Evercare Hospital, Chattogram is 9am to 5pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Evercare Hospital, Chattogram",
+        "address": "H1, Ananna R/A, CDA, Hathazari, Chattogram",
+        "visitingTime": "9am to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8809610810663Call Now"
+      }
+    },
+    {
+      "name": "Dr. Anwarul Azim",
+      "degree": "MBBS, DCH, FCPS (Pediatrics)",
+      "specialty": "Newborn, Adolescent, Child Diseases & Nutrition Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Dr. Anwarul Azim is a Child Specialist in Chittagong. His qualification is MBBS, DCH, FCPS (Pediatrics). He is a Associate Professor, Pediatric Gastroenterology & Nutrition at Chattogram Maa-O-Shishu Hospital Medical College. He regularly provides treatment to his patients at Belle Vue Hospital, Chittagong. Practicing hour of Dr. Anwarul Azim at Belle Vue Hospital, Chittagong is 7pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Belle Vue Hospital, Chittagong",
+        "address": "Prabartak Hill, 12/12, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801999409270Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Balayat Hossain Dhali",
+      "degree": "MBBS, BCS (Health), MD (Pediatrics)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Rangamati Medical College & Hospital",
+      "info": "Dr. Md. Balayat Hossain Dhali is a Child Specialist in Chittagong. His qualification is MBBS, BCS (Health), MD (Pediatrics). He is a Assistant Professor, Pediatrics at Rangamati Medical College & Hospital. He regularly provides treatment to his patients at Chevron Clinical Laboratory, Chittagong. Practicing hour of Dr. Md. Balayat Hossain Dhali at Chevron Clinical Laboratory, Chittagong is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Chittagong",
+        "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801755666969Call Now"
+      }
+    },
+    {
+      "name": "Dr. T.K. Roy",
+      "degree": "MBBS, FCPS (Pediatrics), PGPN (Child Nutrition, USA)",
+      "specialty": "Neonatal & Child Diseases Specialist",
+      "workplace": "Bangabandhu Memorial Hospital, USTC, Chittagong",
+      "info": "Dr. T.K. Roy (Dr. Tapan Kumar Roy) is a Child Specialist in Chittagong. His qualification is MBBS, FCPS (Pediatrics), PGPN (Child Nutrition, USA). He is a Assistant Professor, Pediatrics at Bangabandhu Memorial Hospital, USTC, Chittagong. He regularly provides treatment to his patients at Al Amin Hospital & Diagnostic Center, Chittagong. Practicing hour of Dr. T.K. Roy at Al Amin Hospital & Diagnostic Center, Chittagong is 7.30pm to 10pm (Everyday).",
+      "chamber": {
+        "hospital": "Al Amin Hospital & Diagnostic Center, Chittagong",
+        "address": "830, Zakir Hossain Road, AK Khan Gate, North Pahartali, Chattogram",
+        "visitingTime": "7.30pm to 10pm (Everyday)",
+        "appointmentNumber": "+8801683076070Call Now"
+      }
+    },
+    {
+      "name": "Dr. Jahangir Alam Murad",
+      "degree": "MBBS, DCH (BSMMU), FCPS (Final)",
+      "specialty": "Child Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Dr. Jahangir Alam Murad is a Child Specialist in Chittagong. His qualification is MBBS, DCH (BSMMU), FCPS (Final). He is working as a Child Specialist doctor in Chattogram Maa-O-Shishu Hospital Medical College. He regularly provides treatment to his patients at Chevron Clinical Laboratory, Halishahar. Practicing hour of Dr. Jahangir Alam Murad at Chevron Clinical Laboratory, Halishahar is 6pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Halishahar",
+        "address": "993/2121, Agrabad Access Road, Halishahar, Chattogram",
+        "visitingTime": "6pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801701229090Call Now"
+      }
+    },
+    {
+      "name": "Dr. Feroza Aktar",
+      "degree": "MBBS, DCH, FCPS (Pediatrics)",
+      "specialty": "Neonatal & Child Diseases Specialist",
+      "workplace": "Chattogram International Medical College & Hospital",
+      "info": "Dr. Feroza Aktar is a Child Specialist in Chittagong. Her qualification is MBBS, DCH, FCPS (Pediatrics). She is a Consultant, Pediatrics at Chattogram International Medical College & Hospital. She regularly provides treatment to her patients at National Hospital, Chittagong. Practicing hour of Dr. Feroza Aktar at National Hospital, Chittagong is 5pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "National Hospital, Chittagong",
+        "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
+        "visitingTime": "5pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801822685066Call Now"
+      }
+    },
+    {
+      "name": "Dr. Susmita Biswas",
+      "degree": "MBBS, BCS (Health) MD (Pediatric Nephrology)",
+      "specialty": "Child Kidney Diseases, Dialysis, Transplant & Biopsy Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Susmita Biswas is a Pediatric Nephrologist in Chittagong. Her qualification is MBBS, BCS (Health) MD (Pediatric Nephrology). She is a Assistant Professor, Pediatric Nephrology at Chittagong Medical College & Hospital. She regularly provides treatment to her patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Susmita Biswas at Parkview Hospital, Chittagong is 4pm to 8pm (Sun, Tue & Thu).",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "4pm to 8pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801976022333Call Now"
+      }
+    },
+    {
+      "name": "Dr. Aparup Kanti Das",
+      "degree": "MBBS, BCS (Health), FCPS (Pediatrics)",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Aparup Kanti Das is a Child Specialist in Chittagong. His qualification is MBBS, BCS (Health), FCPS (Pediatrics). He is a Assistant Registrar, Pediatrics at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Sensiv Private Limited, Chittagong. Practicing hour of Dr. Aparup Kanti Das at Sensiv Private Limited, Chittagong is 6pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Sensiv Private Limited, Chittagong",
+        "address": "14, Jamal Khan Road, Jamal Khan, Chattogram",
+        "visitingTime": "6pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801873014013Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mohammad Musa",
+      "degree": "MBBS, BCS (Health), MD (Child), DCH, ESPID Training (Germany, UK)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Mohammad Musa is a Child Specialist in Chittagong. His qualification is MBBS, BCS (Health), MD (Child), DCH, ESPID Training (Germany, UK). He is a Assistant Professor, Pediatrics at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Mohammad Musa at Parkview Hospital, Chittagong is 6.30pm to 9pm (Closed: Mon, Thu & Fri).",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "6.30pm to 9pm (Closed: Mon, Thu & Fri)",
+        "appointmentNumber": "+8801976022333Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Farid Ul Alam",
+      "degree": "MBBS, FCPS (Pediatrics), DME (UK)",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Prof. Dr. Farid Ul Alam is a Child Specialist in Chittagong. His qualification is MBBS, FCPS (Pediatrics), DME (UK). He is a Professor & Head (Ex), Pediatrics at Chattogram Maa-O-Shishu Hospital Medical College. He regularly provides treatment to his patients at Shahjalal Diagnostic Clinic, Chittagong. Practicing hour of Prof. Dr. Farid Ul Alam at Shahjalal Diagnostic Clinic, Chittagong is 6pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Shahjalal Diagnostic Clinic, Chittagong",
+        "address": "143, Sheikh Mujib Road, Badamtoli, Agrabad, Chattogram",
+        "visitingTime": "6pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801811185610Call Now"
+      }
+    },
+    {
+      "name": "Dr. Rana Chowdhury",
+      "degree": "MBBS, FCPS (Pediatrics)",
+      "specialty": "Newborn & Child Diseases Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Dr. Rana Chowdhury is a Child Specialist in Chittagong. His qualification is MBBS, FCPS (Pediatrics). He is a Assistant Professor, Pediatrics at Chattogram Maa-O-Shishu Hospital Medical College. He regularly provides treatment to his patients at Delta Health Care, Chittagong. Practicing hour of Dr. Rana Chowdhury at Delta Health Care, Chittagong is 6pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Delta Health Care, Chittagong",
+        "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801841906090Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Shah Alam",
+      "degree": "MBBS (DMC), BCS (Health), MD (Child Health)",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Md. Shah Alam is a Child Specialist in Chittagong. His qualification is MBBS (DMC), BCS (Health), MD (Child Health). He is a Assistant Professor, Pediatrics at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Md. Shah Alam at Parkview Hospital, Chittagong is 7pm to 9pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 9pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801976022333Call Now"
+      }
+    },
+    {
+      "name": "Dr. Hasan Zahid",
+      "degree": "MBBS, DCH (DU)",
+      "specialty": "Newborn & Child Diseases Specialist",
+      "workplace": "Apollo Imperial Hospital, Chittagong",
+      "info": "Dr. Hasan Zahid is a Child Specialist in Chittagong. His qualification is MBBS, DCH (DU). He is a Associate Consultant, Pediatrics at Apollo Imperial Hospital, Chittagong. He regularly provides treatment to his patients at Apollo Imperial Hospital, Chittagong. Practicing hour of Dr. Hasan Zahid at Apollo Imperial Hospital, Chittagong is 9am to 1pm & 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Apollo Imperial Hospital, Chittagong",
+        "address": "Zakir Hossain Road, Pahartali, Chattogram",
+        "visitingTime": "9am to 1pm & 4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809612247247Call Now"
+      }
+    },
+    {
+      "name": "Dr. Rasheda Begum",
+      "degree": "MBBS, CCD (BIRDEM), DCH (CU)",
+      "specialty": "Newborn, Child Diseases & Diabetes Specialist",
+      "workplace": "Chittagong Diabetic General Hospital",
+      "info": "Dr. Rasheda Begum is a Child Specialist in Chittagong. Her qualification is MBBS, CCD (BIRDEM), DCH (CU). She is a Consultant, Pediatrics at Chittagong Diabetic General Hospital. She regularly provides treatment to her patients at Qrex Diagnostic & Consultation Centre, Chittagong. Practicing hour of Dr. Rasheda Begum at Qrex Diagnostic & Consultation Centre, Chittagong is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Qrex Diagnostic & Consultation Centre, Chittagong",
+        "address": "Plot # 9/A, Road # 1, Lane # 2, Block # G, Halishahar, Chattogram",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801828880299Call Now"
+      }
+    },
+    {
+      "name": "Dr. Nazmul Huda Ripon",
+      "degree": "MBBS, DCH, MCPS",
+      "specialty": "Neonatal & Child Diseases Specialist",
+      "workplace": "Chattogram International Medical College & Hospital",
+      "info": "Dr. Nazmul Huda Ripon is a Child Specialist in Chittagong. His qualification is MBBS, DCH, MCPS. He is a Associate Professor, Pediatrics at Chattogram International Medical College & Hospital. He regularly provides treatment to his patients at National Hospital, Chittagong. Practicing hour of Dr. Nazmul Huda Ripon at National Hospital, Chittagong is 3pm to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "National Hospital, Chittagong",
+        "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
+        "visitingTime": "3pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801822685066Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mohammad Khaled Hossain",
+      "degree": "MBBS (DMC), BCS (Health), FCPS (Pediatrics)",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Parkview Hospital, Chittagong",
+      "info": "Dr. Mohammad Khaled Hossain is a Child Specialist in Chittagong. His qualification is MBBS (DMC), BCS (Health), FCPS (Pediatrics). He is a Consultant, Pediatrics at Parkview Hospital, Chittagong. He regularly provides treatment to his patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Mohammad Khaled Hossain at Parkview Hospital, Chittagong is 11am to 1pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "11am to 1pm (Closed: Friday)",
+        "appointmentNumber": "+8801976022333Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Mohiuddin",
+      "degree": "MBBS, DCH",
+      "specialty": "Neonatal, Adolescent & Child Diseases Specialist",
+      "workplace": "Jameson Red Crescent Maternity Hospital",
+      "info": "Dr. Md. Mohiuddin is a Child Specialist in Chittagong. His qualification is MBBS, DCH. He is a Junior Consultant, Pediatrics at Jameson Red Crescent Maternity Hospital. He regularly provides treatment to his patients at Kids Consultation. Practicing hour of Dr. Md. Mohiuddin at Kids Consultation is 6pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Kids Consultation",
+        "address": "KMC House, Beside NMC School, Khaja Road, Chandgoan, Chittagong",
+        "visitingTime": "6pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801835535791Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mahmood Al-Farabi",
+      "degree": "MBBS, BCS (Health), DCH (BSMMU)",
+      "specialty": "Child Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Dr. Mahmood Al-Farabi is a Child Specialist in Chittagong. His qualification is MBBS, BCS (Health), DCH (BSMMU). He is a Consultant, Pediatrics at Chattogram Maa-O-Shishu Hospital Medical College. He regularly provides treatment to his patients at Qrex Diagnostic & Consultation Centre, Chittagong. Practicing hour of Dr. Mahmood Al-Farabi at Qrex Diagnostic & Consultation Centre, Chittagong is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Qrex Diagnostic & Consultation Centre, Chittagong",
+        "address": "Plot # 9/A, Road # 1, Lane # 2, Block # G, Halishahar, Chattogram",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801828880299Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Sagir",
+      "degree": "MBBS, DCH",
+      "specialty": "Child Diseases & Newborn ICU Specialist",
+      "workplace": "Parkview Hospital, Chittagong",
+      "info": "Dr. Md. Sagir is a Child Specialist in Chittagong. His qualification is MBBS, DCH. He is a Consultant, NICU at Parkview Hospital, Chittagong. He regularly provides treatment to his patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Md. Sagir at Parkview Hospital, Chittagong is 10.30am to 1pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "10.30am to 1pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801976022333Call Now"
+      }
+    },
+    {
+      "name": "Dr. Nazrul Quader Shikder",
+      "degree": "MBBS, DCH (BSMMU), MD (Pediatrics)",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Bangabandhu Memorial Hospital, USTC, Chittagong",
+      "info": "Dr. Nazrul Quader Shikder is a Child Specialist in Chittagong. His qualification is MBBS, DCH (BSMMU), MD (Pediatrics). He is working as a Child Diseases Specialist doctor in Bangabandhu Memorial Hospital, USTC, Chittagong. He regularly provides treatment to his patients at National Hospital, Chittagong. Practicing hour of Dr. Nazrul Quader Shikder at National Hospital, Chittagong is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "National Hospital, Chittagong",
+        "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801822685066Call Now"
+      }
+    },
+    {
+      "name": "Dr. Morsheda Khanam",
+      "degree": "MBBS, BCS (Health), FCPS (Pediatrics)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Chattogram Metropolitan Hospital",
+      "info": "Dr. Morsheda Khanam is a Child Specialist in Chittagong. Her qualification is MBBS, BCS (Health), FCPS (Pediatrics). She is a Consultant, Pediatrics at Chattogram Metropolitan Hospital. She regularly provides treatment to her patients at Chattogram Metropolitan Hospital. Practicing hour of Dr. Morsheda Khanam at Chattogram Metropolitan Hospital is 5pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital",
+        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801810030999Call Now"
+      }
+    },
+    {
+      "name": "Dr. Suparna Das",
+      "degree": "MBBS, MCPS, FCPS (CHILD)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Suparna Das is a Child Specialist in Chittagong. Her qualification is MBBS, MCPS, FCPS (CHILD). She is a Registrar, Neonatology at Chittagong Medical College & Hospital. She regularly provides treatment to her patients at Max Hospital & Diagnostic, Chittagong. Practicing hour of Dr. Suparna Das at Max Hospital & Diagnostic, Chittagong is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Max Hospital & Diagnostic, Chittagong",
+        "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801713998199Call Now"
+      }
+    },
+    {
+      "name": "Dr. Ayesha Begum",
+      "degree": "MBBS, BCS (Health), MD (Pediatrics)",
+      "specialty": "Neonatal, Adolescent & Child Diseases Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Ayesha Begum is a Child Specialist in Chittagong. Her qualification is MBBS, BCS (Health), MD (Pediatrics). She is a Assistant Professor, Department of Pediatrics at Chittagong Medical College & Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Chittagong. Practicing hour of Dr. Ayesha Begum at Popular Diagnostic Center, Chittagong is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Chittagong",
+        "address": "Room 217, 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+88 01882741625, +8809666787810Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mohammed Yousuf Meah",
+      "degree": "MBBS, MRCPCH (UK)",
+      "specialty": "Newborn & Child Diseases Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Dr. Mohammed Yousuf Meah is a Child Specialist in Chittagong. His qualification is MBBS, MRCPCH (UK). He is a Research Assistant, Pediatric Neurology at Chattogram Maa-O-Shishu Hospital Medical College. He regularly provides treatment to his patients at PediCare Hospital, Chittagong. Practicing hour of Dr. Mohammed Yousuf Meah at PediCare Hospital, Chittagong is 2pm to 3pm (Everyday).",
+      "chamber": {
+        "hospital": "PediCare Hospital, Chittagong",
+        "address": "Behind Panchlaish Model Thana, Panchlaish, Chattogram",
+        "visitingTime": "2pm to 3pm (Everyday)",
+        "appointmentNumber": "+8801715263771Call Now"
+      }
+    },
+    {
+      "name": "Dr. Armana Sharmin Khan",
+      "degree": "MBBS, DCH, FCPS (CHILD)",
+      "specialty": "Newborn & Child Diseases Specialist",
+      "workplace": "Chattogram International Medical College & Hospital",
+      "info": "Parkview Hospital, Chittagong\nAddress: 94/103, Katalganj Road, Panchlaish, Chattogram\nVisiting Hour: 4pm to 6pm (Colosed: Tue & Friday)\nAppointment: +8801976022333\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Chittagong",
+        "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "2.30pm to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787810Call Now"
+      }
+    },
+    {
+      "name": "Dr. Ekramul Haque",
+      "degree": "MBBS, DCH",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Ekramul Haque is a Child Specialist in Chittagong. His qualification is MBBS, DCH. He is working as a Child Diseases Specialist doctor in Chittagong Medical College & Hospital. He regularly provides treatment to his patients at CSCR Hospital, Chittagong. Practicing hour of Dr. Ekramul Haque at CSCR Hospital, Chittagong is 12pm to 2pm (Saturday) & 6pm to 9pm (Friday).",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "12pm to 2pm (Saturday) & 6pm to 9pm (Friday)",
+        "appointmentNumber": "+8801729795255Call Now"
+      }
+    },
+    {
+      "name": "Dr. Asma Ferdousi",
+      "degree": "MBBS, DCH, FCPS (Pediatrics), MD (Pediatrics)",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Asma Ferdousi is a Child Specialist in Chittagong. Her qualification is MBBS, DCH, FCPS (Pediatrics), MD (Pediatrics). She is a Associate Professor (C.C) at Chittagong Medical College & Hospital. She regularly provides treatment to her patients at Delta Health Care, Chittagong. Practicing hour of Dr. Asma Ferdousi at Delta Health Care, Chittagong is 1pm to 3pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Delta Health Care, Chittagong",
+        "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
+        "visitingTime": "1pm to 3pm (Closed: Friday)",
+        "appointmentNumber": "+8801841906010Call Now"
+      }
+    },
+    {
+      "name": "Dr. Sanzana Islam",
+      "degree": "MBBS, MD (Pediatrics)",
+      "specialty": "Newborn & Child Diseases Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Dr. Sanzana Islam is a Child Specialist in Chittagong. Her qualification is MBBS, MD (Pediatrics). She is a Assistant Professor, Pediatrics at Chattogram Maa-O-Shishu Hospital Medical College. She regularly provides treatment to her patients at Delta Health Care, Chittagong. Practicing hour of Dr. Sanzana Islam at Delta Health Care, Chittagong is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Delta Health Care, Chittagong",
+        "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801841906010Call Now"
+      }
+    },
+    {
+      "name": "Dr. Fatema Begum (Sweety)",
+      "degree": "MBBS, FCPS (CHILD)",
+      "specialty": "Child, Adolescent & Newborn Diseases Specialist",
+      "workplace": "Rangamati Medical College & Hospital",
+      "info": "Dr. Fatema Begum (Sweety) is a Child Specialist in Chittagong. Her qualification is MBBS, FCPS (CHILD). She is a Assistant Professor, Pediatrics at Rangamati Medical College & Hospital. She regularly provides treatment to her patients at Labaid Specialized Hospital, Chattogram. Practicing hour of Dr. Fatema Begum (Sweety) at Labaid Specialized Hospital, Chattogram is 4pm to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Chattogram",
+        "address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
+        "visitingTime": "4pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662828Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Shahjahan",
+      "degree": "MBBS, D-PED (AUSTRIA)",
+      "specialty": "Newborn & Child Diseases Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Dr. Md. Shahjahan is a Child Specialist in Chittagong. His qualification is MBBS, D-PED (AUSTRIA). He is a Former Consultant, Pediatrics at Chattogram Maa-O-Shishu Hospital Medical College. He regularly provides treatment to his patients at Chevron Clinical Laboratory, Halishahar. Practicing hour of Dr. Md. Shahjahan at Chevron Clinical Laboratory, Halishahar is 6pm to 9pm (Sat to Thu) & 10am to 1pm (Everyday).",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Halishahar",
+        "address": "993/2121, Agrabad Access Road, Halishahar, Chattogram",
+        "visitingTime": "6pm to 9pm (Sat to Thu) & 10am to 1pm (Everyday)",
+        "appointmentNumber": "+8801701229090Call Now"
+      }
+    },
+    {
+      "name": "Dr. Bibi Fatema Jedney",
+      "degree": "MBBS, FCPS (Neonatology), MCPS (Pediatrics)",
+      "specialty": "Neonatology & Child Health Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Dr. Bibi Fatema Jedney is a skilled neonatology and child health specialist in Chattogram, holding MBBS, FCPS (Neonatology), and MCPS (Pediatrics) qualifications. She currently serves as an Assistant Professor in the Department of Neonatology at Chattogram Maa-O-Shishu Hospital Medical College. Dr. Bibi Fatema Jedney provides expert care for newborn diseases, premature baby management, respiratory problems, neonatal jaundice, infections, and various childhood health issues. She offers consultations at Chattogram Metropolitan Hospital, located at 698/752, O.R. Nizam Road, Panchlaish, Chattogram. Her chamber is open from 6pm to 8pm, except on Fridays.",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital",
+        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801860313611Call Now"
+      }
+    },
+    {
+      "name": "Dr. Sankar Kumar Ghosh",
+      "degree": "MBBS, BCS (Health), DCH (BSMMU), PGPN (USA)",
+      "specialty": "Child Diseases & Nutrition Specialist",
+      "workplace": "General Hospital, Chittagong",
+      "info": "Dr. Sankar Kumar Ghosh is a Child Specialist in Chittagong. His qualification is MBBS, BCS (Health), DCH (BSMMU), PGPN (USA). He is a Consultant, Pediatrics at General Hospital, Chittagong. He regularly provides treatment to his patients at Metro Diagnostic Center, Chittagong. Practicing hour of Dr. Sankar Kumar Ghosh at Metro Diagnostic Center, Chittagong is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Metro Diagnostic Center, Chittagong",
+        "address": "Metro Tower, Goal Pahar Mor, Mehedibag, Chattogram",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801817707086Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Abul Kalam",
+      "degree": "MBBS, DCH (Child Health), DTM (Ireland)",
+      "specialty": "Tropical Medicine & Child Specialist",
+      "workplace": "Delta Health Care, Chittagong",
+      "info": "Dr. Md. Abul Kalam is a Child Specialist in Chittagong. His qualification is MBBS, DCH (Child Health), DTM (Ireland). He is a Consultant, Pediatrics at Delta Health Care, Chittagong. He regularly provides treatment to his patients at Delta Health Care, Chittagong. Practicing hour of Dr. Md. Abul Kalam at Delta Health Care, Chittagong is 10am to 1pm & 6pm to 9pm (Sat to Thu) & 10am to 12pm (Fri).",
+      "chamber": {
+        "hospital": "Delta Health Care, Chittagong",
+        "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
+        "visitingTime": "10am to 1pm & 6pm to 9pm (Sat to Thu) & 10am to 12pm (Fri)",
+        "appointmentNumber": "+8801841906010Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Enayet Ullah (Rubel)",
+      "degree": "MBBS. DCH",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Economic Medical Hall\nAddress: Gawsia Bhaban, 3no Fakirhat Road, Bandar, Chittagong\nVisiting Hour: 6pm to 8pm (Everyday)\nAppointment: +881819380013\nCall Now",
+      "chamber": {
+        "hospital": "Easy Cure & Medicine Shop",
+        "address": "New Monsurabad. Colonel Hat, Chittagong",
+        "visitingTime": "10am to 11.45am & 8.30pm to 11pm (Everyday)",
+        "appointmentNumber": "+8801819380013Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Yasin",
+      "degree": "MBBS, DCH",
+      "specialty": "Neonatal & Child Diseases Specialist",
+      "workplace": "Ekushey Hospital, Chittagong",
+      "info": "Dr. Md. Yasin is a Child Specialist in Chittagong. His qualification is MBBS, DCH. He is a Consultant, Pediatrics at Ekushey Hospital, Chittagong. He regularly provides treatment to his patients at Ekushey Hospital, Chittagong. Practicing hour of Dr. Md. Yasin at Ekushey Hospital, Chittagong is 9am to 11am & 6pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ekushey Hospital, Chittagong",
+        "address": "116, Sugandha Road, Mirzarpul, Chattogram",
+        "visitingTime": "9am to 11am & 6pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+88031657629Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mir Mosharof Hossain",
+      "degree": "MBBS, BCS (Health), MD (Pediatrics, BSMMU)",
+      "specialty": "Newborn & Child Diseases Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Core Diagnostic Limited, Chittagong\nAddress: AS Tower, (opposite RAB7 office), Arakan Road, Bohoddarhat, Chattogram\nVisiting Hour: 6pm to 7pm (Closed: Friday)\nAppointment: +8801969905858\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Chittagong",
+        "address": "House # 12/A, Road # 02, Katalgonj, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809610009622Call Now"
+      }
+    },
+    {
+      "name": "Professor Dr. Md. Badruddoza",
+      "degree": "MBBS, DCH, FCPS (CHILD)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Belle Vue Hospital, Chittagong\nAddress: Prabartak Hill, 12/12, O.R. Nizam Road, Panchlaish, Chattogram\nVisiting Hour: 7.30pm to 9.30pm (Closed: Friday)\nAppointment: +8801831-052955\nCall Now",
+      "chamber": {
+        "hospital": "MCC LAB, CHITTAGONG",
+        "address": "Agrabad Access Road, Chotopul, Halisshohor, Chittagong",
+        "visitingTime": "11.30am to 1.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801322554723Call Now"
+      }
+    },
+    {
+      "name": "Dr. Muhammad Jabed Bin Amin Chowdhury",
+      "degree": "MBBS (DMC), FCPS (Pediatrics), BCS (Health)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Muhammad Jabed Bin Amin Chowdhury is a Child Specialist in Chittagong. His qualification is MBBS (DMC), FCPS (Pediatrics), BCS (Health). He is a Assistant Professor (Pediatrics) at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at CSCR Hospital, Chittagong. Practicing hour of Dr. Muhammad Jabed Bin Amin Chowdhury at CSCR Hospital, Chittagong is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "CSCR Bhaban (3rd Floor), Room-318, Block-B, O.R. Nizam Road, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801674302839Call Now"
+      }
+    },
+    {
+      "name": "Dr. Sarwar Kamal",
+      "degree": "MBBS, DCH, CCD",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Bangabandhu Memorial Hospital, USTC",
+      "info": "Apollo Diagnostic Center\nAddress: Beside north gate of Najirhat health complex, Fatikchori, Chattogram\nVisiting Hour: 3pm to 6pm (Saturday & Wednesday)\nAppointment: +8801824-323230\nCall Now",
+      "chamber": {
+        "hospital": "Heath Aid Diagnostic",
+        "address": "Kashem Mansion (Basek Vai's Building 1st Floor), Access Road, Shanti Nagar, Bakalia, Chattogram",
+        "visitingTime": "7pm to 9pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801810-116667Call Now"
+      }
+    },
+    {
+      "name": "Dr. Khadhiza Begom",
+      "degree": "MBBS, DCH (BSMMU), FCPS (Neonatology, Part 2), MD (Pediatric, Course)",
+      "specialty": "Newborn & Child Diseases Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Green Shefa Hospital, Chittagong\nAddress: R.A.M. Tower, 1704/9, Port Connecting Road, Saraipara, Chittagong\nVisiting Hour: 5pm to 7pm (Sun, Tue & Thu)\nAppointment: +8801793280308\nCall Now",
+      "chamber": {
+        "hospital": "PediCare Hospital, Chittagong",
+        "address": "Behind Panchlaish Model Thana, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 8pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801793280308Call Now"
+      }
+    },
+    {
+      "name": "Dr. Amit Sen",
+      "degree": "MBBS (CU), DCH (BSMMU), CCD (BIRDEM)",
+      "specialty": "Newborn & Child Diseases Specialist",
+      "workplace": "Southern Medical College & Hospital, Chittagong",
+      "info": "Dr.Amit Sen Shishu Doctor Chamber\nAddress: Meyor goli (1st Mosjid er por), Sholosohor R/A (2 no Gate), Panchlaish, Chattogram\nVisiting Hour: 6pm to 10.30pm (Everyday)\nAppointment: +8801843584625\nCall Now",
+      "chamber": {
+        "hospital": "Southern Medical College & Hospital",
+        "address": "4th Floor, East Nasirabad, Khulshi, Polytechnical, Chattogram",
+        "visitingTime": "10am to 1pm (Closed: Friday)",
+        "appointmentNumber": "+8801843584625Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mohammad Sazzadul Alam",
+      "degree": "MBBS (CU), MCPS (Paediatrics), MD (Neonatology) BSMMU",
+      "specialty": "Neonatologist and Child Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Mohammad Sazzadul Alam is a Child Specialist in Chittagong. His qualification is MBBS (CU), MCPS (Paediatrics), MD (Neonatology) BSMMU. He is a Registrar (Neonatology) at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at National Hospital, Chittagong. Practicing hour of Dr. Mohammad Sazzadul Alam at National Hospital, Chittagong is 3pm to 5pm (Sunday to Wednesday).",
+      "chamber": {
+        "hospital": "National Hospital, Chittagong",
+        "address": "14/15, Dampara Lane, Mehedibag, Chawkbazar, Chattogram",
+        "visitingTime": "3pm to 5pm (Sunday to Wednesday)",
+        "appointmentNumber": "+8801756737872Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mohammad Inzamam Ul Hoque",
+      "degree": "MBBS, DCH",
+      "specialty": "Newborn & Child Diseases Specialist",
+      "workplace": "Chattogram Maa-Shishu O General Hospital",
+      "info": "Shayera Medico\nAddress: South Middle Halishahar, Dhuppol (beside 38 no ward office), Bandar, Chattogram\nVisiting Hour: 7:30pm to 9:30pm (Everyday)\nAppointment: +8801689627212\nCall Now",
+      "chamber": {
+        "hospital": "Qrex Diagnostic & Consultation Centre, Chittagong",
+        "address": "Unit 2, Seamen’s Hostel Gate, Salt Gola Crossing, EPZ, Chattogram",
+        "visitingTime": "7pm to 8.30pm (Sat, Mon & Thu)",
+        "appointmentNumber": "+8801882534499Call Now"
+      }
+    },
+    {
+      "name": "Dr. Taslima Khairunnesa Nasrin",
+      "degree": "MBBS (CMC), DCH (BSMMU)",
+      "specialty": "Neonate & Child Diseases Specialist",
+      "workplace": "Jameson Red Crescent Maternity Hospital",
+      "info": "Dr. Taslima Khairunnesa Nasrin is a Child Specialist in Chittagong. Her qualification is MBBS (CMC), DCH (BSMMU). She is a Consultant at Jameson Red Crescent Maternity Hospital. She regularly provides treatment to her patients at Health Aid Diagnostic Center. Practicing hour of Dr. Taslima Khairunnesa Nasrin at Health Aid Diagnostic Center is 11am to 2pm ( Wednesday to Saturday), 7pm to 10pm (Sunday to Tuesday).",
+      "chamber": {
+        "hospital": "Health Aid Diagnostic Center",
+        "address": "Kashem Mansion (2nd floor), Santinogor, Bakalia Access Road, Chittagong",
+        "visitingTime": "11am to 2pm ( Wednesday to Saturday), 7pm to 10pm (Sunday to Tuesday)",
+        "appointmentNumber": "+8801815850532Call Now"
+      }
+    },
+    {
+      "name": "Dr. Abir Das",
+      "degree": "MBBS, BCS(Health), MCPS (Paediatrics), FCPS (Paediatrics)",
+      "specialty": "Newborn & Child Specialist",
+      "workplace": "Chittagong Medical College Hospital (Ex)",
+      "info": "Dr. Abir Das is a highly qualified and experienced newborn and child specialist in Chittagong, dedicated to providing top-notch pediatric care. With an MBBS degree, BCS (Health), MCPS (Paediatrics), and FCPS (Paediatrics), he has gained extensive expertise in treating various childhood diseases. As a former Junior Consultant at Chittagong Medical College Hospital, Dr. Abir Das has successfully managed numerous cases of neonatal jaundice, respiratory infections, asthma, pneumonia, malnutrition, and growth-related disorders. He is available for consultation at Woodland Diagnostic Center, located at 37, KB Fazlul Kader Road, Panchlaish, Chittagong, where he attends patients from 7 PM to 9 PM, except on Thursdays and Fridays. Parents looking for expert pediatric care can visit his chamber to ensure their child’s optimal health and development.",
+      "chamber": {
+        "hospital": "Woodland Diagnostic Center",
+        "address": "37, KB Fazlul Kader Road, Panchlaish, Chittagong",
+        "visitingTime": "7pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801601554464Call Now"
+      }
+    }
+  ]
+}

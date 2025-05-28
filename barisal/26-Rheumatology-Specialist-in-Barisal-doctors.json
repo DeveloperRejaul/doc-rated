@@ -1,0 +1,17 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. S.M. Ahamed (Abed)",
+      "degree": "MBBS (SSMC), BCS (Health), MD (Rheumatology)",
+      "specialty": "Rheumatology (Arthritis, Pain, Osteoarthritis, Lupus & Gout) Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "ডাঃ এস এম আহমেদ আবেদ একজন রিউমাটোলজিস্ট বর্তমানে বরিশালে কর্মরত। তিনি ২০১১ সালে স্যার সলিমুল্লাহ মেডিকেল কলেজ ও হাসপাতাল থেকে এমবিবিএস সম্পন্ন করেন।",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "3pm to 10pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809666787819Call Now"
+      }
+    }
+  ]
+}

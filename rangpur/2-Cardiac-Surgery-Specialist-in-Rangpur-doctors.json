@@ -1,0 +1,30 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Rabindra Nath Barman",
+      "degree": "MBBS, MD (Cardiology)",
+      "specialty": "Cardiology & Heart Diseases Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Rabindra Nath Barman is a Cardiologist in Rangpur. His qualification is MBBS, MD (Cardiology). He is working as a Cardiology & Heart Diseases Specialist doctor in Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rangpur. Practicing hour of Dr. Rabindra Nath Barman at Popular Diagnostic Center, Rangpur is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rangpur",
+        "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787813Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Abu Zahid Basunia",
+      "degree": "MBBS, BCS (Health), MD (Cardiology)",
+      "specialty": "Cardiology Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Md. Abu Zahid Basunia is a Cardiologist in Rangpur. His qualification is MBBS, BCS (Health), MD (Cardiology). He is working as a Cardiology Specialist doctor in Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Islami Bank Community Hospital, Rangpur. Practicing hour of Dr. Md. Abu Zahid Basunia at Islami Bank Community Hospital, Rangpur is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Community Hospital, Rangpur",
+        "address": "Jail Road, Dhap, Rangpur",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801750908297Call Now"
+      }
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Mitu Debnath",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery), MS (Surgical Oncology), Training (Breast Surgery)",
+      "specialty": "General, Breast & Cancer Surgery Specialist",
+      "workplace": "National Institute of Cancer Research & Hospital",
+      "info": "Popular Diagnostic Center, BarisalAddress: 955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, BarisalVisiting Hour: 5pm to 9pm (Monday & Friday)Appointment: +8809666787819Call Now",
+      "chamber": {
+        "hospital": "South Apollo Diagnostic Complex, Barisal",
+        "address": "135, Sadar Road, Barisal",
+        "visitingTime": "5pm to 8pm (Thursday), 11am to 3pm (Friday)",
+        "appointmentNumber": "+8801711457444Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Monirul Ahsan",
+      "degree": "MBBS (Dhaka), BCS (Health), FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Islami Bank Hospital, Barisal\nAddress: Band Road, Chandmari, Barisal – 8200\nVisiting Hour: 5pm to 8pm (Closed: Friday)\nAppointment: +8801810000121\nCall Now",
+      "chamber": {
+        "hospital": "South Apollo Diagnostic Complex, Barisal",
+        "address": "135, Sadar Road, Barisal",
+        "visitingTime": "3pm to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8801711457444Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. G.M. Nazimul Haque",
+      "degree": "MBBS, FCPS (Surgery), FACS (USA), FMAS (INDIA)",
+      "specialty": "General & Colorectal Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Prof. Dr. G.M. Nazimul Haque is a General Surgeon in Barisal. His qualification is MBBS, FCPS (Surgery), FACS (USA), FMAS (INDIA). He is a Professor, Surgery at Sher-E-Bangla Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Barisal. Practicing hour of Prof. Dr. G.M. Nazimul Haque at Popular Diagnostic Center, Barisal is 2pm to 3pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "2pm to 3pm (Closed: Friday)",
+        "appointmentNumber": "+8801724210773Call Now"
+      }
+    },
+    {
+      "name": "Dr. Sourav Sutar",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Specialist Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Rahat Anwar Hospital, Barisal\nAddress: Band Road, Chandmari, Barisal Sadar, Barisal – 8200\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8801711993953\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "5pm to 7pm (Closed: Sun & Friday)",
+        "appointmentNumber": "+8809666787819Call Now"
+      }
+    },
+    {
+      "name": "Dr. M.S. Rahman Sumon",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General, Colorectal & Laparoscopic Surgery Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. M.S. Rahman Sumon is a General Surgeon in Barisal. His qualification is MBBS, BCS (Health), FCPS (Surgery). He is a Junior Consultant, Dept of Surgery at Sher-E-Bangla Medical College & Hospital. He regularly provides treatment to his patients at Rahat Anwar Hospital, Barisal. Practicing hour of Dr. M.S. Rahman Sumon at Rahat Anwar Hospital, Barisal is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Rahat Anwar Hospital, Barisal",
+        "address": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801711993953Call Now"
+      }
+    },
+    {
+      "name": "Dr. Joy Jakharia Rob",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Surgery Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. Joy Jakharia Rob is a General Surgeon in Barisal. His qualification is MBBS, BCS (Health), FCPS (Surgery). He is a Consultant, Dept of Surgery at Sher-E-Bangla Medical College & Hospital. He regularly provides treatment to his patients at South Apollo Diagnostic Complex, Barisal. Practicing hour of Dr. Joy Jakharia Rob at South Apollo Diagnostic Complex, Barisal is 7pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "South Apollo Diagnostic Complex, Barisal",
+        "address": "135, Sadar Road, Barisal",
+        "visitingTime": "7pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801711457444Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Kabir Mia",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Specialist Surgeon",
+      "workplace": "General Hospital, Barisal",
+      "info": "Dr. Md. Kabir Mia is a General Surgeon in Barisal. His qualification is MBBS, BCS (Health), FCPS (Surgery). He is a Consultant, Surgery at General Hospital, Barisal. He regularly provides treatment to his patients at Rahat Anwar Hospital, Barisal. Practicing hour of Dr. Md. Kabir Mia at Rahat Anwar Hospital, Barisal is 2.30pm to 4pm & 6pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Rahat Anwar Hospital, Barisal",
+        "address": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
+        "visitingTime": "2.30pm to 4pm & 6pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801711993953Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Rezaul Kabir",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "General & Endolaparoscopic SurgeonSpecial interest in Breast and Colorectal Surgery",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Icon Medical Services, Barisal\nAddress: 514, Agorpur Road (In front of Women’s College), Barishal\nVisiting Hour: 2pm to 5pm (Closed: Thursday & Friday)\nAppointment: +8801717-333197\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "5pm to 9pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8809666-787819Call Now"
+      }
+    },
+    {
+      "name": "Dr. Dipak Chandra Kirttania",
+      "degree": "MBBS (Dhaka), FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Surgery Specialist",
+      "workplace": "Patuakhali Medical College Hospital",
+      "info": "Dr. Dipak Chandra Kirttania is a General Surgeon in Barisal. His qualification is MBBS (Dhaka), FCPS (Surgery). He is a Assistant Professor, Surgery at Patuakhali Medical College Hospital. He regularly provides treatment to his patients at Mamota Specialised Hospital. Practicing hour of Dr. Dipak Chandra Kirttania at Mamota Specialised Hospital is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Mamota Specialised Hospital",
+        "address": "Kali Bari Road, Barisal Sadar, Barisal - 8200",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801715080560Call Now"
+      }
+    }
+  ]
+}

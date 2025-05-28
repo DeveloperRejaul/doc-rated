@@ -1,0 +1,680 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Kaji Md. Nasimuzzaman",
+      "degree": "MBBS, MCPS, DGO, FMAS, DMAS (INDIA)",
+      "specialty": "Infertility, Obstetrics & Gynecology Specialist & Laparoscopic Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Kaji Md. Nasimuzzaman is a Gynecologist in Sylhet. His qualification is MBBS, MCPS, DGO, FMAS, DMAS (INDIA). He is a Senior Consultant (Gyne & Obs Dept) at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Doctor's Chamber. Practicing hour of Dr. Kaji Md. Nasimuzzaman at Doctor's Chamber is 3pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Doctor's Chamber",
+        "address": "House - 1084, Block - D, Main Road (East side of SWAPNO), Uposhohor, Sylhet",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801308533863Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Afroza Begum Shila",
+      "degree": "MBBS, FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Genome Medical College & Hospital",
+      "info": "Prof. Dr. Afroza Begum Shila is a Gynecologist in Sylhet. Her qualification is MBBS, FCPS (OBGYN). She is the Chairman, Gynecology & Obstetrics of Genome Medical College & Hospital. She regularly provides treatment to her patients at Stadium Market, Sylhet. Practicing hour of Prof. Dr. Afroza Begum Shila at Stadium Market, Sylhet is 11am to 2pm & 6pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Stadium Market, Sylhet",
+        "address": "Lab De Novo, Scout Bhabon, Stadium Market, Sylhet",
+        "visitingTime": "11am to 2pm & 6pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801711359680Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Shamsun Nahar Begum Hena",
+      "degree": "MBBS, FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Prof. Dr. Shamsun Nahar Begum Hena is a Gynecologist in Sylhet. Her qualification is MBBS, FCPS (OBGYN). She is a Professor & Head (Ex), Gynecology & Obstetrics at Sylhet MAG Osmani Medical College & Hospital. She regularly provides treatment to her patients at Al Haramain Hospital, Sylhet. Practicing hour of Prof. Dr. Shamsun Nahar Begum Hena at Al Haramain Hospital, Sylhet is 9am to 2pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Al Haramain Hospital, Sylhet",
+        "address": "Samato-30, Chali Bandar, Bishwa Road, Subhani Ghat, Sylhet",
+        "visitingTime": "9am to 2pm (Closed: Friday)",
+        "appointmentNumber": "+8801931225555Call Now"
+      }
+    },
+    {
+      "name": "Dr. Barnali Sinha",
+      "degree": "MBBS, FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
+      "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+      "info": "Dr. Barnali Sinha is a Gynecologist in Sylhet. Her qualification is MBBS, FCPS (OBGYN). She is a Associate Professor, Gynecology & Obstetrics at Jalalabad Ragib-Rabeya Medical College & Hospital. She regularly provides treatment to her patients at Labaid Diagnostic Limited, Sylhet. Practicing hour of Dr. Barnali Sinha at Labaid Diagnostic Limited, Sylhet is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic Limited, Sylhet",
+        "address": "House # 362-363, New Medical Road, Kajol Shah, Sylhet",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662727Call Now"
+      }
+    },
+    {
+      "name": "Dr. Nasima Akther",
+      "degree": "MBBS, FCPS (OBGYN), Trained in Infertility (India)",
+      "specialty": "Gynecology & Infertility Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Nasima Akther is a Gynecologist in Sylhet. Her qualification is MBBS, FCPS (OBGYN), Trained in Infertility (India). She is a Assistant Professor, Gynecology & Obstetrics at Sylhet MAG Osmani Medical College & Hospital. She regularly provides treatment to her patients at Popular Medical Center, Sylhet. Practicing hour of Dr. Nasima Akther at Popular Medical Center, Sylhet is 6pm to 8pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "6pm to 8pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801754964918Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Rashida Akhter",
+      "degree": "MBBS, FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Sylhet Womens Medical College & Hospital",
+      "info": "Popular Medical Center & Hospital, Sylhet\nAddress: Subhanighat, Sylhet\nVisiting Hour: 6pm to 9pm (Sat, Mon & Wednesday)\nAppointment: +8801601164912\nCall Now",
+      "chamber": {
+        "hospital": "The Sylhet X-Ray & Diagnostic Center",
+        "address": "10, Modhu Shahid, Medical Raod, Rikabibazar, Sylhet",
+        "visitingTime": "6pm to 9pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801711164912Call Now"
+      }
+    },
+    {
+      "name": "Dr. Kishuar Parveen",
+      "degree": "MBBS, FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Shahjalal Medical Services, Sylhet\nAddress: 33, Arnob, Mirer Maidan, Police Line Raod, Sylhet 3100\nVisiting Hour: 6pm to 9pm (Closed: Friday)\nAppointment: +8801644113028\nCall Now",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801716681929Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Jamila Alam",
+      "degree": "MBBS, BCS (Health), FCPS (OBGYN), DGO (BSMMU), MCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+      "info": "Prof. Dr. Jamila Alam is a Gynecologist in Sylhet. Her qualification is MBBS, BCS (Health), FCPS (OBGYN), DGO (BSMMU), MCPS (OBGYN). She is a Professor of Gynecology at Jalalabad Ragib-Rabeya Medical College & Hospital. She regularly provides treatment to her patients at Ibn Sina Hospital, Sylhet. Practicing hour of Prof. Dr. Jamila Alam at Ibn Sina Hospital, Sylhet is Evening (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Hospital, Sylhet",
+        "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+        "visitingTime": "Evening (Closed: Friday)",
+        "appointmentNumber": "+8809610009640Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Shahana Ferdous Choudhury",
+      "degree": "MBBS, FCPS (OBGYN), Training (VVF & Laparoscopic Surgery)",
+      "specialty": "Gynecology Specialist & Surgeon",
+      "workplace": "Sylhet Womens Medical College & Hospital",
+      "info": "Prof. Dr. Shahana Ferdous Choudhury is a Gynecologist in Sylhet. Her qualification is MBBS, FCPS (OBGYN), Training (VVF & Laparoscopic Surgery). She is a Professor & Head, Gynecology & Obstetrics at Sylhet Womens Medical College & Hospital. She regularly provides treatment to her patients at United Poly Clinic, Sylhet. Practicing hour of Prof. Dr. Shahana Ferdous Choudhury at United Poly Clinic, Sylhet is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "United Poly Clinic, Sylhet",
+        "address": "Box Mansion, Zindabazar, Sylhet",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801712731512Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Namita Rani Sinha",
+      "degree": "MBBS, FCPS (OBGYN)",
+      "specialty": "Gynecologist, Obstetrician & Surgeon",
+      "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+      "info": "Prof. Dr. Namita Rani Sinha is a Gynecologist in Sylhet. Her qualification is MBBS, FCPS (OBGYN). She is a Professor, Gynecology & Obstetrics at Jalalabad Ragib-Rabeya Medical College & Hospital. She regularly provides treatment to her patients at Labaid Diagnostic Limited, Sylhet. Practicing hour of Prof. Dr. Namita Rani Sinha at Labaid Diagnostic Limited, Sylhet is 4pm to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic Limited, Sylhet",
+        "address": "House # 362-363, New Medical Road, Kajol Shah, Sylhet",
+        "visitingTime": "4pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662727Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Nahid Elora",
+      "degree": "MBBS, FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "North East Medical College & Hospital",
+      "info": "Prof. Dr. Nahid Elora is a Gynecologist in Sylhet. Her qualification is MBBS, FCPS (OBGYN). She is a Professor, Gynecology & Obstetrics at North East Medical College & Hospital. She regularly provides treatment to her patients at North East Medical College & Hospital. Practicing hour of Prof. Dr. Nahid Elora at North East Medical College & Hospital is 10am to 1.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "North East Medical College & Hospital",
+        "address": "Gohorpur Road, South Surma, Sylhet - 3100",
+        "visitingTime": "10am to 1.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801715944733Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Dilip Kumar Bhowmik",
+      "degree": "MBBS, MCPS (OBGYN), DGO, MS (OBGYN)",
+      "specialty": "Gynecologist & Surgeon",
+      "workplace": "Parkview Medical College & Hospital, Sylhet",
+      "info": "Prof. Dr. Dilip Kumar Bhowmik is a Gynecologist in Sylhet. His qualification is MBBS, MCPS (OBGYN), DGO, MS (OBGYN). He is a Professor & Head, Gynecology & Obstetrics at Parkview Medical College & Hospital, Sylhet. He regularly provides treatment to his patients at Popular Medical Center, Sylhet. Practicing hour of Prof. Dr. Dilip Kumar Bhowmik at Popular Medical Center, Sylhet is 5pm to 8pm (Sun, Tue & Thursday).",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Sun, Tue & Thursday)",
+        "appointmentNumber": "+8801821594070Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Shamima Akter Shipa",
+      "degree": "MBBS, MS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
+      "workplace": "Parkview Medical College & Hospital, Sylhet",
+      "info": "Ibn Sina Hospital, Sylhet\nAddress: Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet\nVisiting Hour: Evening (Closed: Friday)\nAppointment: +8809610009640\nCall Now",
+      "chamber": {
+        "hospital": "Trust Medical Services, Sylhet",
+        "address": "16, Modhushahid, New Medical Road, Sylhet - 3100",
+        "visitingTime": "7pm to 8.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801797571056Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Jahanara Begum",
+      "degree": "MBBS, BCS (Health), MCPS (OBGYN), DGO, MS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Prof. Dr. Jahanara Begum is a Gynecologist in Sylhet. Her qualification is MBBS, BCS (Health), MCPS (OBGYN), DGO, MS (OBGYN). She is a Professor (Ex), Gynecology & Obstetrics at Sylhet MAG Osmani Medical College & Hospital. She regularly provides treatment to her patients at Ibn Sina Hospital, Sylhet. Practicing hour of Prof. Dr. Jahanara Begum at Ibn Sina Hospital, Sylhet is Evening (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Hospital, Sylhet",
+        "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+        "visitingTime": "Evening (Closed: Friday)",
+        "appointmentNumber": "+8809610009640Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Nadira Begum",
+      "degree": "MBBS, FCPS (OBGYN), Training (Laparoscopy & Infertility)",
+      "specialty": "Gynecology, Obstetrics, Infertility Specialist & Laparoscopic Surgeon",
+      "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+      "info": "Oasis Hospital, SylhetAddress: Bishwa Road, Subhanighat, Sylhet Sadar, Sylhet – 3100Visiting Hour: 5pm to 9pm (Sun, Tue & Thursday)Appointment: +8801763990044Call Now",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "10am to 1pm (Closed: Friday)",
+        "appointmentNumber": "+8801732658777Call Now"
+      }
+    },
+    {
+      "name": "Dr. Rezwana Mirza",
+      "degree": "MBBS (CU), BCS (Health), DGO, FCPS (OBGYN)",
+      "specialty": "Gynecology Specialist & Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Rezwana Mirza is a Gynecologist in Sylhet. Her qualification is MBBS (CU), BCS (Health), DGO, FCPS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Sylhet MAG Osmani Medical College & Hospital. She regularly provides treatment to her patients at Mount Adora Hospital, Nayasarak, Sylhet. Practicing hour of Dr. Rezwana Mirza at Mount Adora Hospital, Nayasarak, Sylhet is 3pm to 5pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Nayasarak, Sylhet",
+        "address": "Nayasarak Road, Mirboxtula, Nayasarak, Sylhet - 3100",
+        "visitingTime": "3pm to 5pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801796179112Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Forhat Mahal",
+      "degree": "MBBS, FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "North East Medical College & Hospital",
+      "info": "Prof. Dr. Forhat Mahal is a Gynecologist in Sylhet. Her qualification is MBBS, FCPS (OBGYN). She is a Professor & Head, Gynecology & Obstetrics at North East Medical College & Hospital. She regularly provides treatment to her patients at Mother Care Clinic. Practicing hour of Prof. Dr. Forhat Mahal at Mother Care Clinic is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Mother Care Clinic",
+        "address": "VIP Road (Old Medical Road), Sylhet",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801613713131Call Now"
+      }
+    },
+    {
+      "name": "Dr. Shah Fahmida Siddiqua Poppy",
+      "degree": "MBBS, FCPS (OBGYN), MS (OBGYN)",
+      "specialty": "Gynecology, Infertility Specialist & Laparoscopic Surgeon",
+      "workplace": "Shahid Shamsuddin Ahmed District Hospital, Sylhet",
+      "info": "Dr. Shah Fahmida Siddiqua Poppy is a Gynecologist in Sylhet. Her qualification is MBBS, FCPS (OBGYN), MS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Shahid Shamsuddin Ahmed District Hospital, Sylhet. She regularly provides treatment to her patients at Comfort Medical Services, Sylhet. Practicing hour of Dr. Shah Fahmida Siddiqua Poppy at Comfort Medical Services, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Comfort Medical Services, Sylhet",
+        "address": "17, New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801730585050Call Now"
+      }
+    },
+    {
+      "name": "Dr. Ruly Binte Rahim",
+      "degree": "MBBS, BCS (Health), FCPS (Obs & Gynae)",
+      "specialty": "Gynecology, Obstetrics, Infertility Specialist & Laparoscopic Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Ruly Binte Rahim is a Gynecologist in Sylhet. Her qualification is MBBS, FCPS (Obst-Gynae), Diploma in ART (IVF, ICSI, IUI) and Reproductive Medicine (Germany), BCS (Health), Advanced trained in Laparoscopic surgery. She is a Consultant in the Department of Gynecology & Obstetrics at Sylhet MAG Osmani Medical College Hospital and Noorjahan Hospital, Sylhet. She regularly provides treatment to her patients at Noorjahan Hospital, Sylhet. Practicing hour of Dr. Ruly Binte Rahim at Noorjahan Hospital, Sylhet is 6pm to 9pm (Closed: Monday and Friday).",
+      "chamber": {
+        "hospital": "Noorjahan Hospital, Sylhet",
+        "address": "Room # 413 (4th Floor), Waves 1, Ritz Tower, Dargah Gate, Sylhet",
+        "visitingTime": "6pm to 9pm (Closed: Monday & Friday)",
+        "appointmentNumber": "+8801309720016Call Now"
+      }
+    },
+    {
+      "name": "Dr. Fahmina Akter Fahmi",
+      "degree": "MBBS, BCS (Health), MS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Fahmina Akter Fahmi is a Cardiologist in Sylhet. Her qualification is MBBS, BCS (Health), MS (OBGYN). She is a Resident Surgeon, Gynecology & Obstetrics at Sylhet MAG Osmani Medical College & Hospital. She regularly provides treatment to her patients at Popular Medical Center, Sylhet. Practicing hour of Dr. Fahmina Akter Fahmi at Popular Medical Center, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801743528088Call Now"
+      }
+    },
+    {
+      "name": "Dr. Salma Akter",
+      "degree": "MBBS (DMC), BCS (Health), FCPS (OBGYN)",
+      "specialty": "Gynecologist & Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Salma Akter is a Gynecologist in Sylhet. Her qualification is MBBS (DMC), BCS (Health), FCPS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Sylhet MAG Osmani Medical College & Hospital. She regularly provides treatment to her patients at Medinova Medical Services, Sylhet. Practicing hour of Dr. Salma Akter at Medinova Medical Services, Sylhet is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Sylhet",
+        "address": "98, New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+880821710918Call Now"
+      }
+    },
+    {
+      "name": "Dr. Shahinara Islam Marine",
+      "degree": "MBBS (AFMC), BCS (Health), MCPS (Obs & Gynae), FCPS (Obs & Gynae)",
+      "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Shahinara Islam Marine is a Gynecologist in Sylhet. Her qualification is MBBS (AFMC), BCS (Health), MCPS (Obs & Gynae), FCPS (Obs & Gynae). She is a Consultant, Gynecology & Obstetrics at Sylhet MAG Osmani Medical College & Hospital. She regularly provides treatment to her patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Dr. Shahinara Islam Marine at Mount Adora Hospital, Akhalia, Sylhet is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Room - 1416, Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801326543163Call Now"
+      }
+    },
+    {
+      "name": "Dr. Nazma Begum",
+      "degree": "MBBS, BCS (Health), FCPS (OBGYN), MCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Shahid Shamsuddin Ahmed District Hospital, Sylhet",
+      "info": "Dr. Nazma Begum is a Gynecologist in Sylhet. Her qualification is MBBS, BCS (Health), FCPS (OBGYN), MCPS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Shahid Shamsuddin Ahmed District Hospital, Sylhet. She regularly provides treatment to her patients at Mount Adora Hospital, Nayasarak, Sylhet. Practicing hour of Dr. Nazma Begum at Mount Adora Hospital, Nayasarak, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Nayasarak, Sylhet",
+        "address": "Nayasarak Road, Mirboxtula, Nayasarak, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801711227561Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Ayesha Rahim",
+      "degree": "MBBS, DGO, MCPS, FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Prof. Dr. Ayesha Rahim is a Gynecologist in Sylhet. Her qualification is MBBS, DGO, MCPS, FCPS (OBGYN). She is a Professor, Gynecology & Obstetrics at Sylhet MAG Osmani Medical College & Hospital. She regularly provides treatment to her patients at Oasis Hospital, Sylhet. Practicing hour of Prof. Dr. Ayesha Rahim at Oasis Hospital, Sylhet is 5pm to 9pm (Saturday & Sunday).",
+      "chamber": {
+        "hospital": "Oasis Hospital, Sylhet",
+        "address": "Bishwa Road, Subhanighat, Sylhet Sadar, Sylhet - 3100",
+        "visitingTime": "5pm to 9pm (Saturday & Sunday)",
+        "appointmentNumber": "+8801763990044Call Now"
+      }
+    },
+    {
+      "name": "Dr. Lubna Yeasmin",
+      "degree": "MBBS, DGO (OBGYN), FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
+      "workplace": "Sylhet Womens Medical College & Hospital",
+      "info": "Mount Adora Hospital, Nayasarak, Sylhet\nAddress: Nayasarak Road, Mirboxtula, Nayasarak, Sylhet – 3100\nVisiting Hour: 4pm to 8pm (Closed: Friday)\nAppointment: +8801798522886\nCall Now",
+      "chamber": {
+        "hospital": "Al Haramain Hospital, Sylhet",
+        "address": "Samato-30, Chali Bandar, Bishwa Road, Subhani Ghat, Sylhet",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801931225555Call Now"
+      }
+    },
+    {
+      "name": "Dr. Ebana Begum",
+      "degree": "MBBS, FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Ebana Begum is a Gynecologist in Sylhet. Her qualification is MBBS, FCPS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Sylhet MAG Osmani Medical College & Hospital. She regularly provides treatment to her patients at Medi-Aid Diagnostic & Consultation Center. Practicing hour of Dr. Ebana Begum at Medi-Aid Diagnostic & Consultation Center is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medi-Aid Diagnostic & Consultation Center",
+        "address": "Medical College Road, Modhushohid, Rikabi Bazar, Sylhet - 3100",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801711275902Call Now"
+      }
+    },
+    {
+      "name": "Dr. Fatematuz Zuhora",
+      "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Fatematuz Zuhora is a Gynecologist in Sylhet. Her qualification is MBBS, BCS (Health), FCPS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Sylhet MAG Osmani Medical College & Hospital. She regularly provides treatment to her patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Dr. Fatematuz Zuhora at Mount Adora Hospital, Akhalia, Sylhet is 6pm to 8pm (Sat, Mon, Tue & Wednesday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "6pm to 8pm (Sat, Mon, Tue & Wednesday)",
+        "appointmentNumber": "+8801759327992Call Now"
+      }
+    },
+    {
+      "name": "Dr. Sanchita Rani Sinha",
+      "degree": "MBBS, BCS (Health), MS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Sanchita Rani Sinha is a Gynecologist in Sylhet. Her qualification is MBBS, BCS (Health), MS (OBGYN). She is a Assistant Professor, Gynecology & Obstetrics at Sylhet MAG Osmani Medical College & Hospital. She regularly provides treatment to her patients at Popular Medical Center & Hospital, Sylhet. Practicing hour of Dr. Sanchita Rani Sinha at Popular Medical Center & Hospital, Sylhet is 5:30pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Medical Center & Hospital, Sylhet",
+        "address": "Subhanighat, Sylhet",
+        "visitingTime": "5:30pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801773035138Call Now"
+      }
+    },
+    {
+      "name": "Dr. Rina Akther",
+      "degree": "MBBS, BCS (Health), MS (OBGYN), Training (Infertility)",
+      "specialty": "Gynecology, Infertility Specialist & Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Rina Akther is a Gynecologist in Sylhet. Her qualification is MBBS, BCS (Health), MS (OBGYN), Training (Infertility). She is a Associate Professor, Gynecology & Obstetrics at Sylhet MAG Osmani Medical College & Hospital. She regularly provides treatment to her patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Dr. Rina Akther at Mount Adora Hospital, Akhalia, Sylhet is 4pm to 8pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "4pm to 8pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801742215682Call Now"
+      }
+    },
+    {
+      "name": "Dr. Rabeya Begum",
+      "degree": "MBBS, FCPS (OBGYN), Training (Laparoscopic Surgery)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "North East Medical College & Hospital",
+      "info": "North East Medical College & Hospital\nAddress: Gohorpur Road, South Surma, Sylhet – 3100\nVisiting Hour: 10am to 1.30pm (Closed: Friday)\nAppointment: +8801715944733\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Hospital, Sylhet",
+        "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+        "visitingTime": "Evening (Closed: Friday)",
+        "appointmentNumber": "+8809610009640Call Now"
+      }
+    },
+    {
+      "name": "Dr. Nujhat Sharmin Urmi",
+      "degree": "MBBS, FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+      "info": "Dr. Nujhat Sharmin Urmi is a Gynecologist in Sylhet. Her qualification is MBBS, FCPS (OBGYN). She is a Assistant Professor, Gynecology & Obstetrics at Jalalabad Ragib-Rabeya Medical College & Hospital. She regularly provides treatment to her patients at Oasis Hospital, Sylhet. Practicing hour of Dr. Nujhat Sharmin Urmi at Oasis Hospital, Sylhet is 5pm to 8pm (Sun, Mon, Tue, Wed).",
+      "chamber": {
+        "hospital": "Oasis Hospital, Sylhet",
+        "address": "Bishwa Road, Subhanighat, Sylhet Sadar, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Sun, Mon, Tue, Wed)",
+        "appointmentNumber": "+8801763990044Call Now"
+      }
+    },
+    {
+      "name": "Dr. Nasrin Chowdhury Sumi",
+      "degree": "MBBS (SOMC), FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "North East Medical College & Hospital",
+      "info": "North East Medical College & Hospital\nAddress: Gohorpur Road, South Surma, Sylhet – 3100\nVisiting Hour: 10am to 1.30pm (Closed: Friday)\nAppointment: +8801715944733\nCall Now",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Nayasarak, Sylhet",
+        "address": "Nayasarak Road, Mirboxtula, Nayasarak, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801719197943Call Now"
+      }
+    },
+    {
+      "name": "Dr. Habiba Akter",
+      "degree": "MBBS, FCPS (OBGYN), FACP (USA)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "North East Medical College & Hospital",
+      "info": "North East Medical College & Hospital\nAddress: Gohorpur Road, South Surma, Sylhet – 3100\nVisiting Hour: 10am to 1.30pm (Closed: Friday)\nAppointment: +8801715944733\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Rikabi Bazar",
+        "address": "New Medical College Road, Rikabi Bazar, Sylhet - 3100",
+        "visitingTime": "4pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801708399305Call Now"
+      }
+    },
+    {
+      "name": "Dr. Maya Rani Das",
+      "degree": "MBBS (Dhaka), BCS (Health), FCPS (OBGYN), MCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Maya Rani Das is a Gynecologist in Sylhet. Her qualification is MBBS (Dhaka), BCS (Health), FCPS (OBGYN), MCPS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Sylhet MAG Osmani Medical College & Hospital. She regularly provides treatment to her patients at Popular Medical Center, Sylhet. Practicing hour of Dr. Maya Rani Das at Popular Medical Center, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801786459818Call Now"
+      }
+    },
+    {
+      "name": "Dr. Homaira Begum",
+      "degree": "MBBS, MCPS (OBGYN), DGO, MS (OBGYN)",
+      "specialty": "Gynecology & Obstetrics Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Homaira Begum is a Gynecologist in Sylhet. Her qualification is MBBS, MCPS (OBGYN), DGO, MS (OBGYN). She is a Assistant Professor, Gynecology & Obstetrics at Sylhet MAG Osmani Medical College & Hospital. She regularly provides treatment to her patients at Popular Medical Center, Sylhet. Practicing hour of Dr. Homaira Begum at Popular Medical Center, Sylhet is 5.30pm to 8.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "5.30pm to 8.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801735400204Call Now"
+      }
+    },
+    {
+      "name": "Dr. Jafrin Yasmin Chowdhury",
+      "degree": "MBBS, FCPS (OBGYN)",
+      "specialty": "Gynecology Specialist & Surgeon",
+      "workplace": "North East Medical College & Hospital",
+      "info": "Popular Medical Center & Hospital, SylhetAddress: Subhanighat, SylhetVisiting Hour: 6pm to 9pm (Closed: Friday)Appointment: +8801752799711Call Now",
+      "chamber": {
+        "hospital": "North East Medical College & Hospital",
+        "address": "Gohorpur Road, South Surma, Sylhet - 3100",
+        "visitingTime": "10am to 1.30pm (Sat to Thu) & 6pm to 8pm (Sat, Mon, Wed & Thu)",
+        "appointmentNumber": "+8801715944733Call Now"
+      }
+    },
+    {
+      "name": "Dr. Ishrat Jahan Karim",
+      "degree": "MBBS, BCS (Health), MS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Ishrat Jahan Karim is a Gynecologist in Sylhet. Her qualification is MBBS, BCS (Health), MS (OBGYN). She is a Assistant Professor, Gynecology & Obstetrics at Sylhet MAG Osmani Medical College & Hospital. She regularly provides treatment to her patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Dr. Ishrat Jahan Karim at Mount Adora Hospital, Akhalia, Sylhet is 4pm to 9pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "4pm to 9pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801703954307Call Now"
+      }
+    },
+    {
+      "name": "Dr. Arpita Bhattacharjee",
+      "degree": "MBBS, FCPS (OBGYN)",
+      "specialty": "Gynecology & Infertility Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Arpita Bhattacharjee is a Gynecologist in Sylhet. Her qualification is MBBS, FCPS (OBGYN). She is a Surgeon, Gynecology & Obstetrics at Sylhet MAG Osmani Medical College & Hospital. She regularly provides treatment to her patients at Popular Medical Center, Sylhet. Practicing hour of Dr. Arpita Bhattacharjee at Popular Medical Center, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801730265034Call Now"
+      }
+    },
+    {
+      "name": "Dr. Fahim Ara Khanom Jenny",
+      "degree": "MBBS, DGO (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Sylhet Womens Medical College & Hospital",
+      "info": "Dr. Fahim Ara Khanom Jenny is a Gynecologist in Sylhet. Her qualification is MBBS, DGO (OBGYN). She is a Assistant Professor, Gynecology & Obstetrics at Sylhet Womens Medical College & Hospital. She regularly provides treatment to her patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Dr. Fahim Ara Khanom Jenny at Mount Adora Hospital, Akhalia, Sylhet is 5pm to 8pm (Sun, Tue, Wed & Thursday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Sun, Tue, Wed & Thursday)",
+        "appointmentNumber": "+8801791477944Call Now"
+      }
+    },
+    {
+      "name": "Dr. Sayera Begum Chowdhury",
+      "degree": "MBBS, MCPS, FCPS (OBGYN)",
+      "specialty": "Obstetrics, Gynecology Specialist & Surgeon",
+      "workplace": "North East Medical College & Hospital",
+      "info": "Dr. Sayera Begum Chowdhury is a Gynecologist in Sylhet. Her qualification is MBBS, MCPS, FCPS (OBGYN). She is a Residential Surgeon, Obstetrics & Gynecology at North East Medical College & Hospital. She regularly provides treatment to her patients at Ayesha Medicare. Practicing hour of Dr. Sayera Begum Chowdhury at Ayesha Medicare is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ayesha Medicare",
+        "address": "Mirza Jangal Road, Lamabazar, Sylhet",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+880821717222Call Now"
+      }
+    },
+    {
+      "name": "Dr. Natia Rahnuma",
+      "degree": "MBBS, FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+      "info": "Dr. Natia Rahnuma is a Gynecologist in Sylhet. Her qualification is MBBS, FCPS (OBGYN). She is a Assistant Professor, Gynecology & Obstetrics at Jalalabad Ragib-Rabeya Medical College & Hospital. She regularly provides treatment to her patients at Ibn Sina Diagnostic Center, Rikabi Bazar. Practicing hour of Dr. Natia Rahnuma at Ibn Sina Diagnostic Center, Rikabi Bazar is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Rikabi Bazar",
+        "address": "New Medical College Road, Rikabi Bazar, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801708399305Call Now"
+      }
+    },
+    {
+      "name": "Dr. Rabeya Nashrin",
+      "degree": "MBBS, DGO",
+      "specialty": "Gynecologist & Surgeon",
+      "workplace": "Al Haramain Hospital Private Limited, Sylhet",
+      "info": "Dr. Rabeya Nashrin is a Gynecologist in Sylhet. Her qualification is MBBS, DGO. She is a Consultant, Gynecology & Obstetrics at Al Haramain Hospital Private Limited, Sylhet. She regularly provides treatment to her patients at Al Haramain Hospital, Sylhet. Practicing hour of Dr. Rabeya Nashrin at Al Haramain Hospital, Sylhet is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Al Haramain Hospital, Sylhet",
+        "address": "Samato-30, Chali Bandar, Bishwa Road, Subhani Ghat, Sylhet",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801931225555Call Now"
+      }
+    },
+    {
+      "name": "Dr. Fatema Yeasmin (Popy)",
+      "degree": "MBBS, MS (OBGYN)",
+      "specialty": "Gynecology & Obstetrics Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Fatema Yeasmin (Popy) is a Gynecologist in Sylhet. Her qualification is MBBS, MS (OBGYN). She is a Registrar, Gynecology & Obstetrics at Sylhet MAG Osmani Medical College & Hospital. She regularly provides treatment to her patients at Trust Medical Services, Sylhet. Practicing hour of Dr. Fatema Yeasmin (Popy) at Trust Medical Services, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Trust Medical Services, Sylhet",
+        "address": "16, Modhushahid, New Medical Road, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801926677792Call Now"
+      }
+    },
+    {
+      "name": "Dr. Khursheda Tahmin Shimu",
+      "degree": "MBBS, BCS (Health), MS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Khursheda Tahmin Shimu is a Gynecologist in Sylhet. Her qualification is MBBS, BCS (Health), MS (OBGYN). She is a Assistant Professor, Gynecology & Obstetrics at Sylhet MAG Osmani Medical College & Hospital. She regularly provides treatment to her patients at Noorjahan Hospital, Sylhet. Practicing hour of Dr. Khursheda Tahmin Shimu at Noorjahan Hospital, Sylhet is 4pm to 7pm (Only Thursday).",
+      "chamber": {
+        "hospital": "Noorjahan Hospital, Sylhet",
+        "address": "Waves 1, Ritz Tower, Dargah Gate, Sylhet - 3100",
+        "visitingTime": "4pm to 7pm (Only Thursday)",
+        "appointmentNumber": "+8801979005522Call Now"
+      }
+    },
+    {
+      "name": "Dr. Jakia Jahan Chowdhury",
+      "degree": "MBBS, MS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
+      "workplace": "North East Medical College & Hospital",
+      "info": "Dr. Jakia Jahan Chowdhury is a Gynecologist in Sylhet. Her qualification is MBBS, MS (OBGYN). She is a Associate Professor, Gynecology & Obstetrics at North East Medical College & Hospital. She regularly provides treatment to her patients at North East Medical College & Hospital. Practicing hour of Dr. Jakia Jahan Chowdhury at North East Medical College & Hospital is 10am to 1.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "North East Medical College & Hospital",
+        "address": "Gohorpur Road, South Surma, Sylhet - 3100",
+        "visitingTime": "10am to 1.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801715944733Call Now"
+      }
+    },
+    {
+      "name": "Dr. Shukla Rani Das",
+      "degree": "MBBS, DGO, MS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Shukla Rani Das is a Gynecologist in Sylhet. Her qualification is MBBS, DGO, MS (OBGYN). She is a Assistant Professor, Gynecology & Obstetrics at Sylhet MAG Osmani Medical College & Hospital. She regularly provides treatment to her patients at Trust Medical Services, Sylhet. Practicing hour of Dr. Shukla Rani Das at Trust Medical Services, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Trust Medical Services, Sylhet",
+        "address": "16, Modhushahid, New Medical Road, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801740790118Call Now"
+      }
+    },
+    {
+      "name": "Dr. Saiqa Rehnuma",
+      "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Saiqa Rehnuma is a Gynecologist in Sylhet. Her qualification is MBBS, BCS (Health), FCPS (OBGYN). She is a Registrar, Gynecology & Obstetrics at Sylhet MAG Osmani Medical College & Hospital. She regularly provides treatment to her patients at Oasis Hospital, Sylhet. Practicing hour of Dr. Saiqa Rehnuma at Oasis Hospital, Sylhet is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Oasis Hospital, Sylhet",
+        "address": "Bishwa Road, Subhanighat, Sylhet Sadar, Sylhet - 3100",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801763990044Call Now"
+      }
+    },
+    {
+      "name": "Major Dr. Zannatul Ferdaushi",
+      "degree": "MBBS, DMU, DGO, FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Combined Military Hospital, Sylhet",
+      "info": "Major Dr. Zannatul Ferdaushi is a Gynecologist in Sylhet. Her qualification is MBBS, DMU, DGO, FCPS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Combined Military Hospital, Sylhet. She regularly provides treatment to her patients at Ibn Sina Hospital, Sylhet. Practicing hour of Major Dr. Zannatul Ferdaushi at Ibn Sina Hospital, Sylhet is Evening (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Hospital, Sylhet",
+        "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+        "visitingTime": "Evening (Closed: Friday)",
+        "appointmentNumber": "+8809610009640Call Now"
+      }
+    },
+    {
+      "name": "Dr. Murshida Afroz Lubna",
+      "degree": "MBBS, DGO (OBGYN), CCD (BIRDEM), DMU (Ultrasonography)",
+      "specialty": "Gynecology Specialist & Surgeon",
+      "workplace": "Sylhet Womens Medical College & Hospital",
+      "info": "Dr. Murshida Afroz Lubna is a Gynecologist in Sylhet. Her qualification is MBBS, DGO (OBGYN), CCD (BIRDEM), DMU (Ultrasonography). She is a Assistant Professor, Gynecology & Obstetrics at Sylhet Womens Medical College & Hospital. She regularly provides treatment to her patients at Comfort Medical Services, Sylhet. Practicing hour of Dr. Murshida Afroz Lubna at Comfort Medical Services, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Comfort Medical Services, Sylhet",
+        "address": "17, New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801730585050Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mahnaz Syed",
+      "degree": "MBBS, MS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Mahnaz Syed is a Gynecologist in Sylhet. Her qualification is MBBS, MS (OBGYN). She is a Lecturer, Pathology at Sylhet MAG Osmani Medical College & Hospital. She regularly provides treatment to her patients at National Diagnostic Center, Sylhet. Practicing hour of Dr. Mahnaz Syed at National Diagnostic Center, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "National Diagnostic Center, Sylhet",
+        "address": "33, Arnob Mirer Moydan Point, Polica Line, Sylhet",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801737321777Call Now"
+      }
+    },
+    {
+      "name": "Dr. Jerin Tasmin Tulip",
+      "degree": "MBBS (SOMC), MCPS (OBGYN), FCPS (OBGYN)",
+      "specialty": "Gynecologist & Surgeon",
+      "workplace": "Ibn Sina Diagnostic & Consultation Center",
+      "info": "Dr. Jerin Tasmin Tulip is a Gynecologist in Sylhet. Her qualification is MBBS (SOMC), MCPS (OBGYN), FCPS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Ibn Sina Diagnostic & Consultation Center. She regularly provides treatment to her patients at Ibn Sina Diagnostic Center, Rikabi Bazar. Practicing hour of Dr. Jerin Tasmin Tulip at Ibn Sina Diagnostic Center, Rikabi Bazar is 5pm to 7pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Rikabi Bazar",
+        "address": "New Medical College Road, Rikabi Bazar, Sylhet - 3100",
+        "visitingTime": "5pm to 7pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801708399305Call Now"
+      }
+    },
+    {
+      "name": "Dr. Tahmina Begum Poly",
+      "degree": "MBBS, FCPS (Gynae & Obst)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "North East Medical College & Hospital, Sylhet",
+      "info": "Dr. Tahmina Begum Poly is a Gynecologist in Sylhet. Her qualification is MBBS, FCPS (Gynae & Obst). She is a Assistant Professor (Gyne & Obs Dept) at North East Medical College & Hospital, Sylhet. She regularly provides treatment to her patients at Mount Adora Hospital, Nayasarak, Sylhet. Practicing hour of Dr. Tahmina Begum Poly at Mount Adora Hospital, Nayasarak, Sylhet is 6pm to 8.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Nayasarak, Sylhet",
+        "address": "Nayasarak Road, Mirboxtula, Nayasarak, Sylhet - 3100",
+        "visitingTime": "6pm to 8.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801842497395Call Now"
+      }
+    }
+  ]
+}

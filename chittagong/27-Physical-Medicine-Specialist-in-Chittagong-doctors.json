@@ -1,0 +1,355 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Palash Nag",
+      "degree": "MBBS (CMC), BCS (Health), FCPS (Physical Medicine), CCD (Diabetology)",
+      "specialty": "Pain, Arthritis, Diabetes, Neuromedicine & Joint  Specialist",
+      "workplace": "Chittagong Medical College & HospitalAppointment: 01810-004550",
+      "info": "Popular Diagnostic Center, Chittagong\nAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 4:30pm to 6:30pm (Closed: Thursday & Friday)\nAppointment: +8809666787810\nCall Now",
+      "chamber": {
+        "hospital": "Asperia Health Care Ltd, Chittagong",
+        "address": "Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801810-004550Call Now"
+      }
+    },
+    {
+      "name": "Dr. A.M.M. Ashraful Islam",
+      "degree": "MBBS (CMC), FCPS (Physical Medicine & Rehabilitation)",
+      "specialty": "Pain, Arthritis, Sports Injury, Stroke & Paralysis Rehab Specialist",
+      "workplace": "Marine City Medical College & HospitalAppointment: 01765031500",
+      "info": "Dr. A.M.M. Ashraful Islam is a Physical Medicine Specialist in Chittagong. His qualification is MBBS (CMC), FCPS (Physical Medicine & Rehabilitation). He is a Consultant, Physical Medicine & Rehabilitation at Marine City Medical College & Hospital. He regularly provides treatment to his patients at Epic Healthcare Ltd. (East Gate Branch). Practicing hour of Dr. A.M.M. Ashraful Islam at Epic Healthcare Ltd. (East Gate Branch) is 6pm to 9.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Epic Healthcare Ltd. (East Gate Branch)",
+        "address": "Room 805, 36, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801765031500Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mohammed Arman",
+      "degree": "MBBS, FCPS, Trained In Neurorehabilitation (ISPRM)",
+      "specialty": "Physical Medicine (Arthritis, Pain, Paralysis, Sports Injury) & Rehab Specialist",
+      "workplace": "Chittagong International Medical College & Hospital",
+      "info": "Qrex Diagnostic & Consultation Centre, Chittagong\nAddress: Plot # 9/A, Road # 1, Lane # 2, Block # G, Halishahar, Chattogram\nVisiting Hour: 3pm to 6pm (Sun, Tue & Thu)\nAppointment: +8801828880299\nCall Now",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "3pm to 6pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801841760769Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Abirul Islam",
+      "degree": "MBBS (CMC), BCS, MPH, FCPS (Physical Medicine)",
+      "specialty": "Physical Medicine (Pain, Arthritis, Paralysis, Sports Injury) & Rehabilitation Specialist",
+      "workplace": "Chittagong Medical College & HospitalBSMMU (PG Hospital), Shahabag, Dhaka (Ex)",
+      "info": "Qmax Health Care, Chittagong\nAddress: Nayabazar Biswa Road Mor, Halishahar, Chattogram\nVisiting Hour: 9pm to 11pm (Sunday and Tuesday)\nAppointment: 01844109955, 01816118301\nCall Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Chittagong",
+        "address": "House # 12/A, Road # 02, Katalgonj, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 9pm (Saturday to Wednesday)",
+        "appointmentNumber": "+8809610009622, +8801816118301Call Now"
+      }
+    },
+    {
+      "name": "Dr. Shakir Ur Rashid",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Physical Medicine (Arthritis, Pain, Paralysis, Stroke Rehab) Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Dr. Shakir Ur Rashid is a Physical Medicine Specialist in Chittagong. His qualification is MBBS, FCPS (Physical Medicine). He is a Consultant (Physical Medicine & Rehabilitation) at Chattogram Maa-O-Shishu Hospital Medical College. He regularly provides treatment to his patients at CSCR Hospital, Chittagong. Practicing hour of Dr. Shakir Ur Rashid at CSCR Hospital, Chittagong is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801842491613Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Abu Taslim",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Pain, Paralysis, Rheumatology, Arthritis, Physical Medicine Specialist",
+      "workplace": "BGC Trust Medical College, Chittagong",
+      "info": "Dr. Md. Abu Taslim is a Physical Medicine Specialist in Chittagong. His qualification is MBBS, FCPS (Physical Medicine). He is a Associate Professor, Physical Medicine & Rehabilitation at BGC Trust Medical College, Chittagong. He regularly provides treatment to his patients at CSCR Hospital, Chittagong. Practicing hour of Dr. Md. Abu Taslim at CSCR Hospital, Chittagong is 7pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801755019576Call Now"
+      }
+    },
+    {
+      "name": "Dr. Nitai Prasad Dutta",
+      "degree": "MBBS, BCS (Health), FCPS (Physical Medicine)",
+      "specialty": "Pain, Paralysis, Rheumatology, Arthritis & Physical Medicine Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Popular Diagnostic Center, ChittagongAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, ChattogramVisiting Hour: 4pm to 10pm (Sun, Tue & Thursday)Appointment: +8809666787810Call Now",
+      "chamber": {
+        "hospital": "Chevron Clinical Laboratory, Chittagong",
+        "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801755666969Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Shawkat Hossain",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Pain, Arthritis, Paralysis & Physical Medicine Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Chittagong\nAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 7:30pm to 8:30pm (Closed: Friday)\nAppointment: +8809666787810\nCall Now",
+      "chamber": {
+        "hospital": "Epic Healthcare, Chittagong",
+        "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "4.30pm to 7.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801984499600Call Now"
+      }
+    },
+    {
+      "name": "Dr. M. Mahbub Alam",
+      "degree": "MBBS (CMC), PhD (Physical Medicine), Advanced Clinical Education (Rheumatology)",
+      "specialty": "Physical Medicine, Pain & Rheumatology Specialist",
+      "workplace": "Chattogram Metropolitan Hospital",
+      "info": "Ibn Sina Diagnostic Center, Chittagong\nAddress: House # 12/A, Road # 02, Katalgonj, Panchlaish, Chattogram\nVisiting Hour: 4pm to 6pm (Closed: Friday)\nAppointment: +8801886610115\nCall Now",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital",
+        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801814651077Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Jahangir Alam Chowdhury",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Arthritis, Pain, Paralysis, Physical Medicine Rehabilitation Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Shahjalal Diagnostic Clinic, Chittagong\nAddress: 143, Sheikh Mujib Road, Badamtoli, Agrabad, Chattogram\nVisiting Hour: 1pm to 3.30pm (Closed: Friday)\nAppointment: +8801842508851\nCall Now",
+      "chamber": {
+        "hospital": "National Hospital, Chittagong",
+        "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
+        "visitingTime": "3pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801822685066Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mohammad Abdur Rahim",
+      "degree": "MBBS, BCS (Health), FCPS (Physical Medicine)",
+      "specialty": "Pain, Arthritis, Paralysis, Physical Medicine & Rehabilitation Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Epic Healthcare, Chittagong\nAddress: 19, K.B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 8.30pm to 10pm (Closed: Friday)\nAppointment: +8801984499600\nCall Now",
+      "chamber": {
+        "hospital": "Chittagong Pain Center",
+        "address": "Rahim Mansion, Suborna Abasik, 1st Goli, Golpahar Mor, Chattogram",
+        "visitingTime": "3pm to 6pm (Sat, Mon, Wed & Thursday)",
+        "appointmentNumber": "+8801963382866Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Aminuddin A. Khan",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Arthritis, Pain, Paralysis, Rheumatology & Medicine Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Prof. Dr. Aminuddin A. Khan is a Physical Medicine Specialist in Chittagong. His qualification is MBBS, FCPS (Physical Medicine). He is a Professor, Physical Medicine & Rehabilitation at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at CSCR Hospital, Chittagong. Practicing hour of Prof. Dr. Aminuddin A. Khan at CSCR Hospital, Chittagong is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801887656565Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mahfuzur Rahman",
+      "degree": "MBBS, FCPS (Physical Medicine), CCD (BIRDEM), FDPC (Pain Management)",
+      "specialty": "Pain, Arthritis, Paralysis & Sports Injury Specialist",
+      "workplace": "Marine City Medical College & Hospital",
+      "info": "Dr. Mahfuzur Rahman is a Physical Medicine Specialist in Chittagong. His qualification is MBBS, FCPS (Physical Medicine), CCD (BIRDEM), FDPC (Pain Management). He is a Assistant Professor, Physical Medicine & Rehabilitation at Marine City Medical College & Hospital. He regularly provides treatment to his patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Mahfuzur Rahman at Parkview Hospital, Chittagong is 7pm to 9pm (Closed: Friday & Saturday).",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 9pm (Closed: Friday & Saturday)",
+        "appointmentNumber": "+8801976022333Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Ahsanul Hoque Chowdhury",
+      "degree": "MBBS, BCS (Health), FCPS (Physical Medicine), CCD (BIRDEM)",
+      "specialty": "Pain, Arthritis, Paralysis & Sports Injury Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Parkview Hospital, Chittagong\nAddress: 94/103, Katalganj Road, Panchlaish, Chattogram\nVisiting Hour: 5pm to 7pm (Closed: Friday)\nAppointment: +8801976022333\nCall Now",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "6pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801620628090Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Suzon Al Hasan",
+      "degree": "MBBS, FCPS (Physical Medicine), Training (Madras)",
+      "specialty": "Physical Medicine, Paralysis, Sport Injury & Arthritis Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Labaid Specialized Hospital, Chattogram\nAddress: 3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram\nVisiting Hour: 10am to 10pm (Thu & Friday)\nAppointment: +8801717746650\nCall Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "4pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787811Call Now"
+      }
+    },
+    {
+      "name": "Prof. Dr. Md. Sheikh Ahmed",
+      "degree": "MBBS, BCS, FCPS (Physical Medicine)",
+      "specialty": "Pain, Arthritis, Paralysis, Physical Medicine & Rehabilitation Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Prof. Dr. Md. Sheikh Ahmed is a Physical Medicine Specialist in Chittagong. His qualification is MBBS, BCS, FCPS (Physical Medicine). He is a Professor, Physical Medicine & Rehabilitation at Chattogram Maa-O-Shishu Hospital Medical College. He regularly provides treatment to his patients at CSCR Hospital, Chittagong. Practicing hour of Prof. Dr. Md. Sheikh Ahmed at CSCR Hospital, Chittagong is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801887656565Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mohammad Ilias",
+      "degree": "MBBS, FCPS (Physical Medicine), FCGP, FIPM (India & Taiwan)",
+      "specialty": "Arthritis, Pain, Paralysis, Sports Injury, Physical Medicine & Rehabilitation Specialist",
+      "workplace": "Bangabandhu Memorial Hospital, USTC, Chittagong",
+      "info": "Al Amin Hospital & Diagnostic Center, Chittagong\nAddress: 830, Zakir Hossain Road, AK Khan Gate, North Pahartali, Chattogram\nVisiting Hour: 1.30pm to 2.30pm (Closed: Friday)\nAppointment: +8801683076070\nCall Now",
+      "chamber": {
+        "hospital": "Surgiscope Hospital, Chittagong",
+        "address": "Unit 2, 53/1, Panchlaish, Chattogram - 4203",
+        "visitingTime": "4pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801812828126Call Now"
+      }
+    },
+    {
+      "name": "Dr. Mohammad Nazim Uddin",
+      "degree": "MBBS, FCPS (PM&R)",
+      "specialty": "Pain, Arthritis, Paralysis, Stroke, Physical Medicine & Rehabilitation Specialist",
+      "workplace": "Center for Specialized Care & Research (CSCR)",
+      "info": "Dr. Mohammad Nazim Uddin is a Physical Medicine Specialist in Chittagong. His qualification is MBBS, FCPS (PM&R). He is a Consultant, Physical Medicine & Rehabilitation at Center for Specialized Care & Research (CSCR). He regularly provides treatment to his patients at CSCR Hospital, Chittagong. Practicing hour of Dr. Mohammad Nazim Uddin at CSCR Hospital, Chittagong is 10am to 2pm & 6pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "10am to 2pm & 6pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801887656565Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Moin Uddin",
+      "degree": "MBBS, BCS (Health), FCPS (Physical Medicine & Rehabilitation)",
+      "specialty": "Interventional Pain, Arthritis & Spine Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Chevron Clinical Laboratory, Halishahar\nAddress: 993/2121, Agrabad Access Road, Halishahar, Chattogram\nVisiting Hour: 5pm to 7pm (Sun, Tue & Thu)\nAppointment: +8801701229090\nCall Now",
+      "chamber": {
+        "hospital": "Epic Healthcare, Chittagong",
+        "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "8pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801984499600Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Zahirul Haque Bhuiyan",
+      "degree": "MBBS, BCS (Health), FCPS (Physical Medicine & Rehabilitation)",
+      "specialty": "Pain, Paralysis, Gout & Rheumatology Specialist",
+      "workplace": "Cox's Bazar Medical College & Hospital",
+      "info": "Dr. Md. Zahirul Haque Bhuiyan is a Physical Medicine Specialist in Chittagong. His qualification is MBBS, BCS (Health), FCPS (Physical Medicine & Rehabilitation). He is a Associate Professor, Physical Medicine & Rehabilitation at Cox's Bazar Medical College & Hospital. He regularly provides treatment to his patients at Epic Healthcare, Chittagong. Practicing hour of Dr. Md. Zahirul Haque Bhuiyan at Epic Healthcare, Chittagong is 7pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Epic Healthcare, Chittagong",
+        "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801984499600Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Amanul Haque Bappy",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Pain, Arthritis, Paralysis, Stroke, Physical Medicine & Rehabilitation Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Md. Amanul Haque Bappy is a Physical Medicine Specialist in Chittagong. His qualification is MBBS, FCPS (Physical Medicine). He is a Assistant Professor, Physical Medicine & Rehabilitation at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at CSCR Hospital, Chittagong. Practicing hour of Dr. Md. Amanul Haque Bappy at CSCR Hospital, Chittagong is 6pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "6pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801954978548Call Now"
+      }
+    },
+    {
+      "name": "Dr. Sumit Roy Chowdhury",
+      "degree": "MBBS, BCS (Health), FCPS (Physical Medicine)",
+      "specialty": "Pain, Paralysis, Arthritis, Neuromedicine & Sports Injury Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Sumit Roy Chowdhury is a Physical Medicine Specialist in Chittagong. His qualification is MBBS, BCS (Health), FCPS (Physical Medicine). He is a Assistant Professor, Physical Medicine & Rehabilitation at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Epic Healthcare, Chittagong. Practicing hour of Dr. Sumit Roy Chowdhury at Epic Healthcare, Chittagong is 6pm to 8.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Epic Healthcare, Chittagong",
+        "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 8.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801984499600Call Now"
+      }
+    },
+    {
+      "name": "Dr. M.A. Mazed",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Physical Medicine (Arthritis, Pain, Paralysis & Sports Injury) Specialist",
+      "workplace": "National Hospital, Chittagong",
+      "info": "Dr. M.A. Mazed is a Physical Medicine Specialist in Chittagong. His qualification is MBBS, FCPS (Physical Medicine). He is a Consultant, Physical Medicine at National Hospital, Chittagong. He regularly provides treatment to his patients at National Hospital, Chittagong. Practicing hour of Dr. M.A. Mazed at National Hospital, Chittagong is 11am to 1pm & 6pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "National Hospital, Chittagong",
+        "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
+        "visitingTime": "11am to 1pm & 6pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801822685066Call Now"
+      }
+    },
+    {
+      "name": "Dr. Kishore Mohajan",
+      "degree": "MBBS, MD (Physical Medicine), CCD (BIRDEM), DPT (Ireland)",
+      "specialty": "Physical Medicine (Pain, Arthritis, Injury, Paralysis) & Rehabilitation Specialist",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Popular Diagnostic Center, Chittagong\nAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 8:30pm to 10:30pm (Closed: Friday)\nAppointment: +8809666787810\nCall Now",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Chattogram",
+        "address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
+        "visitingTime": "4pm to 7pm (Closed: Mon & Friday)",
+        "appointmentNumber": "+8801766662828Call Now"
+      }
+    },
+    {
+      "name": "Dr. Shafiul Karim Md. Elias",
+      "degree": "MBBS, FCPS (Physical Medicine)",
+      "specialty": "Pain, Arthritis, Paralysis, Sports Injury & Physical Medicine Specialist",
+      "workplace": "Chattagram International Medical College & Hospital",
+      "info": "National Hospital, Chittagong\nAddress: 14/15, Dampara Lane, Mehedibag, Chattogram\nVisiting Hour: 2.30pm to 4pm (Closed: Friday)\nAppointment: +8801822685066\nCall Now",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 8pm (Closed: Tuesday & Friday)",
+        "appointmentNumber": "+8801976022333Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Imam Shahriar",
+      "degree": "MBBS, BCS (Health), FCPS (Physical Medicine), CCD (BIRDEM)",
+      "specialty": "Pain, Paralysis, Arthritis, Physical Medicine & Rehabilitation Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Md. Imam Shahriar is a Physical Medicine Specialist in Chittagong. His qualification is MBBS, BCS (Health), FCPS (Physical Medicine), CCD (BIRDEM). He is a Medical Officer, Physical Medicine & Rehabilitation at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Chittagong. Practicing hour of Dr. Md. Imam Shahriar at Popular Diagnostic Center, Chittagong is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Chittagong",
+        "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787810Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Tanzim Hasan Refat",
+      "degree": "MBBS (CMC), BCS (Health), MD (Physical Medicine),Fellowship in Pain Medicine (India)",
+      "specialty": "Pain, Arthritis, Stroke, Paralysis, Sports Injury, Physical Medicine & Rehabilitation Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Qrex Diagnostic & Consultation Centre, Chittagong\nAddress: Plot # 9/A, Road # 1, Lane # 2, Block # G, Halishahar, Chattogram\nVisiting Hour: 5pm to 7pm (Monday & Friday)\nAppointment: +8801828880299\nCall Now",
+      "chamber": {
+        "hospital": "Medical Centre Hospital, Chittagong",
+        "address": "953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram",
+        "visitingTime": "7pm to 9pm (Sat, Mon, Wed & Friday)",
+        "appointmentNumber": "+8801854530414Call Now"
+      }
+    }
+  ]
+}

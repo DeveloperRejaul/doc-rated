@@ -1,0 +1,30 @@
+{
+  "doctor": [
+    {
+      "name": "Dr. Afroza Islam",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "Breast & Colorectal Surgeon",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Afroza Islam is a dedicated breast and colorectal surgeon in Mymensingh, holding MBBS, BCS (Health), and FCPS (Surgery) qualifications. She serves as an Assistant Professor in the Department of Surgery at Mymensingh Medical College & Hospital. Dr. Afroza Islam specializes in the surgical treatment of breast lumps, breast cancer, piles, anal fissures, fistulas, perianal abscesses, rectal polyps, and other colorectal conditions. She offers patient consultations at Nexus Hospital, located at 29, Sehora, Mymensingh Sadar, Mymensingh – 2200. Her chamber is open from 10am to 1pm, Saturday to Wednesday.",
+      "chamber": {
+        "hospital": "Nexus Hospital, Mymensingh",
+        "address": "29, Sehora, Mymensingh Sadar, Mymensingh – 2200",
+        "visitingTime": "10am to 2pm (Saturday to Wednesday)",
+        "appointmentNumber": "+8801796586561Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Ashek Mahmud Ferdaus",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery), FISCP (India), MS (Colorectal Surgery)",
+      "specialty": "Colorectal & Laparoscopic Surgeon",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Mymensingh\nAddress: 171, Charpara, Medical College Gate, Mymensingh – 2200\nVisiting Hour: 4:30pm to 8:30pm (Monday)\nAppointment: +8809666787814\nCall Now",
+      "chamber": {
+        "hospital": "Nexus Hospital, Mymensingh",
+        "address": "29, Sehora, Mymensingh Sadar, Mymensingh – 2200",
+        "visitingTime": "5pm to 9pm (Wed & Thursday)",
+        "appointmentNumber": "+8801796586561Call Now"
+      }
+    }
+  ]
+}

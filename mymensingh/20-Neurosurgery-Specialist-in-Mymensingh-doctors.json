@@ -1,0 +1,56 @@
+{
+  "doctor": [
+    {
+      "name": "Dr Mohammad Harun Ur Rashid",
+      "degree": "MBBS, MS (Neurosurgery)",
+      "specialty": "Neurosurgery (Brain, Nerve, Spine & Stroke Surgery) Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr Mohammad Harun Ur Rashid is a Neurosurgeon in Mymensingh. His qualification is MBBS, MS (Neurosurgery). He is a Associate Professor & Head, Neurosurgery at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Mymensingh. Practicing hour of Dr Mohammad Harun Ur Rashid at Popular Diagnostic Center, Mymensingh is 4pm to 9pm (Thursday) & 10am to 4pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mymensingh",
+        "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+        "visitingTime": "4pm to 9pm (Thursday) & 10am to 4pm (Friday)",
+        "appointmentNumber": "+8801726072231Call Now"
+      }
+    },
+    {
+      "name": "Dr. Md. Shamiul Alam Siddique Shamim",
+      "degree": "MBBS, BCS (Health), MS (Neurosurgery)",
+      "specialty": "Neurosurgery (Brain, Nerve, Stroke & Spine) Specialist Surgeon",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Ibn Sina Medical Imaging Center, ZigatolaAddress: House # 58, Road # 2A, Zigatola Bus Stand, Dhaka – 1209Visiting Hour: 4pm to 7pm (Only Thursday)Appointment: +8801711625173Call Now",
+      "chamber": {
+        "hospital": "Sodesh Hospital, Mymensingh",
+        "address": "298/2, Maskanda (Bus Stand), Mymensingh - 2200",
+        "visitingTime": "4pm to 8pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809666777990Call Now"
+      }
+    },
+    {
+      "name": "Dr. Musannah Ashfaq",
+      "degree": "MBBS, MS (NEUROSURGERY)",
+      "specialty": "Neurosurgery (Brain, Nerve, Spine, Stroke) Specialist",
+      "workplace": "Crescent Gastroliver & General Hospital",
+      "info": "Sodesh Hospital, Mymensingh\nAddress: 298/2, Maskanda (Bus Stand), Mymensingh – 2200\nVisiting Hour: 10am to 4pm (Only Friday)\nAppointment: +8801755308113\nCall Now",
+      "chamber": {
+        "hospital": "Crescent Gastroliver & General Hospital",
+        "address": "25/i, Green Road (East end of Road #7) Dhanmondi, Dhaka",
+        "visitingTime": "10am to 2pm (Closed: Friday & Saturday)",
+        "appointmentNumber": "+8801755308113Call Now"
+      }
+    },
+    {
+      "name": "Dr. Salah Uddin Ahmed",
+      "degree": "MBBS, BCS (Health), MS (Neurosurgery)",
+      "specialty": "Brain, Spine, Stroke & Nerve Specialist Neurosurgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Mymensingh\nAddress: Room 1202, 252/1, Charpara, Medical College Gate, Mymensingh\nVisiting Hour: 5pm to 11pm (Thursday & Friday)\nAppointment: +8801972860871\nCall Now",
+      "chamber": {
+        "hospital": "Dhanmondi General & Kidney Hospital",
+        "address": "Room 312, City Tower, 44/7, West Panthapath, Dhaka 1205",
+        "visitingTime": "4pm to 6pm (Sunday & Tuesday)",
+        "appointmentNumber": "+8801972860871Call Now"
+      }
+    }
+  ]
+}
