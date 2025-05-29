@@ -8,7 +8,7 @@ const bot = new Bot ()
 
 async function main () {
   try {
-    // await bot.init();
+    await bot.init();
     // await bot.getDepartmentList(district);
     // const data = {
     //   "dhaka": [
@@ -19,7 +19,7 @@ async function main () {
     //     },
     //   ]
     // }
-    // await bot.getDoctorList(departments.department);
+    await bot.getDoctorList(departments.department);
     // console.log(doctors.doctor.dhaka.length);
     // console.log(doctors.doctor.chittagong.length);
     // console.log(bot.getTotalDoctorsCount());
