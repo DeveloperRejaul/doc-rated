@@ -1,0 +1,123 @@
+{
+  "doctor": [
+    {
+      "id": "9cb65356-8a0e-4d0c-b6e0-529b0f84f23f",
+      "departmentId": "0c0fb07c-547b-4545-9045-73b87a1995aa",
+      "link": "https://www.doctorbangladesh.com/dr-md-shamsur-rahman/",
+      "imageId": "72ffd01b-fc44-41a0-9553-63b3f90cd700",
+      "name": "Dr. Md. Shamsur Rahman",
+      "degree": "MBBS, MS (Pediatric Surgery)",
+      "specialty": "Pediatric & Plastic Surgery Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Md. Shamsur Rahman is a Pediatric Surgeon in Sylhet. His qualification is MBBS, MS (Pediatric Surgery). He is a Associate Professor, Pediatric Surgery at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Popular Medical Center, Sylhet. Practicing hour of Dr. Md. Shamsur Rahman at Popular Medical Center, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801723166595Call Now"
+      }
+    },
+    {
+      "id": "5780c9d4-7156-4a97-ba57-0b1ecd57308f",
+      "departmentId": "0c0fb07c-547b-4545-9045-73b87a1995aa",
+      "link": "https://www.doctorbangladesh.com/dr-md-tawhidul-islam/",
+      "imageId": "c202e892-11da-41da-baf0-d13e5617ed83",
+      "name": "Dr. Md. Tawhidul Islam",
+      "degree": "MBBS, FCPS (Surgery), MS (Pediatric Surgery)",
+      "specialty": "Pediatric Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Md. Tawhidul Islam is a Pediatric Surgeon in Sylhet. His qualification is MBBS, FCPS (Surgery), MS (Pediatric Surgery). He is an Associate Professor & Head, Pediatric Surgery at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Dr. Md. Tawhidul Islam at Mount Adora Hospital, Akhalia, Sylhet is 5pm to 9pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Room - 1412, Sylhet-Sunamganj Highway, Akhalia, Sylhet",
+        "visitingTime": "5pm to 9pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801711070477Call Now"
+      }
+    },
+    {
+      "id": "2e29a017-c37f-48c7-a769-be4af34c49ee",
+      "departmentId": "0c0fb07c-547b-4545-9045-73b87a1995aa",
+      "link": "https://www.doctorbangladesh.com/dr-md-oyes-ahmed-choudhury/",
+      "imageId": "dbb4de3d-4b40-4713-967b-0d832228123d",
+      "name": "Dr. Md. Oyes Ahmed Choudhury",
+      "degree": "MBBS, MS (Pediatric Surgery), DMCH & FP (Dhaka), MPH (AU)",
+      "specialty": "Pediatric & Child Laparoscopic Surgery Specialist",
+      "workplace": "Sylhet Womens Medical College & Hospital",
+      "info": "Dr. Md. Oyes Ahmed Choudhury is a Pediatric Surgeon in Sylhet. His qualification is MBBS, MS (Pediatric Surgery), DMCH & FP (Dhaka), MPH (AU). He is a Associate Professor & Head, Pediatric Surgery at Sylhet Womens Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Hospital, Sylhet. Practicing hour of Dr. Md. Oyes Ahmed Choudhury at Ibn Sina Hospital, Sylhet is 6pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Hospital, Sylhet",
+        "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+        "visitingTime": "6pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809610009640Call Now"
+      }
+    },
+    {
+      "id": "2314b505-fc59-4a16-a5b6-db3afdf9fe9e",
+      "departmentId": "0c0fb07c-547b-4545-9045-73b87a1995aa",
+      "link": "https://www.doctorbangladesh.com/dr-md-foysol-ahmed/",
+      "imageId": "78a30535-7a09-4740-a903-891e637e61bf",
+      "name": "Dr. Md. Foysol Ahmed",
+      "degree": "MBBS, MS (Pediatric Surgery)",
+      "specialty": "Neonatal & Pediatric Surgery Specialist",
+      "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+      "info": "Dr. Md. Foysol Ahmed is a Pediatric Surgeon in Sylhet. His qualification is MBBS, MS (Pediatric Surgery). He is a Associate Professor & Head, Pediatric Surgery at Jalalabad Ragib-Rabeya Medical College & Hospital. He regularly provides treatment to his patients at Popular Medical Center & Hospital, Sylhet. Practicing hour of Dr. Md. Foysol Ahmed at Popular Medical Center & Hospital, Sylhet is 5.30pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Medical Center & Hospital, Sylhet",
+        "address": "Subhanighat, Sylhet",
+        "visitingTime": "5.30pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801773035138Call Now"
+      }
+    },
+    {
+      "id": "3a446149-4960-4ed8-b2a8-275e6339f9ce",
+      "departmentId": "0c0fb07c-547b-4545-9045-73b87a1995aa",
+      "link": "https://www.doctorbangladesh.com/prof-dr-mrigen-kumar-das-chowdhury/",
+      "imageId": "771b91bf-3a0b-4326-ab8a-abb3d5659ab0",
+      "name": "Prof. Dr. Mrigen Kumar Das Chowdhury",
+      "degree": "MBBS, FCPS (General Surgery), Fellow Pediatric Surgery (Australia)",
+      "specialty": "General & Pediatric Surgery Specialist",
+      "workplace": "Sylhet Womens Medical College & Hospital",
+      "info": "Mount Adora Hospital, Akhalia, Sylhet Address: Sylhet-Sunamganj Highway, Akhalia, Sylhet – 3100 Visiting Hour: 10am to 1pm (Closed: Friday) Appointment: +8801787134034 Call Now",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Nayasarak, Sylhet",
+        "address": "Nayasarak Road, Mirboxtula, Nayasarak, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801787134034Call Now"
+      }
+    },
+    {
+      "id": "f2f90171-7b63-4dfc-ad8d-c5fce010b06f",
+      "departmentId": "0c0fb07c-547b-4545-9045-73b87a1995aa",
+      "link": "https://www.doctorbangladesh.com/dr-kanchan-kumar-deb/",
+      "imageId": "8e0c0b67-ed0d-4b0b-88e6-54e3a8496431",
+      "name": "Dr. Kanchan Kumar Deb",
+      "degree": "MBBS, BCS (Health), MS (Pediatric Surgery)",
+      "specialty": "Pediatric (Newborn, Adolescent & Child) Surgery Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Kanchan Kumar Deb is a Pediatric Surgeon in Sylhet. His qualification is MBBS, BCS (Health), MS (Pediatric Surgery). He is a Pediatric Surgeon, Pediatric Surgery at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Dr. Kanchan Kumar Deb at Mount Adora Hospital, Akhalia, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801715281363Call Now"
+      }
+    },
+    {
+      "id": "4d14988f-05ef-474d-841c-68961ce47b6f",
+      "departmentId": "0c0fb07c-547b-4545-9045-73b87a1995aa",
+      "link": "https://www.doctorbangladesh.com/dr-emon-kanti-moharer/",
+      "imageId": "71c9344c-97e9-4de7-a659-75abb81554b2",
+      "name": "Dr. Emon Kanti Moharer",
+      "degree": "MBBS, BCS (Health), MS (Paediatric Surgery)",
+      "specialty": "Neonatal & Pediatric Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Emon Kanti Moharer is a Pediatric Surgeon in Sylhet. His qualification is MBBS, BCS (Health), MS (Paediatric Surgery). He is a Assistant Registrar (Pediatric Surgery) at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Complex, Sylhet. Practicing hour of Dr. Emon Kanti Moharer at Popular Diagnostic Complex, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Complex, Sylhet",
+        "address": "Room 11, East Chowhatta, Mirboxtula, Sylhet.",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801747775150Call Now"
+      }
+    }
+  ]
+}

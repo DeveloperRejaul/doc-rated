@@ -1,0 +1,21 @@
+{
+  "doctor": [
+    {
+      "id": "2490d11c-5394-4b00-9edb-a5501f832efe",
+      "departmentId": "10f91722-4f32-4456-8f6c-1ea771a2c168",
+      "link": "https://www.doctorbangladesh.com/dr-md-nasir-uddin-mahmud/",
+      "imageId": "bcce1d5e-62f1-463d-b049-7694f819932a",
+      "name": "Prof. Col. Dr. Md. Nasir Uddin (Mahmud)",
+      "degree": "MBBS, FCPS (Surgery), FACS (USA), FMAS (India)Gold Medalist in FCPS (Surgery)",
+      "specialty": "Breast Surgeon & Oncoplastic Breast Surgeon",
+      "workplace": "Combined Military Hospital (CMH), Dhaka",
+      "info": "Prof. Col. Dr. Md. Nasir Uddin (Mahmud) is a highly accomplished Breast Surgeon and Oncoplastic Breast Surgeon in Dhaka, holding MBBS, FCPS in Surgery, FACS from America, and FMAS from India, and is a Gold Medalist in FCPS (Surgery). He has received Post Fellowship Training in Surgical Oncology from NICRH and Advanced Training in Breast Surgery from BSOS. Serving as a Professor of Surgery & Surgical Oncology at Combined Military Hospital (CMH), Dhaka, Dr. Nasir Uddin specializes in the diagnosis and treatment of breast cancer, benign breast lumps, breast infections, gynecomastia, oncoplastic breast reconstruction, and other breast-related diseases. He offers consultations at Labaid Specialized Hospital, Dhanmondi, located at Room 283, House # 06, Road # 04, Dhanmondi, Dhaka – 1205, with visiting hours from 6 pm to 10 pm, except on Fridays.",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Dhanmondi",
+        "address": "Room 283, House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "6pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "10606Call Now"
+      }
+    }
+  ]
+}

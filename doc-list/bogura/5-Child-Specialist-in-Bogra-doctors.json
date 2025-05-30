@@ -1,0 +1,276 @@
+{
+  "doctor": [
+    {
+      "id": "74e0ad67-d665-4f33-8470-22e36b0ae3b7",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/dr-md-ataur-rahman-child/",
+      "imageId": "3abf0524-110c-4df6-9c50-1faef09e790d",
+      "name": "Dr. Md. Ataur Rahman",
+      "degree": "MBBS, FCPS (CHILD)",
+      "specialty": "Child & Newborn Diseases Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Md. Ataur Rahman is a Child Specialist in Bogra. His qualification is MBBS, FCPS (CHILD). He is a Associate Professor & Head, Pediatrics at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Shamsun Nahar Clinic, Bogura. Practicing hour of Dr. Md. Ataur Rahman at Shamsun Nahar Clinic, Bogura is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Shamsun Nahar Clinic, Bogura",
+        "address": "Sherpur Road, South Thanthania, Bogura",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801741683404Call Now"
+      }
+    },
+    {
+      "id": "76524bbf-636c-4313-bcf4-3534d3fee92c",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/prof-dr-a-k-boshak/",
+      "imageId": "78267dca-4049-427d-9e3a-05dc5d482fdb",
+      "name": "Prof. Dr. A.K. Boshak",
+      "degree": "MBBS, BCS (Health), DCH, FCPS (Pediatrics), MD (Neonatal)",
+      "specialty": "Newborn & Child Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Prof. Dr. A.K. Boshak is a Child Specialist in Bogra. His qualification is MBBS, BCS (Health), DCH, FCPS (Pediatrics), MD (Neonatal). He is a Former Professor, Pediatrics at Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic & Consultation Center, Bogra. Practicing hour of Prof. Dr. A.K. Boshak at Ibn Sina Diagnostic & Consultation Center, Bogra is 4.30pm to 5.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
+        "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
+        "visitingTime": "4.30pm to 5.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801701560011Call Now"
+      }
+    },
+    {
+      "id": "5aa78c70-8b7f-4925-b442-271069a4d7b5",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/dr-md-khalilur-rahman-child/",
+      "imageId": "9a6aafb5-cd44-44f4-ad7b-fb1b805ea55b",
+      "name": "Dr. Md. Khalilur Rahman",
+      "degree": "MBBS, BCS (Health), MD (Pediatrics)",
+      "specialty": "Neonatal & Child Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Bogra Address: House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura Visiting Hour: 10am to 1pm (Closed: Friday) Appointment: +8809666787812 Call Now",
+      "chamber": {
+        "hospital": "Saic General Hospital, Bogura",
+        "address": "Bhai Pagla Mazar Lane, Thanthania, Bogura",
+        "visitingTime": "4pm to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8801936005870Call Now"
+      }
+    },
+    {
+      "id": "a6fced08-dbee-475f-b030-61a7af3a6d1a",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/dr-sharmin-afrozi-shilpy/",
+      "imageId": "beaa1f9b-18d8-489b-9397-401912b5a600",
+      "name": "Dr. Sharmin Afrozi Shilpy",
+      "degree": "MBBS, DCH, FCPS (Pediatrics), PGPN (BOSTON)",
+      "specialty": "Newborn, Adolescent, Child Diseases & Nutrition Specialist",
+      "workplace": "Mohammad Ali Hospital, Bogra",
+      "info": "Dr. Sharmin Afrozi Shilpy is a Child Specialist in Bogra. Her qualification is MBBS, DCH, FCPS (Pediatrics), PGPN (BOSTON). She is a Consultant, Pediatrics at Mohammad Ali Hospital, Bogra. She regularly provides treatment to her patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Sharmin Afrozi Shilpy at Popular Diagnostic Center, Bogra is 3pm to 8pm (Sat to Thu) & 10am to 2pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "3pm to 8pm (Sat to Thu) & 10am to 2pm (Friday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "id": "7d4094ff-a337-4977-9f3f-a2c3acccdae5",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/prof-brg-gen-dr-jesmin-sultana/",
+      "imageId": "20a9bdba-b59c-4319-b0da-3f9870059286",
+      "name": "Prof. Brg. Gen. Dr. Jesmin Sultana",
+      "degree": "MBBS, DCH, MCPS, FCPS (Pediatrics)",
+      "specialty": "Neonatal, Adolescent, Child Diseases Specialist",
+      "workplace": "Combined Military Hospital (CMH), Bogra",
+      "info": "Prof. Brg. Gen. Dr. Jesmin Sultana is a Child Specialist in Bogra. Her qualification is MBBS, DCH, MCPS, FCPS (Pediatrics). She is a Professor, Pediatrics at Combined Military Hospital (CMH), Bogra. She regularly provides treatment to her patients at Popular Diagnostic Center, Bogra. Practicing hour of Prof. Brg. Gen. Dr. Jesmin Sultana at Popular Diagnostic Center, Bogra is 3pm to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "3pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "id": "ab29dcf8-3ee5-4c39-bb54-f1bbe2a72ddb",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/dr-jakia-sultana/",
+      "imageId": "cb152c05-8736-4f3d-aa3a-9bfca7d1b366",
+      "name": "Dr. Jakia Sultana",
+      "degree": "MBBS, MCPS (Pediatrics), MD (Pediatric Nephrology)",
+      "specialty": "Child Diseases & Child Kidney Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Jakia Sultana is a Pediatric Nephrologist in Bogra. Her qualification is MBBS, MCPS (Pediatrics), MD (Pediatric Nephrology). She is a Consultant, Pediatrics at Shaheed Ziaur Rahman Medical College & Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Jakia Sultana at Popular Diagnostic Center, Bogra is 3pm to 8pm (Closed: Wednesday), 11am to 2pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "3pm to 8pm (Closed: Wednesday), 11am to 2pm (Friday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "id": "5929c786-960b-4f8a-8b0b-10d03da1007d",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-rafiqul-islam-child/",
+      "imageId": "a059b39f-ec3e-4ffd-add2-c56c383432e8",
+      "name": "Prof. Dr. Md. Rafiqul Islam",
+      "degree": "MBBS, DCH, MD (CHILD)",
+      "specialty": "Child & Newborn Diseases Specialist",
+      "workplace": "Shaheed M. Monsur Ali Medical College & Hospital",
+      "info": "Prof. Dr. Md. Rafiqul Islam is a Child Specialist in Bogra. His qualification is MBBS, DCH, MD (CHILD). He is a Professor, Pediatrics at Shaheed M. Monsur Ali Medical College & Hospital. He regularly provides treatment to his patients at Maleka Nursing Home, Bogura. Practicing hour of Prof. Dr. Md. Rafiqul Islam at Maleka Nursing Home, Bogura is 4pm to 8pm (Everyday).",
+      "chamber": {
+        "hospital": "Maleka Nursing Home, Bogura",
+        "address": "Sherpur Road, Sutrapur, Bogura - 5800",
+        "visitingTime": "4pm to 8pm (Everyday)",
+        "appointmentNumber": "+8801718881897Call Now"
+      }
+    },
+    {
+      "id": "817f5c2c-b84a-4d79-b3da-88dc0e1ec2a6",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/dr-samia-chharra/",
+      "imageId": "958d0d89-b2f6-4f35-b5b2-e10b1eaad5d8",
+      "name": "Dr. Samia Chharra",
+      "degree": "MBBS, MCPS (Pediatrics), FCPS (Pediatrics)",
+      "specialty": "Newborn & Child Specialist",
+      "workplace": "TMSS Medical College & Hospital",
+      "info": "Dr. Samia Chharra is a Child Specialist in Bogra. Her qualification is MBBS, MCPS (Pediatrics), FCPS (Pediatrics). She is a Assistant Professor, Pediatrics at TMSS Medical College & Hospital. She regularly provides treatment to her patients at Ibn Sina Diagnostic & Consultation Center, Bogra. Practicing hour of Dr. Samia Chharra at Ibn Sina Diagnostic & Consultation Center, Bogra is 2pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
+        "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
+        "visitingTime": "2pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801701560011Call Now"
+      }
+    },
+    {
+      "id": "d961da20-abe8-47a0-9931-42ffd7e7b576",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/dr-labiba-hossaini-honey/",
+      "imageId": "4b84947f-c72a-49ac-b9b6-53cfee0064db",
+      "name": "Dr. Labiba Hossainy Honey",
+      "degree": "MBBS, BCS (Health), MCPS (Pediatrics), FCPS (Pediatrics)",
+      "specialty": "Neonatal & Child Diseases Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Labiba Hossainy Honey is a Child Specialist in Bogra. Her qualification is MBBS, BCS (Health), MCPS (Pediatrics), FCPS (Pediatrics). She is a Consultant, Pediatrics at Shaheed Ziaur Rahman Medical College & Hospital. She regularly provides treatment to her patients at Labaid Diagnostic, Bogura. Practicing hour of Dr. Labiba Hossainy Honey at Labaid Diagnostic, Bogura is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Bogura",
+        "address": "House # 1872, Sherpur Road, Colony, Bogura",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662777Call Now"
+      }
+    },
+    {
+      "id": "69c2c923-4ec8-462b-8d3e-f6c0073db637",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/dr-anjona-boshak/",
+      "imageId": "69fc72f8-6006-4863-bb1e-d1c177daa332",
+      "name": "Dr. Anjona Boshak",
+      "degree": "MBBS, BCS (Health), FCPS (Pediatrics)",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Anjona Boshak is a Child Specialist in Bogra. Her qualification is MBBS, BCS (Health), FCPS (Pediatrics). She is a Assistant Professor, Pediatrics at Shaheed Ziaur Rahman Medical College & Hospital. She regularly provides treatment to her patients at Saic General Hospital, Bogura. Practicing hour of Dr. Anjona Boshak at Saic General Hospital, Bogura is 3pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Saic General Hospital, Bogura",
+        "address": "Bhai Pagla Mazar Lane, Thanthania, Bogura",
+        "visitingTime": "3pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801936005870Call Now"
+      }
+    },
+    {
+      "id": "ed31bad1-7456-480b-b19c-c3564758b028",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/dr-monzira-rahman-dita/",
+      "imageId": "06e8b435-be61-4ea4-9d0f-430b40b4b405",
+      "name": "Dr. Monzira Rahman Dita",
+      "degree": "MBBS, MD (Pediatrics)",
+      "specialty": "Newborn & Child Diseases Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Monzira Rahman Dita is a Child Specialist in Bogra. Her qualification is MBBS, MD (Pediatrics). She is a Assistant Professor, Pediatrics at Shaheed Ziaur Rahman Medical College & Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Monzira Rahman Dita at Popular Diagnostic Center, Bogra is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "id": "510f342f-0e85-4870-8494-cf02eb6b000c",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/dr-a-s-m-selim/",
+      "imageId": "4fa36eec-7d9e-4dd2-9829-688868910244",
+      "name": "Dr. A.S.M Selim",
+      "degree": "MBBS, DCH (BSMMU)",
+      "specialty": "Newborn, Child Diseases & Development Specialist",
+      "workplace": "TMSS Medical College & Hospital",
+      "info": "Dr. A.S.M Selim is a Child Specialist in Bogra. His qualification is MBBS, DCH (BSMMU). He is a Assistant Professor, Pediatrics at TMSS Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Bogura. Practicing hour of Dr. A.S.M Selim at Labaid Diagnostic, Bogura is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Bogura",
+        "address": "House # 1872, Sherpur Road, Colony, Bogura",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662777Call Now"
+      }
+    },
+    {
+      "id": "7dec22fb-b76b-4c8c-9f7b-32ba273f02b9",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/dr-md-shawkat-zamil/",
+      "imageId": "ff555ae0-40a8-4312-bd03-b37f6d3c3953",
+      "name": "Dr. Md. Shawkat Zamil",
+      "degree": "MBBS, BCS (Health), MD (Pediatrics)",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Md. Shawkat Zamil is a Child Specialist in Bogra. His qualification is MBBS, BCS (Health), MD (Pediatrics). He is a Consultant, Pediatrics at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Saic General Hospital, Bogura. Practicing hour of Dr. Md. Shawkat Zamil at Saic General Hospital, Bogura is 3pm to 7pm (Closed: Fri & Saturday).",
+      "chamber": {
+        "hospital": "Saic General Hospital, Bogura",
+        "address": "Bhai Pagla Mazar Lane, Thanthania, Bogura",
+        "visitingTime": "3pm to 7pm (Closed: Fri & Saturday)",
+        "appointmentNumber": "+8801936005870Call Now"
+      }
+    },
+    {
+      "id": "1f4fb5e2-ecfb-47ef-9489-bc0a26f1a75d",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/dr-tania-ferdousi/",
+      "imageId": "0bfc5193-e1ac-4ab8-9c09-74f3a496e747",
+      "name": "Dr. Tania Ferdousi",
+      "degree": "MBBS, BCS (Health), MCPS (Pediatrics), MD (Pediatrics) BSMMU",
+      "specialty": "Newborn & Child Diseases Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Popular Diagnostic Center, BograAddress: House # 12/310, Thanthania Bus Stand, Sherpur Road, BoguraVisiting Hour: 3pm to 9pm (Closed: Friday)Appointment: +8809666787812Call Now",
+      "chamber": {
+        "hospital": "Dr. Tania Ferdousi's Chamber",
+        "address": "Boxibazar Mor, East Side of Nayeem Studio, Malotinogor, Bogura",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801767307895Call Now"
+      }
+    },
+    {
+      "id": "8f27d6a5-98d0-4cfb-8702-d8f6f384b250",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/dr-md-humayon-kabir-shipon/",
+      "imageId": "c7b496cb-91e9-4ec6-8256-153dcc9b983c",
+      "name": "Dr. Md. Humayon Kabir (Shipon)",
+      "degree": "MBBS (CMC), DCH (BSMMU)",
+      "specialty": "Newborn & Child Health Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Md. Humayon Kabir (Shipon) is a Child Specialist in Bogra. His qualification is MBBS (CMC), DCH (BSMMU). He is a Consultant, Pediatrics at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Sonar Desh Clinic, Bogura. Practicing hour of Dr. Md. Humayon Kabir (Shipon) at Sonar Desh Clinic, Bogura is 3pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Sonar Desh Clinic, Bogura",
+        "address": "East Side of Jamil Madrasa Gate, Colony, Bogura",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801675272468Call Now"
+      }
+    },
+    {
+      "id": "08f18d97-f31f-408d-9a8b-5897489f0ed3",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/dr-md-raihanul-islam/",
+      "imageId": "632f1245-7add-4931-8b2d-c80936f47ce9",
+      "name": "Dr. Md. Raihanul Islam",
+      "degree": "MBBS (CMC), DCH (DMC), CCD (BIRDEM)",
+      "specialty": "Newborn & Child Diseases Specialist",
+      "workplace": "TMSS Medical College & Rafatullah Community Hospital",
+      "info": "Dr. Md. Raihanul Islam is a Child Specialist in Bogra. His qualification is MBBS (CMC), DCH (DMC), CCD (BIRDEM). He is a Resident Physician, Pediatrics at TMSS Medical College & Rafatullah Community Hospital. He regularly provides treatment to his patients at Uttarbanga Specialized Hospital. Practicing hour of Dr. Md. Raihanul Islam at Uttarbanga Specialized Hospital is 4pm to 8pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Uttarbanga Specialized Hospital",
+        "address": "Mofiz Paglar Mor, Jolesworitola, Bogura",
+        "visitingTime": "4pm to 8pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801711290594Call Now"
+      }
+    }
+  ]
+}

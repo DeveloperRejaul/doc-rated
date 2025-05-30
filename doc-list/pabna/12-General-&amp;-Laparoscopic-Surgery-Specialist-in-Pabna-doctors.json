@@ -1,0 +1,242 @@
+{
+  "doctor": [
+    {
+      "id": "73f5e215-496c-40eb-91c9-e6eb8acf662a",
+      "departmentId": "07d10da9-258b-4475-a060-bf59f18475c6",
+      "link": "https://www.doctorbangladesh.com/dr-md-setabur-rahman/",
+      "imageId": "7cddef90-c12b-4719-a244-617d3a68b03d",
+      "name": "Prof. Dr. Md. Setabur Rahman",
+      "degree": "MBBS, MS (Surgery)",
+      "specialty": "General, Laparoscopic, Breast & Cancer Specialist Surgeon",
+      "workplace": "National Institute of Cancer Research & Hospital",
+      "info": "Super Medical Hospital, Savar Address: Near Razzak Plaza, B-119/3, Jaleshwar, Savar, Dhaka Visiting Hour: 5pm to 8pm (Saturday) Appointment: +8801711266169 Call Now",
+      "chamber": {
+        "hospital": "Delta Hospital, Mirpur",
+        "address": "26/2, Principal Abul Kashem Road, Mirpur - 1, Dhaka - 1216",
+        "visitingTime": "5pm to 7pm (Sat, Mon & Tuesday)",
+        "appointmentNumber": "+8801301254924Call Now"
+      }
+    },
+    {
+      "id": "2256d830-18c3-4553-98f1-0254ac058b21",
+      "departmentId": "07d10da9-258b-4475-a060-bf59f18475c6",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahidul-islam/",
+      "imageId": "c74838c6-d707-491f-a9dd-dd66ba58eb08",
+      "name": "Dr. Md. Shahidul Islam",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General, Laparoscopic, Breast & Colorectal Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Euro Medical Center, Pabna Address: Beside JoyKali Bari, Hospital Road, Shalgaria, Pabna Visiting Hour: 4pm to 8pm (Mon & Thu), 9am to 2pm (Fri) Appointment: +8801772974000 Call Now",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Rajshahi",
+        "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801777242536Call Now"
+      }
+    },
+    {
+      "id": "fca13727-cd59-4979-930a-b5900ace825c",
+      "departmentId": "07d10da9-258b-4475-a060-bf59f18475c6",
+      "link": "https://www.doctorbangladesh.com/dr-md-sirajul-islam/",
+      "imageId": "6daf0259-88d4-4075-b82c-f3434094e5eb",
+      "name": "Dr. Md. Sherajul Islam",
+      "degree": "MBBS, FCPS (Surgery), FACS (USA), FMAS (INDIA)",
+      "specialty": "General & Laparoscopic Surgeon",
+      "workplace": "Pabna Medical College & Hospital",
+      "info": "Dr. Md. Sherajul Islam is a General Surgeon in Pabna. His qualification is MBBS, FCPS (Surgery), FACS (USA), FMAS (INDIA). He is a Assistant Professor, Surgery at Pabna Medical College & Hospital. He regularly provides treatment to his patients at Central Hospital, Pabna. Practicing hour of Dr. Md. Sherajul Islam at Central Hospital, Pabna is 3pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Central Hospital, Pabna",
+        "address": "South Side of Sadar Hospital Gate, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801322912612Call Now"
+      }
+    },
+    {
+      "id": "39a64796-afaf-49e4-aa10-847789534975",
+      "departmentId": "07d10da9-258b-4475-a060-bf59f18475c6",
+      "link": "https://www.doctorbangladesh.com/dr-dipanwita-biswas/",
+      "imageId": "bcef92b6-fc4f-4e83-a4a3-9fdd4cbc1df2",
+      "name": "Dr. Dipanwita Biswas",
+      "degree": "MBBS, BCS (Health), PGT (Surgery), FCPS (Surgery)",
+      "specialty": "General Surgery Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Dipanwita Biswas is a Surgeon in Pabna. Her qualification is MBBS, BCS (Health), PGT (Surgery), FCPS (Surgery). She is working as a General Surgery Specialist doctor in Dhaka Medical College & Hospital. She regularly provides treatment to her patients at Kimia Diagnostic Center, Pabna. Practicing hour of Dr. Dipanwita Biswas at Kimia Diagnostic Center, Pabna is 2nd & 4th Friday of Each Month (Call for time).",
+      "chamber": {
+        "hospital": "Kimia Diagnostic Center, Pabna",
+        "address": "Pach Matha Mor, Beside Central Girls School, Shalgaria, Pabna",
+        "visitingTime": "2nd & 4th Friday of Each Month (Call for time)",
+        "appointmentNumber": "+8801711489711Call Now"
+      }
+    },
+    {
+      "id": "1f1bddcc-e574-4971-a837-c66cc1a88456",
+      "departmentId": "07d10da9-258b-4475-a060-bf59f18475c6",
+      "link": "https://www.doctorbangladesh.com/dr-goutam-kumar-ghosh/",
+      "imageId": "82ca8d4a-50b8-4086-888d-b4fd18805274",
+      "name": "Dr. Goutam Kumar Ghosh",
+      "degree": "MBBS, MS (Surgery)",
+      "specialty": "General & Laparoscopic Specialist Surgeon",
+      "workplace": "250 Bedded General Hospital, Pabna",
+      "info": "Dr. Goutam Kumar Ghosh is a General Surgeon in Pabna. His qualification is MBBS, MS (Surgery). He is a Senior Consultant, Surgery at 250 Bedded General Hospital, Pabna. He regularly provides treatment to his patients at Central Hospital, Pabna. Practicing hour of Dr. Goutam Kumar Ghosh at Central Hospital, Pabna is 3pm to 6pm (Everyday).",
+      "chamber": {
+        "hospital": "Central Hospital, Pabna",
+        "address": "South Side of Sadar Hospital Gate, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "3pm to 6pm (Everyday)",
+        "appointmentNumber": "+8801322912612Call Now"
+      }
+    },
+    {
+      "id": "f02a60fb-f5d6-41d9-b959-4966b33d9919",
+      "departmentId": "07d10da9-258b-4475-a060-bf59f18475c6",
+      "link": "https://www.doctorbangladesh.com/dr-md-shafiul-azam/",
+      "imageId": "96d48166-930d-4380-a693-b6daab2f9bae",
+      "name": "Dr. Md. Shafiul Azam",
+      "degree": "MBBS, BCS (Health), MS (Surgery)",
+      "specialty": "General, Colorectal (Piles) & Laparoscopic Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Md. Shafiul Azam is a General Surgeon in Pabna. His qualification is MBBS, BCS (Health), MS (Surgery). He is a Consultant, Surgery at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Shimla Hospital, Pabna. Practicing hour of Dr. Md. Shafiul Azam at Shimla Hospital, Pabna is 9am to 4pm (Only Friday).",
+      "chamber": {
+        "hospital": "Shimla Hospital, Pabna",
+        "address": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
+        "visitingTime": "9am to 4pm (Only Friday)",
+        "appointmentNumber": "+8801713228218Call Now"
+      }
+    },
+    {
+      "id": "4b7cfad5-a9d0-485f-a090-4d83f765af54",
+      "departmentId": "07d10da9-258b-4475-a060-bf59f18475c6",
+      "link": "https://www.doctorbangladesh.com/dr-shamsul-alam/",
+      "imageId": "db6738f7-322f-471a-8c80-4656ae869eb4",
+      "name": "Dr. Shamsul Alam",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery), PGT",
+      "specialty": "General & Laparoscopic Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Shamsul Alam is a General Surgeon in Pabna. His qualification is MBBS, BCS (Health), FCPS (Surgery), PGT. He is working as a General & Laparoscopic Surgeon doctor in Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Medicare Diagnostic Center, Pabna. Practicing hour of Dr. Shamsul Alam at Medicare Diagnostic Center, Pabna is 4pm to 8pm (Everyday).",
+      "chamber": {
+        "hospital": "Medicare Diagnostic Center, Pabna",
+        "address": "Shapla Plastic Mor, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "4pm to 8pm (Everyday)",
+        "appointmentNumber": "+8801718930163Call Now"
+      }
+    },
+    {
+      "id": "0b718039-28b7-4d78-b649-d230674decb5",
+      "departmentId": "07d10da9-258b-4475-a060-bf59f18475c6",
+      "link": "https://www.doctorbangladesh.com/dr-md-shariful-islam-sumon/",
+      "imageId": "8e6dc229-b01c-42ff-a74c-1135178cb235",
+      "name": "Dr. Md. Shariful Islam Sumon",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery), MS (Plastic Surgery)",
+      "specialty": "Burn, Plastic, Reconstructive & General Surgeon",
+      "workplace": "Sheikh Hasina National Institute of Burn & Plastic Surgery",
+      "info": "Dr. Md. Shariful Islam Sumon is a Plastic Surgeon in Pabna. His qualification is MBBS, BCS (Health), FCPS (Surgery), MS (Plastic Surgery). He is a Consultant, Burn & Plastic Surgery at Sheikh Hasina National Institute of Burn & Plastic Surgery. He regularly provides treatment to his patients at Shimla Hospital, Pabna. Practicing hour of Dr. Md. Shariful Islam Sumon at Shimla Hospital, Pabna is 9am to 4pm (Only Friday).",
+      "chamber": {
+        "hospital": "Shimla Hospital, Pabna",
+        "address": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
+        "visitingTime": "9am to 4pm (Only Friday)",
+        "appointmentNumber": "+8801713228218Call Now"
+      }
+    },
+    {
+      "id": "b6843661-e892-4110-a93a-90b3107ddc34",
+      "departmentId": "07d10da9-258b-4475-a060-bf59f18475c6",
+      "link": "https://www.doctorbangladesh.com/dr-a-k-m-shamsul-haque-surgeon/",
+      "imageId": "f9433459-f669-4b7e-842b-4bc9a11e972a",
+      "name": "Dr. A.K.M Shamsul Haque",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General, Colorectal & Laparoscopic Specialist Surgeon",
+      "workplace": "Pabna Medical College & Hospital",
+      "info": "Dr. A.K.M Shamsul Haque is a General Surgeon in Pabna. His qualification is MBBS, BCS (Health), FCPS (Surgery). He is a Assistant Professor, Dept of Surgery at Pabna Medical College & Hospital. He regularly provides treatment to his patients at Shimla Hospital, Pabna. Practicing hour of Dr. A.K.M Shamsul Haque at Shimla Hospital, Pabna is 3pm to 7pm (Sat, Sun, Mon & Tue).",
+      "chamber": {
+        "hospital": "Shimla Hospital, Pabna",
+        "address": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
+        "visitingTime": "3pm to 7pm (Sat, Sun, Mon & Tue)",
+        "appointmentNumber": "+8801713228218Call Now"
+      }
+    },
+    {
+      "id": "76ad375f-15b4-4ec3-b536-d4b4b178c790",
+      "departmentId": "07d10da9-258b-4475-a060-bf59f18475c6",
+      "link": "https://www.doctorbangladesh.com/dr-md-aktar-uz-zaman-arif/",
+      "imageId": "2956546b-2d8d-4d67-b2e8-01d139fdb73e",
+      "name": "Dr. Md. Aktar-Uz-Zaman (Arif)",
+      "degree": "MBBS, BCS (Health), MS (General Surgery)",
+      "specialty": "General, Laparoscopic, Breast & Colorectal Surgeon",
+      "workplace": "250 Bedded General Hospital, Pabna",
+      "info": "Shafique Hospital, Pabna Address: Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna Visiting Hour: 3pm to 8pm (Everyday) Appointment: +8801701654390 Call Now",
+      "chamber": {
+        "hospital": "Jalal Memorial Hospital, Pabna",
+        "address": "Godaun Mor, Hospital Road, Shalgaria, Pabna - 6600",
+        "visitingTime": "3pm to 8pm (Everyday)",
+        "appointmentNumber": "+8801743708079Call Now"
+      }
+    },
+    {
+      "id": "00704521-295d-4c3a-9cfe-02627a325445",
+      "departmentId": "07d10da9-258b-4475-a060-bf59f18475c6",
+      "link": "https://www.doctorbangladesh.com/dr-md-golam-sharoar/",
+      "imageId": "e54970f9-70f2-4764-984e-06e9d35e4b30",
+      "name": "Dr. Md. Golam Sharoar",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Surgery Specialist",
+      "workplace": "250 Bedded General Hospital, Pabna",
+      "info": "Dr. Md. Golam Sharoar is a General Surgeon in Pabna. His qualification is MBBS, BCS (Health), FCPS (Surgery). He is a Consultant, Surgery at 250 Bedded General Hospital, Pabna. He regularly provides treatment to his patients at City Diagnostic Center, Pabna. Practicing hour of Dr. Md. Golam Sharoar at City Diagnostic Center, Pabna is 2pm to 5pm (Sunday to Wednesday).",
+      "chamber": {
+        "hospital": "City Diagnostic Center, Pabna",
+        "address": "Beside TB Hospital, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "2pm to 5pm (Sunday to Wednesday)",
+        "appointmentNumber": "+8801717249211Call Now"
+      }
+    },
+    {
+      "id": "c56fdd92-88a8-4896-a697-50d8a1a5bb6b",
+      "departmentId": "07d10da9-258b-4475-a060-bf59f18475c6",
+      "link": "https://www.doctorbangladesh.com/dr-md-rafiqul-hasan-rimon/",
+      "imageId": "a6060486-39a1-4b07-869b-48c740b0678a",
+      "name": "Dr. Md. Rafiqul Hasan Rimon",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General, Colorectal & Laparoscopic Specialist Surgeon",
+      "workplace": "Civil Surgeon Office, Panchagarh",
+      "info": "Dr. Md. Rafiqul Hasan Rimon is a General Surgeon in Pabna. His qualification is MBBS, BCS (Health), FCPS (Surgery). He is the Civil Surgeon, Surgery at Civil Surgeon Office, Panchagarh. He regularly provides treatment to his patients at Digital Diagnostic Center, Pabna. Practicing hour of Dr. Md. Rafiqul Hasan Rimon at Digital Diagnostic Center, Pabna is 9am to 5pm (Only Friday).",
+      "chamber": {
+        "hospital": "Digital Diagnostic Center, Pabna",
+        "address": "Kazi Office Road, Thana Para, Shalgaria, Pabna",
+        "visitingTime": "9am to 5pm (Only Friday)",
+        "appointmentNumber": "+8801748343270Call Now"
+      }
+    },
+    {
+      "id": "19f48ee1-8cba-4140-b8e4-3c753b5d621a",
+      "departmentId": "07d10da9-258b-4475-a060-bf59f18475c6",
+      "link": "https://www.doctorbangladesh.com/dr-md-sajib-hossain/",
+      "imageId": "ed86f0f2-8dba-44fb-ab6a-6f8704cab046",
+      "name": "Dr. Md. Sajib Hossain",
+      "degree": "MBBS, BCS (Health), PGT (Surgery)",
+      "specialty": "Surgery Specialist",
+      "workplace": "250 Bedded General Hospital, Pabna",
+      "info": "Dr. Md. Sajib Hossain is a Surgeon in Pabna. His qualification is MBBS, BCS (Health), PGT (Surgery). He is working as a Surgery Specialist doctor in 250 Bedded General Hospital, Pabna. He regularly provides treatment to his patients at Medicare Diagnostic Center, Pabna. Practicing hour of Dr. Md. Sajib Hossain at Medicare Diagnostic Center, Pabna is 2.30pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medicare Diagnostic Center, Pabna",
+        "address": "Shapla Plastic Mor, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "2.30pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801718930163Call Now"
+      }
+    },
+    {
+      "id": "58d7cb82-9331-4c7d-a06f-c975361116ae",
+      "departmentId": "07d10da9-258b-4475-a060-bf59f18475c6",
+      "link": "https://www.doctorbangladesh.com/dr-md-anwarul-islam-sagar/",
+      "imageId": "6350c487-7dbd-4a56-ae21-aece0a8ea2ac",
+      "name": "Dr. Md. Anwarul Islam (Sagar)",
+      "degree": "MBBS, MS, F.MAS, D.MAS, FICRS",
+      "specialty": "Cardiac, Laparoscopic & General Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Md. Anwarul Islam (Sagar) is a General Surgeon in Pabna. His qualification is MBBS, MS, F.MAS, D.MAS, FICRS. He is a Consultant, Cardiac Surgery at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Assort Specialised Hospital, Pabna. Practicing hour of Dr. Md. Anwarul Islam (Sagar) at Assort Specialised Hospital, Pabna is 6pm to 9pm (Thursday), 9am to 3pm (Friday).",
+      "chamber": {
+        "hospital": "Assort Specialised Hospital, Pabna",
+        "address": "Beside Mujahid Club, Dhaka Road, East Shalgaria, Pabna",
+        "visitingTime": "6pm to 9pm (Thursday), 9am to 3pm (Friday)",
+        "appointmentNumber": "+8801322931500Call Now"
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "doctor": [
+    {
+      "id": "ebfdca0a-fc95-4cfd-89be-3b25e8d1257f",
+      "departmentId": "5c6bb246-3977-4752-81a3-68cfc8811f79",
+      "link": "https://www.doctorbangladesh.com/dr-rakhi-debi/",
+      "imageId": "7270a3b0-2168-4691-acf2-d200b6c6d82f",
+      "name": "Dr. Rakhi Debi",
+      "degree": "MBBS (DMC), FCPS (OBGYN), Training (Infertility)",
+      "specialty": "Gynecology, Obstetrics, Infertility Specialist & Laparoscopic Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Rakhi Debi is a Gynecologist in Rajshahi. Her qualification is MBBS (DMC), FCPS (OBGYN), Training (Infertility). She is a Consultant, Gynecology & Obstetrics at Rajshahi Medical College & Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Rakhi Debi at Popular Diagnostic Center, Rajshahi is 11am to 2pm & 8pm to 11pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "11am to 2pm & 8pm to 11pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787811Call Now"
+      }
+    },
+    {
+      "id": "abc5306c-a1cd-4de6-aeb2-8867dca1ef64",
+      "departmentId": "5c6bb246-3977-4752-81a3-68cfc8811f79",
+      "link": "https://www.doctorbangladesh.com/dr-fatema-siddiqua/",
+      "imageId": "6695d08f-b53c-465e-a9f9-2bb38ef6840a",
+      "name": "Dr. Fatema Siddiqua",
+      "degree": "MBBS, DGO (OBGYN), FCPS (OBGYN)",
+      "specialty": "Gynecology, Infertility Specialist & Laparoscopic Surgeon",
+      "workplace": "Islami Bank Medical College & Hospital",
+      "info": "Dr. Fatema Siddiqua is a Gynecologist in Rajshahi. Her qualification is MBBS, DGO (OBGYN), FCPS (OBGYN). She is a Associate Professor & Head, Obstetrics & Gynecology at Islami Bank Medical College & Hospital. She regularly provides treatment to her patients at Motherland Infertility Center & Hospital, Rajshahi. Practicing hour of Dr. Fatema Siddiqua at Motherland Infertility Center & Hospital, Rajshahi is 2pm to 9pm (Sat to Thu) & 11am to 3pm (Friday).",
+      "chamber": {
+        "hospital": "Motherland Infertility Center & Hospital, Rajshahi",
+        "address": "East Side of GPO, Ibrahim Plaza, Rajpara, Laxmipur, Rajhsahi",
+        "visitingTime": "2pm to 9pm (Sat to Thu) & 11am to 3pm (Friday)",
+        "appointmentNumber": "+880721775266Call Now"
+      }
+    },
+    {
+      "id": "a93d7f65-a83f-4a13-80ce-0fc1742bf4c6",
+      "departmentId": "5c6bb246-3977-4752-81a3-68cfc8811f79",
+      "link": "https://www.doctorbangladesh.com/prof-dr-shahela-jesmin-shilpi/",
+      "imageId": "6e04a316-ab42-40b7-bdfc-b5877e08abc0",
+      "name": "Prof. Dr. Shahela Jesmin Shilpi",
+      "degree": "MBBS, DGO, MCPS, FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Prof. Dr. Shahela Jesmin Shilpi is a Gynecologist in Rajshahi. Her qualification is MBBS, DGO, MCPS, FCPS (OBGYN). She is a Professor, Gynecology & Obstetrics at Rajshahi Medical College & Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Prof. Dr. Shahela Jesmin Shilpi at Popular Diagnostic Center, Rajshahi is 6:30pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "6:30pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787811Call Now"
+      }
+    },
+    {
+      "id": "e90860c8-a1da-459d-b21a-86f93c23aed6",
+      "departmentId": "5c6bb246-3977-4752-81a3-68cfc8811f79",
+      "link": "https://www.doctorbangladesh.com/dr-arpita-das/",
+      "imageId": "635e0ca3-2826-4979-9dd6-5a3cb5fe5e8d",
+      "name": "Dr. Arpita Das",
+      "degree": "MBBS, BCS (Health), MCPS, FCPS (OBGYN)",
+      "specialty": "Gynecology, Infertility Specialist & Laparoscopic Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Arpita Das is a Gynecologist in Rajshahi. Her qualification is MBBS, BCS (Health), MCPS, FCPS (OBGYN). She is a Gynecologist, Gynecology & Obstetrics at Rajshahi Medical College & Hospital. She regularly provides treatment to her patients at Healthcare Nursing Home. Practicing hour of Dr. Arpita Das at Healthcare Nursing Home is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Healthcare Nursing Home",
+        "address": "Shershah Road, Laxmipur, Rajshahi - 6000",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801714865614Call Now"
+      }
+    },
+    {
+      "id": "f4120bed-31fa-4f96-bae3-d8646aae8649",
+      "departmentId": "5c6bb246-3977-4752-81a3-68cfc8811f79",
+      "link": "https://www.doctorbangladesh.com/dr-mahbub-ara-chowdhury-shiuly/",
+      "imageId": "c79be45b-97ab-408b-b40f-087acdce8287",
+      "name": "Dr. Mahbub Ara Chowdhury Shiuly",
+      "degree": "MBBS, DGO (OBGYN)",
+      "specialty": "Gynecology, Infertility Specialist & Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Mahbub Ara Chowdhury Shiuly is a Gynecologist in Rajshahi. Her qualification is MBBS, DGO (OBGYN). She is a Assistant Professor, Obstetrics & Gynecology at Rajshahi Medical College & Hospital. She regularly provides treatment to her patients at Motherland Infertility Center & Hospital, Rajshahi. Practicing hour of Dr. Mahbub Ara Chowdhury Shiuly at Motherland Infertility Center & Hospital, Rajshahi is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Motherland Infertility Center & Hospital, Rajshahi",
+        "address": "East Side of GPO, Ibrahim Plaza, Rajpara, Laxmipur, Rajhsahi",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801720176888Call Now"
+      }
+    },
+    {
+      "id": "5464d5a3-f43c-4e48-9067-2ee4585ca281",
+      "departmentId": "5c6bb246-3977-4752-81a3-68cfc8811f79",
+      "link": "https://www.doctorbangladesh.com/dr-eliza-khanom/",
+      "imageId": "87df1932-6873-46b9-acc0-d82d736ce27d",
+      "name": "Dr. Eliza Khanom",
+      "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
+      "specialty": "Gynecology & Infertility Specialist",
+      "workplace": "Rajshahi Royal Hospital Pvt. Ltd.",
+      "info": "Dr. Eliza Khanom is a Gynecologist in Rajshahi. Her qualification is MBBS, BCS (Health), FCPS (OBGYN). She is working as a Gynecology & Infertility Specialist doctor in Rajshahi Royal Hospital Pvt. Ltd.. She regularly provides treatment to her patients at Rajshahi Royal Hospital Pvt. Ltd.. Practicing hour of Dr. Eliza Khanom at Rajshahi Royal Hospital Pvt. Ltd. is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
+        "address": "Laxmipur Mor, Rajshahi",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801762685090Call Now"
+      }
+    }
+  ]
+}

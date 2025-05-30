@@ -1,0 +1,140 @@
+{
+  "doctor": [
+    {
+      "id": "9b92b236-d0d4-4b8d-b25c-65385d8b18e5",
+      "departmentId": "00ba9a00-96bf-4f33-bcf7-513af15c4ec9",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-fakhrul-alam/",
+      "imageId": "b9a46b42-1ccc-4d03-ada1-4f9355c0db06",
+      "name": "Prof. Dr. Md. Fakhrul Alam",
+      "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
+      "specialty": "Gastroenterology, Liver Diseases, Pancreas & Medicine Specialist",
+      "workplace": "Holy Family Red Crescent Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, B.B. Road, Chashara, Narayanganj – 1400 Visiting Hour: 2pm to 8pm (Sat, Mon & Wed) Appointment: +8809666787804 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Shantinagar",
+        "address": "Unit # 02, House # 15, Shantinagar, Motijheel, Dhaka",
+        "visitingTime": "5:30pm to 8pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8809666787803Call Now"
+      }
+    },
+    {
+      "id": "407da4ee-f8ee-40d8-a4eb-4b38d438c1a7",
+      "departmentId": "00ba9a00-96bf-4f33-bcf7-513af15c4ec9",
+      "link": "https://www.doctorbangladesh.com/dr-mazharul-haque/",
+      "imageId": "f1c5e407-ecec-42e5-a680-6a1c021758bd",
+      "name": "Dr. Mazharul Haque",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Gastroenterology), MACP (USA)",
+      "specialty": "Gastroenterology, Liver Diseases & Medicine Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Mazharul Haque is a Gastroenterologist in Narayanganj. His qualification is MBBS, BCS (Health), FCPS (Medicine), MD (Gastroenterology), MACP (USA). He is a Associate Professor, Dept. of Gastroenterology at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Mazharul Haque at Popular Diagnostic Center, Narayanganj is 4:30pm to 10pm (Sat, Sun, Tue & Thu).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "4:30pm to 10pm (Sat, Sun, Tue & Thu)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "c769d1a0-0ca2-4954-88e7-5a06787ba59b",
+      "departmentId": "00ba9a00-96bf-4f33-bcf7-513af15c4ec9",
+      "link": "https://www.doctorbangladesh.com/dr-md-royes-uddin/",
+      "imageId": "b3809b39-3cac-4837-873d-734ed4ed35d2",
+      "name": "Dr. Md. Royes Uddin",
+      "degree": "MBBS, FCPS (Medicine), MCPS (Medicine), MD (Gastroenterology)",
+      "specialty": "Gastroenterology & Medicine Specialist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Dr. Md. Royes Uddin is a Gastroenterologist in Narayanganj. His qualification is MBBS, FCPS (Medicine), MCPS (Medicine), MD (Gastroenterology). He is a Associate Professor, Gastroenterology at Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Md. Royes Uddin at Popular Diagnostic Center, Narayanganj is 8pm to 10pm (Tue & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, B.B. Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "8pm to 10pm (Tue & Friday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "daa13b39-68d8-48b1-9512-97f84551ab57",
+      "departmentId": "00ba9a00-96bf-4f33-bcf7-513af15c4ec9",
+      "link": "https://www.doctorbangladesh.com/dr-ranjit-kumar-banik/",
+      "imageId": "bfb85cf9-9ca9-41fb-b5c3-d1d6f2ac46ac",
+      "name": "Dr. Ranjit Kumar Banik",
+      "degree": "MBBS, BCS (Health), MD (Gastroenterology)",
+      "specialty": "Gastroenterology, Pancreas & Liver Diseases Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Ranjit Kumar Banik is a Gastroenterologist in Narayanganj. His qualification is MBBS, BCS (Health), MD (Gastroenterology). He is a Associate Professor, Gastroenterology at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Ranjit Kumar Banik at Popular Diagnostic Center, Narayanganj is 5pm to 8pm (Sat to Thu) & 10am to 5pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "5pm to 8pm (Sat to Thu) & 10am to 5pm (Friday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "d20c72c2-24da-49df-b638-7193d450d2c2",
+      "departmentId": "00ba9a00-96bf-4f33-bcf7-513af15c4ec9",
+      "link": "https://www.doctorbangladesh.com/dr-raj-datta/",
+      "imageId": "5e164a2f-bd10-4ff1-9962-8abb1f1f07a8",
+      "name": "Dr. Raj Datta",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Gastroenterology)",
+      "specialty": "Gastroenterology & Medicine Specialist",
+      "workplace": "National Gastroliver Institute & Hospital",
+      "info": "Popular Diagnostic Center, NarayanganjAddress: 231/4, Bangabandhu Road, Chashara, Narayanganj – 1400Visiting Hour: 4pm to 8pm (Sat, Mon & Wed)Appointment: +8809666787804Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, D",
+        "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+        "visitingTime": "8.30pm to 10pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809666787801Call Now"
+      }
+    },
+    {
+      "id": "4eb5291d-92e4-4e39-a0c2-bd4631ec04c9",
+      "departmentId": "00ba9a00-96bf-4f33-bcf7-513af15c4ec9",
+      "link": "https://www.doctorbangladesh.com/dr-md-rezaul-islam-patwary/",
+      "imageId": "5d79663c-2cb5-4013-8994-83408624b377",
+      "name": "Dr. Md. Rezaul Islam Patwary",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Gastroenterology), CCD (BIRDEM)",
+      "specialty": "Gastroenterology, Pancreatic Diseases & Diabetes Specialist",
+      "workplace": "National Gastroliver Institute & Hospital",
+      "info": "Dr. Md. Rezaul Islam Patwary is a Gastroenterologist in Narayanganj. His qualification is MBBS, BCS (Health), FCPS (Medicine), MD (Gastroenterology), CCD (BIRDEM). He is a Consultant, Gastroenterology at National Gastroliver Institute & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Md. Rezaul Islam Patwary at Popular Diagnostic Center, Narayanganj is 5pm to 8pm (Sun & Tue).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "5pm to 8pm (Sun & Tue)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "473c12e7-56a7-481c-8894-44af058dedca",
+      "departmentId": "00ba9a00-96bf-4f33-bcf7-513af15c4ec9",
+      "link": "https://www.doctorbangladesh.com/dr-shiplu-bosak/",
+      "imageId": "ba2c2b07-2876-4b93-a232-453a786e67b4",
+      "name": "Dr. Shiplu Bosak",
+      "degree": "MBBS, BCS (Health), MD (Gastroenterology)",
+      "specialty": "Gastrointestinal, Liver Medicine & Pancreatic Diseases Specialist",
+      "workplace": "National Gastroliver Institute & Hospital",
+      "info": "Medinova Medical Services, Narayanganj Address: 145, Bangabandhu Road, Chashara, Narayanganj – 1400 Visiting Hour: 4pm to 7pm (Sun, Mon & Wed) Appointment: +8801913119989 Call Now",
+      "chamber": {
+        "hospital": "Modern Diagnostic Center, Narayanganj",
+        "address": "207, Bangabandhu Road, Chashara, Narayanganj - 1400",
+        "visitingTime": "7pm to 9pm (Sun, Mon & Wed)",
+        "appointmentNumber": "+8801820842293Call Now"
+      }
+    },
+    {
+      "id": "dd362aba-dd3d-41e3-b978-b8eb29e317f7",
+      "departmentId": "00ba9a00-96bf-4f33-bcf7-513af15c4ec9",
+      "link": "https://www.doctorbangladesh.com/dr-shofiul-kadir/",
+      "imageId": "ae0e6719-a088-4ad2-9cc6-220bcf063198",
+      "name": "Dr. Shofiul Kadir",
+      "degree": "MBBS, BCS (Health), MCPS (Medicine), MD (Gastroenterology)",
+      "specialty": "Gastroenterology & Medicine Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Shofiul Kadir is a Gastroenterologist in Narayanganj. His qualification is MBBS, BCS (Health), MCPS (Medicine), MD (Gastroenterology). He is a Assistant Professor, Gastroenterology at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Medinova Medical Services, Narayanganj. Practicing hour of Dr. Shofiul Kadir at Medinova Medical Services, Narayanganj is 3pm to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Narayanganj",
+        "address": "145, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "3pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801913119989Call Now"
+      }
+    }
+  ]
+}

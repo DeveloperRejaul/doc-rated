@@ -1,0 +1,72 @@
+{
+  "doctor": [
+    {
+      "id": "21693d8b-1337-450a-ac6e-4ff569de9485",
+      "departmentId": "b73c46c5-b797-493a-85ef-d927290b8248",
+      "link": "https://www.doctorbangladesh.com/prof-dr-swapan-bandyopadhyay/",
+      "imageId": "bfe4167d-14d2-49ed-a346-bc98c37c3980",
+      "name": "Prof. Dr. Swapan Bandyopadhyay",
+      "degree": "MBBS, MD (Oncology), MPhil (Radiotherapy)",
+      "specialty": "Cancer Specialist",
+      "workplace": "National Institute of Cancer Research & HospitalProfessor & Head of the Department,Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Prof. Dr. Swapan Bandyopadhyay is a Cancer Specialist in Dhaka. His qualification is MBBS, MD (Oncology), MPhil (Radiotherapy). He is now working as a Professor & Head of the Department at Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at Medinova Medical Services, Malibagh. Practicing hour of Prof. Dr. Swapan Bandyopadhyay at Medinova Medical Services, Malibagh is 6.30pm to 9.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Malibagh",
+        "address": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
+        "visitingTime": "6.30pm to 9.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801790118855Call Now"
+      }
+    },
+    {
+      "id": "555581e6-2368-48ba-8d35-f7956a5b706e",
+      "departmentId": "b73c46c5-b797-493a-85ef-d927290b8248",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-moarraf-hossen/",
+      "imageId": "522eee69-c090-4cf4-8fcc-159a711a721c",
+      "name": "Prof. Dr. Md. Moarraf Hossen",
+      "degree": "MBBS, DMRT (BSMMU), FCPS (Radiotherapy), Fellowship Training (India, Singapore)",
+      "specialty": "Cancer Specialist & Radiation Oncologist",
+      "workplace": "National Institute of Cancer Research & Hospital",
+      "info": "Prof. Dr. Md. Moarraf Hossen is a Oncologist in Dhaka. His qualification is MBBS, DMRT (BSMMU), FCPS (Radiotherapy), Fellowship Training (India, Singapore). He is a Former Director cum Professor, Radiotherapy at National Institute of Cancer Research & Hospital. He regularly provides treatment to his patients at Green Life Hospital, Dhaka & Green Life Hospital, Dhaka. Practicing hour of Prof. Dr. Md. Moarraf Hossen at Green Life Hospital, Dhaka is 6pm to 9pm (Sat, Sun, Wed & Thu).",
+      "chamber": {
+        "hospital": "Green Life Hospital, Dhaka",
+        "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+        "visitingTime": "6pm to 9pm (Sat, Sun, Wed & Thu)",
+        "appointmentNumber": "+8801903082062Call Now"
+      }
+    },
+    {
+      "id": "b7ab4a2e-adbd-4d97-840c-56a10cbd1b5e",
+      "departmentId": "b73c46c5-b797-493a-85ef-d927290b8248",
+      "link": "https://www.doctorbangladesh.com/prof-dr-kazi-manzur-kader/",
+      "imageId": "043a6913-8b69-47fe-be50-75e596e27810",
+      "name": "Prof. Dr. Kazi Manzur Kader",
+      "degree": "MBBS, DMRT, MSC, FACP, FRCP",
+      "specialty": "Cancer Specialist",
+      "workplace": "National Institute of Cancer Research & Hospital",
+      "info": "Delta Hospital, Mirpur Address: 26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka – 1216 Visiting Hour: 8.30am to 2pm (Closed: Friday) Appointment: +8801301254924 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Dhanmondi",
+        "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787801Call Now"
+      }
+    },
+    {
+      "id": "f33c74a5-423c-478e-81fd-9cd0b2e8ef4c",
+      "departmentId": "b73c46c5-b797-493a-85ef-d927290b8248",
+      "link": "https://www.doctorbangladesh.com/dr-aditi-paul-chowdhury/",
+      "imageId": "e053b8c6-4f19-419b-8bcf-18e926abeef2",
+      "name": "Dr . Aditi Paul Chowdhury",
+      "degree": "MBBS, MD (ONCOLOGY)",
+      "specialty": "Cancer Specialist",
+      "workplace": "Ahsania Mission Cancer & General Hospital",
+      "info": "Ahsania Mission Cancer Hospital, Mirpur Address: Mirpur 13, Dhaka Visiting Hour: 6pm to 8pm (Saturday & Monday) Appointment: +880258053091 Call Now",
+      "chamber": {
+        "hospital": "Ahsania Mission Cancer & General Hospital",
+        "address": "Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka",
+        "visitingTime": "9am to 5pm (Closed: Friday)",
+        "appointmentNumber": "+880255092197Call Now"
+      }
+    }
+  ]
+}

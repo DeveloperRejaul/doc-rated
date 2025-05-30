@@ -1,0 +1,55 @@
+{
+  "doctor": [
+    {
+      "id": "e9da23b4-9fbb-4f98-a739-8efcfbf2b0bb",
+      "departmentId": "99132627-7f18-41f7-aa79-0e0eab9e1e30",
+      "link": "https://www.doctorbangladesh.com/dr-m-morsed-zaman-miah/",
+      "imageId": "ee4922a5-27b3-4ca6-bfbe-be6f254f8d92",
+      "name": "Dr. Morsed Zaman Miah",
+      "degree": "MBBS (RMC), MCPS (Pathology), FCPS (Hematology)",
+      "specialty": "Blood Diseases, Blood Cancer & Bone Marrow Transplant Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Morsed Zaman Miah is a Hematologist in Rajshahi. His qualification is MBBS (RMC), MCPS (Pathology), FCPS (Hematology). He is working as a Blood Diseases, Blood Cancer & Bone Marrow Transplant Specialist doctor in Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Morsed Zaman Miah at Popular Diagnostic Center, Rajshahi is 3pm to 5pm (Closed: Mon & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "3pm to 5pm (Closed: Mon & Friday)",
+        "appointmentNumber": "+8809666787811Call Now"
+      }
+    },
+    {
+      "id": "fd6b6d54-e908-4966-a49c-6aad70bac9a4",
+      "departmentId": "99132627-7f18-41f7-aa79-0e0eab9e1e30",
+      "link": "https://www.doctorbangladesh.com/dr-mainuddin-ahmed/",
+      "imageId": "12ebe24c-d756-4fc1-95cd-b93cf2a50ec9",
+      "name": "Dr. Mainuddin Ahmed",
+      "degree": "MBBS, MCPS (Clinical Pathology), FCPS (Hematology)",
+      "specialty": "Blood Disorder & Blood Cancer Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Mainuddin Ahmed is a Hematologist in Rajshahi. His qualification is MBBS, MCPS (Clinical Pathology), FCPS (Hematology). He worked as a Head of the Department (Hematology) in Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Fatema Hemato-oncology Center, Rajshahi. Practicing hour of Dr. Mainuddin Ahmed at Fatema Hemato-oncology Center, Rajshahi is 2pm to 4pm & 7pm to 8.30pm.",
+      "chamber": {
+        "hospital": "Fatema Hemato-oncology Center, Rajshahi",
+        "address": "Nikunja Bhaban, 18, Greater Road, Laxmipur, Rajshahi",
+        "visitingTime": "2pm to 4pm & 7pm to 8.30pm",
+        "appointmentNumber": "+8801725017088Call Now"
+      }
+    },
+    {
+      "id": "2ef28297-498d-4c9f-ad87-db671e0f2077",
+      "departmentId": "99132627-7f18-41f7-aa79-0e0eab9e1e30",
+      "link": "https://www.doctorbangladesh.com/dr-md-maruf-al-hasan/",
+      "imageId": "0a11127d-df0c-4553-93fa-ada8826b94f9",
+      "name": "Dr. Md. Maruf Al Hasan",
+      "degree": "MBBS (RMC), BCS (Health), FCPS (Hematology), CCD (BIRDEM), MACP (USA)",
+      "specialty": "Blood Diseases, Thalassemia & Blood Cancer Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Md. Maruf Al Hasan is a Hematologist in Rajshahi. His qualification is MBBS (RMC), BCS (Health), FCPS (Hematology), CCD (BIRDEM), MACP (USA). He is a Registrar, Hematology at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Md. Maruf Al Hasan at Popular Diagnostic Center, Rajshahi is 4:30pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "4:30pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787811Call Now"
+      }
+    }
+  ]
+}

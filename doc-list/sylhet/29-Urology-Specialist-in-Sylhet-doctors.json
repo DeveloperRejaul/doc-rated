@@ -1,0 +1,123 @@
+{
+  "doctor": [
+    {
+      "id": "a382e181-5080-4be0-b15d-5abcc4bd7884",
+      "departmentId": "f0e2e5b1-e670-4cdc-b653-bf7a2c3dcc3e",
+      "link": "https://www.doctorbangladesh.com/dr-md-siddiqur-rahman-urology/",
+      "imageId": "cb1e1b53-c501-4aa9-9a8f-903d6a51127c",
+      "name": "Prof. Dr. Md. Siddiqur Rahman",
+      "degree": "MBBS, DA (BSMMU), FCPS (Surgery), MS (Urology)",
+      "specialty": "Urology (Kidneys, Bladder, Ureters, Prostate) Specialist & Laparoscopic Surgeon",
+      "workplace": "Sylhet Womens Medical College & Hospital",
+      "info": "Al Haramain Hospital, Sylhet Address: Samato-30, Chali Bandar, Bishwa Road, Subhani Ghat, Sylhet Visiting Hour: Unknown. Please call to know visiting hour Appointment: +8801931225555 Call Now",
+      "chamber": {
+        "hospital": "Ibn Sina Hospital, Sylhet",
+        "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809610009640Call Now"
+      }
+    },
+    {
+      "id": "04f7cc94-4671-4cee-a5c5-072b3e9e557f",
+      "departmentId": "f0e2e5b1-e670-4cdc-b653-bf7a2c3dcc3e",
+      "link": "https://www.doctorbangladesh.com/dr-m-a-alim/",
+      "imageId": "394a3ff8-e1ac-450f-822d-ded9095be1de",
+      "name": "Dr. M. A. Alim",
+      "degree": "MBBS, MS (Urology), Higher Training in Urology (USA, Germany, India & Pakistan)",
+      "specialty": "Kidneys, Bladder, Ureters, Prostate Specialist & Laser Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. M. A. Alim is a Urologist in Sylhet. His qualification is MBBS, MS (Urology), Higher Training in Urology (USA, Germany, India & Pakistan). He is a Assistant Professor & Head, Urology at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Popular Medical Center & Hospital, Sylhet. Practicing hour of Dr. M. A. Alim at Popular Medical Center & Hospital, Sylhet is 5.30pm to 9pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Popular Medical Center & Hospital, Sylhet",
+        "address": "Subhanighat, Sylhet",
+        "visitingTime": "5.30pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801937451627Call Now"
+      }
+    },
+    {
+      "id": "819c99af-43a0-49e6-b7e9-012eb550a2e3",
+      "departmentId": "f0e2e5b1-e670-4cdc-b653-bf7a2c3dcc3e",
+      "link": "https://www.doctorbangladesh.com/prof-dr-promode-ranjan-singh/",
+      "imageId": "ca62a900-0b62-47c2-978a-b20d625b17b4",
+      "name": "Prof. Dr. Promode Ranjan Singh",
+      "degree": "MBBS, FCPS (Surgery), MS (Urology), Higher Training (SG, NZ, IN)",
+      "specialty": "Urology Specialist & Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Prof. Dr. Promode Ranjan Singh is a Urologist in Sylhet. His qualification is MBBS, FCPS (Surgery), MS (Urology), Higher Training (SG, NZ, IN). He is a Professor & Head (Ex), Urology at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Popular Medical Center, Sylhet. Practicing hour of Prof. Dr. Promode Ranjan Singh at Popular Medical Center, Sylhet is 10am to 12pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "10am to 12pm (Closed: Friday)",
+        "appointmentNumber": "+8801724555050Call Now"
+      }
+    },
+    {
+      "id": "8d209e63-f069-412d-acc3-ec81fa43d3f8",
+      "departmentId": "f0e2e5b1-e670-4cdc-b653-bf7a2c3dcc3e",
+      "link": "https://www.doctorbangladesh.com/dr-pallab-sarma-roy/",
+      "imageId": "632eaf2b-bdc6-4ecc-8281-f6e03760f272",
+      "name": "Dr. Pallab Sarma Roy",
+      "degree": "MBBS, BCS (Health), MS (Urology), FCPS (Final)",
+      "specialty": "Urologist and AndrologistKidney, Ureter, Prostate, Bladder, Testis Diseases ,Sex Problems, Erectile Dysfunction, Male Infertility and Child's Genitourinary Disorders",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "The Lab Aid Hospital Address: Jakir Shopping Complex, Court Station Road (Babystand), Habiganj Visiting Hour: 4pm to 9pm (Every Tuesday) Appointment: +8801926241406, +8801721397532 Call Now",
+      "chamber": {
+        "hospital": "Labaid Diagnostic Limited, Sylhet",
+        "address": "House # 362-363, New Medical Road, Kajol Shah, Sylhet",
+        "visitingTime": "5pm to 9pm (Closed: Tues & Wednesday)",
+        "appointmentNumber": "+8801926241406, +8801766662727Call Now"
+      }
+    },
+    {
+      "id": "c1beaacf-6ec2-41d9-a06e-558b72501a5d",
+      "departmentId": "f0e2e5b1-e670-4cdc-b653-bf7a2c3dcc3e",
+      "link": "https://www.doctorbangladesh.com/dr-md-shafiqul-islam-leon/",
+      "imageId": "47df5864-ce64-4c98-878b-ebe89e713ee3",
+      "name": "Dr. Md. Shafiqul Islam Leon",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urology (Kidneys, Bladder, Ureters, Prostate) Specialist & Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Medi-Aid Diagnostic & Consultation Center Address: Medical College Road, Modhushohid, Rikabi Bazar, Sylhet – 3100 Visiting Hour: 6pm to 8.30pm (Closed: Friday) Appointment: +8801711275902 Call Now",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "4:30pm to 6:30pm (Closed: Friday)",
+        "appointmentNumber": "+8801782105440Call Now"
+      }
+    },
+    {
+      "id": "953fa15c-01b1-4b88-830c-726ef4ef837a",
+      "departmentId": "f0e2e5b1-e670-4cdc-b653-bf7a2c3dcc3e",
+      "link": "https://www.doctorbangladesh.com/dr-ashraful-islam-rana/",
+      "imageId": "3bf39a19-0cd9-476d-9c48-204db6934f4a",
+      "name": "Dr. Ashraful Islam Rana",
+      "degree": "MBBS, BCS (Health), MS (Urology)",
+      "specialty": "Urology (Kidney, Prostate, Bladder) Specialist & Andrologist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Labaid Diagnostic Limited, Sylhet Address: House # 362-363, New Medical Road, Kajol Shah, Sylhet Visiting Hour: 5pm to 9pm (Closed: Friday) Appointment: +8801766662727 Call Now",
+      "chamber": {
+        "hospital": "Ibn Sina Hospital, Sylhet",
+        "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+        "visitingTime": "4pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8809610009640Call Now"
+      }
+    },
+    {
+      "id": "e2f7ffeb-e0a7-46ab-adcf-4caa59c775a4",
+      "departmentId": "f0e2e5b1-e670-4cdc-b653-bf7a2c3dcc3e",
+      "link": "https://www.doctorbangladesh.com/dr-m-hasan-akhtar/",
+      "imageId": "16a48561-544c-400f-95e4-173a2e49dd9a",
+      "name": "Dr. M. Hasan Akhtar",
+      "degree": "MBBS, D-UROLOGY",
+      "specialty": "Urology (Kidney, Prostate, Ureters, Bladder) Specialist & Surgeon",
+      "workplace": "Parkview Medical College & Hospital, Sylhet",
+      "info": "Dr. M. Hasan Akhtar is a Urologist in Sylhet. His qualification is MBBS, D-UROLOGY. He is a Consultant, Urology at Parkview Medical College & Hospital, Sylhet. He regularly provides treatment to his patients at Noorjahan Hospital, Sylhet. Practicing hour of Dr. M. Hasan Akhtar at Noorjahan Hospital, Sylhet is 4pm to 9pm (Everyday).",
+      "chamber": {
+        "hospital": "Noorjahan Hospital, Sylhet",
+        "address": "Waves 1, Ritz Tower, Dargah Gate, Sylhet - 3100",
+        "visitingTime": "4pm to 9pm (Everyday)",
+        "appointmentNumber": "+8801979005522Call Now"
+      }
+    }
+  ]
+}

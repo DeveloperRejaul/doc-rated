@@ -1,0 +1,157 @@
+{
+  "doctor": [
+    {
+      "id": "1266de83-91d7-4bef-8a8c-9fc4c03c1398",
+      "departmentId": "651c1220-0a73-4eb2-9a1f-20eebdcc9399",
+      "link": "https://www.doctorbangladesh.com/dr-sarwar-kamal/",
+      "imageId": "7c99c965-cc42-4128-866c-2e213102648f",
+      "name": "Dr. Sarwar Kamal",
+      "degree": "MBBS (RMC), MS (CV&T), NICVD",
+      "specialty": "Cardiovascular, Chest Diseases & Heart Specialist Surgeon",
+      "workplace": "Chittagong Metropolitan Hospital Heart Center",
+      "info": "Dr. Sarwar Kamal is a Cardiac Surgeon in Chittagong. His qualification is MBBS (RMC), MS (CV&T), NICVD. He is the Chief Cardiac Surgeon, Cardiac Surgery at Chittagong Metropolitan Hospital Heart Center. He regularly provides treatment to his patients at Chattogram Metropolitan Hospital. Practicing hour of Dr. Sarwar Kamal at Chattogram Metropolitan Hospital is 11am to 2pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital",
+        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "11am to 2pm (Closed: Friday)",
+        "appointmentNumber": "+8801814651077Call Now"
+      }
+    },
+    {
+      "id": "a77275c9-2a59-48f8-b931-c3c07578be1c",
+      "departmentId": "651c1220-0a73-4eb2-9a1f-20eebdcc9399",
+      "link": "https://www.doctorbangladesh.com/dr-md-fazle-maruf/",
+      "imageId": "3c4408a6-98cd-446f-b937-26883462d103",
+      "name": "Dr. Mohammad Fazle Maruf",
+      "degree": "MBBS, MS (CVTS)",
+      "specialty": "Cardiovascular & Thoracic Specialist Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Max Hospital & Diagnostic, Chittagong Address: 35/36, Mehedibag Road, Chawkbazar, Chattogram Visiting Hour: 7pm to 9pm (Closed: Friday) Appointment: +8801713998199 Call Now",
+      "chamber": {
+        "hospital": "CSCR Hospital, Chittagong",
+        "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
+        "visitingTime": "5pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801887656565Call Now"
+      }
+    },
+    {
+      "id": "809460a2-902a-40c6-b87b-ea03a5edeb13",
+      "departmentId": "651c1220-0a73-4eb2-9a1f-20eebdcc9399",
+      "link": "https://www.doctorbangladesh.com/dr-sayed-aminul-haque-lelin/",
+      "imageId": "44d8a9ec-ec5c-46a6-8318-912b0847757f",
+      "name": "Dr. Syed Aminul Haque Lenin",
+      "degree": "MBBS, MS (Thoracic Surgery)",
+      "specialty": "Cardiovascular & Thoracic Surgery Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Syed Aminul Haque Lenin is a Thoracic Surgery Specialist in Chittagong. His qualification is MBBS, MS (Thoracic Surgery). He is a Associate Professor, Thoracic Surgery at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Syed Aminul Haque Lenin at Parkview Hospital, Chittagong is 8pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "8pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801976022333Call Now"
+      }
+    },
+    {
+      "id": "f1744db8-f16c-4e99-a994-8978877161b5",
+      "departmentId": "651c1220-0a73-4eb2-9a1f-20eebdcc9399",
+      "link": "https://www.doctorbangladesh.com/dr-asif-ahmed-bin-moin/",
+      "imageId": "939e0389-2d12-49f5-b3aa-fdf98368d49c",
+      "name": "Dr. Asif Ahmed Bin Moin",
+      "degree": "MBBS, MS (CVTS)",
+      "specialty": "Cardiovascular & Thoracic Surgery Specialist",
+      "workplace": "Evercare Hospital, Chattogram",
+      "info": "Dr. Asif Ahmed Bin Moin is a Cardiac Surgeon in Chittagong. His qualification is MBBS, MS (CVTS). He is a Senior Consultant, Cardiac Surgery at Evercare Hospital, Chattogram. He regularly provides treatment to his patients at Evercare Hospital, Chattogram. Practicing hour of Dr. Asif Ahmed Bin Moin at Evercare Hospital, Chattogram is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Evercare Hospital, Chattogram",
+        "address": "H1, Ananna R/A, CDA, Hathazari, Chattogram",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8809610810663Call Now"
+      }
+    },
+    {
+      "id": "6df2ebcd-f41a-4c65-8da6-4a66df1a44e7",
+      "departmentId": "651c1220-0a73-4eb2-9a1f-20eebdcc9399",
+      "link": "https://www.doctorbangladesh.com/dr-ahsan-uddin-mahmud/",
+      "imageId": "a8cbb860-ed6f-4a43-a2a3-3dd73383a6d5",
+      "name": "Dr. Ahsan Uddin Mahmud",
+      "degree": "MBBS, BCS ( Health), MS (CVTS)",
+      "specialty": "Cardiovascular & Thoracic Surgery Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Popular Diagnostic Center, ChittagongAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, ChattogramVisiting Hour: 1pm to 2pm (Sat, Sun, Wed & Thursday)Appointment: +8809666787810Call Now",
+      "chamber": {
+        "hospital": "Holy Health Hospital, Chittagong",
+        "address": "107, Opposite Chittagong Medical College Gate, Palclaish, Chattogram",
+        "visitingTime": "6pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801812605505Call Now"
+      }
+    },
+    {
+      "id": "307f050e-9050-4db2-9284-82daecbea222",
+      "departmentId": "651c1220-0a73-4eb2-9a1f-20eebdcc9399",
+      "link": "https://www.doctorbangladesh.com/dr-asm-iftekhar-hossen/",
+      "imageId": "e02b1ffb-52bf-4085-a503-76e41f593acd",
+      "name": "Dr. ASM Iftekhar Hossen",
+      "degree": "MBBS, MS (CTS)",
+      "specialty": "Cardiovascular & Thoracic Surgery Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. ASM Iftekhar Hossen is a Cardiac Surgeon in Chittagong. His qualification is MBBS, MS (CTS). He is a Assistant Professor, Cardiac Surgery at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Parkview Hospital, Chittagong. Practicing hour of Dr. ASM Iftekhar Hossen at Parkview Hospital, Chittagong is 6pm to 8pm (Mon, Thu & Wed).",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 8pm (Mon, Thu & Wed)",
+        "appointmentNumber": "+8801976022333Call Now"
+      }
+    },
+    {
+      "id": "22295864-2486-4c84-8ae9-d5c3ffdcb96b",
+      "departmentId": "651c1220-0a73-4eb2-9a1f-20eebdcc9399",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdul-quaium-chowdhury/",
+      "imageId": "14b200b1-327d-4c18-8d19-92025453c1d3",
+      "name": "Dr. Md. Abdul Quaium Chowdhury",
+      "degree": "MBBS, BCS (Health), MS (CVTS)",
+      "specialty": "Cardiovascular, Thoracic & Cardiac Surgery Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Md. Abdul Quaium Chowdhury is a Cardiac Surgeon in Chittagong. His qualification is MBBS, BCS (Health), MS (CVTS). He is a Assistant Professor, Cardiac Surgery at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Lancet Diagnostic Center, Chittagong. Practicing hour of Dr. Md. Abdul Quaium Chowdhury at Lancet Diagnostic Center, Chittagong is 5pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Lancet Diagnostic Center, Chittagong",
+        "address": "106/B, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801552674425Call Now"
+      }
+    },
+    {
+      "id": "631ede60-4562-409d-89d3-6f6ee7e46bf3",
+      "departmentId": "651c1220-0a73-4eb2-9a1f-20eebdcc9399",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-sanaul-hoque-sarker/",
+      "imageId": "dbc61ac4-b14a-42e3-bcd9-ba797da25b33",
+      "name": "Dr. Mohammad Sanaul Hoque Sarker",
+      "degree": "MBBS, MS (Cardiovascular & Thoracic Surgery)",
+      "specialty": "Cardiovascular & Thoracic Surgeon",
+      "workplace": "Evercare Hospital, Chattogram",
+      "info": "ZH Sikder Women’s Medical College & Hospital Address: House 5, Road 104, Gulshan 2, Dhaka 1212 Visiting Hour: 9am to 5pm (Every Friday) Appointment: +8809609004444 (Press 0 after calling for operator help) Call Now",
+      "chamber": {
+        "hospital": "Evercare Hospital, Chattogram",
+        "address": "Room No. 3212, H1, Ananna R/A, CDA, Hathazari, Chattogram",
+        "visitingTime": "9pm to 5pm (Closed: Friday)",
+        "appointmentNumber": "10663Call Now"
+      }
+    },
+    {
+      "id": "56983fde-800e-4c3d-a378-d7bcc9754768",
+      "departmentId": "651c1220-0a73-4eb2-9a1f-20eebdcc9399",
+      "link": "https://www.doctorbangladesh.com/dr-sowrabh-biswas/",
+      "imageId": "7dd449de-217d-426c-b29b-0f9da83981f8",
+      "name": "Dr. Sowrabh Biswas",
+      "degree": "MBBS, MS (Thoracic Surgery)",
+      "specialty": "Thoracic & Esophageal Surgeon",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Dr. Sowrabh Biswas is a Thoracic Surgeon in Chittagong. His qualification is MBBS, MS (Thoracic Surgery). He is a Junior Consultant (Thoracic Surgery) at Chattogram Maa-O-Shishu Hospital Medical College. He regularly provides treatment to his patients at Max Hospital & Diagnostic, Chittagong. Practicing hour of Dr. Sowrabh Biswas at Max Hospital & Diagnostic, Chittagong is 3pm to 6pm (Sunday to Wednesday).",
+      "chamber": {
+        "hospital": "Max Hospital & Diagnostic, Chittagong",
+        "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+        "visitingTime": "3pm to 6pm (Sunday to Wednesday)",
+        "appointmentNumber": "+8801713-998166Call Now"
+      }
+    }
+  ]
+}

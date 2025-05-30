@@ -1,0 +1,55 @@
+{
+  "doctor": [
+    {
+      "id": "85b0ca34-7f53-465d-bcdb-1a51387b7339",
+      "departmentId": "a12074c4-223b-4893-96cf-9411b910565b",
+      "link": "https://www.doctorbangladesh.com/dr-md-zamil-hossain-munna/",
+      "imageId": "910d8f04-2502-4498-abd7-f5916284c465",
+      "name": "Dr. Md. Zamil Hossain",
+      "degree": "MBBS, BCS (Health), MS (Pediatric Surgery), FACS (USA)",
+      "specialty": "Child, Adolescent & Newborn SurgeonChild Urology and Endo-Laparoscopic Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Bashundhara Hospital & Diagnostic Center Address: Laxmipur, Rajshahi Visiting Hour: 3pm to 9pm (Closed: Thu & Friday) Appointment: +8801713468450 Call Now",
+      "chamber": {
+        "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
+        "address": "Laxmipur Mor, Rajshahi",
+        "visitingTime": "4pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801762685090Call Now"
+      }
+    },
+    {
+      "id": "ead346fb-7963-42fe-8eff-7958349ee3ed",
+      "departmentId": "a12074c4-223b-4893-96cf-9411b910565b",
+      "link": "https://www.doctorbangladesh.com/dr-mustafizur-rahman-masum/",
+      "imageId": "b5572dda-ad33-4584-bc05-5e96dfbca54d",
+      "name": "Dr. Mustafizur Rahman Masum",
+      "degree": "MBBS, MS (Pediatric Surgery)",
+      "specialty": "Pediatric Surgery Specialist & Laparoscopic Surgeon",
+      "workplace": "Barind Medical College & Hospital",
+      "info": "Dr. Mustafizur Rahman Masum is a Pediatric Surgeon in Pabna. His qualification is MBBS, MS (Pediatric Surgery). He is a Assistant Professor & Head, Pediatric Surgery at Barind Medical College & Hospital. He regularly provides treatment to his patients at City Diagnostic Center, Pabna. Practicing hour of Dr. Mustafizur Rahman Masum at City Diagnostic Center, Pabna is 10am to 7pm (Fri & Sat), 4pm to 8pm (Mon & Thu).",
+      "chamber": {
+        "hospital": "City Diagnostic Center, Pabna",
+        "address": "Beside TB Hospital, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "10am to 7pm (Fri & Sat), 4pm to 8pm (Mon & Thu)",
+        "appointmentNumber": "+8801757204642Call Now"
+      }
+    },
+    {
+      "id": "8d615f99-5ce1-45a9-b43a-5b547e16a80f",
+      "departmentId": "a12074c4-223b-4893-96cf-9411b910565b",
+      "link": "https://www.doctorbangladesh.com/dr-md-ashekin-abir/",
+      "imageId": "05308081-6cf1-465e-84bf-e184d194bcb2",
+      "name": "Dr. Md. Ashekin Abir",
+      "degree": "MBBS, BCS (Health), MS (Pediatric Surgery)",
+      "specialty": "Newborn & Adolescent & Child Surgery Specialist",
+      "workplace": "250 Bedded General Hospital, Pabna",
+      "info": "Dr. Md. Ashekin Abir is a Pediatric Surgeon in Pabna. His qualification is MBBS, BCS (Health), MS (Pediatric Surgery). He is a Medical Officer (Surgery) at 250 Bedded General Hospital, Pabna. He regularly provides treatment to his patients at Shafique Hospital, Pabna. Practicing hour of Dr. Md. Ashekin Abir at Shafique Hospital, Pabna is 3pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Shafique Hospital, Pabna",
+        "address": "Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801701654390Call Now"
+      }
+    }
+  ]
+}

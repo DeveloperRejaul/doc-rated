@@ -1,0 +1,55 @@
+{
+  "doctor": [
+    {
+      "id": "6ab34853-9856-44a2-a979-327a90fef6ce",
+      "departmentId": "14ef1791-653d-4be5-bb4b-6a3101481039",
+      "link": "https://www.doctorbangladesh.com/dr-biplob-kumar-das-skin/",
+      "imageId": "3323a63d-5b7b-44fb-9571-ba4120c1300f",
+      "name": "Dr. Biplob Kumar Das",
+      "degree": "MBBS, DDV",
+      "specialty": "Skin, Allergy, Leprosy & Sex Diseases Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. Biplob Kumar Das is a Skin Specialist in Barisal. His qualification is MBBS, DDV. He is a Associate Professor, Dermatology at Sher-E-Bangla Medical College & Hospital. He regularly provides treatment to his patients at BellView Hospital & Medical Services, Barisal. Practicing hour of Dr. Biplob Kumar Das at BellView Hospital & Medical Services, Barisal is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "BellView Hospital & Medical Services, Barisal",
+        "address": "114, Sadar Road, Barisal",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801733063692Call Now"
+      }
+    },
+    {
+      "id": "24f9e2e5-ad11-4c40-a2e3-683e8a1db2fe",
+      "departmentId": "14ef1791-653d-4be5-bb4b-6a3101481039",
+      "link": "https://www.doctorbangladesh.com/dr-md-rezwan-kaiser/",
+      "imageId": "56b0f1f8-393f-445b-894a-57277b85d6ee",
+      "name": "Dr. Md. Rezwan Kaiser",
+      "degree": "MBBS (DU), BCS (Health), DD (Thailand & Japan), CCD (BIRDEM)",
+      "specialty": "Skin, Allergy, Sex Specialist & Laser Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Popular Diagnostic Center, BarisalAddress: 955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, BarisalVisiting Hour: 4pm to 7pm (Closed: Thu & Friday)Appointment: +8809666787819Call Now",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Barisal",
+        "address": "K.B. Hemayet Uddin Road, Girja Moholla, Barisal",
+        "visitingTime": "7pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801711240969Call Now"
+      }
+    },
+    {
+      "id": "5e72af33-f39b-4702-8851-521e5a0bd781",
+      "departmentId": "14ef1791-653d-4be5-bb4b-6a3101481039",
+      "link": "https://www.doctorbangladesh.com/dr-md-morshedur-rahman/",
+      "imageId": "41012554-c506-48f4-ab0f-2cdbf6dae238",
+      "name": "Dr. Md. Morshedur Rahman",
+      "degree": "MBBS (Dhaka), BCS (Health), DDV (BSMMU)",
+      "specialty": "Skin, Allergy, Sexual Diseases Specialist & Dermatosurgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Islami Bank Hospital, Barisal Address: Band Road, Chandmari, Barisal – 8200 Visiting Hour: 6pm to 8pm (Closed: Friday) Appointment: +8801810000121 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "2pm to 3:30pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787819Call Now"
+      }
+    }
+  ]
+}

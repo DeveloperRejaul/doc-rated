@@ -1,0 +1,21 @@
+{
+  "doctor": [
+    {
+      "id": "dd3ca4a8-ba1c-4094-a99f-e99e7d413de1",
+      "departmentId": "b4a39f6f-f1f2-42c9-afe7-8c4d8a3c4f14",
+      "link": "https://www.doctorbangladesh.com/dr-serajus-salekin/",
+      "imageId": "f0a44e6e-f1bf-4ba8-9673-6c26f697db45",
+      "name": "Dr. Serajus Salekin",
+      "degree": "MBBS, BCS (Health), MS (CVTS)",
+      "specialty": "Cardiovascular & Thoracic Specialist Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Comilla Trauma Center Address: 511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla Visiting Hour: 9am to 4pm (1st & 3rd Friday) Appointment: +8809612808182 Call Now",
+      "chamber": {
+        "hospital": "Dr. Sirajul Islam Medical College & Hospital",
+        "address": "12/3, New Circular Road, Malibagh, Dhaka - 1217",
+        "visitingTime": "3pm to 4pm (Closed: Friday)",
+        "appointmentNumber": "+8801927333000Call Now"
+      }
+    }
+  ]
+}

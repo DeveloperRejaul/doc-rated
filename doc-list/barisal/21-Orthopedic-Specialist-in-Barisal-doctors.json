@@ -1,0 +1,191 @@
+{
+  "doctor": [
+    {
+      "id": "b7da724f-c33f-430a-83a7-6771f5c4b339",
+      "departmentId": "e56c380c-00b5-4670-8f59-e79c44f8b3c8",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-moniruzzaman-shahin/",
+      "imageId": "1ca23f5e-f839-4b26-8194-b1ed9a82df9b",
+      "name": "Prof. Dr. Md. Moniruzzaman Shahin",
+      "degree": "MBBS (Dhaka), D-ORTHO, MS (ORTHO)",
+      "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Islami Bank Hospital, Barisal Address: Band Road, Chandmari, Barisal – 8200 Visiting Hour: 6pm to 8.30pm (Closed: Friday) Appointment: +8801810000121 Call Now",
+      "chamber": {
+        "hospital": "South Apollo Diagnostic Complex, Barisal",
+        "address": "135, Sadar Road, Barisal",
+        "visitingTime": "3pm to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8801711457444Call Now"
+      }
+    },
+    {
+      "id": "a99620fd-0858-47be-9ae6-fb37d665e12f",
+      "departmentId": "e56c380c-00b5-4670-8f59-e79c44f8b3c8",
+      "link": "https://www.doctorbangladesh.com/dr-md-kabiruzzaman-ortho/",
+      "imageId": "b3fadf5e-12b8-481e-9cec-26a392b0513d",
+      "name": "Dr. Md. Kabiruzzaman",
+      "degree": "MBBS, D-ORTHO, PhD (Ortho Surgery)",
+      "specialty": "Orthopedics (Bone, Joint, Trauma, Arthritis) Specialist & Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. Md. Kabiruzzaman is a Orthopedic Surgeon in Barisal. His qualification is MBBS, D-ORTHO, PhD (Ortho Surgery). He is a Assistant Professor, Orthopedic Surgery at Sher-E-Bangla Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Barisal. Practicing hour of Dr. Md. Kabiruzzaman at Labaid Diagnostic, Barisal is 3pm to 4pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Barisal",
+        "address": "K Jahan Center, House # 106, Sadar Road, Barisal",
+        "visitingTime": "3pm to 4pm (Closed: Friday)",
+        "appointmentNumber": "+8801766663305Call Now"
+      }
+    },
+    {
+      "id": "6e539791-9be8-4477-aa0a-94003ca2956f",
+      "departmentId": "e56c380c-00b5-4670-8f59-e79c44f8b3c8",
+      "link": "https://www.doctorbangladesh.com/dr-md-ferdous-rayhan/",
+      "imageId": "dec322aa-7de8-44c6-8a64-2aa441f07c2d",
+      "name": "Dr. Md. Ferdous Rayhan",
+      "degree": "MBBS (Dhaka), BCS (Health), D-Ortho (NITOR), MS (Ortho), AO Trauma (BASIC)",
+      "specialty": "Orthopedic Specialist, Trauma & Spine Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Rahat Anwar Hospital, Barisal Address: Band Road, Chandmari, Barisal Sadar, Barisal – 8200 Visiting Hour: Unknown. Please call to know visiting hour Appointment: +8801711993953 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787819Call Now"
+      }
+    },
+    {
+      "id": "8ba84c27-f588-4d7c-af8c-1438e947e251",
+      "departmentId": "e56c380c-00b5-4670-8f59-e79c44f8b3c8",
+      "link": "https://www.doctorbangladesh.com/dr-md-shihab-uddin/",
+      "imageId": "3bcd0505-65e5-4bcc-ba76-b04235b6b625",
+      "name": "Dr. Md. Shihab Uddin",
+      "degree": "MBBS (Dhaka), D-Ortho (BSMMU), MS (Ortho Surgery), FWHO (Thailand)",
+      "specialty": "Orthopedics (Bone, Joint, Arthritis, Trauma) Specialist Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Konica Diagnostic Center, Barisal Address: 557, Syed Manjil, Bibir Pukur Par, Batar Goli, Barisal Visiting Hour: 6pm to 10pm (Everyday) Appointment: +8801760676730 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "4pm to 10pm (Everyday)",
+        "appointmentNumber": "+8809666787819Call Now"
+      }
+    },
+    {
+      "id": "f386f023-7941-4e89-83b8-d96a3c978b29",
+      "departmentId": "e56c380c-00b5-4670-8f59-e79c44f8b3c8",
+      "link": "https://www.doctorbangladesh.com/dr-sudip-kumar-halder/",
+      "imageId": "47ecc23a-c616-4402-b8f1-37c5396bfd86",
+      "name": "Dr. Sudip Kumar Halder",
+      "degree": "MBBS, MS-ORTHO (BSMMU)",
+      "specialty": "Orthopedic Specialist & Trauma Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Rahat Anwar Hospital, Barisal Address: Band Road, Chandmari, Barisal Sadar, Barisal – 8200 Visiting Hour: Unknown. Please call to know visiting hour Appointment: +8801711993953 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "6pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809666787819Call Now"
+      }
+    },
+    {
+      "id": "0b2e5afd-6ff2-4b88-af02-9eb0c37a5643",
+      "departmentId": "e56c380c-00b5-4670-8f59-e79c44f8b3c8",
+      "link": "https://www.doctorbangladesh.com/dr-md-golam-sagir/",
+      "imageId": "3ac57f8a-f4da-4047-bd73-ec355206a42a",
+      "name": "Dr. Md. Golam Sagir",
+      "degree": "MBBS, BCS (Health), MS (Ortho)",
+      "specialty": "Orthopedic Specialist & Trauma Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. Md. Golam Sagir is a Orthopedic Surgeon in Barisal. His qualification is MBBS, BCS (Health), MS (Ortho). He is a Consultant Surgeon, Orthopedic Surgery at Sher-E-Bangla Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Barisal. Practicing hour of Dr. Md. Golam Sagir at Labaid Diagnostic, Barisal is 6pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Barisal",
+        "address": "K Jahan Center, House # 106, Sadar Road, Barisal",
+        "visitingTime": "6pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801766663305Call Now"
+      }
+    },
+    {
+      "id": "c78d0554-5787-4bc1-b716-44b885a2bcf4",
+      "departmentId": "e56c380c-00b5-4670-8f59-e79c44f8b3c8",
+      "link": "https://www.doctorbangladesh.com/dr-md-riaz-mridha/",
+      "imageId": "0533140a-db34-484a-bcbf-062b2affa505",
+      "name": "Dr. Md. Riaz Mridha",
+      "degree": "MBBS, BCS (Health), D-ORTHO (BSMMU)",
+      "specialty": "Bone-Joint, Arthritis, Orthopedic Specialist & Trauma Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Rahat Anwar Hospital, Barisal Address: Band Road, Chandmari, Barisal Sadar, Barisal – 8200 Visiting Hour: Unknown. Please call to know visiting hour Appointment: +8801711993953 Call Now",
+      "chamber": {
+        "hospital": "South Apollo Diagnostic Complex, Barisal",
+        "address": "135, Sadar Road, Barisal",
+        "visitingTime": "2.30pm to 5.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801711457444Call Now"
+      }
+    },
+    {
+      "id": "5f93d029-7f7f-4749-8135-ed79801b542b",
+      "departmentId": "e56c380c-00b5-4670-8f59-e79c44f8b3c8",
+      "link": "https://www.doctorbangladesh.com/dr-md-fazle-rabbi-khan/",
+      "imageId": "4e654d55-e7b8-4e6e-921f-0e129e9df6c5",
+      "name": "Dr. Md. Fazle Rabbi Khan",
+      "degree": "MBBS, BCS (Health), MS (Orthopedic Surgery), NITOR",
+      "specialty": "Orthopedic Specialist & Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Popular Diagnostic Center, BarisalAddress: 955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, BarisalVisiting Hour: 6pm to 9pm (Sat to Thu), 11am to 2pm (Friday)Appointment: +8809666787819Call Now",
+      "chamber": {
+        "hospital": "Rahat Anwar Hospital, Barisal",
+        "address": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
+        "visitingTime": "3pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801711993953Call Now"
+      }
+    },
+    {
+      "id": "cf92886e-4698-439c-aab3-481767d2dfc9",
+      "departmentId": "e56c380c-00b5-4670-8f59-e79c44f8b3c8",
+      "link": "https://www.doctorbangladesh.com/dr-masreful-islam-saikat/",
+      "imageId": "8cb51afe-8b76-4ee7-a49f-7b91c5828074",
+      "name": "Dr. Masreful Islam Saikat",
+      "degree": "MBBS, BCS (Health), D-ORTHO (NITOR)",
+      "specialty": "Bone-Joint, Arthritis, Orthopedic Specialist & Trauma Surgeon",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Rahat Anwar Hospital, Barisal Address: Band Road, Chandmari, Barisal Sadar, Barisal – 8200 Visiting Hour: Unknown. Please call to know visiting hour Appointment: +8801711993953 Call Now",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Barisal",
+        "address": "K.B. Hemayet Uddin Road, Girja Moholla, Barisal",
+        "visitingTime": "2.30pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801711240969Call Now"
+      }
+    },
+    {
+      "id": "6a168222-efbc-41a1-b5ed-154c3b6bbb7a",
+      "departmentId": "e56c380c-00b5-4670-8f59-e79c44f8b3c8",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahmud-ullah-mahin/",
+      "imageId": "c1170a63-782d-4681-af91-c68f2a597035",
+      "name": "Dr. Mahmud Ullah Mahin",
+      "degree": "MBBS (DMC), BCS (Health), MS-ORTHO (NITOR)",
+      "specialty": "Orthopedic Specialist & Trauma Surgeon",
+      "workplace": "General Hospital, Barisal",
+      "info": "Rahat Anwar Hospital, Barisal Address: Band Road, Chandmari, Barisal Sadar, Barisal – 8200 Visiting Hour: Unknown. Please call to know visiting hour Appointment: +8801711993953 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "5pm to 10pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809666787819Call Now"
+      }
+    },
+    {
+      "id": "e6e81ef8-cd22-45eb-9bb2-be59eff26767",
+      "departmentId": "e56c380c-00b5-4670-8f59-e79c44f8b3c8",
+      "link": "https://www.doctorbangladesh.com/dr-m-muniruzzaman/",
+      "imageId": "e51647ae-b679-477a-8a91-8b741027541d",
+      "name": "Dr. M. Muniruzzaman (Hira)",
+      "degree": "MBBS, MS (ORTHO), FACS (USA)",
+      "specialty": "Bone, Joint, Arthritis, Trauma, Paralysis Specialist & Surgeon",
+      "workplace": "Patuakhali Medical College & Hospital",
+      "info": "Dr. M. Muniruzzaman (Hira) is a Orthopedic Surgeon in Barisal. His qualification is MBBS, MS (ORTHO), FACS (USA). He is a Assistant Professor, Orthopedic Surgery at Patuakhali Medical College & Hospital. He regularly provides treatment to his patients at Medinova Medical Services, Barisal. Practicing hour of Dr. M. Muniruzzaman (Hira) at Medinova Medical Services, Barisal is 5pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Barisal",
+        "address": "K.B. Hemayet Uddin Road, Girja Moholla, Barisal",
+        "visitingTime": "5pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801734-535555Call Now"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "doctor": [
+    {
+      "id": "6a545c11-5d12-49e4-9245-2f94925bf5e7",
+      "departmentId": "16d2069f-3d72-4dba-b720-084e82860b82",
+      "link": "https://www.doctorbangladesh.com/dr-nibedita-roy-dola/",
+      "imageId": "d8b29d69-adb6-4b98-af3f-ffa8fd07bba4",
+      "name": "Dr. Nibedita Roy Dola",
+      "degree": "MBBS, BCS (Health), FCPS (OBGYN), MCPS (OBGYN)",
+      "specialty": "Gynecology, Infertility Specialist & Laparoscopic Surgeon",
+      "workplace": "Charanchal 20 Bed Hospital, Barisal",
+      "info": "Dr. Nibedita Roy Dola is a Gynecologist in Mymensingh. Her qualification is MBBS, BCS (Health), FCPS (OBGYN), MCPS (OBGYN). She is a Consultant, Obstetrics & Gynecology at Charanchal 20 Bed Hospital, Barisal. She regularly provides treatment to her patients at Popular Diagnostic Center, Mymensingh. Practicing hour of Dr. Nibedita Roy Dola at Popular Diagnostic Center, Mymensingh is 3pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mymensingh",
+        "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787814Call Now"
+      }
+    },
+    {
+      "id": "f70aeefe-686d-476d-9848-c00320152a8b",
+      "departmentId": "16d2069f-3d72-4dba-b720-084e82860b82",
+      "link": "https://www.doctorbangladesh.com/prof-dr-rumana-arman/",
+      "imageId": "2b7ad3bc-7a65-4d98-ac79-c1bc6662ff76",
+      "name": "Prof. Dr. Rumana Arman",
+      "degree": "MBBS, DGO (OBGYN), MCPS (OBGYN), Training (IUI)",
+      "specialty": "Gynecology, Obstetrics, Infertility Specialist & Laparoscopic Surgeon",
+      "workplace": "President Abdul Hamid Medical College & Hospital",
+      "info": "TMC Diagnostic & Hospital, Mymensingh Address: Zeropoint, Noudhar, Trishal, Mymensingh – 2220 Visiting Hour: 11:30pm to 2pm (Sat, Mon & Thursday) Appointment: +8801774955555 Call Now",
+      "chamber": {
+        "hospital": "Green Life Hospital & Diagnostic Center",
+        "address": "68/B, Kristopur Road, Charpara, Mymensingh",
+        "visitingTime": "2pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801842290220Call Now"
+      }
+    },
+    {
+      "id": "7e85ce14-f528-480f-92bb-75b97485d101",
+      "departmentId": "16d2069f-3d72-4dba-b720-084e82860b82",
+      "link": "https://www.doctorbangladesh.com/dr-akter-jahan/",
+      "imageId": "e3e892aa-cc73-45d4-9dbd-7fe5e0dddb0e",
+      "name": "Dr. Akter Jahan",
+      "degree": "MBBS, DGO (OBGYN), FCPS (OBGYN), Training (Infertility)",
+      "specialty": "Gynecology, Infertility Specialist & Surgeon",
+      "workplace": "Community Based Medical College & Hospital",
+      "info": "Dr. Akter Jahan is a Gynecologist in Mymensingh. Her qualification is MBBS, DGO (OBGYN), FCPS (OBGYN), Training (Infertility). She is a Associate Professor, Obstetrics & Gynecology at Community Based Medical College & Hospital. She regularly provides treatment to her patients at Union Specialized Hospital, Mymensingh. Practicing hour of Dr. Akter Jahan at Union Specialized Hospital, Mymensingh is Sat, Tues & Thursday.",
+      "chamber": {
+        "hospital": "Union Specialized Hospital, Mymensingh",
+        "address": "337, Charpara, Mymensingh",
+        "visitingTime": "Sat, Tues & Thursday",
+        "appointmentNumber": "+8801958280000Call Now"
+      }
+    }
+  ]
+}

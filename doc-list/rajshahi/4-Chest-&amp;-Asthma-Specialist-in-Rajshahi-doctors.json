@@ -1,0 +1,140 @@
+{
+  "doctor": [
+    {
+      "id": "af7f03ed-3f84-4d91-a43b-25a3080e7ed1",
+      "departmentId": "d1bdc0b5-07ec-49fc-aefb-0376a34cb480",
+      "link": "https://www.doctorbangladesh.com/dr-samir-majumder/",
+      "imageId": "a2c4b9ab-a9b7-4278-b3f7-a71ae06bbeb4",
+      "name": "Prof. Dr. Samir Majumder",
+      "degree": "MBBS, MD (CHEST)",
+      "specialty": "Chest Diseases, Asthma & Respiratory Medicine Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Prof. Dr. Samir Majumder is a Chest Diseases Specialist in Rajshahi. His qualification is MBBS, MD (CHEST). He is a Former Professor & Head, Respiratory Medicine at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Prof. Dr. Samir Majumder at Popular Diagnostic Center, Rajshahi is 6pm to 10pm (Sat to Thu), 11am to 2pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "6pm to 10pm (Sat to Thu), 11am to 2pm (Friday)",
+        "appointmentNumber": "+8809666787811Call Now"
+      }
+    },
+    {
+      "id": "8e58889a-6f63-4934-8603-feda501ed5fe",
+      "departmentId": "d1bdc0b5-07ec-49fc-aefb-0376a34cb480",
+      "link": "https://www.doctorbangladesh.com/dr-rezaul-islam/",
+      "imageId": "651492af-a48b-4adc-97f4-b1d43a771527",
+      "name": "Dr. Rezaul Islam",
+      "degree": "MBBS (DMC), FCPS (Medicine), MD (CHEST)",
+      "specialty": "Asthma, Chest Diseases & Respiratory Medicine Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Rezaul Islam is a Chest Diseases Specialist in Rajshahi. His qualification is MBBS (DMC), FCPS (Medicine), MD (CHEST). He is a Assistant Professor, Respiratory Medicine at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Rezaul Islam at Popular Diagnostic Center, Rajshahi is 3pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "3pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787811Call Now"
+      }
+    },
+    {
+      "id": "ce2c1357-0011-4dce-8bad-803a28824686",
+      "departmentId": "d1bdc0b5-07ec-49fc-aefb-0376a34cb480",
+      "link": "https://www.doctorbangladesh.com/dr-shis-mohammad-sarkar/",
+      "imageId": "7731fd2d-2770-4d53-83fb-9a4ec1b3698d",
+      "name": "Dr. Shish Mohammad Sarkar",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Chest Diseases)",
+      "specialty": "Chest Diseases, Asthma & Medicine Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Kimia Diagnostic Center, Pabna Address: Pach Matha Mor, Beside Central Girls School, Shalgaria, Pabna Visiting Hour: 9am to 5pm (Only Friday) Appointment: +8801711489711 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "5:30pm to 8pm (Closed: Friday & Saturday)",
+        "appointmentNumber": "+8809666787811Call Now"
+      }
+    },
+    {
+      "id": "4ea863ed-2a46-4736-b370-5473e5b8f4c1",
+      "departmentId": "d1bdc0b5-07ec-49fc-aefb-0376a34cb480",
+      "link": "https://www.doctorbangladesh.com/dr-ahmad-zainuddin-sani/",
+      "imageId": "242ff18b-370a-49cb-99d4-3853bd510f70",
+      "name": "Dr. Ahmad Zainuddin Sani",
+      "degree": "MBBS, BCS (Health), MD (Chest Diseases)",
+      "specialty": "Chest Diseases, Asthma & Respiratory Medicine Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Popular Diagnostic Center, RajshahiAddress: House # 474, Chowdhury Tower, Laxmipur, RajshahiVisiting Hour: 3pm to 8:30pm (Closed: Friday)Appointment: +8809666787811Call Now",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Rajshahi",
+        "address": "House # 621, Shershah Road, Rajpara, Laxmipur, Rajshahi - 6000",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801766661144Call Now"
+      }
+    },
+    {
+      "id": "9a43d717-b49c-4083-96b3-bfccf4f67572",
+      "departmentId": "d1bdc0b5-07ec-49fc-aefb-0376a34cb480",
+      "link": "https://www.doctorbangladesh.com/dr-chitta-ranjan-paul/",
+      "imageId": "6186ca63-e92a-4e85-962c-5e1b63f039f9",
+      "name": "Dr. Chitta Ranjan Paul",
+      "degree": "MBBS, BCS (Health), MD (Chest Diseases), MACP (USA)",
+      "specialty": "Chest Diseases, Asthma, Allergy, TB & Respiratory Medicine Specialist",
+      "workplace": "Chest Disease Hospital, Rajshahi",
+      "info": "Islami Bank Medical College & Hospital Address: Room – 103, Airport Road, Nawdapara, Sopura, Rajshahi Visiting Hour: 5pm to 7pm (Closed: Thu & Friday) Appointment: +8801810000120 Call Now",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Rajshahi",
+        "address": "Room - 134, Old Building, Laxmipur Mor, Rajshahi",
+        "visitingTime": "3pm to 5pm & 7pm to 8.30pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801810000119Call Now"
+      }
+    },
+    {
+      "id": "3bc29f78-a3c9-46c4-a255-896b77c2d9e7",
+      "departmentId": "d1bdc0b5-07ec-49fc-aefb-0376a34cb480",
+      "link": "https://www.doctorbangladesh.com/dr-md-masudur-rahman-chest/",
+      "imageId": "2c3e1351-23ce-40a1-a103-b9da1e26cfe3",
+      "name": "Dr. Md. Masudur Rahman",
+      "degree": "MBBS, BCS (Health), MD (Chest Diseases)",
+      "specialty": "Chest Diseases, Asthma & Respiratory Medicine Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Md. Masudur Rahman is a Chest Diseases Specialist in Rajshahi. His qualification is MBBS, BCS (Health), MD (Chest Diseases). He is a Assistant Professor, Respiratory Medicine at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Md. Masudur Rahman at Popular Diagnostic Center, Rajshahi is 3pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787811Call Now"
+      }
+    },
+    {
+      "id": "bd770a55-e46e-4ab9-9a6d-d7409df300f7",
+      "departmentId": "d1bdc0b5-07ec-49fc-aefb-0376a34cb480",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-zannatul-rayhan/",
+      "imageId": "c580c875-089a-4ef0-bd86-7dc8c8ce7ffc",
+      "name": "Dr. Mohammad Zannatul Rayhan",
+      "degree": "MBBS, MD (CHEST)",
+      "specialty": "Chest Diseases & Respiratory Medicine Specialist",
+      "workplace": "Chest Diseases Hospital, Rajshahi",
+      "info": "Dr. Mohammad Zannatul Rayhan is a Chest Diseases Specialist in Rajshahi. His qualification is MBBS, MD (CHEST). He is a Consultant, Respiratory Medicine at Chest Diseases Hospital, Rajshahi. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Mohammad Zannatul Rayhan at Popular Diagnostic Center, Rajshahi is 3:30pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "Room - 622, House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "3:30pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787811Call Now"
+      }
+    },
+    {
+      "id": "59804c96-8ff3-4e14-bf96-e3e4280c8f74",
+      "departmentId": "d1bdc0b5-07ec-49fc-aefb-0376a34cb480",
+      "link": "https://www.doctorbangladesh.com/dr-md-wasim-hossain/",
+      "imageId": "61481b76-2927-4413-bdb2-82c02b8785d7",
+      "name": "Dr. Md. Wasim Hossain",
+      "degree": "MBBS, DTCD, PhD, Fellow (WHO)",
+      "specialty": "Chest Diseases, Asthma, TB & Respiratory Medicine Specialist",
+      "workplace": "Chest Disease Hospital, Rajshahi",
+      "info": "Dr. Md. Wasim Hossain is a Chest Diseases Specialist in Rajshahi. His qualification is MBBS, DTCD, PhD, Fellow (WHO). He is a Consultant, Respiratory Medicine at Chest Disease Hospital, Rajshahi. He regularly provides treatment to his patients at Shapla Diagnostic Complex, Rajshahi. Practicing hour of Dr. Md. Wasim Hossain at Shapla Diagnostic Complex, Rajshahi is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Shapla Diagnostic Complex, Rajshahi",
+        "address": "Greater Road, Laxmipur, Kazihata, Rajshahi",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801732688664Call Now"
+      }
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "doctor": [
+    {
+      "id": "cac2d129-6429-469a-b9c4-f7621cf093ea",
+      "departmentId": "2eb0c6a7-56e4-45c5-8fb2-6c1a0c0832e9",
+      "link": "https://www.doctorbangladesh.com/dr-md-sumon-rana/",
+      "imageId": "1d540132-28ed-470b-a87b-eff1039a22e8",
+      "name": "Dr. Md. Sumon Rana",
+      "degree": "MBBS, BCS (Health), MS (Neurosurgery)",
+      "specialty": "Neurosurgery (Brain, Nerve, Spine, Vascular, Stroke) Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Md. Sumon Rana is a Neurosurgeon in Pabna. His qualification is MBBS, BCS (Health), MS (Neurosurgery). He is working as a Neurosurgery (Brain, Nerve, Spine, Vascular, Stroke) Specialist doctor in Dhaka Medical College & Hospital. He regularly provides treatment to his patients at City Diagnostic Center, Pabna. Practicing hour of Dr. Md. Sumon Rana at City Diagnostic Center, Pabna is 8am to 4pm (Every Friday).",
+      "chamber": {
+        "hospital": "City Diagnostic Center, Pabna",
+        "address": "Beside TB Hospital, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "8am to 4pm (Every Friday)",
+        "appointmentNumber": "+8801757204642Call Now"
+      }
+    },
+    {
+      "id": "f3aad99a-3f2d-4da0-87e7-867594585d0d",
+      "departmentId": "2eb0c6a7-56e4-45c5-8fb2-6c1a0c0832e9",
+      "link": "https://www.doctorbangladesh.com/dr-md-arif-reza/",
+      "imageId": "2f7e488d-9806-4296-9088-e88c51d4d828",
+      "name": "Dr. Md. Arif Reza",
+      "degree": "MBBS, BCS (Health), MS (Neurosurgery)",
+      "specialty": "Neurosurgery Specialist",
+      "workplace": "National Institute of Neurosciences & Hospital",
+      "info": "Popular Diagnostic Centre, Kushtia Address: City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia Visiting Hour: 4pm to 10pm (Only Thursday) Appointment: +8809666787817 Call Now",
+      "chamber": {
+        "hospital": "Shimla Hospital, Pabna",
+        "address": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
+        "visitingTime": "9am to 5pm (Only Friday)",
+        "appointmentNumber": "+8801713228218Call Now"
+      }
+    },
+    {
+      "id": "49ff69ed-442f-437c-b360-de3466506616",
+      "departmentId": "2eb0c6a7-56e4-45c5-8fb2-6c1a0c0832e9",
+      "link": "https://www.doctorbangladesh.com/dr-md-rashidul-hasan-neurosurgery/",
+      "imageId": "e9cab605-626f-4303-b0bc-d06e2f69c5df",
+      "name": "Dr. Md. Rashidul Hasan",
+      "degree": "MBBS, BCS (Health), MS (Neurosurgery), BSMMU",
+      "specialty": "Neurosurgery (Brain, Stroke, Paralysis & Spine) Specialist & Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Shafique Hospital, Pabna Address: Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna Visiting Hour: 9am to 5pm (Only Friday) Appointment: +8801701654390 Call Now",
+      "chamber": {
+        "hospital": "Japan Bangladesh Friendship Hospital",
+        "address": "55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi",
+        "visitingTime": "7pm to 8pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801718-202878Call Now"
+      }
+    },
+    {
+      "id": "de3219c1-53f1-4016-817e-0a666625764d",
+      "departmentId": "2eb0c6a7-56e4-45c5-8fb2-6c1a0c0832e9",
+      "link": "https://www.doctorbangladesh.com/dr-md-zahid-raihan/",
+      "imageId": "7304fc7c-aae7-43bb-9206-d3e18b4572c7",
+      "name": "Dr. Md. Zahid Raihan",
+      "degree": "MBBS, BCS (Health), MS (Neurosurgery)",
+      "specialty": "Brain, Nerve, Stroke, Paralysis, Parkinson Specialist & Surgeon",
+      "workplace": "Kushtia Medical College & Hospital",
+      "info": "Shimla Hospital, Pabna Address: Shimla Tower, Thana Mor, Hospital Road, Pabna Visiting Hour: 4pm to 8pm (2nd & 4th Saturday of Every Month) Appointment: +8801713228218 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Centre, Kushtia",
+        "address": "City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia",
+        "visitingTime": "8am to 2pm (Friday)",
+        "appointmentNumber": "+8809666787817Call Now"
+      }
+    },
+    {
+      "id": "fc989b6f-fb2a-4f18-b201-40f8e45e2179",
+      "departmentId": "2eb0c6a7-56e4-45c5-8fb2-6c1a0c0832e9",
+      "link": "https://www.doctorbangladesh.com/dr-sheikh-mahmood-hasan/",
+      "imageId": "5839c40e-5fcf-4da6-b752-598ea5e1aa7c",
+      "name": "Dr. Sheikh Mahmood Hasan",
+      "degree": "MBBS (DMC), BCS (Health), MS (Neurosurgery)",
+      "specialty": "Neurosurgery (Brain, Nerve, Spine, Stroke) Specialist Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Central Hospital, Pabna Address: South Side of Sadar Hospital Gate, Hospital Road, Shalgaria, Pabna Visiting Hour: 9am to 5pm (Only Friday) Appointment: +8801322912612 Call Now",
+      "chamber": {
+        "hospital": "Dhanmondi General & Kidney Hospital",
+        "address": "44/7, City Tower (opposite BRB Hospital), West Panthapath, Dhaka",
+        "visitingTime": "3pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801703991545Call Now"
+      }
+    }
+  ]
+}

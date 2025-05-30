@@ -1,0 +1,106 @@
+{
+  "doctor": [
+    {
+      "id": "23540e3e-76c3-4c62-8db3-8fa21a756476",
+      "departmentId": "6b797ae3-4e15-4f5b-8700-71bea8d54a2c",
+      "link": "https://www.doctorbangladesh.com/dr-anm-ilias-naime/",
+      "imageId": "0e3cdcad-c6e0-4900-a2ff-b562613b7953",
+      "name": "Dr. ANM Ilias Naime",
+      "degree": "MBBS, FCPS (Neurosurgery)",
+      "specialty": "Neurosurgery (Brain & Spine Surgery) Specialist",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Comilla",
+        "address": "Laksam Road, Cumilla",
+        "visitingTime": "3pm to 8pm (Sat to Thu) & 9am to 12pm (Fri)",
+        "appointmentNumber": "+8801739689987Call Now"
+      }
+    },
+    {
+      "id": "a2fca224-7e33-4457-a001-00076a13be4c",
+      "departmentId": "6b797ae3-4e15-4f5b-8700-71bea8d54a2c",
+      "link": "https://www.doctorbangladesh.com/dr-mashiur-rahman-majumder/",
+      "imageId": "2a981945-6a5f-4265-8945-ef9217afc128",
+      "name": "Dr. Mashiur Rahman Majumder",
+      "degree": "MBBS, FCPS (Surgery), MS (Neurosurgery)",
+      "specialty": "Neurosurgery (Brain, Stroke, Paralysis) Specialist & Spine Surgeon",
+      "workplace": "Comilla Medical College & Hospital",
+      "info": "Comilla Trauma Center Address: 511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla Visiting Hour: 11am to 4pm (Thu) & 11am to 1pm (Fri) Appointment: +8809612808182 Call Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Comilla",
+        "address": "House # 29, Kotbari Road, Tomsom Bridge, Cumilla",
+        "visitingTime": "5pm to 6pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801841212275Call Now"
+      }
+    },
+    {
+      "id": "4231cd6d-680b-46d2-9297-71d2741bad9a",
+      "departmentId": "6b797ae3-4e15-4f5b-8700-71bea8d54a2c",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-zainul-abedin-sohag/",
+      "imageId": "00a210e4-c7ec-4c34-ad4c-3ad6e2910540",
+      "name": "Dr. Muhammad Zainul Abedin Sohag",
+      "degree": "MBBS, MS (Neurosurgery)",
+      "specialty": "Neurosurgery (Brain, Nerve, Spine, Stroke) Specialist",
+      "workplace": "Central Medical College & Hospital, Comilla",
+      "info": "Dr. Muhammad Zainul Abedin Sohag is a Neurosurgeon in Comilla. His qualification is MBBS, MS (Neurosurgery). He is a Assistant Professor, Neurosurgery Department at Central Medical College & Hospital, Comilla. He regularly provides treatment to his patients at Gomati Hospital, Comilla. Practicing hour of Dr. Muhammad Zainul Abedin Sohag at Gomati Hospital, Comilla is 9am to 12pm (Friday), 2pm to 6pm (Saturday & Sunday).",
+      "chamber": {
+        "hospital": "Gomati Hospital, Comilla",
+        "address": "Room 308, Nazrul Avenue, Kandirpar, Cumilla - 3500",
+        "visitingTime": "9am to 12pm (Friday), 2pm to 6pm (Saturday & Sunday)",
+        "appointmentNumber": "+8801958-422806Call Now"
+      }
+    },
+    {
+      "id": "42200f2d-a3d0-48c9-bc10-f064c46e79a7",
+      "departmentId": "6b797ae3-4e15-4f5b-8700-71bea8d54a2c",
+      "link": "https://www.doctorbangladesh.com/dr-khaled-ahmedur-rahman/",
+      "imageId": "83eb752a-b688-4e72-99d5-00569c802d08",
+      "name": "Dr. Khaled Ahmedur Rahman",
+      "degree": "MBBS, BCS (Health), MS (Neurosurgery)",
+      "specialty": "Brain, Stroke, Nerve, Spine Specialist & Neurosurgeon",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "CD Path & Hospital Pvt. Ltd. Address: Shishu Monagal Road, Badurtoal, Cumilla – 3500 Visiting Hour: 3pm to 8pm (Sun, Mon, Tue & Wed) Appointment: +8801790680849 Call Now",
+      "chamber": {
+        "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+        "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+        "visitingTime": "2.30pm to 3.30pm & 6pm to 8pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801641313466Call Now"
+      }
+    },
+    {
+      "id": "fa88dc17-0ae2-4896-9ee1-2a2b6de7fde1",
+      "departmentId": "6b797ae3-4e15-4f5b-8700-71bea8d54a2c",
+      "link": "https://www.doctorbangladesh.com/dr-jalal-ahmed-ripon/",
+      "imageId": "3c5252b6-1fab-43fb-9efe-0cce2b628972",
+      "name": "Dr. Jalal Ahmed Ripon",
+      "degree": "MBBS, BCS (Health), MS (Neurosurgery) BSMMU",
+      "specialty": "Neurosurgery (Brain, Spine, Nerve, Stroke) Specialist & Surgeon",
+      "workplace": "Comilla Trauma Center (Specialized Orthopedic & General Hospital)",
+      "info": "Dr. Jalal Ahmed Ripon is a Neurosurgeon in Comilla. His qualification is MBBS, BCS (Health), MS (Neurosurgery) BSMMU. He is a Consultant (Neurosurgery) at Comilla Trauma Center (Specialized Orthopedic & General Hospital). He regularly provides treatment to his patients at Comilla Trauma Center. Practicing hour of Dr. Jalal Ahmed Ripon at Comilla Trauma Center is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Comilla Trauma Center",
+        "address": "511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801328461125Call Now"
+      }
+    },
+    {
+      "id": "157e15f9-f503-41dc-a8be-09c601a79518",
+      "departmentId": "6b797ae3-4e15-4f5b-8700-71bea8d54a2c",
+      "link": "https://www.doctorbangladesh.com/dr-saiful-hoque/",
+      "imageId": "d92f23bb-a24e-4925-93aa-8090914c07be",
+      "name": "Dr. Saiful Hoque",
+      "degree": "MBBS, BCS (Health), MS (Neurosurgery)",
+      "specialty": "Brain, Spine, Nerve, Stroke Specialist & Surgeon",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Saiful Hoque is a highly qualified brain, spine, nerve, and stroke specialist and surgeon in Cumilla. He holds an MBBS, BCS (Health), and MS in Neurosurgery, and has received advanced training through a fellowship in Endoscopic Spine and Minimally Invasive Spine Surgery from South Korea. He is also a proud member of both the American Association of Neurosurgeons (AANS) and the European Association of Neurosurgeons (EANS). Dr. Hoque currently serves as an Assistant Professor in the Department of Neurosurgery at Cumilla Medical College & Hospital. He provides specialized treatment at Moon Hospital, Cumilla, located on Shahid Khawaja Nizamuddin Road, Jhautola. His chamber is open from 4:00 PM to 9:00 PM, Sunday to Wednesday. For expert neurosurgical care in Cumilla, Dr. Saiful Hoque is a trusted name.",
+      "chamber": {
+        "hospital": "Moon Hospital, Comilla",
+        "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
+        "visitingTime": "4pm to 9pm (Sunday to Wednesday)",
+        "appointmentNumber": "+8801301656807Call Now"
+      }
+    }
+  ]
+}

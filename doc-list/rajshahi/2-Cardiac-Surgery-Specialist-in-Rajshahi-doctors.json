@@ -1,0 +1,21 @@
+{
+  "doctor": [
+    {
+      "id": "4a22dae2-6abf-4b65-bf9d-e6b083af56bd",
+      "departmentId": "2b669a69-45d3-401f-b0ec-f22dd33b974c",
+      "link": "https://www.doctorbangladesh.com/dr-md-badruzzaman/",
+      "imageId": "0148293c-0b03-43e9-9966-2aad5ff4010f",
+      "name": "Dr. Md. Badruzzaman",
+      "degree": "MBBS, (DU), MS (CVTS)",
+      "specialty": "Cardiovascular & Thoracic Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Md. Badruzzaman is a Cardiac Surgeon in Rajshahi. His qualification is MBBS, (DU), MS (CVTS). He is working as a Cardiovascular & Thoracic Surgeon doctor in Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Islami Bank Hospital, Rajshahi. Practicing hour of Dr. Md. Badruzzaman at Islami Bank Hospital, Rajshahi is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Rajshahi",
+        "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801777242536Call Now"
+      }
+    }
+  ]
+}

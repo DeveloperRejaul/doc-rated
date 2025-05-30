@@ -1,0 +1,157 @@
+{
+  "doctor": [
+    {
+      "id": "f163c371-48ec-474e-8f30-c017ca2987d0",
+      "departmentId": "b3e1bbbd-69ab-4b46-9063-1ac9cec07eb3",
+      "link": "https://www.doctorbangladesh.com/dr-md-wazed-ali/",
+      "imageId": "ae4721c3-fde9-48f0-81ae-4e7495dc9f63",
+      "name": "Dr. Md. Wazed Ali",
+      "degree": "BDS, DDS (BSMMU), FCPS (Orthodontics)",
+      "specialty": "Orthodontics (Braces, Bite Problem, Jaw Problem) Specialist & Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Md. Wazed Ali is a Orthodontist in Dhaka. His qualification is BDS, DDS (BSMMU), FCPS (Orthodontics). He is a Assistant Professor, Dental at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Dhanmondi. Practicing hour of Dr. Md. Wazed Ali at Ibn Sina Diagnostic Center, Dhanmondi is 4pm to 6pm (Saturday & Tuesday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
+        "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+        "visitingTime": "4pm to 6pm (Saturday & Tuesday)",
+        "appointmentNumber": "+8809610010615Call Now"
+      }
+    },
+    {
+      "id": "3602b052-2b86-40fe-8a4b-7061e8a117bc",
+      "departmentId": "b3e1bbbd-69ab-4b46-9063-1ac9cec07eb3",
+      "link": "https://www.doctorbangladesh.com/dr-sufia-nasrin-rita/",
+      "imageId": "19ee55cb-099f-4825-8dd3-ca9a22b771a2",
+      "name": "Prof. Dr. Sufia Nasrin Rita",
+      "degree": "BDS, FCPS (Orthodontics)",
+      "specialty": "Orthodontics (Braces, Bite Problem, Jaw Problem) Specialist & Surgeon",
+      "workplace": "Sapporo Dental College & Hospital",
+      "info": "Prof. Dr. Sufia Nasrin Rita is a Orthodontist in Dhaka. Her qualification is BDS, FCPS (Orthodontics). She is a Professor & Head, Dental at Sapporo Dental College & Hospital. She regularly provides treatment to her patients at Square Hospital, Dhaka. Practicing hour of Prof. Dr. Sufia Nasrin Rita at Square Hospital, Dhaka is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Square Hospital, Dhaka",
+        "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "10616Call Now"
+      }
+    },
+    {
+      "id": "7b8a501d-166f-4b2f-a8c9-2e137e974a72",
+      "departmentId": "b3e1bbbd-69ab-4b46-9063-1ac9cec07eb3",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-shamim-al-mamun/",
+      "imageId": "3bbf99e9-f555-42d7-a57a-d031eb10d8e5",
+      "name": "Dr. Mohammad Shamim Al Mamun",
+      "degree": "BDS (DDC), FCPS (Orthodontics)",
+      "specialty": "Oral, Dental Surgeon, Orthodontics & Dentofacial Orthopedics Specialist",
+      "workplace": "Labaid Dental Clinic, Dhaka",
+      "info": "Dr. Mohammad Shamim Al Mamun is a Orthodontist in Dhaka. His qualification is BDS (DDC), FCPS (Orthodontics). He is a Consultant, Dental Department at Labaid Dental Clinic, Dhaka. He regularly provides treatment to his patients at Labaid Specialized Hospital, Dhanmondi. Practicing hour of Dr. Mohammad Shamim Al Mamun at Labaid Specialized Hospital, Dhanmondi is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Dhanmondi",
+        "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "10606Call Now"
+      }
+    },
+    {
+      "id": "c46d3ad5-82a2-47ad-8bbb-667ee2e552c2",
+      "departmentId": "b3e1bbbd-69ab-4b46-9063-1ac9cec07eb3",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-sayeedul-islam-sohel/",
+      "imageId": "8e3665f6-437b-4429-b000-c8d71723fe7c",
+      "name": "Dr. Md. Sayeedul Islam (Sohel)",
+      "degree": "BDS, FCPS (Orthodontics), PGT",
+      "specialty": "Orthodontics & Dentofacial Orthopedics Specialist",
+      "workplace": "Pioneer Dental College, Dhaka",
+      "info": "Dr. Md. Sayeedul Islam (Sohel) is a Orthodontist in Dhaka. His qualification is BDS, FCPS (Orthodontics), PGT. He is a Assistant Professor, Dental at Pioneer Dental College, Dhaka. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Uttara. Practicing hour of Dr. Md. Sayeedul Islam (Sohel) at Ibn Sina Diagnostic Center, Uttara is 3.30pm to 5pm (Wednesday & Thursday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Uttara",
+        "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
+        "visitingTime": "3.30pm to 5pm (Wednesday & Thursday)",
+        "appointmentNumber": "+8809610009612Call Now"
+      }
+    },
+    {
+      "id": "61721e91-8e6d-42bc-ac77-995b1db959bc",
+      "departmentId": "b3e1bbbd-69ab-4b46-9063-1ac9cec07eb3",
+      "link": "https://www.doctorbangladesh.com/prof-dr-brig-gen-md-liakat-ali-hyder/",
+      "imageId": "40a679e5-01d4-4731-9617-47d6c4e821b5",
+      "name": "Prof. Dr. Brig. Gen. Md. Liakat Ali Hyder",
+      "degree": "BDS, FCPS (Orthodontics)",
+      "specialty": "Orthodontics (Braces, Bite Problem, Jaw Problem) Specialist & Surgeon",
+      "workplace": "Square Hospital, Dhaka",
+      "info": "Prof. Dr. Brig. Gen. Md. Liakat Ali Hyder is a Orthodontist in Dhaka. His qualification is BDS, FCPS (Orthodontics). He is a Consultant, Dental Surgery & Orthodontics at Square Hospital, Dhaka. He regularly provides treatment to his patients at Square Hospital, Dhaka. Practicing hour of Prof. Dr. Brig. Gen. Md. Liakat Ali Hyder at Square Hospital, Dhaka is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Square Hospital, Dhaka",
+        "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "10616Call Now"
+      }
+    },
+    {
+      "id": "8235020e-3b6f-46dd-8d6a-f55e158bc6d1",
+      "departmentId": "b3e1bbbd-69ab-4b46-9063-1ac9cec07eb3",
+      "link": "https://www.doctorbangladesh.com/dr-md-golam-rubby/",
+      "imageId": "b5ead95e-e79b-4b01-aed5-e9e8f33751b4",
+      "name": "Dr. Md. Golam Rubby",
+      "degree": "BDS, FCPS (Orthodontics & Dentofacial Orthopedics)",
+      "specialty": "Oral, Dental Surgeon, Orthodontics & Dentofacial Orthopedics Specialist",
+      "workplace": "Evercare Hospital, Dhaka",
+      "info": "Dr. Md. Golam Rubby is a Orthodontist in Dhaka. His qualification is BDS, FCPS (Orthodontics & Dentofacial Orthopedics). He is a Consultant, Orthodontics at Evercare Hospital, Dhaka. He regularly provides treatment to his patients at Evercare Hospital, Dhaka. Practicing hour of Dr. Md. Golam Rubby at Evercare Hospital, Dhaka is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Evercare Hospital, Dhaka",
+        "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "10678Call Now"
+      }
+    },
+    {
+      "id": "776b41c5-8a24-4a70-8e10-56519ae8188a",
+      "departmentId": "b3e1bbbd-69ab-4b46-9063-1ac9cec07eb3",
+      "link": "https://www.doctorbangladesh.com/dr-himel-chakma/",
+      "imageId": "697590c1-44fc-4cfa-94e4-5e12b52d7402",
+      "name": "Dr. Himel Chakma",
+      "degree": "BDS, MS (Orthodontics & Dentofacial Orthopedics), MCPS (Dental Surgery)",
+      "specialty": "Orthodontics & Dentofacial Orthopedics Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "AVE Dental Surgery & Orthodontics Address: 102, Panchlaish R/A (Opposite to Probartak School), Chattogram Visiting Hour: 4pm to 9pm (Thursday), 9am to 1pm & 4pm t0 9pm (Friday) Appointment: +8801860753635 Call Now",
+      "chamber": {
+        "hospital": "Triodent Dental BD",
+        "address": "21/4/A (2nd Floor), Zigatola Road, Dhanmondi, Dhaka",
+        "visitingTime": "5pm to 9pm (Saturday to Wednesday)",
+        "appointmentNumber": "+8801819352939Call Now"
+      }
+    },
+    {
+      "id": "7107ab3f-df08-4e66-bebb-354518a1a6b7",
+      "departmentId": "b3e1bbbd-69ab-4b46-9063-1ac9cec07eb3",
+      "link": "https://www.doctorbangladesh.com/dr-mir-abu-naim-pavel/",
+      "imageId": "c551a1e9-36f3-460e-8771-1b3d0d0221e7",
+      "name": "Dr. Mir Abu Naim (Pavel)",
+      "degree": "BDS (RMC), FCPS (Orthodontics & Dentofacial Orthopedics)",
+      "specialty": "Orthodontist",
+      "workplace": "Udayan Dental College, Rajshahi",
+      "info": "Rasel’s Dental Centre Address: Sepaipara, Infront of Rajshahi Medical College Visiting Hour: রাজশাহীতে মাসে ৩ দিন রোগী দেখেন Appointment: +8801740004004 Call Now",
+      "chamber": {
+        "hospital": "Anika Dental Care",
+        "address": "26/3, Zigatola Puran Kacha Bazar (1st floor), Dhanmondi, Dhaka",
+        "visitingTime": "5pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801977359445Call Now"
+      }
+    },
+    {
+      "id": "e1fa0ba7-fe18-4f34-ba67-9a0fb0fd5402",
+      "departmentId": "b3e1bbbd-69ab-4b46-9063-1ac9cec07eb3",
+      "link": "https://www.doctorbangladesh.com/dr-subodh-chandra-chakraborty/",
+      "imageId": "3bfc6575-eecb-49f0-9803-4bac33e13de9",
+      "name": "Dr. Subodh Chandra Chakraborty",
+      "degree": "BDS, FCPS (Orthodontics)",
+      "specialty": "Orthodontics (Braces, Bite Problem, Jaw Problem) Specialist & Surgeon",
+      "workplace": "Saphena Women's Dental College",
+      "info": "Dr. Subodh Chandra Chakraborty is a skilled orthodontics (braces, bite problem, jaw problem) specialist and surgeon in Dhaka, holding qualifications including BDS and FCPS (Orthodontics). He serves as an Associate Professor of Orthodontics at Saphena Women’s Dental College. Dr. Chakraborty is experienced in treating conditions such as dental malocclusion, crooked teeth, jaw misalignment, overbite, underbite, and temporomandibular joint (TMJ) issues, along with providing advanced orthodontic care including fixed and removable braces for both children and adults. He is available for consultation at Dentotal Dental Centre, Banani, located at House # 54, Road # 11, Block # F, Banani, Dhaka, from 5pm to 9pm every Tuesday.",
+      "chamber": {
+        "hospital": "Dentotal Dental Centre, Banani",
+        "address": "House # 54, Road # 11, Block # F, Banani, Dhaka",
+        "visitingTime": "5pm to 9pm (Every Tuesday)",
+        "appointmentNumber": "+8801936888999Call Now"
+      }
+    }
+  ]
+}

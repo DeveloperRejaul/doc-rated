@@ -1,0 +1,89 @@
+{
+  "doctor": [
+    {
+      "id": "7b56fb09-a9fd-45c9-8eb1-78c9a466e414",
+      "departmentId": "76e5fd75-2393-448d-832f-1f8830c5e6af",
+      "link": "https://www.doctorbangladesh.com/dr-sma-alim/",
+      "imageId": "7070ab0e-ca6b-4ae1-b437-c7ca7d8d996d",
+      "name": "Asst. Prof. Dr. SMA Alim",
+      "degree": "MBBS, MD (DMC), EDPM (UK), GOPF (USA), FIPM (India)",
+      "specialty": "Interventional Pain Medicine Specialist",
+      "workplace": "Bangladesh Medical University (PG Hospital)Ex Chief Consultant & Head of Department (Anaesthesia)Central Police Hospital, Dhaka",
+      "info": "Asst. Prof. Dr. SMA Alim is a renowned interventional pain medicine specialist in Dhaka with an MBBS, MD (DMC), EDPM (UK), GOPF (USA), FIPM (India), and multiple fellowships in interventional pain management and musculoskeletal ultrasound from Germany and India. He holds special training in managing acute and chronic pain, low back pain, laser PLID, acupuncture (China), and various pain syndromes. Dr. Alim specializes in treating conditions like osteoarthritis, rheumatic pain, cancer pain, frozen shoulder, ankle and elbow pain, myofascial pain syndrome, neck pain, knee arthritis, and spine-related disorders. He currently serves as an Assistant Professor of Anaesthesia at Bangladesh Medical University (PG Hospital) and is the Ex Chief Consultant & Head of Anaesthesia at Central Police Hospital, Dhaka. Dr. Alim provides consultations at Proshanti Hospital Limited, located at 6, Proshanti Goli (opposite Police Line School), Malibagh, Dhaka, with visiting hours from 2.30pm to 9pm (closed on Friday).",
+      "chamber": {
+        "hospital": "Proshanti Hospital Limited",
+        "address": "6, Proshanti Goli (Opposite to Police Line School), Malibagh, Dhaka",
+        "visitingTime": "2.30pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801715222070Call Now"
+      }
+    },
+    {
+      "id": "64a64f08-abf3-489f-a575-1f3d720419d7",
+      "departmentId": "76e5fd75-2393-448d-832f-1f8830c5e6af",
+      "link": "https://www.doctorbangladesh.com/dr-md-mosharaf-hossain-palash/",
+      "imageId": "c62a7236-c80e-410e-aabb-e119a4fcef9c",
+      "name": "Dr. Md. Mosharaf Hossain Palash",
+      "degree": "MBBS, BCS (Health), MD (Anaesthesiology)-BSMMU",
+      "specialty": "Pain Medicine Specialist",
+      "workplace": "National Institute of Cancer Research & Hospital",
+      "info": "Long Life Diagnostic & Consultation Center Address: Yakub South Center, 156, Lake Circus, Kalabagan, Dhaka Visiting Hour: 4pm to 7pm (Monday & Wednesday) Appointment: +8801676861369 Call Now",
+      "chamber": {
+        "hospital": "Dhaka Pain Management Center",
+        "address": "Level 05, Rupayan Prime House (02), Road 07, Green Road , Dhanmondi R/A, Dhaka",
+        "visitingTime": "2.30pm to 8pm (Monday & Wednesday)",
+        "appointmentNumber": "+8801676861369Call Now"
+      }
+    },
+    {
+      "id": "c1810e7b-a520-40a3-b773-8b88ede0acd4",
+      "departmentId": "76e5fd75-2393-448d-832f-1f8830c5e6af",
+      "link": "https://www.doctorbangladesh.com/dr-md-mazharul-alam-sohel/",
+      "imageId": "b91e7ff6-332d-4d03-8f04-fb489c878950",
+      "name": "Dr. Md. Mazharul Alam (Sohel)",
+      "degree": "MBBS, BCS (Health), EDPM (European Diplomate in Pain Medicine), DA (BSMMU), FAPM (India),Member (IASP), Member (BSSP), Member (EULAR-Rheumatology)",
+      "specialty": "Pain Medicine Specialist",
+      "workplace": "Bangladesh Korea Friendship Government Hospital",
+      "info": "Delta Health Care, Mirpur Address: Plot – 4 & 5, Section – 07, Pallabi, Mirpur 11, Dhaka Visiting Hour: 3pm to 6pm (Only Thursday) Appointment: +8801841-914914 Call Now",
+      "chamber": {
+        "hospital": "Dhaka Pain Management Center",
+        "address": "Level 05, Rupayan Prime, Road 07, Green Road, Dhanmondi R/A, Dhaka",
+        "visitingTime": "3pm to 6pm (Only Saturday)",
+        "appointmentNumber": "+8801744612683Call Now"
+      }
+    },
+    {
+      "id": "f9d2646b-4817-4197-b486-162cbe0b40bd",
+      "departmentId": "76e5fd75-2393-448d-832f-1f8830c5e6af",
+      "link": "https://www.doctorbangladesh.com/prof-dr-moinul-hossain/",
+      "imageId": "5dd045b9-1e28-4b8d-b874-5b3c4f6f9dc9",
+      "name": "Prof. Dr. Moinul Hossain",
+      "degree": "MBBS, FCPS (Anesthesiology), Training (Japan)",
+      "specialty": "Pain Management Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Moon Hospital, Comilla Address: Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla Visiting Hour: 9am to 9pm (Only Friday) Appointment: +8801985099516 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Dhanmondi",
+        "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+        "visitingTime": "7pm to 10pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8809666787801Call Now"
+      }
+    },
+    {
+      "id": "29dcdf76-68c3-48b9-8d7e-134543d70a71",
+      "departmentId": "76e5fd75-2393-448d-832f-1f8830c5e6af",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-shamsul-arefin/",
+      "imageId": "3847bee0-5913-4c03-9ccb-086fd4b958e4",
+      "name": "Dr. Muhammad Shamsul Arefin",
+      "degree": "MBBS, BCS (Health), DA, MD (BSMMU), Member (IASP), Member (BSSP)",
+      "specialty": "Management of Acute & Chronic Pain, Low Back Pain, Osteoarthritis, Rheumatic Pain, Cancer Pain, Shoulder, Ankle, Elbow & Myofascial Pain Specialist",
+      "workplace": "National Institute of Neurosciences & Hospital",
+      "info": "Ibn Sina Diagnostic Center, Mirpur Address: Room – 313, House # 11, Haji Road, Avenue 3, Rupnagar, Mirpur 2, Dhaka Visiting Hour: 4.30pm to 6.30pm (Sat, Mon & Wed) Appointment: +8809610010615 Call Now",
+      "chamber": {
+        "hospital": "Ava Pain & Intervention Center (APIC)",
+        "address": "House No: 13, Road No: 03, Block: B, Section: 11, Pallabi, Mirpur, Dhaka",
+        "visitingTime": "6.30pm to 8.30pm (Closed: Friday)",
+        "appointmentNumber": "+01829448844Call Now"
+      }
+    }
+  ]
+}

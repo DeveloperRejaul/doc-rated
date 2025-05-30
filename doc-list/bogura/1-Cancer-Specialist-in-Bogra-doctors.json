@@ -1,0 +1,106 @@
+{
+  "doctor": [
+    {
+      "id": "94a2e5dd-ed0f-4d93-a66a-9cb905d03ee3",
+      "departmentId": "b3c51f12-addb-4e12-8bde-11d3bc90f743",
+      "link": "https://www.doctorbangladesh.com/prof-dr-a-k-m-ahsan-habib/",
+      "imageId": "4731896f-0e46-4b78-afa8-d4ee29358407",
+      "name": "Prof. Dr. A.K.M. Ahsan Habib",
+      "degree": "MBBS, DMRT, Higher Training in Cancer (China, Germany)",
+      "specialty": "Cancer Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Prof. Dr. A.K.M. Ahsan Habib is a Cancer Specialist in Bogra. His qualification is MBBS, DMRT, Higher Training in Cancer (China, Germany). He is a Former Professor & Head, Radiotherapy at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Bogra. Practicing hour of Prof. Dr. A.K.M. Ahsan Habib at Popular Diagnostic Center, Bogra is 3pm to 7pm (Tue, Wed & Thursday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "3pm to 7pm (Tue, Wed & Thursday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "id": "78a5e9f1-e704-45ba-8bc8-f81328f20ff3",
+      "departmentId": "b3c51f12-addb-4e12-8bde-11d3bc90f743",
+      "link": "https://www.doctorbangladesh.com/dr-md-ershadul-haque/",
+      "imageId": "54425270-4bd9-4b16-8032-d36225893b83",
+      "name": "Dr. Md. Ershadul Haque",
+      "degree": "MBBS, BCS (Health), MD (Oncology)",
+      "specialty": "Cancer, Chemotherapy & Radiotherapy Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Prime Care Hospital & Diagnostic Center Address: Dhap, Jail Road, Rangpur Visiting Hour: 3pm to 4pm & 8pm to 10pm (Closed: Tuesday) Appointment: +8801400888651 Call Now",
+      "chamber": {
+        "hospital": "Hypertension & Research Center, Rangpur",
+        "address": "Holding No: 13/2, Hypertension Centre Lane, Dhap, Jail Road, Rangpur",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801400888651Call Now"
+      }
+    },
+    {
+      "id": "a77c8822-343b-4c0f-bc39-75bc1536fd5c",
+      "departmentId": "b3c51f12-addb-4e12-8bde-11d3bc90f743",
+      "link": "https://www.doctorbangladesh.com/dr-md-mobasser-ur-rahman/",
+      "imageId": "e9b74535-6ec4-4036-af73-0d05e44c7d36",
+      "name": "Dr. Md. Mobasser ur Rahman",
+      "degree": "MBBS, MPhil (Radiation Oncology)",
+      "specialty": "Cancer SpecialistChemotherapy, Radiotherapy, Hormone Therapy, Immunotherapy, Oral Chemotherapy, Brachytherapy",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Aloka Nursing Home & Oncology Center Address: Staff Quarter Road, Thanthania Bus Stand, Bogura Visiting Hour: 4pm to 8pm (Closed: Friday) Appointment: +8801730579668 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "Room 501, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "2pm to 4pm (Closed: Wed & Friday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "id": "890f6380-6c89-41d5-aa46-ef9624a1188c",
+      "departmentId": "b3c51f12-addb-4e12-8bde-11d3bc90f743",
+      "link": "https://www.doctorbangladesh.com/dr-sonia-sheherin-toma/",
+      "imageId": "6a189aeb-45d1-478e-8915-d66293772bbc",
+      "name": "Dr. Sonia Sheherin Toma",
+      "degree": "MBBS, BCS (Health), MPhil (Radiotherapy)",
+      "specialty": "Cancer & Breast Cancer Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Ibn Sina Diagnostic & Consultation Center, Bogra Address: House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800 Visiting Hour: 4pm to 7pm (Closed: Friday) Appointment: +8801701560011 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "5pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "id": "e2fffd13-c1ad-47c6-978a-0a0c2961b3ce",
+      "departmentId": "b3c51f12-addb-4e12-8bde-11d3bc90f743",
+      "link": "https://www.doctorbangladesh.com/dr-md-tousifur-rahman/",
+      "imageId": "3e94037b-e993-42c2-8fb3-685319d434a3",
+      "name": "Asst. Prof. Dr. Md. Tousifur Rahman",
+      "degree": "MBBS, MD (Oncology)",
+      "specialty": "Clinical & Radiation Oncologist (Cancer Specialist)",
+      "workplace": "TMSS Cancer Centre, Bogura",
+      "info": "Sono Consultation Center, Kushtia Address: Sono Tower 2, Court Para, Kushtia, Bangladesh Visiting Hour: 9am to 3pm (Only Friday) Appointment: +8801770997352 Call Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "4pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801701560012Call Now"
+      }
+    },
+    {
+      "id": "6d0610e7-21c3-4974-bd5e-f44068aebcf9",
+      "departmentId": "b3c51f12-addb-4e12-8bde-11d3bc90f743",
+      "link": "https://www.doctorbangladesh.com/dr-shakera-sultana/",
+      "imageId": "110ed952-6413-4c66-bd3e-f1fb0429b8d1",
+      "name": "Dr. Shakera Sultana",
+      "degree": "MBBS, MPhil (Radiation Oncology), PGT (Medicine), DMU (Dhaka)",
+      "specialty": "Clinical & Radiation Oncologist",
+      "workplace": "Popular Diagnostic Center Ltd, Bogura",
+      "info": "Dr. Shakera Sultana is a Cancer Specialist in Bogra. Her qualification is MBBS, MPhil (Radiation Oncology), PGT (Medicine), DMU (Dhaka). She is a Cancer Specialist at Popular Diagnostic Center Ltd, Bogura. She regularly provides treatment to her patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Shakera Sultana at Popular Diagnostic Center, Bogra is 12pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "12pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    }
+  ]
+}

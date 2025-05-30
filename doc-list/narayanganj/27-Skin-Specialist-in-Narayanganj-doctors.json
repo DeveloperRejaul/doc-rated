@@ -1,0 +1,208 @@
+{
+  "doctor": [
+    {
+      "id": "70931752-bfab-4f11-a1a6-ac8907a5e7ea",
+      "departmentId": "c2a4119a-a555-44b3-a2db-a6a9b30bb2c6",
+      "link": "https://www.doctorbangladesh.com/dr-masuda-khatun/",
+      "imageId": "38135d11-cb7e-4648-905c-d0a709888fb9",
+      "name": "Prof. Dr. Masuda Khatun",
+      "degree": "MBBS, MD (Dermatology)",
+      "specialty": "Skin, Allergy, Leprosy & Sex Diseases Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Modern Diagnostic Center, Narayanganj Address: 207, Bangabandhu Road, Chashara, Narayanganj – 1400 Visiting Hour: 3pm to 6pm (Only Friday) Appointment: +8801820842293 Call Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
+        "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809610010615Call Now"
+      }
+    },
+    {
+      "id": "440bb87f-cb2f-40d8-98aa-9fb1153f50fd",
+      "departmentId": "c2a4119a-a555-44b3-a2db-a6a9b30bb2c6",
+      "link": "https://www.doctorbangladesh.com/dr-anzirun-nahar-asma/",
+      "imageId": "ef1b25ca-3b6e-48fe-891f-fc3f7ae1eae2",
+      "name": "Dr. Anzirun Nahar Asma",
+      "degree": "MBBS, DDV, FCPS (Skin & VD)",
+      "specialty": "Skin, Leprosy, Allergy, Nail, Hair & Sexual Diseases Specialist",
+      "workplace": "Popular Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Dhanmondi Address: House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205 Visiting Hour: 6pm to 9pm (Closed: Friday) Appointment: +8809666787801 Call Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Doyagonj",
+        "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
+        "visitingTime": "6pm to 9pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801878115751Call Now"
+      }
+    },
+    {
+      "id": "952dee59-d99e-4399-acaf-853304b2e55c",
+      "departmentId": "c2a4119a-a555-44b3-a2db-a6a9b30bb2c6",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-shahidullah/",
+      "imageId": "c2e0be98-219e-4c2f-84fd-2a4d550a4bc3",
+      "name": "Prof. Dr. Md. Shahidullah",
+      "degree": "MBBS, DDV, MCPS (SKIN & SEX), FCPS (SKIN & SEX), FRCP (UK)",
+      "specialty": "Skin, Allergy Sexual Diseases, Laser Specialist & Cosmetic Dermato-Surgeon",
+      "workplace": "Shaheed Monsur Ali Medical College & Hospital",
+      "info": "Medinova Medical Services, Narayanganj Address: 145, Bangabandhu Road, Chashara, Narayanganj – 1400 Visiting Hour: 4pm to 8pm (Sun, Tue & Thu) Appointment: +8801913119989 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Badda",
+        "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka - 1212",
+        "visitingTime": "7pm to 9:30pm (Closed: Friday) and 2pm to 4pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809666787809Call Now"
+      }
+    },
+    {
+      "id": "3f21f52b-48e7-4b52-b805-e4d8be90f7d4",
+      "departmentId": "c2a4119a-a555-44b3-a2db-a6a9b30bb2c6",
+      "link": "https://www.doctorbangladesh.com/dr-zulfikar-hossain-khan/",
+      "imageId": "dff34db5-919e-419a-b6db-b575c47f3248",
+      "name": "Prof. Dr. Zulfiqur Hossain Khan",
+      "degree": "MBBS, DDV, FCPS (SKIN & VD)",
+      "specialty": "Skin, Allergy, Leprosy, Hair & Sexual Diseases Specialist",
+      "workplace": "Mugda Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, B.B. Road, Chashara, Narayanganj – 1400 Visiting Hour: 11am to 1pm & 2.30pm to 4.30pm (Sat, Mon & Wed) Appointment: +8809666787804 Call Now",
+      "chamber": {
+        "hospital": "Health and Hope Hospital",
+        "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
+        "visitingTime": "6pm to 9pm (Sunday & Tuesdays)",
+        "appointmentNumber": "+8809611996699Call Now"
+      }
+    },
+    {
+      "id": "9adc4678-4eca-4c7e-98e5-7f90e51c1094",
+      "departmentId": "c2a4119a-a555-44b3-a2db-a6a9b30bb2c6",
+      "link": "https://www.doctorbangladesh.com/dr-sabbir-muhammad-shawkat/",
+      "imageId": "f74d1584-a3bc-4a48-ab92-26a576a068fa",
+      "name": "Dr. Sabbir Muhammad Shawkat",
+      "degree": "MBBS (DMC), DDV (BSMMU), FCPS (SKIN & VD)",
+      "specialty": "Skin, Sex, Nail, Hair, Allergy Specialist Cosmetic & Laser Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, B.B. Road, Chashara, Narayanganj – 1400 Visiting Hour: 4pm to 9pm (Only Friday) Appointment: +8809666787804 Call Now",
+      "chamber": {
+        "hospital": "Skin Square",
+        "address": "Karim Tower, Opposite to BRB Hospital, Panthapath, Dhaka",
+        "visitingTime": "6.30pm to 9.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801710007375Call Now"
+      }
+    },
+    {
+      "id": "79bffb31-045a-473a-a34a-66c31cfa81db",
+      "departmentId": "c2a4119a-a555-44b3-a2db-a6a9b30bb2c6",
+      "link": "https://www.doctorbangladesh.com/dr-tushar-sikdar/",
+      "imageId": "51c46121-9400-4e76-8963-130ed67996ce",
+      "name": "Dr. Tushar Sikdar",
+      "degree": "MBBS, FCPS (SKIN & VD), DDV (DU), MPH (DU), FRCP (GLASGOW)",
+      "specialty": "Skin, Allergy, STD & Sexual Diseases Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Sono Diagnostic Center, Kushtia Address: Sono Tower, College Mor, Court Para, Kushtia Visiting Hour: 7pm to 10pm (Thu), 7am to 2pm (Fri) Appointment: +8801712048507 Call Now",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Narayanganj",
+        "address": "145, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "5pm to 8pm (Sat & Mon)",
+        "appointmentNumber": "+8801913119989Call Now"
+      }
+    },
+    {
+      "id": "9b392db2-39c7-4e86-bda3-47f9e60e6fae",
+      "departmentId": "c2a4119a-a555-44b3-a2db-a6a9b30bb2c6",
+      "link": "https://www.doctorbangladesh.com/dr-md-shafiqul-islam-skin/",
+      "imageId": "363ea65d-846c-4916-994a-865dfe268b70",
+      "name": "Dr. Md. Shafiqul Islam",
+      "degree": "MBBS, BCS (Health), DDV (DU), MD (Dermatology)",
+      "specialty": "Skin, Sexual Diseases, Allergy, Hair Specialist & Cosmetic Surgeon",
+      "workplace": "Institute of Child & Mother Health",
+      "info": "Dr. Md. Shafiqul Islam is a Dermatologist in Narayanganj. His qualification is MBBS, BCS (Health), DDV (DU), MD (Dermatology). He is a Associate Professor, Dermatology & Venereology at Institute of Child & Mother Health. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Md. Shafiqul Islam at Popular Diagnostic Center, Narayanganj is 12pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "12pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "c2367f6a-5190-48f5-b2cd-77fc5ed22bb0",
+      "departmentId": "c2a4119a-a555-44b3-a2db-a6a9b30bb2c6",
+      "link": "https://www.doctorbangladesh.com/dr-azmeri-binte-aslam/",
+      "imageId": "b5cc9690-e3ed-4dd9-b4a5-17c69362cdfe",
+      "name": "Dr. Azmiree Binte Aslam",
+      "degree": "MBBS, DDV (BSMMU), MCPS (Dermatology & Venereology), FCPS (Dermatology & Venereology)",
+      "specialty": "Skin, Sexual Diseases, Allergy, Hair Specialist & Dermato Surgeon",
+      "workplace": "Dr. Sirajul Islam Medical College & Hospital",
+      "info": "Dr. Azmiree Binte Aslam is a Dermatologist in Narayanganj. Her qualification is MBBS, DDV (BSMMU), MCPS (Dermatology & Venereology), FCPS (Dermatology & Venereology). She is a Assistant Professor, Dermatology & Venereology at Dr. Sirajul Islam Medical College & Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Azmiree Binte Aslam at Popular Diagnostic Center, Narayanganj is 4pm to 10pm (Sat, Mon, Wed & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "4pm to 10pm (Sat, Mon, Wed & Friday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "40987d17-58ed-41e6-bcce-c68985ec3d96",
+      "departmentId": "c2a4119a-a555-44b3-a2db-a6a9b30bb2c6",
+      "link": "https://www.doctorbangladesh.com/dr-nayanmoni-sarkar/",
+      "imageId": "eb05f89f-6224-4215-bd5f-ad36758c25ef",
+      "name": "Dr. Nayanmoni Sarkar",
+      "degree": "MBBS, BCS (Health), DDV (DU), CCD (BIRDEM)",
+      "specialty": "Skin, Allergy, Sexual Diseases Specialist",
+      "workplace": "300 Bed Hospital, Narayanganj",
+      "info": "Dr. Nayanmoni Sarkar is a Dermatologist in Narayanganj. Her qualification is MBBS, BCS (Health), DDV (DU), CCD (BIRDEM). She is a Medical Officer, Dermatology & Venereology at 300 Bed Hospital, Narayanganj. She regularly provides treatment to her patients at Medinova Medical Services, Narayanganj. Practicing hour of Dr. Nayanmoni Sarkar at Medinova Medical Services, Narayanganj is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Narayanganj",
+        "address": "145, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801913119989Call Now"
+      }
+    },
+    {
+      "id": "66b37ead-97f9-41f9-b8b5-9a73650fb8c4",
+      "departmentId": "c2a4119a-a555-44b3-a2db-a6a9b30bb2c6",
+      "link": "https://www.doctorbangladesh.com/dr-md-abul-kalam-azad-skin/",
+      "imageId": "05bdaf56-7d02-4582-8f6a-fd85bb8fd9f7",
+      "name": "Dr. Md. Abul Kalam Azad",
+      "degree": "MBBS, MD (Skin & VD)",
+      "specialty": "Skin, Allergy & Sexual Diseases Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Md. Abul Kalam Azad is a Skin Specialist in Narayanganj. His qualification is MBBS, MD (Skin & VD). He is a Consultant, Dermatology & Venereology at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Md. Abul Kalam Azad at Popular Diagnostic Center, Narayanganj is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "93fbe427-6ebb-416b-9e7a-0b90dcd446cf",
+      "departmentId": "c2a4119a-a555-44b3-a2db-a6a9b30bb2c6",
+      "link": "https://www.doctorbangladesh.com/dr-tanvir-ahmed-chowdhury-sumon/",
+      "imageId": "1ee68eb7-0b39-4853-b775-1ce8477d87c6",
+      "name": "Dr. Tanvir Ahmed Chowdhury Sumon",
+      "degree": "MBBS (Dhaka), CCD (BIRDEM), BCS (Health), PGT (Medicine & Skin), MD (Internal Medicine)",
+      "specialty": "Medicine, Diabetes, Skin & Sexual Diseases Specialist",
+      "workplace": "General Hospital, Narayanganj",
+      "info": "Dr. Tanvir Ahmed Chowdhury Sumon is a Skin Specialist in Narayanganj. His qualification is MBBS (Dhaka), CCD (BIRDEM), BCS (Health), PGT (Medicine & Skin), MD (Internal Medicine). He is a Consultant, Dermatology & Venereology at General Hospital, Narayanganj. He regularly provides treatment to his patients at Modern Diagnostic Center, Narayanganj. Practicing hour of Dr. Tanvir Ahmed Chowdhury Sumon at Modern Diagnostic Center, Narayanganj is 6pm to 10pm (Sat, Sun, Tue & Wed) & 10am to 1pm (Fri).",
+      "chamber": {
+        "hospital": "Modern Diagnostic Center, Narayanganj",
+        "address": "207, Bangabandhu Road, Chashara, Narayanganj - 1400",
+        "visitingTime": "6pm to 10pm (Sat, Sun, Tue & Wed) & 10am to 1pm (Fri)",
+        "appointmentNumber": "+8801820842293Call Now"
+      }
+    },
+    {
+      "id": "6afb2985-253e-47af-b760-2d2cf0569a70",
+      "departmentId": "c2a4119a-a555-44b3-a2db-a6a9b30bb2c6",
+      "link": "https://www.doctorbangladesh.com/dr-masrun-mostafa-chowdhury/",
+      "imageId": "48b61634-ecf5-4e8e-a21d-f290abb1cc74",
+      "name": "Dr. Masrun Mostafa Chowdhury",
+      "degree": "MBBS, DDV (Dermatology), CCD",
+      "specialty": "Dermatologist (Skin, Leprosy, Allergy, Nail, Hair Specialist)",
+      "workplace": "Ad-din Barrister Rafiq-Ul-Huq Hospital",
+      "info": "Medistar Hospital & Renaissance Lab, Narayanganj Address: 17, Nabab Salimullah Road, Don Chamber, Narayanganj Visiting Hour: 4pm to 7pm (Sun, Tue & Thursday) Appointment: +8801964997788 Call Now",
+      "chamber": {
+        "hospital": "Modern Diagnostic Center, Narayanganj",
+        "address": "BJA Babhan, Bangabandhu Road, Chashara, Narayanganj",
+        "visitingTime": "7pm to 10pm (Sun, Tue & Thursday)",
+        "appointmentNumber": "+8801820842293Call Now"
+      }
+    }
+  ]
+}

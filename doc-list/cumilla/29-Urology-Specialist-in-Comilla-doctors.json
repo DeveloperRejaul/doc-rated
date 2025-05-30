@@ -1,0 +1,72 @@
+{
+  "doctor": [
+    {
+      "id": "949c36d6-fdf4-455e-90e2-c661bfb2919b",
+      "departmentId": "06b98c8d-93ed-477f-8def-2e1159b4c222",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-habibur-rahman-urology/",
+      "imageId": "88562ba6-1e53-4fba-9875-16eb45d06867",
+      "name": "Dr. Mohammad Habibur Rahman",
+      "degree": "MBBS, BCS (Health), FCPS (Urology)",
+      "specialty": "Urologist, Kidney Stone Surgeon & Uro-Laparoscopic Surgeon",
+      "workplace": "National Institute of Kidney Diseases & Urology",
+      "info": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital) Address: Comilla Tower, Laksam Road, Kandirpar, Cumilla – 3500 Visiting Hour: 4pm to 8pm (Thursday) & 9am to 1pm (Friday) Appointment: +8801706060911 Call Now",
+      "chamber": {
+        "hospital": "Samorita Hospital Ltd, Panthapath",
+        "address": "89/1, East Rajabazar, West Panthapath, Dhaka - 1215",
+        "visitingTime": "6pm to 8.30pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801854113051Call Now"
+      }
+    },
+    {
+      "id": "53ed12e3-9f39-475b-a1ad-2cd598ff8aed",
+      "departmentId": "06b98c8d-93ed-477f-8def-2e1159b4c222",
+      "link": "https://www.doctorbangladesh.com/dr-md-sarwar-hossain-khan-shuvo/",
+      "imageId": "182ea346-fce0-43e7-9192-e4aea504b521",
+      "name": "Dr. Md. Sarwar Hossain Khan (Shuvo)",
+      "degree": "MBBS, BCS (Health), MRCS (UK), MS (Urology)",
+      "specialty": "Urology (Kidney, Prostate, Ureters, Bladder) Specialist & Surgeon",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Comilla Mission Hospital Address: Shasongacha, Railgate, Cumilla – 3500 Visiting Hour: 3pm to 8pm (Closed: Thu & Friday) Appointment: +8801739142170 Call Now",
+      "chamber": {
+        "hospital": "Moon Hospital, Comilla",
+        "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801833518818Call Now"
+      }
+    },
+    {
+      "id": "73566fa1-c813-49bf-941c-88c8ff462d6e",
+      "departmentId": "06b98c8d-93ed-477f-8def-2e1159b4c222",
+      "link": "https://www.doctorbangladesh.com/dr-md-israfil-sarkar/",
+      "imageId": "ac722866-fed1-4b9d-8fea-66d7cedef32d",
+      "name": "Dr. Md. Israfil Sarkar",
+      "degree": "MBBS, BCS (Health), MS (Urology)",
+      "specialty": "Urology (Kidneys, Ureters, Prostate) Specialist & Surgeon",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Md. Israfil Sarkar is a Urology Specialist in Comilla. His qualification is MBBS, BCS (Health), MS (Urology). He is a Consultant, Urology at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Moon Hospital, Comilla. Practicing hour of Dr. Md. Israfil Sarkar at Moon Hospital, Comilla is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Moon Hospital, Comilla",
+        "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801959495756Call Now"
+      }
+    },
+    {
+      "id": "90255e6b-c87f-423c-8fdd-48e484b8453c",
+      "departmentId": "06b98c8d-93ed-477f-8def-2e1159b4c222",
+      "link": "https://www.doctorbangladesh.com/dr-sharif-md-shahadat-ali-khan/",
+      "imageId": "2c099755-ba55-483b-a47d-3e1a2af0eabf",
+      "name": "Dr. Sharif Md. Shahadat Ali Khan",
+      "degree": "MBBS, BCS (Health), MS (Urology)",
+      "specialty": "Urology (Kidneys, Bladder, Ureters, Prostate) Specialist & Surgeon",
+      "workplace": "National Institute of Kidney Diseases & Urology",
+      "info": "Dr. Sharif Md. Shahadat Ali Khan is a Urologist in Comilla. His qualification is MBBS, BCS (Health), MS (Urology). He is a Consultant, Urology at National Institute of Kidney Diseases & Urology. He regularly provides treatment to his patients at Comilla Trauma Center. Practicing hour of Dr. Sharif Md. Shahadat Ali Khan at Comilla Trauma Center is 3pm to 7pm (Thursday), 10am to 1pm (Friday).",
+      "chamber": {
+        "hospital": "Comilla Trauma Center",
+        "address": "Room 406, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla",
+        "visitingTime": "3pm to 7pm (Thursday), 10am to 1pm (Friday)",
+        "appointmentNumber": "+8801554683865Call Now"
+      }
+    }
+  ]
+}

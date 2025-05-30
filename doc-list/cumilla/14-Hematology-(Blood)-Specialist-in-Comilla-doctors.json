@@ -1,0 +1,38 @@
+{
+  "doctor": [
+    {
+      "id": "0610d694-7af0-4b70-859b-7a22f1823764",
+      "departmentId": "ffdbf4d9-9ae1-45f8-9ba5-16643fe7632b",
+      "link": "https://www.doctorbangladesh.com/dr-kamrul-hasan/",
+      "imageId": "dc9900af-3852-4ffb-aa7c-66799f106436",
+      "name": "Dr. Md. Kamrul Hasan",
+      "degree": "MBBS, MD (Clinical Hematology), BCS (Health)",
+      "specialty": "Blood Diseases, Blood Cancer & Bone Marrow Transplant Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "CSCR Hospital, Chittagong Address: Room: 416A, CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram Visiting Hour: 7pm to 10pm (Saturday to Wednesday) Appointment: +8801304232507 Call Now",
+      "chamber": {
+        "hospital": "Apollo Imperial Hospital, Chittagong",
+        "address": "Zakir Hossain Road, Pahartali, Chattogram",
+        "visitingTime": "3pm to 7pm (Saturday to Wednesday)",
+        "appointmentNumber": "+8809610847847Call Now"
+      }
+    },
+    {
+      "id": "900d114a-aa8a-4aeb-b22d-fb2cda5b1d40",
+      "departmentId": "ffdbf4d9-9ae1-45f8-9ba5-16643fe7632b",
+      "link": "https://www.doctorbangladesh.com/dr-saqi-md-abdul-baqi/",
+      "imageId": "f33b44b7-7079-4635-9c98-4ff1a3354837",
+      "name": "Dr. Saqi Md. Abdul Baqi",
+      "degree": "MBBS, BCS (Health), MD (Hematology)",
+      "specialty": "Hematology (Blood Diseases, Thalassemia & Blood Cancer) Specialist",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Saqi Md. Abdul Baqi is a Hematologist in Comilla. His qualification is MBBS, BCS (Health), MD (Hematology). He is a Consultant, Hematology at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Comilla Trauma Center. Practicing hour of Dr. Saqi Md. Abdul Baqi at Comilla Trauma Center is 3pm to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Comilla Trauma Center",
+        "address": "511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla",
+        "visitingTime": "3pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8809612808182Call Now"
+      }
+    }
+  ]
+}

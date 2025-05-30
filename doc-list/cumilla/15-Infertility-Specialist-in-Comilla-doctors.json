@@ -1,0 +1,157 @@
+{
+  "doctor": [
+    {
+      "id": "c6364bfd-dfda-4254-b2f8-84f8864d7a4f",
+      "departmentId": "45f401c4-fba1-46d6-831c-1e4c91184f3a",
+      "link": "https://www.doctorbangladesh.com/dr-kamrun-nahar/",
+      "imageId": "604c163a-26f0-4d19-8563-8a441b94e3db",
+      "name": "Dr. Kamrun Nahar",
+      "degree": "MBBS, MCPS, DGO (OBGYN)",
+      "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+      "workplace": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+      "info": "Dr. Kamrun Nahar is a Gynecologist in Comilla. Her qualification is MBBS, MCPS, DGO (OBGYN). She is a Consultant, Gynecology & Obstetrics at Cumilla Medical Center Pvt. Ltd. (Tower Hospital). She regularly provides treatment to her patients at Cumilla Medical Center Pvt. Ltd. (Tower Hospital). Practicing hour of Dr. Kamrun Nahar at Cumilla Medical Center Pvt. Ltd. (Tower Hospital) is 11am to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+        "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+        "visitingTime": "11am to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801711144786Call Now"
+      }
+    },
+    {
+      "id": "53579464-252e-4f19-8514-34d440f350b6",
+      "departmentId": "45f401c4-fba1-46d6-831c-1e4c91184f3a",
+      "link": "https://www.doctorbangladesh.com/drlubnayasmin/",
+      "imageId": "77f302a4-54cf-42e9-a556-ad62c7137eb6",
+      "name": "Dr. Lubna Yasmin",
+      "degree": "MBBS, FCPS (Obs & Gyne)",
+      "specialty": "Fertility & IVF Specialist",
+      "workplace": "Nova IVF Fertility (Basundhara Unit)",
+      "info": "Comilla CT Scan MRI Specialized Diagnostic, Dialysis & Fertility Centre Address: Sel Fatima – Jahanara Tower (3rd Floor), Jhawtala, Cumilla, Bangladesh Visiting Hour: 9am to 9pm (2nd Tuesday of Every Month) Appointment: +8801616995344 Call Now",
+      "chamber": {
+        "hospital": "Nova IVF Fertility (Banani Unit)",
+        "address": "Level 3, KBPD Complex, 57 Road No. 11, Banani, Dhaka",
+        "visitingTime": "9am to 4pm (Closed: Friday)",
+        "appointmentNumber": "+8801616995344Call Now"
+      }
+    },
+    {
+      "id": "48476472-957d-4495-a070-b20ce4a0bc53",
+      "departmentId": "45f401c4-fba1-46d6-831c-1e4c91184f3a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-shamsun-nahar-gynecology/",
+      "imageId": "464957f6-327d-48cc-8ad1-d85b1402fa90",
+      "name": "Prof. Dr. Shamsun Nahar",
+      "degree": "MBBS, MS (OBGYN)",
+      "specialty": "Gynecology, Infertility Specialist & Laparoscopic Surgeon",
+      "workplace": "Central Medical College & Hospital, Comilla",
+      "info": "Prof. Dr. Shamsun Nahar is a Gynecologist in Comilla. Her qualification is MBBS, MS (OBGYN). She is a Professor & Head, Gynecology & Obstetrics at Central Medical College & Hospital, Comilla. She regularly provides treatment to her patients at Cumilla Medical Center Pvt. Ltd. (Tower Hospital). Practicing hour of Prof. Dr. Shamsun Nahar at Cumilla Medical Center Pvt. Ltd. (Tower Hospital) is 1pm to 3pm & 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+        "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+        "visitingTime": "1pm to 3pm & 5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801711144786Call Now"
+      }
+    },
+    {
+      "id": "51a2aaa4-a189-4099-a7ca-8bcd737b9217",
+      "departmentId": "45f401c4-fba1-46d6-831c-1e4c91184f3a",
+      "link": "https://www.doctorbangladesh.com/dr-shahida-akter-rakhi/",
+      "imageId": "0615be7d-0d5d-4394-8de0-c2a4cb1025d9",
+      "name": "Dr. Shahida Akter Rakhi",
+      "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Shahida Akter Rakhi is a Gynecologist in Comilla. Her qualification is MBBS, BCS (Health), FCPS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Cumilla Medical College & Hospital. She regularly provides treatment to her patients at Gomati Hospital, Comilla. Practicing hour of Dr. Shahida Akter Rakhi at Gomati Hospital, Comilla is 4pm to 8pm (Closed: Friday & Govt. Holidays).",
+      "chamber": {
+        "hospital": "Gomati Hospital, Comilla",
+        "address": "Nazrul Avenue, 2nd Kandirpar, Cumilla - 3500",
+        "visitingTime": "4pm to 8pm (Closed: Friday & Govt. Holidays)",
+        "appointmentNumber": "+8801958422803Call Now"
+      }
+    },
+    {
+      "id": "bd4e0fb5-9c01-4aaf-aa04-f287c45c166d",
+      "departmentId": "45f401c4-fba1-46d6-831c-1e4c91184f3a",
+      "link": "https://www.doctorbangladesh.com/dr-chandana-rani-debnath/",
+      "imageId": "c7762fdf-f0aa-487b-85ca-d03ba872ad73",
+      "name": "Dr. Chandana Rani Debnath",
+      "degree": "MBBS (DMC), FCPS (OBGYN)",
+      "specialty": "Infertility, Gynecology Specialist & Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Chandana Rani Debnath is a Gynecologist in Comilla. Her qualification is MBBS (DMC), FCPS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Dhaka Medical College & Hospital. She regularly provides treatment to her patients at Cumilla Medical Center Pvt. Ltd. (Tower Hospital). Practicing hour of Dr. Chandana Rani Debnath at Cumilla Medical Center Pvt. Ltd. (Tower Hospital) is 3pm to 8pm (Closed: Saturday).",
+      "chamber": {
+        "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+        "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+        "visitingTime": "3pm to 8pm (Closed: Saturday)",
+        "appointmentNumber": "+8801521782053Call Now"
+      }
+    },
+    {
+      "id": "072d9c25-d914-497b-ba10-6b96080005b5",
+      "departmentId": "45f401c4-fba1-46d6-831c-1e4c91184f3a",
+      "link": "https://www.doctorbangladesh.com/dr-fatematul-jannat-taniya/",
+      "imageId": "29cc1834-e0bf-4f97-9c3e-a0772ce2b049",
+      "name": "Dr. Fatematul Jannat Taniya",
+      "degree": "MBBS (DU), MS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+      "workplace": "Central Medical College & Hospital, Comilla",
+      "info": "Ibn Sina Diagnostic Center, Comilla Address: House # 29, Kotbari Road, Tomsom Bridge, Cumilla Visiting Hour: 3.30pm to 6pm (Closed: Friday) Appointment: +8801841212275 Call Now",
+      "chamber": {
+        "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+        "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
+        "visitingTime": "4pm to 8pm (Closed: Wed & Friday)",
+        "appointmentNumber": "+8801711144786Call Now"
+      }
+    },
+    {
+      "id": "c38ee57b-069c-4dd7-8b3d-98d6ecc8e99a",
+      "departmentId": "45f401c4-fba1-46d6-831c-1e4c91184f3a",
+      "link": "https://www.doctorbangladesh.com/dr-monija-karim/",
+      "imageId": "44908bb0-c07f-4e79-9479-8619192c175b",
+      "name": "Dr. Monija Karim",
+      "degree": "MBBS, FCPS (OBGYN)",
+      "specialty": "Gynecologist, Obstetrics, Infertility Specialist & Surgeon",
+      "workplace": "Comilla Trauma Center",
+      "info": "Labaid Diagnostic, Cumilla Address: Tomsom Bridge, Laksam Road, Cumilla Visiting Hour: 12pm to 2pm (Closed: Mon & Friday) Appointment: +8801766661133 Call Now",
+      "chamber": {
+        "hospital": "Comilla Trauma Center",
+        "address": "511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla",
+        "visitingTime": "10am to 1pm (Closed: Mon & Friday)",
+        "appointmentNumber": "+8809612808182Call Now"
+      }
+    },
+    {
+      "id": "2dd72723-5d84-40c6-8d43-c541afc7f67c",
+      "departmentId": "45f401c4-fba1-46d6-831c-1e4c91184f3a",
+      "link": "https://www.doctorbangladesh.com/dr-asma-akter/",
+      "imageId": "2bae00e9-9332-4906-81fb-f700e7b30aeb",
+      "name": "Dr. Asma Akter",
+      "degree": "MBBS, BCS (Health), DGO (OBGYN)",
+      "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+      "workplace": "Comilla Holy Family Hospital",
+      "info": "Dr. Asma Akter is a Gynecologist in Comilla. Her qualification is MBBS, BCS (Health), DGO (OBGYN). She is a Consultant, Gynecology & Obstetrics at Comilla Holy Family Hospital. She regularly provides treatment to her patients at Comilla Holy Family Hospital. Practicing hour of Dr. Asma Akter at Comilla Holy Family Hospital is 2pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Comilla Holy Family Hospital",
+        "address": "161/Ka, Kotbari Road, Tomsom Bridge, Comilla",
+        "visitingTime": "2pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801742477824Call Now"
+      }
+    },
+    {
+      "id": "f886e715-7693-4110-8693-8e3923d18d22",
+      "departmentId": "45f401c4-fba1-46d6-831c-1e4c91184f3a",
+      "link": "https://www.doctorbangladesh.com/dr-fahmida-azim-kakoli/",
+      "imageId": "a95321fa-73f8-40ab-8fe0-521bfb28a0a7",
+      "name": "Dr. Fahmida Azim (Kakoli)",
+      "degree": "MBBS, DGO (OBGYN)",
+      "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+      "workplace": "Consultant, Nagar Matri Sadan, Cumilla",
+      "info": "Dr. Fahmida Azim (Kakoli) is a gynecologist & infertility specialist in Cumilla. Her qualification is MBBS, DGO (OBGYN). She have specialized training in Ultrasound TVS & Infertility (New Delhi) and also specialized trained & Certified in Intrauterine Insemination (IUI). She is a Assistant Professor (Gyne & Obs), Mainamati Medical College & Hospital & Consultant, Nagar Matri Sadan, Cumilla. She regularly provides treatment to her patients at Rainbow Maternity Clinic. Practicing hour of Dr. Fahmida Azim (Kakoli) at Rainbow Maternity Clinic is 10am to 8pm (Everyday).",
+      "chamber": {
+        "hospital": "Rainbow Maternity Clinic",
+        "address": "363/A, Ajanta Bhabon, Jhawtala Cumilla",
+        "visitingTime": "10am to 8pm (Everyday)",
+        "appointmentNumber": "+88 01771507660Call Now"
+      }
+    }
+  ]
+}

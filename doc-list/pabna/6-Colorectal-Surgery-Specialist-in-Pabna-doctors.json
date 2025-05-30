@@ -1,0 +1,21 @@
+{
+  "doctor": [
+    {
+      "id": "ce9f6a9d-ffbe-45d5-ae69-f6ccf16809e9",
+      "departmentId": "a39ecd74-6fe8-49d1-a5e2-d95ef821ffe9",
+      "link": "https://www.doctorbangladesh.com/dr-md-rayhanur-rahman/",
+      "imageId": "af004524-d167-45c0-aa51-3e6102ab823a",
+      "name": "Prof. Dr. Md. Rayhanur Rahman",
+      "degree": "MBBS, BCS (Health), MCPS (Surgery), FCPS (Surgery), MS (Colorectal surgery)",
+      "specialty": "Piles, Colorectal, General & Laser Specialist Surgeon",
+      "workplace": "Anwer Khan Modern Medical College & Hospital",
+      "info": "PDC Specialized Hospital, Pabna Address: Capt. Anisur Rahman’s Building, Hospital Road, Pabna Visiting Hour: 5pm to 8pm (Thu), 9am to 12pm (Fri) Appointment: +8801757293413 Call Now",
+      "chamber": {
+        "hospital": "Anwer Khan Modern Medical College Hospital",
+        "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
+        "visitingTime": "9am to 2pm & 6pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801757293412Call Now"
+      }
+    }
+  ]
+}

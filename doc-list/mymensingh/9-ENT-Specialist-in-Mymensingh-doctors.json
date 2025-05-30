@@ -1,0 +1,123 @@
+{
+  "doctor": [
+    {
+      "id": "18e074ae-8e57-40f9-b1ae-5137b68d2894",
+      "departmentId": "007a6034-ee0e-4e2b-98ca-45802b1247ed",
+      "link": "https://www.doctorbangladesh.com/dr-shaker-ahmed/",
+      "imageId": "b121ca2b-010c-4f36-88bc-ceadec759112",
+      "name": "Dr. Shaker Ahmed",
+      "degree": "MBBS, BCS (Health), FCPS (ENT), FWHO (Sri Lanka)",
+      "specialty": "ENT Specialist & Head Neck Surgeon",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Shaker Ahmed is a ENT Specialist in Mymensingh. His qualification is MBBS, BCS (Health), FCPS (ENT), FWHO (Sri Lanka). He is a Professor & Head, ENT at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Mymensingh. Practicing hour of Dr. Shaker Ahmed at Popular Diagnostic Center, Mymensingh is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mymensingh",
+        "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787814Call Now"
+      }
+    },
+    {
+      "id": "bba7ee32-5045-4ffd-8778-4c049189bd5a",
+      "departmentId": "007a6034-ee0e-4e2b-98ca-45802b1247ed",
+      "link": "https://www.doctorbangladesh.com/prof-dr-samresh-chandra-kundu/",
+      "imageId": "7de5eae9-3d6a-4f1d-9856-acaa15731211",
+      "name": "Prof. Dr. Samresh Chandra Kundu",
+      "degree": "MBBS, FCPS (ENT)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Prof. Dr. Samresh Chandra Kundu is a ENT Specialist in Mymensingh. His qualification is MBBS, FCPS (ENT). He is a Former Associate Professor & Head, ENT at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Mymensingh. Practicing hour of Prof. Dr. Samresh Chandra Kundu at Popular Diagnostic Center, Mymensingh is 2pm to 5pm & 6pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mymensingh",
+        "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+        "visitingTime": "2pm to 5pm & 6pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787814Call Now"
+      }
+    },
+    {
+      "id": "69ddf79b-cbaa-4338-9ebc-cc1229a6f62c",
+      "departmentId": "007a6034-ee0e-4e2b-98ca-45802b1247ed",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-k-khan/",
+      "imageId": "b92d36a3-a991-4921-b6ab-717ef9bed716",
+      "name": "Prof. Dr. M. K Khan",
+      "degree": "MBBS (DHAKA), DLO (DU)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Prof. Dr. M. K Khan is a ENT Specialist in Mymensingh. His qualification is MBBS (DHAKA), DLO (DU). He is a Former Professor & Head, ENT at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Sodesh Hospital, Mymensingh. Practicing hour of Prof. Dr. M. K Khan at Sodesh Hospital, Mymensingh is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Sodesh Hospital, Mymensingh",
+        "address": "298/2, Maskanda (Bus Stand), Mymensingh - 2200",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809666777990Call Now"
+      }
+    },
+    {
+      "id": "4b8b6d06-8499-4370-a3af-238b484bafe7",
+      "departmentId": "007a6034-ee0e-4e2b-98ca-45802b1247ed",
+      "link": "https://www.doctorbangladesh.com/dr-md-rafiqul-islam-ent/",
+      "imageId": "1dda0ba1-6594-4f8e-8ee0-acc1378c2ead",
+      "name": "Dr. Md. Rafiqul Islam",
+      "degree": "MBBS, DLO (DU), FCPS (ENT), MS (ENT)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Md. Rafiqul Islam is a ENT Specialist in Mymensingh. His qualification is MBBS, DLO (DU), FCPS (ENT), MS (ENT). He is a Assistant Professor, ENT at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Mymensingh. Practicing hour of Dr. Md. Rafiqul Islam at Labaid Diagnostic, Mymensingh is 5pm to 8pm (Everyday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Mymensingh",
+        "address": "72, Charpara, Medical College Gate, Mymensingh",
+        "visitingTime": "5pm to 8pm (Everyday)",
+        "appointmentNumber": "+8801766663000Call Now"
+      }
+    },
+    {
+      "id": "ae524a8e-30c6-455b-b96f-f9205d307800",
+      "departmentId": "007a6034-ee0e-4e2b-98ca-45802b1247ed",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-monirul-alam/",
+      "imageId": "37db97ff-8327-4486-9493-0f5aa5b5afd8",
+      "name": "Dr. Muhammad Monirul Alam",
+      "degree": "MBBS (DMC), BCS (Health), MCPS (ENT), FCPS (ENT)",
+      "specialty": "Ear, Nose, Throat Specialist & Surgeon",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Muhammad Monirul Alam is a ENT Specialist in Mymensingh. His qualification is MBBS (DMC), BCS (Health), MCPS (ENT), FCPS (ENT). He is a Registrar, ENT at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Sodesh Hospital, Mymensingh. Practicing hour of Dr. Muhammad Monirul Alam at Sodesh Hospital, Mymensingh is 3:30pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Sodesh Hospital, Mymensingh",
+        "address": "298/2, Maskanda (Bus Stand), Mymensingh – 2200",
+        "visitingTime": "3:30pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801778801155Call Now"
+      }
+    },
+    {
+      "id": "3e0025a5-00c8-4df1-9fe4-7a9ae10dc23b",
+      "departmentId": "007a6034-ee0e-4e2b-98ca-45802b1247ed",
+      "link": "https://www.doctorbangladesh.com/dr-md-ashraful-alam-ent/",
+      "imageId": "f7b80d76-74db-43d4-9f3d-2de718cbf9ab",
+      "name": "Dr. Md. Ashraful Alam",
+      "degree": "MBBS (Dhaka), BCS (Health), FCPS (ENT)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Md. Ashraful Alam is a ENT Specialist in Mymensingh. His qualification is MBBS (Dhaka), BCS (Health), FCPS (ENT). He is a Consultant, ENT at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Pranto Specialized Hospital, Mymensingh. Practicing hour of Dr. Md. Ashraful Alam at Pranto Specialized Hospital, Mymensingh is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Pranto Specialized Hospital, Mymensingh",
+        "address": "67, Charpara, Mymensingh",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801788222000Call Now"
+      }
+    },
+    {
+      "id": "aaef64ad-0523-41e7-8418-40dc44e7938d",
+      "departmentId": "007a6034-ee0e-4e2b-98ca-45802b1247ed",
+      "link": "https://www.doctorbangladesh.com/dr-m-k-shafi/",
+      "imageId": "bba7b615-923c-462a-8070-c47fdd305a25",
+      "name": "Dr. M.K. Shafi",
+      "degree": "MBBS, BCS (Health), DLO (ENT)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. M.K. Shafi is a ENT Specialist in Mymensingh. His qualification is MBBS, BCS (Health), DLO (ENT). He is a Consultant, ENT at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Union Specialized Hospital, Mymensingh. Practicing hour of Dr. M.K. Shafi at Union Specialized Hospital, Mymensingh is 3pm to 8pm (Closed: Wed & Friday).",
+      "chamber": {
+        "hospital": "Union Specialized Hospital, Mymensingh",
+        "address": "337, Charpara, Mymensingh",
+        "visitingTime": "3pm to 8pm (Closed: Wed & Friday)",
+        "appointmentNumber": "+8801958280000Call Now"
+      }
+    }
+  ]
+}

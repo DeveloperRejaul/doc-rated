@@ -1,0 +1,242 @@
+{
+  "doctor": [
+    {
+      "id": "93a8ade8-3caf-4c9d-a5e5-fa8ae20cae93",
+      "departmentId": "5bd9adc9-cc50-4052-bfa4-4e5c5ae7fcb3",
+      "link": "https://www.doctorbangladesh.com/prof-dr-zahed-ali/",
+      "imageId": "d2951fb9-69b1-47e3-b060-12a5c627e2f1",
+      "name": "Prof. Dr. Zahed Ali",
+      "degree": "MBBS, FCPS (Medicine), MD (Neurology)",
+      "specialty": "Neurology (Brain, Stroke, Headache) & Medicine Specialist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Prof. Dr. Zahed Ali is a Neurologist in Narayanganj. His qualification is MBBS, FCPS (Medicine), MD (Neurology). He is a Professor, Neurology Department at Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Prof. Dr. Zahed Ali at Popular Diagnostic Center, Narayanganj is 12pm to 8pm (Sun, Mon, Tue & Thu).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "12pm to 8pm (Sun, Mon, Tue & Thu)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "7da3ed75-e9ed-42f3-b359-2692340ef284",
+      "departmentId": "5bd9adc9-cc50-4052-bfa4-4e5c5ae7fcb3",
+      "link": "https://www.doctorbangladesh.com/dr-abu-nayeem/",
+      "imageId": "466625c9-115a-4d99-9ecb-ade922bbfe05",
+      "name": "Dr. Abu Nayeem",
+      "degree": "MBBS (DMC), FCPS (Medicine), MD (Neurology)",
+      "specialty": "Neurology (Brain, Stroke, Headache) & Medicine Specialist",
+      "workplace": "National Institute of Neurosciences & Hospital",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, Bangabandhu Road, Chashara, Narayanganj – 1400 Visiting Hour: 3pm to 8pm (Sat, Mon, Wed & Friday), 11am to 1pm (Tuesday) Appointment: +8809666787804 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Dhanmondi",
+        "address": "House # 16, Road # 2, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "6.30pm to 8.30pm (Sat, Sun, Tue & Thu)",
+        "appointmentNumber": "+8809666787801Call Now"
+      }
+    },
+    {
+      "id": "d574e882-beac-4818-af7d-b5b99f25c0ce",
+      "departmentId": "5bd9adc9-cc50-4052-bfa4-4e5c5ae7fcb3",
+      "link": "https://www.doctorbangladesh.com/dr-tarun-kanti-sarker/",
+      "imageId": "386994ae-7379-4f06-8bc0-4948ca871b62",
+      "name": "Dr. Tarun Kanti Sarker",
+      "degree": "MBBS (DMC), BCS (Health), MD (Neurology)",
+      "specialty": "Neurology (Brain, Stroke, Nerve, Spine, Migraine) & Medicine Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Tarun Kanti Sarker is a Neurologist in Narayanganj. His qualification is MBBS (DMC), BCS (Health), MD (Neurology). He is a Former Assistant Professor, Neuromedicine at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Medinova Medical Services, Narayanganj. Practicing hour of Dr. Tarun Kanti Sarker at Medinova Medical Services, Narayanganj is 1oam to 5pm (Sun, Tue & Thu).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Narayanganj",
+        "address": "145, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "1oam to 5pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801913119989Call Now"
+      }
+    },
+    {
+      "id": "f2fc02c4-cf1d-4d83-9b70-14b07d2b07eb",
+      "departmentId": "5bd9adc9-cc50-4052-bfa4-4e5c5ae7fcb3",
+      "link": "https://www.doctorbangladesh.com/dr-dewan-md-elias/",
+      "imageId": "f8080de6-1907-4e5a-90a7-a1d72c17f04b",
+      "name": "Dr. Dewan Md. Elias",
+      "degree": "MBBS, BCS (Health), MD (Neurology)",
+      "specialty": "Neurology (Brain, Stroke, Headache, Movement) Specialist",
+      "workplace": "National Institute of Neurosciences & Hospital",
+      "info": "Dr. Dewan Md. Elias is a Neurologist in Narayanganj. His qualification is MBBS, BCS (Health), MD (Neurology). He is a Assistant Professor, Neurology Department at National Institute of Neurosciences & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Dewan Md. Elias at Popular Diagnostic Center, Narayanganj is 3.30pm to 8:30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "3.30pm to 8:30pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "8b3e728b-6649-4e71-a3e6-c72099c0c6d9",
+      "departmentId": "5bd9adc9-cc50-4052-bfa4-4e5c5ae7fcb3",
+      "link": "https://www.doctorbangladesh.com/dr-nafiz-khan-rousseau/",
+      "imageId": "81943c2d-4d3f-42f3-80e4-58125ba19546",
+      "name": "Dr. Nafiz Khan Rousseau",
+      "degree": "MBBS (DMC), BCS (Health), CCD (BIRDEM), MCPS (Medicine), MD (Neurology), MACP (USA)",
+      "specialty": "Neurology, Medicine & Diabetes Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Islami Bank Hospital, Motijheel Address: 24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka Visiting Hour: 5pm to 7pm (Closed: Friday) Appointment: +8801727666741 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "11.30pm to 2pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "8dc69599-e7f7-4065-b13b-04657b420781",
+      "departmentId": "5bd9adc9-cc50-4052-bfa4-4e5c5ae7fcb3",
+      "link": "https://www.doctorbangladesh.com/dr-rajesh-saha/",
+      "imageId": "388e4c03-bdc8-4276-8f32-b74cefe120dc",
+      "name": "Dr. Rajesh Saha",
+      "degree": "MBBS, BCS (Health), MD (Neuromedicine)",
+      "specialty": "Neurolomedicine (Brain, Stroke, Headache, Migraine) Specialist",
+      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+      "info": "Dr. Rajesh Saha is a Neuromedicine Specialist in Narayanganj. His qualification is MBBS, BCS (Health), MD (Neuromedicine). He is a Assistant Professor, Neuromedicine at Shaheed Suhrawardy Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Rajesh Saha at Popular Diagnostic Center, Narayanganj is 4pm to 9:30pm (Sun, Tue & Thu), 11am to 6pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "4pm to 9:30pm (Sun, Tue & Thu), 11am to 6pm (Friday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "6ec6783f-d031-47ad-b54b-566f10fdcc3b",
+      "departmentId": "5bd9adc9-cc50-4052-bfa4-4e5c5ae7fcb3",
+      "link": "https://www.doctorbangladesh.com/dr-kanol-saha/",
+      "imageId": "acf6c6f2-9643-40bf-90c5-0d7cb4dd82b2",
+      "name": "Dr. Kanol Saha",
+      "degree": "MBBS, BCS (Health), MD (Neurology)",
+      "specialty": "Neurology (Brain, Stroke, Nerve, Spine, Migraine) Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Kanol Saha is a Neurology Specialist in Narayanganj. His qualification is MBBS, BCS (Health), MD (Neurology). He is a Associate Professor, Neurology at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Medinova Medical Services, Narayanganj. Practicing hour of Dr. Kanol Saha at Medinova Medical Services, Narayanganj is 6.30pm to 9pm (Sun, Tue & Thu).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Narayanganj",
+        "address": "145, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "6.30pm to 9pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801913119989Call Now"
+      }
+    },
+    {
+      "id": "017058d6-9e73-4ab3-a057-1761feb7cbb4",
+      "departmentId": "5bd9adc9-cc50-4052-bfa4-4e5c5ae7fcb3",
+      "link": "https://www.doctorbangladesh.com/dr-niloy-ranjan-roy/",
+      "imageId": "e85089ce-e6a5-4cad-9213-8b65c056f7eb",
+      "name": "Dr. Niloy Ranjan Roy",
+      "degree": "MBBS, BCS (Health), MD (Neurology)",
+      "specialty": "Neurology Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Niloy Ranjan Roy is a Neurologist in Narayanganj. His qualification is MBBS, BCS (Health), MD (Neurology). He is a Consultant, Neurology Department at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Niloy Ranjan Roy at Popular Diagnostic Center, Narayanganj is 8pm to 11pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "8pm to 11pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "2fa76e0c-06d5-489b-a69d-2cb6a4b58251",
+      "departmentId": "5bd9adc9-cc50-4052-bfa4-4e5c5ae7fcb3",
+      "link": "https://www.doctorbangladesh.com/dr-aynal-haque-shakil/",
+      "imageId": "52650864-d340-476d-ae9c-501b7cb2bbe4",
+      "name": "Dr. Aynal Haque Shakil",
+      "degree": "MBBS, BCS (Health), MD (Neurology)",
+      "specialty": "Neurology Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Aynal Haque Shakil is a Neurologist in Narayanganj. His qualification is MBBS, BCS (Health), MD (Neurology). He is a Consultant, Neurology Department at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Aynal Haque Shakil at Popular Diagnostic Center, Narayanganj is 4pm to 8pm (Sat & Wed).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "4pm to 8pm (Sat & Wed)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "ff35ed8d-d39d-42e2-a6cc-1508ea5c8fb1",
+      "departmentId": "5bd9adc9-cc50-4052-bfa4-4e5c5ae7fcb3",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahadat-hossain-2/",
+      "imageId": "0c966de2-496b-4a42-9610-6533c52328c1",
+      "name": "Dr. Md. Shahadat Hossain",
+      "degree": "MBBS (DU), BCS (Health), MD (Neurology), MRCP (UK), CCD (BIRDEM)",
+      "specialty": "Neuromedicine & Diabetes Specialist",
+      "workplace": "General Hospital, Narayanganj",
+      "info": "Dr. Md. Shahadat Hossain is a Neuromedicine Specialist in Narayanganj. His qualification is MBBS (DU), BCS (Health), MD (Neurology), MRCP (UK), CCD (BIRDEM). He is a Consultant, Neuromedicine at General Hospital, Narayanganj. He regularly provides treatment to his patients at Medinova Medical Services, Narayanganj. Practicing hour of Dr. Md. Shahadat Hossain at Medinova Medical Services, Narayanganj is 4pm to 7pm (Sat, Mon & Thu).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Narayanganj",
+        "address": "145, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "4pm to 7pm (Sat, Mon & Thu)",
+        "appointmentNumber": "+8801913119989Call Now"
+      }
+    },
+    {
+      "id": "bbc84d88-3d72-4e36-8bd2-4e5213374871",
+      "departmentId": "5bd9adc9-cc50-4052-bfa4-4e5c5ae7fcb3",
+      "link": "https://www.doctorbangladesh.com/dr-peyel-ahammad-khan/",
+      "imageId": "a97ab254-3c2b-4ab8-a51c-340542bd0049",
+      "name": "Dr. Peyel Ahammad Khan",
+      "degree": "MBBS, BCS (Health), MD (Neurology)",
+      "specialty": "Neurology (Brain, Stroke, Nerve, Headache, Migraine) Specialist",
+      "workplace": "National Institute of Neurosciences & Hospital",
+      "info": "Ibn Sina Diagnostic Center, Savar Address: 31/6 Jaleshwar, Aricha Road, Savar, Dhaka – 1340 Visiting Hour: 4pm to 7pm (Sun, Tue & Thu) Appointment: +8809610009613 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "6pm to 9pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "f8d65eb0-0e64-40d7-9e8c-c1455c495da2",
+      "departmentId": "5bd9adc9-cc50-4052-bfa4-4e5c5ae7fcb3",
+      "link": "https://www.doctorbangladesh.com/dr-abul-hasnat-russel/",
+      "imageId": "d5dc8ba4-a87e-4b0b-a6b2-991648492db4",
+      "name": "Dr. Abul Hasnat Russel",
+      "degree": "MBBS, BCS (Health), MD (Neurology)",
+      "specialty": "Neurology (Brain, Stroke, Nerve, Spine, Migraine) Specialist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Dr. Abul Hasnat Russel is a Neurologist in Narayanganj. His qualification is MBBS, BCS (Health), MD (Neurology). He is a Registrar (Neurology) at Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Abul Hasnat Russel at Popular Diagnostic Center, Narayanganj is 3pm to 6pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "3pm to 6pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "49f9703d-9182-4f9a-b600-170ee68a30e9",
+      "departmentId": "5bd9adc9-cc50-4052-bfa4-4e5c5ae7fcb3",
+      "link": "https://www.doctorbangladesh.com/dr-md-tariqulislam/",
+      "imageId": "d6c9d1e4-bb99-49af-bda3-e962b0cdd3e7",
+      "name": "Dr. Md. Tariqul Islam",
+      "degree": "MBBS, BCS (Health), MD (Neurology)",
+      "specialty": "Neurology (Brain, Stroke, Nerve, Spine, Migraine) Specialist",
+      "workplace": "Mugda Medical College & Hospital",
+      "info": "Dr. Md. Tariqul Islam is a Neurologist in Narayanganj. His qualification is MBBS, BCS (Health), MD (Neurology). He is a Assistant Professor (Neurology) at Mugda Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Md. Tariqul Islam at Popular Diagnostic Center, Narayanganj is 3pm to 6pm (Sun, Tue, Thu & Fri).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "3pm to 6pm (Sun, Tue, Thu & Fri)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "3d24a4e4-e811-4f0a-87d7-69f0c9992d18",
+      "departmentId": "5bd9adc9-cc50-4052-bfa4-4e5c5ae7fcb3",
+      "link": "https://www.doctorbangladesh.com/dr-ajoy-kumar-agarwalla/",
+      "imageId": "1b8c31ad-8aa1-4fbf-9571-7b706dc31884",
+      "name": "Dr. Ajoy Kumar Agarwalla",
+      "degree": "MBBS, BCS (Health), MD (Neurology), MRCP (UK)",
+      "specialty": "Neurology (Brain, Stroke, Nerve, Spine, Migraine) Specialist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Dr. Ajoy Kumar Agarwalla is a Neurologist in Narayanganj. His qualification is MBBS, BCS (Health), MD (Neurology), MRCP (UK). He is a Consultant (Neurology) at Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Ajoy Kumar Agarwalla at Popular Diagnostic Center, Narayanganj is 3pm to 6pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "3pm to 6pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    }
+  ]
+}

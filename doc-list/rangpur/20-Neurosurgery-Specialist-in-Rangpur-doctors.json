@@ -1,0 +1,72 @@
+{
+  "doctor": [
+    {
+      "id": "9e7bf9f7-da12-4578-a4ad-ccbba6c70feb",
+      "departmentId": "636d8f4e-e514-4ca3-8615-df3d0a51097e",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-tofayel-hossain-bhuiyan/",
+      "imageId": "515097cf-d26b-4724-ae60-e22a041bb6f9",
+      "name": "Prof. Dr. Md. Tofael Hossain Bhuiyan",
+      "degree": "MBBS, MS (Neurosurgery)",
+      "specialty": "Brain, Spine & Pediatric Neurosurgery Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Apollo Diagnostic Center, Rangpur Address: Dhap, Jail Road, Rangpur Visiting Hour: 4pm to 10pm (Sun, Tue & Thu) Appointment: +8801733008088 Call Now",
+      "chamber": {
+        "hospital": "Doctor's Community Hospital, Rangpur",
+        "address": "Medical East Gate, Health City Road, Dhap, Rangpur",
+        "visitingTime": "2pm to 4pm (Everyday)",
+        "appointmentNumber": "+8801717292458Call Now"
+      }
+    },
+    {
+      "id": "e87b8a28-f1b0-426c-b7bb-5712a5480eb8",
+      "departmentId": "636d8f4e-e514-4ca3-8615-df3d0a51097e",
+      "link": "https://www.doctorbangladesh.com/dr-rajkumar-roy/",
+      "imageId": "42b0c7d1-ece6-4835-854d-c3e51072cfe7",
+      "name": "Dr. Rajkumar Roy",
+      "degree": "MBBS, MS (Neurosurgery)",
+      "specialty": "Brain, Nerve, Spine & Neurosurgery Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Rajkumar Roy is a Neurosurgeon in Rangpur. His qualification is MBBS, MS (Neurosurgery). He is a Assistant Professor, Neurosurgery at Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rangpur. Practicing hour of Dr. Rajkumar Roy at Popular Diagnostic Center, Rangpur is 4pm to 8pm (Everyday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rangpur",
+        "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
+        "visitingTime": "4pm to 8pm (Everyday)",
+        "appointmentNumber": "+8809666787813Call Now"
+      }
+    },
+    {
+      "id": "6aee01e4-6615-4aa3-a939-9fe54508346d",
+      "departmentId": "636d8f4e-e514-4ca3-8615-df3d0a51097e",
+      "link": "https://www.doctorbangladesh.com/dr-md-habibur-rahman-habib/",
+      "imageId": "51d644c9-991c-4d82-a368-2d5de48d0dcb",
+      "name": "Dr. Md. Habibur Rahman Habib",
+      "degree": "MBBS, BCS (Health), MS (Neurosurgery)",
+      "specialty": "Neurosurgery Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Md. Habibur Rahman Habib is a Neurosurgeon in Rangpur. His qualification is MBBS, BCS (Health), MS (Neurosurgery). He is working as a Neurosurgery Specialist doctor in Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Rangpur. Practicing hour of Dr. Md. Habibur Rahman Habib at Labaid Diagnostic, Rangpur is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Rangpur",
+        "address": "House # 69, Dhap, Jail Road, Rangpur",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801766663099Call Now"
+      }
+    },
+    {
+      "id": "f50290a2-3e75-49ab-b934-4bef8e826898",
+      "departmentId": "636d8f4e-e514-4ca3-8615-df3d0a51097e",
+      "link": "https://www.doctorbangladesh.com/dr-shamima-sultana-shuborna/",
+      "imageId": "81137d71-176b-4ebe-933b-84f5237317c3",
+      "name": "Dr. Shamima Sultana Shuborna",
+      "degree": "MBBS, BCS (Health), MS (Neurosurgery)",
+      "specialty": "Neurosurgery Specialist",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Shamima Sultana Shuborna is a Neurosurgeon in Rangpur. Her qualification is MBBS, BCS (Health), MS (Neurosurgery). She is working as a Neurosurgery Specialist doctor in Rangpur Medical College & Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Rangpur. Practicing hour of Dr. Shamima Sultana Shuborna at Popular Diagnostic Center, Rangpur is 4pm to 8pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rangpur",
+        "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
+        "visitingTime": "4pm to 8pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8809666787813Call Now"
+      }
+    }
+  ]
+}

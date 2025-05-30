@@ -1,0 +1,531 @@
+{
+  "doctor": [
+    {
+      "id": "022afdb3-80bb-4502-8bd0-261168449cf7",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/dr-samia-mubin/",
+      "imageId": "43024ed5-ddbe-4a75-832f-327c7e013371",
+      "name": "Prof. Dr. Samia Mubin",
+      "degree": "MBBS (DMC), FCPS (Surgery), MRCS (UK)",
+      "specialty": "General, Laparoscopic & Breast Cancer Specialist Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. Samia Mubin is a General Surgeon in Dhaka. Her qualification is MBBS (DMC), FCPS (Surgery), MRCS (UK). She is a Professor, Surgery at Bangabandhu Sheikh Mujib Medical University Hospital. She regularly provides treatment to her patients at Green Life Hospital, Dhaka. Practicing hour of Prof. Dr. Samia Mubin at Green Life Hospital, Dhaka is 3pm to 5pm (Sat, Sun, Tue & Thu).",
+      "chamber": {
+        "hospital": "Green Life Hospital, Dhaka",
+        "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+        "visitingTime": "3pm to 5pm (Sat, Sun, Tue & Thu)",
+        "appointmentNumber": "+8801714991475Call Now"
+      }
+    },
+    {
+      "id": "723f455a-9153-4ac8-a2ff-57990b188d7b",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/prof-dr-salma-sultana/",
+      "imageId": "d982ae62-3ae2-4eb2-a6e3-0b6b35555647",
+      "name": "Prof. Dr. Salma Sultana",
+      "degree": "MBBS, FCPS (Surgery), MS (Surgery)",
+      "specialty": "Breast, Colorectal & Laparoscopic Surgery Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Ibn Sina Medical Imaging Center, Zigatola Address: House # 58, Road # 2A, Zigatola Bus Stand, Dhaka – 1209 Visiting Hour: 4:30pm to 9pm (Saturday) Appointment: +8801711625173 Call Now",
+      "chamber": {
+        "hospital": "Central Hospital, Dhanmondi",
+        "address": "House # 02, Road # 05, Green Road, Dhanmondi, Dhaka – 1205",
+        "visitingTime": "4pm to 9pm (Closed: Friday & Saturday)",
+        "appointmentNumber": "+8802-41060800Call Now"
+      }
+    },
+    {
+      "id": "be9c1e12-7e00-4c8d-bf34-715f344cb20b",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/dr-jesmen-nahar-runi/",
+      "imageId": "f12f322b-1557-412f-8caf-6021e863ee4c",
+      "name": "Dr. Jesmen Nahar Runi",
+      "degree": "MBBS, BCS (Health), MCPS (Surgery), FCPS (Surgery)",
+      "specialty": "General, Breast & Colorectal Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Central Hospital, Dhanmondi Address: House # 02, Road # 05, Green Road, Dhanmondi, Dhaka – 1205 Visiting Hour: 3pm to 5pm (Closed: Friday & Sunday) Appointment: +8802-41060800 Call Now",
+      "chamber": {
+        "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
+        "address": "1/1 B, Kallyanpur, Dhaka",
+        "visitingTime": "6:30pm to 8pm (Sun, Tue & Thursday)",
+        "appointmentNumber": "+8801703725590Call Now"
+      }
+    },
+    {
+      "id": "c851d5e9-4cce-43e4-a466-44d10578e890",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/prof-dr-nishat-begum/",
+      "imageId": "30d917fb-29e6-4bcc-8a88-ad7bf9181a41",
+      "name": "Prof. Dr. Nishat Begum",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "General, Breast & Colorectal Specialist Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Prof. Dr. Nishat Begum is a General Surgeon in Dhaka. Her qualification is MBBS, FCPS (Surgery). She is a Former Professor, Surgery at Dhaka Medical College & Hospital. She regularly provides treatment to her patients at Green Life Hospital, Dhaka. Practicing hour of Prof. Dr. Nishat Begum at Green Life Hospital, Dhaka is 11am to 2pm (Sun, Tue & Thu).",
+      "chamber": {
+        "hospital": "Green Life Hospital, Dhaka",
+        "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+        "visitingTime": "11am to 2pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801912463111Call Now"
+      }
+    },
+    {
+      "id": "5fb5cf5b-cf33-4b64-a89f-a327a5d01f90",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/prof-dr-sadia-armin-khan/",
+      "imageId": "6755a79f-a506-4e5e-8162-3f51428ef362",
+      "name": "Dr. Sadia Armin Khan",
+      "degree": "MBBS, FCPS (Surgery), FMAS (India)",
+      "specialty": "Breast, Laparoscopic & Colorectal Surgery Specialist",
+      "workplace": "Ad-Din Medical College & Hospital",
+      "info": "Islami Bank Central Hospital, Kakrail Address: 30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000 Visiting Hour: 1pm to 4pm (Closed: Friday) Appointment: +8801810000116 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Dhanmondi",
+        "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+        "visitingTime": "6pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787801Call Now"
+      }
+    },
+    {
+      "id": "c6854c40-d525-4acc-ba55-4178745514ec",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/dr-ali-nafisa/",
+      "imageId": "d8d1f81e-360a-449f-95dc-d2daf396fef4",
+      "name": "Dr. Ali Nafisa",
+      "degree": "MBBS (RMC), FCPS (Surgery)",
+      "specialty": "General & Oncoplastic Breast Surgeon",
+      "workplace": "Anwer Khan Modern Medical College & Hospital",
+      "info": "Labaid Cancer Hospital & Super Speciality Center Address: 26, Green Road, Dhaka Visiting Hour: 7pm to 9pm (Closed: Friday) Appointment: +8809666710001 Call Now",
+      "chamber": {
+        "hospital": "BRB Hospital, Dhaka",
+        "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
+        "visitingTime": "6pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801910734568Call Now"
+      }
+    },
+    {
+      "id": "6b554507-4ff7-4ffe-beb9-7e5116d30c9d",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/dr-ayesha-rahman/",
+      "imageId": "754d0643-2c4f-420c-9cd8-14d2ea068395",
+      "name": "Dr. Ayesha Rahman",
+      "degree": "MBBS, BCS (Health), MCPS (Surgery), FCPS (Surgery)",
+      "specialty": "General, Colorectal & Breast Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Ayesha Rahman is a General Surgeon in Dhaka. Her qualification is MBBS, BCS (Health), MCPS (Surgery), FCPS (Surgery). She is a Consultant, Surgery at Bangabandhu Sheikh Mujib Medical University Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Mirpur. Practicing hour of Dr. Ayesha Rahman at Popular Diagnostic Center, Mirpur is 7pm to 9pm (Closed: Monday & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mirpur",
+        "address": "Unit 02, House # 02, Block # A, Section # 10, Mirpur, Dhaka",
+        "visitingTime": "7pm to 9pm (Closed: Monday & Friday)",
+        "appointmentNumber": "+8809666787807Call Now"
+      }
+    },
+    {
+      "id": "ccfea31c-40b7-451f-ba77-4dc9ed1a8aee",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/prof-dr-shamima-jahan/",
+      "imageId": "9307a3f3-01e6-41f1-9516-c33f16a272f3",
+      "name": "Prof. Dr. Shamima Jahan",
+      "degree": "MBBS, FCPS (Surgery), Training (Colorectal & Breast Surgery)",
+      "specialty": "General, Laparoscopic, Breast & Colorectal Surgeon",
+      "workplace": "Dhaka National Medical College & Hospital",
+      "info": "Prof. Dr. Shamima Jahan is a General Surgeon in Dhaka. Her qualification is MBBS, FCPS (Surgery), Training (Colorectal & Breast Surgery). She is a Professor & Head, Dept of Surgery at Dhaka National Medical College & Hospital. She regularly provides treatment to her patients at Islami Bank Central Hospital, Kakrail. Practicing hour of Prof. Dr. Shamima Jahan at Islami Bank Central Hospital, Kakrail is 5pm to 8pm (Closed: Mon & Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Central Hospital, Kakrail",
+        "address": "30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000",
+        "visitingTime": "5pm to 8pm (Closed: Mon & Friday)",
+        "appointmentNumber": "+8801810000116Call Now"
+      }
+    },
+    {
+      "id": "4f78b43c-12c6-4b46-8bce-2e0050f4b933",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/dr-nilufar-shabnam/",
+      "imageId": "b3db1345-41c9-4edb-b85a-c1c6d5f652c7",
+      "name": "Dr. Nilufar Shabnam",
+      "degree": "MBBS, FCPS (Surgery), MRCS (Edinburgh), MRCPS (Glasgow), CCD (BIRDEM)",
+      "specialty": "General, Breast & Colorectal Surgeon",
+      "workplace": "Birdem General Hospital & Ibrahim Medical College",
+      "info": "Dr. Nilufar Shabnam is a Breast Surgeon in Dhaka. Her qualification is MBBS, FCPS (Surgery), MRCS (Edinburgh), MRCPS (Glasgow), CCD (BIRDEM). She is a Registrar, Surgery at Birdem General Hospital & Ibrahim Medical College. She regularly provides treatment to her patients at Al-Manar Hospital Limited. Practicing hour of Dr. Nilufar Shabnam at Al-Manar Hospital Limited is 5pm to 7pm (Sun, Mon, Thu & Friday).",
+      "chamber": {
+        "hospital": "Al-Manar Hospital Limited",
+        "address": "Plot # Umo, Block # Rossoi, Satmosjid Road, Dhaka",
+        "visitingTime": "5pm to 7pm (Sun, Mon, Thu & Friday)",
+        "appointmentNumber": "+8801550020885Call Now"
+      }
+    },
+    {
+      "id": "6b39a252-2e5c-4fd1-aa85-cd5ec20a6aa2",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/dr-leea-amin/",
+      "imageId": "3ca6d11b-dff1-4647-86b5-c187e3a97cbf",
+      "name": "Dr. Leea Amin",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "General, Laparoscopic, Breast, Cancer & Colorectal Surgeon",
+      "workplace": "Eastern Medical College & Hospital",
+      "info": "Ahsania Mission Cancer & General Hospital Address: Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka Visiting Hour: 11am to 3pm (Closed: Tuesday & Friday) Contact Number: 10617 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
+        "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
+        "visitingTime": "4pm to 6pm (Sat, Sun & Mon)",
+        "appointmentNumber": "+8809666787805Call Now"
+      }
+    },
+    {
+      "id": "43ea4863-8e27-4610-b883-bf9e3eec7d53",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/dr-sharmin-islam/",
+      "imageId": "2e5e0ed6-1399-43ce-a129-811dfe7d89d8",
+      "name": "Dr. Sharmin Islam",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "General, Laparoscopic, Breast & Colorectal Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Sharmin Islam is a General Surgeon in Dhaka. Her qualification is MBBS, FCPS (Surgery). She is a Consultant, Surgery at Dhaka Medical College & Hospital. She regularly provides treatment to her patients at Health and Hope Hospital. Practicing hour of Dr. Sharmin Islam at Health and Hope Hospital is 6pm to 8pm (Saturday & Tuesday).",
+      "chamber": {
+        "hospital": "Health and Hope Hospital",
+        "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
+        "visitingTime": "6pm to 8pm (Saturday & Tuesday)",
+        "appointmentNumber": "+8801611216232Call Now"
+      }
+    },
+    {
+      "id": "1324fdd1-50f1-4b7e-a7ef-ebe7b6b7b429",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/dr-afrin-sultana/",
+      "imageId": "a521d5b4-dd7a-461e-b01a-8722fbf69691",
+      "name": "Dr. Afrin Sultana",
+      "degree": "MBBS (DMC), FCPS (Surgery), MRCS (UK)",
+      "specialty": "General & Laparoscopic Surgeon",
+      "workplace": "Holy Family Red Crescent Medical College & Hospital",
+      "info": "Dr. Afrin Sultana is a General Surgeon in Dhaka. Her qualification is MBBS (DMC), FCPS (Surgery), MRCS (UK). She is a Registrar, Dept of Surgery at Holy Family Red Crescent Medical College & Hospital. She regularly provides treatment to her patients at City Hospital Limited, Dhaka. Practicing hour of Dr. Afrin Sultana at City Hospital Limited, Dhaka is 8pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "City Hospital Limited, Dhaka",
+        "address": "1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka – 1207",
+        "visitingTime": "8pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801558220134Call Now"
+      }
+    },
+    {
+      "id": "c65f1088-f066-45c6-9e33-9ca0d892a3fe",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/dr-khadija-rahman-sonia/",
+      "imageId": "7fb9b28e-a34b-4739-a925-7a1417322eaf",
+      "name": "Dr. Khadija Rahman (Sonia)",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "Breast, Colorectal & General Surgeon",
+      "workplace": "National Institute of Cancer Research & Hospital",
+      "info": "Dr. Khadija Rahman (Sonia) is a General Surgeon in Dhaka. Her qualification is MBBS, FCPS (Surgery). She is a Assistant Professor, Surgery at National Institute of Cancer Research & Hospital. She regularly provides treatment to her patients at Ibn Sina Diagnostic Center, Malibagh. Practicing hour of Dr. Khadija Rahman (Sonia) at Ibn Sina Diagnostic Center, Malibagh is 5pm to 7pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Malibagh",
+        "address": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
+        "visitingTime": "5pm to 7pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801844141717Call Now"
+      }
+    },
+    {
+      "id": "16c3104c-11a0-4beb-b02c-415a223324cb",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/professor-dr-ruksana-parvin/",
+      "imageId": "a43fa7ef-4f0d-49a7-b044-42fb1af48742",
+      "name": "Professor Dr. Ruksana Parvin",
+      "degree": "MBBS, FCPS (Surgery), FACS (USA)",
+      "specialty": "Breast Diseases, Breast Cancer, Piles, Fissure, Fistula, Colorectal & Laparoscopic Surgery Specialist",
+      "workplace": "Shahabuddin Medical College Hospital",
+      "info": "Professor Dr. Ruksana Parvin is a General Surgeon in Dhaka. Her qualification is MBBS, FCPS (Surgery), FACS (USA). She is a Professor & Head, Surgery at Shahabuddin Medical College Hospital. She regularly provides treatment to her patients at Ibn Sina Diagnostic Center, Malibagh. Practicing hour of Professor Dr. Ruksana Parvin at Ibn Sina Diagnostic Center, Malibagh is 5pm to 8pm (Sun, Tue & Wed).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Malibagh",
+        "address": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
+        "visitingTime": "5pm to 8pm (Sun, Tue & Wed)",
+        "appointmentNumber": "+8809610009611Call Now"
+      }
+    },
+    {
+      "id": "f15efa99-0aea-4f42-985e-d94beed6c058",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/dr-sadia-sajmin-siddiqua/",
+      "imageId": "c3e3d1e4-a922-465d-9bb5-f8d97dec5502",
+      "name": "Dr. Sadia Sajmin Siddiqua",
+      "degree": "MBBS (DMC), FCPS (Surgery)",
+      "specialty": "General, Colorectal. Laparoscopic & Breast Surgeon",
+      "workplace": "Sarkari Karmachari Hospital",
+      "info": "Khidmah Hospital, Dhaka Address: C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka Visiting Hour: 4pm to 7pm (Sat, Sun & Monday) Appointment: +8809606063030 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
+        "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
+        "visitingTime": "4pm to 6pm (Mon, Tue & Wednesday)",
+        "appointmentNumber": "+8809666787805Call Now"
+      }
+    },
+    {
+      "id": "4933f330-370e-40f5-908b-ba3bb890eb18",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/dr-sonia-akter/",
+      "imageId": "f4201846-6fe5-4c7e-b106-67325ef1ae11",
+      "name": "Dr. Sonia Akter",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "General, Laparoscopic, Breast & Colorectal Surgeon",
+      "workplace": "Enam Medical College & Hospital",
+      "info": "Farazy Hospital, Banasree Address: House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka Visiting Hour: 4pm to 6pm (Sat, Mon & Wed) Appointment: +8801766111137 Call Now",
+      "chamber": {
+        "hospital": "Enam Medical College & Hospital",
+        "address": "9/3 Parboti Nagar, Thana Road, Savar, Dhaka",
+        "visitingTime": "8am to 2.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801716358146Call Now"
+      }
+    },
+    {
+      "id": "2493a7c9-a3bc-419c-afda-24b0f9fd0055",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/dr-tamanna-narmeen/",
+      "imageId": "aae566cd-d007-449e-882f-d2d31927a94c",
+      "name": "Dr. Tamanna Narmeen",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "General, Breast & Laparoscopic Surgeon",
+      "workplace": "Birdem General Hospital & Ibrahim Medical College",
+      "info": "Dr. Tamanna Narmeen is a General Surgeon in Dhaka. Her qualification is MBBS, FCPS (Surgery). She is a Associate Professor, Pediatric Surgery at Birdem General Hospital & Ibrahim Medical College. She regularly provides treatment to her patients at Birdem Mohila O Shishu Hospital. Practicing hour of Dr. Tamanna Narmeen at Birdem Mohila O Shishu Hospital is 3pm to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Birdem Mohila O Shishu Hospital",
+        "address": "1/A, Segun Bagicha Road, Dhaka – 1000",
+        "visitingTime": "3pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801921876704Call Now"
+      }
+    },
+    {
+      "id": "98fd2a17-7377-43cc-964f-393a8e6d8089",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/dr-farhana-yesmin/",
+      "imageId": "0591fd98-6364-4359-a978-f7777956812c",
+      "name": "Dr. Farhana Yesmin",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "Breast, Colorectal, Laparoscopic & General Surgeon",
+      "workplace": "Dhaka Dental College & Hospital",
+      "info": "Dr. Farhana Yesmin is a General Surgeon in Dhaka. Her qualification is MBBS, BCS (Health), FCPS (Surgery). She is a Assistant Professor, Surgery at Dhaka Dental College & Hospital. She regularly provides treatment to her patients at Ibn Sina Diagnostic Center, Dhanmondi. Practicing hour of Dr. Farhana Yesmin at Ibn Sina Diagnostic Center, Dhanmondi is 4.30pm to 7.30pm (Closed: Wed, Thu & Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
+        "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+        "visitingTime": "4.30pm to 7.30pm (Closed: Wed, Thu & Friday)",
+        "appointmentNumber": "+8809610010615Call Now"
+      }
+    },
+    {
+      "id": "5f9429b1-ce51-47e2-b182-fb3f002b8d68",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/dr-amreen-faruq/",
+      "imageId": "cfefcfd7-2731-4889-aa87-66c9d56ddf2a",
+      "name": "Asso. Prof. Dr. Amreen Faruq",
+      "degree": "MBBS, MS (Surgery), FACS (USA)",
+      "specialty": "General, Laparoscopic, Breast, Hernia & Diabetic Foot Surgeon",
+      "workplace": "Birdem General Hospital & Ibrahim Medical College",
+      "info": "Asso. Prof. Dr. Amreen Faruq is a highly skilled General, Laparoscopic, Breast, Hernia, and Diabetic Foot Surgeon in Dhaka, with expertise in a broad range of surgical procedures including minimally invasive laparoscopic surgeries, breast surgeries, hernia repairs, and diabetic foot management. She holds an MBBS, MS (Surgery), and the distinguished FACS (USA) fellowship, reflecting her international standard of surgical training and patient care. Currently, she is serving as Associate Professor of Surgery at Birdem General Hospital & Ibrahim Medical College, where she is widely respected for her surgical precision and patient-centered approach. Dr. Amreen Faruq provides consultations at the BIRDEM Specialized Chamber Complex, Shahbag, Dhaka, with visiting hours from 2pm to 5pm (Closed: Thursday & Friday), offering comprehensive surgical solutions with a special focus on diabetic and endocrine-related surgical conditions.",
+      "chamber": {
+        "hospital": "BIRDEM Specialized Chamber Complex",
+        "address": "Main Building, 122, Kazi Nazrul Islam Avenue, Shahbag, Dhaka",
+        "visitingTime": "2pm to 5pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801746816722Call Now"
+      }
+    },
+    {
+      "id": "0539e58b-47d6-41c0-95a0-04558008052e",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/dr-shamima-nasrin/",
+      "imageId": "c1034ee1-f2aa-4518-bb39-095c4ffc6533",
+      "name": "Dr. Shamima Nasrin",
+      "degree": "MBBS (DMC) FCPS (Surgery), FMAS (India)",
+      "specialty": "General, Breast & Colorectal Surgeon",
+      "workplace": "Anwer Khan Modern Medical College Hospital",
+      "info": "Dr. Shamima Nasrin is a General Surgeon in Dhaka. Her qualification is MBBS (DMC) FCPS (Surgery), FMAS (India). She is a Assistant Professor, Surgery at Anwer Khan Modern Medical College Hospital. She regularly provides treatment to her patients at Anwer Khan Modern Medical College Hospital. Practicing hour of Dr. Shamima Nasrin at Anwer Khan Modern Medical College Hospital is 7pm to 9pm (Sat, Mon, Tue & Wed).",
+      "chamber": {
+        "hospital": "Anwer Khan Modern Medical College Hospital",
+        "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
+        "visitingTime": "7pm to 9pm (Sat, Mon, Tue & Wed)",
+        "appointmentNumber": "+8801819167948Call Now"
+      }
+    },
+    {
+      "id": "ee7cf82d-fe52-462c-84c8-984d04ad141b",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/dr-nasim-e-tasnim-tanu/",
+      "imageId": "531da10a-7368-40e1-b215-24221ce00e19",
+      "name": "Dr. Nasim-E-Tasnim Tanu",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "General, Colorectal & Breast Surgeon",
+      "workplace": "Shaheed Tajuddin Ahmad Medical College & Hospital",
+      "info": "Dr. Nasim-E-Tasnim Tanu is a General Surgeon in Dhaka. Her qualification is MBBS, FCPS (Surgery). She is a Assistant Professor, Surgery at Shaheed Tajuddin Ahmad Medical College & Hospital. She regularly provides treatment to her patients at Islami Bank Hospital, Mugda. Practicing hour of Dr. Nasim-E-Tasnim Tanu at Islami Bank Hospital, Mugda is 7pm to 9.30pm (Sat, Mon, Tue & Thu).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Mugda",
+        "address": "1/24/B, Kamalapur Manda Road, South Mugdapara, Dhaka",
+        "visitingTime": "7pm to 9.30pm (Sat, Mon, Tue & Thu)",
+        "appointmentNumber": "+8801724008677Call Now"
+      }
+    },
+    {
+      "id": "f2294490-17a2-40f7-b984-0c7933ff88ed",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/dr-shayda-ali/",
+      "imageId": "c898feb4-e2e8-4620-8394-f95fafd2a4c5",
+      "name": "Dr. Shayda Ali",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "Breast, Colorectal, General & Laparoscopic Surgery Specialist",
+      "workplace": "Delta Medical College & Hospital",
+      "info": "Ibn Sina Specialized Hospital, Dhanmondi Address: House # 68, Road # 15/A, Dhanmondi, Dhaka – 1209 Visiting Hour: 7pm to 9pm (Closed: Friday) Appointment: +8801823039800 Call Now",
+      "chamber": {
+        "hospital": "Delta Hospital, Mirpur",
+        "address": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka - 1216",
+        "visitingTime": "8.30am to 2pm (Closed: Friday)",
+        "appointmentNumber": "+8801301254924Call Now"
+      }
+    },
+    {
+      "id": "7ca77e06-1e9f-4d96-ba59-0e3fd981ea6f",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/dr-karina-rahman/",
+      "imageId": "41288051-854a-49bd-8991-98c35ac69d32",
+      "name": "Dr. Karina Rahman",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "General, Laparoscopic, Breast & Colorectal Surgeon",
+      "workplace": "Enam Medical College & Hospital",
+      "info": "Dr. Karina Rahman is a General Surgeon in Dhaka. Her qualification is MBBS, FCPS (Surgery). She is a Assistant Professor, Surgery at Enam Medical College & Hospital. She regularly provides treatment to her patients at Enam Medical College & Hospital. Practicing hour of Dr. Karina Rahman at Enam Medical College & Hospital is 8am to 2.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Enam Medical College & Hospital",
+        "address": "9/3 Parboti Nagar, Thana Road, Savar, Dhaka",
+        "visitingTime": "8am to 2.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801716358146Call Now"
+      }
+    },
+    {
+      "id": "b4390554-263f-4519-959c-8c38adaa205c",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/dr-mahbuba-begum/",
+      "imageId": "6c4be00d-da86-4d22-9a1e-32242ef9d7c3",
+      "name": "Dr. Mahbuba Begum",
+      "degree": "MBBS (DMC), FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Surgeon",
+      "workplace": "Medical College for Women & Hospital",
+      "info": "Dr. Mahbuba Begum is a General Surgeon in Dhaka. Her qualification is MBBS (DMC), FCPS (Surgery). She is a Assistant Professor, Dept of Surgery at Medical College for Women & Hospital. She regularly provides treatment to her patients at Aichi Hospital Limited, Uttara. Practicing hour of Dr. Mahbuba Begum at Aichi Hospital Limited, Uttara is 5pm to 7pm (Sat, Mon, Tues & Thurs).",
+      "chamber": {
+        "hospital": "Aichi Hospital Limited, Uttara",
+        "address": "Plot # 35 & 37, Sector # 08, Abdullahpur, Uttara, Dhaka",
+        "visitingTime": "5pm to 7pm (Sat, Mon, Tues & Thurs)",
+        "appointmentNumber": "+8801689956599Call Now"
+      }
+    },
+    {
+      "id": "bea5e75b-2ec6-4968-aa60-8f49b39cdd18",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/dr-nabila-khanduker/",
+      "imageId": "4ef7925e-b1ef-4341-b952-f25ed2a01fc0",
+      "name": "Dr. Nabila Khanduker",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "General, Laparoscopic & Breast Cancer Surgeon",
+      "workplace": "Green Life Medical College & Hospital",
+      "info": "Ibn Sina Medical Imaging Center, ZigatolaAddress: House # 58, Road # 2A, Zigatola Bus Stand, Dhaka – 1209Visiting Hour: 6pm to 8pm (Tue & Wed)Appointment: +8801711625173Call Now",
+      "chamber": {
+        "hospital": "Green Life Hospital, Dhaka",
+        "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+        "visitingTime": "6pm to 8pm (Saturday & Monday)",
+        "appointmentNumber": "+8801868504100Call Now"
+      }
+    },
+    {
+      "id": "3470c022-ee65-4305-a793-402629c15872",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/dr-farzana-haque-shumi/",
+      "imageId": "6400557e-800e-4e8f-8467-aaa719f39287",
+      "name": "Dr. Farjana Haque Shumi",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "General, Laparoscopic & Breast Specialist Surgeon",
+      "workplace": "Uttara Adhunik Medical College & Hospital",
+      "info": "Dr. Farjana Haque Shumi is a General Surgeon in Dhaka. Her qualification is MBBS, FCPS (Surgery). She is a Resident Surgeon, Surgery at Uttara Adhunik Medical College & Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Uttara (Jasimuddin). Practicing hour of Dr. Farjana Haque Shumi at Popular Diagnostic Center, Uttara (Jasimuddin) is Everyday (Time Unknown).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
+        "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
+        "visitingTime": "Everyday (Time Unknown)",
+        "appointmentNumber": "+8809666787805Call Now"
+      }
+    },
+    {
+      "id": "81600600-670b-4b5b-9cb2-7be17ef77f39",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/dr-tanny-tarafder/",
+      "imageId": "f51ae543-7f0c-4b7e-a73c-c6642d0ebe60",
+      "name": "Dr. Tanny Tarafder",
+      "degree": "MBBS, FCPS (Surgery), MRCS (UK)",
+      "specialty": "General, Breast, Laparoscopic & Colorectal Surgeon",
+      "workplace": "Square Hospital, Dhaka",
+      "info": "Dr. Tanny Tarafder is a General Surgeon in Dhaka. Her qualification is MBBS, FCPS (Surgery), MRCS (UK). She is a Associate Consultant, Surgery at Square Hospital, Dhaka. She regularly provides treatment to her patients at Square Hospital, Dhaka. Practicing hour of Dr. Tanny Tarafder at Square Hospital, Dhaka is 11am to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Square Hospital, Dhaka",
+        "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
+        "visitingTime": "11am to 6pm (Closed: Friday)",
+        "appointmentNumber": "10616Call Now"
+      }
+    },
+    {
+      "id": "2402b3e8-5148-44e1-97d7-07c9d78473b3",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/dr-sadia-afrin-tani/",
+      "imageId": "90c53fcb-4853-4105-a5ad-19e1f066bc26",
+      "name": "Dr. Sadia Afrin Tani",
+      "degree": "MBBS, BCS (Health), MS (Genaral Surgery), FCPS (Surgery), FAECS",
+      "specialty": "General, Laparoscopic, Breast & Colorectal Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Popular Diagnostic Center, BaddaAddress: Cha-90/2, North Badda (Pragoti Sharoni), Dhaka – 1212Visiting Hour: 7pm to 8:30pm (Sat, Mon & Wed)Appointment: +8809666787809Call Now",
+      "chamber": {
+        "hospital": "Upasham Health Point (Pvt.) Ltd",
+        "address": "House-14, Road-2/B, Block-J, Natun Bazar, Baridhara, Dhaka-1212",
+        "visitingTime": "7pm to 8pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801932200200Call Now"
+      }
+    },
+    {
+      "id": "16ba81d0-835d-4370-8965-ce52e0a394d1",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/dr-nadia-farzana-islam/",
+      "imageId": "3e64f62b-d10f-4f40-a83e-49f3c1cb1dad",
+      "name": "Dr. Nadia Farzana Islam",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General, Laparoscopic, Breast & Colorectal Surgery Specialist",
+      "workplace": "Kurmitola General Hospital, Dhaka",
+      "info": "Dr. Nadia Farzana Islam is a General Surgeon in Dhaka. Her qualification is MBBS, BCS (Health), FCPS (Surgery). She is a Assistant Professor, Surgery at Kurmitola General Hospital, Dhaka. She regularly provides treatment to her patients at Uttara Crescent Diagnostic & Consultation Center. Practicing hour of Dr. Nadia Farzana Islam at Uttara Crescent Diagnostic & Consultation Center is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Uttara Crescent Diagnostic & Consultation Center",
+        "address": "House # 16, Sector # 7, Rabindra Sarani, Uttara, Dhaka – 1230",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801707704150Call Now"
+      }
+    },
+    {
+      "id": "90f4f83a-1b2e-4d50-8bb3-3a18505bf8e1",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/dr-ishrat-jahan/",
+      "imageId": "0161fe5d-4649-49ef-a1b9-cdae23b1eb7f",
+      "name": "Prof. Dr. Ishrat Jahan",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "General, Laparoscopic & Breast Surgeon",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Prof. Dr. Ishrat Jahan is a General Surgeon in Dhaka. Her qualification is MBBS, FCPS (Surgery). She is working as a General, Laparoscopic & Breast Surgeon doctor in Sir Salimullah Medical College & Mitford Hospital. She regularly provides treatment to her patients at BRB Hospital, Dhaka. Practicing hour of Prof. Dr. Ishrat Jahan at BRB Hospital, Dhaka is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "BRB Hospital, Dhaka",
+        "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "10647Call Now"
+      }
+    },
+    {
+      "id": "37c01e1f-62dc-4185-9f71-74b63dc93ea5",
+      "departmentId": "cf51a3d7-63c7-4df0-8eb5-f8bf2ccc5884",
+      "link": "https://www.doctorbangladesh.com/dr-fouzia-sultana/",
+      "imageId": "1fda53bd-6ab2-4784-acc6-6f51d316239d",
+      "name": "Dr. Fouzia Sultana",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Specialist Surgeon",
+      "workplace": "Delta Medical College & Hospital",
+      "info": "Dr. Fouzia Sultana is a General Surgeon in Dhaka. Her qualification is MBBS, FCPS (Surgery). She is a Assistant Professor, Surgery at Delta Medical College & Hospital. She regularly provides treatment to her patients at Delta Hospital, Mirpur. Practicing hour of Dr. Fouzia Sultana at Delta Hospital, Mirpur is 8.30am to 2pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Delta Hospital, Mirpur",
+        "address": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka - 1216",
+        "visitingTime": "8.30am to 2pm (Closed: Friday)",
+        "appointmentNumber": "+8801301254924, +8801795699147Call Now"
+      }
+    }
+  ]
+}

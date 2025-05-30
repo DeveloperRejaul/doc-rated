@@ -1,0 +1,38 @@
+{
+  "doctor": [
+    {
+      "id": "69019b95-cc28-408b-b3b9-253ebb343a5a",
+      "departmentId": "f1b65f42-734b-4947-afa8-d78e7a3ba5c7",
+      "link": "https://www.doctorbangladesh.com/prof-dr-munirul-islam/",
+      "imageId": "c61d90b1-a5e7-4470-80c9-f750de387823",
+      "name": "Prof. Dr. Mohammad Manirul Islam",
+      "degree": "MBBS, FCPS (Anesthesiology)",
+      "specialty": "Pain Management Specialist & Anesthesiologist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Prof. Dr. Mohammad Manirul Islam is a Anesthesiologist in Mymensingh. His qualification is MBBS, FCPS (Anesthesiology). He is a Professor & Head, Anesthesiology at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Mymensingh Medical College & Hospital. Practicing hour of Prof. Dr. Mohammad Manirul Islam at Mymensingh Medical College & Hospital is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Mymensingh Medical College & Hospital",
+        "address": "Charpara, Mymensingh",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801768027015Call Now"
+      }
+    },
+    {
+      "id": "ed79bebd-0b5c-42af-8953-f9578cc1c381",
+      "departmentId": "f1b65f42-734b-4947-afa8-d78e7a3ba5c7",
+      "link": "https://www.doctorbangladesh.com/dr-md-abul-kalam-azad-khan/",
+      "imageId": "e432a856-56ab-4133-9dca-65efddc1d1f2",
+      "name": "Dr. Md. Abul Kalam Azad Khan",
+      "degree": "MBBS, DA",
+      "specialty": "Anesthesiologist & Pain Specialist",
+      "workplace": "Community Based Medical College & Hospital",
+      "info": "Dr. Md. Abul Kalam Azad Khan is a Anesthesiologist in Mymensingh. His qualification is MBBS, DA. He is a Associate Professor & Head, Anesthesiology at Community Based Medical College & Hospital. He regularly provides treatment to his patients at Community Based Medical College & Hospital. Practicing hour of Dr. Md. Abul Kalam Azad Khan at Community Based Medical College & Hospital is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Community Based Medical College & Hospital",
+        "address": "Chomir Plaza, Charpara Mor, Mymensingh – 2200",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801711707738Call Now"
+      }
+    }
+  ]
+}

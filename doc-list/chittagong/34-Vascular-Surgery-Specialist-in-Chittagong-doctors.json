@@ -1,0 +1,38 @@
+{
+  "doctor": [
+    {
+      "id": "55357713-1f08-4c88-b28b-e1b73bd129eb",
+      "departmentId": "fcf64c0c-5f62-4786-bbf9-7c2ae7c01bc3",
+      "link": "https://www.doctorbangladesh.com/dr-md-minhajul-hasan/",
+      "imageId": "7312090c-9eca-442b-a016-f4fa2a472ffc",
+      "name": "Dr. Md. Minhajul Hasan",
+      "degree": "MBBS (CMC), BCS (Health), FCPS (Surgery), MS (CVTS)",
+      "specialty": "Cardiothoracic & Vascular Surgeon",
+      "workplace": "Chittagong Medical College Hospital",
+      "info": "Dr. Md. Minhajul Hasan is a Vascular Surgeon in Chittagong. His qualification is MBBS (CMC), BCS (Health), FCPS (Surgery), MS (CVTS). He is a Resident Surgeon (Vascular Surgery) at Chittagong Medical College Hospital. He regularly provides treatment to his patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Md. Minhajul Hasan at Parkview Hospital, Chittagong is 6.30pm to 9.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Parkview Hospital, Chittagong",
+        "address": "Room: 328, 94/103, Katalganj Road, Panchlaish, Chattogram",
+        "visitingTime": "6.30pm to 9.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801842734241Call Now"
+      }
+    },
+    {
+      "id": "8ae978ec-afda-4771-a2a9-f04f305c8952",
+      "departmentId": "fcf64c0c-5f62-4786-bbf9-7c2ae7c01bc3",
+      "link": "https://www.doctorbangladesh.com/dr-md-jamal-uddin/",
+      "imageId": "60d152ed-01ba-4760-8161-27adf2fcea35",
+      "name": "Dr. Md. Jamal Uddin",
+      "degree": "MBBS, MS (ORTHO)",
+      "specialty": "Orthopedic, Trauma & Vascular Surgery Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Md. Jamal Uddin is a Orthopedic Surgeon in Chittagong. His qualification is MBBS, MS (ORTHO). He is a Assistant Professor, Orthopedic Surgery at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Chittagong. Practicing hour of Dr. Md. Jamal Uddin at Popular Diagnostic Center, Chittagong is 3pm to 6pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Chittagong",
+        "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
+        "visitingTime": "3pm to 6pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8809666787810Call Now"
+      }
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "doctor": [
+    {
+      "id": "d7371d85-44be-497d-8fea-150b1e6582fd",
+      "departmentId": "05ff67af-0283-4192-8d54-8d573f54a0cb",
+      "link": "https://www.doctorbangladesh.com/dr-md-rezaul-karim-rheumatology/",
+      "imageId": "ccf51886-f3bf-45a6-8184-e06a4eb92ee4",
+      "name": "Dr. Md. Rezaul Karim",
+      "degree": "MBBS, BCS (Health), MD (Rheumatology)",
+      "specialty": "Rheumatology (Pain, Arthritis, Joint, Soft Tissue Problems) Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Md. Rezaul Karim is a Rheumatologist in Sylhet. His qualification is MBBS, BCS (Health), MD (Rheumatology). He is a Consultant, Rheumatology at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Dr. Md. Rezaul Karim at Mount Adora Hospital, Akhalia, Sylhet is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801773378953Call Now"
+      }
+    },
+    {
+      "id": "e87123af-0f60-4b6c-a801-47fa5ce3c30b",
+      "departmentId": "05ff67af-0283-4192-8d54-8d573f54a0cb",
+      "link": "https://www.doctorbangladesh.com/dr-ahmad-zahid-al-quadir/",
+      "imageId": "5be6e57a-ba23-42e1-b505-38b60d72f583",
+      "name": "Dr. Ahmad Zahid Al Quadir",
+      "degree": "MBBS, BCS (Health), MD (Rheumatology), BSMMU, ECRD (Switzerland)",
+      "specialty": "Rheumatology & Arthritis Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Mount Adora Hospital, Akhalia, Sylhet Address: Sylhet-Sunamganj Highway, Akhalia, Sylhet – 3100 Visiting Hour: 3pm to 6pm (Sun, Tue & Thu) Appointment: +8801778565372 Call Now",
+      "chamber": {
+        "hospital": "Al Haramain Hospital, Sylhet",
+        "address": "Samato-30, Chali Bandar, Bishwa Road, Subhani Ghat, Sylhet",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801931225555Call Now"
+      }
+    },
+    {
+      "id": "1f02dccf-f37e-41c3-85b0-bacac288b7bf",
+      "departmentId": "05ff67af-0283-4192-8d54-8d573f54a0cb",
+      "link": "https://www.doctorbangladesh.com/dr-iqbal-ahmed-chowdhury/",
+      "imageId": "c99f113c-99b2-4af8-84ae-c98ff2ea7c0f",
+      "name": "Dr. Iqbal Ahmed Chowdhury",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), Training (Rheumatology)",
+      "specialty": "Medicine & Rheumatology Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Iqbal Ahmed Chowdhury is a Medicine Specialist in Sylhet. His qualification is MBBS, BCS (Health), FCPS (Medicine), Training (Rheumatology). He is a Assistant Professor, Medicine at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Hospital, Sylhet. Practicing hour of Dr. Iqbal Ahmed Chowdhury at Ibn Sina Hospital, Sylhet is Evening (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Hospital, Sylhet",
+        "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+        "visitingTime": "Evening (Closed: Friday)",
+        "appointmentNumber": "+8809610009640Call Now"
+      }
+    },
+    {
+      "id": "03125916-ff63-434f-b957-1f498a263dd6",
+      "departmentId": "05ff67af-0283-4192-8d54-8d573f54a0cb",
+      "link": "https://www.doctorbangladesh.com/dr-sudeshna-sinha/",
+      "imageId": "95f27564-39ec-4563-9cee-651b6209f1f3",
+      "name": "Dr. Sudeshna Sinha",
+      "degree": "MBBS, BCS (Health), MD (Rheumatology), Training (UK)",
+      "specialty": "Pain & Rheumatology Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Sudeshna Sinha is a Rheumatologist in Sylhet. Her qualification is MBBS, BCS (Health), MD (Rheumatology), Training (UK). She is a Consultant, Rheumatology at Sylhet MAG Osmani Medical College & Hospital. She regularly provides treatment to her patients at Labaid Diagnostic Limited, Sylhet. Practicing hour of Dr. Sudeshna Sinha at Labaid Diagnostic Limited, Sylhet is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic Limited, Sylhet",
+        "address": "House # 362-363, New Medical Road, Kajol Shah, Sylhet",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662727Call Now"
+      }
+    }
+  ]
+}

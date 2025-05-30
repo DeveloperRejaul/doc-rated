@@ -1,0 +1,38 @@
+{
+  "doctor": [
+    {
+      "id": "867f7d63-cfe4-4a4c-9f16-11351c664335",
+      "departmentId": "4940a515-40ce-4c43-8f94-7d1d5b03eef0",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-shahnewaz-chowdhury/",
+      "imageId": "e685de6c-42a6-4003-a962-fa7c323efb58",
+      "name": "Prof. Dr. Md. Shahnewaz Chowdhury",
+      "degree": "MBBS, DA (DU), MCPS (Anesthesiology)",
+      "specialty": "Anesthesiology, Pain Management & Critical Care Medicine Specialist",
+      "workplace": "Sylhet Womens Medical College & Hospital",
+      "info": "Prof. Dr. Md. Shahnewaz Chowdhury is a Anesthesiologist in Sylhet. His qualification is MBBS, DA (DU), MCPS (Anesthesiology). He is a Consultant, Anesthesiology at Sylhet Womens Medical College & Hospital. He regularly provides treatment to his patients at Popular Medical Center, Sylhet. Practicing hour of Prof. Dr. Md. Shahnewaz Chowdhury at Popular Medical Center, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801842995065Call Now"
+      }
+    },
+    {
+      "id": "50cb8cd4-546a-4b09-864c-bec8d16d2891",
+      "departmentId": "4940a515-40ce-4c43-8f94-7d1d5b03eef0",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-khairul-bashar/",
+      "imageId": "026173d1-d6dd-428f-b4e9-2b06fdb543ee",
+      "name": "Dr. Muhammad Khairul Bashar",
+      "degree": "MBBS, BCS, DA, FIPM (India)",
+      "specialty": "Pain Specialist (Interventional Pain Medicine)",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Al-Raiyan Hospital, Sylhet Address: 129, New Medical Road, Madhushaheed, Sylhet Visiting Hour: 4pm to 8pm (Sun, Tue & Thu) Appointment: +8801835-424038 Call Now",
+      "chamber": {
+        "hospital": "Doctors Chamber",
+        "address": "Sattar Mansion (2nd Floor), Ahmmad Khan Road, Gopalganj, Sylhet",
+        "visitingTime": "4pm to 8pm (Sat, Mon & Wednesday)",
+        "appointmentNumber": "+8801719306464Call Now"
+      }
+    }
+  ]
+}

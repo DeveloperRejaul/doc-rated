@@ -1,0 +1,21 @@
+{
+  "doctor": [
+    {
+      "id": "d819da89-0999-46e6-91ff-01cdbe2bfd90",
+      "departmentId": "b4251960-941c-4400-b327-3fa777da186b",
+      "link": "https://www.doctorbangladesh.com/dr-md-imran-hossain/",
+      "imageId": "35aef3b7-8376-4bfb-82fd-967b95cc5a91",
+      "name": "Dr. Md. Imran Hossain",
+      "degree": "MBBS, MD (Hematology)",
+      "specialty": "Hematology (Blood Diseases, Blood Cancer) Specialist",
+      "workplace": "250 Bedded General Hospital, Pabna",
+      "info": "Shimla Hospital, Pabna Address: Shimla Tower, Thana Mor, Hospital Road, Pabna Visiting Hour: 5pm to 9pm (Closed: Friday) Appointment: +8801713228218 Call Now",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Pabna",
+        "address": "Beside Joy Kali Bari, Thana Road, Shalgaria, Pabna",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801766661901Call Now"
+      }
+    }
+  ]
+}

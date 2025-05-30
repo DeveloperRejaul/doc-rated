@@ -1,0 +1,55 @@
+{
+  "doctor": [
+    {
+      "id": "0ed6b0de-c87f-41a6-a58a-c14b11934dfa",
+      "departmentId": "db1c96e5-41e3-48e2-aced-adeb68ecfdd0",
+      "link": "https://www.doctorbangladesh.com/dr-md-jilhaj-uddin/",
+      "imageId": "1d0831e2-c834-498e-ab51-17d7b50a70bd",
+      "name": "Dr. Md. Jilhaj Uddin",
+      "degree": "MBBS, BCS (Health), MS (CVTS, NICVD)",
+      "specialty": "Heart, Chest & Vascular Surgeon",
+      "workplace": "Bangladesh Shishu Hospital & Institute",
+      "info": "Gazi Medical College & Hospital Address: A 19-20, Mojid Sororni, Sonadanga, Khulna-9100 Visiting Hour: 5pm to 9pm (Thursday), 10am to 1pm & 3pm to 6pm (Friday) Appointment: +8801755591384 Call Now",
+      "chamber": {
+        "hospital": "Universal Medical College & Hospital",
+        "address": "74G/75, New Airport Road, Mohakhali (Opposite of RAOWA), Dhaka",
+        "visitingTime": "5pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801755591384Call Now"
+      }
+    },
+    {
+      "id": "ac6f99eb-54ce-45e7-91d5-f36d8e474993",
+      "departmentId": "db1c96e5-41e3-48e2-aced-adeb68ecfdd0",
+      "link": "https://www.doctorbangladesh.com/dr-samir-azam/",
+      "imageId": "5934868e-c908-4f81-8598-eade966e680c",
+      "name": "Dr. Samir Azam (Sunny)",
+      "degree": "MBBS (RAJ), MS (CVTS), BSMMU",
+      "specialty": "Cardiac, Vascular & Thoracic Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Zainul Haque Sikder Women’s Medical College & Hospital Address: House # 05, Road # 104, Gulshan-2, Dhaka-1212 Visiting Hour: 5pm to 7pm (Closed: Friday) Appointment: +8801708524020 Call Now",
+      "chamber": {
+        "hospital": "Al-Helal Specialized & Cardiac Hospital",
+        "address": "150, Begum Rokeya Sarani, Senpara-Parbata, Mirpur-10, Dhaka",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801708524020Call Now"
+      }
+    },
+    {
+      "id": "b40f4c24-f1c3-4375-b858-790e78475412",
+      "departmentId": "db1c96e5-41e3-48e2-aced-adeb68ecfdd0",
+      "link": "https://www.doctorbangladesh.com/dr-s-m-zakir-khaled/",
+      "imageId": "ca55cd3c-9c7f-4409-89b1-99a25800ea2e",
+      "name": "Dr. S.M. Zakir Khaled",
+      "degree": "MBBS, MS (Cardiothoracic Surgery)",
+      "specialty": "Cardiothoracic Surgeon(Heart Bypass, Valve Replacement, Ventricular Septal Defect, Varicose Vein)",
+      "workplace": "Islami Bank Hospital & Cardiac Center, Mirpur",
+      "info": "Dr. S.M. Zakir Khaled is a highly skilled Cardiothoracic Surgeon in Dhaka, specializing in complex procedures such as heart bypass surgery, valve replacement, ventricular septal defect (VSD) repair, and varicose vein treatment. He holds an MBBS degree and an MS in Cardiothoracic Surgery, and currently serves as the Chief Cardiac Surgeon at Islami Bank Hospital & Cardiac Center, Mirpur. Dr. Zakir Khaled is dedicated to the surgical management of cardiovascular and thoracic diseases, providing expert care to patients suffering from conditions like coronary artery disease, heart valve disorders, congenital heart defects, and vascular problems. He consults at Islami Bank Hospital & Cardiac Center, Mirpur, located at Plot # 19-20, Main Road, Section # 7, Pallabi, Mirpur 12, Dhaka, with visiting hours from 10am to 7pm, closed on Fridays.",
+      "chamber": {
+        "hospital": "Islami Bank Hospital & Cardiac Center, Mirpur",
+        "address": "Plot # 19-20, Main Road, Section # 7, Pallabi, Mirpur 12, Dhaka",
+        "visitingTime": "10am to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801610964966Call Now"
+      }
+    }
+  ]
+}

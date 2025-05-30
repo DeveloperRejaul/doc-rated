@@ -1,0 +1,89 @@
+{
+  "doctor": [
+    {
+      "id": "b778f2a3-d14f-41e0-a568-f67df0c3503a",
+      "departmentId": "5b825819-8cd2-4462-9174-6ac1d59cbc92",
+      "link": "https://www.doctorbangladesh.com/prof-dr-ratan-chandra-saha/",
+      "imageId": "942c363b-8971-40a8-9921-f2aa2eeff05a",
+      "name": "Prof. Dr. Ratan Chandra Saha",
+      "degree": "MBBS, BCS (Health), DTCD (DU), PhD (Chest), DFM (UK), FCCP (USA), FWHO (Indonesia)",
+      "specialty": "Chest Diseases & Respiratory Medicine Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Prof. Dr. Ratan Chandra Saha is a Chest Diseases Specialist in Mymensingh. His qualification is MBBS, BCS (Health), DTCD (DU), PhD (Chest), DFM (UK), FCCP (USA), FWHO (Indonesia). He is a Professor & Head, Respiratory Medicine at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Mymensingh. Practicing hour of Prof. Dr. Ratan Chandra Saha at Popular Diagnostic Center, Mymensingh is 10am to 2pm (Sun & Wednesday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mymensingh",
+        "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+        "visitingTime": "10am to 2pm (Sun & Wednesday)",
+        "appointmentNumber": "+8809666787814Call Now"
+      }
+    },
+    {
+      "id": "013e17fa-9ee6-44c4-a5cf-69c18ffc32e5",
+      "departmentId": "5b825819-8cd2-4462-9174-6ac1d59cbc92",
+      "link": "https://www.doctorbangladesh.com/dr-md-delwar-jahan-khan/",
+      "imageId": "1388fcd6-f0c6-47f0-aaa7-bdf9d4009c80",
+      "name": "Dr. Md. Delwar Jahan Khan",
+      "degree": "MBBS, BCS (Health), DTCD (BSMMU), FCCP (USA), FCPS (Medicine)",
+      "specialty": "Chest Diseases & Respiratory Medicine Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Md. Delwar Jahan Khan is a Chest Diseases Specialist in Mymensingh. His qualification is MBBS, BCS (Health), DTCD (BSMMU), FCCP (USA), FCPS (Medicine). He is a Assistant Professor, Respiratory Medicine at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Mymensingh. Practicing hour of Dr. Md. Delwar Jahan Khan at Labaid Diagnostic, Mymensingh is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Mymensingh",
+        "address": "72, Charpara, Medical College Gate, Mymensingh",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801766663000Call Now"
+      }
+    },
+    {
+      "id": "10ee6049-7b17-4031-b0a6-634986239726",
+      "departmentId": "5b825819-8cd2-4462-9174-6ac1d59cbc92",
+      "link": "https://www.doctorbangladesh.com/dr-md-anisur-rahman-chest/",
+      "imageId": "135fc3b8-0be6-43ab-9170-05cdce2d41e8",
+      "name": "Dr. Md. Anisur Rahman",
+      "degree": "MBBS (Dhaka), BCS (Health), DTCD (Chest Diseases)",
+      "specialty": "Chest Diseases & Medicine Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Md. Anisur Rahman is a Chest Diseases Specialist in Mymensingh. His qualification is MBBS (Dhaka), BCS (Health), DTCD (Chest Diseases). He is a Assistant Professor & Head, Respiratory Medicine at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Sodesh Hospital, Mymensingh. Practicing hour of Dr. Md. Anisur Rahman at Sodesh Hospital, Mymensingh is 5pm to 7pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Sodesh Hospital, Mymensingh",
+        "address": "298/2, Maskanda (Bus Stand), Mymensingh - 2200",
+        "visitingTime": "5pm to 7pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809666777990Call Now"
+      }
+    },
+    {
+      "id": "3cad46ae-72a7-442b-9148-258d0b1fcedb",
+      "departmentId": "5b825819-8cd2-4462-9174-6ac1d59cbc92",
+      "link": "https://www.doctorbangladesh.com/dr-nabarun-biswas/",
+      "imageId": "ffdf998e-9a23-4cae-9d7c-4a44a3a4cabc",
+      "name": "Dr. Nabarun Biswas",
+      "degree": "MBBS, BCS (Health), MD (Chest Diseases)",
+      "specialty": "Chest Diseases Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Nabarun Biswas is a Chest Diseases Specialist in Mymensingh. His qualification is MBBS, BCS (Health), MD (Chest Diseases). He is a Medical Officer, Respiratory Medicine at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Mymensingh. Practicing hour of Dr. Nabarun Biswas at Popular Diagnostic Center, Mymensingh is 5pm to 8:30pm (Everyday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mymensingh",
+        "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+        "visitingTime": "5pm to 8:30pm (Everyday)",
+        "appointmentNumber": "+8809666787814Call Now"
+      }
+    },
+    {
+      "id": "e0d47f93-e8e5-40ad-b533-0a86d6061e6e",
+      "departmentId": "5b825819-8cd2-4462-9174-6ac1d59cbc92",
+      "link": "https://www.doctorbangladesh.com/dr-s-m-sharif-uddin-pathan/",
+      "imageId": "d514bd9f-78d3-46c7-861d-a029f1ac94a7",
+      "name": "Dr. S. M. Sharif Uddin Pathan",
+      "degree": "MBBS (Dhaka), BCS (Health), DTCD (Chest Diseases), MD (Cardiology)",
+      "specialty": "Asthma, Chest Diseases & Cardiology Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Popular Diagnostic Center, MymensinghAddress: 171, Charpara, Medical College Gate, Mymensingh – 2200Visiting Hour: 3:30pm to 8pm (Closed: Thursday & Friday)Appointment: +8809666787814Call Now",
+      "chamber": {
+        "hospital": "Delta Health Care, Mymensingh",
+        "address": "55/5, Medical College Gate, Charpara, Mymensingh",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801847158301Call Now"
+      }
+    }
+  ]
+}

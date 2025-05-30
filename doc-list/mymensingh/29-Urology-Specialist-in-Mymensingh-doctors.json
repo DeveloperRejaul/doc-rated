@@ -1,0 +1,55 @@
+{
+  "doctor": [
+    {
+      "id": "e832a4d6-fcbc-489d-af52-748a5d038d28",
+      "departmentId": "3a692da6-b3ac-4c62-a04a-6813e9fdc52c",
+      "link": "https://www.doctorbangladesh.com/dr-mrinal-kanti-roy/",
+      "imageId": "bb6735cc-2baa-4f5f-8842-2e56cd171f4f",
+      "name": "Prof. Dr. Mrinal Kanti Roy",
+      "degree": "MBBS, FCPS (Surgery), MS (Urology)",
+      "specialty": "Urology (Kidney, Ureters, Bladder, Prostate) Specialist & Surgeon",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Prof. Dr. Mrinal Kanti Roy is a Urologist in Mymensingh. His qualification is MBBS, FCPS (Surgery), MS (Urology). He is a Former Professor & Head, Urology at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Mymensingh. Practicing hour of Prof. Dr. Mrinal Kanti Roy at Popular Diagnostic Center, Mymensingh is 11am to 2pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mymensingh",
+        "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+        "visitingTime": "11am to 2pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787814Call Now"
+      }
+    },
+    {
+      "id": "439d5ee2-3b2d-4e6e-90a2-441b867fac50",
+      "departmentId": "3a692da6-b3ac-4c62-a04a-6813e9fdc52c",
+      "link": "https://www.doctorbangladesh.com/dr-md-afzalur-rahman/",
+      "imageId": "245add59-edf5-4e46-b38a-0020309af471",
+      "name": "Dr. Md. Afzalur Rahman",
+      "degree": "MBBS, BCS (Health), MS (Urology), URC (Singapore)",
+      "specialty": "Urology Specialist & Laparoscopic Surgeon",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Dr. Md. Afzalur Rahman is a Urologist in Mymensingh. His qualification is MBBS, BCS (Health), MS (Urology), URC (Singapore). He is a Assistant Professor, Urology at Mymensingh Medical College & Hospital. He regularly provides treatment to his patients at Sodesh Hospital, Mymensingh. Practicing hour of Dr. Md. Afzalur Rahman at Sodesh Hospital, Mymensingh is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Sodesh Hospital, Mymensingh",
+        "address": "298/2, Maskanda (Bus Stand), Mymensingh - 2200",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809666777990Call Now"
+      }
+    },
+    {
+      "id": "ce26a788-52da-44f0-aec4-46e9e63c8092",
+      "departmentId": "3a692da6-b3ac-4c62-a04a-6813e9fdc52c",
+      "link": "https://www.doctorbangladesh.com/dr-md-fazlul-haq-siddique/",
+      "imageId": "97413e8e-6236-471d-952b-a4ddffd69ada",
+      "name": "Dr. Md. Fazlul Haq Siddique",
+      "degree": "MBBS, MS (Urology)",
+      "specialty": "Urology (Kidney, Ureters, Bladder, Prostate) Specialist & Surgeon",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Nexus Hospital, Mymensingh Address: 29, Sehora, Mymensingh Sadar, Mymensingh – 2200 Visiting Hour: Unknown. Please call to know visiting hour Appointment: +8801796586561 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mymensingh",
+        "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
+        "visitingTime": "5pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809666787814Call Now"
+      }
+    }
+  ]
+}

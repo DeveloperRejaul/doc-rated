@@ -16,8 +16,19 @@ export default class Bot  {
   async init (): Promise<void> {
     try {
       this.browser = await puppeteer.launch({
-        headless:true,
+        headless:false,
         defaultViewport: null,
+        // args: [
+        //   '--no-sandbox',
+        //   '--disable-setuid-sandbox',
+        //   '--disable-dev-shm-usage',
+        //   '--disable-accelerated-2d-canvas',
+        //   '--disable-gpu',
+        //   '--no-first-run',
+        //   '--no-zygote',
+        //   '--single-process',
+        //   '--disable-extensions'
+        // ],
       });
     } catch (error) {
       console.log(error);
@@ -36,7 +47,7 @@ export default class Bot  {
         const page = await this.browser.newPage();
   
         // Load HTML using data URI
-        await page.goto(`https://www.doctorbangladesh.com/doctors-${element}/`, { waitUntil: 'domcontentloaded' , });
+        await page.goto(`https://www.doctorbangladesh.com/doctors-${element}/`, { waitUntil: 'domcontentloaded'});
   
   
         // Extract department data
@@ -163,9 +174,9 @@ export default class Bot  {
     } catch{
       const data = await pFs.readFile('errorLinks.json', 'utf-8');
       const prevErrors = JSON.parse(data);
-      prevErrors.errors.push({ link:profileLink, district, fileId });
+      prevErrors.errors.push({ link:profileLink, district, fileId ,departmentId});
       await pFs.writeFile('errorLinks.json', JSON.stringify(prevErrors, null, 2));
-      console.error({ link:profileLink, district, fileId });
+      console.error({ link:profileLink, district, fileId,departmentId });
       await page?.close();
     }
   } 
@@ -259,5 +270,68 @@ export default class Bot  {
         resolve(true);
       }, ms);
     });
+  }
+
+  async handleLinkErrors () {
+    try {
+      if(!this.browser){
+        return console.log('please init ')
+      }
+      const linkErrors = await pFs.readFile('errorLinks.json', 'utf-8');
+      const linkErrorsData = JSON.parse(linkErrors);
+      // handle Links errors
+      if(linkErrorsData.errors.length > 0) {
+        for (let i = 0; i < linkErrorsData.errors.length; i++) {
+          const errorObj = linkErrorsData.errors.pop();
+          const docList = await pFs.readFile(`${errorObj.fileId}.json`, 'utf-8');
+          const docListData = JSON.parse(docList);
+          const data =  await this.getDoctorProfileDetails(errorObj.link, errorObj.district, this.generateUUIDv4(),  errorObj.departmentId);
+          docListData.doctor.push(data)
+          await pFs.writeFile(`${errorObj.fileId}.json`, JSON.stringify(docListData,  null, 2), 'utf-8');
+        }
+        // await pFs.writeFile('errorLinks.json', JSON.stringify(linkErrorsData,  null, 2), 'utf-8');
+        await this.browser.close()
+      }
+      // handleImage errors
+    } catch (error) {
+      console.log(error);
+      
+    }
+  }
+
+  async handleImageError () {
+    try {
+      if(!this.browser){
+        return console.log('please init ')
+      }
+      const imageErrors = await pFs.readFile('imageError.json', 'utf-8');
+      const imageErrorsData = JSON.parse(imageErrors);
+
+      for (let index = 0; index < imageErrorsData.errors.length; index++) {
+        const errorObj = imageErrorsData.errors.pop()
+        const page = await this.browser.newPage()
+        await page.goto(errorObj.link, { waitUntil: 'domcontentloaded'});
+        await this.downloadProfileImage(page, errorObj.link)
+      }
+      // await pFs.writeFile('imageError.json', JSON.stringify(imageErrorsData,  null, 2), 'utf-8');
+      await this.browser.close()
+    } catch (error) {
+      console.log(error);
+    }
+  }
+
+  async makeSingleDocFile(cv?:(doc:Doctor)=>Record<string, string>) {
+    const docRootPath= process.cwd() + '/doc-list'
+    const allDistrictList = fs.readdirSync(docRootPath);
+    const allDoctors:Doctor[] =[]
+    for (const district of allDistrictList) {
+      const files = fs.readdirSync(`${docRootPath}/${district}`);
+      files.forEach(file=>{
+        const docs = JSON.parse(fs.readFileSync(path.join(docRootPath, district,file), 'utf-8'));
+        const newDocs = docs.doctor.map((doc:Doctor) => ({...doc, ...cv?.(doc)}))
+        allDoctors.push(...newDocs)
+      })
+    }
+    await pFs.writeFile('doctors.json', JSON.stringify({ doctor: allDoctors }, null, 2),  'utf-8');
   }
 }

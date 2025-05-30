@@ -1,0 +1,21 @@
+{
+  "doctor": [
+    {
+      "id": "260f6403-a708-4354-aa23-4a9403c49c17",
+      "departmentId": "56e0220e-6f0d-4cf7-923a-01a12b5b0a79",
+      "link": "https://www.doctorbangladesh.com/dr-s-m-jalal-uddin/",
+      "imageId": "50fc045e-a23f-4532-a1c7-303e001f84f1",
+      "name": "Dr. S.M. Jalal Uddin",
+      "degree": "MBBS, DA",
+      "specialty": "Anaesthesia & ICU Specialist",
+      "workplace": "Shafait General Hospital & ICU, Barisal",
+      "info": "Dr. S.M. Jalal Uddin is a Anesthesiologist in Barisal. His qualification is MBBS, DA. He is the Owner, Anesthesiology of at Shafait General Hospital & ICU, Barisal. He regularly provides treatment to his patients at Shafait General Hospital & ICU, Barisal. Practicing hour of Dr. S.M. Jalal Uddin at Shafait General Hospital & ICU, Barisal is 9am to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Shafait General Hospital & ICU, Barisal",
+        "address": "Club Road, Barisal",
+        "visitingTime": "9am to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801794808081Call Now"
+      }
+    }
+  ]
+}

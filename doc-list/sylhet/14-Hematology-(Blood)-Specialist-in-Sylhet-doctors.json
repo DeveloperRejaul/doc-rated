@@ -1,0 +1,38 @@
+{
+  "doctor": [
+    {
+      "id": "486d1d9c-a67e-450b-8657-26a7291ecae3",
+      "departmentId": "68927331-d97e-464f-b438-3c092324c7f9",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-nazmul-islam/",
+      "imageId": "ea322e27-3428-45fc-8556-d49cc22a2034",
+      "name": "Dr. Mohammad Nazmul Islam",
+      "degree": "MBBS, BCS (Health), MD (Hematology), BSMMU",
+      "specialty": "Blood Diseases & Cancer Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Mohammad Nazmul Islam is a Hematologist in Sylhet. His qualification is MBBS, BCS (Health), MD (Hematology), BSMMU. He is a Consultant, Hepatology at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Dr. Mohammad Nazmul Islam at Mount Adora Hospital, Akhalia, Sylhet is 3pm to 5pm (Sun, Tue & Thursday) & 5pm to 8pm (Sat, Mon & Wednesday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "3pm to 5pm (Sun, Tue & Thursday) & 5pm to 8pm (Sat, Mon & Wednesday)",
+        "appointmentNumber": "+8801309336030Call Now"
+      }
+    },
+    {
+      "id": "72c56b1e-e84b-4bb3-ae13-be1c86a77d45",
+      "departmentId": "68927331-d97e-464f-b438-3c092324c7f9",
+      "link": "https://www.doctorbangladesh.com/dr-abu-yousuf-md-nazim-uddin/",
+      "imageId": "3e5d7a5a-98c9-4cbd-882b-e442d2ec719a",
+      "name": "Dr. Abu Yousuf Md. Nazim Uddin",
+      "degree": "MBBS, FCPS (Hematology), CCD (Diabetology)",
+      "specialty": "Blood Diseases, Blood Cancer & Hematology Specialist",
+      "workplace": "North East Medical College & Hospital",
+      "info": "Dr. Abu Yousuf Md. Nazim Uddin is a Hematologist in Sylhet. His qualification is MBBS, FCPS (Hematology), CCD (Diabetology). He is a Registrar, Hepatology at North East Medical College & Hospital. He regularly provides treatment to his patients at North East Medical College & Hospital. Practicing hour of Dr. Abu Yousuf Md. Nazim Uddin at North East Medical College & Hospital is 10am to 1.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "North East Medical College & Hospital",
+        "address": "Gohorpur Road, South Surma, Sylhet - 3100",
+        "visitingTime": "10am to 1.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801715944733Call Now"
+      }
+    }
+  ]
+}

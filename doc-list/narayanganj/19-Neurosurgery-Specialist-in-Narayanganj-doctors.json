@@ -1,0 +1,55 @@
+{
+  "doctor": [
+    {
+      "id": "d9ff014e-eea0-47a2-a6a8-baf2dabbae94",
+      "departmentId": "16bfae01-f69e-4a82-a5de-7fa9d1cbbf58",
+      "link": "https://www.doctorbangladesh.com/dr-md-bashir-ahammed/",
+      "imageId": "5d74069f-77a1-40d6-a3ff-4bcf0a004875",
+      "name": "Dr. Md. Bashir Ahammed Khan",
+      "degree": "MBBS (SSMC), BCS (Health), MS (Neurosurgery, BSMMU), Specially Trained (Turkey, India)",
+      "specialty": "Brain, Spine, Nerve, Stroke & Surgeon",
+      "workplace": "National Institute of Neurosciences & Hospital",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, B.B. Road, Chashara, Narayanganj – 1400 Visiting Hour: 4pm to 7pm (Thursday), 10am to 12pm (Friday) Appointment: +8801894234300 Call Now",
+      "chamber": {
+        "hospital": "Comfort Diagnostic Center, Dhanmondi",
+        "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "7pm to 9:30pm (Closed: Friday)",
+        "appointmentNumber": "+8801731956033Call Now"
+      }
+    },
+    {
+      "id": "2b6ce44f-6f9e-4be8-85a5-6075e9373fe0",
+      "departmentId": "16bfae01-f69e-4a82-a5de-7fa9d1cbbf58",
+      "link": "https://www.doctorbangladesh.com/dr-md-mainul-islam-murad/",
+      "imageId": "0238cb1e-1e6d-47f2-9ba6-deeeeef62caa",
+      "name": "Dr. Md. Mainul Islam Murad",
+      "degree": "MBBS (DMC), MS (Neurosurgery), Special Training in Endovascular (India)",
+      "specialty": "Neurosurgery (Brain & Spine Surgery) Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Modern Diagnostic Center, Narayanganj Address: 207, Bangabandhu Road, Chashara, Narayanganj – 1400 Visiting Hour: 5pm to 9pm (Sat & Thu) Appointment: +8801820842293 Call Now",
+      "chamber": {
+        "hospital": "Authentic Diagnostic & Consultation Center",
+        "address": "House # 71/4, Hoseni Dalan Road, Chankharpul, Dhaka",
+        "visitingTime": "5pm to 9pm (Sun, Mon, Wed & Tue)",
+        "appointmentNumber": "+8801890924997Call Now"
+      }
+    },
+    {
+      "id": "1115ac8b-7e08-40ea-9a30-a2bd0eebf8e2",
+      "departmentId": "16bfae01-f69e-4a82-a5de-7fa9d1cbbf58",
+      "link": "https://www.doctorbangladesh.com/dr-md-rafiqul-islam-neurosurgery/",
+      "imageId": "7642614d-3678-40a8-8620-076c1e0f988f",
+      "name": "Dr. Md. Rafiqul Islam",
+      "degree": "MBBS, MS (Neurosurgery)",
+      "specialty": "Brain, Nerve, Spine & Neurosurgeon",
+      "workplace": "National Institute of Neurosciences & Hospital",
+      "info": "Dr. Md. Rafiqul Islam is a Neurosurgeon in Narayanganj. His qualification is MBBS, MS (Neurosurgery). He is a Assistant Professor, Neurosurgery at National Institute of Neurosciences & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Md. Rafiqul Islam at Popular Diagnostic Center, Narayanganj is 6pm to 8pm (Only Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "6pm to 8pm (Only Friday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    }
+  ]
+}

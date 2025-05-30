@@ -1,0 +1,89 @@
+{
+  "doctor": [
+    {
+      "id": "ae0ab83e-ae24-4b5b-aab8-e93868139f31",
+      "departmentId": "09b89838-44d0-48ba-a191-132323f71061",
+      "link": "https://www.doctorbangladesh.com/dr-refaz-uddin/",
+      "imageId": "6b9526ce-30e8-4906-9372-cbe685fce005",
+      "name": "Dr. Refaz Uddin",
+      "degree": "MBBS, MD (Cardiology)",
+      "specialty": "Cardiology (Heart Diseases, Hypertension, Rheumatic Fever) Specialist",
+      "workplace": "Kushtia Medical College & Hospital",
+      "info": "Dr. Refaz Uddin is a Cardiologist in Kushtia. His qualification is MBBS, MD (Cardiology). He is an Assistant Professor, Cardiology at Kushtia Medical College & Hospital. He regularly provides treatment to his patients at Sono Diagnostic Center, Kushtia. Practicing hour of Dr. Refaz Uddin at Sono Diagnostic Center, Kushtia is 3pm to 8pm (Sat to Thu), 9am to 3pm (Friday).",
+      "chamber": {
+        "hospital": "Sono Diagnostic Center, Kushtia",
+        "address": "Sono Tower, College Mor, Court Para, Kushtia",
+        "visitingTime": "3pm to 8pm (Sat to Thu), 9am to 3pm (Friday)",
+        "appointmentNumber": "+8801790441566Call Now"
+      }
+    },
+    {
+      "id": "77c6f5a9-48a4-48eb-a535-211868c6f83c",
+      "departmentId": "09b89838-44d0-48ba-a191-132323f71061",
+      "link": "https://www.doctorbangladesh.com/dr-md-nasimul-bari-bappi/",
+      "imageId": "7380a50d-d959-4f2c-8981-ff1f68777a24",
+      "name": "Dr. Md. Nasimul Bari (Bappi)",
+      "degree": "MBBS, D-CARD (DU), MD (Cardiology)",
+      "specialty": "Cardiology (Heart Diseases, Hypertension, Rheumatic Fever) Specialist",
+      "workplace": "Kushtia Medical College & Hospital",
+      "info": "Dr. Md. Nasimul Bari (Bappi) is a Cardiologist in Kushtia. His qualification is MBBS, D-CARD (DU), MD (Cardiology). He is a Assistant Professor, Cardiology at Kushtia Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Centre, Kushtia. Practicing hour of Dr. Md. Nasimul Bari (Bappi) at Popular Diagnostic Centre, Kushtia is 2:30pm to 8pm (Sat, Tue, Wed & Thursday), 9am to 8pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Centre, Kushtia",
+        "address": "City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia",
+        "visitingTime": "2:30pm to 8pm (Sat, Tue, Wed & Thursday), 9am to 8pm (Friday)",
+        "appointmentNumber": "+8809666787817Call Now"
+      }
+    },
+    {
+      "id": "ea07bdb4-c2c3-44c3-b272-f083e8fbda4a",
+      "departmentId": "09b89838-44d0-48ba-a191-132323f71061",
+      "link": "https://www.doctorbangladesh.com/dr-abu-sayed-md-mortoza/",
+      "imageId": "86120741-180e-4011-8da4-c23774798546",
+      "name": "Dr. Abu Sayed Md. Mortoza",
+      "degree": "MBBS, D-CARD (NICVD), MD (CARDIOLOGY)",
+      "specialty": "Cardiology, Hypertension, Rheumatic Fever & Medicine Specialist",
+      "workplace": "Kushtia Medical College & Hospital",
+      "info": "Dr. Abu Sayed Md. Mortoza is a Cardiologist in Kushtia. His qualification is MBBS, D-CARD (NICVD), MD (CARDIOLOGY). He is a Assistant Professor, Cardiology at Kushtia Medical College & Hospital. He regularly provides treatment to his patients at Sono Consultation Center, Kushtia. Practicing hour of Dr. Abu Sayed Md. Mortoza at Sono Consultation Center, Kushtia is 2.30pm to 5.30pm (Everyday).",
+      "chamber": {
+        "hospital": "Sono Consultation Center, Kushtia",
+        "address": "Sono Tower 2, Court Para, Kushtia, Bangladesh",
+        "visitingTime": "2.30pm to 5.30pm (Everyday)",
+        "appointmentNumber": "+8801770997352Call Now"
+      }
+    },
+    {
+      "id": "dbd3b8af-2b5e-461c-95d8-6fe259d579f8",
+      "departmentId": "09b89838-44d0-48ba-a191-132323f71061",
+      "link": "https://www.doctorbangladesh.com/dr-md-sirajum-munir/",
+      "imageId": "7391cfe1-aa54-4b1e-abe7-8ecb161c0f40",
+      "name": "Dr. Md. Sirajum Munir",
+      "degree": "MBBS, BCS (Health), MD (Cardiology)",
+      "specialty": "Heart Diseases, Medicine, Hypertension, Rheumatic Fever Specialist",
+      "workplace": "Kushtia Medical College & Hospital",
+      "info": "Dr. Md. Sirajum Munir is a Cardiologist in Kushtia. His qualification is MBBS, BCS (Health), MD (Cardiology). He is a Assistant Professor, Cardiology at Kushtia Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Centre, Kushtia. Practicing hour of Dr. Md. Sirajum Munir at Popular Diagnostic Centre, Kushtia is 2pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Centre, Kushtia",
+        "address": "City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia",
+        "visitingTime": "2pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787817Call Now"
+      }
+    },
+    {
+      "id": "4b7c36a4-a863-4ca1-a613-d65c65414863",
+      "departmentId": "09b89838-44d0-48ba-a191-132323f71061",
+      "link": "https://www.doctorbangladesh.com/dr-abdullah-al-masud-cardiology/",
+      "imageId": "7543f5c2-346f-44c4-bad0-e6e1c8ed3829",
+      "name": "Dr. Abdullah Al Masud",
+      "degree": "MBBS (DMC), MD (CARDIOLOGY)",
+      "specialty": "Cardiology, Hypertension & Rheumatic Fever Specialist",
+      "workplace": "Kushtia Medical College & Hospital",
+      "info": "Dr. Abdullah Al Masud is a Cardiologist in Kushtia. His qualification is MBBS (DMC), MD (CARDIOLOGY). He is a Assistant Professor, Cardiology at Kushtia Medical College & Hospital. He regularly provides treatment to his patients at Amin Diagnostic & Medical Services, Kushtia. Practicing hour of Dr. Abdullah Al Masud at Amin Diagnostic & Medical Services, Kushtia is 5pm to 8pm (Closed: Thursday).",
+      "chamber": {
+        "hospital": "Amin Diagnostic & Medical Services, Kushtia",
+        "address": "Ram Chandra Ray Chowdhury Road, College Mor, Court Para, Kushtia",
+        "visitingTime": "5pm to 8pm (Closed: Thursday)",
+        "appointmentNumber": "+8801712243514Call Now"
+      }
+    }
+  ]
+}

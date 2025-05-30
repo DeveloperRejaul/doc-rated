@@ -1,0 +1,191 @@
+{
+  "doctor": [
+    {
+      "id": "6a69d291-7e00-4a89-8b56-bd7b0fae7ef2",
+      "departmentId": "18e603c4-d7d4-4c8f-ada7-049b238753d8",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdul-awal/",
+      "imageId": "a138c64c-98fe-42ae-9438-643f5006e5a9",
+      "name": "Dr. Md. Abdul Awal",
+      "degree": "MBBS, BCS (Health), MS (Ortho Surgery), Fellowship in Spine Surgery (Korea)",
+      "specialty": "Orthopedics (Bone, Joint, Arthritis, Trauma) & Spine Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Rajshahi Address: House # 474, Chowdhury Tower, Laxmipur, Rajshahi Visiting Hour: 2:30pm to 8pm (Closed: Friday) Appointment: +8809666787811 Call Now",
+      "chamber": {
+        "hospital": "Shafique Hospital, Pabna",
+        "address": "Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna",
+        "visitingTime": "3pm to 8pm (Only Friday)",
+        "appointmentNumber": "+8801701654390Call Now"
+      }
+    },
+    {
+      "id": "ac035491-6a8c-49bd-909d-0350a9162bf1",
+      "departmentId": "18e603c4-d7d4-4c8f-ada7-049b238753d8",
+      "link": "https://www.doctorbangladesh.com/dr-md-hamidul-islam/",
+      "imageId": "feb28a24-b2d3-41dd-a9d1-1b80e913fd2e",
+      "name": "Dr. Md. Hamidul Islam",
+      "degree": "MBBS, BCS (Health), MS (Ortho Surgery)",
+      "specialty": "Orthopedics Specialist & Surgeon",
+      "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+      "info": "Assort Specialised Hospital, Pabna Address: Beside Mujahid Club, Dhaka Road, East Shalgaria, Pabna Visiting Hour: 5pm to 10pm (Thursday), 9am to 5pm (Friday) Appointment: +8801322931500 Call Now",
+      "chamber": {
+        "hospital": "Comfort Diagnostic Center, Dhanmondi",
+        "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "6pm to 9pm (Sat to Wed)",
+        "appointmentNumber": "+8801731956033Call Now"
+      }
+    },
+    {
+      "id": "07e5f09f-4325-4310-8537-a4581694400e",
+      "departmentId": "18e603c4-d7d4-4c8f-ada7-049b238753d8",
+      "link": "https://www.doctorbangladesh.com/dr-masudur-rahman-prince/",
+      "imageId": "faf544c1-a86f-4b08-a648-a33280c80993",
+      "name": "Dr. Md. Masudur Rahman (Prince)",
+      "degree": "MBBS, BCS (Health), MS (ORTHO)",
+      "specialty": "Bone Joint, Orthopedics Specialist & Trauma Surgeon",
+      "workplace": "Pabna Medical College & Hospital",
+      "info": "Dr. Prince is a Orthopedic Surgeon in Pabna. His qualification is MBBS, BCS (Health), MS (ORTHO). He is a Associate Professor, Orthopedic Surgery at Pabna Medical College & Hospital. He regularly provides treatment to his patients at Central Hospital, Pabna. Practicing hour of Dr. Md. Masudur Rahman (Prince) at Central Hospital, Pabna is 3pm to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Central Hospital, Pabna",
+        "address": "South Side of Sadar Hospital Gate, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "3pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801322912612Call Now"
+      }
+    },
+    {
+      "id": "7ded2777-36b5-49aa-8b46-f53810d93c77",
+      "departmentId": "18e603c4-d7d4-4c8f-ada7-049b238753d8",
+      "link": "https://www.doctorbangladesh.com/dr-m-a-taleb/",
+      "imageId": "7aba3fb0-4436-4a7b-bc2d-bb1bfef33df5",
+      "name": "Dr. Md. Abu Taleb",
+      "degree": "MBBS, BCS (Health), D-ORTHO (NITOR)",
+      "specialty": "Orthopedics, Bone, Joint, Trauma Specialist & Surgeon",
+      "workplace": "Pabna Medical College & Hospital",
+      "info": "Dr. Md. Abu Taleb is a Orthopedic Surgeon in Pabna. His qualification is MBBS, BCS (Health), D-ORTHO (NITOR). He is a Consultant, Orthopedics at Pabna Medical College & Hospital. He regularly provides treatment to his patients at City Diagnostic Center, Pabna. Practicing hour of Dr. Md. Abu Taleb at City Diagnostic Center, Pabna is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "City Diagnostic Center, Pabna",
+        "address": "Beside TB Hospital, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801757204642Call Now"
+      }
+    },
+    {
+      "id": "4ed156af-e0f7-499d-98b4-778a797bcfd8",
+      "departmentId": "18e603c4-d7d4-4c8f-ada7-049b238753d8",
+      "link": "https://www.doctorbangladesh.com/dr-md-aksad-al-masur-anan/",
+      "imageId": "74ff190d-43f1-496e-b8ac-518381f547dd",
+      "name": "Dr. Md. Aksad Al Masur Anan",
+      "degree": "MBBS, MS (ORTHO), MRCS (UK), FOS (Thailand)",
+      "specialty": "Orthopedics, Bone, Joint, Injury, Trauma Specialist & Surgeon",
+      "workplace": "Pabna Medical College & Hospital",
+      "info": "Dr. Md. Aksad Al Masur Anan is a Orthopedic Specialist in Pabna. His qualification is MBBS, MS (ORTHO), MRCS (UK), FOS (Thailand). He is a Consultant, Orthopedics at Pabna Medical College & Hospital. He regularly provides treatment to his patients at Shimla Hospital, Pabna. Practicing hour of Dr. Md. Aksad Al Masur Anan at Shimla Hospital, Pabna is 4pm to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Shimla Hospital, Pabna",
+        "address": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
+        "visitingTime": "4pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801713228218Call Now"
+      }
+    },
+    {
+      "id": "234fc95f-9f2a-4000-88f3-450ac94ea949",
+      "departmentId": "18e603c4-d7d4-4c8f-ada7-049b238753d8",
+      "link": "https://www.doctorbangladesh.com/dr-md-rashedul-haque/",
+      "imageId": "b1e225cb-195e-458f-a87f-2e7a24cb9a4a",
+      "name": "Dr. Md. Rashedul Haque",
+      "degree": "MBBS, BCS (Health), MS (Ortho Surgery)",
+      "specialty": "Bone-Joint, Arthritis, Injury, Trauma Specialist & Surgeon",
+      "workplace": "250 Bedded General Hospital, Pabna",
+      "info": "Shafique Hospital, Pabna Address: Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna Visiting Hour: 2.30pm to 4pm (Closed: Friday) Appointment: +8801701654390 Call Now",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Pabna",
+        "address": "Beside Joy Kali Bari, Thana Road, Shalgaria, Pabna",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801766661901Call Now"
+      }
+    },
+    {
+      "id": "97d914bb-6df1-46be-a47d-b72667983178",
+      "departmentId": "18e603c4-d7d4-4c8f-ada7-049b238753d8",
+      "link": "https://www.doctorbangladesh.com/dr-md-hasanusjaman-tutul/",
+      "imageId": "c5695bf9-7b5b-4764-8144-d9740d5586a5",
+      "name": "Dr. Md. Hasanusjaman Tutul",
+      "degree": "MBBS, BCS (Health), MS (ORTHO)",
+      "specialty": "Orthopedics (Bone, Joint, Trauma, Sports Injury) Specialist & Surgeon",
+      "workplace": "250 Bedded General Hospital, Pabna",
+      "info": "Dr. Md. Hasanusjaman Tutul is a Orthopedic Surgeon in Pabna. His qualification is MBBS, BCS (Health), MS (ORTHO). He is a Medical Officer, Orthopedic Surgery at 250 Bedded General Hospital, Pabna. He regularly provides treatment to his patients at Fair Hospital & Diagnostic Center, Pabna. Practicing hour of Dr. Md. Hasanusjaman Tutul at Fair Hospital & Diagnostic Center, Pabna is 3pm to 8pm (Everyday).",
+      "chamber": {
+        "hospital": "Fair Hospital & Diagnostic Center, Pabna",
+        "address": "Beside Pabna TB Hospital, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "3pm to 8pm (Everyday)",
+        "appointmentNumber": "+8801731326134Call Now"
+      }
+    },
+    {
+      "id": "1afcf278-4f9f-4ab7-bcfb-247a54ef1871",
+      "departmentId": "18e603c4-d7d4-4c8f-ada7-049b238753d8",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-reazul-haque-reza/",
+      "imageId": "d9e28c55-a096-4a4e-aa9b-260e189632dd",
+      "name": "Prof. Dr. Md. Reazul Haque (Reza)",
+      "degree": "MBBS, D-ORTHO, MS (ORTHO)",
+      "specialty": "Orthopedics (Bone, Joint, Arthritis, Trauma) Specialist & Surgeon",
+      "workplace": "Pabna Medical College & Hospital",
+      "info": "Prof. Dr. Md. Reazul Haque (Reza) is a Orthopedic Surgeon in Pabna. His qualification is MBBS, D-ORTHO, MS (ORTHO). He is a Professor, Orthopedic Surgery at Pabna Medical College & Hospital. He regularly provides treatment to his patients at Jalal Memorial Hospital, Pabna. Practicing hour of Prof. Dr. Md. Reazul Haque (Reza) at Jalal Memorial Hospital, Pabna is 11am to 1pm & 6pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Jalal Memorial Hospital, Pabna",
+        "address": "Godaun Mor, Hospital Road, Shalgaria, Pabna - 6600",
+        "visitingTime": "11am to 1pm & 6pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801743708079Call Now"
+      }
+    },
+    {
+      "id": "941e4f95-8b70-4d2b-b1ac-81c208fe66f8",
+      "departmentId": "18e603c4-d7d4-4c8f-ada7-049b238753d8",
+      "link": "https://www.doctorbangladesh.com/dr-md-jahedi-hasan-rumi/",
+      "imageId": "da02f3e6-afdf-4e22-a17e-8721562be270",
+      "name": "Dr. Md. Jahedi Hasan Rumi",
+      "degree": "MBBS, D-ORTHO",
+      "specialty": "Orthopedic (Bone, Joint, Arthritis) Specialist & Trauma Surgeon",
+      "workplace": "250 Bedded General Hospital, Pabna",
+      "info": "Dr. Md. Jahedi Hasan Rumi is a Orthopedics Specialist in Pabna. His qualification is MBBS, D-ORTHO. He is a Consultant, Orthopedic Surgery at 250 Bedded General Hospital, Pabna. He regularly provides treatment to his patients at Central Hospital, Pabna. Practicing hour of Dr. Md. Jahedi Hasan Rumi at Central Hospital, Pabna is 3pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Central Hospital, Pabna",
+        "address": "South Side of Sadar Hospital Gate, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "3pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801322912612Call Now"
+      }
+    },
+    {
+      "id": "20904569-eff3-4766-8422-2a4f20703cb8",
+      "departmentId": "18e603c4-d7d4-4c8f-ada7-049b238753d8",
+      "link": "https://www.doctorbangladesh.com/dr-hasan-al-habib-sagor/",
+      "imageId": "9fda41e5-249d-491c-b316-62e31d07f3ae",
+      "name": "Dr. Hasan Al Habib Sagor",
+      "degree": "MBBS, MS (ORTHO)",
+      "specialty": "Orthopedics & Pediatric Orthopedics Specialist",
+      "workplace": "Pabna Medical College & Hospital",
+      "info": "Dr. Hasan Al Habib Sagor is a Orthopedic Surgeon in Pabna. His qualification is MBBS, MS (ORTHO). He is a Consultant, Orthopedics at Pabna Medical College & Hospital. He regularly provides treatment to his patients at Akota Diagnostic Center, Pabna. Practicing hour of Dr. Hasan Al Habib Sagor at Akota Diagnostic Center, Pabna is 4pm to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Akota Diagnostic Center, Pabna",
+        "address": "Sadar Hospital Gate, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "4pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801701787870Call Now"
+      }
+    },
+    {
+      "id": "653fca69-ffc4-4a5e-ac14-ed71b22703df",
+      "departmentId": "18e603c4-d7d4-4c8f-ada7-049b238753d8",
+      "link": "https://www.doctorbangladesh.com/dr-a-h-m-ibrahim/",
+      "imageId": "c61f34c0-ec52-4123-8f04-e879b151b1af",
+      "name": "Dr. A.H.M Ibrahim",
+      "degree": "MBBS, BCS (Health), MS (Orthopedic Surgery)",
+      "specialty": "Orthopedics (Bone, Joint, Spine) Specialist & Trauma Surgeon",
+      "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+      "info": "Dr. A.H.M Ibrahim is a Orthopedic Surgeon in Pabna. His qualification is MBBS, BCS (Health), MS (Orthopedic Surgery). He is a Consultant (Orthopedics) at National Institute of Traumatology & Orthopedic Rehabilitation. He regularly provides treatment to his patients at Labaid Diagnostic, Pabna. Practicing hour of Dr. A.H.M Ibrahim at Labaid Diagnostic, Pabna is 8am to 1pm (Every Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Pabna",
+        "address": "Beside Joy Kali Bari, Thana Road, Shalgaria, Pabna",
+        "visitingTime": "8am to 1pm (Every Friday)",
+        "appointmentNumber": "+8801766661901Call Now"
+      }
+    }
+  ]
+}

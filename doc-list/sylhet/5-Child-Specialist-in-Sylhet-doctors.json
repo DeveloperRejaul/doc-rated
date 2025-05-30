@@ -1,0 +1,667 @@
+{
+  "doctor": [
+    {
+      "id": "8908feea-6c78-435a-b3aa-66bd831156ec",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-manajjir-ali/",
+      "imageId": "1645e3bd-3c27-46f1-b4db-7f36caf47e4c",
+      "name": "Prof. Dr. Md. Manajjir Ali",
+      "degree": "MBBS, FCPS (CHILD), DMEd (UK), FRCP (EDIN, UK)",
+      "specialty": "Newborn & Child Diseases Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Mount Adora Hospital, Akhalia, Sylhet Address: Sylhet-Sunamganj Highway, Akhalia, Sylhet – 3100 Visiting Hour: 4pm to 8pm (Sun, Tue & Thursday) Appointment: +8801317310895 Call Now",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "3pm to 6pm (Sat, Mon & Wednesday)",
+        "appointmentNumber": "+8801715084078Call Now"
+      }
+    },
+    {
+      "id": "33ba68e2-4547-4a7b-9a62-5082642c6e7b",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-ekhlasur-rahman/",
+      "imageId": "5eac872a-560e-40d7-aa12-8491d3b44e20",
+      "name": "Prof. Dr. Md. Ekhlasur Rahman",
+      "degree": "MBBS, FCPS (Pediatrics), FRCP",
+      "specialty": "Neonatal & Child Diseases Specialist",
+      "workplace": "Anwer Khan Modern Medical College & Hospital",
+      "info": "Medinova Medical Services, Sylhet Address: 98, New Medical Road, Kajolshah, Sylhet – 3100 Visiting Hour: 3pm to 10pm (Thursday) & 8am to 12pm (Friday) Appointment: +8801746008001 Call Now",
+      "chamber": {
+        "hospital": "Anwer Khan Modern Medical College Hospital",
+        "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
+        "visitingTime": "11.30am to 1pm & 5.30pm to 9pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801927121165Call Now"
+      }
+    },
+    {
+      "id": "99d0a195-5a3f-4fe9-9df8-7a032fcea688",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/dr-m-a-hai-child/",
+      "imageId": "3e830453-7c04-4f0c-8324-f1b905aca32f",
+      "name": "Dr. M. A. Hai",
+      "degree": "MBBS, FCPS (Pediatrics), MCPS (Pediatrics), MD (Neonatology)",
+      "specialty": "Neonatal & Pediatrics Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. M. A. Hai is a Child Specialist in Sylhet. His qualification is MBBS, FCPS (Pediatrics), MCPS (Pediatrics), MD (Neonatology). He is a Associate Professor, Neonatology at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Hospital, Sylhet. Practicing hour of Dr. M. A. Hai at Ibn Sina Hospital, Sylhet is Evening (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Hospital, Sylhet",
+        "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+        "visitingTime": "Evening (Closed: Friday)",
+        "appointmentNumber": "+8809610009640Call Now"
+      }
+    },
+    {
+      "id": "a0254dfc-dbe4-481c-afb1-7c3f0ad3e6f2",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/dr-mujibul-hoque/",
+      "imageId": "893bbe3d-4f5f-41cf-95d4-f6e9c0be7ede",
+      "name": "Prof. Dr. Mujibul Hoque",
+      "degree": "MBBS, BCS (Health), MD (Pediatrics)",
+      "specialty": "Neonatal, Adolescent & Child Diseases Specialist",
+      "workplace": "Sheikh Hasina Medical College, Habiganj",
+      "info": "Prof. Dr. Mujibul Hoque is a Child Specialist in Sylhet. His qualification is MBBS, BCS (Health), MD (Pediatrics). He is a Professor, Pediatrics at Sheikh Hasina Medical College, Habiganj. He regularly provides treatment to his patients at Labaid Diagnostic Limited, Sylhet. Practicing hour of Prof. Dr. Mujibul Hoque at Labaid Diagnostic Limited, Sylhet is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic Limited, Sylhet",
+        "address": "House # 362-363, New Medical Road, Kajol Shah, Sylhet",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662727Call Now"
+      }
+    },
+    {
+      "id": "0ced8fcc-ca5f-41d6-b109-195d9db6f9c0",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/dr-md-benzamin/",
+      "imageId": "b9148da2-bcf3-4ecc-9269-d43814e4d57b",
+      "name": "Dr. Md. Benzamin",
+      "degree": "MBBS, BCS (Health), MPH (Nutrition), MD (Pediatric Gastroenterology)",
+      "specialty": "Child Gastroenterology, Liver & Nutrition Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Md. Benzamin is a Child Gastroenterologist in Sylhet. His qualification is MBBS, BCS (Health), MPH (Nutrition), MD (Pediatric Gastroenterology). He is a Registrar, Pediatric Gastroenterology at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Dr. Md. Benzamin at Mount Adora Hospital, Akhalia, Sylhet is 4pm to 7pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "4pm to 7pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801917196961Call Now"
+      }
+    },
+    {
+      "id": "a145ea3b-8f32-405f-a2e6-f99d5d6378da",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-rashedul-haque/",
+      "imageId": "d6b2d640-e8c7-485e-b2e6-e67da48d9087",
+      "name": "Prof. Dr. Md. Rashedul Haque",
+      "degree": "MBBS, FCPS (Pediatrics)",
+      "specialty": "Newborn, Child & Adolescent Diseases Specialist",
+      "workplace": "Sylhet Womens Medical College & Hospital",
+      "info": "Prof. Dr. Md. Rashedul Haque is a Child Specialist in Sylhet. His qualification is MBBS, FCPS (Pediatrics). He is a Professor, Pediatrics at Sylhet Womens Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Hospital, Sylhet. Practicing hour of Prof. Dr. Md. Rashedul Haque at Ibn Sina Hospital, Sylhet is Evening (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Hospital, Sylhet",
+        "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+        "visitingTime": "Evening (Closed: Friday)",
+        "appointmentNumber": "+8809610009640Call Now"
+      }
+    },
+    {
+      "id": "0c67ae30-6786-473d-997f-32ef3521f7e8",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-tarek-azad/",
+      "imageId": "92da3c66-5620-45c7-b65c-bb7d64f6be4c",
+      "name": "Prof. Dr. Md. Tarek Azad",
+      "degree": "MBBS, MCPS (Pediatrics), DCH, MD (Pediatrics)",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+      "info": "Prof. Dr. Md. Tarek Azad is a Child Specialist in Sylhet. His qualification is MBBS, MCPS (Pediatrics), DCH, MD (Pediatrics). He is the Director at Jalalabad Ragib-Rabeya Medical College & Hospital. He regularly provides treatment to his patients at Trust Medical Services, Sylhet. Practicing hour of Prof. Dr. Md. Tarek Azad at Trust Medical Services, Sylhet is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Trust Medical Services, Sylhet",
+        "address": "16, Modhushahid, New Medical Road, Sylhet - 3100",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801926677792Call Now"
+      }
+    },
+    {
+      "id": "0f7751f5-09e5-4910-9545-27159197cf54",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/dr-akhlaq-ahmed/",
+      "imageId": "a0eb1527-50bc-4c5a-a517-5de94dbd1333",
+      "name": "Dr. Akhlaq Ahmed",
+      "degree": "MBBS, BCS (Health), DCH, MD (Pediatrics)",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Trust Medical Services, Sylhet Address: 16, Modhushahid, New Medical Road, Sylhet – 3100 Visiting Hour: 7pm to 9pm (Closed: Friday) Appointment: +8801782158382 Call Now",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801782158382Call Now"
+      }
+    },
+    {
+      "id": "35b7b720-cb89-4d3d-9344-76560f13cd48",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/dr-md-zakaria-hussain/",
+      "imageId": "e30d105b-9a37-4365-9a3e-745fa75dd1c7",
+      "name": "Dr. Md. Zakaria Hussain",
+      "degree": "MBBS, DDT, DPH, DCH, MAMS",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Oasis Hospital, Sylhet",
+      "info": "Dr. Md. Zakaria Hussain is a Child Specialist in Sylhet. His qualification is MBBS, DDT, DPH, DCH, MAMS. He is a Consultant, Pediatrics at Oasis Hospital, Sylhet. He regularly provides treatment to his patients at Oasis Hospital, Sylhet. Practicing hour of Dr. Md. Zakaria Hussain at Oasis Hospital, Sylhet is 11am to 4pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Oasis Hospital, Sylhet",
+        "address": "Bishwa Road, Subhanighat, Sylhet Sadar, Sylhet - 3100",
+        "visitingTime": "11am to 4pm (Closed: Friday)",
+        "appointmentNumber": "+8801611990000Call Now"
+      }
+    },
+    {
+      "id": "364392de-aa31-4b20-b1a0-0f3459f11528",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/prof-dr-probhat-ranjon-dey/",
+      "imageId": "75a30bea-cb89-41e2-948d-7f07b4976b28",
+      "name": "Prof. Dr. Probhat Ranjan Dey",
+      "degree": "MBBS, FCPS (CHILD), MD (CHILD)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Prof. Dr. Probhat Ranjan Dey is a Child Specialist in Sylhet. His qualification is MBBS, FCPS (CHILD), MD (CHILD). He is a Professor & Head, Pediatrics at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Popular Medical Center, Sylhet. Practicing hour of Prof. Dr. Probhat Ranjan Dey at Popular Medical Center, Sylhet is 6pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "6pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801717802022Call Now"
+      }
+    },
+    {
+      "id": "1e130e56-ea80-4a82-a3d0-4ffc7b1751f9",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/dr-md-ziaur-rahman-chowdhury/",
+      "imageId": "9a03c196-bb95-470b-9291-35744e3022d8",
+      "name": "Prof. Dr. Md Ziaur Rahman Chowdhury",
+      "degree": "MBBS, BCS (Health), DCH (BSMMU), MD (Pediatrics)",
+      "specialty": "Neonatal, Child & Adolescent Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Popular Medical Center & Hospital, Sylhet Address: Subhanighat, Sylhet Visiting Hour: 3pm to 5pm (Saturday to Thursday), 10am to 12pm (Friday) Appointment: +8801773035138 Call Now",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801772442004Call Now"
+      }
+    },
+    {
+      "id": "08a900ba-0078-4e44-9870-58484f6bb51b",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/prof-dr-sultana-begum/",
+      "imageId": "018f8091-2630-43ae-9fe4-215524311185",
+      "name": "Dr. Sultana Begum",
+      "degree": "MBBS (DU), DCH (DU), MD (Pediatrics)",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "North East Medical College & Hospital Address: Gohorpur Road, South Surma, Sylhet – 3100 Visiting Hour: 10am to 1.30pm (Saturday, Sunday, Monday & Tuesday) Appointment: +8801715944733 Call Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Badda",
+        "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
+        "visitingTime": "10am to 12pm (Sunday, Tuesday & Thursday)",
+        "appointmentNumber": "+8809610009614Call Now"
+      }
+    },
+    {
+      "id": "48df5c98-acbb-4d00-a8bc-303ff989a7ed",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-a-malik/",
+      "imageId": "8298aaad-a9cc-4938-883c-c79dc4eb12d2",
+      "name": "Prof. Dr. M. A. Malik",
+      "degree": "MBBS, FCPS (Pediatrics), MSMEd (Australia)",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Parkview Medical College & Hospital, Sylhet",
+      "info": "Trust Medical Services, Sylhet\nAddress: 16, Modhushahid, New Medical Road, Sylhet – 3100\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8801926677792\nCall Now",
+      "chamber": {
+        "hospital": "Stadium Market, Sylhet",
+        "address": "Stadium Market, Rikabi Bazar, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Sat to Thu) & 9am to 11am (Friday)",
+        "appointmentNumber": "+8801711383333Call Now"
+      }
+    },
+    {
+      "id": "fe6346e8-22e5-4381-ad1b-8a998e59d5a3",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-moseh-uddin-choudhury/",
+      "imageId": "135675fd-d8b8-46be-9274-ddbb3eb05eda",
+      "name": "Prof. Dr. Md. Moseh Uddin Choudhury",
+      "degree": "MBBS, FCPS (Pediatrics), WHO Fellow (Neonatology & Nephrology)",
+      "specialty": "Neonatal, Kidney & Child Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Prof. Dr. Md. Moseh Uddin Choudhury is a Child Specialist in Sylhet. His qualification is MBBS, FCPS (Pediatrics), WHO Fellow (Neonatology & Nephrology). He is a Professor, Pediatrics at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Al Haramain Hospital, Sylhet. Practicing hour of Prof. Dr. Md. Moseh Uddin Choudhury at Al Haramain Hospital, Sylhet is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Al Haramain Hospital, Sylhet",
+        "address": "Samato-30, Chali Bandar, Bishwa Road, Subhani Ghat, Sylhet",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801931225555Call Now"
+      }
+    },
+    {
+      "id": "f42fa4e9-f4fb-4a3b-931a-693bda1abf94",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/prof-dr-syed-moosa-m-a-quaium/",
+      "imageId": "079d2efd-4a52-4346-ad90-1f5fa6bcb001",
+      "name": "Prof. Dr. Syed Moosa M. A. Quaium",
+      "degree": "MBBS, DCH, RCPAS, FCPS (Pediatrics)",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "North East Medical College & Hospital",
+      "info": "North East Medical College & Hospital Address: Gohorpur Road, South Surma, Sylhet – 3100 Visiting Hour: 10am to 1.30pm (Sunday, Tuesday & Thursday) Appointment: +8801715944733 Call Now",
+      "chamber": {
+        "hospital": "Ibn Sina Hospital, Sylhet",
+        "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+        "visitingTime": "Evening (Closed: Friday)",
+        "appointmentNumber": "+8809610009640Call Now"
+      }
+    },
+    {
+      "id": "b4186fff-2bec-4765-aa0c-abebc5cd3f19",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/dr-a-t-reza-ahmad/",
+      "imageId": "acdd5688-13e5-490f-b63a-9bf09304385a",
+      "name": "Dr. A. T. Reza Ahmad",
+      "degree": "MBBS (CU), DCH (BSMMU), MD (Pediatrics), PGPN (USA)",
+      "specialty": "Neonatal, Adolescent & Child Diseases Specialist",
+      "workplace": "North East Medical College & Hospital",
+      "info": "Dr. A. T. Reza Ahmad is a Child Specialist in Sylhet. His qualification is MBBS (CU), DCH (BSMMU), MD (Pediatrics), PGPN (USA). He is a Consultant, Pediatrics at North East Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Hospital, Sylhet. Practicing hour of Dr. A. T. Reza Ahmad at Ibn Sina Hospital, Sylhet is Evening (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Hospital, Sylhet",
+        "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+        "visitingTime": "Evening (Closed: Friday)",
+        "appointmentNumber": "+8809610009640Call Now"
+      }
+    },
+    {
+      "id": "82fa2755-b472-4004-ade0-5483a97b8d9a",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/dr-minakshi-choudhury/",
+      "imageId": "40fd7049-daa5-4fc5-9070-5cb679d47f88",
+      "name": "Dr. Minakshi Choudhury",
+      "degree": "MBBS, BCS (Health), FCPS (Pediatrics)",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Minakshi Choudhury is a Child Specialist in Sylhet. Her qualification is MBBS, BCS (Health), FCPS (Pediatrics). She is a Assistant Professor (Pediatrics) at Sylhet MAG Osmani Medical College & Hospital. She regularly provides treatment to her patients at Medinova Medical Services, Sylhet. Practicing hour of Dr. Minakshi Choudhury at Medinova Medical Services, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Sylhet",
+        "address": "98, New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801795308605Call Now"
+      }
+    },
+    {
+      "id": "42c8948e-5c14-4d26-b4dd-641aa7be5c2a",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-bashir-uddin/",
+      "imageId": "d5fed459-2073-49c2-9b77-aa6d3dafec66",
+      "name": "Dr. Mohammad Bashir Uddin",
+      "degree": "MBBS, DCH (Child Health), MD (Pediatrics)",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "North East Medical College & Hospital",
+      "info": "North East Medical College & Hospital Address: Gohorpur Road, South Surma, Sylhet – 3100 Visiting Hour: 10am to 1.30pm (Closed: Friday) Appointment: +8801715944733 Call Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Rikabi Bazar",
+        "address": "New Medical College Road, Rikabi Bazar, Sylhet - 3100",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801708399305Call Now"
+      }
+    },
+    {
+      "id": "752281db-39fd-43f5-93c3-696afcdef4ef",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/dr-a-h-m-khairul-bashar/",
+      "imageId": "11d2716a-ce9d-4883-86b5-f475885cf4bf",
+      "name": "Dr. A H M Khairul Bashar",
+      "degree": "MBBS, DCH (Child Health), MD (Pediatrics)",
+      "specialty": "Neonatal & Child Diseases Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. A H M Khairul Bashar is a Child Specialist in Sylhet. His qualification is MBBS, DCH (Child Health), MD (Pediatrics). He is a Assistant Professor, Pediatrics at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Dr. A H M Khairul Bashar at Mount Adora Hospital, Akhalia, Sylhet is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801312061245Call Now"
+      }
+    },
+    {
+      "id": "72e3bb60-bd1a-4b63-af98-e826a14e330b",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahab-uddin/",
+      "imageId": "95d2461c-c97f-4472-bffd-7ce5e2f40a6f",
+      "name": "Dr. Md. Shahab Uddin",
+      "degree": "MBBS (CU), MD (Pediatrics), Higher Training (NICU)",
+      "specialty": "Neonatal Diseases, Intensive Care (ICU) & Child Diseases Specialist",
+      "workplace": "Sylhet Womens Medical College & Hospital",
+      "info": "Dr. Md. Shahab Uddin is a Child Specialist in Sylhet. His qualification is MBBS (CU), MD (Pediatrics), Higher Training (NICU). He is a Associate Professor, Pediatrics at Sylhet Womens Medical College & Hospital. He regularly provides treatment to his patients at Al Haramain Hospital, Sylhet. Practicing hour of Dr. Md. Shahab Uddin at Al Haramain Hospital, Sylhet is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Al Haramain Hospital, Sylhet",
+        "address": "Samato-30, Chali Bandar, Bishwa Road, Subhani Ghat, Sylhet",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801931225555Call Now"
+      }
+    },
+    {
+      "id": "fd288e6c-4b97-4897-8e6d-c84c33edaf37",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/dr-fatema-yasmin/",
+      "imageId": "a631ff5d-ae7c-47e3-a0ec-df72cb0141dc",
+      "name": "Dr. Fatema Yasmin",
+      "degree": "MBBS, BCS (Health), MD (Pediatrics)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Fatema Yasmin is a Child Specialist in Sylhet. Her qualification is MBBS, BCS (Health), MD (Pediatrics). She is a Resident Physician, Pediatrics at Sylhet MAG Osmani Medical College & Hospital. She regularly provides treatment to her patients at Oasis Hospital, Sylhet. Practicing hour of Dr. Fatema Yasmin at Oasis Hospital, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Oasis Hospital, Sylhet",
+        "address": "Bishwa Road, Subhanighat, Sylhet Sadar, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801763990044Call Now"
+      }
+    },
+    {
+      "id": "ccaea144-0dc9-4074-bc65-32447a558377",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/dr-farzana-hamid/",
+      "imageId": "9254d3fc-78e9-4ad9-8a5d-d9e92c11db81",
+      "name": "Dr. Farzana Hamid",
+      "degree": "MBBS (DMC), FCPS (Pediatrics), MRCP-CH (UK)",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "North East Medical College & Hospital",
+      "info": "Dr. Farzana Hamid is a Child Specialist in Sylhet. Her qualification is MBBS (DMC), FCPS (Pediatrics), MRCP-CH (UK). She is a Associate Professor, Pediatrics at North East Medical College & Hospital. She regularly provides treatment to her patients at Ibn Sina Hospital, Sylhet. Practicing hour of Dr. Farzana Hamid at Ibn Sina Hospital, Sylhet is Evening (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Hospital, Sylhet",
+        "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+        "visitingTime": "Evening (Closed: Friday)",
+        "appointmentNumber": "+8809610009640Call Now"
+      }
+    },
+    {
+      "id": "cbfcebd7-1fd3-4a94-9803-2034c07b47e7",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/dr-achira-bhattacharjee/",
+      "imageId": "b5a2ebea-9bb5-41b1-8c05-064b9c7fcce4",
+      "name": "Dr. Achira Bhattacharjee",
+      "degree": "MBBS, FCPS (CHILD)",
+      "specialty": "Neonatal & Child Diseases Specialist",
+      "workplace": "Sylhet Women's Medical College & Hospital",
+      "info": "Dr. Achira Bhattacharjee is a Child Specialist in Sylhet. His qualification is MBBS, FCPS (CHILD). He is a Assistant Professor, Pediatrics at Sylhet Women's Medical College & Hospital. He regularly provides treatment to his patients at Al Haramain Hospital, Sylhet. Practicing hour of Dr. Achira Bhattacharjee at Al Haramain Hospital, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Al Haramain Hospital, Sylhet",
+        "address": "Samato-30, Chali Bandar, Bishwa Road, Subhani Ghat, Sylhet",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801931225555Call Now"
+      }
+    },
+    {
+      "id": "ab5d3244-e3bc-46f8-8dbe-dab2c70ac032",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-shohel/",
+      "imageId": "b638da8e-6237-4664-93f5-418268a49476",
+      "name": "Dr. Mohammad Shohel",
+      "degree": "MBBS, BCS (Health), DCH, FCPS (Pediatrics)",
+      "specialty": "Neonatal & Pediatrics Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Mohammad Shohel is a Child Specialist in Sylhet. His qualification is MBBS, BCS (Health), DCH, FCPS (Pediatrics). He is a Consultant, Pediatrics at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Hospital, Sylhet. Practicing hour of Dr. Mohammad Shohel at Ibn Sina Hospital, Sylhet is Evening (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Hospital, Sylhet",
+        "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+        "visitingTime": "Evening (Closed: Friday)",
+        "appointmentNumber": "+8809610009640Call Now"
+      }
+    },
+    {
+      "id": "b7f285e8-dc70-4ee8-a4d8-3ca55fd69cb7",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/dr-md-muazzem-hossain-harun/",
+      "imageId": "684aa185-d124-40d2-9d5a-0ab06c31cd38",
+      "name": "Dr. Md. Muazzem Hossain Harun",
+      "degree": "MBBS, DCH, MD (Pediatrics)",
+      "specialty": "Neonatal, Child & Adolescent Specialist",
+      "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+      "info": "Dr. Md. Muazzem Hossain Harun is a Child Specialist in Sylhet. His qualification is MBBS, DCH, MD (Pediatrics). He is a Associate Professor, Pediatrics at Jalalabad Ragib-Rabeya Medical College & Hospital. He regularly provides treatment to his patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Dr. Md. Muazzem Hossain Harun at Mount Adora Hospital, Akhalia, Sylhet is 4pm to 9pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "4pm to 9pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801786360548Call Now"
+      }
+    },
+    {
+      "id": "eb797a2a-c748-4097-8623-811c8b4641f9",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/dr-ashit-chandra-das/",
+      "imageId": "1333bda7-4009-4d63-a5df-47a46fbc9d82",
+      "name": "Dr. Ashith Chandra Das",
+      "degree": "MBBS, DCH, FCPS (Pediatrics)",
+      "specialty": "Newborn & Child Diseases Specialist",
+      "workplace": "Jalalabad Ragib-Rabeya Medical College & Hospital",
+      "info": "Dr. Ashith Chandra Das is a Child Specialist in Sylhet. His qualification is MBBS, DCH, FCPS (Pediatrics). He is a Associate Professor, Pediatrics at Jalalabad Ragib-Rabeya Medical College & Hospital. He regularly provides treatment to his patients at Popular Medical Center & Hospital, Sylhet. Practicing hour of Dr. Ashith Chandra Das at Popular Medical Center & Hospital, Sylhet is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Medical Center & Hospital, Sylhet",
+        "address": "Subhanighat, Sylhet",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801773035138Call Now"
+      }
+    },
+    {
+      "id": "380bf27b-8382-4765-b1d3-d9e698117d13",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahariar-khan/",
+      "imageId": "35d70092-9ea5-4f93-b7bf-4d69f518477f",
+      "name": "Dr. Md. Shahariar Khan",
+      "degree": "MBBS, DCH (Child Health)",
+      "specialty": "Neonatal, Adolescent & Child Diseases Specialist",
+      "workplace": "North East Medical College & Hospital",
+      "info": "Dr. Md. Shahariar Khan is a Child Specialist in Sylhet. His qualification is MBBS, DCH (Child Health). He is a Assistant Professor, Pediatrics at North East Medical College & Hospital. He regularly provides treatment to his patients at North East Medical College & Hospital. Practicing hour of Dr. Md. Shahariar Khan at North East Medical College & Hospital is 11am to 1.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "North East Medical College & Hospital",
+        "address": "Gohorpur Road, South Surma, Sylhet - 3100",
+        "visitingTime": "11am to 1.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801715944733Call Now"
+      }
+    },
+    {
+      "id": "db63020e-a225-4cf5-a13c-c0ea5ec44174",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/dr-fahmida-chowdhury/",
+      "imageId": "32953278-1a55-479c-bfad-b2db23018c3c",
+      "name": "Dr. Fahmida Chowdhury",
+      "degree": "MBBS, BCS (Health), MD (Child Diseases)",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Fahmida Chowdhury is a Child Specialist in Sylhet. Her qualification is MBBS, BCS (Health), MD (Child Diseases). She is a Consultant, Pediatrics at Sylhet MAG Osmani Medical College & Hospital. She regularly provides treatment to her patients at Mount Adora Hospital, Nayasarak, Sylhet. Practicing hour of Dr. Fahmida Chowdhury at Mount Adora Hospital, Nayasarak, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Nayasarak, Sylhet",
+        "address": "Nayasarak Road, Mirboxtula, Nayasarak, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801880593620Call Now"
+      }
+    },
+    {
+      "id": "3e719b81-8266-473d-a899-e1aff5cb2be0",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/dr-rebeka-sultana-child/",
+      "imageId": "7a79f437-c0bb-4d43-938c-b344db59fa71",
+      "name": "Dr. Rebeka Sultana",
+      "degree": "MBBS, FCPS (CHILD)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Parkview Medical College & Hospital",
+      "info": "Dr. Rebeka Sultana is a Child Specialist in Sylhet. Her qualification is MBBS, FCPS (CHILD). She is a Assistant Professor, Pediatrics at Parkview Medical College & Hospital. She regularly provides treatment to her patients at Noorjahan Hospital, Sylhet. Practicing hour of Dr. Rebeka Sultana at Noorjahan Hospital, Sylhet is 5pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Noorjahan Hospital, Sylhet",
+        "address": "Waves 1, Ritz Tower, Dargah Gate, Sylhet - 3100",
+        "visitingTime": "5pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801979005522Call Now"
+      }
+    },
+    {
+      "id": "30e66ddf-6b5b-4197-a9eb-8fdd6489f990",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-ansar-khan/",
+      "imageId": "58a1e4c2-89c8-4293-8ca5-2e8f39ebc399",
+      "name": "Prof. Dr. Md. Ansar Khan",
+      "degree": "MBBS, DCH (Child), M.Phil (Child)",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Prof. Dr. Md. Ansar Khan is a Child Specialist in Sylhet. His qualification is MBBS, DCH (Child), M.Phil (Child). He is a Professor, Pediatrics at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Rikabi Bazar. Practicing hour of Prof. Dr. Md. Ansar Khan at Ibn Sina Diagnostic Center, Rikabi Bazar is 5.30pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Rikabi Bazar",
+        "address": "New Medical College Road, Rikabi Bazar, Sylhet - 3100",
+        "visitingTime": "5.30pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801708399305Call Now"
+      }
+    },
+    {
+      "id": "d54815d5-89d6-44ea-b3a3-9d465447e181",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/lt-col-dr-biplob-kumar-raha/",
+      "imageId": "9ad441a3-382f-4c9e-840e-bd518fa0f601",
+      "name": "Lt. Col. Dr. Biplob Kumar Raha",
+      "degree": "MBBS, CCD (BIRDEM), FCPS (Pediatrics), Advanced Training (Neonatology)",
+      "specialty": "Neonatal, Child Diseases & Adolescent Specialist",
+      "workplace": "Combined Military Hospital, Sylhet",
+      "info": "Lt. Col. Dr. Biplob Kumar Raha is a Child Specialist in Sylhet. His qualification is MBBS, CCD (BIRDEM), FCPS (Pediatrics), Advanced Training (Neonatology). He is a Consultant, Pediatrics at Combined Military Hospital, Sylhet. He regularly provides treatment to his patients at Al Haramain Hospital, Sylhet. Practicing hour of Lt. Col. Dr. Biplob Kumar Raha at Al Haramain Hospital, Sylhet is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Al Haramain Hospital, Sylhet",
+        "address": "Samato-30, Chali Bandar, Bishwa Road, Subhani Ghat, Sylhet",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801931225555Call Now"
+      }
+    },
+    {
+      "id": "fabe1c1a-b791-40e0-bbbc-7b7ed772f41a",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/dr-tania-husain/",
+      "imageId": "4edf7969-295f-4c5a-9d18-f537f9ab5b48",
+      "name": "Dr. Tania Husain",
+      "degree": "MBBS, DCH",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "North East Medical College & Hospital",
+      "info": "Dr. Tania Husain is a Child Specialist in Sylhet. Her qualification is MBBS, DCH. She is a Assistant Professor, Pediatrics at North East Medical College & Hospital. She regularly provides treatment to her patients at North East Medical College & Hospital. Practicing hour of Dr. Tania Husain at North East Medical College & Hospital is 10am to 1.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "North East Medical College & Hospital",
+        "address": "Gohorpur Road, South Surma, Sylhet - 3100",
+        "visitingTime": "10am to 1.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801715944733Call Now"
+      }
+    },
+    {
+      "id": "0a932e98-fe80-40a5-83dd-a4d45325eeef",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahbubul-alam-child/",
+      "imageId": "4c576788-7e76-4c84-8131-ada055a5997b",
+      "name": "Dr. Md. Mahbubul Alam",
+      "degree": "MBBS, BCS (Health), DCH (Child)",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Md. Mahbubul Alam is a Child Specialist in Sylhet. His qualification is MBBS, BCS (Health), DCH (Child). He is a Assistant Professor, Pediatrics at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Rikabi Bazar. Practicing hour of Dr. Md. Mahbubul Alam at Ibn Sina Diagnostic Center, Rikabi Bazar is 1pm to 2.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Rikabi Bazar",
+        "address": "New Medical College Road, Rikabi Bazar, Sylhet - 3100",
+        "visitingTime": "1pm to 2.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801708399305Call Now"
+      }
+    },
+    {
+      "id": "b10e4f69-4cd4-4e5f-8f2e-ec6b3b32b2f7",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/dr-tarek-mahmud/",
+      "imageId": "1fadd461-fb82-4a22-8ce1-1ffb6667bed7",
+      "name": "Dr. Tarek Mahmud",
+      "degree": "MBBS, MD (CHILD)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Parkview Medical College & Hospital",
+      "info": "Dr. Tarek Mahmud is a Child Specialist in Sylhet. His qualification is MBBS, MD (CHILD). He is a Assistant Professor, Pediatrics at Parkview Medical College & Hospital. He regularly provides treatment to his patients at Noorjahan Hospital, Sylhet. Practicing hour of Dr. Tarek Mahmud at Noorjahan Hospital, Sylhet is 2pm to 5pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Noorjahan Hospital, Sylhet",
+        "address": "Waves 1, Ritz Tower, Dargah Gate, Sylhet - 3100",
+        "visitingTime": "2pm to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8801979005522Call Now"
+      }
+    },
+    {
+      "id": "c61ffaf7-2d73-4b65-85f5-0f2bc8325ff4",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/dr-sultana-jahan/",
+      "imageId": "d45933ae-27ea-47e5-9c8a-2cb35a589245",
+      "name": "Dr. Sultana Jahan",
+      "degree": "MBBS, BCS (Health), MD (Neonatology)",
+      "specialty": "NICU, Neonatal and Child Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Sultana Jahan is a Child Specialist in Sylhet. Her qualification is MBBS, BCS (Health), MD (Neonatology). She is working at Special Care Newborn Unit in Sylhet MAG Osmani Medical College & Hospital. She regularly provides treatment to her patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Dr. Sultana Jahan at Mount Adora Hospital, Akhalia, Sylhet is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809678225566Call Now"
+      }
+    },
+    {
+      "id": "2fc93686-7558-4411-9f79-bc98c23cd20a",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/dr-jannatul-ferdush-chowdhury/",
+      "imageId": "3dfe7cfb-980c-45ab-b8f7-2b7d28c45e01",
+      "name": "Dr. Jannatul Ferdush Chowdhury",
+      "degree": "MBBS, FCPS (Paediatrics)",
+      "specialty": "Newborn & Child Diseases Specialist",
+      "workplace": "Jalalabad Ragib Rabeya Medical College & Hospital, Sylhet",
+      "info": "Dr. Jannatul Ferdush Chowdhury is a Child Specialist in Sylhet. Her qualification is MBBS, FCPS (Paediatrics). She is a Assistant Professor (Pediatrics) at Jalalabad Ragib Rabeya Medical College & Hospital, Sylhet. She regularly provides treatment to her patients at Al Haramain Hospital, Sylhet. Practicing hour of Dr. Jannatul Ferdush Chowdhury at Al Haramain Hospital, Sylhet is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Al Haramain Hospital, Sylhet",
+        "address": "Samato-30, Chali Bandar, Bishwa Road, Subhani Ghat, Sylhet",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801931225555Call Now"
+      }
+    },
+    {
+      "id": "c9f640fd-5d24-4687-8359-6855482e2848",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/dr-syed-mortaza-ali/",
+      "imageId": "9749d51e-f805-4f96-b5d7-6bad1c81eb13",
+      "name": "Dr. Syed Mortaza Ali",
+      "degree": "MBBS, BCS (Health), DCH, MD (Pediatrics)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Sylhet Sahid Shamsuddin Ahmed Hospital",
+      "info": "A Ali Pharmacy, Sylhet Address: Hospital Road, Beanibazaz, Sylhet Visiting Hour: 4pm to 6pm (Everyday) Appointment: +8801715-699991 Call Now",
+      "chamber": {
+        "hospital": "Pioneer Hospital, Sylhet",
+        "address": "Room- 205, West Side of Alia Madrasa Field, Darga Moholla, Sylhet",
+        "visitingTime": "7pm to 9pm (Everyday)",
+        "appointmentNumber": "+8801627058165Call Now"
+      }
+    },
+    {
+      "id": "743cb13d-fc03-4c06-bee4-da00da34b930",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/dr-tuhin-barua-tamal/",
+      "imageId": "948b92f1-d798-4de4-a91d-41e7f7993151",
+      "name": "Dr. Tuhin Barua Tamal",
+      "degree": "MBBS, MD (Pediatrics)",
+      "specialty": "Newborn & Child Diseases Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Tuhin Barua Tamal is a Child Specialist in Sylhet. His qualification is MBBS, MD (Pediatrics). He is a Registrar, Department of Paediatrics at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Comfort Medical Services, Sylhet. Practicing hour of Dr. Tuhin Barua Tamal at Comfort Medical Services, Sylhet is 6pm to 8pm (Everyday).",
+      "chamber": {
+        "hospital": "Comfort Medical Services, Sylhet",
+        "address": "17, New Medical Road, Kajolshah, Sylhet – 3100",
+        "visitingTime": "6pm to 8pm (Everyday)",
+        "appointmentNumber": "+8801330302800Call Now"
+      }
+    },
+    {
+      "id": "de1b32a9-b328-46b9-a4ba-6997de9c45b9",
+      "departmentId": "b2cff557-6c90-4c93-9b64-8ed14d33f46f",
+      "link": "https://www.doctorbangladesh.com/dr-a-k-m-kamruzzaman/",
+      "imageId": "6c75ac11-4d85-4b45-ab20-620b735aecf5",
+      "name": "Dr. A K M Kamruzzaman",
+      "degree": "MBBS (SOMC), FCPS (Pediatrics), PGPN (Child Nutrition)",
+      "specialty": "Neonatal & Child Disease Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. A K M Kamruzzaman is a dedicated Neonatal and Child Disease Specialist in Sylhet, holding an MBBS from Sylhet MAG Osmani Medical College, FCPS in Pediatrics, and PGPN in Child Nutrition. He serves as a Consultant in the Department of Paediatrics at Sylhet MAG Osmani Medical College & Hospital. Dr. Kamruzzaman provides expert care for diseases like neonatal jaundice, pneumonia, asthma, childhood infections, malnutrition, developmental disorders, allergies, and other pediatric conditions. He sees patients at Popular Medical Center, New Medical Road, Kajolshah, Sylhet – 3100, from 5pm to 9pm, closed on Friday.",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "Room 320 (2nd Floor), New Medical Road, Kajolshah, Sylhet",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801717802022Call Now"
+      }
+    }
+  ]
+}

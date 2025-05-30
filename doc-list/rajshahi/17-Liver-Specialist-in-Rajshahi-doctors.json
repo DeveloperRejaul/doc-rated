@@ -1,0 +1,55 @@
+{
+  "doctor": [
+    {
+      "id": "024695a3-14d5-46e4-92d3-fe8d446e2746",
+      "departmentId": "3cbf9b04-c626-4702-9f13-8ad6cfc992c1",
+      "link": "https://www.doctorbangladesh.com/dr-abdullah-al-mukit/",
+      "imageId": "ca413705-68b9-4356-9e34-8cc4be0b67dc",
+      "name": "Dr. Abdullah Al Mukit",
+      "degree": "MBBS (DMC), BCS (Health), MD (Hepatology), MACP (USA), MRCPS (Glasg)",
+      "specialty": "Liver Specialist & Interventional Hepatologist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Abdullah Al Mukit is a Liver Specialist in Rajshahi. His qualification is MBBS (DMC), BCS (Health), MD (Hepatology), MACP (USA), MRCPS (Glasg). He is a Consultant, Hepatology at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Abdullah Al Mukit at Popular Diagnostic Center, Rajshahi is 4.30pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "4.30pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787811Call Now"
+      }
+    },
+    {
+      "id": "db95760e-536b-4b07-9287-06a48729519e",
+      "departmentId": "3cbf9b04-c626-4702-9f13-8ad6cfc992c1",
+      "link": "https://www.doctorbangladesh.com/dr-md-harun-or-rashid/",
+      "imageId": "7f4ad090-4103-4da3-9bcf-b260dbea01e6",
+      "name": "Dr. Mohd. Harun Or Rashid",
+      "degree": "MBBS, MCPS (Medicine), MD (Hepatology), PhD, FACP (USA)",
+      "specialty": "Liver Diseases & Gastroenterology Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Mohd. Harun Or Rashid is a Liver Specialist in Rajshahi. His qualification is MBBS, MCPS (Medicine), MD (Hepatology), PhD, FACP (USA). He is a Associate Professor & Head, Hepatology at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Mohd. Harun Or Rashid at Popular Diagnostic Center, Rajshahi is 6:30pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "6:30pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787811Call Now"
+      }
+    },
+    {
+      "id": "0ac8fb5a-1d72-4874-98e2-1df0dbbe1f0a",
+      "departmentId": "3cbf9b04-c626-4702-9f13-8ad6cfc992c1",
+      "link": "https://www.doctorbangladesh.com/dr-md-rofiqul-islam/",
+      "imageId": "16333eb5-84a5-4d35-8bd5-855f1139ba37",
+      "name": "Dr. Md. Rofiqul Islam",
+      "degree": "MBBS, BCS (Health), MD (Hepatology)",
+      "specialty": "Liver & Medicine Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Md. Rofiqul Islam is a Liver Specialist in Rajshahi. His qualification is MBBS, BCS (Health), MD (Hepatology). He is a Assistant Professor, Hepatology at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Md. Rofiqul Islam at Popular Diagnostic Center, Rajshahi is 4pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "4pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787811Call Now"
+      }
+    }
+  ]
+}

@@ -1,0 +1,293 @@
+{
+  "doctor": [
+    {
+      "id": "ec9974cf-a7ce-43b3-b6d6-d2e8cb0214db",
+      "departmentId": "d565316f-2db3-4acd-93b2-c212b1254ec4",
+      "link": "https://www.doctorbangladesh.com/prof-dr-shyamal-debnath/",
+      "imageId": "d4b1bc0e-f285-48f9-8d81-e6ab37c5e44d",
+      "name": "Prof. Dr. Shyamal Debnath",
+      "degree": "MBBS, MS (ORTHO), Fellow in Joint Replacement Surgery (India)",
+      "specialty": "Bone, Joint & Traumatology Specialist",
+      "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+      "info": "Modern Diagnostic Center, Narayanganj Address: 207, Bangabandhu Road, Chashara, Narayanganj – 1400 Visiting Hour: 5pm to 10pm (Sat & Tue) Appointment: +8801820842293 Call Now",
+      "chamber": {
+        "hospital": "Green Life Hospital, Dhaka",
+        "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+        "visitingTime": "5pm to 8pm (Sun, Mon, Wed & Thu)",
+        "appointmentNumber": "+8801737513492Call Now"
+      }
+    },
+    {
+      "id": "1caf6f60-fd85-4f92-aec5-bb76658635db",
+      "departmentId": "d565316f-2db3-4acd-93b2-c212b1254ec4",
+      "link": "https://www.doctorbangladesh.com/dr-md-alamgir-hossain-jony/",
+      "imageId": "a38db080-d27a-47ec-9733-0cfc9a80662c",
+      "name": "Dr. Md. Alamgir Hossain Jony",
+      "degree": "MBBS, BCS (Health), MS (ORTHO)",
+      "specialty": "Orthopedic, Spine, Trauma, Hip & Knee Specialist Surgeon",
+      "workplace": "Mugda Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Dhanmondi Address: House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205 Visiting Hour: 2.00pm to 3:30pm (Closed: Thu & Friday) Appointment: +8809666787801 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "5pm to 11pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "d0cac238-d2f9-4a00-b9b7-47d0be3240db",
+      "departmentId": "d565316f-2db3-4acd-93b2-c212b1254ec4",
+      "link": "https://www.doctorbangladesh.com/dr-dibakar-sarkar/",
+      "imageId": "8f1178eb-cf10-4572-bf9c-4a8b26e38c5a",
+      "name": "Dr. Dibakar Sarkar",
+      "degree": "MBBS, BCS (Health), MS (Orthopedic), AO Advanced (Indonesia), AO Fellow (Bangkok)",
+      "specialty": "Orthopedic Specialist, Spine & Trauma Surgeon",
+      "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+      "info": "Dr. Dibakar Sarkar is a Orthopedic Surgeon in Narayanganj. His qualification is MBBS, BCS (Health), MS (Orthopedic), AO Advanced (Indonesia), AO Fellow (Bangkok). He is a Consultant, Orthopedic at National Institute of Traumatology & Orthopedic Rehabilitation. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Dibakar Sarkar at Popular Diagnostic Center, Narayanganj is 7pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "7pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "6993a056-756f-45e8-8f1b-a76e230bd099",
+      "departmentId": "d565316f-2db3-4acd-93b2-c212b1254ec4",
+      "link": "https://www.doctorbangladesh.com/dr-g-m-reza/",
+      "imageId": "2c907b02-f296-4704-abc9-2dc183f7f9c4",
+      "name": "Dr. G.M. Reza",
+      "degree": "MBBS, MCPS (Surgery), D-ORTHO, MS (ORTHO), AAOS (USA)",
+      "specialty": "Orthopedic Specialist & Trauma Surgeon",
+      "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, Bangabandhu Road, Chashara, Narayanganj – 1400 Visiting Hour: 3pm to 6pm (Wednesday) & 12.30pm to 6pm (Friday) Appointment: +8809666787804 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Dhanmondi",
+        "address": "House # 16, Road # 2, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "12pm to 3pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787801Call Now"
+      }
+    },
+    {
+      "id": "b9bb4b10-bc3a-484f-a23f-262f9fcf65d3",
+      "departmentId": "d565316f-2db3-4acd-93b2-c212b1254ec4",
+      "link": "https://www.doctorbangladesh.com/dr-indrojit-kumar-kundu/",
+      "imageId": "0a9adb81-a0ce-4145-9bef-50cb8bae5e53",
+      "name": "Dr. Indrojit Kumar Kundu",
+      "degree": "MBBS, MS (ORTHO)",
+      "specialty": "Bone, Joint, Spine, Arthritis, Pain, Paralysis Specialist & Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Medinova Medical Services, Narayanganj Address: 145, Bangabandhu Road, Chashara, Narayanganj – 1400 Visiting Hour: 4pm to 8pm (Sat & Tuesday) Appointment: +8801913119989 Call Now",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Malibagh",
+        "address": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
+        "visitingTime": "4pm to 8pm (Closed: Tue & Friday)",
+        "appointmentNumber": "+8801790118855Call Now"
+      }
+    },
+    {
+      "id": "6cbad9d1-e121-45cb-af9d-559cd30b5e54",
+      "departmentId": "d565316f-2db3-4acd-93b2-c212b1254ec4",
+      "link": "https://www.doctorbangladesh.com/dr-jagodish-chandra-ghosh/",
+      "imageId": "7fae1ef6-3c1d-4441-8e32-201387696758",
+      "name": "Prof. Dr. Jagodish Chandra Ghosh",
+      "degree": "MBBS, MS (ORTHO), Fellow Spine Surgery (ISIC, DELHI)",
+      "specialty": "Orthopedic & Spine Surgeon",
+      "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+      "info": "Modern Diagnostic Center, Narayanganj Address: 207, Bangabandhu Road, Chashara, Narayanganj – 1400 Visiting Hour: 4pm to 7pm (Sun & Friday) Appointment: +8801820842293 Call Now",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Malibagh",
+        "address": "House # B65, Chowdhury Para, Malibagh, Dhaka",
+        "visitingTime": "7pm to 10pm (Closed: Sun & Friday)",
+        "appointmentNumber": "+8801766662555Call Now"
+      }
+    },
+    {
+      "id": "ecfd7014-b888-4a19-9de5-d37c72618d5a",
+      "departmentId": "d565316f-2db3-4acd-93b2-c212b1254ec4",
+      "link": "https://www.doctorbangladesh.com/dr-md-haider-ali-shimul/",
+      "imageId": "19bbd443-4b85-42f7-8388-ab06cd2feb1c",
+      "name": "Dr. Md Haider Ali Shimul",
+      "degree": "MBBS, MS (ORTHO)",
+      "specialty": "Orthopedic Specialist, Spine & Trauma Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Md Haider Ali Shimul is a Orthopedic Surgeon in Narayanganj. His qualification is MBBS, MS (ORTHO). He is a Consultant, Orthopedic at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Md Haider Ali Shimul at Popular Diagnostic Center, Narayanganj is 7pm to 11pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "7pm to 11pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "d8948cb7-5186-4ea1-a0d1-a630158398aa",
+      "departmentId": "d565316f-2db3-4acd-93b2-c212b1254ec4",
+      "link": "https://www.doctorbangladesh.com/dr-m-a-malek-murad/",
+      "imageId": "6882ace6-c10a-4bca-918a-799bdc4315a4",
+      "name": "Dr. M.A. Malek Murad",
+      "degree": "MBBS (DMC), MS (ORTHO)",
+      "specialty": "Orthopedic Specialist, Injury & Trauma Surgeon",
+      "workplace": "Ad-Din Medical College & Hospital",
+      "info": "Dr. M.A. Malek Murad is a Orthopedic Surgeon in Narayanganj. His qualification is MBBS (DMC), MS (ORTHO). He is a Associate Professor, Orthopedic at Ad-Din Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. M.A. Malek Murad at Popular Diagnostic Center, Narayanganj is 4pm to 8pm (Sun, Tue & Thu).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "4pm to 8pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "91f8a9b2-d8d9-47f7-8338-d603edd0d307",
+      "departmentId": "d565316f-2db3-4acd-93b2-c212b1254ec4",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahbubur-rahman-khan/",
+      "imageId": "91935d52-a1a2-4c64-a0d9-63b8dcbf47c5",
+      "name": "Dr. Md. Mahbubur Rahman Khan",
+      "degree": "MBBS, BCS (Health), MS (ORTHO)",
+      "specialty": "Orthopedic Specialist, Spine & Trauma Surgeon",
+      "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+      "info": "Dr. Md. Mahbubur Rahman Khan is a Orthopedic Surgeon in Narayanganj. His qualification is MBBS, BCS (Health), MS (ORTHO). He is a Assistant Professor, Orthopedic at National Institute of Traumatology & Orthopedic Rehabilitation. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Md. Mahbubur Rahman Khan at Popular Diagnostic Center, Narayanganj is 4pm to 9pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "4pm to 9pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "9cb8bf6f-3c7e-450e-96de-b060cff8111a",
+      "departmentId": "d565316f-2db3-4acd-93b2-c212b1254ec4",
+      "link": "https://www.doctorbangladesh.com/dr-h-a-rashid/",
+      "imageId": "778bf05a-12f3-4409-8230-7faafe5c57f3",
+      "name": "Dr. H. A. Rashid",
+      "degree": "MBBS, BCS (Health), MS (ORTHO), FCPS (ORTHO)",
+      "specialty": "Bone-Joint, Arthritis, Injury, Trauma Specialist & Spine Surgeon",
+      "workplace": "Mugda Medical College & Hospital",
+      "info": "Dr. H. A. Rashid is a Orthopedic Surgeon in Narayanganj. His qualification is MBBS, BCS (Health), MS (ORTHO), FCPS (ORTHO). He is a Assistant Professor, Orthopedic at Mugda Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. H. A. Rashid at Popular Diagnostic Center, Narayanganj is 4pm to 8pm (Sat & Mon), 8:30pm to 10pm (Wed) & 10am to 7pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "4pm to 8pm (Sat & Mon), 8:30pm to 10pm (Wed) & 10am to 7pm (Friday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "97f39358-1308-4c4c-b1cd-a4fb736f74ac",
+      "departmentId": "d565316f-2db3-4acd-93b2-c212b1254ec4",
+      "link": "https://www.doctorbangladesh.com/dr-harun-or-rashid-khan/",
+      "imageId": "9cf3d45a-3e6a-4d86-b2a4-be03a9c17510",
+      "name": "Dr. Harun Or Rashid Khan",
+      "degree": "MBBS, D-ORTHO (DU), MS (ORTHO)",
+      "specialty": "Orthopedic Specialist, Injury & Trauma Surgeon",
+      "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+      "info": "Dr. Harun Or Rashid Khan is a Orthopedic Surgeon in Narayanganj. His qualification is MBBS, D-ORTHO (DU), MS (ORTHO). He is a Assistant Professor, Orthopedic at National Institute of Traumatology & Orthopedic Rehabilitation. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Harun Or Rashid Khan at Popular Diagnostic Center, Narayanganj is 3pm to 8pm (Sun, Tue & Thu) & 10am to 3pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "3pm to 8pm (Sun, Tue & Thu) & 10am to 3pm (Friday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "4c4b9cd4-4899-4449-ada6-2df64c2b12f0",
+      "departmentId": "d565316f-2db3-4acd-93b2-c212b1254ec4",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahidul-islam-ortho/",
+      "imageId": "15dc5208-3c10-43fd-a112-174e825fcd22",
+      "name": "Dr. Md. Shahidul Islam",
+      "degree": "MBBS, MS (ORTHO)",
+      "specialty": "Orthopedic Specialist, Injury & Trauma Surgeon",
+      "workplace": "General Hospital (Victoria), Narayanganj",
+      "info": "Dr. Md. Shahidul Islam is a Orthopedic Surgeon in Narayanganj. His qualification is MBBS, MS (ORTHO). He is a Consultant, Orthopedic at General Hospital (Victoria), Narayanganj. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Md. Shahidul Islam at Popular Diagnostic Center, Narayanganj is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "b2c8c639-9819-4687-970d-0bad2421a424",
+      "departmentId": "d565316f-2db3-4acd-93b2-c212b1254ec4",
+      "link": "https://www.doctorbangladesh.com/dr-md-fazlul-haque-qasem/",
+      "imageId": "a4809625-1932-48b7-b117-393d69759b67",
+      "name": "Dr. Md. Fazlul Haque Qasem",
+      "degree": "MBBS, MS (ORTHO), WHO Fellow (Thailand)",
+      "specialty": "Bone Joint, Orthopedic Specialist & Trauma Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Md. Fazlul Haque Qasem is a Orthopedic Specialist in Narayanganj. His qualification is MBBS, MS (ORTHO), WHO Fellow (Thailand). He is a Assistant Professor, Orthopedics at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Modern Diagnostic Center, Narayanganj. Practicing hour of Dr. Md. Fazlul Haque Qasem at Modern Diagnostic Center, Narayanganj is 6pm to 10pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Modern Diagnostic Center, Narayanganj",
+        "address": "207, Bangabandhu Road, Chashara, Narayanganj - 1400",
+        "visitingTime": "6pm to 10pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801820842293Call Now"
+      }
+    },
+    {
+      "id": "19f35537-08f7-466a-98d4-01aade10332d",
+      "departmentId": "d565316f-2db3-4acd-93b2-c212b1254ec4",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-sayeed-al-mahmud/",
+      "imageId": "f1f79881-fc4c-4e47-8df3-3190b91a8404",
+      "name": "Dr. Mohammad Sayeed Al Mahmud",
+      "degree": "MBBS, MS (ORTHO)",
+      "specialty": "Orthopedic, Bone Joint, Spine & Trauma Surgeon",
+      "workplace": "General Hospital (Victoria), Narayanganj",
+      "info": "Dr. Mohammad Sayeed Al Mahmud is a Orthopedic Surgeon in Narayanganj. His qualification is MBBS, MS (ORTHO). He is a Assistant Surgeon, Orthopedic Surgery at General Hospital (Victoria), Narayanganj. He regularly provides treatment to his patients at Medinova Medical Services, Narayanganj. Practicing hour of Dr. Mohammad Sayeed Al Mahmud at Medinova Medical Services, Narayanganj is 4pm to 8pm (Sun, Tue & Thu).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Narayanganj",
+        "address": "145, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "4pm to 8pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801913119989Call Now"
+      }
+    },
+    {
+      "id": "1a24bd0b-b981-4be0-8ded-8ad5b37f1184",
+      "departmentId": "d565316f-2db3-4acd-93b2-c212b1254ec4",
+      "link": "https://www.doctorbangladesh.com/dr-anjan-lal-ghosh/",
+      "imageId": "7e9cbadb-1d36-42d3-b644-faf63d87e611",
+      "name": "Dr. Anjan Lal Ghosh",
+      "degree": "MBBS, D-ORTHO",
+      "specialty": "Orthopedic, Bone Joint, Trauma & Spine Specialist Surgeon",
+      "workplace": "Northern International Medical College & Hospital",
+      "info": "Dr. Anjan Lal Ghosh is a Orthopedic Surgeon in Narayanganj. His qualification is MBBS, D-ORTHO. He is a Associate Professor, Orthopedic Surgery at Northern International Medical College & Hospital. He regularly provides treatment to his patients at Medinova Medical Services, Narayanganj. Practicing hour of Dr. Anjan Lal Ghosh at Medinova Medical Services, Narayanganj is Monday, Wednesday & Friday.",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Narayanganj",
+        "address": "145, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "Monday, Wednesday & Friday",
+        "appointmentNumber": "+8801913119989Call Now"
+      }
+    },
+    {
+      "id": "bad9894f-677f-4467-a8bc-91c78c534668",
+      "departmentId": "d565316f-2db3-4acd-93b2-c212b1254ec4",
+      "link": "https://www.doctorbangladesh.com/dr-md-khaled-monsur/",
+      "imageId": "7453c9c9-cb11-4f33-96f2-5ca86a1370e5",
+      "name": "Dr. Md. Khaled Monsur",
+      "degree": "MBBS, D-ORTHO (DU)",
+      "specialty": "Orthopedic Specialist & Trauma Surgeon",
+      "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+      "info": "Dr. Md. Khaled Monsur is a Orthopedic Surgeon in Narayanganj. His qualification is MBBS, D-ORTHO (DU). He is a Consultant, Orthopedic at National Institute of Traumatology & Orthopedic Rehabilitation. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Md. Khaled Monsur at Popular Diagnostic Center, Narayanganj is 1pm to 3.30pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "1pm to 3.30pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "d55ef578-a228-4510-b4be-d23978417678",
+      "departmentId": "d565316f-2db3-4acd-93b2-c212b1254ec4",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahfuzurrahman/",
+      "imageId": "2a985525-0a02-49c3-b37b-8e02252dc0c7",
+      "name": "Dr. Md. Mahfuzur Rahman",
+      "degree": "MBBS (DU), BCS (Health), MS (Orthopaedics)",
+      "specialty": "Orthopedics (Bone, Joint, Spine) Specialist & Trauma Surgeon",
+      "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+      "info": "Dr. Md. Mahfuzur Rahman is a Orthopedic Surgeon in Narayanganj. His qualification is MBBS (DU), BCS (Health), MS (Orthopaedics). He is a Consultant (Orthopedics) at National Institute of Traumatology & Orthopedic Rehabilitation. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Md. Mahfuzur Rahman at Popular Diagnostic Center, Narayanganj is 2pm to 5pm (Sat, Tue & Thu).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Balur Math, Chashara, Narayanganj",
+        "visitingTime": "2pm to 5pm (Sat, Tue & Thu)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "doctor": [
+    {
+      "id": "159bb783-1507-485d-b73f-dbb231ad6dee",
+      "departmentId": "6e28893f-3cdd-4de4-878c-d043badd6550",
+      "link": "https://www.doctorbangladesh.com/dr-shafqat-wahid-shishir/",
+      "imageId": "930c7eb2-3433-4846-8a39-363837b6a8e6",
+      "name": "Dr. Shafquat Waheed Shishir",
+      "degree": "MBBS (DMC), MCPS (Psychiatry), FCPS (Psychiatry)",
+      "specialty": "Psychiatry (Mental Diseases, Brain, Sex & Drug Addiction) Specialist",
+      "workplace": "Mental Hospital, Pabna",
+      "info": "Sono Consultation Center, Kushtia Address: Sono Tower 2, Court Para, Kushtia, Bangladesh Visiting Hour: 3pm to 8pm (Only Saturday) Appointment: +8801770997352 Call Now",
+      "chamber": {
+        "hospital": "Digital Diagnostic Center, Pabna",
+        "address": "Kazi Office Road, Thana Para, Shalgaria, Pabna",
+        "visitingTime": "4pm to 8pm (Sun, Mon, Wed & Thu)",
+        "appointmentNumber": "+8801748343270Call Now"
+      }
+    },
+    {
+      "id": "e09817a1-6832-478d-95a4-3b8c1ad4e291",
+      "departmentId": "6e28893f-3cdd-4de4-878c-d043badd6550",
+      "link": "https://www.doctorbangladesh.com/prof-dr-salemir-hossain-chowdhury/",
+      "imageId": "cfde3839-4a0a-465c-bddb-324c1d4cdcdb",
+      "name": "Prof. Dr. Salemir Hossain Chowdhury",
+      "degree": "MBBS, FCPS (Psychiatry), FRSH (London), WHO Fellow (Bangalore)",
+      "specialty": "Psychiatry (Mental Diseases, Headache, Epilepsy, Drug Addiction) Specialist",
+      "workplace": "Shahabuddin Medical College & Hospital",
+      "info": "Prof. Dr. Salemir Hossain Chowdhury is a Psychiatrist in Kushtia. His qualification is MBBS, FCPS (Psychiatry), FRSH (London), WHO Fellow (Bangalore). He is a Professor, Psychiatry at Shahabuddin Medical College & Hospital. He regularly provides treatment to his patients at Sono Diagnostic Center, Kushtia. Practicing hour of Prof. Dr. Salemir Hossain Chowdhury at Sono Diagnostic Center, Kushtia is 7am to 7pm (Only Thursday).",
+      "chamber": {
+        "hospital": "Sono Diagnostic Center, Kushtia",
+        "address": "Sono Tower, College Mor, Court Para, Kushtia",
+        "visitingTime": "7am to 7pm (Only Thursday)",
+        "appointmentNumber": "+8801934914714Call Now"
+      }
+    }
+  ]
+}

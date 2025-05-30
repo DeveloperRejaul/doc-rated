@@ -1,0 +1,89 @@
+{
+  "doctor": [
+    {
+      "id": "80deff5a-6a54-4d6a-8f88-cf00b9d7fead",
+      "departmentId": "999c7886-3e82-454a-816d-3eb9cf217ef0",
+      "link": "https://www.doctorbangladesh.com/dr-a-k-m-monoarul-islam/",
+      "imageId": "daaeef92-f41e-4c71-a638-4789a0f883e3",
+      "name": "Prof. Dr. A.K.M. Monoarul Islam",
+      "degree": "MBBS, DCM, MD (Nephrology), FACP (USA)",
+      "specialty": "Kidney Diseases, Dialysis, Transplant & Medicine Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Shapla Diagnostic Complex, Rajshahi Address: Greater Road, Laxmipur, Kazihata, Rajshahi Visiting Hour: 5pm to 10pm (Closed: Friday) Appointment: +8801732688664 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "4:30pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787811Call Now"
+      }
+    },
+    {
+      "id": "0bc353e6-1cc7-46ee-8d8d-84f6220a1c9b",
+      "departmentId": "999c7886-3e82-454a-816d-3eb9cf217ef0",
+      "link": "https://www.doctorbangladesh.com/dr-nurul-islam-chowdhury/",
+      "imageId": "e1ab23b4-b735-4bf7-b924-a8a610e2e9f9",
+      "name": "Dr. Nurul Islam Chowdhury",
+      "degree": "MBBS, MD (Nephrology)",
+      "specialty": "Kidney Diseases, Dialysis & Transplant Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Green Diagnostic and Consultant Center, Rajshahi Address: Laxmipur, Rajshahi Visiting Hour: 2pm to 4pm (Closed: Friday) Appointment: +8801766-655966 Call Now",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Rajshahi",
+        "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801777242536Call Now"
+      }
+    },
+    {
+      "id": "2fae41cb-87bf-4ca2-9ad2-ae1aa7d6c337",
+      "departmentId": "999c7886-3e82-454a-816d-3eb9cf217ef0",
+      "link": "https://www.doctorbangladesh.com/dr-md-siddiqur-rahman-sohel/",
+      "imageId": "16124751-7127-458e-ba77-826e2893fcdc",
+      "name": "Dr. Md. Siddiqur Rahman Sohel",
+      "degree": "MBBS, BCS (Health), MD (Nephrology)",
+      "specialty": "Kidney Diseases Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Md. Siddiqur Rahman Sohel is a Kidney Specialist in Rajshahi. His qualification is MBBS, BCS (Health), MD (Nephrology). He is a Assistant Professor, Nephrology at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Md. Siddiqur Rahman Sohel at Popular Diagnostic Center, Rajshahi is 3pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "3pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787811Call Now"
+      }
+    },
+    {
+      "id": "ff4f4911-6a41-4f5a-b0ef-cf459de81520",
+      "departmentId": "999c7886-3e82-454a-816d-3eb9cf217ef0",
+      "link": "https://www.doctorbangladesh.com/dr-safayet-hossain-pramanik/",
+      "imageId": "dbc4d555-2b77-47fd-b07b-f3afec7cea41",
+      "name": "Dr. Safayet Hossain Pramanik",
+      "degree": "MBBS, BCS (Health), MD (Nephrology), MACP (USA)",
+      "specialty": "Kidney Diseases Specialist (Nephrologist)",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Safayet Hossain Pramanik is a Nephrologist in Rajshahi. His qualification is MBBS, BCS (Health), MD (Nephrology), MACP (USA). He is a Consultant (Nephrology) at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Safayet Hossain Pramanik at Popular Diagnostic Center, Rajshahi is 2.30pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "Room No: 806, Bhaban 01, Laxmipur, Rajshahi",
+        "visitingTime": "2.30pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801711051046, +8809666787811Call Now"
+      }
+    },
+    {
+      "id": "d7c0af13-8742-4693-9ac1-1e35206213c2",
+      "departmentId": "999c7886-3e82-454a-816d-3eb9cf217ef0",
+      "link": "https://www.doctorbangladesh.com/dr-md-nasiruddin/",
+      "imageId": "cec79785-d522-40c4-a01f-d9c19042fe54",
+      "name": "Dr. Md. Nasir Uddin",
+      "degree": "MBBS, BCS (Health), MD (Nephrology)",
+      "specialty": "Kidney Diseases Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Md. Nasir Uddin is a Nephrologist in Rajshahi. His qualification is MBBS, BCS (Health), MD (Nephrology). He is a Consultant (Nephrology) at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Md. Nasir Uddin at Popular Diagnostic Center, Rajshahi is 2pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "2pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787811Call Now"
+      }
+    }
+  ]
+}

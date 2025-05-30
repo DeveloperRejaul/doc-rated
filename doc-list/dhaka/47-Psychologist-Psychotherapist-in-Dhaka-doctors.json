@@ -1,0 +1,38 @@
+{
+  "doctor": [
+    {
+      "id": "c17abc6b-498e-438e-9eda-a3ff2386797f",
+      "departmentId": "33159f41-f106-4027-95ce-75d56464cd54",
+      "link": "https://www.doctorbangladesh.com/dr-chaya-bhattacharjee/",
+      "imageId": "7ee995f8-d2af-466f-abd3-72552d15cbe0",
+      "name": "Dr. Chaya Bhattacharjee",
+      "degree": "M.Sc (Psychology), M.Phil (Psychology), Ph.D (Psychology)",
+      "specialty": "Psychologist & Therapeutic Counselor",
+      "workplace": "Labaid Specialized Hospital, Dhanmondi",
+      "info": "Dr. Chaya Bhattacharjee is a Psychologist in Dhaka. Her qualification is M.Sc (Psychology), M.Phil (Psychology), Ph.D (Psychology). She is a Consultant, Psychology at Labaid Specialized Hospital, Dhanmondi. She regularly provides treatment to her patients at Labaid Specialized Hospital, Dhanmondi. Practicing hour of Dr. Chaya Bhattacharjee at Labaid Specialized Hospital, Dhanmondi is 10am to 4pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Dhanmondi",
+        "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "10am to 4pm (Closed: Friday)",
+        "appointmentNumber": "10606Call Now"
+      }
+    },
+    {
+      "id": "3766cd6f-ee15-428c-b4df-ad25aacb3cf3",
+      "departmentId": "33159f41-f106-4027-95ce-75d56464cd54",
+      "link": "https://www.doctorbangladesh.com/selina-fatema-binte-shahid/",
+      "imageId": "10d7ed66-f45a-4817-a15c-a79e8db6f85b",
+      "name": "Selina Fatema Binte Shahid",
+      "degree": "B.Sc (Psychology), M.Sc (Clinical Psychology), M.Phil (Clinical Psychology)",
+      "specialty": "Clinical Psychologist & Psychotherapist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Selina Fatema Binte Shahid is a Psychologist in Dhaka. Her qualification is B.Sc (Psychology), M.Sc (Clinical Psychology), M.Phil (Clinical Psychology). She is a Assistant Professor, Clinical Psychology at Bangabandhu Sheikh Mujib Medical University Hospital. She regularly provides treatment to her patients at Bangladesh Psychiatric Care. Practicing hour of Selina Fatema Binte Shahid at Bangladesh Psychiatric Care is 3.30pm to 8.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Bangladesh Psychiatric Care",
+        "address": "Suit # 6020, Shimanto Shambhar (6th Floor), Dhanmondi, Dhaka",
+        "visitingTime": "3.30pm to 8.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801872863002Call Now"
+      }
+    }
+  ]
+}

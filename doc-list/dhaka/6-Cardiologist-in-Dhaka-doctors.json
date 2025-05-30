@@ -1,0 +1,55 @@
+{
+  "doctor": [
+    {
+      "id": "4f62ae6b-6f76-4815-a0e1-5e2dfaf96982",
+      "departmentId": "199c7b06-0002-44a4-809d-13c8e3d529e4",
+      "link": "https://www.doctorbangladesh.com/dr-bijoy-dutta/",
+      "imageId": "77010c4d-6a07-42cc-b054-331d5ba57f12",
+      "name": "Assoc. Prof. Dr. Bijoy Dutta",
+      "degree": "MBBS (DMC), MD (Cardiology), FSCAI (USA)",
+      "specialty": "Cardiology (Heart Diseases, Hypertension & Rheumatic Fever) SpecialistClinical & Interventional Cardiologist",
+      "workplace": "National Institute of Cardiovascular Diseases & Hospital",
+      "info": "Dr Bijoy Dutta was graduated from Dhaka Medical College in 2000. He passed MD in Cardiology from NICVD, Dhaka. He is a fellow of Society for Cardiovascular Angiography and Intervention- USA. Now he is working as Associate Professor of Cardiology at NICVD, Dhaka. He has done more than 4000 CAG, 1500 PTCA, 350 PPM implantation. He regularly provides treatment to his patients at Labaid Diagnostic, Malibagh. Practicing hour of Assoc. Prof. Dr. Bijoy Dutta at Labaid Diagnostic, Malibagh is 7pm to 10pm (Closed: Tues & Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Malibagh",
+        "address": "House # B65, Chowdhury Para, Malibagh, Dhaka",
+        "visitingTime": "7pm to 10pm (Closed: Tues & Friday)",
+        "appointmentNumber": "+8801766662555Call Now"
+      }
+    },
+    {
+      "id": "5b4a97f3-dd52-4b5d-bbf1-2bc4d4565696",
+      "departmentId": "199c7b06-0002-44a4-809d-13c8e3d529e4",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-sahabuddin-khan/",
+      "imageId": "fd20d42e-8479-4fcd-8a3f-413959a97c46",
+      "name": "Prof. Dr. Md. Sahabuddin Khan",
+      "degree": "MBBS (DMC), MCPS (Medicine), MD (Cardiology), Ph.D, MRCP (Ireland), FRCP (Ireland)",
+      "specialty": "Medicine & Cardiology Specialist",
+      "workplace": "Al-Helal Specialized Hospital Ltd.",
+      "info": "",
+      "chamber": {
+        "hospital": "Al-Helal Specialized Hospital Ltd.",
+        "address": "150, Begum Rokeya Sarani, Senpara-Parbata, Mirpur-10, Dhaka",
+        "visitingTime": "5pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801678090800Call Now"
+      }
+    },
+    {
+      "id": "541fde63-0f15-4aea-8e52-752c8ff79922",
+      "departmentId": "199c7b06-0002-44a4-809d-13c8e3d529e4",
+      "link": "https://www.doctorbangladesh.com/prof-dr-toufiqur-rahman-faruque/",
+      "imageId": "6a9497eb-cded-42ab-a303-ab467a8d6666",
+      "name": "Prof. Dr. Toufiqur Rahman Faruque",
+      "degree": "MBBS (DMC), MD (Cardiology), FCPS (Medicine), FACC (USA), FACP (USA), FASE (USA),FSCAI (USA), FRCP (Glasgow & Edinburgh), FCCP (USA), FESC (Europe),FAHA (USA), FAPSIC (Singapore), FAPSC (Japan)",
+      "specialty": "Cardiology, Medicine, Rheumatic Fever & Diabetes Specialist",
+      "workplace": "National Institute of Cardiovascular Diseases & Hospital",
+      "info": "Prof. Dr. Toufiqur Rahman Faruque is a Cardiologist in Dhaka. His qualification is MBBS (DMC), MD (Cardiology), FCPS (Medicine), FACC (USA), FACP (USA), FASE (USA), FSCAI (USA), FRCP (Glasgow & Edinburgh), FCCP (USA), FESC (Europe), FAHA (USA), FAPSIC (Singapore), FAPSC (Japan). He is a Professor & Head of the Department (Cardiology) at National Institute of Cardiovascular Diseases & Hospital. He regularly provides treatment to his patients at Medinova Medical Services, Malibagh. Practicing hour of Prof. Dr. Toufiqur Rahman Faruque at Medinova Medical Services, Malibagh is 2pm to 8pm (Sat to Thu), 10am to 12pm (Friday).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Malibagh",
+        "address": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
+        "visitingTime": "2pm to 8pm (Sat to Thu), 10am to 12pm (Friday)",
+        "appointmentNumber": "+8801790118855Call Now"
+      }
+    }
+  ]
+}

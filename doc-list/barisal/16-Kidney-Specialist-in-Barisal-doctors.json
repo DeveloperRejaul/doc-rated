@@ -1,0 +1,55 @@
+{
+  "doctor": [
+    {
+      "id": "1b0885b4-a91a-4b9f-abc5-1ab7ae0a0ec0",
+      "departmentId": "d8764472-6137-4f66-95de-63002574a05f",
+      "link": "https://www.doctorbangladesh.com/dr-mohammed-ali-rumi/",
+      "imageId": "e23a1ea3-650d-4012-a312-86183135aa0a",
+      "name": "Dr. Mohammed Ali Rumi",
+      "degree": "MBBS, BCS (Health), MD (Nephrology)",
+      "specialty": "Kidney Diseases Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Labaid Diagnostic, Barisal Address: K Jahan Center, House # 106, Sadar Road, Barisal Visiting Hour: 3pm to 4pm (Closed: Friday) Appointment: +8801766663305 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "5pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787819Call Now"
+      }
+    },
+    {
+      "id": "99280bc2-88eb-4095-8be3-24d65ae551e4",
+      "departmentId": "d8764472-6137-4f66-95de-63002574a05f",
+      "link": "https://www.doctorbangladesh.com/dr-manabendra-das/",
+      "imageId": "d2e6ac6d-fa15-45d2-921d-dc5997d6aaa3",
+      "name": "Dr. Manabendra Das",
+      "degree": "MBBS, MD (Nephrology)",
+      "specialty": "Kidney Diseases, Dialysis & Medicine Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Rahat Anwar Hospital, Barisal Address: Band Road, Chandmari, Barisal Sadar, Barisal – 8200 Visiting Hour: 2pm to 5pm (Closed: Friday) Appointment: +8801711993953 Call Now",
+      "chamber": {
+        "hospital": "South Apollo Diagnostic Complex, Barisal",
+        "address": "135, Sadar Road, Barisal",
+        "visitingTime": "2.30pm to 3.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801711457444Call Now"
+      }
+    },
+    {
+      "id": "987f07a6-f8bf-48e9-bde5-fda27b0303b2",
+      "departmentId": "d8764472-6137-4f66-95de-63002574a05f",
+      "link": "https://www.doctorbangladesh.com/dr-dhananjoy-dey-biplab/",
+      "imageId": "b2a17d6f-e1aa-436f-b858-0fd5ee063342",
+      "name": "Dr. Dhananjoy Dey Biplab",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery), MS (Urology)",
+      "specialty": "Urology (Kidneys, Ureters, Prostate), Male Infertility Specialist & Surgeon",
+      "workplace": "Government of the People's Republic of Bangladesh",
+      "info": "Popular Diagnostic Center, BarisalAddress: 955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, BarisalVisiting Hour: 4pm to 7pm (Everyday)Appointment: +8809666787819Call Now",
+      "chamber": {
+        "hospital": "Rahat Anwar Hospital, Barisal",
+        "address": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
+        "visitingTime": "4pm to 8pm (Closed: Fri & Sat)",
+        "appointmentNumber": "+8801711993953Call Now"
+      }
+    }
+  ]
+}

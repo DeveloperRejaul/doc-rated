@@ -1,0 +1,514 @@
+{
+  "doctor": [
+    {
+      "id": "16812def-a1d9-46b1-aaa2-e94ea31c05d1",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-mostafizur-rahman/",
+      "imageId": "852b4222-6866-44ff-864f-756d746ff895",
+      "name": "Prof. Dr. Md. Mostafizur Rahman",
+      "degree": "MBBS, FCPS (Medicine), FRCP (UK), FCCP (USA)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Anwer Khan Modern Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, Bangabandhu Road, Chashara, Narayanganj – 1400 Visiting Hour: 9am to 5pm (Closed: Thu & Fri) Appointment: +8809666787804 Call Now",
+      "chamber": {
+        "hospital": "Anwer Khan Modern Medical College Hospital",
+        "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
+        "visitingTime": "9am to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801757138425Call Now"
+      }
+    },
+    {
+      "id": "467d6754-adf2-4cd2-a7fd-6351ae42b70f",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/prof-dr-sk-md-abu-zafar/",
+      "imageId": "08188acb-fc83-4c7b-976b-8298b6d95c88",
+      "name": "Prof. Dr. Sk. Md. Abu Zafar",
+      "degree": "MBBS, FCPS (Medicine), FCCP, FACP (USA)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Prof. Dr. Sk. Md. Abu Zafar is a Medicine Specialist in Narayanganj. His qualification is MBBS, FCPS (Medicine), FCCP, FACP (USA). He is a Professor, Department of Medicine at Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Prof. Dr. Sk. Md. Abu Zafar at Popular Diagnostic Center, Narayanganj is 10am to 12pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "10am to 12pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "94504f35-a855-4e6f-9c5e-0b8723d0de36",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/prof-dr-sanjoy-kumar-saha/",
+      "imageId": "1163f90c-4e01-4f85-b0a5-d95f53ccfd50",
+      "name": "Prof. Dr. Sanjoy Kumar Saha",
+      "degree": "MBBS, FCPS (Medicine)",
+      "specialty": "Medicine (All Diseases) Specialist",
+      "workplace": "Bashundhara Ad-Din Medical College & Hospital",
+      "info": "Prof. Dr. Sanjoy Kumar Saha is a Medicine Specialist in Narayanganj. His qualification is MBBS, FCPS (Medicine). He is a Professor, Department of Medicine at Bashundhara Ad-Din Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Prof. Dr. Sanjoy Kumar Saha at Popular Diagnostic Center, Narayanganj is 10am to 12:30pm (Mon, Wed & Friday), 7pm to 9pm (Everyday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "10am to 12:30pm (Mon, Wed & Friday), 7pm to 9pm (Everyday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "0cbb292d-ef07-4ba2-893f-b6420b8082af",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-akm-humayun-kabir/",
+      "imageId": "e95c2ede-e3d2-4cd1-aec8-73b4f2254528",
+      "name": "Dr. AKM Humayun Kabir",
+      "degree": "MBBS (DMC), MCPS (Medicine), FCPS (Medicine)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, B.B. Road, Chashara, Narayanganj – 1400 Visiting Hour: 3pm to 10pm (Sat, Mon & Wed) Appointment: +8809666787804 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Shantinagar",
+        "address": "Unit # 01, House # 11, Shantinagar, Motijheel, Dhaka",
+        "visitingTime": "6pm to 9pm (Sun, Tue, Thu & Fri)",
+        "appointmentNumber": "+8809666787803Call Now"
+      }
+    },
+    {
+      "id": "835b489c-6e00-47d4-ac49-5c1fb4e93240",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-anwarul-bari/",
+      "imageId": "8701834e-cb88-48c1-adb0-642f1cfe2014",
+      "name": "Dr. Mohammad Anwarul Bari",
+      "degree": "MBBS (DMC), FCPS (Medicine), FACP (USA)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Dr. Mohammad Anwarul Bari is a Medicine Specialist in Narayanganj. His qualification is MBBS (DMC), FCPS (Medicine), FACP (USA). He is a Associate Professor, Department of Medicine at Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at Medinova Medical Services, Narayanganj. Practicing hour of Dr. Mohammad Anwarul Bari at Medinova Medical Services, Narayanganj is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Narayanganj",
+        "address": "145, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801913119989Call Now"
+      }
+    },
+    {
+      "id": "48c29688-06aa-4ff5-b366-18fd2235ef42",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-ariful-islam/",
+      "imageId": "597f59c0-7eb4-4c22-84f1-329d9c5e6557",
+      "name": "Dr. Mohammad Ariful Islam",
+      "degree": "MBBS (DMC), FCPS (Medicine), MD (Internal Medicine)",
+      "specialty": "Internal Medicine Specialist",
+      "workplace": "National Institute of Cancer Research & Hospital",
+      "info": "Dr. Mohammad Ariful Islam is a Medicine Specialist in Narayanganj. His qualification is MBBS (DMC), FCPS (Medicine), MD (Internal Medicine). He is a Assistant Professor, Department of Medicine at National Institute of Cancer Research & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Mohammad Ariful Islam at Popular Diagnostic Center, Narayanganj is 2pm to 9pm (Closed: Sunday), 10am to 9pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "2pm to 9pm (Closed: Sunday), 10am to 9pm (Friday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "3172987a-676e-42fe-ba2c-1f25e6f827c0",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-sheikh-samsuzzaman/",
+      "imageId": "96fad766-240b-48e4-a3c5-1512709c8f89",
+      "name": "Dr. Sheikh Samsuzzaman",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Cardiology)",
+      "specialty": "Cardiology, Hypertension, Rheumatic Fever & Medicine Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Sheikh Samsuzzaman is a Cardiologist in Narayanganj. His qualification is MBBS, BCS (Health), FCPS (Medicine), MD (Cardiology). He is a Consultant, Department of Medicine at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Sheikh Samsuzzaman at Popular Diagnostic Center, Narayanganj is 3:30pm to 8pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "3:30pm to 8pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "099d05d1-8500-4dfc-9569-0904e7a1ce04",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-a-h-m-waliur-rahman-sumon/",
+      "imageId": "bb6a2c99-a21a-4cb2-84aa-30f943372cb8",
+      "name": "Dr. A.H.M. Waliur Rahman Sumon",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Dr. A.H.M. Waliur Rahman Sumon is a Medicine Specialist in Narayanganj. His qualification is MBBS, BCS (Health), FCPS (Medicine). He is a Assistant Professor, Department of Medicine at Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. A.H.M. Waliur Rahman Sumon at Popular Diagnostic Center, Narayanganj is 4pm to 9pm (Sat to Thu), 10am to 12:30pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "4pm to 9pm (Sat to Thu), 10am to 12:30pm (Friday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "20d1d8f6-accf-4fb4-97a6-7c376149efff",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-a-k-m-humayan-kabir/",
+      "imageId": "9b585057-e23b-4079-9e6b-73a8e507c6c0",
+      "name": "Dr. A.K.M Humayan Kabir",
+      "degree": "MBBS (DMC), MCPS (Medicine), FCPS (Medicine)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. A.K.M Humayan Kabir is a Medicine Specialist in Narayanganj. His qualification is MBBS (DMC), MCPS (Medicine), FCPS (Medicine). He is a Associate Professor, Department of Medicine at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. A.K.M Humayan Kabir at Popular Diagnostic Center, Narayanganj is 3pm to 9pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "3pm to 9pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "1be9e2b7-1333-48bb-b0f6-34beb958b92d",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-dilruba-alam/",
+      "imageId": "3efd168f-a9d9-4cd1-b71f-ed79cc26f3b4",
+      "name": "Dr. Dilruba Alam",
+      "degree": "MBBS, FCPS (Medicine), CCD (BIRDEM)",
+      "specialty": "Medicine & Diabetes Specialist",
+      "workplace": "Birdem General Hospital & Ibrahim Medical College",
+      "info": "Dr. Dilruba Alam is a Medicine Specialist in Narayanganj. Her qualification is MBBS, FCPS (Medicine), CCD (BIRDEM). She is a Assistant Professor, Department of Medicine at Birdem General Hospital & Ibrahim Medical College. She regularly provides treatment to her patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Dilruba Alam at Popular Diagnostic Center, Narayanganj is 5pm to 8pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "5pm to 8pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "4a5ec857-d9f0-4d55-a6bb-80468a403893",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-m-a-mannan-medicine/",
+      "imageId": "37ae0445-de72-412c-9842-d12e1b697fe2",
+      "name": "Dr. M. A. Mannan",
+      "degree": "MBBS, FCPS (Medicine)",
+      "specialty": "Medicine & Rheumatic Fever Specialist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Dr. M. A. Mannan is a Medicine Specialist in Narayanganj. His qualification is MBBS, FCPS (Medicine). He is a Associate Professor, Department of Medicine at Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at Modern Diagnostic Center, Narayanganj. Practicing hour of Dr. M. A. Mannan at Modern Diagnostic Center, Narayanganj is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Modern Diagnostic Center, Narayanganj",
+        "address": "207, Bangabandhu Road, Chashara, Narayanganj - 1400",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801820842293Call Now"
+      }
+    },
+    {
+      "id": "96a15bb6-1f55-44ff-bf6c-b7d85a99fa1e",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-pk-datta-pankaj/",
+      "imageId": "db9943a4-d85e-4fe5-8ee7-2b286bed0db7",
+      "name": "Dr. PK Datta (Pankaj)",
+      "degree": "MBBS (DMC), BCS (Health), FCPS (Medicine)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. PK Datta (Pankaj) is a Medicine Specialist in Narayanganj. His qualification is MBBS (DMC), BCS (Health), FCPS (Medicine). He is a Assistant Professor, Department of Medicine at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. PK Datta (Pankaj) at Popular Diagnostic Center, Narayanganj is 4pm to 8pm (Sun, Tue & Thu), 11am to 8pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "4pm to 8pm (Sun, Tue & Thu), 11am to 8pm (Friday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "861c7bd7-8795-4733-b0c6-312a1827d28c",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-alamgir-hossain/",
+      "imageId": "6396dcde-f15f-4d0a-96d7-089819706ff7",
+      "name": "Dr. Alamgir Hossain",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), DEM, MRCP (UK)",
+      "specialty": "Medicine, Hormone & Diabetes Specialist",
+      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+      "info": "Dr. Alamgir Hossain is a Medicine Specialist in Narayanganj. His qualification is MBBS, BCS (Health), FCPS (Medicine), DEM, MRCP (UK). He is a Consultant, Department of Medicine at Shaheed Suhrawardy Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Alamgir Hossain at Popular Diagnostic Center, Narayanganj is 7.30pm to 9pm (Mon & Wed) & 4pm to 8pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "7.30pm to 9pm (Mon & Wed) & 4pm to 8pm (Friday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "00c85b69-f588-4506-9f8e-02ae160401a4",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-mahbub-hossain/",
+      "imageId": "f26e6663-7790-4941-8d5e-7663dd0d66eb",
+      "name": "Dr. Muhammad Mahbub Hossain",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), MACP (USA)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Dr. Muhammad Mahbub Hossain is a Medicine Specialist in Narayanganj. His qualification is MBBS, BCS (Health), FCPS (Medicine), MACP (USA). He is a Assistant Professor, Department of Medicine at Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Muhammad Mahbub Hossain at Popular Diagnostic Center, Narayanganj is 2pm to 7pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "2pm to 7pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "43176686-3c55-4292-96ff-11a044293647",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-sudip-kumar-das/",
+      "imageId": "37854827-af0c-4885-bfdd-6082f648b4d3",
+      "name": "Dr. Sudip Kumar Das",
+      "degree": "MBBS, MCPS (Internal Medicine), MD (Critical Care Medicine), MRCP (UK)",
+      "specialty": "Internal & Critical Care Medicine Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Sudip Kumar Das is a Medicine Specialist in Narayanganj. His qualification is MBBS, MCPS (Internal Medicine), MD (Critical Care Medicine), MRCP (UK). He is a Resident Medical Officer, Department of Medicine at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Sudip Kumar Das at Popular Diagnostic Center, Narayanganj is 10am to 2pm (Everyday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "10am to 2pm (Everyday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "5969e004-f42c-4c14-b61c-b41334ebe77b",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-shayekh-abdullah/",
+      "imageId": "827931df-2e74-4724-a77e-412d033bd73e",
+      "name": "Dr. Mohammad Shayekh Abdullah",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Mohammad Shayekh Abdullah is a Medicine Specialist in Narayanganj. His qualification is MBBS, BCS (Health), FCPS (Medicine). He is a Consultant, Department of Medicine at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Mohammad Shayekh Abdullah at Popular Diagnostic Center, Narayanganj is 4:30pm to 10pm (Closed: Thursday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "4:30pm to 10pm (Closed: Thursday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "0051864d-d5e0-496b-9759-b236efcb6309",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-sayed-ullah/",
+      "imageId": "9d64bb51-c3ee-49c1-ac1c-c46ca583d767",
+      "name": "Dr. Sayed Ullah",
+      "degree": "MBBS, FCPS (Medicine), CCD (BIRDEM), D-CARD, MRCP (UK)",
+      "specialty": "Medicine, Cardiology & Diabetes Specialist",
+      "workplace": "Popular Diagnostic Center Limited",
+      "info": "Dr. Sayed Ullah is a Medicine Specialist in Narayanganj. His qualification is MBBS, FCPS (Medicine), CCD (BIRDEM), D-CARD, MRCP (UK). He is a Consultant, Department of Medicine at Popular Diagnostic Center Limited. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Sayed Ullah at Popular Diagnostic Center, Narayanganj is 8pm to 10pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "8pm to 10pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "6309a2d5-c3d3-4b98-982d-f07b1f0ab73e",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-a-m-k-saifullah/",
+      "imageId": "2d869b16-8b29-4817-941b-96ee66f4b2b8",
+      "name": "Dr. A. M. K. Saifullah",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), FCPS (Pulmonology) (Thesis)",
+      "specialty": "Medicine & Chest Diseases Specialist",
+      "workplace": "National Institute of Diseases of the Chest & Hospital",
+      "info": "Dr. A. M. K. Saifullah is a Medicine Specialist in Narayanganj. His qualification is MBBS, BCS (Health), FCPS (Medicine), FCPS (Pulmonology) (Thesis). He is a Resident Medical Officer, Department of Medicine at National Institute of Diseases of the Chest & Hospital. He regularly provides treatment to his patients at Medinova Medical Services, Narayanganj. Practicing hour of Dr. A. M. K. Saifullah at Medinova Medical Services, Narayanganj is 7pm to 9.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Narayanganj",
+        "address": "145, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "7pm to 9.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801913119989Call Now"
+      }
+    },
+    {
+      "id": "30c18ac9-ad9e-4c56-adfc-6eaa74e6e779",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-sharmin-sultana-setu/",
+      "imageId": "b4006ef2-1cd2-444c-b5b4-de59e1842a4c",
+      "name": "Dr. Sharmin Sultana Setu",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), MACP (USA), CCEBDM (India), CCD (BIRDEM)",
+      "specialty": "Medicine & Diabetes Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Sharmin Sultana Setu is a Medicine Specialist in Narayanganj. Her qualification is MBBS, BCS (Health), FCPS (Medicine), MACP (USA), CCEBDM (India), CCD (BIRDEM). She is a Consultant, Department of Medicine at Dhaka Medical College & Hospital. She regularly provides treatment to her patients at Medinova Medical Services, Narayanganj. Practicing hour of Dr. Sharmin Sultana Setu at Medinova Medical Services, Narayanganj is 4pm to 6pm (Only Thursday).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Narayanganj",
+        "address": "145, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "4pm to 6pm (Only Thursday)",
+        "appointmentNumber": "+8801913119989Call Now"
+      }
+    },
+    {
+      "id": "c8e5f598-8bb9-44bc-b5f0-8751941a4f44",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-krishna-pada-banik/",
+      "imageId": "537a08d3-6e86-4ed3-97b1-1d35ea7666ad",
+      "name": "Dr. Krishna Pada Banik",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), CCD (BIRDEM)",
+      "specialty": "Medicine & Diabetes Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Krishna Pada Banik is a Medicine Specialist in Narayanganj. His qualification is MBBS, BCS (Health), FCPS (Medicine), CCD (BIRDEM). He is a Consultant, Department of Medicine at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Krishna Pada Banik at Popular Diagnostic Center, Narayanganj is 4pm to 9pm (Sun, Tue & Thu) & 10am to 1pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "4pm to 9pm (Sun, Tue & Thu) & 10am to 1pm (Friday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "282ae2be-f93c-424c-9c93-5a9638445cae",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-md-al-amin/",
+      "imageId": "f465a6b6-08f4-4ca4-b16a-e0431e2e7b5a",
+      "name": "Dr. Md. Al-Amin",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Md. Al-Amin is a Medicine Specialist in Narayanganj. His qualification is MBBS, BCS (Health), FCPS (Medicine). He is a Consultant, Department of Medicine at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Md. Al-Amin at Popular Diagnostic Center, Narayanganj is 5pm to 8pm (Mon, Thu & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "5pm to 8pm (Mon, Thu & Friday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "f1b9c975-a108-4456-a549-daaddab60a31",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-kazi-shihab-uddin-ibrahim/",
+      "imageId": "25c6b65a-f3e7-4291-9ef7-51d05a6841a1",
+      "name": "Dr. Quazi Shihab Uddin Ibrahim",
+      "degree": "MBBS, FCPS (Medicine)",
+      "specialty": "Medicine (All Diseases) Specialist",
+      "workplace": "National Institute of Cancer Research & Hospital",
+      "info": "Dr. Quazi Shihab Uddin Ibrahim is a Medicine Specialist in Narayanganj. His qualification is MBBS, FCPS (Medicine). He is a Consultant, Department of Medicine at National Institute of Cancer Research & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Quazi Shihab Uddin Ibrahim at Popular Diagnostic Center, Narayanganj is 5pm to 8pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "5pm to 8pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "feac0946-4818-496c-a6a0-caf5b2b8c6d1",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-marshia-rahman-mitu/",
+      "imageId": "159194b4-dc73-4c18-a596-d524884553f8",
+      "name": "Dr. Marshia Rahman Mitu",
+      "degree": "MBBS (DMC), BCS (Health), FCPS (Medicine)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Marshia Rahman Mitu is a Medicine Specialist in Narayanganj. Her qualification is MBBS (DMC), BCS (Health), FCPS (Medicine). She is a Consultant, Department of Medicine at Dhaka Medical College & Hospital. She regularly provides treatment to her patients at Medinova Medical Services, Narayanganj. Practicing hour of Dr. Marshia Rahman Mitu at Medinova Medical Services, Narayanganj is 5pm to 8pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Narayanganj",
+        "address": "145, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "5pm to 8pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801913119989Call Now"
+      }
+    },
+    {
+      "id": "da82af68-2027-4d4e-9f76-a1fbbd828d13",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-shamsuddoha-sarkar-sanchoy/",
+      "imageId": "c7f62c5a-e48c-468b-b69a-73b2f630a5d1",
+      "name": "Dr. Shamsuddoha Sarkar Sanchoy",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), MACP (USA), CCD (BIRDEM)",
+      "specialty": "Medicine, Chest Diseases & Diabetes Specialist",
+      "workplace": "300 Bed Hospital, Narayanganj",
+      "info": "Dr. Shamsuddoha Sarkar Sanchoy is a Medicine Specialist in Narayanganj. His qualification is MBBS, BCS (Health), FCPS (Medicine), MACP (USA), CCD (BIRDEM). He is a Consultant, Department of Medicine at 300 Bed Hospital, Narayanganj. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Shamsuddoha Sarkar Sanchoy at Popular Diagnostic Center, Narayanganj is 6pm to 9pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "6pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "93ff8eb6-6f46-4333-a1d3-8df8b25b809f",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-khandaker-anwar-kadir-darpan/",
+      "imageId": "d6c64f71-2c22-4e8a-8e67-922813469c08",
+      "name": "Dr. Khandaker Anwar Kadir (Darpan)",
+      "degree": "MBBS (Dhaka), CCD (BIRDEM), BCS (Health), FCGP (Medicine), MD (BSMMU)",
+      "specialty": "Medicine & Diabetes Specialist",
+      "workplace": "Modern Diagnostic Center, Narayanganj",
+      "info": "Dr. Khandaker Anwar Kadir (Darpan) is a Medicine Specialist in Narayanganj. His qualification is MBBS (Dhaka), CCD (BIRDEM), BCS (Health), FCGP (Medicine), MD (BSMMU). He is a Consultant, Department of Medicine at Modern Diagnostic Center, Narayanganj. He regularly provides treatment to his patients at Modern Diagnostic Center, Narayanganj. Practicing hour of Dr. Khandaker Anwar Kadir (Darpan) at Modern Diagnostic Center, Narayanganj is 11am to 1pm & 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Modern Diagnostic Center, Narayanganj",
+        "address": "207, Bangabandhu Road, Chashara, Narayanganj - 1400",
+        "visitingTime": "11am to 1pm & 5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801820842293Call Now"
+      }
+    },
+    {
+      "id": "b6a8a8df-79d4-4cc0-a4ea-acb0181a3fe1",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-wasif-chisty/",
+      "imageId": "82007185-adf4-4251-ab82-d903ab6f8374",
+      "name": "Dr. Wasif Chisty",
+      "degree": "MBBS, BCS (Health), MCPS (Medicine), MD (Pulmonology - Phase B)",
+      "specialty": "Medicine Specialist & Pulmonologist",
+      "workplace": "National Institute of Diseases of the Chest & Hospital",
+      "info": "Dr. Wasif Chisty is a Medicine Specialist in Narayanganj. His qualification is MBBS, BCS (Health), MCPS (Medicine), MD (Pulmonology - Phase B). He is a Medicine Specialist & Pulmonologist at National Institute of Diseases of the Chest & Hospital. He regularly provides treatment to his patients at Medinova Medical Services, Narayanganj. Practicing hour of Dr. Wasif Chisty at Medinova Medical Services, Narayanganj is 6pm to 9pm (Sun, Mon & Wednesday).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Narayanganj",
+        "address": "Room 426 (Lift 3), 145, Bangabandhu Road, Chashara, Narayanganj",
+        "visitingTime": "6pm to 9pm (Sun, Mon & Wednesday)",
+        "appointmentNumber": "+8801687417873Call Now"
+      }
+    },
+    {
+      "id": "22f2c44d-20af-4e9c-a966-efedb1047d4b",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-nur-faysal-ahmmed/",
+      "imageId": "be9d0271-b809-4a03-a360-a0f3f4545663",
+      "name": "Dr. Nur Faysal Ahmmed",
+      "degree": "MBBS, FCPS (Medicine)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Mugda Medical College & Hospital",
+      "info": "Dr. Nur Faysal Ahmmed is a Medicine Specialist in Narayanganj. His qualification is MBBS, FCPS (Medicine). He is a Associate Professor (Medicine) at Mugda Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Nur Faysal Ahmmed at Popular Diagnostic Center, Narayanganj is 3pm to 11pm (Sat to Thu), 9am to 5pm (Fri).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Balur Math, Chashara, Narayanganj",
+        "visitingTime": "3pm to 11pm (Sat to Thu), 9am to 5pm (Fri)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "d044679d-379c-4bd4-a32c-657540e595bb",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-debabrata-das/",
+      "imageId": "d6989c26-3bb9-49dc-a6c6-92fda8c30579",
+      "name": "Dr. Debabrata Das",
+      "degree": "MBBS (MMC), BCS (Health), MCPS (Medicine), MD (Medicine)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Gazaria Upazila Health Complex, Munshiganj",
+      "info": "Dr. Debabrata Das is a Medicine Specialist in Narayanganj. His qualification is MBBS (MMC), BCS (Health), MCPS (Medicine), MD (Medicine). He is a Jr. Consultant (Medicine) at Gazaria Upazila Health Complex, Munshiganj. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Debabrata Das at Popular Diagnostic Center, Narayanganj is 3pm to 9pm (Saturday & Wednesday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Balur Math, Chashara, Narayanganj",
+        "visitingTime": "3pm to 9pm (Saturday & Wednesday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "3a4b7548-be0c-4812-b04a-65fde22be55c",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-sultan-mahmud-sumon/",
+      "imageId": "937e5956-fd42-455d-b76c-5b52eea5402a",
+      "name": "Dr. Sultan Mahmud Sumon",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine)",
+      "specialty": "Medicine Specialist",
+      "workplace": "300 Bedded Hospital, Narayanganj",
+      "info": "Dr. Sultan Mahmud Sumon is a Medicine Specialist in Narayanganj. His qualification is MBBS, BCS (Health), FCPS (Medicine). He is a Senior Consultant & Head (Medicine) at 300 Bedded Hospital, Narayanganj. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Sultan Mahmud Sumon at Popular Diagnostic Center, Narayanganj is 2pm to 6pm (Sat, Mon, Wed & Fri).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Balur Math, Chashara, Narayanganj",
+        "visitingTime": "2pm to 6pm (Sat, Mon, Wed & Fri)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "39c2661e-57de-4a01-91ad-a4384d75deab",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-mahbub-hasan-babu/",
+      "imageId": "faac7dca-cbdb-470f-8f07-97107893eb2d",
+      "name": "Dr. Mahbub Hasan (Babu)",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine)",
+      "specialty": "Medicine Specialist",
+      "workplace": "300 Bedded Hospital, Narayanganj",
+      "info": "Dr. Mahbub Hasan (Babu) is a Medicine Specialist in Narayanganj. His qualification is MBBS, BCS (Health), FCPS (Medicine). He is a Consultant (Medicine) at 300 Bedded Hospital, Narayanganj. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Mahbub Hasan (Babu) at Popular Diagnostic Center, Narayanganj is 2.30pm to 6.30pm (Sun, Tue, Thu & Fri).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Balur Math, Chashara, Narayanganj",
+        "visitingTime": "2.30pm to 6.30pm (Sun, Tue, Thu & Fri)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    }
+  ]
+}

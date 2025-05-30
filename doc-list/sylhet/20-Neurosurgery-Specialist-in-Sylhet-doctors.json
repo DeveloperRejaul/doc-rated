@@ -1,0 +1,123 @@
+{
+  "doctor": [
+    {
+      "id": "4dfecdf2-2709-4d97-93f2-fda6ede510cd",
+      "departmentId": "5035d07b-5d62-4337-946c-dadddaa89acc",
+      "link": "https://www.doctorbangladesh.com/dr-md-rashidoon-nabi-khan/",
+      "imageId": "c44be8f6-f36a-4f11-8e21-63c16ef8d82b",
+      "name": "Prof. Dr. Md. Rashidoon Nabi Khan",
+      "degree": "MBBS, MS (Neuro Surgery)",
+      "specialty": "Neurosurgery (Brain, Nerve, Stroke & Spinal Surgery) Specialist",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Prof. Dr. Md. Rashidoon Nabi Khan is a Neurosurgeon in Sylhet. His qualification is MBBS, MS (Neuro Surgery). He is a Professor & Head, Neurosurgery at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Popular Medical Center, Sylhet. Practicing hour of Prof. Dr. Md. Rashidoon Nabi Khan at Popular Medical Center, Sylhet is 4pm to 9pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Popular Medical Center, Sylhet",
+        "address": "New Medical Road, Kajolshah, Sylhet - 3100",
+        "visitingTime": "4pm to 9pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801720147434Call Now"
+      }
+    },
+    {
+      "id": "3bd73e7e-c49f-4da4-ba10-6326f31823d2",
+      "departmentId": "5035d07b-5d62-4337-946c-dadddaa89acc",
+      "link": "https://www.doctorbangladesh.com/dr-mostafa-taufiq-ahmed/",
+      "imageId": "71f8f570-bf19-4431-a2c0-314bb8dde135",
+      "name": "Dr. Mostafa Taufiq Ahmed",
+      "degree": "MBBS, BCS (Health), MS (Neurosurgery)",
+      "specialty": "Neurosurgery (Brain, Stroke, Nerve, Paralysis & Spine) Specialist & Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Mostafa Taufiq Ahmed is a Neurosurgeon in Sylhet. His qualification is MBBS, BCS (Health), MS (Neurosurgery). He is a Assistant Professor, Neurosurgery at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Mount Adora Hospital, Akhalia, Sylhet. Practicing hour of Dr. Mostafa Taufiq Ahmed at Mount Adora Hospital, Akhalia, Sylhet is 4:30pm to 8:30pm (Sat, Sun, Tue & Wednesday).",
+      "chamber": {
+        "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
+        "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
+        "visitingTime": "4:30pm to 8:30pm (Sat, Sun, Tue & Wednesday)",
+        "appointmentNumber": "+8801747915080Call Now"
+      }
+    },
+    {
+      "id": "05d04fa7-a9e1-41df-962b-ecb33abd1801",
+      "departmentId": "5035d07b-5d62-4337-946c-dadddaa89acc",
+      "link": "https://www.doctorbangladesh.com/dr-s-m-asaduzzaman-jewel/",
+      "imageId": "515f208b-2ca8-4348-a03e-3a87694c8fa1",
+      "name": "Dr. S. M. Asaduzzaman Jewel",
+      "degree": "MBBS, BCS (Health), MS (Neurosurgery)",
+      "specialty": "Neurosurgery (Brain, Stroke, Paralysis & Spine) Specialist & Surgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Noorjahan Hospital, Sylhet Address: Waves 1, Ritz Tower, Dargah Gate, Sylhet – 3100 Visiting Hour: 5pm to 6pm (Closed: Friday) Appointment: +8801979005522 Call Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Rikabi Bazar",
+        "address": "New Medical College Road, Rikabi Bazar, Sylhet - 3100",
+        "visitingTime": "4pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801708399305Call Now"
+      }
+    },
+    {
+      "id": "1e206a99-77ef-4f17-96a5-f44c6365876b",
+      "departmentId": "5035d07b-5d62-4337-946c-dadddaa89acc",
+      "link": "https://www.doctorbangladesh.com/dr-khandaker-abu-talha/",
+      "imageId": "fcb956d3-c27f-4d62-9840-66eb4f2ead0a",
+      "name": "Dr. Khandaker Abu Talha",
+      "degree": "MBBS, MCPS (Surgery), MPH, MS (Neurosurgery), DCR (Canada), Fellowship (Japan)",
+      "specialty": "Neurosurgery (Brain, Nerve, Spine, Stroke Surgery) Specialist",
+      "workplace": "Sylhet Womens Medical College & Hospital",
+      "info": "Mount Adora Hospital, Nayasarak, Sylhet Address: Nayasarak Road, Mirboxtula, Nayasarak, Sylhet – 3100 Visiting Hour: 7pm to 9pm (Closed: Friday) Appointment: +8801575127225 Call Now",
+      "chamber": {
+        "hospital": "Al Haramain Hospital, Sylhet",
+        "address": "Samato-30, Chali Bandar, Bishwa Road, Subhani Ghat, Sylhet",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801931225555Call Now"
+      }
+    },
+    {
+      "id": "b7615ca4-4249-4605-bb8f-7ddb1733d381",
+      "departmentId": "5035d07b-5d62-4337-946c-dadddaa89acc",
+      "link": "https://www.doctorbangladesh.com/dr-khan-asaduzzaman/",
+      "imageId": "2fdbf709-8914-48e9-bc8e-dcec97ef0c5f",
+      "name": "Dr. Khan Asaduzzaman",
+      "degree": "MBBS, MRCS (UK), FRCS (Glasgow), Fellow in Pain Management (India)",
+      "specialty": "Brain, Nerve, Spine & Chronic Pain Specialist",
+      "workplace": "North East Medical College & Hospital",
+      "info": "Popular Medical Center, Sylhet Address: New Medical Road, Kajolshah, Sylhet – 3100 Visiting Hour: 5.30pm to 8.30pm (Closed: Thursday & Friday) Appointment: +8801720147434 Call Now",
+      "chamber": {
+        "hospital": "Ibn Sina Hospital, Sylhet",
+        "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
+        "visitingTime": "Evening (Closed: Friday)",
+        "appointmentNumber": "+8809610009640Call Now"
+      }
+    },
+    {
+      "id": "765bc4ce-1361-4050-885a-edddac622141",
+      "departmentId": "5035d07b-5d62-4337-946c-dadddaa89acc",
+      "link": "https://www.doctorbangladesh.com/dr-md-bashir-ahammed/",
+      "imageId": "c1e96d8c-7dc4-4285-b6da-a7ecf82f7be7",
+      "name": "Dr. Md. Bashir Ahammed Khan",
+      "degree": "MBBS (SSMC), BCS (Health), MS (Neurosurgery, BSMMU), Specially Trained (Turkey, India)",
+      "specialty": "Brain, Spine, Nerve, Stroke & Surgeon",
+      "workplace": "National Institute of Neurosciences & Hospital",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, B.B. Road, Chashara, Narayanganj – 1400 Visiting Hour: 4pm to 7pm (Thursday), 10am to 12pm (Friday) Appointment: +8801894234300 Call Now",
+      "chamber": {
+        "hospital": "Comfort Diagnostic Center, Dhanmondi",
+        "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "7pm to 9:30pm (Closed: Friday)",
+        "appointmentNumber": "+8801731956033Call Now"
+      }
+    },
+    {
+      "id": "b8aebabe-cd2c-4a84-8ede-13b8038906ac",
+      "departmentId": "5035d07b-5d62-4337-946c-dadddaa89acc",
+      "link": "https://www.doctorbangladesh.com/dr-firoj-ahmed-al-amin/",
+      "imageId": "80585bff-0e26-476c-9e41-8802991d6306",
+      "name": "Dr. Firoj Ahmed Al-Amin",
+      "degree": "MBBS (DMC), MS (NEUROSURGERY)",
+      "specialty": "Brain, Nerve, Spine & Chronic Pain Specialist & Neurosurgeon",
+      "workplace": "Sylhet MAG Osmani Medical College & Hospital",
+      "info": "Dr. Firoj Ahmed Al-Amin is a Neurosurgeon in Sylhet. His qualification is MBBS (DMC), MS (NEUROSURGERY). He is a Registrar, Neurosurgery at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Popular Medical Center & Hospital, Sylhet. Practicing hour of Dr. Firoj Ahmed Al-Amin at Popular Medical Center & Hospital, Sylhet is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Medical Center & Hospital, Sylhet",
+        "address": "Subhanighat, Sylhet",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801840122408Call Now"
+      }
+    }
+  ]
+}

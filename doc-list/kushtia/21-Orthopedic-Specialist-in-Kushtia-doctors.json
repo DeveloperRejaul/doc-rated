@@ -1,0 +1,140 @@
+{
+  "doctor": [
+    {
+      "id": "ca084e2b-aad6-40d4-9489-c926ea94943e",
+      "departmentId": "e81f2044-1b81-422f-b0ac-301cac63fdc7",
+      "link": "https://www.doctorbangladesh.com/dr-ratan-kumar-paul/",
+      "imageId": "177e280d-2b1a-4819-bb5b-fc86391c4720",
+      "name": "Dr. Ratan Kumar Paul",
+      "degree": "MBBS (DMC), D. Ortho Surgery (NITOR), MS Ortho Surgery (NITOR)",
+      "specialty": "Orthopedics, Trauma, & Spine Specialist Surgeon",
+      "workplace": "Kushtia Medical College & Hospital",
+      "info": "Dr. Ratan Kumar Paul is a Orthopedic Surgeon in Kushtia. His qualification is MBBS (DMC), D. Ortho Surgery (NITOR), MS Ortho Surgery (NITOR). He is a Assistant Professor, Orthopedics at Kushtia Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Centre, Kushtia. Practicing hour of Dr. Ratan Kumar Paul at Popular Diagnostic Centre, Kushtia is 5pm to 6pm (Sun & Tuesday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Centre, Kushtia",
+        "address": "City Tower, House No - 1, Mir Mosharraf Hossain Road, Court Para, Kushtia",
+        "visitingTime": "5pm to 6pm (Sun & Tuesday)",
+        "appointmentNumber": "+8809666787817Call Now"
+      }
+    },
+    {
+      "id": "a4db0857-37f0-4f49-bae3-bc14c45bc18f",
+      "departmentId": "e81f2044-1b81-422f-b0ac-301cac63fdc7",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahidullah/",
+      "imageId": "c8625fc5-9b52-41b4-b69c-336dd83e0cd3",
+      "name": "Dr. Md. Shahidullah",
+      "degree": "MBBS, BCS (Health), MS (ORTHO)",
+      "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
+      "workplace": "Kushtia Medical College & Hospital",
+      "info": "Dr. Md. Shahidullah is a Orthopedic Surgeon in Kushtia. His qualification is MBBS, BCS (Health), MS (ORTHO). He is a Assistant Professor, Orthopedic Surgery at Kushtia Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Centre, Kushtia. Practicing hour of Dr. Md. Shahidullah at Popular Diagnostic Centre, Kushtia is 3:30pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Centre, Kushtia",
+        "address": "City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia",
+        "visitingTime": "3:30pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787817Call Now"
+      }
+    },
+    {
+      "id": "e946deff-48e4-4afc-858b-1cb831b3c4ad",
+      "departmentId": "e81f2044-1b81-422f-b0ac-301cac63fdc7",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-nazmul-huda/",
+      "imageId": "095e9613-0c7b-4341-b436-111a2e2048da",
+      "name": "Prof. Dr. Md. Nazmul Huda",
+      "degree": "MBBS, MS (ORTHO)",
+      "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
+      "workplace": "Kushtia Medical College & Hospital",
+      "info": "Prof. Dr. Md. Nazmul Huda is a Orthopedic Surgeon in Kushtia. His qualification is MBBS, MS (ORTHO). He is a Ex. Professor, Orthopedics at Kushtia Medical College & Hospital. He regularly provides treatment to his patients at Sono Diagnostic Center, Kushtia. Practicing hour of Prof. Dr. Md. Nazmul Huda at Sono Diagnostic Center, Kushtia is 10am to 2pm (Everyday).",
+      "chamber": {
+        "hospital": "Sono Diagnostic Center, Kushtia",
+        "address": "Sono Tower, College Mor, Court Para, Kushtia",
+        "visitingTime": "10am to 2pm (Everyday)",
+        "appointmentNumber": "+8801716589397Call Now"
+      }
+    },
+    {
+      "id": "2b190371-4795-4701-9278-3b21fce3df6e",
+      "departmentId": "e81f2044-1b81-422f-b0ac-301cac63fdc7",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdul-maleque/",
+      "imageId": "b0720bff-bcc2-4146-a179-7641457dc941",
+      "name": "Dr. Md. Abdul Maleque",
+      "degree": "MBBS (Raj), BCS (Health), MS (Orthopedic Surgery)",
+      "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
+      "workplace": "Kushtia Medical College & Hospital",
+      "info": "Dr. Md. Abdul Maleque is a Orthopedic Surgeon in Kushtia. His qualification is MBBS (Raj), BCS (Health), MS (Orthopedic Surgery). He is a Associate Professor & Head, Dept of Ortho Surgery at Kushtia Medical College & Hospital. He regularly provides treatment to his patients at Amin Diagnostic & Medical Services, Kushtia. Practicing hour of Dr. Md. Abdul Maleque at Amin Diagnostic & Medical Services, Kushtia is 4pm to 8.30pm (Sat to Thu), 10am to 4pm (Fri).",
+      "chamber": {
+        "hospital": "Amin Diagnostic & Medical Services, Kushtia",
+        "address": "Ram Chandra Ray Chowdhury Road, College Mor, Court Para, Kushtia",
+        "visitingTime": "4pm to 8.30pm (Sat to Thu), 10am to 4pm (Fri)",
+        "appointmentNumber": "01316077216, 01712243514Call Now"
+      }
+    },
+    {
+      "id": "fc975f3e-d6de-42e6-8413-187b25149eba",
+      "departmentId": "e81f2044-1b81-422f-b0ac-301cac63fdc7",
+      "link": "https://www.doctorbangladesh.com/dr-md-rashed-hasan-rony/",
+      "imageId": "c95e68b7-0e39-44cf-8320-9b382d9aca49",
+      "name": "Dr. Md. Rashed Hasan (Rony)",
+      "degree": "MBBS, BCS (Health), D-ORTHO (BSMMU)",
+      "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
+      "workplace": "Kushtia Medical College & Hospital",
+      "info": "Dr. Md. Rashed Hasan (Rony) is a Orthopedic Surgeon in Kushtia. His qualification is MBBS, BCS (Health), D-ORTHO (BSMMU). He is a Consultant, Orthopedics at Kushtia Medical College & Hospital. He regularly provides treatment to his patients at Sono Consultation Center, Kushtia. Practicing hour of Dr. Md. Rashed Hasan (Rony) at Sono Consultation Center, Kushtia is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Sono Consultation Center, Kushtia",
+        "address": "Sono Tower 2, Court Para, Kushtia, Bangladesh",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801770997352Call Now"
+      }
+    },
+    {
+      "id": "42fc7155-ba50-467c-8cd3-cd044661a5d7",
+      "departmentId": "e81f2044-1b81-422f-b0ac-301cac63fdc7",
+      "link": "https://www.doctorbangladesh.com/dr-md-ahsan-habib-ortho/",
+      "imageId": "331461bb-f993-4602-9950-125e5e42c440",
+      "name": "Dr. Md. Ahsan Habib",
+      "degree": "MBBS, BCS (Health), MS (ORTHO)",
+      "specialty": "Spine, Orthopedic & Trauma Specialist Surgeon",
+      "workplace": "Kushtia Medical College & Hospital",
+      "info": "Dr. Md. Ahsan Habib is a Orthopedic Surgeon in Kushtia. His qualification is MBBS, BCS (Health), MS (ORTHO). He is a Assistant Professor, Orthopedics at Kushtia Medical College & Hospital. He regularly provides treatment to his patients at Sono Consultation Center, Kushtia. Practicing hour of Dr. Md. Ahsan Habib at Sono Consultation Center, Kushtia is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Sono Consultation Center, Kushtia",
+        "address": "Sono Tower 2, Court Para, Kushtia, Bangladesh",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801770997352Call Now"
+      }
+    },
+    {
+      "id": "e1b7cb48-67e9-4e1d-8b09-bba290df8850",
+      "departmentId": "e81f2044-1b81-422f-b0ac-301cac63fdc7",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-arozullah/",
+      "imageId": "58e77e0c-98c4-46ba-bdb8-fb0568ab2b4b",
+      "name": "Dr. Muhammad Arozullah",
+      "degree": "MBBS, BCS (Health), MS (Orthopaedic Surgery) NITOR, FACS (Orthopaedic Surgery)",
+      "specialty": "Orthopaedic, Trauma, Spine & Paediatric Orthopaedic Surgery Specialist",
+      "workplace": "Kushtia Medical College & Hospital",
+      "info": "Dr. Muhammad Arozullah is a Orthopedic Surgeon in Kushtia. His qualification is MBBS, BCS (Health), MS (Orthopaedic Surgery) NITOR, FACS (Orthopaedic Surgery). He is a Assistant Professor, Department of Orthopaedic Surgery at Kushtia Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Kushtia. Practicing hour of Dr. Muhammad Arozullah at Popular Diagnostic Center, Kushtia is 3pm to 9pm (Sunday to Tuesday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Kushtia",
+        "address": "City Tower, House # 01, Mir Mosharraf Hossain Road, Court Para, Kushtia",
+        "visitingTime": "3pm to 9pm (Sunday to Tuesday)",
+        "appointmentNumber": "+8801304040713Call Now"
+      }
+    },
+    {
+      "id": "c567f3e6-e0df-430b-959e-44d2afdaf81d",
+      "departmentId": "e81f2044-1b81-422f-b0ac-301cac63fdc7",
+      "link": "https://www.doctorbangladesh.com/dr-mohd-sayedul-islam-saju/",
+      "imageId": "8b1c80aa-36bb-484c-8677-c7083c043a4e",
+      "name": "Dr. Mohd. Sayedul Islam (Saju)",
+      "degree": "MBBS (RU), BCS (Health), MS (Ortho Surgery) (NITOR)",
+      "specialty": "Orthopedics Specialist & Surgeon",
+      "workplace": "Kushtia Medical College & Hospital",
+      "info": "Dr. Mohd. Sayedul Islam (Saju)is a skilled orthopedics specialist and surgeon in Kushtia, holding MBBS (RU), BCS (Health), and MS (Ortho Surgery) from NITOR. He serves as a Consultant in Orthopedic Surgery at Kushtia Medical College & Hospital, with expertise in the treatment and surgical management of fractures, joint dislocations, arthritis, back and neck pain, bone infections, sports injuries, joint replacement, spine problems, and trauma-related bone issues. Dr. Mohd. Sayedul Islam (Saju) sees patients at Sono Consultation Center, Kushtia (Sono Tower 2, Court Para, Kushtia, Bangladesh) from 4pm on Saturday, Sunday, Monday, and Wednesday.",
+      "chamber": {
+        "hospital": "Sono Consultation Center, Kushtia",
+        "address": "Sono Tower 2, Court Para, Kushtia, Bangladesh",
+        "visitingTime": "From 4pm (Sat, Sun, Mon & Wed)",
+        "appointmentNumber": "+8801770997352Call Now"
+      }
+    }
+  ]
+}

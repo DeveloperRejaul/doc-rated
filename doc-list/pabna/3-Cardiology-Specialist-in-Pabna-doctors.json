@@ -1,0 +1,242 @@
+{
+  "doctor": [
+    {
+      "id": "65d8f9fc-f331-4773-a356-27ef2d163c41",
+      "departmentId": "2b67c8a8-45b9-483e-af0d-70b3cbfd34be",
+      "link": "https://www.doctorbangladesh.com/dr-ahm-enayetur-rashul/",
+      "imageId": "f143e00d-597f-44d5-a657-35e620b456de",
+      "name": "Dr. AHM Enayetur Rashul",
+      "degree": "MBBS, BCS (Health), MD (Cardiology)",
+      "specialty": "Cardiology (Heart Diseases, Hypertension & Rheumatic Fever) Specialist",
+      "workplace": "National Institute of Cardiovascular Diseases & Hospital",
+      "info": "Dr. AHM Enayetur Rashul is a Cardiologist in Pabna. His qualification is MBBS, BCS (Health), MD (Cardiology). He is a Consultant, Cardiology at National Institute of Cardiovascular Diseases & Hospital. He regularly provides treatment to his patients at Shafique Hospital, Pabna. Practicing hour of Dr. AHM Enayetur Rashul at Shafique Hospital, Pabna is 9am to 5pm (Only Friday).",
+      "chamber": {
+        "hospital": "Shafique Hospital, Pabna",
+        "address": "Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna",
+        "visitingTime": "9am to 5pm (Only Friday)",
+        "appointmentNumber": "+8801701654390Call Now"
+      }
+    },
+    {
+      "id": "a1c81512-8611-4096-9120-ba2b42095201",
+      "departmentId": "2b67c8a8-45b9-483e-af0d-70b3cbfd34be",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdul-mazid/",
+      "imageId": "a9af5f79-8afb-4dad-8d12-32f95696e21b",
+      "name": "Dr. Md. Abdul Mazid",
+      "degree": "MBBS, D-CARD",
+      "specialty": "Cardiology, Rheumatic Fever & Hypertension Specialist",
+      "workplace": "Pabna Medical College & Hospital",
+      "info": "Dr. Md. Abdul Mazid is a Cardiologist in Pabna. His qualification is MBBS, D-CARD. He is a Former Assistant Professor & Head (Cardiology) at Pabna Medical College & Hospital. He regularly provides treatment to his patients at Jalal Memorial Hospital, Pabna. Practicing hour of Dr. Md. Abdul Mazid at Jalal Memorial Hospital, Pabna is 3pm to 8pm (Sat to Thu), 10am to 12pm (Fri).",
+      "chamber": {
+        "hospital": "Jalal Memorial Hospital, Pabna",
+        "address": "Godaun Mor, Hospital Road, Shalgaria, Pabna - 6600",
+        "visitingTime": "3pm to 8pm (Sat to Thu), 10am to 12pm (Fri)",
+        "appointmentNumber": "+8801743708079Call Now"
+      }
+    },
+    {
+      "id": "e7094295-e8a7-45e7-9593-2f63a57938c5",
+      "departmentId": "2b67c8a8-45b9-483e-af0d-70b3cbfd34be",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahriar-kabir/",
+      "imageId": "f5cb1831-5fe8-423a-8e4f-3a5333fea92d",
+      "name": "Dr. Md. Shahriar Kabir",
+      "degree": "MBBS, FCPS (Medicine), MCPS (Medicine), MD (Cardiology)",
+      "specialty": "Cardiology (Heart, Hypertension, Rheumatic Fever) & Medicine Specialist",
+      "workplace": "Dinajpur Medical College & Hospital",
+      "info": "Dr. Md. Shahriar Kabir is a Cardiologist in Pabna. His qualification is MBBS, FCPS (Medicine), MCPS (Medicine), MD (Cardiology). He is a Assistant Professor, Cardiology at Dinajpur Medical College & Hospital. He regularly provides treatment to his patients at Grameen Diagnostic Center, Pabna. Practicing hour of Dr. Md. Shahriar Kabir at Grameen Diagnostic Center, Pabna is 5pm to 9pm (Thursday) & 9am to 5pm (Friday).",
+      "chamber": {
+        "hospital": "Grameen Diagnostic Center, Pabna",
+        "address": "Sadar Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "5pm to 9pm (Thursday) & 9am to 5pm (Friday)",
+        "appointmentNumber": "+8801950998955Call Now"
+      }
+    },
+    {
+      "id": "b5fdfafa-4ae9-4776-b882-338d673afe5b",
+      "departmentId": "2b67c8a8-45b9-483e-af0d-70b3cbfd34be",
+      "link": "https://www.doctorbangladesh.com/dr-muhammed-akhtaruzzaman/",
+      "imageId": "f4aa03d7-624b-4776-ad40-5f68ae517e41",
+      "name": "Dr. Muhammed Akhtaruzzaman",
+      "degree": "MBBS, MD (Cardiology)",
+      "specialty": "Cardiology, Hypertension & Rheumatic Fever Specialist",
+      "workplace": "Bangladesh Medical College & Hospital",
+      "info": "Savar Prime Hospital Address: A-89, Thana Road, Talbagh, Savar, Dhaka – 1340 Visiting Hour: 4pm to 6pm (Monday & Thursday) Appointment: +8801752561542 Call Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Savar",
+        "address": "31/6 Jaleshwar, Aricha Road, Savar, Dhaka - 1340",
+        "visitingTime": "5pm to 7.30pm (Closed: Fri & Sat)",
+        "appointmentNumber": "+8801757204642Call Now"
+      }
+    },
+    {
+      "id": "4ee6c056-9bdc-4368-b996-30c284b12dac",
+      "departmentId": "2b67c8a8-45b9-483e-af0d-70b3cbfd34be",
+      "link": "https://www.doctorbangladesh.com/dr-md-bazlur-rashid/",
+      "imageId": "c1c9855b-bfd9-4ca0-a51c-d427a8e91c5f",
+      "name": "Dr. Md. Bazlur Rashid",
+      "degree": "MBBS, MD (Cardiology)",
+      "specialty": "Cardiology (Heart Diseases), Hypertension, & Rheumatic Fever Specialist",
+      "workplace": "National Institute of Cardiovascular Diseases & Hospital",
+      "info": "Shimla Hospital, Pabna Address: Shimla Tower, Thana Mor, Hospital Road, Pabna Visiting Hour: 8pm to 10pm (Thursday) & 8am to 4pm (Friday) Appointment: +8801713228218 Call Now",
+      "chamber": {
+        "hospital": "Khidmah Hospital, Dhaka",
+        "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
+        "visitingTime": "3.30pm to 5pm (Closed: Sun, Tue & Wednesday)",
+        "appointmentNumber": "+8809606063030Call Now"
+      }
+    },
+    {
+      "id": "9372d59e-bb0a-435e-9f72-21b43d94722a",
+      "departmentId": "2b67c8a8-45b9-483e-af0d-70b3cbfd34be",
+      "link": "https://www.doctorbangladesh.com/dr-md-mir-sufian/",
+      "imageId": "10206e64-4f08-4400-9842-1b2e94ca8f5a",
+      "name": "Dr. Md. Mir Sufian",
+      "degree": "MBBS, BCS (Health), D-CARD (NICVD)",
+      "specialty": "Cardiology, Hypertension, & Rheumatic Fever Specialist",
+      "workplace": "Shimla Hospital, Pabna",
+      "info": "Dr. Md. Mir Sufian is a Cardiologist in Pabna. His qualification is MBBS, BCS (Health), D-CARD (NICVD). He is a Senior Consultant, Cardiology at Shimla Hospital, Pabna. He regularly provides treatment to his patients at Shimla Hospital, Pabna. Practicing hour of Dr. Md. Mir Sufian at Shimla Hospital, Pabna is 2pm to 10pm (Thu) & 8am to 4pm (Fri).",
+      "chamber": {
+        "hospital": "Shimla Hospital, Pabna",
+        "address": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
+        "visitingTime": "2pm to 10pm (Thu) & 8am to 4pm (Fri)",
+        "appointmentNumber": "+8801713228218Call Now"
+      }
+    },
+    {
+      "id": "7a498726-f5de-4c83-a3e1-59eca2b2ed88",
+      "departmentId": "2b67c8a8-45b9-483e-af0d-70b3cbfd34be",
+      "link": "https://www.doctorbangladesh.com/dr-k-c-datta/",
+      "imageId": "c66ecc81-95d0-4a49-92a3-9a89b870e94c",
+      "name": "Dr. K. C. Datta",
+      "degree": "MBBS, MSC (Medicine), MD (Cardiology)",
+      "specialty": "Cardiology (Heart Diseases, Cardiology, Rheumatic Diseases) Specialist",
+      "workplace": "250 Bedded General Hospital, Pabna",
+      "info": "Dr. K. C. Datta is a Cardiologist in Pabna. His qualification is MBBS, MSC (Medicine), MD (Cardiology). He is a Consultant, Cardiology at 250 Bedded General Hospital, Pabna. He regularly provides treatment to his patients at Digital Diagnostic Center, Pabna. Practicing hour of Dr. K. C. Datta at Digital Diagnostic Center, Pabna is Sunday to Tuesday (Call for time).",
+      "chamber": {
+        "hospital": "Digital Diagnostic Center, Pabna",
+        "address": "Kazi Office Road, Thana Para, Shalgaria, Pabna",
+        "visitingTime": "Sunday to Tuesday (Call for time)",
+        "appointmentNumber": "+8801748343270Call Now"
+      }
+    },
+    {
+      "id": "91c12a5b-c9d8-432d-b673-2bcb8068101e",
+      "departmentId": "2b67c8a8-45b9-483e-af0d-70b3cbfd34be",
+      "link": "https://www.doctorbangladesh.com/dr-abul-alam/",
+      "imageId": "c0bfa897-a05e-424f-8176-5fb05a70e9e9",
+      "name": "Dr. Abul Alam",
+      "degree": "MBBS, D-CARD (DU), CCD (UK), CCE (AIMS), CMU (BIUR), PGC (UK)",
+      "specialty": "Cardiology, Rheumatic Fever & Diabetes Specialist",
+      "workplace": "Pabna Medical College & Hospital",
+      "info": "Popular Diagnostic Center, BograAddress: House # 12/310, Thanthania Bus Stand, Sherpur Road, BoguraVisiting Hour: 3pm to 9pm (Closed: Thu & Friday)Appointment: +8809666787812Call Now",
+      "chamber": {
+        "hospital": "Shimla Hospital, Pabna",
+        "address": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
+        "visitingTime": "3pm to 9pm (Sat, Sun & Mon)",
+        "appointmentNumber": "+8801713228218Call Now"
+      }
+    },
+    {
+      "id": "654e1220-8ebd-4dbc-93e3-2ade11dd15e6",
+      "departmentId": "2b67c8a8-45b9-483e-af0d-70b3cbfd34be",
+      "link": "https://www.doctorbangladesh.com/dr-partha-pratim-saha/",
+      "imageId": "ffb311a5-005b-4d2b-9a5f-7b8292bb9280",
+      "name": "Dr. Partha Pratim Saha",
+      "degree": "MBBS, BCS (Health), MD (Cardiology)",
+      "specialty": "Cardiologist & Heart Specialist",
+      "workplace": "National Institute of Cardiovascular Diseases & Hospital",
+      "info": "Dr. Partha Pratim Saha is a Cardiologist in Pabna. His qualification is MBBS, BCS (Health), MD (Cardiology). He is working as a Cardiologist & Heart Specialist doctor in National Institute of Cardiovascular Diseases & Hospital. He regularly provides treatment to his patients at Unique Diagnostic Complex, Pabna. Practicing hour of Dr. Partha Pratim Saha at Unique Diagnostic Complex, Pabna is 10am to 1pm (Only Friday).",
+      "chamber": {
+        "hospital": "Unique Diagnostic Complex, Pabna",
+        "address": "Beside TB Hospital, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "10am to 1pm (Only Friday)",
+        "appointmentNumber": "+8801756007870Call Now"
+      }
+    },
+    {
+      "id": "da21ceaa-72c5-4683-90ed-5c956de69206",
+      "departmentId": "2b67c8a8-45b9-483e-af0d-70b3cbfd34be",
+      "link": "https://www.doctorbangladesh.com/dr-s-m-nurul-huda/",
+      "imageId": "6a535ca7-1476-4911-9dcd-6f6872ffd611",
+      "name": "Dr. S.M. Nurul Huda",
+      "degree": "MBBS, BCS (Health), MD (Cardiology, BSMMU), MACP (Medicine, USA), CCD (BIRDEM)",
+      "specialty": "Heart Diseases, Rheumatic Fever, Hypertension, Diabetes & Medicine Specialist",
+      "workplace": "National Center for Control of Rheumatic Fever & Heart Disease",
+      "info": "Dr. S.M. Nurul Huda is a Cardiologist in Pabna. His qualification is MBBS, BCS (Health), MD (Cardiology, BSMMU), MACP (Medicine, USA), CCD (BIRDEM). He regularly provides treatment to his patients at Model Hospital & Diagnostic, Pabna. Practicing hour of Dr. S.M. Nurul Huda at Model Hospital & Diagnostic, Pabna is 3pm to 10pm (Only Thursday).",
+      "chamber": {
+        "hospital": "Model Hospital & Diagnostic, Pabna",
+        "address": "Shapla Plastic Mor, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "3pm to 10pm (Only Thursday)",
+        "appointmentNumber": "+8801794874402Call Now"
+      }
+    },
+    {
+      "id": "230fdb6e-d655-4d2e-ad83-b6784a05ea49",
+      "departmentId": "2b67c8a8-45b9-483e-af0d-70b3cbfd34be",
+      "link": "https://www.doctorbangladesh.com/dr-mir-touhidul-islam-asad/",
+      "imageId": "e3d8ca6d-2764-4335-927f-0ec911a43fc2",
+      "name": "Dr. Mir Touhidul Islam Asad",
+      "degree": "MBBS, BCS (Health), PGT (Cardiology), Diploma (Asthma), CCD",
+      "specialty": "Cardiology & Asthma Specialist",
+      "workplace": "250 Bedded General Hospital, Pabna",
+      "info": "Dr. Mir Touhidul Islam Asad is a Cardiologist in Pabna. His qualification is MBBS, BCS (Health), PGT (Cardiology), Diploma (Asthma), CCD. He is working as a Cardiology & Asthma Specialist doctor in 250 Bedded General Hospital, Pabna. He regularly provides treatment to his patients at Medicare Diagnostic Center, Pabna. Practicing hour of Dr. Mir Touhidul Islam Asad at Medicare Diagnostic Center, Pabna is 1pm to 4pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medicare Diagnostic Center, Pabna",
+        "address": "Shapla Plastic Mor, Hospital Road, Shalgaria, Pabna",
+        "visitingTime": "1pm to 4pm (Closed: Friday)",
+        "appointmentNumber": "+8801718930163Call Now"
+      }
+    },
+    {
+      "id": "7ef764e2-29dc-4312-855b-377eacc17113",
+      "departmentId": "2b67c8a8-45b9-483e-af0d-70b3cbfd34be",
+      "link": "https://www.doctorbangladesh.com/dr-ashikur-rahman-sagor/",
+      "imageId": "2a009504-6495-4600-b95d-1d3690f34416",
+      "name": "Dr. Ashikur Rahman (Sagor)",
+      "degree": "MBBS, BCS (Health), MD (Cardiology), FCPS (Medicine-FP)",
+      "specialty": "Cardiology, Rheumatic Fever, Hypertension & Medicine Specialist",
+      "workplace": "National Institute of Cardiovascular Diseases & Hospital",
+      "info": "Dr. Ashikur Rahman (Sagor) is a Cardiologist in Pabna. His qualification is MBBS, BCS (Health), MD (Cardiology), FCPS (Medicine-FP). He is a Cardiologist at National Institute of Cardiovascular Diseases & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Pabna. Practicing hour of Dr. Ashikur Rahman (Sagor) at Labaid Diagnostic, Pabna is 5pm to 10pm (Only Thursday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Pabna",
+        "address": "Beside Joy Kali Bari, Thana Road, Shalgaria, Pabna",
+        "visitingTime": "5pm to 10pm (Only Thursday)",
+        "appointmentNumber": "+8801766661901Call Now"
+      }
+    },
+    {
+      "id": "c7b8804f-5577-4bba-9e61-dc5c42c991a8",
+      "departmentId": "2b67c8a8-45b9-483e-af0d-70b3cbfd34be",
+      "link": "https://www.doctorbangladesh.com/dr-m-a-hasnain/",
+      "imageId": "a0b062ea-856c-4630-ac7f-fed99ce89676",
+      "name": "Dr. M A Hasnain",
+      "degree": "MBBS (RMC), BCS (Health), MD (Cardiology)",
+      "specialty": "Cardiology (Heart Diseases, Hypertension & Rheumatic Fever) Specialist",
+      "workplace": "National Institute of Cardiovascular Diseases & Hospital",
+      "info": "Dr. M A Hasnain is a Cardiologist in Pabna. His qualification is MBBS (RMC), BCS (Health), MD (Cardiology). He is a Clinical & Interventional Cardiologist at National Institute of Cardiovascular Diseases & Hospital. He regularly provides treatment to his patients at Shafique Hospital, Pabna. Practicing hour of Dr. M A Hasnain at Shafique Hospital, Pabna is 3pm to 9pm (Every Tuesday).",
+      "chamber": {
+        "hospital": "Shafique Hospital, Pabna",
+        "address": "Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna",
+        "visitingTime": "3pm to 9pm (Every Tuesday)",
+        "appointmentNumber": "+8801744690481Call Now"
+      }
+    },
+    {
+      "id": "e442f021-057c-4183-af93-423b5147b52a",
+      "departmentId": "2b67c8a8-45b9-483e-af0d-70b3cbfd34be",
+      "link": "https://www.doctorbangladesh.com/dr-istajul-khan/",
+      "imageId": "c9e2a9ee-401c-4889-8772-ed676092b6cb",
+      "name": "Dr. Istajul Khan",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), D-CARD, FACP (USA), MRCP (Medicine)",
+      "specialty": "Interventional Cardiologist & Medicine Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Istajul Khan is a Medicine Specialist in Pabna. His qualification is MBBS, BCS (Health), FCPS (Medicine), D-CARD, FACP (USA), MRCP (Medicine). He is a Consultant, Department of Medicine at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Shafique Hospital, Pabna. Practicing hour of Dr. Istajul Khan at Shafique Hospital, Pabna is 4pm to 8pm (Only Friday).",
+      "chamber": {
+        "hospital": "Shafique Hospital, Pabna",
+        "address": "Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna",
+        "visitingTime": "4pm to 8pm (Only Friday)",
+        "appointmentNumber": "+8801701654390Call Now"
+      }
+    }
+  ]
+}

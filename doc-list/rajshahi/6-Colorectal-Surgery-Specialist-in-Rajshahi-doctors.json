@@ -1,0 +1,55 @@
+{
+  "doctor": [
+    {
+      "id": "e18290f9-aabe-43af-8499-db36344224c4",
+      "departmentId": "dd59a408-dcee-4062-8965-9d5182cdd9d6",
+      "link": "https://www.doctorbangladesh.com/dr-md-ariful-alam/",
+      "imageId": "c28f60e7-a497-477d-8728-ecf20ca32108",
+      "name": "Dr. Md. Ariful Alam Suman",
+      "degree": "MBBS, FCPS (Surgery), MS (Colorectal Surgery), Training in Colorectal Surgery (BSMMU)",
+      "specialty": "Specialist Colorectal Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Amana Hospital, Rajshahi Address: Jhautala More, Laxmipur, Rajpara, Rajshahi Visiting Hour: 6pm to 9pm (Closed: Thu & Friday) Appointment: +8801737082284 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "3pm to 5pm (Everyday)",
+        "appointmentNumber": "+8801737082284Call Now"
+      }
+    },
+    {
+      "id": "e3e90675-ad38-4948-80f7-008877ac74e5",
+      "departmentId": "dd59a408-dcee-4062-8965-9d5182cdd9d6",
+      "link": "https://www.doctorbangladesh.com/dr-tamanna-tasnim/",
+      "imageId": "182a80a2-11d5-4ef3-8750-0e99e0f9a8bf",
+      "name": "Dr. Tamanna Tasneem",
+      "degree": "MBBS, MS (Colorectal Surgery)",
+      "specialty": "Colorectal (Piles, Rectum, Anus, Colon, Fistula) Surgery Specialist",
+      "workplace": "Islami Bank Medical College & Hospital",
+      "info": "Rajshahi Royal Hospital Pvt. Ltd. Address: Laxmipur Mor, Rajshahi Visiting Hour: 5pm to 8pm (Closed: Friday) Appointment: +8801762685090 Call Now",
+      "chamber": {
+        "hospital": "Islami Bank Medical College & Hospital",
+        "address": "Airport Road, Nawdapara, Sopura, Rajshahi, Bangladesh",
+        "visitingTime": "11am to 1pm (Closed: Friday)",
+        "appointmentNumber": "+8801753924464Call Now"
+      }
+    },
+    {
+      "id": "d9002af6-5422-471a-9f00-74ec2c82258e",
+      "departmentId": "dd59a408-dcee-4062-8965-9d5182cdd9d6",
+      "link": "https://www.doctorbangladesh.com/dr-ms-roy/",
+      "imageId": "bf90e4e2-945a-409f-bcf2-5e514706718d",
+      "name": "Dr. MS ROY",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery), FACS (USA)",
+      "specialty": "General, Laparoscopic & Colorectal Surgeon(Piles, Anal Fissure, Fistula, Sinus, Perianal Abscess, Etc)",
+      "workplace": "250 Bed District (Sadar) Hospital, Bagerhat",
+      "info": "Sandhani Clinic & Diagnostic Complex, Khulna Address: 58, Babu Khan Road, Opposite of Azam Khan Commerce College, Khulna Visiting Hour: 2.30pm to 6.30pm (Sunday), 2pm to 3.30pm (Wednesday) Appointment: +8801773411133 Call Now",
+      "chamber": {
+        "hospital": "Munzu Hospital, Rajshahi",
+        "address": "North Side of GPO, Laxmipur, Kazihata, Rajshahi",
+        "visitingTime": "3pm to 8pm (Thu, Fri & Saturday)",
+        "appointmentNumber": "+8801773411133Call Now"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "doctor": [
+    {
+      "id": "7c7c25fb-eaa0-413b-8fd0-3a8ba5618a4a",
+      "departmentId": "c971aa1d-fb99-4885-885e-eab506d3c1eb",
+      "link": "https://www.doctorbangladesh.com/dr-a-t-m-kamrul-hasan/",
+      "imageId": "bf0d655e-7640-4535-ba4e-37d440c594e4",
+      "name": "Dr. A.T.M. Kamrul Hasan",
+      "degree": "MBBS, BCS (Health), MD (Medical Oncology)",
+      "specialty": "Cancer Specialist & Medical Oncologist",
+      "workplace": "National Institute of Cancer Research & Hospital",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, B.B. Road, Chashara, Narayanganj – 1400 Visiting Hour: 7pm to 9pm (Sun, Tue & Thu) Appointment: +8809666787804 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Badda",
+        "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka",
+        "visitingTime": "3pm to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787809Call Now"
+      }
+    },
+    {
+      "id": "f16ded3b-2662-4229-b152-91b4cf2c6152",
+      "departmentId": "c971aa1d-fb99-4885-885e-eab506d3c1eb",
+      "link": "https://www.doctorbangladesh.com/dr-khorshed-alam-bakul/",
+      "imageId": "728b6783-1cd8-4979-9efb-9ee8001730c7",
+      "name": "Dr. Khorshed Alam Bakul",
+      "degree": "MBBS (DMC), BCS (Health), MPhil (Oncology), FCPS (Radiotherapy)",
+      "specialty": "Cancer Specialist & Radiation Oncologist",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Khorshed Alam Bakul is a Oncologist in Narayanganj. His qualification is MBBS (DMC), BCS (Health), MPhil (Oncology), FCPS (Radiotherapy). He is a Assistant Professor, Radiotherapy at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Khorshed Alam Bakul at Popular Diagnostic Center, Narayanganj is 6:30pm to 9pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "6:30pm to 9pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "f45c9b32-cf5a-4db4-8a9b-d4527f8a9dbe",
+      "departmentId": "c971aa1d-fb99-4885-885e-eab506d3c1eb",
+      "link": "https://www.doctorbangladesh.com/dr-tusar-das/",
+      "imageId": "6d4621ec-e7b0-49b3-bd63-3dd6f745782d",
+      "name": "Dr. Tusar Das",
+      "degree": "MBBS, BCS (Health), MD (Oncology)",
+      "specialty": "Cancer Specialist",
+      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+      "info": "Dr. Tusar Das is a Oncologist in Narayanganj. His qualification is MBBS, BCS (Health), MD (Oncology). He is a Assistant Professor, Oncology at Shaheed Suhrawardy Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Tusar Das at Popular Diagnostic Center, Narayanganj is 6pm to 8pm (Sun, Tue & Thu).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "6pm to 8pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    }
+  ]
+}

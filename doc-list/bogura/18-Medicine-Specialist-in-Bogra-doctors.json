@@ -1,0 +1,378 @@
+{
+  "doctor": [
+    {
+      "id": "7373f4a7-fc9e-4001-807c-b92f182225cd",
+      "departmentId": "30a82cdb-dee1-4759-a83d-6b3c7e74febd",
+      "link": "https://www.doctorbangladesh.com/prof-dr-khan-abul-kalam-azad/",
+      "imageId": "e28a1d10-03d6-4048-937c-15aebc522b45",
+      "name": "Prof. Dr. Khan Abul Kalam Azad",
+      "degree": "MBBS (DMC), FCPS (Medicine), MD (Internal Medicine), FACP (USA)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Bogra Address: House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura Visiting Hour: 10am to 12pm (Only Friday) Appointment: +8809666787812 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Dhanmondi",
+        "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+        "visitingTime": "5pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787801Call Now"
+      }
+    },
+    {
+      "id": "cf2b8006-de67-4a68-934c-751fd5e4fdc7",
+      "departmentId": "30a82cdb-dee1-4759-a83d-6b3c7e74febd",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-zakir-hossain/",
+      "imageId": "16915cf1-4402-4391-b142-6e74b4b71096",
+      "name": "Prof. Dr. Md. Zakir Hossain",
+      "degree": "MBBS, FCPS (Medicine), MD (Internal Medicine), FACP (USA), FRCP (UK)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Prof. Dr. Md. Zakir Hossain is a Medicine Specialist in Bogra. His qualification is MBBS, FCPS (Medicine), MD (Internal Medicine), FACP (USA), FRCP (UK). He is a Former Professor & Head, Department of Medicine at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Bogra. Practicing hour of Prof. Dr. Md. Zakir Hossain at Popular Diagnostic Center, Bogra is 5pm to 8pm (Sat, Sun, Mon & Tuesday), 2pm to 6pm (Wednesday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "5pm to 8pm (Sat, Sun, Mon & Tuesday), 2pm to 6pm (Wednesday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "id": "c8ba8ead-a435-4454-90a9-ae1b64af2e7e",
+      "departmentId": "30a82cdb-dee1-4759-a83d-6b3c7e74febd",
+      "link": "https://www.doctorbangladesh.com/dr-md-kamal-hossain/",
+      "imageId": "eb1a0a22-42ef-42ea-8b59-8f7752999d67",
+      "name": "Dr. Md. Kamal Hossain",
+      "degree": "MBBS (DMC), FCPS (Medicine)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Md. Kamal Hossain is a Medicine Specialist in Bogra. His qualification is MBBS (DMC), FCPS (Medicine). He is a Assistant Professor, Department of Medicine at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Md. Kamal Hossain at Popular Diagnostic Center, Bogra is 3pm to 9pm (Sat to Thu) & 9am to 5pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "3pm to 9pm (Sat to Thu) & 9am to 5pm (Friday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "id": "3ed99334-67a6-403a-a551-35f888a99a3e",
+      "departmentId": "30a82cdb-dee1-4759-a83d-6b3c7e74febd",
+      "link": "https://www.doctorbangladesh.com/dr-fakhrul-islam-juwel/",
+      "imageId": "39ada8f3-8be3-4065-bd53-ba50a991cbd0",
+      "name": "Dr. Fakhrul Islam Juwel",
+      "degree": "MBBS, BCS (Health), MCPS (Medicine), FCPS (Medicine), MRCP (Neurology)",
+      "specialty": "Medicine & Neurology Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Fakhrul Islam Juwel is a Medicine Specialist in Bogra. His qualification is MBBS, BCS (Health), MCPS (Medicine), FCPS (Medicine), MRCP (Neurology). He is a Consultant, Department of Medicine at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Bogura. Practicing hour of Dr. Fakhrul Islam Juwel at Labaid Diagnostic, Bogura is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Bogura",
+        "address": "House # 1872, Sherpur Road, Colony, Bogura",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662777Call Now"
+      }
+    },
+    {
+      "id": "b9a53ba5-0ae5-4e76-8cd9-3b06b79e2357",
+      "departmentId": "30a82cdb-dee1-4759-a83d-6b3c7e74febd",
+      "link": "https://www.doctorbangladesh.com/dr-md-halimur-rashid/",
+      "imageId": "a501dfa8-d508-4db8-8754-512981acdb41",
+      "name": "Dr. Md. Halimur Rashid",
+      "degree": "MBBS, FCPS (Medicine)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Md. Halimur Rashid is a Medicine Specialist in Bogra. His qualification is MBBS, FCPS (Medicine). He is a Associate Professor & Head, Department of Medicine at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Md. Halimur Rashid at Popular Diagnostic Center, Bogra is 5pm to 8pm (Video Consultency) (Sun, Mon, Tue & Wed), 10am to 8pm (Sat & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "5pm to 8pm (Video Consultency) (Sun, Mon, Tue & Wed), 10am to 8pm (Sat & Friday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "id": "67721ca3-6bec-4e6f-9f4a-5c293750e7dc",
+      "departmentId": "30a82cdb-dee1-4759-a83d-6b3c7e74febd",
+      "link": "https://www.doctorbangladesh.com/dr-md-mamunur-rashid-medicine/",
+      "imageId": "afd59018-bba4-4eb7-a0af-d2cf8170a5c1",
+      "name": "Dr. Md. Mamunur Rashid",
+      "degree": "MBBS, FCPS (Medicine), MRCP (LONDON, UK)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Doctors Clinic, Bogura Address: Unit 1, Mofiz Paglar Mor, Sherpur Road, Bogura Visiting Hour: 6pm to 10pm (Everyday) Appointment: +8801752747770 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "2:30pm to 5:30pm (Sat to Thu), 10am to 3pm (Friday)",
+        "appointmentNumber": "+8801761167567Call Now"
+      }
+    },
+    {
+      "id": "ec895dd1-8943-4194-96c1-dbc29f821515",
+      "departmentId": "30a82cdb-dee1-4759-a83d-6b3c7e74febd",
+      "link": "https://www.doctorbangladesh.com/dr-md-rashedul-kabir/",
+      "imageId": "fdfe109d-3c19-417b-a495-54beb8ec7d60",
+      "name": "Dr. Md. Rashedul Kabir",
+      "degree": "MBBS, BCS (Health), MD (Medicine)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Md. Rashedul Kabir is a Medicine Specialist in Bogra. His qualification is MBBS, BCS (Health), MD (Medicine). He is a Assistant Professor, Department of Medicine at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic & Consultation Center, Bogra. Practicing hour of Dr. Md. Rashedul Kabir at Ibn Sina Diagnostic & Consultation Center, Bogra is 3pm to 8pm (Sat to Thu) & 10am to 4pm (Fri).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
+        "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
+        "visitingTime": "3pm to 8pm (Sat to Thu) & 10am to 4pm (Fri)",
+        "appointmentNumber": "+8801701560011Call Now"
+      }
+    },
+    {
+      "id": "0ccb6072-88e9-4c54-8ca7-2462683a4fa0",
+      "departmentId": "30a82cdb-dee1-4759-a83d-6b3c7e74febd",
+      "link": "https://www.doctorbangladesh.com/lt-col-dr-abu-yousuf-md-shahidul-alam/",
+      "imageId": "7630a6c3-3cac-45f9-9e94-a7ba75c7ace3",
+      "name": "Lt. Col. Dr. Abu Yousuf Md. Shahidul Alam",
+      "degree": "MBBS, MCPS (Medicine), FCPS (Medicine), D-CARD (China), MMED (China)",
+      "specialty": "Cardiology & Medicine Specialist",
+      "workplace": "Combined Military Hospital (CMH), Bogra",
+      "info": "Lt. Col. Dr. Abu Yousuf Md. Shahidul Alam is a Cardiologist in Bogra. His qualification is MBBS, MCPS (Medicine), FCPS (Medicine), D-CARD (China), MMED (China). He is a Consultant, Cardiology at Combined Military Hospital (CMH), Bogra. He regularly provides treatment to his patients at Popular Diagnostic Center, Bogra. Practicing hour of Lt. Col. Dr. Abu Yousuf Md. Shahidul Alam at Popular Diagnostic Center, Bogra is 3pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "3pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "id": "cc61d940-77a5-45a7-a7f0-e5d1d4fcf591",
+      "departmentId": "30a82cdb-dee1-4759-a83d-6b3c7e74febd",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdus-salam-medicine/",
+      "imageId": "ba045721-87c8-4792-929e-4dd5de6c717f",
+      "name": "Dr. Md. Abdus Salam",
+      "degree": "MBBS, BCS (Health), MD (Medicine)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Md. Abdus Salam is a Medicine Specialist in Bogra. His qualification is MBBS, BCS (Health), MD (Medicine). He is a Professor, Department of Medicine at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Md. Abdus Salam at Popular Diagnostic Center, Bogra is 5pm to 10pm (Closed: Tues & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "5pm to 10pm (Closed: Tues & Friday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "id": "6dacf28f-0a2a-42ce-b056-8c14d8d71f00",
+      "departmentId": "30a82cdb-dee1-4759-a83d-6b3c7e74febd",
+      "link": "https://www.doctorbangladesh.com/dr-syed-mahbub-hossain-rajib/",
+      "imageId": "ddfc17ad-3c1b-4ba0-b36b-ab9fee45d313",
+      "name": "Dr. Syed Mahbub Hossain Rajib",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), CCD (BIRDEM), MACP (USA)",
+      "specialty": "Medicine, Rheumatic Fever & Diabetes Specialist",
+      "workplace": "Mohammad Ali Hospital, Bogra",
+      "info": "Dr. Syed Mahbub Hossain Rajib is a Medicine Specialist in Bogra. His qualification is MBBS, BCS (Health), FCPS (Medicine), CCD (BIRDEM), MACP (USA). He is a Consultant, Department of Medicine at Mohammad Ali Hospital, Bogra. He regularly provides treatment to his patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Syed Mahbub Hossain Rajib at Popular Diagnostic Center, Bogra is 3pm to 10pm (Sat to Thu) & 10am to 10pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "3pm to 10pm (Sat to Thu) & 10am to 10pm (Friday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "id": "0be4c28e-d6ef-4796-bdaf-6b543c4b1dee",
+      "departmentId": "30a82cdb-dee1-4759-a83d-6b3c7e74febd",
+      "link": "https://www.doctorbangladesh.com/dr-ripa-kundu/",
+      "imageId": "751fc2b7-17a6-47c5-814a-6392c90b60f9",
+      "name": "Dr. Ripa Kundu",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Ripa Kundu is a Medicine Specialist in Bogra. Her qualification is MBBS, BCS (Health), FCPS (Medicine). She is a Consultant, Department of Medicine at Shaheed Ziaur Rahman Medical College & Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Ripa Kundu at Popular Diagnostic Center, Bogra is 3pm to 8pm (Closed: Tuesday), 10am to 5pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "3pm to 8pm (Closed: Tuesday), 10am to 5pm (Friday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "id": "b00e8bc7-7783-466f-871a-d2ae981a63b5",
+      "departmentId": "30a82cdb-dee1-4759-a83d-6b3c7e74febd",
+      "link": "https://www.doctorbangladesh.com/dr-md-rafiqul-islam-2/",
+      "imageId": "9e8d6b54-0bd9-4cd7-9b3c-db7dc0418828",
+      "name": "Dr. Md. Rafiqul Islam",
+      "degree": "MBBS, FCPS (Medicine)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Mohammad Ali Hospital, Bogra",
+      "info": "Dr. Md. Rafiqul Islam is a Medicine Specialist in Bogra. His qualification is MBBS, FCPS (Medicine). He is a Senior Consultant, Department of Medicine at Mohammad Ali Hospital, Bogra. He regularly provides treatment to his patients at Ibn Sina Diagnostic & Consultation Center, Bogra. Practicing hour of Dr. Md. Rafiqul Islam at Ibn Sina Diagnostic & Consultation Center, Bogra is 3pm to 8pm (Everyday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
+        "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
+        "visitingTime": "3pm to 8pm (Everyday)",
+        "appointmentNumber": "+8801701560011Call Now"
+      }
+    },
+    {
+      "id": "68a6bb14-ecb2-439c-b459-1c71157f4594",
+      "departmentId": "30a82cdb-dee1-4759-a83d-6b3c7e74febd",
+      "link": "https://www.doctorbangladesh.com/dr-abu-bakar-siddique-2/",
+      "imageId": "48f274b7-faec-4b48-8743-aa06048575ed",
+      "name": "Dr. Abu Bakar Siddique",
+      "degree": "MBBS, FCPS (Medicine)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Abu Bakar Siddique is a Medicine Specialist in Bogra. His qualification is MBBS, FCPS (Medicine). He is a Assistant Professor, Department of Medicine at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Abu Bakar Siddique at Popular Diagnostic Center, Bogra is 2:30pm to 8pm (Closed: Monday), 10am to 4pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "2:30pm to 8pm (Closed: Monday), 10am to 4pm (Friday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "id": "54922ebb-4b01-4987-8ddb-972dfeb411c3",
+      "departmentId": "30a82cdb-dee1-4759-a83d-6b3c7e74febd",
+      "link": "https://www.doctorbangladesh.com/dr-md-faruk-hossain/",
+      "imageId": "fc1a30b6-d8b6-4390-84db-598696b3dfc3",
+      "name": "Dr. Md. Faruk Hossen",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Md. Faruk Hossen is a Medicine Specialist in Bogra. His qualification is MBBS, BCS (Health), FCPS (Medicine). He is a Consultant, Department of Medicine at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Md. Faruk Hossen at Popular Diagnostic Center, Bogra is 3pm to 10pm (Closed: Sat to Thu), 10am to 1pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "3pm to 10pm (Closed: Sat to Thu), 10am to 1pm (Friday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "id": "159550a2-f2f5-40f9-9197-67a39c79b3ce",
+      "departmentId": "30a82cdb-dee1-4759-a83d-6b3c7e74febd",
+      "link": "https://www.doctorbangladesh.com/dr-md-ahsan-habib-medicine/",
+      "imageId": "15afd96d-1555-468c-9610-6b5a8e396d66",
+      "name": "Dr. Md. Ahsan Habib",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), MACP (USA)",
+      "specialty": "Medicine & Diabetes Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Md. Ahsan Habib is a Medicine Specialist in Bogra. His qualification is MBBS, BCS (Health), FCPS (Medicine), MACP (USA). He is a Assistant Professor, Department of Medicine at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic & Consultation Center, Bogra. Practicing hour of Dr. Md. Ahsan Habib at Ibn Sina Diagnostic & Consultation Center, Bogra is 4pm to 9pm (Sun, Mon & Wed).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
+        "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
+        "visitingTime": "4pm to 9pm (Sun, Mon & Wed)",
+        "appointmentNumber": "+8801701560011Call Now"
+      }
+    },
+    {
+      "id": "c10caa47-1464-4a28-bf5a-7c622636aaab",
+      "departmentId": "30a82cdb-dee1-4759-a83d-6b3c7e74febd",
+      "link": "https://www.doctorbangladesh.com/dr-moniruzzaman-ashraf-bipul/",
+      "imageId": "702301f2-93e2-4f5c-9d1b-7d201edfc93c",
+      "name": "Dr. Md. Moniruzzaman Asraf Bipul",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Md. Moniruzzaman Asraf Bipul is a Medicine Specialist in Bogra. His qualification is MBBS, BCS (Health), FCPS (Medicine). He is a Assistant Professor, Department of Medicine at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Md. Moniruzzaman Asraf Bipul at Popular Diagnostic Center, Bogra is 3pm to 9pm (Sun to Thu) & 10am to 8pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "3pm to 9pm (Sun to Thu) & 10am to 8pm (Friday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "id": "b47ef0a5-9487-4710-bdde-adbc75c26dbf",
+      "departmentId": "30a82cdb-dee1-4759-a83d-6b3c7e74febd",
+      "link": "https://www.doctorbangladesh.com/dr-md-aminul-hasan/",
+      "imageId": "092b78c8-0aff-41d6-9b64-d2f92ccc1119",
+      "name": "Dr. Md. Aminul Hasan",
+      "degree": "MBBS, BCS (Health), MD (Internal Medicine)",
+      "specialty": "Internal Medicine Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Md. Aminul Hasan is a Medicine Specialist in Bogra. His qualification is MBBS, BCS (Health), MD (Internal Medicine). He is a Associate Professor, Medicine at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Md. Aminul Hasan at Popular Diagnostic Center, Bogra is 3pm to 9pm (Sat to Thu) & 10am to 5pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "3pm to 9pm (Sat to Thu) & 10am to 5pm (Friday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "id": "d5d7247a-b7b1-4674-a69f-f02a8e249251",
+      "departmentId": "30a82cdb-dee1-4759-a83d-6b3c7e74febd",
+      "link": "https://www.doctorbangladesh.com/dr-abu-hena-mahmud-runu/",
+      "imageId": "7be3ce0b-d0e8-41d7-9ca3-2e31685cfd86",
+      "name": "Dr. Abu Hena Mahmud Runu",
+      "degree": "MBBS, CCD (BIRDEM), FCPS (Medicine)",
+      "specialty": "Medicine & Diabetes Specialist",
+      "workplace": "Mohammad Ali Hospital, Bogra",
+      "info": "Dr. Abu Hena Mahmud Runu is a Medicine Specialist in Bogra. His qualification is MBBS, CCD (BIRDEM), FCPS (Medicine). He is a Former Registrar, Department of Medicine at Mohammad Ali Hospital, Bogra. He regularly provides treatment to his patients at Ibn Sina Diagnostic & Consultation Center, Bogra. Practicing hour of Dr. Abu Hena Mahmud Runu at Ibn Sina Diagnostic & Consultation Center, Bogra is 10am to 2pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
+        "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
+        "visitingTime": "10am to 2pm (Closed: Friday)",
+        "appointmentNumber": "+8801701560011Call Now"
+      }
+    },
+    {
+      "id": "04b5d84f-82cc-4d9f-bd69-3a0ac7918c19",
+      "departmentId": "30a82cdb-dee1-4759-a83d-6b3c7e74febd",
+      "link": "https://www.doctorbangladesh.com/dr-s-m-arafat-medicine/",
+      "imageId": "4ed15816-4c54-495e-b136-6eb0f8abb39f",
+      "name": "Dr. S.M. Arafat",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. S.M. Arafat is a Medicine Specialist in Bogra. His qualification is MBBS, BCS (Health), FCPS (Medicine). He is a Consultant, Department of Medicine at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Bogura. Practicing hour of Dr. S.M. Arafat at Labaid Diagnostic, Bogura is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Bogura",
+        "address": "House # 1872, Sherpur Road, Colony, Bogura",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662777Call Now"
+      }
+    },
+    {
+      "id": "6aa845b5-c03c-49fe-ad9e-2c0766f40226",
+      "departmentId": "30a82cdb-dee1-4759-a83d-6b3c7e74febd",
+      "link": "https://www.doctorbangladesh.com/dr-a-s-m-sahabur-alam-sumon/",
+      "imageId": "68e85315-23bd-4c9a-a1cb-91b8acfe9f11",
+      "name": "Dr. A.S.M. Sahabur Alam Sumon",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Popular Diagnostic Center, BograAddress: House # 12/310, Thanthania Bus Stand, Sherpur Road, BoguraVisiting Hour: 3pm to 9pm (Closed: Friday)Appointment: +8809666787812Call Now",
+      "chamber": {
+        "hospital": "Saic General Hospital, Bogura",
+        "address": "Bhai Pagla Mazar Lane, Thanthania, Bogura",
+        "visitingTime": "3pm to 8pm (Sat to Thu), 11am to 3pm (Friday)",
+        "appointmentNumber": "+8801936005870Call Now"
+      }
+    },
+    {
+      "id": "891e7628-c8ba-4072-97e0-07b243cc9d49",
+      "departmentId": "30a82cdb-dee1-4759-a83d-6b3c7e74febd",
+      "link": "https://www.doctorbangladesh.com/dr-md-ajmirul-hoque-sarkar/",
+      "imageId": "b82ee2af-1d5f-4bb0-a827-a49de9caf82a",
+      "name": "Dr. Md. Ajmirul Hoque Sarkar",
+      "degree": "MBBS, FCPS (Medicine)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Md. Ajmirul Hoque Sarkar is a Medicine Specialist in Bogra. His qualification is MBBS, FCPS (Medicine). He is a Resident Physician, Department of Medicine at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Md. Ajmirul Hoque Sarkar at Popular Diagnostic Center, Bogra is 2pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "2pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "id": "8d9ccbbf-24a9-4355-820f-8b8318d40433",
+      "departmentId": "30a82cdb-dee1-4759-a83d-6b3c7e74febd",
+      "link": "https://www.doctorbangladesh.com/dr-md-monowar-hossain/",
+      "imageId": "a18c951d-ede3-44be-8079-6b9e70408f94",
+      "name": "Dr. Md. Monowar Hossain",
+      "degree": "MBBS, MD (Medicine)",
+      "specialty": "Medicine & Diabetes Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Md. Monowar Hossain is a Medicine Specialist in Bogra. His qualification is MBBS, MD (Medicine). He is a Assistant Professor, Department of Medicine at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Bogura. Practicing hour of Dr. Md. Monowar Hossain at Labaid Diagnostic, Bogura is 3pm to 8pm (Everyday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Bogura",
+        "address": "House # 1872, Sherpur Road, Colony, Bogura",
+        "visitingTime": "3pm to 8pm (Everyday)",
+        "appointmentNumber": "+8801766662777Call Now"
+      }
+    }
+  ]
+}

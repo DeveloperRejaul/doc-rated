@@ -1,0 +1,21 @@
+{
+  "doctor": [
+    {
+      "id": "322a09d0-cdb3-42f7-b890-9e6172f5e0d3",
+      "departmentId": "3853e03a-5851-4c9d-b285-336082f82c7f",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-mamun-khan/",
+      "imageId": "67725ace-7afd-44e3-8a0a-1c2afe86e6dd",
+      "name": "Dr. Mohammad Mamun Khan",
+      "degree": "MBBS, BCS (Health), MD (Rheumatology), ECRD (Switzerland)",
+      "specialty": "Rheumatology & Medicine Specialist",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Mediscan Specialised Imaging Centre Address: Emirates Tower, Station Road, Kishoreganj Visiting Hour: 10am to 7pm (Only Friday) Appointment: +8801931231717 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Mymensingh",
+        "address": "171, Charpara, Medical College Gate, Mymensingh – 2200",
+        "visitingTime": "4pm to 9pm (Everyday)",
+        "appointmentNumber": "+8809666787814Call Now"
+      }
+    }
+  ]
+}

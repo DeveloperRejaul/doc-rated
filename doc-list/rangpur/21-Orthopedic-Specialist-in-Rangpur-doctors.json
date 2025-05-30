@@ -1,0 +1,174 @@
+{
+  "doctor": [
+    {
+      "id": "0b35aa1a-e552-4886-9a98-b5a4b31945ab",
+      "departmentId": "bffade37-fc1b-4b08-80bb-1a08cd796628",
+      "link": "https://www.doctorbangladesh.com/prof-dr-shafiqul-islam/",
+      "imageId": "902d1a54-49e0-4ff2-9bb0-ce5815043646",
+      "name": "Prof. Dr. Shafiqul Islam",
+      "degree": "MBBS (DMC), MS (Ortho Surgery)",
+      "specialty": "Bone Joint, Orthopedic Specialist & Trauma Surgeon",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Prof. Dr. Shafiqul Islam is a Orthopedic Surgeon in Rangpur. His qualification is MBBS (DMC), MS (Ortho Surgery). He is a Professor & Head, Orthopedic Surgery at Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Good Health Hospital, Rangpur. Practicing hour of Prof. Dr. Shafiqul Islam at Good Health Hospital, Rangpur is 3pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Good Health Hospital, Rangpur",
+        "address": "Address: Dhap, Jail Road, Rangpur",
+        "visitingTime": "3pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801717974488Call Now"
+      }
+    },
+    {
+      "id": "2a5ffc00-c908-4144-8b50-8044c3e6ebb9",
+      "departmentId": "bffade37-fc1b-4b08-80bb-1a08cd796628",
+      "link": "https://www.doctorbangladesh.com/prof-dr-hamidul-haque-khandker/",
+      "imageId": "72b51ddc-2023-4582-bd31-fac32fe7c68b",
+      "name": "Prof. Dr. Hamidul Haque Khandker",
+      "degree": "MBBS, D-ORTHO, MS (ORTHO)",
+      "specialty": "Bone-Joint, Injury, Orthopedic Specialist & Trauma Surgeon",
+      "workplace": "Rangpur Community Medical College & Hospital",
+      "info": "Prof. Dr. Hamidul Haque Khandker is a Orthopedic Surgeon in Rangpur. His qualification is MBBS, D-ORTHO, MS (ORTHO). He is a Professor & Head, Orthopedics at Rangpur Community Medical College & Hospital. He regularly provides treatment to his patients at Doctor's Community Hospital, Rangpur. Practicing hour of Prof. Dr. Hamidul Haque Khandker at Doctor's Community Hospital, Rangpur is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Doctor's Community Hospital, Rangpur",
+        "address": "Medical East Gate, Health City Road, Dhap, Rangpur",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801717292458Call Now"
+      }
+    },
+    {
+      "id": "278f29fe-29d3-4e64-b966-b213a2e8d76f",
+      "departmentId": "bffade37-fc1b-4b08-80bb-1a08cd796628",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-moshiur-rahman/",
+      "imageId": "2811c8ae-cd9d-4bff-9319-c65b6c64785b",
+      "name": "Prof. Dr. Md. Moshiur Rahman",
+      "degree": "MBBS, D-ORTHO, F-ORTHO (SG), Fellow (WOC)",
+      "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Prof. Dr. Md. Moshiur Rahman is a Orthopedic Surgeon in Rangpur. His qualification is MBBS, D-ORTHO, F-ORTHO (SG), Fellow (WOC). He is a Professor, Orthopedics at Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Apollo Diagnostic Center, Rangpur. Practicing hour of Prof. Dr. Md. Moshiur Rahman at Apollo Diagnostic Center, Rangpur is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Apollo Diagnostic Center, Rangpur",
+        "address": "Medical Mor, Jail Road, Dhap, Rangpur",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801733008087Call Now"
+      }
+    },
+    {
+      "id": "0b39aebb-755b-436c-a201-668e3f821bf5",
+      "departmentId": "bffade37-fc1b-4b08-80bb-1a08cd796628",
+      "link": "https://www.doctorbangladesh.com/dr-a-b-m-rashedul-amir/",
+      "imageId": "f83b8052-a693-4cdf-9b57-5ae3fdaaec90",
+      "name": "Dr. A.B.M. Rashedul Amir",
+      "degree": "MBBS, BCS (Health), D-ORTHO (BSMMU)",
+      "specialty": "Orthopedic (Bone, Joint, Arthritis, Trauma) Specialist & Surgeon",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. A.B.M. Rashedul Amir is a Orthopedic Surgeon in Rangpur. His qualification is MBBS, BCS (Health), D-ORTHO (BSMMU). He is a Consultant, Orthopedics at Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Ideal Health City, Rangpur. Practicing hour of Dr. A.B.M. Rashedul Amir at Ideal Health City, Rangpur is 3pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ideal Health City, Rangpur",
+        "address": "6/7, Treatment Tower, Dhap, Jail Road, Rangpur",
+        "visitingTime": "3pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801988877800Call Now"
+      }
+    },
+    {
+      "id": "c5d3773e-a015-4cda-b31b-4a9a71f6979d",
+      "departmentId": "bffade37-fc1b-4b08-80bb-1a08cd796628",
+      "link": "https://www.doctorbangladesh.com/dr-a-b-m-morshed-goni/",
+      "imageId": "773c28b6-b9a9-49b4-9f34-b421940ddbd0",
+      "name": "Dr. A.B.M Morshed Goni",
+      "degree": "MBBS, MS (Ortho Surgery), AO Spine Principle Course (Singapure)",
+      "specialty": "Orthopedic Specialist & Trauma Surgeon",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. A.B.M Morshed Goni is a Orthopedic Surgeon in Rangpur. His qualification is MBBS, MS (Ortho Surgery), AO Spine Principle Course (Singapure). He is a Assistant Professor (Orthopedics) at Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rangpur. Practicing hour of Dr. A.B.M Morshed Goni at Popular Diagnostic Center, Rangpur is 3pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rangpur",
+        "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
+        "visitingTime": "3pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787813Call Now"
+      }
+    },
+    {
+      "id": "ae2773b8-47f2-4e7b-ac05-38aefa490556",
+      "departmentId": "bffade37-fc1b-4b08-80bb-1a08cd796628",
+      "link": "https://www.doctorbangladesh.com/dr-md-ashfaqur-rahman-romel/",
+      "imageId": "2304296a-7294-436c-8a19-af89ba9cc833",
+      "name": "Dr. Md. Ashfaqur Rahman (Romel)",
+      "degree": "MBBS, BCS (Health), MS (Ortho Surgery)",
+      "specialty": "Orthopedic (Bone, Joint, Arthritis, Trauma) Specialist & Surgeon",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Md. Ashfaqur Rahman (Romel) is a Orthopedic Surgeon in Rangpur. His qualification is MBBS, BCS (Health), MS (Ortho Surgery) . He is a Associate Professor (Orthopedics) at Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Islami Bank Community Hospital, Rangpur. Practicing hour of Dr. Md. Ashfaqur Rahman (Romel) at Islami Bank Community Hospital, Rangpur is 3pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Community Hospital, Rangpur",
+        "address": "Jail Road, Dhap, Rangpur",
+        "visitingTime": "3pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801750908297Call Now"
+      }
+    },
+    {
+      "id": "78efa82a-7f1a-4a3c-a9af-9ecc246e5a97",
+      "departmentId": "bffade37-fc1b-4b08-80bb-1a08cd796628",
+      "link": "https://www.doctorbangladesh.com/dr-md-aminur-rahman/",
+      "imageId": "3471c526-5eff-4d42-b45f-694068011850",
+      "name": "Dr. Md. Aminur Rahman",
+      "degree": "MBBS, BCS (Health), FCPS (Orthopedics)",
+      "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Md. Aminur Rahman is a Orthopedic Surgeon in Rangpur. His qualification is MBBS, BCS (Health), FCPS (Orthopedics). He is a Senior Consultant at Rangpur Medical College & Hospital. He regularly provides treatment to his patients at Mediland Diagnostic Center, Rangpur. Practicing hour of Dr. Md. Aminur Rahman at Mediland Diagnostic Center, Rangpur is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Mediland Diagnostic Center, Rangpur",
+        "address": "Room 108, Opposite to Sarak Bhaban, Dhap, Jail Road, Rangpur",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801910800193Call Now"
+      }
+    },
+    {
+      "id": "de26e9e1-fc6d-4abc-a72a-b12687d987c3",
+      "departmentId": "bffade37-fc1b-4b08-80bb-1a08cd796628",
+      "link": "https://www.doctorbangladesh.com/dr-mriganko-bhattacharjee/",
+      "imageId": "32638650-331d-4b6a-946c-dfe479f138a9",
+      "name": "Dr. Mriganko Bhattacharjee",
+      "degree": "MBBS, D-ORTHO, FIPM (INDIA)",
+      "specialty": "Orthopedic (Bone, Joint, Arthritis, Trauma) Specialist & Surgeon",
+      "workplace": "Rangpur Community Medical College & Hospital",
+      "info": "Dr. Mriganko Bhattacharjee is a Orthopedic Surgeon in Rangpur. His qualification is MBBS, D-ORTHO, FIPM (INDIA). He is a Consultant (Orthopedics) at Rangpur Community Medical College & Hospital. He regularly provides treatment to his patients at Doctor's Community Hospital, Rangpur. Practicing hour of Dr. Mriganko Bhattacharjee at Doctor's Community Hospital, Rangpur is 3pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Doctor's Community Hospital, Rangpur",
+        "address": "Medical East Gate, Health City Road, Dhap, Rangpur",
+        "visitingTime": "3pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801717292458Call Now"
+      }
+    },
+    {
+      "id": "6aad15b9-0b4f-4f9d-9b3a-b910d4f6dd20",
+      "departmentId": "bffade37-fc1b-4b08-80bb-1a08cd796628",
+      "link": "https://www.doctorbangladesh.com/dr-md-shariful-haque/",
+      "imageId": "498d15d1-8a60-4687-896c-906fa7386b99",
+      "name": "Prof. Dr. Md. Shariful Haque",
+      "degree": "MBBS, D-ORTHO (BSMMU)",
+      "specialty": "Orthopedic Specialist, Spine & Trauma Surgeon",
+      "workplace": "Prime Medical College Hospital, Rangpur",
+      "info": "Prof. Dr. Md. Shariful Haque is a Orthopedic Surgeon in Rangpur. His qualification is MBBS, D-ORTHO (BSMMU). He is a Professor & Head, Department of Orthopedics at Prime Medical College Hospital, Rangpur. He regularly provides treatment to his patients at Prime Trauma Centre, Rangpur. Practicing hour of Prof. Dr. Md. Shariful Haque at Prime Trauma Centre, Rangpur is 11am to 5pm (Closed: Friday & Holiday).",
+      "chamber": {
+        "hospital": "Prime Trauma Centre, Rangpur",
+        "address": "Prime Medical College Hospital, Pirjabad, Badargonj Road, Rangpur",
+        "visitingTime": "11am to 5pm (Closed: Friday & Holiday)",
+        "appointmentNumber": "+8801919166444Call Now"
+      }
+    },
+    {
+      "id": "200fe333-bd15-44fd-ad4b-c6f9723929f6",
+      "departmentId": "bffade37-fc1b-4b08-80bb-1a08cd796628",
+      "link": "https://www.doctorbangladesh.com/dr-hazrat-ali/",
+      "imageId": "51756cbb-03a8-49a9-825b-e850b192b05b",
+      "name": "Dr. Hazrat Ali",
+      "degree": "MBBS, BCS (Health), MS (Ortho-Surgery), Fellow: Arthroscopy (India)",
+      "specialty": "Arthroscopy, Arthroplasty, Orthopedics, Spine & Trauma Surgeon",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Hazrat Ali is a Orthopedic Surgeon in Rangpur. His qualification is MBBS, BCS (Health), MS (Ortho-Surgery), Fellow: Arthroscopy (India). He is an Assistant Professor (Arthroscopy & Sports Injury) at Rangpur Medical College & Hospital. He regularly provides treatment to his patients at People Care Diagnostic Centre, Rangpur. Practicing hour of Dr. Hazrat Ali at People Care Diagnostic Centre, Rangpur is 3pm to 10pm (Everyday).",
+      "chamber": {
+        "hospital": "People Care Diagnostic Centre, Rangpur",
+        "address": "Dhap, Jail Road, Rangpur (Near Dhap 8 Tala Masjid)",
+        "visitingTime": "3pm to 10pm (Everyday)",
+        "appointmentNumber": "+8801710214568Call Now"
+      }
+    }
+  ]
+}

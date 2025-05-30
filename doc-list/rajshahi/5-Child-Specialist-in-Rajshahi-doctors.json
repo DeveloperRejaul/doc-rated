@@ -1,0 +1,378 @@
+{
+  "doctor": [
+    {
+      "id": "db7627af-f3e9-4f4d-b867-af9380d2c7e6",
+      "departmentId": "a88eaddf-36e9-4730-9890-de53b064eaee",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-belal-uddin/",
+      "imageId": "4ef62f45-a4e0-4e99-b857-1f7f4c2ad98e",
+      "name": "Prof. Dr. Md. Belal Uddin",
+      "degree": "MBBS, DCH (BSMMU), FCPS (Pediatrics)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Rajshahi Metropolitan Hospital Address: C&B Mor, Laxmipur, Kazihata, Rajshahi Visiting Hour: 8am to 9am (Closed: Friday) Appointment: +8801766865711 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "4pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787811Call Now"
+      }
+    },
+    {
+      "id": "acd5fbf2-ee9a-428f-a483-f8a3c60ce75d",
+      "departmentId": "a88eaddf-36e9-4730-9890-de53b064eaee",
+      "link": "https://www.doctorbangladesh.com/prof-dr-a-b-siddiqui/",
+      "imageId": "7896af18-f621-421a-8df4-1b30a44bb45d",
+      "name": "Prof. Dr. A. B. Siddiqui",
+      "degree": "MBBS, DCH, MRCP (UK), FRCP (EDIN), FAAP (USA), MAC, DTMH",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Prof. Dr. A. B. Siddiqui is a Child Specialist in Rajshahi. His qualification is MBBS, DCH, MRCP (UK), FRCP (EDIN), FAAP (USA), MAC, DTMH. He is a Former Professor & Head, Pediatrics at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Metro Diagnostic Center, Rajshahi. Practicing hour of Prof. Dr. A. B. Siddiqui at Metro Diagnostic Center, Rajshahi is 9am to 2pm & 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Metro Diagnostic Center, Rajshahi",
+        "address": "Station Road, Ghoshpara Mor, Sipaipara, Rajshahi",
+        "visitingTime": "9am to 2pm & 5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801911024385Call Now"
+      }
+    },
+    {
+      "id": "4739ba47-4fa1-411c-9348-04f7443b49a9",
+      "departmentId": "a88eaddf-36e9-4730-9890-de53b064eaee",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-iqbal-bari/",
+      "imageId": "51c30830-c4c6-402d-9163-b8d908c61e1d",
+      "name": "Prof. Dr. Md. Iqbal Bari",
+      "degree": "MBBS, FCPS (Pediatrics), DMEd, FRCP (UK)",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Prof. Dr. Md. Iqbal Bari is a Child Specialist in Rajshahi. His qualification is MBBS, FCPS (Pediatrics), DMEd, FRCP (UK). He is a Former Professor, Pediatrics at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Rajshahi Royal Hospital Pvt. Ltd.. Practicing hour of Prof. Dr. Md. Iqbal Bari at Rajshahi Royal Hospital Pvt. Ltd. is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
+        "address": "Laxmipur Mor, Rajshahi",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801762685090Call Now"
+      }
+    },
+    {
+      "id": "b4244337-aa27-45db-ae2a-11bfe2118ec2",
+      "departmentId": "a88eaddf-36e9-4730-9890-de53b064eaee",
+      "link": "https://www.doctorbangladesh.com/dr-md-asgar-hossain/",
+      "imageId": "3b4683cb-4b54-4fb7-97fe-a79b186866b7",
+      "name": "Dr. Md. Asgar Hossain",
+      "degree": "MBBS, FCPS (Pediatrics), Training (Bangkok)",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Md. Asgar Hossain is a Child Specialist in Rajshahi. His qualification is MBBS, FCPS (Pediatrics), Training (Bangkok). He is a Senior Consultant, Respiratory Medicine at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Rajshahi Royal Hospital Pvt. Ltd.. Practicing hour of Dr. Md. Asgar Hossain at Rajshahi Royal Hospital Pvt. Ltd. is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
+        "address": "Laxmipur Mor, Rajshahi",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801762685090Call Now"
+      }
+    },
+    {
+      "id": "d4a79a0b-1c31-44b2-a54d-68e5300aabd7",
+      "departmentId": "a88eaddf-36e9-4730-9890-de53b064eaee",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-sanaul-haque/",
+      "imageId": "cc4fe8c5-e8df-4d0f-98b1-5489180f90f7",
+      "name": "Prof. Dr. Md. Sanaul Haque",
+      "degree": "MBBS, FCPS (Pediatric)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Prof. Dr. Md. Sanaul Haque is a Child Specialist in Rajshahi. His qualification is MBBS, FCPS (Pediatric). He is a Former Professor & Head, Pediatrics at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Prof. Dr. Md. Sanaul Haque at Popular Diagnostic Center, Rajshahi is 5pm to 9pm (Everyday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "5pm to 9pm (Everyday)",
+        "appointmentNumber": "+8809666787811Call Now"
+      }
+    },
+    {
+      "id": "6791812d-bd77-415f-9ddf-adfea5a60237",
+      "departmentId": "a88eaddf-36e9-4730-9890-de53b064eaee",
+      "link": "https://www.doctorbangladesh.com/dr-md-monirul-haque-tarafdar/",
+      "imageId": "47d84825-3dae-4891-825c-7f3df186d3dd",
+      "name": "Dr. Md. Manirul Haque Tarafdar",
+      "degree": "MBBS, BCS (Health), MD (CHILD)",
+      "specialty": "Neonatal, Adolescent & Child Diseases Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Md. Manirul Haque Tarafdar is a Child Specialist in Rajshahi. His qualification is MBBS, BCS (Health), MD (CHILD). He is a Consultant, Pediatrics at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Md. Manirul Haque Tarafdar at Popular Diagnostic Center, Rajshahi is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787811Call Now"
+      }
+    },
+    {
+      "id": "dab90fcf-e8bb-44cb-8de8-85bc39a2466d",
+      "departmentId": "a88eaddf-36e9-4730-9890-de53b064eaee",
+      "link": "https://www.doctorbangladesh.com/dr-laila-shamima-sharmin/",
+      "imageId": "e98860d9-7e0b-4f6e-a51d-d505f287e3a5",
+      "name": "Dr. Laila Shamima Sharmin",
+      "degree": "MBBS, FCPS (Pediatrics), MRCP (UK), Fellow (Pediatric Nephrology, SG)",
+      "specialty": "Child & Child Kidney Diseases Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Laila Shamima Sharmin is a Child Specialist in Rajshahi. Her qualification is MBBS, FCPS (Pediatrics), MRCP (UK), Fellow (Pediatric Nephrology, SG). She is a Assistant Professor, Pediatrics at Rajshahi Medical College & Hospital. She regularly provides treatment to her patients at Micropath Diagnostic Center, Rajshahi. Practicing hour of Dr. Laila Shamima Sharmin at Micropath Diagnostic Center, Rajshahi is 3pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Micropath Diagnostic Center, Rajshahi",
+        "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
+        "visitingTime": "3pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801724550544Call Now"
+      }
+    },
+    {
+      "id": "48f3a712-80c2-4937-8a51-b1d058d41db2",
+      "departmentId": "a88eaddf-36e9-4730-9890-de53b064eaee",
+      "link": "https://www.doctorbangladesh.com/dr-tahmidur-rahman/",
+      "imageId": "cf31bb9c-d663-4127-bd75-a7d39256193d",
+      "name": "Dr. Tahmidur Rahman",
+      "degree": "MBBS, MD (CHILD)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Tahmidur Rahman is a Child Specialist in Rajshahi. His qualification is MBBS, MD (CHILD). He is a Assistant Professor, Pediatrics at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Rajshahi Royal Hospital Pvt. Ltd.. Practicing hour of Dr. Tahmidur Rahman at Rajshahi Royal Hospital Pvt. Ltd. is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
+        "address": "Laxmipur Mor, Rajshahi",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801762685090Call Now"
+      }
+    },
+    {
+      "id": "92cd0adc-d7a6-402b-bd9d-efe7db7d90a4",
+      "departmentId": "a88eaddf-36e9-4730-9890-de53b064eaee",
+      "link": "https://www.doctorbangladesh.com/dr-md-rustam-ali/",
+      "imageId": "9f5b3bd0-807f-4448-bfae-d552af2ceacb",
+      "name": "Dr. Md. Rustam Ali",
+      "degree": "MBBS, BCS (Health), FCPS (Pediatrics)",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Popular Diagnostic Center, RajshahiAddress: House # 474, Chowdhury Tower, Laxmipur, RajshahiVisiting Hour: 4pm to 8pm (Closed: Tue & Friday)Appointment: +8809666787811Call Now",
+      "chamber": {
+        "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
+        "address": "Laxmipur Mor, Rajshahi",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801762685090Call Now"
+      }
+    },
+    {
+      "id": "c1efd2a4-b55c-4146-aadc-ea63b50fcc5b",
+      "departmentId": "a88eaddf-36e9-4730-9890-de53b064eaee",
+      "link": "https://www.doctorbangladesh.com/dr-shahida-yeasmin/",
+      "imageId": "709b15e4-dd97-4e04-a4e0-f35e0f5e19c2",
+      "name": "Prof. Dr. Shahida Yeasmin",
+      "degree": "MBBS, BCS (Health), MD (Pediatrics)",
+      "specialty": "Newborn, Adolescent, Child Diseases & Nutrition Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Prof. Dr. Shahida Yeasmin is a Child Specialist in Rajshahi. Her qualification is MBBS, BCS (Health), MD (Pediatrics). She is a Professor & Head, Pediatrics at Rajshahi Medical College & Hospital. She regularly provides treatment to her patients at Life Line Diagnostic Center, Rajshahi. Practicing hour of Prof. Dr. Shahida Yeasmin at Life Line Diagnostic Center, Rajshahi is 3pm to 9.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Life Line Diagnostic Center, Rajshahi",
+        "address": "191, South Side of Education Board, Laxmipur, Rajshahi",
+        "visitingTime": "3pm to 9.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801738139328Call Now"
+      }
+    },
+    {
+      "id": "2f0f83f5-4dc3-497c-94f5-f632aca47218",
+      "departmentId": "a88eaddf-36e9-4730-9890-de53b064eaee",
+      "link": "https://www.doctorbangladesh.com/dr-khan-ishrat-jahan/",
+      "imageId": "1417f9ad-d8fe-4fb1-b43e-17839a470135",
+      "name": "Dr. Khan Ishrat Jahan",
+      "degree": "MBBS, MD (CHILD)",
+      "specialty": "Neonatal, Adolescent & Child Diseases Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Khan Ishrat Jahan is a Child Specialist in Rajshahi. Her qualification is MBBS, MD (CHILD). She is a Assistant Professor, Pediatrics at Rajshahi Medical College & Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Khan Ishrat Jahan at Popular Diagnostic Center, Rajshahi is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787811Call Now"
+      }
+    },
+    {
+      "id": "280a1944-0694-4b96-88c4-1d5a6fe16bba",
+      "departmentId": "a88eaddf-36e9-4730-9890-de53b064eaee",
+      "link": "https://www.doctorbangladesh.com/dr-syeda-nafisa-islam/",
+      "imageId": "bddb38f1-1850-4bee-bc44-c6c8cf2a31bd",
+      "name": "Dr. Syeda Nafisa Islam",
+      "degree": "MBBS, FCPS (Pediatrics), DCH (Pediatrics), Fellow ICDDR,B (Diarrhea & Malnutrition)",
+      "specialty": "Newborn, Child & Adolescent Diseases Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Popular Diagnostic Center, RajshahiAddress: House # 474, Chowdhury Tower, Laxmipur, RajshahiVisiting Hour: 4pm to 10pm (Closed: Friday)Appointment: +8809666787811Call Now",
+      "chamber": {
+        "hospital": "Nobojatok O Shishu-Kishor Chikitsaloy",
+        "address": "Rupali Bank Goli, Bonolota Housing, Sopura, Rajshahi",
+        "visitingTime": "7.30am to 8.30am & 7pm to 8pm (Sat to Thu) & 9am to 10am (Friday)",
+        "appointmentNumber": "+8801984149049Call Now"
+      }
+    },
+    {
+      "id": "cecfe2ca-2470-4139-aa4d-759c4ce70521",
+      "departmentId": "a88eaddf-36e9-4730-9890-de53b064eaee",
+      "link": "https://www.doctorbangladesh.com/dr-shamima-naznin/",
+      "imageId": "f84c0c20-30df-4e03-9e2a-c0460065d3a7",
+      "name": "Dr. Shamima Naznin",
+      "degree": "MBBS, FCPS (CHILD)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Shamima Naznin is a Child Specialist in Rajshahi. Her qualification is MBBS, FCPS (CHILD). She is a Assistant Professor, Pediatrics at Rajshahi Medical College & Hospital. She regularly provides treatment to her patients at Home Chamber. Practicing hour of Dr. Shamima Naznin at Home Chamber is 3pm to 10pm (Everyday).",
+      "chamber": {
+        "hospital": "Home Chamber",
+        "address": "Shalbagan, Professor Para, Rajshahi",
+        "visitingTime": "3pm to 10pm (Everyday)",
+        "appointmentNumber": "+8801798786759Call Now"
+      }
+    },
+    {
+      "id": "f5030c3a-1c7e-4869-a133-67dc4154b365",
+      "departmentId": "a88eaddf-36e9-4730-9890-de53b064eaee",
+      "link": "https://www.doctorbangladesh.com/dr-md-hasanuzzaman-hasu/",
+      "imageId": "0cbeef6e-2950-4428-b576-4da7af78d9f5",
+      "name": "Prof. Dr. Hasanuzzaman Hasu",
+      "degree": "MBBS, DCH, FRCP (Glasgow), PhD (Neonatal)",
+      "specialty": "Newborn, Adolescent, Child Diseases & Nutrition Specialist",
+      "workplace": "Shah Mokhdum Medical College & Hospital",
+      "info": "Prof. Dr. Hasanuzzaman Hasu is a Child Specialist in Rajshahi. His qualification is MBBS, DCH, FRCP (Glasgow), PhD (Neonatal). He is a Professor & Ex. Head, Pediatrics at Shah Mokhdum Medical College & Hospital. He regularly provides treatment to his patients at Zamzam Islami Hospital, Rajshahi. Practicing hour of Prof. Dr. Hasanuzzaman Hasu at Zamzam Islami Hospital, Rajshahi is 5pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Zamzam Islami Hospital, Rajshahi",
+        "address": "Greater Road, Kazihata, Laxmipur, Rajshahi",
+        "visitingTime": "5pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801711192600Call Now"
+      }
+    },
+    {
+      "id": "c11ce815-8ba4-4cc6-9554-9be0dce00658",
+      "departmentId": "a88eaddf-36e9-4730-9890-de53b064eaee",
+      "link": "https://www.doctorbangladesh.com/dr-ferdousi-begum/",
+      "imageId": "75a9f769-ba1e-4bd3-abed-444516fd7974",
+      "name": "Dr. Ferdousi Begum",
+      "degree": "MBBS, BCS (Health), MCPS, FCPS (Pediatrics), MD (Pediatrics)",
+      "specialty": "Neonatal, Adolescent & Child Diseases Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Ferdousi Begum is a Child Specialist in Rajshahi. Her qualification is MBBS, BCS (Health), MCPS, FCPS (Pediatrics), MD (Pediatrics). She is a Consultant, Pediatrics at Rajshahi Medical College & Hospital. She regularly provides treatment to her patients at Al Arafa Clinic & Diagnostic Center, Rajshahi. Practicing hour of Dr. Ferdousi Begum at Al Arafa Clinic & Diagnostic Center, Rajshahi is 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Al Arafa Clinic & Diagnostic Center, Rajshahi",
+        "address": "Bornali Mor, Rajshahi",
+        "visitingTime": "4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801711359480Call Now"
+      }
+    },
+    {
+      "id": "03b7eada-926d-4cd3-a260-d57a41590db7",
+      "departmentId": "a88eaddf-36e9-4730-9890-de53b064eaee",
+      "link": "https://www.doctorbangladesh.com/dr-m-a-hai/",
+      "imageId": "0ff870db-e3d9-489e-8379-03ad006d3e89",
+      "name": "Dr. M. A. Hai",
+      "degree": "MBBS, BCS (Health), MD (Pediatrics)",
+      "specialty": "Child Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. M. A. Hai is a Child Specialist in Rajshahi. His qualification is MBBS, BCS (Health), MD (Pediatrics). He is working as a Child Specialist doctor in Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Rajshahi Royal Hospital Pvt. Ltd.. Practicing hour of Dr. M. A. Hai at Rajshahi Royal Hospital Pvt. Ltd. is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
+        "address": "Laxmipur Mor, Rajshahi",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801762685090Call Now"
+      }
+    },
+    {
+      "id": "9811336d-e47e-4080-9be6-ef2634a3d494",
+      "departmentId": "a88eaddf-36e9-4730-9890-de53b064eaee",
+      "link": "https://www.doctorbangladesh.com/dr-md-mofizul-islam/",
+      "imageId": "18843e5d-d173-497a-8986-ae8146d2d5c7",
+      "name": "Dr. Md. Mofizul Islam",
+      "degree": "MBBS, DCH",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Islami Bank Medical College & Hospital",
+      "info": "Dr. Md. Mofizul Islam is a Child Specialist in Rajshahi. His qualification is MBBS, DCH. He is a Assistant Professor, Pediatrics at Islami Bank Medical College & Hospital. He regularly provides treatment to his patients at Islami Bank Hospital, Rajshahi. Practicing hour of Dr. Md. Mofizul Islam at Islami Bank Hospital, Rajshahi is 9am to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Rajshahi",
+        "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
+        "visitingTime": "9am to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801777242536Call Now"
+      }
+    },
+    {
+      "id": "6423b027-fb7e-4525-85b2-40f70b8f1960",
+      "departmentId": "a88eaddf-36e9-4730-9890-de53b064eaee",
+      "link": "https://www.doctorbangladesh.com/dr-shubhra-prakash-paul/",
+      "imageId": "5bf8198f-4eb8-4509-976d-40eec55f1f42",
+      "name": "Dr. Shubhra Prakash Paul",
+      "degree": "MBBS, MD (CHILD)",
+      "specialty": "Neonatal, Adolescent & Child Diseases Specialist",
+      "workplace": "Puthia Upazila Health Complex, Rajshahi",
+      "info": "Dr. Shubhra Prakash Paul is a Child Specialist in Rajshahi. His qualification is MBBS, MD (CHILD). He is a Consultant, Pediatrics at Puthia Upazila Health Complex, Rajshahi. He regularly provides treatment to his patients at Labaid Diagnostic, Rajshahi. Practicing hour of Dr. Shubhra Prakash Paul at Labaid Diagnostic, Rajshahi is 6.30pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Rajshahi",
+        "address": "House # 621, Shershah Road, Rajpara, Laxmipur, Rajshahi - 6000",
+        "visitingTime": "6.30pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801766661144Call Now"
+      }
+    },
+    {
+      "id": "6fa48aa6-b038-45fd-bdab-a3802055e1c7",
+      "departmentId": "a88eaddf-36e9-4730-9890-de53b064eaee",
+      "link": "https://www.doctorbangladesh.com/dr-kallyanashish-majumdar-gourav/",
+      "imageId": "33336c70-8f56-4b64-8a43-34568a95f5ca",
+      "name": "Dr. Kallyanashish Majumdar Gourav",
+      "degree": "MBBS, CCD, PGT (CHILD), PGPN (USA)",
+      "specialty": "Newborn, Adolescent, Child Diseases & Nutrition Specialist",
+      "workplace": "Rajshahi Shishu Hospital, Rajshahi",
+      "info": "Dr. Kallyanashish Majumdar Gourav is a Child Specialist in Rajshahi. His qualification is MBBS, CCD, PGT (CHILD), PGPN (USA). He is a Former Assistant Registrar, Child Health & Nutrition at Rajshahi Shishu Hospital, Rajshahi. He regularly provides treatment to his patients at Hepta Health Care, Rajshahi. Practicing hour of Dr. Kallyanashish Majumdar Gourav at Hepta Health Care, Rajshahi is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Hepta Health Care, Rajshahi",
+        "address": "Soccho Tower, Bangabandhu Chattar, Ghoramara, Rajshahi",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801701647321Call Now"
+      }
+    },
+    {
+      "id": "52f85769-4c5b-4e1f-9fad-5e38b925cafa",
+      "departmentId": "a88eaddf-36e9-4730-9890-de53b064eaee",
+      "link": "https://www.doctorbangladesh.com/dr-alam-iftekhar-belyat/",
+      "imageId": "605cdcc1-6c13-4489-9798-fbfcd4a47b61",
+      "name": "Dr. Alam Iftekhar Belyat",
+      "degree": "MBBS, BCS (Health), MD (Pediatrics), Fellowship in Child Nutrition (USA)",
+      "specialty": "Newborn, Child Diseases & Nutrition Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Alam Iftekhar Belyat is a skilled and compassionate pediatrician in Rajshahi, specializing in newborn care, childhood diseases, and pediatric nutrition. He holds an MBBS, BCS (Health), and MD in Pediatrics, along with a prestigious fellowship in Child Nutrition from the USA. Currently serving as a Consultant in Pediatrics at Rajshahi Medical College & Hospital, Dr. Belyat provides expert care for a wide range of conditions including neonatal complications, infections, asthma, allergies, growth and developmental disorders, malnutrition, and vaccination guidance. He is especially known for his expertise in child nutrition and his caring approach to both children and parents. Dr. Belyat sees patients at Rajshahi Royal Hospital Pvt. Ltd., Room 207, Medical College Road, Laxmipur Mor, Rajshahi, from 4:00 PM to 9:00 PM (closed on Fridays). For trusted pediatric care in Rajshahi, Dr. Alam Iftekhar Belyat is a highly recommended choice.",
+      "chamber": {
+        "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
+        "address": "Room 207, Medical College Road, Laxmipur Mor, Rajshahi",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+88 01762685090Call Now"
+      }
+    },
+    {
+      "id": "442aa23e-a5d8-42bc-a26f-6e1b2e2c081e",
+      "departmentId": "a88eaddf-36e9-4730-9890-de53b064eaee",
+      "link": "https://www.doctorbangladesh.com/dr-bidhan-kumar-pramanik/",
+      "imageId": "51bc1b6f-4ef7-471c-a204-93e76314b1d3",
+      "name": "Dr. Bidhan Kumar Pramanik",
+      "degree": "MBBS, BCS (HEALTH), MD (PAEDIATRICS)",
+      "specialty": "Neonate & Child Specialist",
+      "workplace": "Durgapur Upazila Health Complex, Rajshahi",
+      "info": "Dr. Bidhan Kumar Pramanik is a Child Specialist in Rajshahi. His qualification is MBBS, BCS (HEALTH), MD (PAEDIATRICS). He is a Junior Consultant, Pediatrics at Durgapur Upazila Health Complex, Rajshahi. He regularly provides treatment to his patients at Amana Hospital, Rajshahi. Practicing hour of Dr. Bidhan Kumar Pramanik at Amana Hospital, Rajshahi is 4pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Amana Hospital, Rajshahi",
+        "address": "Room 105, Jhautala More, Laxmipur, Rajpara, Rajshahi",
+        "visitingTime": "4pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801728404313Call Now"
+      }
+    },
+    {
+      "id": "0171f99d-a250-410e-9ea6-ace99057f55a",
+      "departmentId": "a88eaddf-36e9-4730-9890-de53b064eaee",
+      "link": "https://www.doctorbangladesh.com/dr-md-fazlul-kader/",
+      "imageId": "0350d8d8-ab94-4016-a4a8-9cc6eb72dc59",
+      "name": "Dr. Md. Fazlul Kader",
+      "degree": "MBBS, BCS (Health), MD (Pediatrics)",
+      "specialty": "Newborn, Adolescent & Child Diseases Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Md. Fazlul Kader is a Child Specialist in Rajshahi. His qualification is MBBS, BCS (Health), MD (Pediatrics). He is a Assistant Professor (Pediatrics) at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Md. Fazlul Kader at Popular Diagnostic Center, Rajshahi is 4pm to 9pm (Everyday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "4pm to 9pm (Everyday)",
+        "appointmentNumber": "+8809666787811Call Now"
+      }
+    }
+  ]
+}

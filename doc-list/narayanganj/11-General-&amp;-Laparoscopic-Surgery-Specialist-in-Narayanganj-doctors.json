@@ -1,0 +1,140 @@
+{
+  "doctor": [
+    {
+      "id": "178acbd6-5a94-4c9d-a888-37e2245a4ef1",
+      "departmentId": "8e3b23e8-b208-479e-85bc-f220a2543796",
+      "link": "https://www.doctorbangladesh.com/dr-a-k-m-shafiul-alam-ferdous/",
+      "imageId": "c9026e1e-f1f4-4c6d-a946-716121cefbc9",
+      "name": "Dr. A.K.M Shafiul Alam Ferdous",
+      "degree": "MBBS, MCPS, MS (Surgery)",
+      "specialty": "General, Laparoscopic & Colorectal Surgeon",
+      "workplace": "300 Bed Hospital, Narayanganj",
+      "info": "Dr. A.K.M Shafiul Alam Ferdous is a General Surgeon in Narayanganj. His qualification is MBBS, MCPS, MS (Surgery). He is a Senior Consultant, Dept of Surgery at 300 Bed Hospital, Narayanganj. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. A.K.M Shafiul Alam Ferdous at Popular Diagnostic Center, Narayanganj is 11am to 2pm (Sat, Mon & Wed) & 5pm to 8pm (Sun & Thu).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "11am to 2pm (Sat, Mon & Wed) & 5pm to 8pm (Sun & Thu)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "02f31c87-aca2-4a0c-863f-b6517dd5fe89",
+      "departmentId": "8e3b23e8-b208-479e-85bc-f220a2543796",
+      "link": "https://www.doctorbangladesh.com/prof-dr-k-m-ashraf-ali/",
+      "imageId": "bdea1286-3f86-4391-b213-192ccff78814",
+      "name": "Prof. Dr. K. M. Ashraf Ali",
+      "degree": "MBBS, FCPS (Surgery), FICS (USA)",
+      "specialty": "General, Laparoscopic & Breast Specialist Surgeon",
+      "workplace": "Eastern Medical College & Hospital",
+      "info": "Prof. Dr. K. M. Ashraf Ali is a General Surgeon in Chittagong. His qualification is MBBS, FCPS (Surgery), FICS (USA). He is a Professor, Dept of Surgery at Eastern Medical College & Hospital. He regularly provides treatment to his patients at Medinova Medical Services, Narayanganj. Practicing hour of Prof. Dr. K. M. Ashraf Ali at Medinova Medical Services, Narayanganj is 10am to 1pm & 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Narayanganj",
+        "address": "145, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "10am to 1pm & 5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801913119989Call Now"
+      }
+    },
+    {
+      "id": "582f6b15-cd29-4cd6-b789-ec0e7f42e702",
+      "departmentId": "8e3b23e8-b208-479e-85bc-f220a2543796",
+      "link": "https://www.doctorbangladesh.com/dr-md-jahangir-hossain/",
+      "imageId": "c1d00a52-88a8-4f46-a180-9f59c878a1e5",
+      "name": "Dr. Md. Jahangir Hossain",
+      "degree": "MBBS, FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Md. Jahangir Hossain is a General Surgeon in Narayanganj. His qualification is MBBS, FCPS (Surgery). He is a Assistant Professor, Dept of Surgery at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Md. Jahangir Hossain at Popular Diagnostic Center, Narayanganj is 6pm to 9pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "6pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "aca6d9e0-7e33-42fe-8c17-960abf26e2f8",
+      "departmentId": "8e3b23e8-b208-479e-85bc-f220a2543796",
+      "link": "https://www.doctorbangladesh.com/dr-md-mejbahul-bahar/",
+      "imageId": "94f0aadf-0788-4d12-a80b-6dbbc24de191",
+      "name": "Dr. Md. Mejbahul Bahar",
+      "degree": "MBBS, FCPS (Surgery), MRCS (UK)",
+      "specialty": "General, Laparoscopic, Breast & Laser Piles Surgeon",
+      "workplace": "Faridpur Medical College & Hospital",
+      "info": "Dr. Md. Mejbahul Bahar is a General Surgeon in Narayanganj. His qualification is MBBS, FCPS (Surgery), MRCS (UK). He is a Assistant Professor, Dept of Surgery at Faridpur Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Md. Mejbahul Bahar at Popular Diagnostic Center, Narayanganj is 8pm to 9:30pm (Mon, Tue & Thu).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "8pm to 9:30pm (Mon, Tue & Thu)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "95d925bd-87d4-4daf-8a07-611450a99897",
+      "departmentId": "8e3b23e8-b208-479e-85bc-f220a2543796",
+      "link": "https://www.doctorbangladesh.com/dr-aklima-parvin-faizi/",
+      "imageId": "583e4381-577e-4bdb-ae9f-e1189a95a9ee",
+      "name": "Dr. Aklima Parvin Faizi",
+      "degree": "MBBS, BCS (Health), MS (Surgery)",
+      "specialty": "General, Laparoscopic, Colorectal & Breast Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Aklima Parvin Faizi is a General Surgeon in Narayanganj. Her qualification is MBBS, BCS (Health), MS (Surgery). She is a Consultant, Dept of Surgery at Dhaka Medical College & Hospital. She regularly provides treatment to her patients at Medinova Medical Services, Narayanganj. Practicing hour of Dr. Aklima Parvin Faizi at Medinova Medical Services, Narayanganj is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Narayanganj",
+        "address": "145, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801913119989Call Now"
+      }
+    },
+    {
+      "id": "2d08fbe6-e87e-4ad4-8f55-00d6e33eed3b",
+      "departmentId": "8e3b23e8-b208-479e-85bc-f220a2543796",
+      "link": "https://www.doctorbangladesh.com/dr-s-m-iftekhar-uddin-sagar/",
+      "imageId": "88502334-063a-42b3-9858-56b086da1da7",
+      "name": "Dr. S.M. Iftekhar Uddin Sagar",
+      "degree": "MBBS, BCS (Health), MCPS, FCPS (Surgery), Training (Laparoscopic Surgery)",
+      "specialty": "General & Laparoscopic Specialist Surgeon",
+      "workplace": "300 Bed Hospital, Narayanganj",
+      "info": "Dr. S.M. Iftekhar Uddin Sagar is a General Surgeon in Narayanganj. His qualification is MBBS, BCS (Health), MCPS, FCPS (Surgery), Training (Laparoscopic Surgery). He is a Consultant, Dept of Surgery at 300 Bed Hospital, Narayanganj. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. S.M. Iftekhar Uddin Sagar at Popular Diagnostic Center, Narayanganj is 4pm to 9pm (Sat, Mon, Wed & Fri).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "4pm to 9pm (Sat, Mon, Wed & Fri)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "a0e93dcf-1174-478f-8e7c-7e8672816a65",
+      "departmentId": "8e3b23e8-b208-479e-85bc-f220a2543796",
+      "link": "https://www.doctorbangladesh.com/dr-mahbuba-khatun/",
+      "imageId": "66ca7eac-3e92-417b-a29f-d0489c4ca79a",
+      "name": "Dr. Mahbuba Khatun",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery), MS (Surgery)",
+      "specialty": "General, Breast, Laparoscopic & Colorectal Specialist Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Mahbuba Khatun is a General Surgeon in Narayanganj. Her qualification is MBBS, BCS (Health), FCPS (Surgery), MS (Surgery). She is a Consultant, Dept of Surgery at Bangabandhu Sheikh Mujib Medical University Hospital. She regularly provides treatment to her patients at Medinova Medical Services, Narayanganj. Practicing hour of Dr. Mahbuba Khatun at Medinova Medical Services, Narayanganj is 2pm to 5pm (Sat, Sun, Tue & Wed).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Narayanganj",
+        "address": "145, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "2pm to 5pm (Sat, Sun, Tue & Wed)",
+        "appointmentNumber": "+8801913119989Call Now"
+      }
+    },
+    {
+      "id": "0441b343-2dfd-462c-b46f-3999d4a30a3b",
+      "departmentId": "8e3b23e8-b208-479e-85bc-f220a2543796",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahmudul-hasan-kafi/",
+      "imageId": "9544044c-ab8b-4a88-ba73-12d0fc7e6802",
+      "name": "Dr. Md. Mahmudul Hasan Kafi",
+      "degree": "MBBS (DMC), BCS (Health), FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Surgeon",
+      "workplace": "Sheikh Hasina National Institute of Burn & Plastic Surgery",
+      "info": "Dr. Md. Mahmudul Hasan Kafi is a General Surgeon in Narayanganj. His qualification is MBBS (DMC), BCS (Health), FCPS (Surgery). He is a Assistant Professor, Dept of Surgery at Sheikh Hasina National Institute of Burn & Plastic Surgery. He regularly provides treatment to his patients at Popular Diagnostic Center, Narayanganj. Practicing hour of Dr. Md. Mahmudul Hasan Kafi at Popular Diagnostic Center, Narayanganj is 6pm to 8pm (Sun, Tue & Thu) & 10am to 3pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "6pm to 8pm (Sun, Tue & Thu) & 10am to 3pm (Friday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    }
+  ]
+}

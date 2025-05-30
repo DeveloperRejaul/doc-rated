@@ -1,0 +1,55 @@
+{
+  "doctor": [
+    {
+      "id": "8f79f7dc-53df-49eb-8c70-d8dfe07013d1",
+      "departmentId": "dde23c27-3642-4c8c-82fe-52f18adefc61",
+      "link": "https://www.doctorbangladesh.com/dr-s-m-zakir-hossain/",
+      "imageId": "c4b848a9-1edd-4629-8292-10f365ed9bfe",
+      "name": "Dr. S.M. Zakir Hossain",
+      "degree": "BDS (Dhaka), PGT (Dhaka), MPH, Fellow (Oral Prosthesis)",
+      "specialty": "Oral & Dental Specialist Surgeon",
+      "workplace": "BellView Hospital & Medical Services, Barisal",
+      "info": "Dr. S.M. Zakir Hossain is a Dental Doctor in Barisal. His qualification is BDS (Dhaka), PGT (Dhaka), MPH, Fellow (Oral Prosthesis). He is a Dental Surgeon, Dental Surgery at BellView Hospital & Medical Services, Barisal. He regularly provides treatment to his patients at BellView Hospital & Medical Services, Barisal. Practicing hour of Dr. S.M. Zakir Hossain at BellView Hospital & Medical Services, Barisal is 9am to 2pm & 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "BellView Hospital & Medical Services, Barisal",
+        "address": "114, Sadar Road, Barisal",
+        "visitingTime": "9am to 2pm & 4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801733063692Call Now"
+      }
+    },
+    {
+      "id": "6b34ee17-4b17-472c-96d0-089f43829b6e",
+      "departmentId": "dde23c27-3642-4c8c-82fe-52f18adefc61",
+      "link": "https://www.doctorbangladesh.com/dr-md-saifur-rahman-tushar/",
+      "imageId": "f282ec33-8af1-4e61-8349-8f939870b363",
+      "name": "Dr. Md. Saifur Rahman Tushar",
+      "degree": "BDS (DU), AIC (Malaysia), PGT (Oral Surgery), MPH (Course)",
+      "specialty": "Oral & Dental Specialist Surgeon",
+      "workplace": "Islami Bank Hospital, Barisal",
+      "info": "Dr. Md. Saifur Rahman Tushar is a Dental Doctor in Barisal. His qualification is BDS (DU), AIC (Malaysia), PGT (Oral Surgery), MPH (Course). He is a Consultant Surgeon, Dental at Islami Bank Hospital, Barisal. He regularly provides treatment to his patients at Labaid Diagnostic, Barisal. Practicing hour of Dr. Md. Saifur Rahman Tushar at Labaid Diagnostic, Barisal is 10am to 1pm & 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Barisal",
+        "address": "K Jahan Center, House # 106, Sadar Road, Barisal",
+        "visitingTime": "10am to 1pm & 5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801766663305Call Now"
+      }
+    },
+    {
+      "id": "15324e60-9791-481a-9850-3a85a92d9701",
+      "departmentId": "dde23c27-3642-4c8c-82fe-52f18adefc61",
+      "link": "https://www.doctorbangladesh.com/dr-farhana-naznin-ratna/",
+      "imageId": "45811586-760b-4093-8d43-548f1ed6428d",
+      "name": "Dr. Farhana Naznin Ratna",
+      "degree": "BDS (RAJ)",
+      "specialty": "Oral & Dental Surgeon",
+      "workplace": "Islami Bank Hospital, Barisal",
+      "info": "Dr. Farhana Naznin Ratna is a Dental Doctor in Barisal. Her qualification is BDS (RAJ). She is a Consultant & Surgeon, Dental at Islami Bank Hospital, Barisal. She regularly provides treatment to her patients at Islami Bank Hospital, Barisal. Practicing hour of Dr. Farhana Naznin Ratna at Islami Bank Hospital, Barisal is 3pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Barisal",
+        "address": "Band Road, Chandmari, Barisal - 8200",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801318321847Call Now"
+      }
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "doctor": [
+    {
+      "id": "9537e6e5-5b8d-44ad-a8b3-3af6db634b29",
+      "departmentId": "f9cd22bc-56e7-4fd9-a51f-fa8b65f893f0",
+      "link": "https://www.doctorbangladesh.com/dr-ismat-jahan-lima/",
+      "imageId": "e60364c4-45ae-48d6-9be2-30e90d8c1551",
+      "name": "Dr. Ismat Jahan Lima",
+      "degree": "MBBS, BCS (Health), FCPS (Gold Medalist) Surgery, MS (Colorectal Surgery), FACS (USA)",
+      "specialty": "Colorectal (Piles, Fissure, Fistula) & Pelvic Floor Surgeon",
+      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+      "info": "Colorectal & Pelvic Floor Center Address: Dhaka Central International Medical College, 38/1 Ring Road, Shyamoli, Dhaka Visiting Hour: 3pm to 5pm (Sun, Tue & Thu) Appointment: +8801409967444 Call Now",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Mirpur",
+        "address": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
+        "visitingTime": "3pm to 6pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801810000118Call Now"
+      }
+    },
+    {
+      "id": "f0359227-8af2-4d72-b0cf-8e6a49546466",
+      "departmentId": "f9cd22bc-56e7-4fd9-a51f-fa8b65f893f0",
+      "link": "https://www.doctorbangladesh.com/dr-bilkis-fatema-surgeon/",
+      "imageId": "3b2b4859-f3f8-4fd3-b783-e9ebf3e40cae",
+      "name": "Dr. Bilkis Fatema",
+      "degree": "MBBS, BCS (Health), MCPS (Surgery), FCPS (Surgery), MS (Colorectal Surgery)",
+      "specialty": "General, Colorectal, Piles & Breast Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dhaka Central Diagnostic & Imaging Center Address: 38/1, Ring Road, Shaymoli, Dhaka Visiting Hour: 6pm to 9pm (Saturday, Monday & Wednesday) Appointment: +8801622446661 Call Now",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Dhanmondi",
+        "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "6pm to 9pm (Sun, Tue & Thu)",
+        "appointmentNumber": "10606Call Now"
+      }
+    },
+    {
+      "id": "62fa34a4-3309-484a-91c3-b24bad8dc2da",
+      "departmentId": "f9cd22bc-56e7-4fd9-a51f-fa8b65f893f0",
+      "link": "https://www.doctorbangladesh.com/dr-kazi-nasid-naznin/",
+      "imageId": "4e6af80a-a3c4-47e9-89a2-17a76ce21ade",
+      "name": "Dr. Kazi Nasid Naznin",
+      "degree": "MBBS, FCPS (Surgery), MS (Colorectal Surgery)",
+      "specialty": "General, Breast & Colorectal Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Popular Diagnostic Center, Mirpur Address: Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka Visiting Hour: 7pm to 8:30pm (Closed: Friday & Saturday) Appointment: +8809666787807 Call Now",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Mirpur",
+        "address": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
+        "visitingTime": "7pm to 8:30pm (Closed: Sat & Friday)",
+        "appointmentNumber": "+8801992346632Call Now"
+      }
+    },
+    {
+      "id": "f2f90679-c274-4643-a552-5ab0b96096f0",
+      "departmentId": "f9cd22bc-56e7-4fd9-a51f-fa8b65f893f0",
+      "link": "https://www.doctorbangladesh.com/dr-mosammat-mira-pervin/",
+      "imageId": "4e1f23c9-83a1-4865-9d8a-4253d9a64889",
+      "name": "Dr. Mosammat Mira Pervin",
+      "degree": "MBBS, FCPS (Surgery), MRCS (UK)",
+      "specialty": "Laparoscopic, Breast & Laser Piles Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Insaf Barakah Kidney & General Hospital Address: 11, Shahid Tazuddin Ahmed Shoroni, Mogbazar, Dhaka – 1217 Visiting Hour: 5pm to 6pm (Sun, Tue & Wed) Appointment: +8801913669218 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "4pm to 10pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "c0084eee-fe49-44f8-9c0b-e77c9a7c810f",
+      "departmentId": "f9cd22bc-56e7-4fd9-a51f-fa8b65f893f0",
+      "link": "https://www.doctorbangladesh.com/dr-farhana-salam/",
+      "imageId": "fabea2f1-b389-4731-b628-3a6085c75863",
+      "name": "Asst. Prof. Dr. Farhana Salam",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery), MS (Colorectal Surgery)",
+      "specialty": "Breast, Colorectal and Laparoscopic Surgeon",
+      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+      "info": "Labaid Diagnostic, Uttara (Unit 02) Address: House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka Visiting Hour: 6pm to 9pm (Only Friday) Appointment: +8801766662050 Call Now",
+      "chamber": {
+        "hospital": "United Hospital Ltd, Dhaka",
+        "address": "Plot # 15, Road # 71, Gulshan, Dhaka",
+        "visitingTime": "3pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "10666Call Now"
+      }
+    },
+    {
+      "id": "1248850c-7de9-41c8-8cdd-e5aa7109a9b6",
+      "departmentId": "f9cd22bc-56e7-4fd9-a51f-fa8b65f893f0",
+      "link": "https://www.doctorbangladesh.com/dr-sadia-afrin/",
+      "imageId": "1827e35c-9d5e-4e84-9906-63c2e06858f8",
+      "name": "Dr. Sadia Afrin",
+      "degree": "MBBS (SBMC), BCS (Health), MS (Colorectal Surgery, BSMMU)",
+      "specialty": "Colorectal (Piles, Colon, Rectum, Anus) Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Bangladesh Colorectal & Gastroenterology Center (BCGC) Address: Rupayan Prime, 8th floor, Plot-2, Road-7, Green Road, Dhaka Visiting Hour: 3pm to 7pm (Wednesday & Thursday) Appointment: +8801311060702 Call Now",
+      "chamber": {
+        "hospital": "Islami Bank Hospital & Cardiac Center, Mirpur",
+        "address": "Plot # 19-22, Main Road, Pallabe, Section - 7, Mirpur, Dhaka",
+        "visitingTime": "5pm to 7pm (Saturday to Tuesday)",
+        "appointmentNumber": "+8801327997655, +8801810000123Call Now"
+      }
+    }
+  ]
+}

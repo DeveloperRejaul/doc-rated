@@ -1,0 +1,310 @@
+{
+  "doctor": [
+    {
+      "id": "0b1f2e27-42be-4f11-be2c-c6fd603cefdb",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-md-sumon-reza/",
+      "imageId": "e5995977-6e2f-4e6f-a701-1c6a2b73edfa",
+      "name": "Dr. Md. Sumon Reza",
+      "degree": "MS (Orthodontics), MCPS (Dental Surgery), FRSPH (London ), BDS (DDC), BCS (Health)",
+      "specialty": "Orthodontics/Dental Braces Specialistআঁকা-বাঁকা, উঁচু-নিচু ও ফাঁকা দাঁত/চোয়াল বিশেষজ্ঞ ও ডেন্টাল কনসালটেন্ট",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "",
+      "chamber": {
+        "hospital": "Dent In Dental Clinic (2nd Floor)",
+        "address": "Beside of 10 No. Ward Councilor Office, Rajib Chottor, Rajshahi",
+        "visitingTime": "3pm to 8pm (Sat, Sun, Mon & Wed)",
+        "appointmentNumber": "+8801762749594Call Now"
+      }
+    },
+    {
+      "id": "efd3fc45-b0dd-4197-a8b1-29846a0fb9dc",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-naznin-sultana-munni/",
+      "imageId": "c709eba5-c25f-4fbd-9c35-315cbeda9915",
+      "name": "Dr. Naznin Sultana (Munni)",
+      "degree": "BDS, BCS (Health), FCPS (Orthodontics & Dentofacial Orthopedics)",
+      "specialty": "Oral & Dental Surgeon (Orthodontist)",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Naznin Sultana (Munni) is a Orthodontist in Rajshahi. Her qualification is BDS, BCS (Health), FCPS (Orthodontics & Dentofacial Orthopedics). She is a Consultant (Orthodontics) at Rajshahi Medical College & Hospital. She regularly provides treatment to her patients at RMB Hospital & Diagnostic Center. Practicing hour of Dr. Naznin Sultana (Munni) at RMB Hospital & Diagnostic Center is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "RMB Hospital & Diagnostic Center",
+        "address": "467/5, Jhautola More, Laxmipur, Rajshahi",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801717-514454Call Now"
+      }
+    },
+    {
+      "id": "6e383727-2b26-471e-b244-b203e5ca725b",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-a-k-m-asad-polash/",
+      "imageId": "f26e2564-f2f9-48d7-8c4e-c9fc8d5d55cd",
+      "name": "Dr. A.K.M. Asad Palash",
+      "degree": "BDS (RU), BCS (Health), FDIT (India), MPH (BSMMU)",
+      "specialty": "Oral, Dental & Orthodontic Specialist",
+      "workplace": "Dental College, Rajshahi",
+      "info": "Dr. A.K.M. Asad Palash is a Dentist in Rajshahi. His qualification is BDS (RU), BCS (Health), FDIT (India), MPH (BSMMU). He is working as a Oral, Dental & Orthodontic Specialist doctor in Dental College, Rajshahi. He regularly provides treatment to his patients at Rajshahi Metropolitan Hospital. Practicing hour of Dr. A.K.M. Asad Palash at Rajshahi Metropolitan Hospital is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Rajshahi Metropolitan Hospital",
+        "address": "C&B Mor, Laxmipur, Kazihata, Rajshahi - 6000",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801766865711Call Now"
+      }
+    },
+    {
+      "id": "9d6bb0b4-3cba-4282-9ca0-0eb6ddb3c50e",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-hasibul-hasan-emon/",
+      "imageId": "c5f60fb1-c3ba-4cac-915b-e02195594b37",
+      "name": "Dr. Hasibul Hasan Emon",
+      "degree": "BDS (DU), PGT, MS",
+      "specialty": "Oral, Dental & Maxillofacial Surgery Specialist",
+      "workplace": "Udayan Dental College, Rajshahi",
+      "info": "Dr. Hasibul Hasan Emon is a Dentist in Rajshahi. His qualification is BDS (DU), PGT, MS. He is a Assistant Professor, Dental at Udayan Dental College, Rajshahi. He regularly provides treatment to his patients at Islami Bank Hospital, Rajshahi. Practicing hour of Dr. Hasibul Hasan Emon at Islami Bank Hospital, Rajshahi is 4pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Rajshahi",
+        "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
+        "visitingTime": "4pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801777242536Call Now"
+      }
+    },
+    {
+      "id": "5618590a-035a-44e1-8665-340adef069bb",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-jannatul-ferdous/",
+      "imageId": "c0a547ad-6efe-41ac-abfd-ad46cd4945e6",
+      "name": "Dr. Jannatul Ferdous",
+      "degree": "BDS, PGT",
+      "specialty": "Oral & Dental Surgeon",
+      "workplace": "Islami Bank Medical College & Hospital",
+      "info": "Dr. Jannatul Ferdous is a Dentist in Rajshahi. Her qualification is BDS, PGT. She is working as a Oral & Dental Surgeon doctor in Islami Bank Medical College & Hospital. She regularly provides treatment to her patients at Islami Bank Hospital, Rajshahi. Practicing hour of Dr. Jannatul Ferdous at Islami Bank Hospital, Rajshahi is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Rajshahi",
+        "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801777242536Call Now"
+      }
+    },
+    {
+      "id": "c841da87-720d-4711-82d5-57cf60322428",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-md-mominul-haque/",
+      "imageId": "2ca02696-0c7c-457d-82c7-543756fb7d08",
+      "name": "Dr. Md. Mominul Haque",
+      "degree": "BDS, PGT (Oral & Maxillofacial Surgery)",
+      "specialty": "Dental, Oral & Maxillofacial Surgeon",
+      "workplace": "Dental Library, Rajshahi & Ex Dental Surgeon, Taiba Medical Center, Nairobi, Kenya",
+      "info": "Dr. Md. Mominul Haque is a Dentist in Rajshahi. His qualification is BDS, PGT (Oral & Maxillofacial Surgery). He is a Dental Surgeon, Dental at Dental Library, Rajshahi & Ex Dental Surgeon, Taiba Medical Center, Nairobi, Kenya. He regularly provides treatment to his patients at Dental Library, Rajshahi. Practicing hour of Dr. Md. Mominul Haque at Dental Library, Rajshahi is 10am to 1pm & 4pm to 9pm (Friday: On Call).",
+      "chamber": {
+        "hospital": "Dental Library, Rajshahi",
+        "address": "Ghospara Moor, Kolabagan Road, Rajshahi (East Side of RMC, Auditorium)",
+        "visitingTime": "10am to 1pm & 4pm to 9pm (Friday: On Call)",
+        "appointmentNumber": "+8801865488002Call Now"
+      }
+    },
+    {
+      "id": "85a98e73-850c-422f-86d9-d50d253bac86",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-md-mobasher-hossain-sohel/",
+      "imageId": "f559f9fd-b6d7-4449-ba37-164d7642cfe7",
+      "name": "Dr. Md. Mobasher Hossain Sohel",
+      "degree": "BDS, PGT",
+      "specialty": "Oral & Dental Surgeon",
+      "workplace": "Islami Bank Medical College & Hospital",
+      "info": "Dr. Md. Mobasher Hossain Sohel is a Dentist in Rajshahi. His qualification is BDS, PGT. He is a Lecturer, Dental at Islami Bank Medical College & Hospital. He regularly provides treatment to his patients at Islami Bank Hospital, Rajshahi. Practicing hour of Dr. Md. Mobasher Hossain Sohel at Islami Bank Hospital, Rajshahi is 9am to 5pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Rajshahi",
+        "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
+        "visitingTime": "9am to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8801777242536Call Now"
+      }
+    },
+    {
+      "id": "2c81d79c-bb6f-48e1-a85d-08322b820fd3",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-md-roknuzzaman-ripon/",
+      "imageId": "02b188a1-2550-48e5-aad2-04f0100f6294",
+      "name": "Dr. Md. Roknuzzaman Ripon",
+      "degree": "BDS, MPH, FICD",
+      "specialty": "Oral & Dental Disease Specialist",
+      "workplace": "Rajshahi Diabetic Association General Hospital",
+      "info": "Dr. Md. Roknuzzaman Ripon is a Dentist in Rajshahi. His qualification is BDS, MPH, FICD. He is a Surgeon, Dental Surgery at Rajshahi Diabetic Association General Hospital. He regularly provides treatment to his patients at Rajshahi Diabetic Association General Hospital. Practicing hour of Dr. Md. Roknuzzaman Ripon at Rajshahi Diabetic Association General Hospital is 10am to 1pm (Closed: Friday) & Evening (On Appointment).",
+      "chamber": {
+        "hospital": "Rajshahi Diabetic Association General Hospital",
+        "address": "Jhautola Mor, Laxmipur, Rajshahi",
+        "visitingTime": "10am to 1pm (Closed: Friday) & Evening (On Appointment)",
+        "appointmentNumber": "+8801712567334Call Now"
+      }
+    },
+    {
+      "id": "d41e276d-1e16-43e0-a395-caf8dc62d236",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-md-mizanur-rahman-dental/",
+      "imageId": "4078fc68-28dc-41fb-92ba-32591d323cc0",
+      "name": "Dr. Md. Mizanur Rahman",
+      "degree": "BDS (DDC), PGT (OMS)",
+      "specialty": "Oral & Maxillofacial Surgery Specialist",
+      "workplace": "Mizan Dental Care, Rajshahi",
+      "info": "Dr. Md. Mizanur Rahman is a Dentist in Rajshahi. His qualification is BDS (DDC), PGT (OMS). He is a Consultant, Dental Surgery at Mizan Dental Care, Rajshahi. He regularly provides treatment to his patients at Mizan Dental Care, Rajshahi. Practicing hour of Dr. Md. Mizanur Rahman at Mizan Dental Care, Rajshahi is 10am to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Mizan Dental Care, Rajshahi",
+        "address": "House # 106/2, Baharampur, Rajshahi",
+        "visitingTime": "10am to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801748876927Call Now"
+      }
+    },
+    {
+      "id": "f85d484e-8c0d-4012-a56d-7dfb650faa46",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-m-shahriyar-porosh/",
+      "imageId": "60a992e3-14ad-4200-a5eb-2deaf17eb1d8",
+      "name": "Dr. M. Shahriyar Porosh",
+      "degree": "BDS (RU), PGT (Oral & Maxillofacial Surgery), PGT (Conservative Dentistry & Endodontics)",
+      "specialty": "Dental, Oral & Maxillofacial Surgery Specialist",
+      "workplace": "PrincipalRajshahi Medical Assistant Training School",
+      "info": "Dr. M. Shahriyar Porosh is a Dentist in Rajshahi. His qualification is BDS (RU), PGT (Oral & Maxillofacial Surgery), PGT (Conservative Dentistry & Endodontics). He is the at Rajshahi Medical Assistant Training School. He regularly provides treatment to his patients at Dental Story. Practicing hour of Dr. M. Shahriyar Porosh at Dental Story is 10am to 1pm & 4.30pm to 9pm (Friday On Call).",
+      "chamber": {
+        "hospital": "Dental Story",
+        "address": "Opposite of Zamzam Islami Hospital, Laxmipur, Rajshahi",
+        "visitingTime": "10am to 1pm & 4.30pm to 9pm (Friday On Call)",
+        "appointmentNumber": "+8801623478091Call Now"
+      }
+    },
+    {
+      "id": "af270773-2d59-4638-935a-6691b578ad78",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-rasel-bin-monsur/",
+      "imageId": "e31886ec-e571-4aec-8166-ad7844226b42",
+      "name": "Dr. Rasel-Bin-Monsur",
+      "degree": "BDS, MPH",
+      "specialty": "Oral & Dental Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Rasel-Bin-Monsur is a Dentist in Rajshahi. His qualification is BDS, MPH. He is a Lecturer, Dental Unit at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Rasel’s Dental Centre. Practicing hour of Dr. Rasel-Bin-Monsur at Rasel’s Dental Centre is 3pm to 10pm (Sat to Thu), 9am to 12pm (Friday).",
+      "chamber": {
+        "hospital": "Rasel’s Dental Centre",
+        "address": "Sepaipara, Infront of Rajshahi Medical College",
+        "visitingTime": "3pm to 10pm (Sat to Thu), 9am to 12pm (Friday)",
+        "appointmentNumber": "+8801740004004Call Now"
+      }
+    },
+    {
+      "id": "d2c2e3f0-7018-4b9c-801a-86e41bee113a",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-arin-akbar-mou/",
+      "imageId": "0d1ba1b9-2e9e-4591-96b3-62bd5bde07c7",
+      "name": "Dr. Arin Akbar Mou",
+      "degree": "BDS, PGT, MPH",
+      "specialty": "Oral, Dental & Maxillofacial Surgery Specialist",
+      "workplace": "Dental Doctor, Bangladesh Bank",
+      "info": "Dr. Arin Akbar Mou is a Dentist in Rajshahi. Her qualification is BDS, PGT, MPH. She is a Dental Doctor in Bangladesh Bank and Chief Consultant at Dental Art. She regularly provides treatment to her patients at Dental Art, Rajshahi. Practicing hour of Dr. Arin Akbar Mou at Dental Art, Rajshahi is 5pm to 8.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Dental Art, Rajshahi",
+        "address": "In-between Medical Ghoshpara and Fire Service Mor, West Side, Shipaipara, Rajshahi",
+        "visitingTime": "5pm to 8.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801760553400Call Now"
+      }
+    },
+    {
+      "id": "1205e964-ae4d-49e9-842e-fd328e036b8e",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-touhid-bin-mozib/",
+      "imageId": "092bfc1b-4d9c-47e2-b47c-4c6bdda34a47",
+      "name": "Dr. Touhid Bin Mozib",
+      "degree": "BDS (RMC), PGT (Oral & Maxillofacial Surgery)",
+      "specialty": "Oral & Dental Surgeon",
+      "workplace": "Oral Dental Care, Sipaipara, Rajshahi",
+      "info": "Dr. Touhid Bin Mozib is a Dentist in Rajshahi. His qualification is BDS (RMC), PGT (Oral & Maxillofacial Surgery). He is a Chief Consultant, Dentistry at Oral Dental Care, Sipaipara, Rajshahi. He regularly provides treatment to his patients at Oral Dental Care, Sipaipara, Rajshahi. Practicing hour of Dr. Touhid Bin Mozib at Oral Dental Care, Sipaipara, Rajshahi is 10am to 2pm & 4pm to 10pm.",
+      "chamber": {
+        "hospital": "Oral Dental Care, Sipaipara, Rajshahi",
+        "address": "2nd floor, Medical College Gate, Sipaipara, Rajshahi",
+        "visitingTime": "10am to 2pm & 4pm to 10pm",
+        "appointmentNumber": "+8801721100332Call Now"
+      }
+    },
+    {
+      "id": "d17d0c7c-cfb1-4de8-ad34-103468eb8c25",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-mir-younus-ali-rimon/",
+      "imageId": "cc194feb-1938-417d-a03a-c33585a05bf3",
+      "name": "Dr. Mir Younus Ali Rimon",
+      "degree": "BDS, , MPH, PGT (Conservative Dentistry & Endodontics)",
+      "specialty": "Oral & Dental Surgeon",
+      "workplace": "Principal, Udayan MATS, RajshahiChief Consultant, Dental Art",
+      "info": "Dr. Mir Younus Ali Rimon is a Dentist in Rajshahi. His qualification is BDS, , MPH, PGT (Conservative Dentistry & Endodontics). He is now working as the principal at Udayan MATS, Rajshahi and as Chief Consultant at Dental Art. He regularly provides treatment to his patients at Dental Art, Rajshahi. Practicing hour of Dr. Mir Younus Ali Rimon at Dental Art, Rajshahi is 5pm to 8.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Dental Art, Rajshahi",
+        "address": "In-between Medical Ghoshpara & Fire Service Mor, West Side, Shipaipara, Rajshahi",
+        "visitingTime": "5pm to 8.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801760553400Call Now"
+      }
+    },
+    {
+      "id": "892830b3-17a8-447d-80ee-cfbea5da4e6c",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-mir-abu-naim-pavel/",
+      "imageId": "10577cf7-c3e2-4082-bad2-bd57a08a598e",
+      "name": "Dr. Mir Abu Naim (Pavel)",
+      "degree": "BDS (RMC), FCPS (Orthodontics & Dentofacial Orthopedics)",
+      "specialty": "Orthodontist",
+      "workplace": "Udayan Dental College, Rajshahi",
+      "info": "Rasel’s Dental Centre Address: Sepaipara, Infront of Rajshahi Medical College Visiting Hour: রাজশাহীতে মাসে ৩ দিন রোগী দেখেন Appointment: +8801740004004 Call Now",
+      "chamber": {
+        "hospital": "Anika Dental Care",
+        "address": "26/3, Zigatola Puran Kacha Bazar (1st floor), Dhanmondi, Dhaka",
+        "visitingTime": "5pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801977359445Call Now"
+      }
+    },
+    {
+      "id": "62dbce69-0c59-4d46-82f6-3c2068c00fc4",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdullah-al-kaiser/",
+      "imageId": "17bb0f1e-2664-42b7-85be-5f86a3466ec6",
+      "name": "Dr. Md. Abdullah-Al-Kaiser",
+      "degree": "BDS, BCS (Health), PGT (Oral & Maxillofacial Surgery)",
+      "specialty": "Oral & Dental Diseases Specialist & Surgeon",
+      "workplace": "Rajshahi Medical College",
+      "info": "Dr. Md. Abdullah-Al-Kaiser is a Dentist in Rajshahi. His qualification is BDS, BCS (Health), PGT (Oral & Maxillofacial Surgery). He is a Lecturer at Dental Unit, Rajshahi Medical College. He regularly provides treatment to his patients at Comfort Dental Care. Practicing hour of Dr. Md. Abdullah-Al-Kaiser at Comfort Dental Care is 4.30pm to 8.30pm (Closed: Monday).",
+      "chamber": {
+        "hospital": "Comfort Dental Care",
+        "address": "Damkura Hat College Market (2nd Floor), Paba, Rajshahi",
+        "visitingTime": "4.30pm to 8.30pm (Closed: Monday)",
+        "appointmentNumber": "+8801303285818Call Now"
+      }
+    },
+    {
+      "id": "18d472bb-c5bf-4b4a-b275-9187c1771340",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-zahirul-haque/",
+      "imageId": "152b9833-ef27-4d02-8ead-64bed9d40be0",
+      "name": "Dr. Zahirul Haque",
+      "degree": "BDS (RMC)",
+      "specialty": "Oral & Dental Surgeon",
+      "workplace": "Family Dental Zone, Rajshahi",
+      "info": "Dr. Zahirul Haque is a Dentist in Rajshahi. His qualification is BDS (RMC). He is a Chief Consultant at Family Dental Zone, Rajshahi. He regularly provides treatment to his patients at Family Dental Zone, Rajshahi. Practicing hour of Dr. Zahirul Haque at Family Dental Zone, Rajshahi is 10am to 1.30pm & 4pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Family Dental Zone, Rajshahi",
+        "address": "Hatem Khan Boro Mosjid Moor, Rajshahi",
+        "visitingTime": "10am to 1.30pm & 4pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801737694505Call Now"
+      }
+    },
+    {
+      "id": "5772ed3d-338c-48e0-bba6-3a97e2076a81",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-md-sadat-anam-azad/",
+      "imageId": "9c147f21-b080-46e6-b4e6-805dc762eda4",
+      "name": "Dr. Md. Sadat Anam Azad",
+      "degree": "BDS, BCS (Health), MPH (RU), PGT (Conservative Dentistry) (BSMMU)",
+      "specialty": "Oral & Dental Specialist Surgeon",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Md. Sadat Anam Azad is a Dentist in Rajshahi. His qualification is BDS, BCS (Health), MPH (RU), PGT (Conservative Dentistry) (BSMMU). He is a Dental Consultant & Surgeon at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Dental City and Orthodontics, Rajshahi. Practicing hour of Dr. Md. Sadat Anam Azad at Dental City and Orthodontics, Rajshahi is 4pm to 9pm (Everyday).",
+      "chamber": {
+        "hospital": "Dental City and Orthodontics, Rajshahi",
+        "address": "Ahmed Tower, Greater Road, Kazihata, Laxmipur, Rajshahi",
+        "visitingTime": "4pm to 9pm (Everyday)",
+        "appointmentNumber": "+8801949787544Call Now"
+      }
+    }
+  ]
+}

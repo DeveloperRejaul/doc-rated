@@ -1,0 +1,21 @@
+{
+  "doctor": [
+    {
+      "id": "7a08b55e-f932-42bf-8174-17ff8a9f8879",
+      "departmentId": "f453b66d-484e-4e14-a8b9-fa31a168bce4",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-manirul-islam/",
+      "imageId": "c155c93c-02ec-4a76-b560-f7d08665244a",
+      "name": "Dr. Mohammad Manirul Islam",
+      "degree": "MBBS, FCPS (Hematology)",
+      "specialty": "Blood Diseases, Blood Cancer & Bone Marrow Transplant Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Barisal Address: 955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal Visiting Hour: 5pm to 11pm (Friday), 9am to 4pm (Friday) Appointment: +8809666787819 Call Now",
+      "chamber": {
+        "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
+        "address": "1/1 B, Kallyanpur, Dhaka",
+        "visitingTime": "7:30pm to 8:30pm (Closed: Friday)",
+        "appointmentNumber": "+8801703725590Call Now"
+      }
+    }
+  ]
+}

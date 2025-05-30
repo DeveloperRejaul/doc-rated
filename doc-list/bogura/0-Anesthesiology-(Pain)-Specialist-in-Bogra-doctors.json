@@ -1,0 +1,38 @@
+{
+  "doctor": [
+    {
+      "id": "6bed24c0-ceb1-4c44-8d16-57a36ab8e42d",
+      "departmentId": "f8f7c417-8847-4061-ba0a-69b9132eac15",
+      "link": "https://www.doctorbangladesh.com/dr-nitai-chandra-sarkar/",
+      "imageId": "24281fb3-ea86-42fe-8888-9fd50abde9a4",
+      "name": "Dr. Nitai Chandra Sarkar",
+      "degree": "MBBS, DA, FCPS (Anesthesiology), Fellow Pain Management (India, Thailand)",
+      "specialty": "Pain Specialist & Anesthesiologist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Nitai Chandra Sarkar is a Pain Management Specialist in Bogra. His qualification is MBBS, DA, FCPS (Anesthesiology), Fellow Pain Management (India, Thailand). He is a Associate Professor & Head, Anesthesiology, ICU & Pain Management at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Doctors Clinic, Bogura. Practicing hour of Dr. Nitai Chandra Sarkar at Doctors Clinic, Bogura is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Doctors Clinic, Bogura",
+        "address": "Unit 2, Thanthania, Sherpur Road, Bogura",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801755111112Call Now"
+      }
+    },
+    {
+      "id": "f8e395a8-c17c-4ca2-bcb7-fa56f885763d",
+      "departmentId": "f8f7c417-8847-4061-ba0a-69b9132eac15",
+      "link": "https://www.doctorbangladesh.com/dr-md-nur-alam-nayan/",
+      "imageId": "f01ff2d2-c87a-4708-80cc-ab189efaff1f",
+      "name": "Dr. Md. Nur Alam Nayan",
+      "degree": "MBBS, BCS (Health), DA (BSMMU), FIPM (Pain Management)",
+      "specialty": "Pain Medicine & Anesthesiology Specialist",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Md. Nur Alam Nayan is a Pain Management Specialist in Bogra. His qualification is MBBS, BCS (Health), DA (BSMMU), FIPM (Pain Management). He is a Consultant, Anesthesiology at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Health City Specialized Hospital. Practicing hour of Dr. Md. Nur Alam Nayan at Health City Specialized Hospital is 3pm to 8pm (Closed: Friday & Saturday).",
+      "chamber": {
+        "hospital": "Health City Specialized Hospital",
+        "address": "Yeasin Tower, Sherpur Road, Colony, Bogura - 3500",
+        "visitingTime": "3pm to 8pm (Closed: Friday & Saturday)",
+        "appointmentNumber": "+8801747457608Call Now"
+      }
+    }
+  ]
+}

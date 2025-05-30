@@ -1,0 +1,38 @@
+{
+  "doctor": [
+    {
+      "id": "9de5c08f-2f47-4d0d-879b-ee6b9dc9158c",
+      "departmentId": "bb5ccca0-de6c-4da9-83ed-9630b4ab5479",
+      "link": "https://www.doctorbangladesh.com/dr-humayun-kabir/",
+      "imageId": "ab6ee248-7dd5-44a5-8b43-3249f6c049a4",
+      "name": "Dr. Md. Humayun Kabir",
+      "degree": "MBBS, BCS( Health), DEM (BIRDEM), FCPS (Endocrinology-Thesis)",
+      "specialty": "Endocrinology (Diabetes, Thyroid, Hormone) Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Md. Humayun Kabir is a Endocrinologist in Kushtia. His qualification is MBBS, BCS( Health), DEM (BIRDEM), FCPS (Endocrinology-Thesis). He is a Assistant Registrar, Endocrinology at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Centre, Kushtia. Practicing hour of Dr. Md. Humayun Kabir at Popular Diagnostic Centre, Kushtia is 9am to 10pm (Only Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Centre, Kushtia",
+        "address": "City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia",
+        "visitingTime": "9am to 10pm (Only Friday)",
+        "appointmentNumber": "+8809666787817Call Now"
+      }
+    },
+    {
+      "id": "c05cf55e-4974-4283-a9f4-913f07039e71",
+      "departmentId": "bb5ccca0-de6c-4da9-83ed-9630b4ab5479",
+      "link": "https://www.doctorbangladesh.com/dr-hasan-mahfuz-reza-likhon/",
+      "imageId": "62ad6cb7-1f89-4056-812e-6429f202f47b",
+      "name": "Dr. Hasan Mahfuz Reza (Likhon)",
+      "degree": "MBBS, CCD, DEM, MPhil, MACP, MSc, MPH",
+      "specialty": "Diabetes, Thyroid, Hormone & Medicine Specialist",
+      "workplace": "Sono Consultation Centre, Kushtia",
+      "info": "Dr. Hasan Mahfuz Reza (Likhon) is a Endocrinologist in Kushtia. His qualification is MBBS, CCD, DEM, MPhil, MACP, MSc, MPH. He is a Consultant Endocrinologist at Sono Consultation Centre, Kushtia. He regularly provides treatment to his patients at Centre For Hormone Care. Practicing hour of Dr. Hasan Mahfuz Reza (Likhon) at Centre For Hormone Care is 9am to 1pm & 4pm to 8pm (Sat to Thu), am to 4pm (Friday).",
+      "chamber": {
+        "hospital": "Centre For Hormone Care",
+        "address": "Sono Consultation Centre, Sono Tower-2, Room 502, Courtpara, Kushtia",
+        "visitingTime": "9am to 1pm & 4pm to 8pm (Sat to Thu), am to 4pm (Friday)",
+        "appointmentNumber": "+8801799694760Call Now"
+      }
+    }
+  ]
+}

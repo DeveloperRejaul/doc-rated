@@ -1,0 +1,191 @@
+{
+  "doctor": [
+    {
+      "id": "10e99025-9bc8-41cc-8f7d-38ce991a5c8a",
+      "departmentId": "cedd1c58-cf3b-402b-bd77-002db5f5273d",
+      "link": "https://www.doctorbangladesh.com/dr-m-saleh-uddin/",
+      "imageId": "a28abae3-b377-4edc-9c7c-4d161e8b1a7e",
+      "name": "Dr. M. Saleh Uddin",
+      "degree": "MBBS, MCPS (Medicine), MD (Cardiology), FICC, FCSI, FACP, FISC, FCCP (USA)",
+      "specialty": "Medicine, Cardiology, Rheumatology & Hypertension Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. M. Saleh Uddin is a Cardiologist in Dhaka. His qualification is MBBS, MCPS (Medicine), MD (Cardiology), FICC, FCSI, FACP, FISC, FCCP (USA). He is a Associate Professor & Head, Cardiology at Sher-E-Bangla Medical College & Hospital. He regularly provides treatment to his patients at South Apollo Diagnostic Complex, Barisal. Practicing hour of Dr. M. Saleh Uddin at South Apollo Diagnostic Complex, Barisal is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "South Apollo Diagnostic Complex, Barisal",
+        "address": "135, Sadar Road, Barisal",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801711457444Call Now"
+      }
+    },
+    {
+      "id": "a944c40e-9005-4149-865e-724a56cf8356",
+      "departmentId": "cedd1c58-cf3b-402b-bd77-002db5f5273d",
+      "link": "https://www.doctorbangladesh.com/dr-golam-morshed/",
+      "imageId": "17efb78c-b789-4791-9b33-fc5e4cf3ea24",
+      "name": "Dr. Golam Morshed",
+      "degree": "MBBS, FCPS (Cardiology), MRCP (UK), MACP (USA), Training (Singapore)",
+      "specialty": "Medicine, Diabetes & Cardiology Specialist",
+      "workplace": "National Institute of Cardiovascular Diseases & Hospital",
+      "info": "Popular Diagnostic Center, Barisal Address: 955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal Visiting Hour: 5pm to 11pm (Thursday & Friday) Appointment: +8809666787819 Call Now",
+      "chamber": {
+        "hospital": "CIMEC Health, Dhanmondi",
+        "address": "Plot # 17 (Lift- 8), Road # 6, Dhanmondi, Dhaka-1205",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801717757593Call Now"
+      }
+    },
+    {
+      "id": "5a2a41f1-1191-421c-8acb-477360c418f7",
+      "departmentId": "cedd1c58-cf3b-402b-bd77-002db5f5273d",
+      "link": "https://www.doctorbangladesh.com/prof-dr-ranjit-chandra-khan/",
+      "imageId": "4cdcfa4c-76d5-4a42-b3ce-63123e74d709",
+      "name": "Prof. Dr. Ranjit Chandra Khan",
+      "degree": "MBBS, MCPS (Medicine), MD (Cardiology), FACC, FISC, FRCP (Edinburgh)",
+      "specialty": "Cardiology & Medicine Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Prof. Dr. Ranjit Chandra Khan is a Cardiologist in Barisal. His qualification is MBBS, MCPS (Medicine), MD (Cardiology), FACC, FISC, FRCP (Edinburgh). He is a Former Principal, Cardiology at Sher-E-Bangla Medical College & Hospital. He regularly provides treatment to his patients at South Apollo Diagnostic Complex, Barisal. Practicing hour of Prof. Dr. Ranjit Chandra Khan at South Apollo Diagnostic Complex, Barisal is 10am to 2pm (Video Call).",
+      "chamber": {
+        "hospital": "South Apollo Diagnostic Complex, Barisal",
+        "address": "135, Sadar Road, Barisal",
+        "visitingTime": "10am to 2pm (Video Call)",
+        "appointmentNumber": "+8801711457444Call Now"
+      }
+    },
+    {
+      "id": "1461294e-777d-4afd-a9a4-20128cd43f1a",
+      "departmentId": "cedd1c58-cf3b-402b-bd77-002db5f5273d",
+      "link": "https://www.doctorbangladesh.com/dr-md-zakir-hossain-card/",
+      "imageId": "5efab7de-1a47-4c27-a056-807a822645ab",
+      "name": "Prof. Dr. Md. Zakir Hossain",
+      "degree": "MBBS (Dhaka), PGT (Medicine), FRCP (EDEN), D-CARD (NICVD), FACC (USA)",
+      "specialty": "Cardiology, Hypertension & Rheumatology Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Prof. Dr. Md. Zakir Hossain is a Cardiologist in Barisal. His qualification is MBBS (Dhaka), PGT (Medicine), FRCP (EDEN), D-CARD (NICVD), FACC (USA). He is a Professor (Cardiology) at Sher-E-Bangla Medical College & Hospital. He regularly provides treatment to his patients at BellView Hospital & Medical Services, Barisal. Practicing hour of Prof. Dr. Md. Zakir Hossain at BellView Hospital & Medical Services, Barisal is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "BellView Hospital & Medical Services, Barisal",
+        "address": "114, Sadar Road, Barisal",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801716344175Call Now"
+      }
+    },
+    {
+      "id": "acbe7127-effc-43bd-bf4e-ad58c87ba0f7",
+      "departmentId": "cedd1c58-cf3b-402b-bd77-002db5f5273d",
+      "link": "https://www.doctorbangladesh.com/dr-sharafat-nurul-islam/",
+      "imageId": "c0d6ee61-6968-4b99-b34b-b3291a10bfab",
+      "name": "Dr. Sharafat Nurul Islam",
+      "degree": "MBBS (DMC), BCS (Health), FCPS (Medicine), MD (Cardiology)",
+      "specialty": "Cardiology & Medicine Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. Sharafat Nurul Islam is a Cardiologist in Barisal. His qualification is MBBS (DMC), BCS (Health), FCPS (Medicine), MD (Cardiology). He is a Associate Professor & Head, Cardiology at Sher-E-Bangla Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Barisal. Practicing hour of Dr. Sharafat Nurul Islam at Popular Diagnostic Center, Barisal is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787819Call Now"
+      }
+    },
+    {
+      "id": "e3521a3c-9b7d-4de7-bcd7-638c6a9f5615",
+      "departmentId": "cedd1c58-cf3b-402b-bd77-002db5f5273d",
+      "link": "https://www.doctorbangladesh.com/dr-asim-biswas/",
+      "imageId": "bc37d52d-8a8a-464e-9d53-3e294d0f3d7a",
+      "name": "Dr. Asim Biswas",
+      "degree": "MBBS, MD (Cardiology)",
+      "specialty": "Cardiology & Heart Diseases Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. Asim Biswas is a Cardiologist in Barisal. His qualification is MBBS, MD (Cardiology). He is a Assistant Professor, Cardiology at Sher-E-Bangla Medical College & Hospital. He regularly provides treatment to his patients at Medinova Medical Services, Barisal. Practicing hour of Dr. Asim Biswas at Medinova Medical Services, Barisal is 4pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Barisal",
+        "address": "K.B. Hemayet Uddin Road, Girja Moholla, Barisal",
+        "visitingTime": "4pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801711240969Call Now"
+      }
+    },
+    {
+      "id": "81022952-1555-4dae-8f13-e8fbfd972898",
+      "departmentId": "cedd1c58-cf3b-402b-bd77-002db5f5273d",
+      "link": "https://www.doctorbangladesh.com/dr-a-b-m-imam-hossain-jewel/",
+      "imageId": "121c90a2-4f3d-43bc-b0c7-570d7188ccdb",
+      "name": "Dr. A.B.M. Imam Hossain Jewel",
+      "degree": "MBBS, BCS (Health), MD (Cardiology), FCPS (Medicine), CCD (BIRDEM)",
+      "specialty": "Cardiology, Diabetes, Hypertension & Medicine Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. A.B.M. Imam Hossain Jewel is a Medicine Specialist in Barisal. His qualification is MBBS, BCS (Health), MD (Cardiology), FCPS (Medicine), CCD (BIRDEM). He is a Consultant, Cardiology at Sher-E-Bangla Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Barisal. Practicing hour of Dr. A.B.M. Imam Hossain Jewel at Popular Diagnostic Center, Barisal is 6pm to 9pm (Sat to Thursday), 9am to 1pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "6pm to 9pm (Sat to Thursday), 9am to 1pm (Friday)",
+        "appointmentNumber": "+8809666787819Call Now"
+      }
+    },
+    {
+      "id": "776c9101-3ba5-48fa-97e8-d8f0e4feafbb",
+      "departmentId": "cedd1c58-cf3b-402b-bd77-002db5f5273d",
+      "link": "https://www.doctorbangladesh.com/dr-shamim-ahmed-cardiology/",
+      "imageId": "68dbb8cf-0df9-4b8a-ad19-f2977043f9dc",
+      "name": "Dr. Shamim Ahmed",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Cardiology)",
+      "specialty": "Cardiology, Diabetes & Medicine Specialist",
+      "workplace": "National Institute of Cardiovascular Diseases & Hospital",
+      "info": "Rahat Anwar Hospital, Barisal Address: Band Road, Chandmari, Barisal Sadar, Barisal – 8200 Visiting Hour: 4pm to 6pm (Only Friday) Appointment: +8801711993953 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "2:30pm to 9pm (Closed: Wed & Thursday)",
+        "appointmentNumber": "+8809666787819Call Now"
+      }
+    },
+    {
+      "id": "030628b7-5a89-4c0c-97cd-682ff7d0350a",
+      "departmentId": "cedd1c58-cf3b-402b-bd77-002db5f5273d",
+      "link": "https://www.doctorbangladesh.com/dr-md-mushfiquzzaman/",
+      "imageId": "56b4e654-a893-434b-b6bb-24c80d502f74",
+      "name": "Dr. Md. Mushfiquzzaman",
+      "degree": "MBBS, BCS (Health), D-CARD (NICVD)",
+      "specialty": "Cardiology & Heart Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Popular Diagnostic Center, BarisalAddress: 955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, BarisalVisiting Hour: 2:30pm to 4pm (Closed: Friday)Appointment: +8809666787819Call Now",
+      "chamber": {
+        "hospital": "Rahat Anwar Hospital, Barisal",
+        "address": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
+        "visitingTime": "4pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801711993953Call Now"
+      }
+    },
+    {
+      "id": "28a2607a-75b6-4337-a782-e7799d19c1c2",
+      "departmentId": "cedd1c58-cf3b-402b-bd77-002db5f5273d",
+      "link": "https://www.doctorbangladesh.com/dr-md-afjal-hossain/",
+      "imageId": "4bc947a7-1a1a-4a9b-9af2-9071ce26d0ee",
+      "name": "Dr. Md. Afjal Hossain",
+      "degree": "MBBS, BCS (Health), MD (Cardiology), MACP (USA)",
+      "specialty": "Cardiology (Heart Diseases, Hypertension, Rheumatic Fever) Specialist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. Md. Afjal Hossain is a Cardiologist in Barisal. His qualification is MBBS, BCS (Health), MD (Cardiology), MACP (USA). He is a Cardiologist, Cardiology at Sher-E-Bangla Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Barisal. Practicing hour of Dr. Md. Afjal Hossain at Popular Diagnostic Center, Barisal is 5pm to 9pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Barisal",
+        "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
+        "visitingTime": "5pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801717337717Call Now"
+      }
+    },
+    {
+      "id": "20212742-fd22-4c24-9a06-476b48d87d4e",
+      "departmentId": "cedd1c58-cf3b-402b-bd77-002db5f5273d",
+      "link": "https://www.doctorbangladesh.com/dr-mdataurrahman/",
+      "imageId": "70cb308b-c02a-4ba4-94f9-1f918eea2c30",
+      "name": "Dr. Md. Ataur Rahman",
+      "degree": "MBBS (SSMC), BCS (Health), FCPS (Medicine), MD (Cardiology)",
+      "specialty": "Medicine Specialist & Cardiologist",
+      "workplace": "Sher-E-Bangla Medical College & Hospital",
+      "info": "Dr. Md. Ataur Rahman is a medicine specialist and cardiologist in Barisal. His qualification is MBBS (SSMC), BCS (Health), FCPS (Medicine), MD (Cardiology). He is a Consultant (Medicine) at Sher-E-Bangla Medical College & Hospital. He regularly provides treatment to his patients at Islami Bank Hospital, Barisal. Practicing hour of Dr. Md. Ataur Rahman at Islami Bank Hospital, Barisal is 4pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Barisal",
+        "address": "Band Road, Chandmari, Barisal – 8200",
+        "visitingTime": "4pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801810000121, +8801795831900Call Now"
+      }
+    }
+  ]
+}

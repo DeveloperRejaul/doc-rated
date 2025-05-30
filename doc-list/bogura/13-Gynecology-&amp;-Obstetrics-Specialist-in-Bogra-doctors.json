@@ -1,0 +1,378 @@
+{
+  "doctor": [
+    {
+      "id": "9c6fe7f6-52ff-47b8-98fd-db11ade7c9b1",
+      "departmentId": "8fad33f9-b11e-40c2-87ef-c0f310bf4842",
+      "link": "https://www.doctorbangladesh.com/dr-nargish-khanam/",
+      "imageId": "d5fbdc8a-6f49-48e5-bffc-02311dfa2bfc",
+      "name": "Dr. Nargish Khanam",
+      "degree": "MBBS, BCS (Health), FCPS (OBGYN), FCPS Thesis (Infertility), CPD (UK), DMU (USG)",
+      "specialty": "Gynecology, Obstetrics, Infertility Specialist & Laparoscopic Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dolfin Hospital & Infertility Center Address: Kathpotti, Kamrangirchar, Dhaka – 1211 Visiting Hour: 4pm to 9.30pm (Everyday) Appointment: +8801761510710 Call Now",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Lalbagh",
+        "address": "27/4 Dhakeshwori Road, Lalbagh, Dhaka",
+        "visitingTime": "4pm to 6pm (Sun, Mon, Tue & Wed)",
+        "appointmentNumber": "+8801783356048Call Now"
+      }
+    },
+    {
+      "id": "9fb1724d-5702-4ed8-a2c2-255e3ebe136f",
+      "departmentId": "8fad33f9-b11e-40c2-87ef-c0f310bf4842",
+      "link": "https://www.doctorbangladesh.com/dr-akhtari-hossain-chowdhury-nipa/",
+      "imageId": "21143576-4300-496d-992e-fdde3ade6f92",
+      "name": "Dr. Akhtari Hossain Chowdhury Nipa",
+      "degree": "MBBS, BCS (Health), DGO, MCPS (OBGYN), Training in Infertility (Malaysia)",
+      "specialty": "Gynecology, Infertility Specialist & Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Doctors Clinic, Bogura Address: Unit 2, Thanthania, Sherpur Road, Bogura Visiting Hour: 7.30pm to 11.30pm (Sat to Thu) & 11.30am to 6pm (Fri) Appointment: +8801716106796 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "6pm to 9pm (Closed: Friday & Tuesday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "id": "3360bd34-8450-401a-bb05-bc3e1955bf1c",
+      "departmentId": "8fad33f9-b11e-40c2-87ef-c0f310bf4842",
+      "link": "https://www.doctorbangladesh.com/dr-mafruha-jahan/",
+      "imageId": "ee3be48e-70a3-4bfe-b9f5-1487c615955d",
+      "name": "Dr. Mafruha Jahan",
+      "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Mafruha Jahan is a Gynecologist in Bogra. Her qualification is MBBS, BCS (Health), FCPS (OBGYN). She is a Senior Consultant, Gynecology & Obstetrics at Shaheed Ziaur Rahman Medical College & Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Mafruha Jahan at Popular Diagnostic Center, Bogra is 4pm to 10pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "4pm to 10pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "id": "3aa2a8be-8a44-43ae-a6a8-21b5e4a3d88f",
+      "departmentId": "8fad33f9-b11e-40c2-87ef-c0f310bf4842",
+      "link": "https://www.doctorbangladesh.com/dr-sultana-razia-gyne/",
+      "imageId": "37d33a93-14ae-46da-b6fb-d5376b08ef57",
+      "name": "Dr. Sultana Razia",
+      "degree": "MBBS, DGO, MCPS, FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Sultana Razia is a Gynecologist in Bogra. Her qualification is MBBS, DGO, MCPS, FCPS (OBGYN). She is a Professor, Gynecology & Obstetrics at Shaheed Ziaur Rahman Medical College & Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Sultana Razia at Popular Diagnostic Center, Bogra is 4:30pm to 9pm (Thursday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "4:30pm to 9pm (Thursday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "id": "018e1b9d-8e58-4a23-a3b7-bfb185d5fd75",
+      "departmentId": "8fad33f9-b11e-40c2-87ef-c0f310bf4842",
+      "link": "https://www.doctorbangladesh.com/dr-sharmin-hossain-momi/",
+      "imageId": "e8ac95ad-f3a0-4086-9c15-e6815783f6d0",
+      "name": "Dr. Sharmin Hossain Momy",
+      "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
+      "workplace": "Mohammad Ali Hospital, Bogra",
+      "info": "Dr. Sharmin Hossain Momy is a Gynecologist in Bogra. Her qualification is MBBS, BCS (Health), FCPS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Mohammad Ali Hospital, Bogra. She regularly provides treatment to her patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Sharmin Hossain Momy at Popular Diagnostic Center, Bogra is 5pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "5pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "id": "0143e8c6-b4de-4e38-8596-871b06937bf2",
+      "departmentId": "8fad33f9-b11e-40c2-87ef-c0f310bf4842",
+      "link": "https://www.doctorbangladesh.com/dr-afroza-sarkar-joly/",
+      "imageId": "6f9140e2-0b5a-4131-8235-26ee4abb79ac",
+      "name": "Dr. Afroza Sarkar Joly",
+      "degree": "MBBS, BCS (Health), DGO, FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics, Infertility Specialist & Laparoscopic Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Afroza Sarkar Joly is a Gynecologist in Bogra. Her qualification is MBBS, BCS (Health), DGO, FCPS (OBGYN). She is a Assistant Professor, Gynecology & Obstetrics at Shaheed Ziaur Rahman Medical College & Hospital. She regularly provides treatment to her patients at Shamsun Nahar Clinic, Bogura. Practicing hour of Dr. Afroza Sarkar Joly at Shamsun Nahar Clinic, Bogura is 5pm to 8pm (Everyday).",
+      "chamber": {
+        "hospital": "Shamsun Nahar Clinic, Bogura",
+        "address": "Sherpur Road, South Thanthania, Bogura",
+        "visitingTime": "5pm to 8pm (Everyday)",
+        "appointmentNumber": "+8801871034999Call Now"
+      }
+    },
+    {
+      "id": "ca4d9b33-de19-45ed-b1b0-5e82e4afa892",
+      "departmentId": "8fad33f9-b11e-40c2-87ef-c0f310bf4842",
+      "link": "https://www.doctorbangladesh.com/dr-hasina-akhter-rekha/",
+      "imageId": "6537e4c6-784f-4f9b-ba81-05d72b4bdf66",
+      "name": "Dr. Hasina Akhter Rekha",
+      "degree": "MBBS, BCS (Health), MS (OBGYN), FCPS (OBGYN)",
+      "specialty": "Gynecology, Infertility Specialist & Laparoscopic Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Hasina Akhter Rekha is a Gynecologist in Bogra. Her qualification is MBBS, BCS (Health), MS (OBGYN), FCPS (OBGYN). She is a Assistant Professor, Gynecology & Obstetrics at Shaheed Ziaur Rahman Medical College & Hospital. She regularly provides treatment to her patients at Ibn Sina Diagnostic & Consultation Center, Bogra. Practicing hour of Dr. Hasina Akhter Rekha at Ibn Sina Diagnostic & Consultation Center, Bogra is 4pm to 8pm (Sat to Thu) & 10am to 12pm (Fri).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
+        "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
+        "visitingTime": "4pm to 8pm (Sat to Thu) & 10am to 12pm (Fri)",
+        "appointmentNumber": "+8801701560011Call Now"
+      }
+    },
+    {
+      "id": "c3c8696a-b715-4b84-9f96-3071df38e3fb",
+      "departmentId": "8fad33f9-b11e-40c2-87ef-c0f310bf4842",
+      "link": "https://www.doctorbangladesh.com/dr-monogna-chitralekha-kundu/",
+      "imageId": "20e97f2d-a8da-432f-85cc-f8ef4a1a8d8b",
+      "name": "Dr. Monogna Chitralekha Kundu",
+      "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Mohammad Ali Hospital, Bogra",
+      "info": "Dr. Monogna Chitralekha Kundu is a Gynecologist in Bogra. Her qualification is MBBS, BCS (Health), FCPS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Mohammad Ali Hospital, Bogra. She regularly provides treatment to her patients at Doctors Clinic, Bogura. Practicing hour of Dr. Monogna Chitralekha Kundu at Doctors Clinic, Bogura is 3pm to 8pm (Sat to Wed) & 11am to 5pm (Fri).",
+      "chamber": {
+        "hospital": "Doctors Clinic, Bogura",
+        "address": "Unit 2, Thanthania, Sherpur Road, Bogura",
+        "visitingTime": "3pm to 8pm (Sat to Wed) & 11am to 5pm (Fri)",
+        "appointmentNumber": "+8801795916121Call Now"
+      }
+    },
+    {
+      "id": "4fd446ec-6958-402d-9453-8048c43f4a38",
+      "departmentId": "8fad33f9-b11e-40c2-87ef-c0f310bf4842",
+      "link": "https://www.doctorbangladesh.com/dr-runa-parvin/",
+      "imageId": "dbf85232-b344-4867-bd71-2073cb8d09e6",
+      "name": "Dr. Runa Parvin",
+      "degree": "MBBS, BCS (Health), MCPS (OBGYN), FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Runa Parvin is a Gynecologist in Bogra. Her qualification is MBBS, BCS (Health), MCPS (OBGYN), FCPS (OBGYN). She is a Assistant Professor, Gynecology & Obstetrics at Shaheed Ziaur Rahman Medical College & Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Runa Parvin at Popular Diagnostic Center, Bogra is 3pm to 8pm (Closed: Sunday) & 10am to 5pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "3pm to 8pm (Closed: Sunday) & 10am to 5pm (Friday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "id": "26bf18a3-f7a4-4e5e-8c8b-8f2fc537464b",
+      "departmentId": "8fad33f9-b11e-40c2-87ef-c0f310bf4842",
+      "link": "https://www.doctorbangladesh.com/dr-mst-nafisa-khatun-nafsi/",
+      "imageId": "0084d089-3e20-4e96-aae3-8c000929168c",
+      "name": "Dr. Mst. Nafisa Khatun Nafsi",
+      "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Mst. Nafisa Khatun Nafsi is a Gynecologist in Bogra. Her qualification is MBBS, BCS (Health), FCPS (OBGYN). She is a Resident Surgeon, Gynecology & Obstetrics at Shaheed Ziaur Rahman Medical College & Hospital. She regularly provides treatment to her patients at Ibn Sina Diagnostic & Consultation Center, Bogra. Practicing hour of Dr. Mst. Nafisa Khatun Nafsi at Ibn Sina Diagnostic & Consultation Center, Bogra is 3pm to 4pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
+        "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
+        "visitingTime": "3pm to 4pm (Closed: Friday)",
+        "appointmentNumber": "+8801701560011Call Now"
+      }
+    },
+    {
+      "id": "b3fba15e-82fe-4037-bd76-e03215c8672e",
+      "departmentId": "8fad33f9-b11e-40c2-87ef-c0f310bf4842",
+      "link": "https://www.doctorbangladesh.com/dr-syeda-begum/",
+      "imageId": "7d9e26a4-94c5-46ca-99b4-0794aad74f5c",
+      "name": "Dr. Syeda Begum",
+      "degree": "MBBS, MS (OBGYN), PhD (Japan), Trained in Fetomaternal Medicine (Delhi)",
+      "specialty": "Gynecology, High Risk Pregnancy Specialist & Surgeon",
+      "workplace": "Bangladesh Medical College & Hospital",
+      "info": "Dr. Syeda Begum is a Gynecologist in Bogra. Her qualification is MBBS, MS (OBGYN), PhD (Japan), Trained in Fetomaternal Medicine (Delhi). She is a Assistant Professor, Gynecology & Obstetrics at Bangladesh Medical College & Hospital. She regularly provides treatment to her patients at Ibn Sina Diagnostic & Consultation Center, Bogra. Practicing hour of Dr. Syeda Begum at Ibn Sina Diagnostic & Consultation Center, Bogra is 9am to 2pm (Thu) & 8am to 11am (Fri).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
+        "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
+        "visitingTime": "9am to 2pm (Thu) & 8am to 11am (Fri)",
+        "appointmentNumber": "+8801701560011Call Now"
+      }
+    },
+    {
+      "id": "40561d7a-084e-4e6c-a757-bafbb72d344a",
+      "departmentId": "8fad33f9-b11e-40c2-87ef-c0f310bf4842",
+      "link": "https://www.doctorbangladesh.com/dr-taslima-abid-shapla/",
+      "imageId": "9fa7cb74-675a-4bca-aea7-16afbf050504",
+      "name": "Dr. Taslima Abid Shapla",
+      "degree": "MBBS, BCS (Health), MCPS, FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Taslima Abid Shapla is a Gynecologist in Bogra. Her qualification is MBBS, BCS (Health), MCPS, FCPS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Shaheed Ziaur Rahman Medical College & Hospital. She regularly provides treatment to her patients at Ibn Sina Diagnostic & Consultation Center, Bogra. Practicing hour of Dr. Taslima Abid Shapla at Ibn Sina Diagnostic & Consultation Center, Bogra is 4pm to 8pm (Sat, Mon, Tue & Thu).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
+        "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
+        "visitingTime": "4pm to 8pm (Sat, Mon, Tue & Thu)",
+        "appointmentNumber": "+8801701560011Call Now"
+      }
+    },
+    {
+      "id": "f1337a10-1b37-4ae8-bc0c-18a2fd9df6dc",
+      "departmentId": "8fad33f9-b11e-40c2-87ef-c0f310bf4842",
+      "link": "https://www.doctorbangladesh.com/dr-sharmin-akter-shampa/",
+      "imageId": "23b23877-9015-4aa3-81ed-16be6e9a73e1",
+      "name": "Dr. Sharmin Akter Shampa",
+      "degree": "MBBS, FCPS (OBGYN)",
+      "specialty": "Gynecology, Infertility Specialist & Surgeon",
+      "workplace": "Popular Diagnostic Center, Bogra",
+      "info": "Dr. Sharmin Akter Shampa is a Gynecologist in Bogra. Her qualification is MBBS, FCPS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Popular Diagnostic Center, Bogra. She regularly provides treatment to her patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Sharmin Akter Shampa at Popular Diagnostic Center, Bogra is 12pm to 5pm (Mon, Tue, Wed & Thursday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "12pm to 5pm (Mon, Tue, Wed & Thursday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "id": "3e9fd433-104e-4116-a967-2fb6fdd15be5",
+      "departmentId": "8fad33f9-b11e-40c2-87ef-c0f310bf4842",
+      "link": "https://www.doctorbangladesh.com/dr-firoza-banu-shirin/",
+      "imageId": "d8c93368-b063-4781-a50e-578a603c68db",
+      "name": "Dr. Firoza Banu Shirin",
+      "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
+      "specialty": "Obstetrics, Gynecology Specialist & Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Firoza Banu Shirin is a Gynecologist in Bogra. Her qualification is MBBS, BCS (Health), FCPS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Shaheed Ziaur Rahman Medical College & Hospital. She regularly provides treatment to her patients at Saic General Hospital, Bogura. Practicing hour of Dr. Firoza Banu Shirin at Saic General Hospital, Bogura is 4pm to 8pm (Closed: Tuesday), 10am to 2pm (Friday).",
+      "chamber": {
+        "hospital": "Saic General Hospital, Bogura",
+        "address": "Bhai Pagla Mazar Lane, Thanthania, Bogura",
+        "visitingTime": "4pm to 8pm (Closed: Tuesday), 10am to 2pm (Friday)",
+        "appointmentNumber": "+8801936005870Call Now"
+      }
+    },
+    {
+      "id": "d32f32fb-93f0-41af-8217-32945ba9be64",
+      "departmentId": "8fad33f9-b11e-40c2-87ef-c0f310bf4842",
+      "link": "https://www.doctorbangladesh.com/dr-sabrina-parvin-nitu/",
+      "imageId": "892d6258-f059-4a04-95a5-1354ce14e9e8",
+      "name": "Dr. Sabrina Parvin Nitu",
+      "degree": "MBBS (DMC), BCS (Health), FCPS (OBGYN)",
+      "specialty": "Gynecologist & Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Sabrina Parvin Nitu is a Gynecologist in Bogra. His qualification is MBBS (DMC), BCS (Health), FCPS (OBGYN). He is a Consultant, Gyne & Obs at Shaheed Ziaur Rahman Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Bogura. Practicing hour of Dr. Sabrina Parvin Nitu at Labaid Diagnostic, Bogura is 3pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Bogura",
+        "address": "House # 1872, Sherpur Road, Colony, Bogura",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662777Call Now"
+      }
+    },
+    {
+      "id": "c0852efd-b420-4430-b1d6-461f15ccd978",
+      "departmentId": "8fad33f9-b11e-40c2-87ef-c0f310bf4842",
+      "link": "https://www.doctorbangladesh.com/dr-surovi-sultana/",
+      "imageId": "dab6cee5-1ff1-4236-833c-c3cdaa6d0fd0",
+      "name": "Dr. Surovi Sultana",
+      "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
+      "specialty": "Gynecologist & Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Surovi Sultana is a Gynecologist in Bogra. Her qualification is MBBS, BCS (Health), FCPS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Shaheed Ziaur Rahman Medical College & Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Surovi Sultana at Popular Diagnostic Center, Bogra is 2pm to 8pm (Closed: Monday), 10am to 2pm (Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "2pm to 8pm (Closed: Monday), 10am to 2pm (Friday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "id": "9a850c0b-fc9c-44d4-ac68-fd900d9fbfe4",
+      "departmentId": "8fad33f9-b11e-40c2-87ef-c0f310bf4842",
+      "link": "https://www.doctorbangladesh.com/dr-niva-rani-das/",
+      "imageId": "46f03bb1-1f66-4c56-9408-6e88f50a30a4",
+      "name": "Dr. Niva Rani Das",
+      "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
+      "specialty": "Obstetrics, Gynecology Specialist & Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Niva Rani Das is a Gynecologist in Bogra. Her qualification is MBBS, BCS (Health), FCPS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Shaheed Ziaur Rahman Medical College & Hospital. She regularly provides treatment to her patients at Doctors Clinic, Bogura. Practicing hour of Dr. Niva Rani Das at Doctors Clinic, Bogura is 5pm to 8pm (Closed: Friday & Sunday).",
+      "chamber": {
+        "hospital": "Doctors Clinic, Bogura",
+        "address": "Unit 1, Mofiz Paglar Mor, Sherpur Road, Bogura",
+        "visitingTime": "5pm to 8pm (Closed: Friday & Sunday)",
+        "appointmentNumber": "+8801711890501Call Now"
+      }
+    },
+    {
+      "id": "be978cf5-1fff-4283-99f4-8e0a59d380de",
+      "departmentId": "8fad33f9-b11e-40c2-87ef-c0f310bf4842",
+      "link": "https://www.doctorbangladesh.com/dr-touhida-sultana-shima/",
+      "imageId": "40971eb6-a425-4738-bf98-33624dce1167",
+      "name": "Dr. Touhida Sultana Shima",
+      "degree": "MBBS, MS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Mohammad Ali Hospital, Bogra",
+      "info": "Dr. Touhida Sultana Shima is a Gynecologist in Bogra. Her qualification is MBBS, MS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Mohammad Ali Hospital, Bogra. She regularly provides treatment to her patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Touhida Sultana Shima at Popular Diagnostic Center, Bogra is 4:30pm to 8:30pm (Sat & Sunday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "4:30pm to 8:30pm (Sat & Sunday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "id": "a3312ecf-c722-4b55-a8f6-6b0e97d901fb",
+      "departmentId": "8fad33f9-b11e-40c2-87ef-c0f310bf4842",
+      "link": "https://www.doctorbangladesh.com/dr-joyutpala-shukla/",
+      "imageId": "e0451866-5ec0-446c-af61-5c9fced6e20a",
+      "name": "Dr. Joyutpala Shukla",
+      "degree": "MBBS, BCS (Health), MCPS (OBGYN), FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Dr. Joyutpala Shukla is a Gynecologist in Bogra. Her qualification is MBBS, BCS (Health), MCPS (OBGYN), FCPS (OBGYN). She is a Assistant Professor, Gynecology & Obstetrics at Shaheed Ziaur Rahman Medical College & Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Joyutpala Shukla at Popular Diagnostic Center, Bogra is 2.30pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "2.30pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "id": "4a12a8fe-b25e-4d71-a649-cbc821a69a62",
+      "departmentId": "8fad33f9-b11e-40c2-87ef-c0f310bf4842",
+      "link": "https://www.doctorbangladesh.com/dr-fahmida-shireen-neela/",
+      "imageId": "7f67b3e1-e1d8-4f59-9406-d4ca3b56833a",
+      "name": "Dr. Fahmida Shireen Neela",
+      "degree": "MBBS, FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Mohammad Ali Hospital, Bogra",
+      "info": "Dr. Fahmida Shireen Neela is a Gynecologist in Bogra. Her qualification is MBBS, FCPS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Mohammad Ali Hospital, Bogra. She regularly provides treatment to her patients at Popular Diagnostic Center, Bogra. Practicing hour of Dr. Fahmida Shireen Neela at Popular Diagnostic Center, Bogra is 2:30pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Bogra",
+        "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
+        "visitingTime": "2:30pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787812Call Now"
+      }
+    },
+    {
+      "id": "09923f39-f99a-43c9-a3c0-a376d733616f",
+      "departmentId": "8fad33f9-b11e-40c2-87ef-c0f310bf4842",
+      "link": "https://www.doctorbangladesh.com/dr-jennifer-zakaria-shila/",
+      "imageId": "ae31a6af-6993-4b97-b079-7677592720ac",
+      "name": "Dr. Jennifer Zakaria Shila",
+      "degree": "MBBS, BCS (Health), DGO (DMC), FCPS (OBGYN), CMU (Ultra)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Upazila Health Complex, Sadar, Bogura",
+      "info": "Dr. Jennifer Zakaria Shila is a Gynecologist in Bogra. Her qualification is MBBS, BCS (Health), DGO (DMC), FCPS (OBGYN), CMU (Ultra). She is a Consultant, Gynecology & Obstetrics at Upazila Health Complex, Sadar, Bogura. She regularly provides treatment to her patients at Labaid Diagnostic, Bogura. Practicing hour of Dr. Jennifer Zakaria Shila at Labaid Diagnostic, Bogura is 3pm to 6pm (Everyday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Bogura",
+        "address": "House # 1872, Sherpur Road, Colony, Bogura",
+        "visitingTime": "3pm to 6pm (Everyday)",
+        "appointmentNumber": "+8801766662777Call Now"
+      }
+    },
+    {
+      "id": "42d6677b-2d5b-4d1c-aca3-5287133c65cb",
+      "departmentId": "8fad33f9-b11e-40c2-87ef-c0f310bf4842",
+      "link": "https://www.doctorbangladesh.com/dr-monowara-khatun/",
+      "imageId": "b29cdd0e-29a8-4acf-bb78-2fde0a6ce3d2",
+      "name": "Dr. Monowara Khatun",
+      "degree": "MBBS, DGO (BSMMU)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "TMSS Medical College & Hospital",
+      "info": "Dr. Monowara Khatun is a Gynecologist in Bogra. Her qualification is MBBS, DGO (BSMMU). She is a Associate Professor, Gynecology & Obstetrics at TMSS Medical College & Hospital. She regularly provides treatment to her patients at Labaid Diagnostic, Bogura. Practicing hour of Dr. Monowara Khatun at Labaid Diagnostic, Bogura is 4pm to 8pm (Everyday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Bogura",
+        "address": "House # 1872, Sherpur Road, Colony, Bogura",
+        "visitingTime": "4pm to 8pm (Everyday)",
+        "appointmentNumber": "+8801766662777Call Now"
+      }
+    }
+  ]
+}

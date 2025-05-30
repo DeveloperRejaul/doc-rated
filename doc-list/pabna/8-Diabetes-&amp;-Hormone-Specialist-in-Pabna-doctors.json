@@ -1,0 +1,55 @@
+{
+  "doctor": [
+    {
+      "id": "ff821895-8740-4f5d-9722-8ccfc01a8242",
+      "departmentId": "405a31de-0bef-4b7d-8a7c-735579eb1930",
+      "link": "https://www.doctorbangladesh.com/dr-md-masud-un-nabi/",
+      "imageId": "97e49ce3-524f-40be-9222-593a093020a7",
+      "name": "Dr. Md. Masud Un Nabi",
+      "degree": "MBBS, BCS (Health), MD (Endocrinology)",
+      "specialty": "Diabetes, Thyroid, Medicine & Hormone Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Shimla Hospital, Pabna Address: Shimla Tower, Thana Mor, Hospital Road, Pabna Visiting Hour: 4pm to 10pm (Thu), 9am to 4pm (Fri) Appointment: +8801713228218 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "4:30pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809666787811Call Now"
+      }
+    },
+    {
+      "id": "c47b33c0-acc0-4edc-90e2-70ac9a9cea17",
+      "departmentId": "405a31de-0bef-4b7d-8a7c-735579eb1930",
+      "link": "https://www.doctorbangladesh.com/dr-md-imtiajul-islam/",
+      "imageId": "20ead88e-d03d-4ee5-90cb-f11e6af72a50",
+      "name": "Dr. Md. Imtiajul Islam",
+      "degree": "MBBS, DEM (BIRDEM), MACE (USA)",
+      "specialty": "Diabetes & Hormone Specialist",
+      "workplace": "Khwaja Yunus Ali Medical College & Hospital",
+      "info": "Dr. Md. Imtiajul Islam is a Diabetes Specialist in Pabna. His qualification is MBBS, DEM (BIRDEM), MACE (USA). He is working as a Diabetes & Hormone Specialist doctor in Khwaja Yunus Ali Medical College & Hospital. He regularly provides treatment to his patients at Kimia Diagnostic Center, Pabna. Practicing hour of Dr. Md. Imtiajul Islam at Kimia Diagnostic Center, Pabna is 2nd & 4th Sunday of Each Month (Call for time).",
+      "chamber": {
+        "hospital": "Kimia Diagnostic Center, Pabna",
+        "address": "Pach Matha Mor, Beside Central Girls School, Shalgaria, Pabna",
+        "visitingTime": "2nd & 4th Sunday of Each Month (Call for time)",
+        "appointmentNumber": "+8801711489711Call Now"
+      }
+    },
+    {
+      "id": "9cce1bf1-77a8-4566-93cb-8dfebb3a8c34",
+      "departmentId": "405a31de-0bef-4b7d-8a7c-735579eb1930",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahinur-rahman-diabetes/",
+      "imageId": "a9c30ff1-0896-4f47-ad56-314a6e4ab468",
+      "name": "Dr. Md. Shahinur Rahman",
+      "degree": "MBBS (DU), PGD (Diabetology), CCD (BIRDEM), FACE (USA)",
+      "specialty": "Diabetes Specialist & Endocrinologist",
+      "workplace": "Pabna Diabetic Hospital",
+      "info": "Dr. Md. Shahinur Rahman is a Diabetes Specialist in Pabna. His qualification is MBBS (DU), PGD (Diabetology), CCD (BIRDEM), FACE (USA). He is a Assistant Registrar, Diabetes & Endocrinology at Pabna Diabetic Hospital. He regularly provides treatment to his patients at Sahin Mohol. Practicing hour of Dr. Md. Shahinur Rahman at Sahin Mohol is 8am to 6pm (Only Friday).",
+      "chamber": {
+        "hospital": "Sahin Mohol",
+        "address": "Choto Shalikha, Chatmohor, Pabna",
+        "visitingTime": "8am to 6pm (Only Friday)",
+        "appointmentNumber": "+8801955384878Call Now"
+      }
+    }
+  ]
+}

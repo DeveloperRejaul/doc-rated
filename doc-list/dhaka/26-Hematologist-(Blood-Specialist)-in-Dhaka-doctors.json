@@ -1,0 +1,786 @@
+{
+  "doctor": [
+    {
+      "id": "edeaa248-4656-41fe-a0f5-9cc7d134b934",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/assoc-prof-dr-jannatul-ferdous/",
+      "imageId": "8387cb9d-194e-40a4-b99f-361e5424a14f",
+      "name": "Assoc. Prof. Dr. Jannatul Ferdous",
+      "degree": "MBBS, MTM, FCPS (Hematology)",
+      "specialty": "Hematology (Blood Diseases, Blood Cancer) Specialist",
+      "workplace": "Mugda Medical College & Hospital",
+      "info": "Assoc. Prof. Dr. Jannatul Ferdous is a Hematologist in Dhaka. Her qualification is MBBS, MTM, FCPS (Hematology). She is a Associate Professor (Heamtology) at Mugda Medical College & Hospital. She regularly provides treatment to her patients at Medinova Medical Services, Malibagh. Practicing hour of Assoc. Prof. Dr. Jannatul Ferdous at Medinova Medical Services, Malibagh is 5pm to 7pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Malibagh",
+        "address": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
+        "visitingTime": "5pm to 7pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801716410062, +8801790118855Call Now"
+      }
+    },
+    {
+      "id": "7bb4d197-9dc3-4483-9e44-5945fefd3e5b",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/prof-dr-a-b-m-yunus/",
+      "imageId": "6da16bec-81f5-423a-a408-c7289e5f5cf7",
+      "name": "Prof. (Dr.) A.B.M. Yunus",
+      "degree": "MBBS (India), MPhil Path (Hons), FCPS (Haematology)",
+      "specialty": "Clinical Hematologist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "",
+      "chamber": {
+        "hospital": "Green View Clinic",
+        "address": "25/3, Green Road, Dhaka 1205, Bangladesh",
+        "visitingTime": "7pm to 11pm (Saturday to Thursday)",
+        "appointmentNumber": "+8801552471393Call Now"
+      }
+    },
+    {
+      "id": "02259a42-0d45-4667-a894-2cc91c1a948e",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-tanjina-afrin/",
+      "imageId": "798b2833-845d-4513-a92f-efaab7d82fe0",
+      "name": "Dr. Tanjina Afrin",
+      "degree": "MBBS, DCP, MCPS (Clinical Pathology), FCPS (Haematology)",
+      "specialty": "HematologistBlood Diseases, Thalassemia & Blood Cancer Specialist",
+      "workplace": "Ibn Sina Medical College & HospitalAssistant Professor (Ex)Northern International Medical College Hospital",
+      "info": "Popular Diagnostic Center, Shyamoli Address: Unit 02, 1/5, College Gate, Block-B, Mirpur Road, Dhaka Visiting Hour: 11am to 12pm Appointment: +8809666787806 Call Now",
+      "chamber": {
+        "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
+        "address": "1/1 B, Kallyanpur, Dhaka",
+        "visitingTime": "12pm to 2pm (Closed: Friday)",
+        "appointmentNumber": "+8809610010616Call Now"
+      }
+    },
+    {
+      "id": "20d71c20-2b22-4a96-b52f-a711a422f205",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/prof-dr-alamgir-kabir/",
+      "imageId": "2df24d57-ad76-403c-8f60-8feecb7df649",
+      "name": "Prof. Dr. Alamgir Kabir",
+      "degree": "MBBS, FCPS (Hematology), MACH (USA)",
+      "specialty": "Hematology (Blood Disease, Blood Cancer & Thalassemia) Specialist",
+      "workplace": "Bangladesh Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Dhanmondi Address: House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205 Visiting Hour: 8pm to 10pm (Closed: Friday) Appointment: +8809666787801 Call Now",
+      "chamber": {
+        "hospital": "Bangladesh Medical College & Hospital",
+        "address": "House # 34, Road # 14/A, Dhanmondi R/A, Dhaka",
+        "visitingTime": "9am to 1pm (Closed: Friday)",
+        "appointmentNumber": "+880244812101Call Now"
+      }
+    },
+    {
+      "id": "50700ff4-0c8e-45e1-a660-2d070a02f908",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-a-khan/",
+      "imageId": "738b9934-dd2d-41b5-b8fd-a46f30f5381d",
+      "name": "Prof. Dr. M. A. Khan",
+      "degree": "MBBS, FCPS (Hematology), FRCP (Edin)",
+      "specialty": "Hematologist & Bone Marrow Transplant Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Prof. Dr. M. A. Khan is a Hematologist in Dhaka. His qualification is MBBS, FCPS (Hematology), FRCP (Edin). He is a Professor & Head, Bone Marrow Unit at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Labaid Cancer Hospital & Super Speciality Center. Practicing hour of Prof. Dr. M. A. Khan at Labaid Cancer Hospital & Super Speciality Center is 11am to 2pm & 6pm to 9pm (Sun, Tue & Thu).",
+      "chamber": {
+        "hospital": "Labaid Cancer Hospital & Super Speciality Center",
+        "address": "26, Green Road, Dhaka",
+        "visitingTime": "11am to 2pm & 6pm to 9pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8809666710001Call Now"
+      }
+    },
+    {
+      "id": "c317a16a-9f97-4e34-8c81-65ecbab766ed",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-akhil-ranjon-biswas/",
+      "imageId": "03d4073d-626e-442b-986c-b4f848b54172",
+      "name": "Dr. Akhil Ranjon Biswas",
+      "degree": "MBBS, FCPS (Hematology)",
+      "specialty": "Blood Diseases, Blood Cancer & Bone Marrow Transplant Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Labaid Cancer Hospital & Super Speciality Center Address: 26, Green Road, Dhaka Visiting Hour: 6pm to 9pm (Sun, Tue & Thu) Appointment: +8809666710001 Call Now",
+      "chamber": {
+        "hospital": "BRB Hospital, Dhaka",
+        "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
+        "visitingTime": "8pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801777764800Call Now"
+      }
+    },
+    {
+      "id": "a9301509-3b26-4147-8691-d4ebb91d9e0e",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-tasnim-ara/",
+      "imageId": "77037630-9032-4686-8a78-dcaf88282753",
+      "name": "Dr. Tasneem Ara",
+      "degree": "MBBS, MPhil, FCPS (Hematology)",
+      "specialty": "Blood Diseases, Blood Cancer & Bone Marrow Transplant Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Tasneem Ara is a Blood Specialist in Dhaka. Her qualification is MBBS, MPhil, FCPS (Hematology). She is working as a Blood Diseases, Blood Cancer & Bone Marrow Transplant Specialist doctor in Dhaka Medical College & Hospital. She regularly provides treatment to her patients at Ibn Sina Diagnostic Center, Dhanmondi. Practicing hour of Dr. Tasneem Ara at Ibn Sina Diagnostic Center, Dhanmondi is 8pm to 9pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
+        "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+        "visitingTime": "8pm to 9pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809610010615Call Now"
+      }
+    },
+    {
+      "id": "280ebe60-3e50-4fdd-a68f-7701a783f366",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-abu-jafar-mohammed-saleh/",
+      "imageId": "07032e7b-1a1f-4bfd-9c04-e8d74e613860",
+      "name": "Dr. Abu Jafar Mohammed Saleh",
+      "degree": "MBBS, FCPS (Hematology)",
+      "specialty": "Hematology (Blood Diseases, Blood Cancer, Stem Cell Transplant) Specialist",
+      "workplace": "Evercare Hospital, Dhaka",
+      "info": "Dr. Abu Jafar Mohammed Saleh is a Hematologist in Dhaka. His qualification is MBBS, FCPS (Hematology). He is a Senior Consultant, Hepatology at Evercare Hospital, Dhaka. He regularly provides treatment to his patients at Evercare Hospital, Dhaka. Practicing hour of Dr. Abu Jafar Mohammed Saleh at Evercare Hospital, Dhaka is 9am to 5pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Evercare Hospital, Dhaka",
+        "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
+        "visitingTime": "9am to 5pm (Closed: Friday)",
+        "appointmentNumber": "10678Call Now"
+      }
+    },
+    {
+      "id": "15bcafcf-2da9-467e-82a2-e079e51733d8",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-manirul-islam/",
+      "imageId": "0fe9ea0c-0152-4655-9f2c-9e876e602c3d",
+      "name": "Dr. Mohammad Manirul Islam",
+      "degree": "MBBS, FCPS (Hematology)",
+      "specialty": "Blood Diseases, Blood Cancer & Bone Marrow Transplant Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Barisal Address: 955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal Visiting Hour: 5pm to 11pm (Friday), 9am to 4pm (Friday) Appointment: +8809666787819 Call Now",
+      "chamber": {
+        "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
+        "address": "1/1 B, Kallyanpur, Dhaka",
+        "visitingTime": "7:30pm to 8:30pm (Closed: Friday)",
+        "appointmentNumber": "+8801703725590Call Now"
+      }
+    },
+    {
+      "id": "6f250457-46e4-4353-b6f8-fbaf64f99067",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-gulzar-hossain/",
+      "imageId": "02612b8f-09c1-429d-b05b-ab559bafa91d",
+      "name": "Dr. Gulzar Hossain Ujjal",
+      "degree": "MBBS, MD (Hematology)",
+      "specialty": "Blood Diseases, Blood Cancer & Hemato Oncology Specialist",
+      "workplace": "National Institute of Cancer Research & Hospital",
+      "info": "Farazy Diagnostic & Hospital, Natun Bazar Address: 1204, Madani Avenue, 100 Feet Road, Vatara, Natun Bazar, Dhaka Visiting Hour: 2pm to 3pm (Closed: Friday) Appointment: +8801635994444 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Badda",
+        "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka",
+        "visitingTime": "5pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801841122215Call Now"
+      }
+    },
+    {
+      "id": "30a51dc0-771e-408e-9082-dd86a5e8d36e",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-md-ashikuzzaman/",
+      "imageId": "441f5531-7b40-408d-9d77-42cd1e7026c3",
+      "name": "Dr. Md. Ashikuzzaman",
+      "degree": "MBBS, BCS (Health), MD (Hematology)",
+      "specialty": "Hematologist (Blood Cancer & Blood Diseases Specialist)",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Labaid Diagnostic, Khulna Address: House # A5, Majid Sarani, Sonadanga, Khulna Visiting Hour: 8am to 6pm (Friday) Appointment: +8801927037186 Call Now",
+      "chamber": {
+        "hospital": "Labaid Cardiac Hospital, Dhanmondi",
+        "address": "Room - 328, Annex Building, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "3pm to 5pm (Saturday to Wednesday)",
+        "appointmentNumber": "10606Call Now"
+      }
+    },
+    {
+      "id": "df4d0506-71e8-42c1-82be-aed6d1984431",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-md-rafiquzzaman-khan/",
+      "imageId": "78f30e5c-71a6-4e11-91a5-c725fcdedb68",
+      "name": "Dr. Md. Rafiquzzaman Khan",
+      "degree": "MBBS, DCP, FCPS (Hematology)",
+      "specialty": "Hematology (Blood Diseases, Blood Cancer) & BMT Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Md. Rafiquzzaman Khan is a Hematologist in Dhaka. His qualification is MBBS, DCP, FCPS (Hematology). He is a Associate Professor, Hepatology at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Uttara (Jasimuddin). Practicing hour of Dr. Md. Rafiquzzaman Khan at Popular Diagnostic Center, Uttara (Jasimuddin) is 8pm to 9:30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
+        "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
+        "visitingTime": "8pm to 9:30pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787805Call Now"
+      }
+    },
+    {
+      "id": "45ddb05a-06b2-4a54-8fab-ca0a85d6df0b",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/prof-dr-manzur-morshed/",
+      "imageId": "94221660-c395-4a55-8f87-024c7ed45fd7",
+      "name": "Prof. Dr. Manzur Morshed",
+      "degree": "MBBS, FCPS, MRCP (UK)",
+      "specialty": "Clinical Hematologist",
+      "workplace": "Asgar Ali Hospital, Dhaka",
+      "info": "Prof. Dr. Manzur Morshed is a Hematologist in Dhaka. His qualification is MBBS, FCPS, MRCP (UK). He is working as a Clinical Hematologist doctor in Asgar Ali Hospital, Dhaka. He regularly provides treatment to his patients at Asgar Ali Hospital, Dhaka. Practicing hour of Prof. Dr. Manzur Morshed at Asgar Ali Hospital, Dhaka is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Asgar Ali Hospital, Dhaka",
+        "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801787683333Call Now"
+      }
+    },
+    {
+      "id": "98a8eb9a-b813-45f5-9d13-b36665ffa3cd",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-md-salahuddin-shah/",
+      "imageId": "a704cba8-25c2-43a9-b4dc-fba6eeb1473a",
+      "name": "Prof. Dr. Md. Salahuddin Shah",
+      "degree": "MBBS, DCP, MCPS, FCPS (Hematology), Fellow (IHTC)",
+      "specialty": "Hematologist & BMT Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Prof. Dr. Md. Salahuddin Shah is a Hematologist in Dhaka. His qualification is MBBS, DCP, MCPS, FCPS (Hematology), Fellow (IHTC). He is a Professor & Head, Hematology at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Lab One Hospital, Uttara. Practicing hour of Prof. Dr. Md. Salahuddin Shah at Lab One Hospital, Uttara is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Lab One Hospital, Uttara",
+        "address": "House # 08, Road # 12, Sector # 14, Uttara, Dhaka-1230",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801922117676Call Now"
+      }
+    },
+    {
+      "id": "fc973f32-a1e6-493f-84e1-e3a0d37cf010",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-sirajul-islam/",
+      "imageId": "f8404be5-e32f-4dde-ae55-e8c3a7c4b743",
+      "name": "Prof. Dr. Md. Sirajul Islam",
+      "degree": "MBBS, MCPS. FCPS, MD (Hematology)",
+      "specialty": "Blood Diseases, Blood Cancer & Bone Marrow Transplant Specialist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Prof. Dr. Md. Sirajul Islam is a Hematologist in Dhaka. His qualification is MBBS, MCPS. FCPS, MD (Hematology). He is a Professor & head, Hepatology at Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at Labaid Cancer Hospital & Super Speciality Center. Practicing hour of Prof. Dr. Md. Sirajul Islam at Labaid Cancer Hospital & Super Speciality Center is 5pm to 9pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Labaid Cancer Hospital & Super Speciality Center",
+        "address": "26, Green Road, Dhaka",
+        "visitingTime": "5pm to 9pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8809666710001Call Now"
+      }
+    },
+    {
+      "id": "20b75aa8-f2e8-4f29-8a06-80c1994cf8e9",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/colonel-dr-md-mosleh-uddin/",
+      "imageId": "f25ef221-6387-4213-9598-c49e29aa300a",
+      "name": "Colonel Dr. Md. Mosleh Uddin",
+      "degree": "MBBS, MCPS, FCPS (Hematology)",
+      "specialty": "Blood Cancer & Bone Marrow Transplant Specialist",
+      "workplace": "Combined Military Hospital (CMH), Dhaka",
+      "info": "Colonel Dr. Md. Mosleh Uddin is a Hematologist in Dhaka. His qualification is MBBS, MCPS, FCPS (Hematology). He is a Consultant, Bone Marrow Transplant at Combined Military Hospital (CMH), Dhaka. He regularly provides treatment to his patients at Islami Bank Hospital, Mirpur. Practicing hour of Colonel Dr. Md. Mosleh Uddin at Islami Bank Hospital, Mirpur is 5pm to 6.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Mirpur",
+        "address": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
+        "visitingTime": "5pm to 6.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801992346632Call Now"
+      }
+    },
+    {
+      "id": "aea0d775-b894-4428-a966-c9e3329f49e3",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-md-kamruzzaman-hematology/",
+      "imageId": "07189e5d-2514-43bb-accd-fa99daac6daf",
+      "name": "Dr. Md. Kamruzzaman",
+      "degree": "MBBS, BCS (Health), FCPS (Hematology)",
+      "specialty": "Blood Diseases, Blood Cancer & Bone Marrow Transplant Specialist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Dr. Md. Kamruzzaman is a Hematologist in Dhaka. His qualification is MBBS, BCS (Health), FCPS (Hematology). He is a Assistant Professor, Hematology at Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Dhanmondi. Practicing hour of Dr. Md. Kamruzzaman at Popular Diagnostic Center, Dhanmondi is 5:30pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Dhanmondi",
+        "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+        "visitingTime": "5:30pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787801Call Now"
+      }
+    },
+    {
+      "id": "6e79f307-c67e-45b5-ab95-bd707655622e",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/brig-gen-prof-dr-faruk-ahmed/",
+      "imageId": "2b1e5d85-7878-46d8-9baf-1774404f757c",
+      "name": "Brig. Gen. Prof. Dr. Faruk Ahmed",
+      "degree": "MBBS, MCPS (Clinical Pathology), FCPS (Hematology)",
+      "specialty": "Hematology (Blood Diseases, Blood Cancer, Bone Marrow Transplant) Specialist",
+      "workplace": "Square Hospital, Dhaka",
+      "info": "Brig. Gen. Prof. Dr. Faruk Ahmed is a Hematologist in Dhaka. His qualification is MBBS, MCPS (Clinical Pathology), FCPS (Hematology). He is a Senior Consultant, Hepatology at Square Hospital, Dhaka. He regularly provides treatment to his patients at Square Hospital, Dhaka. Practicing hour of Brig. Gen. Prof. Dr. Faruk Ahmed at Square Hospital, Dhaka is 10am to 1pm & 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Square Hospital, Dhaka",
+        "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
+        "visitingTime": "10am to 1pm & 5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "10616Call Now"
+      }
+    },
+    {
+      "id": "89c4dd77-e8b7-4741-b88f-1fbb2cad9cdb",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-farzana-rahman/",
+      "imageId": "db15415c-18d3-489b-81d5-63688c23886a",
+      "name": "Dr. Farzana Rahman",
+      "degree": "MBBS (DMC), FCPS (Hematology)",
+      "specialty": "Hematology (Blood Diseases, Thalassemia & Blood Cancer) Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Farzana Rahman is a Hematologist in Dhaka. Her qualification is MBBS (DMC), FCPS (Hematology). She is a Associate Professor, Hematology at Bangabandhu Sheikh Mujib Medical University Hospital. She regularly provides treatment to her patients at Ibn Sina Diagnostic Center, Dhanmondi. Practicing hour of Dr. Farzana Rahman at Ibn Sina Diagnostic Center, Dhanmondi is 3pm to 5pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
+        "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
+        "visitingTime": "3pm to 5pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809610010615Call Now"
+      }
+    },
+    {
+      "id": "529d5a64-ea4d-4163-8d22-c990e4dcb1ba",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-amin-lutful-kabir/",
+      "imageId": "c5969377-5dfc-479e-b99c-22dcd0fe70c7",
+      "name": "Dr. Amin Lutful Kabir",
+      "degree": "MBBS, MPhil, FCPS (Hematology)",
+      "specialty": "Hematology (Blood Diseases, Thalassemia & Blood Cancer) Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Amin Lutful Kabir is a Hematologist in Dhaka. His qualification is MBBS, MPhil, FCPS (Hematology). He is a Associate Professor, Hematology at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Delta Hospital, Mirpur. Practicing hour of Dr. Amin Lutful Kabir at Delta Hospital, Mirpur is 5pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Delta Hospital, Mirpur",
+        "address": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka - 1216",
+        "visitingTime": "5pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801301254924Call Now"
+      }
+    },
+    {
+      "id": "b928b96a-3cab-4b37-90f6-21966de27fcb",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-mafruha-akter/",
+      "imageId": "3713e741-7e1b-407d-a18c-38ec157fafa8",
+      "name": "Dr. Mafruha Akter",
+      "degree": "MBBS, FCPS (Hematology)",
+      "specialty": "Blood Diseases, Blood Cancer & Bone Marrow Transplant Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Popular Diagnostic Center, Dhanmondi Address: House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205 Visiting Hour: 8pm to 9:30pm (Sat, Mon, Tue & Wed) Appointment: +8809666787801 Call Now",
+      "chamber": {
+        "hospital": "Green Life Hospital, Dhaka",
+        "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+        "visitingTime": "5pm to 8pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801309499113Call Now"
+      }
+    },
+    {
+      "id": "2f2a6567-b164-4226-9a6c-ce0995e368bf",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-a-zubayer-khan/",
+      "imageId": "7b2b6914-9304-47af-adfe-111d69e6e74e",
+      "name": "Dr. A. Zubayer Khan",
+      "degree": "MBBS (DMC), FCPS (Hematology)",
+      "specialty": "Blood Disease & Blood Cancer Specialist",
+      "workplace": "National Institute of Laboratory Medicine & Referral Centre",
+      "info": "Dr. A. Zubayer Khan is a Hematologist in Dhaka. His qualification is MBBS (DMC), FCPS (Hematology). He is a Assistant Professor, Hematology at National Institute of Laboratory Medicine & Referral Centre. He regularly provides treatment to his patients at Ahsania Mission Cancer & General Hospital. Practicing hour of Dr. A. Zubayer Khan at Ahsania Mission Cancer & General Hospital is 4pm to 8pm (Sat, Sun, Tue & Wed).",
+      "chamber": {
+        "hospital": "Ahsania Mission Cancer & General Hospital",
+        "address": "Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka",
+        "visitingTime": "4pm to 8pm (Sat, Sun, Tue & Wed)",
+        "appointmentNumber": "10617Call Now"
+      }
+    },
+    {
+      "id": "f6180c0a-e362-433b-80cd-72c906589cb4",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-ali-hematology/",
+      "imageId": "c695a361-b898-4e88-8555-a96db5256f56",
+      "name": "Dr. Mohammad Ali",
+      "degree": "MBBS, FCPS (Hematology)",
+      "specialty": "Blood Diseases, Bone Marrow Transplant & Blood Cancer Specialist",
+      "workplace": "National Institute of Cancer Research & Hospital",
+      "info": "Dr. Mohammad Ali is a Hematologist in Dhaka. His qualification is MBBS, FCPS (Hematology). He is a Assistant Professor, Hematology at National Institute of Cancer Research & Hospital. He regularly provides treatment to his patients at Farazy Hospital, Banasree. Practicing hour of Dr. Mohammad Ali at Farazy Hospital, Banasree is 3pm to 4.30pm (Sat, Mon & Wed).",
+      "chamber": {
+        "hospital": "Farazy Hospital, Banasree",
+        "address": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
+        "visitingTime": "3pm to 4.30pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801882084414Call Now"
+      }
+    },
+    {
+      "id": "0517753d-c1ea-4c28-add9-61daa8ad8547",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-fakhruddin-bhuiyan/",
+      "imageId": "024cb946-693f-418f-8651-a57f5bb4fcfe",
+      "name": "Prof. Dr. Md. Fakhruddin Bhuiyan",
+      "degree": "MBBS, MCPS (Clinical Pathology), FCPS (Hematology)",
+      "specialty": "Blood Cancer Specialist & Hematologist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Prof. Dr. Md. Fakhruddin Bhuiyan is a Hematologist in Dhaka. His qualification is MBBS, MCPS (Clinical Pathology), FCPS (Hematology). He is a Professor, Hepatology at Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at Islami Bank Hospital, Motijheel. Practicing hour of Prof. Dr. Md. Fakhruddin Bhuiyan at Islami Bank Hospital, Motijheel is 6pm to 7.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Motijheel",
+        "address": "24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka",
+        "visitingTime": "6pm to 7.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801727666741Call Now"
+      }
+    },
+    {
+      "id": "74647e44-f4b2-4479-af37-3944edae27f2",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-md-rezaul-karim-chowdhury/",
+      "imageId": "9acb000d-0138-4406-8072-aa70238c1fdf",
+      "name": "Prof. Dr. Md. Rezaul Karim Chowdhury",
+      "degree": "MBBS, MD (Hematology), D-CARD (BSMMU)",
+      "specialty": "Blood Diseases, Blood Cancer Specialist & Hematologist",
+      "workplace": "Enam Medical College & Hospital",
+      "info": "Enam Medical College & Hospital Address: 9/3 Parboti Nagar, Thana Road, Savar, Dhaka Visiting Hour: 8am to 2pm (Closed: Thu & Fri) Appointment: +8801716358146 Call Now",
+      "chamber": {
+        "hospital": "Khidmah Hospital, Dhaka",
+        "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
+        "visitingTime": "4pm to 5pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809606063030Call Now"
+      }
+    },
+    {
+      "id": "6627412f-ad34-45ac-bd9b-b7ab3f53d4a8",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-mahbuba-sharmin/",
+      "imageId": "d351d53b-52f9-42c0-aff3-5906dfce6dc6",
+      "name": "Dr. Mahbuba Sharmin",
+      "degree": "MBBS, FCPS (Hematology), MD (Thesis), MPH",
+      "specialty": "Hematology (Blood Diseases, Thalassemia & Blood Cancer) Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Mahbuba Sharmin is a Hematologist in Dhaka. Her qualification is MBBS, FCPS (Hematology), MD (Thesis), MPH. She is a Hematologist, Hematology at Bangabandhu Sheikh Mujib Medical University Hospital. She regularly provides treatment to her patients at Uttara Crescent Diagnostic & Consultation Center. Practicing hour of Dr. Mahbuba Sharmin at Uttara Crescent Diagnostic & Consultation Center is 5pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Uttara Crescent Diagnostic & Consultation Center",
+        "address": "House # 16, Sector # 7, Rabindra Sarani, Uttara, Dhaka – 1230",
+        "visitingTime": "5pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8809666710665Call Now"
+      }
+    },
+    {
+      "id": "f44ab53e-3a2f-467e-83bb-a6a34a8050d0",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-nurul-farhad/",
+      "imageId": "cfb698c4-c95d-4440-8a32-10636cbc086b",
+      "name": "Dr. Muhammad Nurul Farhad",
+      "degree": "MBBS, FCPS (Hematology)",
+      "specialty": "Hematology (Blood Diseases) Specialist",
+      "workplace": "Asgar Ali Hospital, Dhaka",
+      "info": "Dr. Muhammad Nurul Farhad is a Hematologist in Dhaka. His qualification is MBBS, FCPS (Hematology). He is working as a Hematology (Blood Diseases) Specialist doctor in Asgar Ali Hospital, Dhaka. He regularly provides treatment to his patients at Asgar Ali Hospital, Dhaka. Practicing hour of Dr. Muhammad Nurul Farhad at Asgar Ali Hospital, Dhaka is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Asgar Ali Hospital, Dhaka",
+        "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801787683333Call Now"
+      }
+    },
+    {
+      "id": "0852da63-5d9d-42ec-9994-328cdddc1835",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-humayra-nazneen/",
+      "imageId": "16c5825d-43ad-4a44-b045-a598af693f6f",
+      "name": "Dr. Humayra Nazneen",
+      "degree": "MBBS, FCPS (Hematology)",
+      "specialty": "Blood Diseases Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Humayra Nazneen is a Blood Specialist in Dhaka. Her qualification is MBBS, FCPS (Hematology). She is working as a Blood Diseases Specialist doctor in Dhaka Medical College & Hospital. She regularly provides treatment to her patients at Ibn Sina Diagnostic Center, Doyagonj. Practicing hour of Dr. Humayra Nazneen at Ibn Sina Diagnostic Center, Doyagonj is 4pm to 5pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Doyagonj",
+        "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
+        "visitingTime": "4pm to 5pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801878115751Call Now"
+      }
+    },
+    {
+      "id": "ab5a34f5-4acd-4454-9067-7f3a3f70156b",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-sahela-naznin/",
+      "imageId": "975b5b00-9f8b-48b1-bb26-f64bd9c35cc2",
+      "name": "Dr. Shahela Nazneen",
+      "degree": "MBBS, FCPS (Hematology)",
+      "specialty": "Hematology (Blood Diseases, Thalassemia & Blood Cancer) Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Shahela Nazneen is a Blood Specialist in Dhaka. Her qualification is MBBS, FCPS (Hematology). She is a Consultant, Hepatology at Dhaka Medical College & Hospital. She regularly provides treatment to her patients at Ibn Sina Diagnostic Center, Uttara. Practicing hour of Dr. Shahela Nazneen at Ibn Sina Diagnostic Center, Uttara is 4pm to 5.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Uttara",
+        "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
+        "visitingTime": "4pm to 5.30pm (Closed: Friday)",
+        "appointmentNumber": "+8809610009612Call Now"
+      }
+    },
+    {
+      "id": "e0201abb-7e65-4309-b939-297dd1c62c5d",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-tanzia-khanum-tompa/",
+      "imageId": "266cc628-3b7b-4624-96b6-7a6f90819182",
+      "name": "Dr. Tanzia Khanum Tompa",
+      "degree": "MBBS (DU), MD (Hematology), MRCP (Internal Medicine - UK), MCPS (Internal Medicine)",
+      "specialty": "Hematology, Blood Cancer & Medicine Specialist",
+      "workplace": "Labaid Specialized Hospital, Dhanmondi",
+      "info": "",
+      "chamber": {
+        "hospital": "Labaid Cardiac Hospital, Dhanmondi",
+        "address": "Room - 439, House # 01, Road # 04, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "12am to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8801936217759Call Now"
+      }
+    },
+    {
+      "id": "113ddd6f-0a47-4bd2-b876-8d52b1fbaf15",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/prof-dr-abdul-aziz/",
+      "imageId": "721bb455-525c-471c-816c-2544357eb5e4",
+      "name": "Prof. Dr. Md. Abdul Aziz",
+      "degree": "MBBS, FCPS (Hematology)",
+      "specialty": "Hematology (Blood Diseases, Anemia, Thalassemia, Leukemia, Lymphoma, Myeloma) Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Hematology Center, College Gate Address: 2/1 Humayun Road, College Gate, Dhaka Visiting Hour: 6pm to 9pm (Everyday) Appointment: +8801731- 236255 Call Now",
+      "chamber": {
+        "hospital": "Hematology Center, Hatirpul",
+        "address": "45 Sonargaon Road, Jahanara Bhabon (2nd Floor), Hatirpul, Dhaka",
+        "visitingTime": "4pm to 6pm (Everyday)",
+        "appointmentNumber": "+8801973- 236255Call Now"
+      }
+    },
+    {
+      "id": "a8740a23-7dbe-4555-a222-a75052148df7",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-mirza-golam-sarwar-moon/",
+      "imageId": "35c2b36b-3f6f-4891-a812-0e2cb5e6cb0b",
+      "name": "Dr. Mirza Golam Sarwar Moon",
+      "degree": "MBBS, (MMC), FCPS (Medicine), MD (Hematology)",
+      "specialty": "Hematology (Blood Diseases, Blood Cancer) & Medicine Specialist",
+      "workplace": "Dhaka Dental College & Hospital",
+      "info": "Dr. Mirza Golam Sarwar Moon is a Hematologist in Dhaka. His qualification is MBBS, (MMC), FCPS (Medicine), MD (Hematology). He is a Consultant, Medicine at Dhaka Dental College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Shyamoli. Practicing hour of Dr. Mirza Golam Sarwar Moon at Popular Diagnostic Center, Shyamoli is 6pm to 7pm (Everyday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Shyamoli",
+        "address": "Opposite to Shyamoli Shishu Mela, Babor Road, Mohammadpur, Dhaka",
+        "visitingTime": "6pm to 7pm (Everyday)",
+        "appointmentNumber": "+8809666787806Call Now"
+      }
+    },
+    {
+      "id": "000c9087-e3e2-4306-b76a-6743ca941884",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-md-fakhruddin-bhuiyan/",
+      "imageId": "7039b9ae-4110-4195-9401-92c6d558ff4b",
+      "name": "Dr. Md. Fakhruddin Bhuiyan",
+      "degree": "MBBS, MCPS, FCPS (Hematology)",
+      "specialty": "Hematology Specialist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Dr. Md. Fakhruddin Bhuiyan is a Blood Specialist in Dhaka. His qualification is MBBS, MCPS, FCPS (Hematology). He is working as a Hematology Specialist doctor in Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Malibagh. Practicing hour of Dr. Md. Fakhruddin Bhuiyan at Ibn Sina Diagnostic Center, Malibagh is 6pm to 8pm (Sun, Tue & Thu).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Malibagh",
+        "address": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
+        "visitingTime": "6pm to 8pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801844141717Call Now"
+      }
+    },
+    {
+      "id": "a165fb55-d49b-41e0-bb5c-ded2119703cc",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-lt-col-mir-azim-uddin/",
+      "imageId": "64b1f43c-0a99-4efa-8b5c-7a871e704023",
+      "name": "Dr. Lt. Col. Mir Azim Uddin",
+      "degree": "MBBS, DCP, MCPS, FCPS (Hematology)",
+      "specialty": "Hematology Specialist",
+      "workplace": "Combined Military Hospital (CMH), Dhaka",
+      "info": "Dr. Lt. Col. Mir Azim Uddin is a Hematologist in Dhaka. His qualification is MBBS, DCP, MCPS, FCPS (Hematology). He is working as a Hematology Specialist doctor in Combined Military Hospital (CMH), Dhaka. He regularly provides treatment to his patients at Labaid Specialized Hospital, Dhanmondi. Practicing hour of Dr. Lt. Col. Mir Azim Uddin at Labaid Specialized Hospital, Dhanmondi is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Labaid Specialized Hospital, Dhanmondi",
+        "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "10606Call Now"
+      }
+    },
+    {
+      "id": "e47d05dd-c4d4-4ccc-86c5-65172ea71390",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-dilshad-jahan/",
+      "imageId": "faf813f5-3377-4e73-beab-80e0ae7c9695",
+      "name": "Dr. Dilshad Jahan",
+      "degree": "MBBS, FCPS (Hematology), Fellow (India)",
+      "specialty": "Hematology & Bone Marrow Transplant Specialist",
+      "workplace": "Asgar Ali Hospital, Dhaka",
+      "info": "Dr. Dilshad Jahan is a Hematologist in Dhaka. His qualification is MBBS, FCPS (Hematology), Fellow (India). He is working as a Hematology & Bone Marrow Transplant Specialist doctor in Asgar Ali Hospital, Dhaka. He regularly provides treatment to his patients at Asgar Ali Hospital, Dhaka. Practicing hour of Dr. Dilshad Jahan at Asgar Ali Hospital, Dhaka is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Asgar Ali Hospital, Dhaka",
+        "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801787683333Call Now"
+      }
+    },
+    {
+      "id": "a840693e-f5c2-4c91-8ca4-1944456a0fbe",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-asraful-haque-chowdhury/",
+      "imageId": "98a0eff9-7563-4b9c-bed3-008269bceb10",
+      "name": "Dr. Asraful Haque Chowdhury",
+      "degree": "MBBBS, BCS (Health), FCPS (Hematology)",
+      "specialty": "Hematology Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Asraful Haque Chowdhury is a Hematology Doctor in Dhaka. His qualification is MBBBS, BCS (Health), FCPS (Hematology). He is working as a Hematology Specialist doctor in Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Ibn Sina Medical College Hospital, Kallyanpur. Practicing hour of Dr. Asraful Haque Chowdhury at Ibn Sina Medical College Hospital, Kallyanpur is 4pm to 6pm (Closed: Thursday & Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
+        "address": "1/1 B, Kallyanpur, Dhaka",
+        "visitingTime": "4pm to 6pm (Closed: Thursday & Friday)",
+        "appointmentNumber": "+8801703725590Call Now"
+      }
+    },
+    {
+      "id": "2b29b2f6-a002-42e9-9727-5e28c4d85399",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-md-adnan-hasan-masud/",
+      "imageId": "3f09084c-6503-4b93-a314-30cc107c2792",
+      "name": "Dr. Md. Adnan Hasan Masud",
+      "degree": "MBBS, DTCD, FCPS (Hematology), CCD, MCPS, MPH",
+      "specialty": "Hematology Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Md. Adnan Hasan Masud is a Hematologist in Dhaka. His qualification is MBBS, DTCD, FCPS (Hematology), CCD, MCPS, MPH. He is working as a Hematology Specialist doctor in Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Lalbagh. Practicing hour of Dr. Md. Adnan Hasan Masud at Ibn Sina Diagnostic Center, Lalbagh is 6.30pm to 9.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Lalbagh",
+        "address": "27/4 Dhakeshwori Road, Lalbagh, Dhaka",
+        "visitingTime": "6.30pm to 9.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801783356048Call Now"
+      }
+    },
+    {
+      "id": "88dfa342-08b8-42aa-a8e6-1d1e60c6cc5f",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-munim-ahmed/",
+      "imageId": "35731b70-28b9-4f13-9709-b2fdeac07638",
+      "name": "Dr. Munim Ahmed",
+      "degree": "MBBS, FCPS (Hematology)",
+      "specialty": "Blood Disorders & Blood Cancer Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Munim Ahmed is a Blood Cancer Specialist in Dhaka. His qualification is MBBS, FCPS (Hematology). He is working as a Blood Disorders & Blood Cancer Specialist doctor in Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Japan Bangladesh Friendship Hospital. Practicing hour of Dr. Munim Ahmed at Japan Bangladesh Friendship Hospital is 8pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Japan Bangladesh Friendship Hospital",
+        "address": "55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi",
+        "visitingTime": "8pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+88029672277Call Now"
+      }
+    },
+    {
+      "id": "e1bc7d0f-d906-4ddc-84b6-9ea74b0197d3",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-wasim/",
+      "imageId": "58b2f117-9ff9-4881-97a0-69cf4e661f4c",
+      "name": "Dr. Mohammad Wasim",
+      "degree": "MBBS, MD (Hematology)",
+      "specialty": "Hematology (Blood Cancer, Blood Diseases & Disorder) Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Mohammad Wasim is a Hematologist in Dhaka. His qualification is MBBS, MD (Hematology). He is a Assistant Professor, Hematology at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Doyagonj. Practicing hour of Dr. Mohammad Wasim at Labaid Diagnostic, Doyagonj is 8pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Doyagonj",
+        "address": "30-31/1 Hut lane, Sutrapur, Doyagonj, Dhaka-1204",
+        "visitingTime": "8pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801712080114Call Now"
+      }
+    },
+    {
+      "id": "5ed5f8b0-5871-4bef-85a8-9cd8719ab0d0",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-mohit-kumer-pramanik/",
+      "imageId": "899d9cae-dbbc-4ac9-a870-949e6d01b8d2",
+      "name": "Dr. Mohit Kumer Pramanik",
+      "degree": "MBBS, MD (Hematology)",
+      "specialty": "Hematology (Blood Diseases, Blood Cancer, Bone Marrow Transplant) Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Mohit Kumer Pramanik is a Hematologist in Dhaka. His qualification is MBBS, MD (Hematology). He is a Registrar, Hematology at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Medinova Medical Services, English Road, Popular Diagnostic Center, Narayanganj and Comfort Diagnostic Center, Dhanmondi.",
+      "chamber": {
+        "hospital": "Medinova Medical Services, English Road",
+        "address": "31, Johnson Road, Roy Shaheb Bazar, Dhaka-1100",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801715673229Call Now"
+      }
+    },
+    {
+      "id": "97815562-27ab-4d21-9bb4-2e78f1c51130",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/prof-dr-mahbubur-rahman/",
+      "imageId": "4f9acd4b-c97f-4fc6-bfec-2d331a57543c",
+      "name": "Prof. Dr. Mahbubur Rahman",
+      "degree": "MBBS, FCPS (Hematology), FACP (USA), FRCP (UK)",
+      "specialty": "Clinical Hematologist & Hemato-Oncologist",
+      "workplace": "Universal Medical College & Hospital",
+      "info": "Prof. Dr. Mahbubur Rahman is a Hematologist in Dhaka. His qualification is MBBS, FCPS (Hematology), FACP (USA), FRCP (UK). He is a Professor of Hematology at Universal Medical College & Hospital. He regularly provides treatment to his patients at Samorita Hospital Ltd, Panthapath. Practicing hour of Prof. Dr. Mahbubur Rahman at Samorita Hospital Ltd, Panthapath is 4pm to 6pm (Sat, Tue & Thu).",
+      "chamber": {
+        "hospital": "Samorita Hospital Ltd, Panthapath",
+        "address": "89/1, Panthapath, Dhaka - 1215, Bangladesh",
+        "visitingTime": "4pm to 6pm (Sat, Tue & Thu)",
+        "appointmentNumber": "10674Call Now"
+      }
+    },
+    {
+      "id": "28fdb28d-53c3-4033-82f9-3596f31b875c",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-sadia-binte-momen/",
+      "imageId": "36811fc7-d1a4-4870-b136-d32cf96fa14c",
+      "name": "Dr. Sadia Binte Momen",
+      "degree": "MBBS, BCS (Health), MD (Hematology)",
+      "specialty": "Blood Diseases, Thalassemia, Blood Cancer & Bone Marrow Transplant Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Platinum Hospital Limited, Panthapath Address: 69/M/1, Panthapath, Opposite to Bashundhara Shopping Complex, Dhaka Visiting Hour: 3pm to 5pm (Sat, Mon & Wed) Appointment: 01987851647, 019878551648 Call Now",
+      "chamber": {
+        "hospital": "Monowara Hospital (Pvt) Ltd.",
+        "address": "54, Siddeshwari Road, Dhaka-1217, Bangladesh",
+        "visitingTime": "3pm to 4pm (Sun, Tue & Thu)",
+        "appointmentNumber": "01789446240, 01767173195, 01301435549Call Now"
+      }
+    },
+    {
+      "id": "5faf19ba-8b96-4c20-a17a-9571b101b006",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-tanbin-rahman/",
+      "imageId": "85799656-550d-4b3b-b99c-88e589a28fb8",
+      "name": "Dr. Tanbin Rahman",
+      "degree": "MBBS, MD (Haematology), MRCP (UK)",
+      "specialty": "Hematology (Blood Diseases, Blood Cancer) Specialist",
+      "workplace": "Popular Medical College & Hospital",
+      "info": "Dr. Tanbin Rahman is a Hematologist in Dhaka. Her qualification is MBBS, MD (Haematology), MRCP (UK). She is a Assistant Professor of Haematology at Popular Medical College & Hospital. She regularly provides treatment to her patients at Popular Diagnostic Center, Dhanmondi. Practicing hour of Dr. Tanbin Rahman at Popular Diagnostic Center, Dhanmondi is 4pm to 5pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Dhanmondi",
+        "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+        "visitingTime": "4pm to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787801Call Now"
+      }
+    },
+    {
+      "id": "36ff0926-474d-4441-9677-7cf8da99f6e0",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-md-arif-ur-rahman/",
+      "imageId": "6410045c-32ba-41a5-bd3c-44c59f8bd2fe",
+      "name": "Dr. Md. Arif Ur Rahman",
+      "degree": "MBBS, BCS (Health), MD (Hematology)",
+      "specialty": "Hemato-Oncologist/Blood Diseases, Blood Cancer Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Ibn Sina Diagnostic Center, Savar Address: Room 604, Jaleshwar, Aricha Road, Savar, Dhaka – 1340 Visiting Hour: 5pm to 7.30pm (Sat, Mon & Wed) Appointment: +8801717672805 Call Now",
+      "chamber": {
+        "hospital": "Insaf Barakah Kidney & General Hospital",
+        "address": "Room 326, Bhaban 02, Shaheed Tajuddin Ahmed Sarani, Mogbazar, Dhaka",
+        "visitingTime": "5pm to 9pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801717672805Call Now"
+      }
+    },
+    {
+      "id": "d151f52c-91cb-436b-869d-ec46e1b6032c",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/dr-nasrin-akhter-shumi/",
+      "imageId": "eeef8ce1-9a7a-46bf-9af8-c3cc428df3da",
+      "name": "Dr. Nasrin Akhter (Shumi)",
+      "degree": "MBBS (SOMC), MD (Haematology)",
+      "specialty": "Hematology, Blood Cancer & BMT Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Nasrin Akhter (Shumi) is a Hematologist in Dhaka. His qualification is MBBS (SOMC), MD (Haematology). He is a Hematologist, Department of Haematology and Bone Marrow Transplant at Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Dr. Sirajul Islam Medical College & Hospital. Practicing hour of Dr. Nasrin Akhter (Shumi) at Dr. Sirajul Islam Medical College & Hospital is 5pm to 7pm (Saturday, Monday, Thrusday).",
+      "chamber": {
+        "hospital": "Dr. Sirajul Islam Medical College & Hospital",
+        "address": "12/3, New Circular Road, Malibag, Dhaka - 1217",
+        "visitingTime": "5pm to 7pm (Saturday, Monday, Thrusday)",
+        "appointmentNumber": "+88-02-8322121, +88-02-48322063, 01927333000Call Now"
+      }
+    },
+    {
+      "id": "f2c918b4-c652-499e-9c48-b688f80f518a",
+      "departmentId": "f14d504b-bd64-4a4b-a9e6-1e6205427a51",
+      "link": "https://www.doctorbangladesh.com/prof-dr-belayet-hossain/",
+      "imageId": "5ec4e8c3-9001-4242-8976-8c0a48e90d4a",
+      "name": "Prof. Dr. Belayet Hossain",
+      "degree": "MBBS, FCPS (Hematology)",
+      "specialty": "Hematology (Blood Diseases, Blood Cancer) Specialist",
+      "workplace": "Bangladesh Shishu Hospital & Institute",
+      "info": "Prof. Dr. Belayet Hossain is a Hematologist in Dhaka. His qualification is MBBS, FCPS (Hematology). He is a Professor & Head, Pediatric Hematology & Oncology at Bangladesh Shishu Hospital & Institute. He regularly provides treatment to his patients at Popular Diagnostic Center, Shyamoli. Practicing hour of Prof. Dr. Belayet Hossain at Popular Diagnostic Center, Shyamoli is 8pm to 9.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Shyamoli",
+        "address": "Opposite to Shyamoli Shishu Mela, Babor Road, Mohammadpur, Dhaka",
+        "visitingTime": "8pm to 9.30pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787806Call Now"
+      }
+    }
+  ]
+}
