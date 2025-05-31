@@ -6,12 +6,11 @@ import departments  from "../departments.json";
 import doctors from "../doctors.json";
 import path from "path";
 const bot = new Bot ()
-
-import doc from "../combinedDoctors1748678167865.json";
+import doc from "../doctors.json";
 
 async function main () {
   try {
-    // await bot.init();
+    await bot.init({limitPage: 2, headless: false});
     // await bot.getDepartmentList(district);
     // const data = {
     //   "dhaka": [
@@ -34,7 +33,12 @@ async function main () {
     // bot.makeSingleDocFile()
     // bot.combineAllDoc(["doctors.json","doctors1.json"])
     // const res = bot.checkDuplicate(doc.doctor)
-    // console.log(res.duplicates);
+    // console.log(res.duplicates.length);
+    // console.log(res.unique.size);
+
+    // download all images
+    await bot.downloadAllImagesFromDocList(doc.doctor)
+
     
     //@ts-ignore
     // bot.modifyAllDoc((doc:Doctor)=>({id: bot.generateUUIDv4() ,...doc,chamber:{...doc.chamber, appointmentNumber: doc.chamber.appointmentNumber.replace("Call Now","") } }))

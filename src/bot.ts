@@ -1,25 +1,28 @@
  
-import type { Department, Doctor, IDoctor } from './../types';
+import type { Department, Doctor, IBotInitOptions, IDoctor, IImageErrorOptions } from './../types';
 import puppeteer, { Browser, Page } from 'puppeteer'
 import fs from 'fs'
 import pFs from 'fs/promises';
-import pLimit from 'p-limit';
+import pLimit, { LimitFunction } from 'p-limit';
 import * as path from 'path';
-
-const limit = pLimit(2); // max 20 concurrent tasks
-
-
 
 export default class Bot  {
   private browser:Browser | null = null
+  private limit:LimitFunction = pLimit(2);;
 
   constructor () { }
-  async init (): Promise<Browser> {
+
+
+  async init ({limitPage, ...extra}:IBotInitOptions): Promise<Browser> {
     try {
       this.browser = await puppeteer.launch({
         headless:false,
         defaultViewport: null,
+        ...extra
       });
+      if(limitPage){
+        this.limit = pLimit(limitPage)
+      }
       return this.browser;
     } catch (error) {
       console.log(error);
@@ -97,7 +100,7 @@ export default class Bot  {
             // eslint-disable-next-line no-useless-escape
             const fileId =`doc-list/${key}/${j}-${item.name.replace(/[\/ ]/g, '-')}-doctors`
 
-            const tasks = profileLinks.map((d) =>  limit(() => this.getDoctorProfileDetails(d, key, fileId , item.id)))
+            const tasks = profileLinks.map((d) =>  this.limit(() => this.getDoctorProfileDetails(d, key, fileId , item.id)))
             const docLists = await Promise.allSettled(tasks);
             const fulfilledValues = docLists.filter(result => result.status === 'fulfilled').map(result => result.value);
             if(fulfilledValues.length > 0
@@ -185,8 +188,8 @@ export default class Bot  {
     }
   } 
 
-  async downloadProfileImage (page:Page, profileLink:string): Promise<string> {
-    const imageId = this.generateUUIDv4();
+  async downloadProfileImage (page:Page, profileLink:string, id?:string, errorFileName?:string): Promise<string> {
+    const imageId = id || this.generateUUIDv4();
     try {
       const {base64, ext} = await page.evaluate(async (): Promise<{ base64:string, ext:string}> => {
         const img = document.querySelector('.entry-header div.photo img.attachment-full') as HTMLImageElement | null;
@@ -223,10 +226,10 @@ export default class Bot  {
       return imageId;
     } catch {
       console.error("Failed to download profile image");
-      const data  = await pFs.readFile('imageError.json', 'utf-8')
+      const data  = await pFs.readFile(`${errorFileName||"imageError"}.json`, 'utf-8')
       const prevErrors = JSON.parse(data);
       prevErrors.errors.push({ imageId, link: profileLink});
-      await pFs.writeFile('imageError.json', JSON.stringify(prevErrors, null, 2));
+      await pFs.writeFile(`${errorFileName||"imageError"}.json`, JSON.stringify(prevErrors, null, 2));
       await page?.close();
       return imageId;
     }
@@ -267,21 +270,22 @@ export default class Bot  {
     }
   }
 
-  async handleImageError () {
+  async handleImageError ({errorFileNameFroRead,errorFileNameFroWrite }: IImageErrorOptions) {
     try {
       if(!this.browser){
         return console.log('please init ')
       }
-      const imageErrors = await pFs.readFile('imageError.json', 'utf-8');
+      const imageErrors = await pFs.readFile(`${errorFileNameFroRead || "imageError"}.json`, 'utf-8');
       const imageErrorsData = JSON.parse(imageErrors);
 
       for (let index = 0; index < imageErrorsData.errors.length; index++) {
         const errorObj = imageErrorsData.errors.pop()
         const page = await this.browser.newPage()
+        await this.blockResources(page, {blocked:['stylesheet','font','script','media']});
         await page.goto(errorObj.link, { waitUntil: 'domcontentloaded'});
-        await this.downloadProfileImage(page, errorObj.link)
+        await this.downloadProfileImage(page, errorObj.link,errorObj.imageId, errorFileNameFroWrite)
       }
-      // await pFs.writeFile('imageError.json', JSON.stringify(imageErrorsData,  null, 2), 'utf-8');
+      await pFs.writeFile(`${errorFileNameFroRead || 'imageError'}.json`, JSON.stringify(imageErrorsData,  null, 2), 'utf-8');
       await this.browser.close()
     } catch (error) {
       console.log(error);
@@ -348,6 +352,38 @@ export default class Bot  {
     });
   };
 
+  async downloadAllImagesFromDocList (doctor:IDoctor[], errorFile?:string) {
+    try {
+
+      const tasks = doctor.map((doc:IDoctor, index) => this.limit(async () => {
+        if(!this.browser){
+          return console.error('Browser is not initialized');
+        }
+        let page:Page | null = null;
+        try {
+          page = await this.browser.newPage();
+          await this.blockResources(page, {blocked:['stylesheet','font','script','media']});
+          console.table([{index,  link: doc.link, imageId: doc.imageId }]);
+          await page.goto(doc.link, { waitUntil: 'domcontentloaded' });
+          await this.downloadProfileImage(page, doc.link, doc.imageId, errorFile);
+          await page.close()
+        } catch {
+          await page?.close();
+          const data  = await pFs.readFile(`${errorFile || "imageError"}.json`, 'utf-8')
+          const prevErrors = JSON.parse(data);
+          prevErrors.errors.push({ imageId:doc.imageId, link: doc.link});
+          await pFs.writeFile(`${errorFile || "imageError"}.json`, JSON.stringify(prevErrors, null, 2));
+          console.log(`Error downloading image for doctor at index ${index}`);
+        }
+      }));
+
+      await Promise.allSettled(tasks);
+      console.log(`Downloaded images for ${doctor.length} doctors.`);
+    } catch (error) {
+      console.log(error);
+    }
+  }
+
   generateUUIDv4() {
     return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, (c) => {
       const r = Math.random() * 16 | 0;
@@ -395,4 +431,6 @@ export default class Bot  {
     });
     return {unique:linkMap, duplicates}
   }
+
+ 
 } 

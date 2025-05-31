@@ -1,3 +1,5 @@
+import { LaunchOptions } from "puppeteer"
+
 export type Department = Record<string, {
     id:string,
     name:string, 
@@ -37,4 +39,14 @@ export interface IDoctor {
         visitingTime:string,
         appointmentNumber:string 
     }
+    imageId:string;
+}
+
+export interface IBotInitOptions  extends LaunchOptions{
+    limitPage?:number,
+}
+
+export interface IImageErrorOptions {
+errorFileNameFroRead:string,
+errorFileNameFroWrite:string
 }
