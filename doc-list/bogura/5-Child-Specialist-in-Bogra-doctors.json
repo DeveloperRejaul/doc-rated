@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "74e0ad67-d665-4f33-8470-22e36b0ae3b7",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/dr-md-ataur-rahman-child/",
+      "imageId": "3abf0524-110c-4df6-9c50-1faef09e790d",
       "name": "Dr. Md. Ataur Rahman",
       "degree": "MBBS, FCPS (CHILD)",
       "specialty": "Child & Newborn Diseases Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Shamsun Nahar Clinic, Bogura",
         "address": "Sherpur Road, South Thanthania, Bogura",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801741683404"
-      },
-      "id": "8d0f4a33-2ec6-4a5a-bffc-b10061b895ac"
+        "appointmentNumber": "+8801741683404Call Now"
+      }
     },
     {
+      "id": "76524bbf-636c-4313-bcf4-3534d3fee92c",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/prof-dr-a-k-boshak/",
+      "imageId": "78267dca-4049-427d-9e3a-05dc5d482fdb",
       "name": "Prof. Dr. A.K. Boshak",
       "degree": "MBBS, BCS (Health), DCH, FCPS (Pediatrics), MD (Neonatal)",
       "specialty": "Newborn & Child Specialist",
@@ -24,25 +31,31 @@
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
         "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
         "visitingTime": "4.30pm to 5.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801701560011"
-      },
-      "id": "f033e272-45e9-4183-bd91-4c6a335218df"
+        "appointmentNumber": "+8801701560011Call Now"
+      }
     },
     {
+      "id": "5aa78c70-8b7f-4925-b442-271069a4d7b5",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/dr-md-khalilur-rahman-child/",
+      "imageId": "9a6aafb5-cd44-44f4-ad7b-fb1b805ea55b",
       "name": "Dr. Md. Khalilur Rahman",
       "degree": "MBBS, BCS (Health), MD (Pediatrics)",
       "specialty": "Neonatal & Child Specialist",
       "workplace": "Rajshahi Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Bogra\nAddress: House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura\nVisiting Hour: 10am to 1pm (Closed: Friday)\nAppointment: +8809666787812\nCall Now",
+      "info": "Popular Diagnostic Center, Bogra Address: House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura Visiting Hour: 10am to 1pm (Closed: Friday) Appointment: +8809666787812 Call Now",
       "chamber": {
         "hospital": "Saic General Hospital, Bogura",
         "address": "Bhai Pagla Mazar Lane, Thanthania, Bogura",
         "visitingTime": "4pm to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801936005870"
-      },
-      "id": "b9406fd3-597c-4d23-837a-a7286fcba06f"
+        "appointmentNumber": "+8801936005870Call Now"
+      }
     },
     {
+      "id": "a6fced08-dbee-475f-b030-61a7af3a6d1a",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/dr-sharmin-afrozi-shilpy/",
+      "imageId": "beaa1f9b-18d8-489b-9397-401912b5a600",
       "name": "Dr. Sharmin Afrozi Shilpy",
       "degree": "MBBS, DCH, FCPS (Pediatrics), PGPN (BOSTON)",
       "specialty": "Newborn, Adolescent, Child Diseases & Nutrition Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "3pm to 8pm (Sat to Thu) & 10am to 2pm (Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "9d443e62-e0f7-42af-9a8d-a79748406e16"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "7d4094ff-a337-4977-9f3f-a2c3acccdae5",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/prof-brg-gen-dr-jesmin-sultana/",
+      "imageId": "20a9bdba-b59c-4319-b0da-3f9870059286",
       "name": "Prof. Brg. Gen. Dr. Jesmin Sultana",
       "degree": "MBBS, DCH, MCPS, FCPS (Pediatrics)",
       "specialty": "Neonatal, Adolescent, Child Diseases Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "3pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "0df163d1-c092-479b-8709-87a0d704bc4d"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "ab29dcf8-3ee5-4c39-bb54-f1bbe2a72ddb",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/dr-jakia-sultana/",
+      "imageId": "cb152c05-8736-4f3d-aa3a-9bfca7d1b366",
       "name": "Dr. Jakia Sultana",
       "degree": "MBBS, MCPS (Pediatrics), MD (Pediatric Nephrology)",
       "specialty": "Child Diseases & Child Kidney Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "3pm to 8pm (Closed: Wednesday), 11am to 2pm (Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "6c712b65-2661-4114-b3e9-29d70aa25f1b"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "5929c786-960b-4f8a-8b0b-10d03da1007d",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-rafiqul-islam-child/",
+      "imageId": "a059b39f-ec3e-4ffd-add2-c56c383432e8",
       "name": "Prof. Dr. Md. Rafiqul Islam",
       "degree": "MBBS, DCH, MD (CHILD)",
       "specialty": "Child & Newborn Diseases Specialist",
@@ -94,11 +116,14 @@
         "hospital": "Maleka Nursing Home, Bogura",
         "address": "Sherpur Road, Sutrapur, Bogura - 5800",
         "visitingTime": "4pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801718881897"
-      },
-      "id": "d28c5028-a0aa-4fd7-ba24-fb3c636cf886"
+        "appointmentNumber": "+8801718881897Call Now"
+      }
     },
     {
+      "id": "817f5c2c-b84a-4d79-b3da-88dc0e1ec2a6",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/dr-samia-chharra/",
+      "imageId": "958d0d89-b2f6-4f35-b5b2-e10b1eaad5d8",
       "name": "Dr. Samia Chharra",
       "degree": "MBBS, MCPS (Pediatrics), FCPS (Pediatrics)",
       "specialty": "Newborn & Child Specialist",
@@ -108,11 +133,14 @@
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
         "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
         "visitingTime": "2pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801701560011"
-      },
-      "id": "5fee32d2-e34d-4325-8b90-915afe97619e"
+        "appointmentNumber": "+8801701560011Call Now"
+      }
     },
     {
+      "id": "d961da20-abe8-47a0-9931-42ffd7e7b576",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/dr-labiba-hossaini-honey/",
+      "imageId": "4b84947f-c72a-49ac-b9b6-53cfee0064db",
       "name": "Dr. Labiba Hossainy Honey",
       "degree": "MBBS, BCS (Health), MCPS (Pediatrics), FCPS (Pediatrics)",
       "specialty": "Neonatal & Child Diseases Specialist",
@@ -122,11 +150,14 @@
         "hospital": "Labaid Diagnostic, Bogura",
         "address": "House # 1872, Sherpur Road, Colony, Bogura",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662777"
-      },
-      "id": "2817048f-6e82-4a78-8ee7-5afd58563392"
+        "appointmentNumber": "+8801766662777Call Now"
+      }
     },
     {
+      "id": "69c2c923-4ec8-462b-8d3e-f6c0073db637",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/dr-anjona-boshak/",
+      "imageId": "69fc72f8-6006-4863-bb1e-d1c177daa332",
       "name": "Dr. Anjona Boshak",
       "degree": "MBBS, BCS (Health), FCPS (Pediatrics)",
       "specialty": "Child Diseases Specialist",
@@ -136,11 +167,14 @@
         "hospital": "Saic General Hospital, Bogura",
         "address": "Bhai Pagla Mazar Lane, Thanthania, Bogura",
         "visitingTime": "3pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801936005870"
-      },
-      "id": "fc5518c4-b659-438b-9c2b-2674ae024bd3"
+        "appointmentNumber": "+8801936005870Call Now"
+      }
     },
     {
+      "id": "ed31bad1-7456-480b-b19c-c3564758b028",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/dr-monzira-rahman-dita/",
+      "imageId": "06e8b435-be61-4ea4-9d0f-430b40b4b405",
       "name": "Dr. Monzira Rahman Dita",
       "degree": "MBBS, MD (Pediatrics)",
       "specialty": "Newborn & Child Diseases Specialist",
@@ -150,11 +184,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "a9efd356-d57d-4d62-9e99-e64021ab2ebc"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "510f342f-0e85-4870-8494-cf02eb6b000c",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/dr-a-s-m-selim/",
+      "imageId": "4fa36eec-7d9e-4dd2-9829-688868910244",
       "name": "Dr. A.S.M Selim",
       "degree": "MBBS, DCH (BSMMU)",
       "specialty": "Newborn, Child Diseases & Development Specialist",
@@ -164,11 +201,14 @@
         "hospital": "Labaid Diagnostic, Bogura",
         "address": "House # 1872, Sherpur Road, Colony, Bogura",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662777"
-      },
-      "id": "5d37063c-8fd1-47c9-a906-235f92696ae1"
+        "appointmentNumber": "+8801766662777Call Now"
+      }
     },
     {
+      "id": "7dec22fb-b76b-4c8c-9f7b-32ba273f02b9",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/dr-md-shawkat-zamil/",
+      "imageId": "ff555ae0-40a8-4312-bd03-b37f6d3c3953",
       "name": "Dr. Md. Shawkat Zamil",
       "degree": "MBBS, BCS (Health), MD (Pediatrics)",
       "specialty": "Child Diseases Specialist",
@@ -178,11 +218,14 @@
         "hospital": "Saic General Hospital, Bogura",
         "address": "Bhai Pagla Mazar Lane, Thanthania, Bogura",
         "visitingTime": "3pm to 7pm (Closed: Fri & Saturday)",
-        "appointmentNumber": "+8801936005870"
-      },
-      "id": "98205e5a-4b22-40b1-8899-5cd82efb5e23"
+        "appointmentNumber": "+8801936005870Call Now"
+      }
     },
     {
+      "id": "1f4fb5e2-ecfb-47ef-9489-bc0a26f1a75d",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/dr-tania-ferdousi/",
+      "imageId": "0bfc5193-e1ac-4ab8-9c09-74f3a496e747",
       "name": "Dr. Tania Ferdousi",
       "degree": "MBBS, BCS (Health), MCPS (Pediatrics), MD (Pediatrics) BSMMU",
       "specialty": "Newborn & Child Diseases Specialist",
@@ -192,11 +235,14 @@
         "hospital": "Dr. Tania Ferdousi's Chamber",
         "address": "Boxibazar Mor, East Side of Nayeem Studio, Malotinogor, Bogura",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801767307895"
-      },
-      "id": "1385d749-20ed-4c34-839c-6989466cb64a"
+        "appointmentNumber": "+8801767307895Call Now"
+      }
     },
     {
+      "id": "8f27d6a5-98d0-4cfb-8702-d8f6f384b250",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/dr-md-humayon-kabir-shipon/",
+      "imageId": "c7b496cb-91e9-4ec6-8256-153dcc9b983c",
       "name": "Dr. Md. Humayon Kabir (Shipon)",
       "degree": "MBBS (CMC), DCH (BSMMU)",
       "specialty": "Newborn & Child Health Specialist",
@@ -206,11 +252,14 @@
         "hospital": "Sonar Desh Clinic, Bogura",
         "address": "East Side of Jamil Madrasa Gate, Colony, Bogura",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801675272468"
-      },
-      "id": "c3e9800f-0090-4f28-a75e-1ec5e0d3f429"
+        "appointmentNumber": "+8801675272468Call Now"
+      }
     },
     {
+      "id": "08f18d97-f31f-408d-9a8b-5897489f0ed3",
+      "departmentId": "3f3bfb7c-3134-40f4-93b4-51cb1802b1dc",
+      "link": "https://www.doctorbangladesh.com/dr-md-raihanul-islam/",
+      "imageId": "632f1245-7add-4931-8b2d-c80936f47ce9",
       "name": "Dr. Md. Raihanul Islam",
       "degree": "MBBS (CMC), DCH (DMC), CCD (BIRDEM)",
       "specialty": "Newborn & Child Diseases Specialist",
@@ -220,9 +269,8 @@
         "hospital": "Uttarbanga Specialized Hospital",
         "address": "Mofiz Paglar Mor, Jolesworitola, Bogura",
         "visitingTime": "4pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801711290594"
-      },
-      "id": "8c5db3d3-0dbb-4f0c-81c9-94f93852c5e2"
+        "appointmentNumber": "+8801711290594Call Now"
+      }
     }
   ]
 }

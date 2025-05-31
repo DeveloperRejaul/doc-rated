@@ -1,34 +1,44 @@
 {
   "doctor": [
     {
+      "id": "c388eeb8-a3a3-4253-930b-3572cabd2ae3",
+      "departmentId": "fad76ef6-1d72-420d-a4f5-26d5bafb6c76",
+      "link": "https://www.doctorbangladesh.com/dr-golam-sarwar/",
+      "imageId": "997efd7e-04f5-494e-92d6-1cc38457aae8",
       "name": "Dr. Golam Sarwar Bidyut",
       "degree": "MBBS, MD (CHEST), WHO Fellow (France)",
       "specialty": "Chest Diseases, Asthma, TB & Respiratory Medicine Specialist",
       "workplace": "National Institute of Diseases of the Chest & Hospital",
-      "info": "Moon Hospital, Comilla\nAddress: Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla\nVisiting Hour: 9am to 5pm (Only Friday)\nAppointment: +8801719911865\nCall Now",
+      "info": "Moon Hospital, Comilla Address: Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla Visiting Hour: 9am to 5pm (Only Friday) Appointment: +8801719911865 Call Now",
       "chamber": {
         "hospital": "Labaid Diagnostic, Uttara (Unit 01)",
         "address": "House # 15, Road # 12, Sector # 06, Uttara, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662606"
-      },
-      "id": "798e0510-01db-4bae-8edd-927511c94258"
+        "appointmentNumber": "+8801766662606Call Now"
+      }
     },
     {
+      "id": "070b6b1f-ea08-4c08-83d2-26648f65f46b",
+      "departmentId": "fad76ef6-1d72-420d-a4f5-26d5bafb6c76",
+      "link": "https://www.doctorbangladesh.com/dr-md-abu-hasnat/",
+      "imageId": "36d2439b-da41-46be-b972-01727ff5343e",
       "name": "Dr. Md. Abu Hasanat",
       "degree": "MBBS, BCS (Health), MD (Chest Diseases)",
       "specialty": "Chest Diseases, Asthma & Respiratory Medicine Specialist",
       "workplace": "Cumilla Medical College & Hospital",
-      "info": "Labaid Diagnostic, Cumilla\nAddress: Tomsom Bridge, Laksam Road, Cumilla\nVisiting Hour: 4pm to 8pm (Only Friday)\nAppointment: +8801766661133\nCall Now",
+      "info": "Labaid Diagnostic, Cumilla Address: Tomsom Bridge, Laksam Road, Cumilla Visiting Hour: 4pm to 8pm (Only Friday) Appointment: +8801766661133 Call Now",
       "chamber": {
         "hospital": "Comilla Trauma Center",
         "address": "511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla",
         "visitingTime": "9am to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809612808182"
-      },
-      "id": "a68c6c07-ad1a-4ef0-b8a2-41456d384523"
+        "appointmentNumber": "+8809612808182Call Now"
+      }
     },
     {
+      "id": "b42662fc-189e-4e51-b54c-849b373176b6",
+      "departmentId": "fad76ef6-1d72-420d-a4f5-26d5bafb6c76",
+      "link": "https://www.doctorbangladesh.com/dr-md-amir-hossain-mia/",
+      "imageId": "209dbd24-6de6-43dd-af5d-78889be46266",
       "name": "Dr. Md. Amir Hossain Mia",
       "degree": "MBBS, BCS (Health), CCD (BIRDEM), DTCD (CHEST), MACP (USA)",
       "specialty": "Asthma, Allergy, Diabetes & Chest Diseases Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Comilla",
         "address": "House # 29, Kotbari Road, Tomsom Bridge, Cumilla",
         "visitingTime": "3pm to 7pm (Sat, Mon, Tue & Wed)",
-        "appointmentNumber": "+8801841212275"
-      },
-      "id": "a89f19c0-f891-4a85-997c-0af8e4bd555a"
+        "appointmentNumber": "+8801841212275Call Now"
+      }
     },
     {
+      "id": "d51c2e61-ccf1-45cc-b816-c1b7c0d29b25",
+      "departmentId": "fad76ef6-1d72-420d-a4f5-26d5bafb6c76",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahfuzul-haque/",
+      "imageId": "32b9caf6-65af-473d-9ab5-916a353c5c67",
       "name": "Dr. Md. Mahfuzul Haque",
       "degree": "MBBS, BCS (Health), DTCD",
       "specialty": "Chest Diseases, Asthma & Respiratory Medicine Specialist",
@@ -52,25 +65,31 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "10am to 12pm & 4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801711144786"
-      },
-      "id": "5016b68f-e821-4226-b78d-085e54910ca7"
+        "appointmentNumber": "+8801711144786Call Now"
+      }
     },
     {
+      "id": "0e900f31-436c-44d1-9dc6-1795485e3143",
+      "departmentId": "fad76ef6-1d72-420d-a4f5-26d5bafb6c76",
+      "link": "https://www.doctorbangladesh.com/dr-imam-uddin-ahmad/",
+      "imageId": "fd6992f6-dc84-435c-8853-2c6cee8925cf",
       "name": "Dr. Imam Uddin Ahmad",
       "degree": "MBBS, DTCD (NIDCH), FCCP (USA)",
       "specialty": "Chest Diseases, Asthma & Respiratory Medicine Specialist",
       "workplace": "Gomati Hospital, Comilla",
-      "info": "Dr. Imam Uddin Ahmed is a well known Chest Diseases Specialist in Cumilla. His qualification is MBBS (Dhaka Medical College), DTCD (National institute of Diseases of chest and Hospital), FCCP (USA). He is a Senior Consultant in the Department of Chest Diseases at Gomati Hospital, Cumilla. He regularly provides treatment to his patients at Gomati Hospital, Cumilla, for suffering from Cough, Fever, Respiratory distress, Asthma, Respiratory tract infections, Allergic conditions and other  ailments of chest. Practicing hour of Dr. Imam Uddin Ahmed at Gomati Hospital, Cumilla is 10am to 1pm daily, Friday Closed.",
+      "info": "Dr. Imam Uddin Ahmed is a well known Chest Diseases Specialist in Cumilla. His qualification is MBBS (Dhaka Medical College), DTCD (National institute of Diseases of chest and Hospital), FCCP (USA). He is a Senior Consultant in the Department of Chest Diseases at Gomati Hospital, Cumilla. He regularly provides treatment to his patients at Gomati Hospital, Cumilla, for suffering from Cough, Fever, Respiratory distress, Asthma, Respiratory tract infections, Allergic conditions and other ailments of chest. Practicing hour of Dr. Imam Uddin Ahmed at Gomati Hospital, Cumilla is 10am to 1pm daily, Friday Closed.",
       "chamber": {
         "hospital": "Gomati Hospital, Comilla",
         "address": "Nazrul Avenue, Kandirpar, Cumilla - 3500",
         "visitingTime": "10am to 1pm (Closed: Friday)",
-        "appointmentNumber": "+8801958422817"
-      },
-      "id": "281fe772-acd6-48a8-b432-a3f1ad8a4dae"
+        "appointmentNumber": "+8801958422817Call Now"
+      }
     },
     {
+      "id": "f1c18cee-bc74-41f8-8153-81305e9c1afc",
+      "departmentId": "fad76ef6-1d72-420d-a4f5-26d5bafb6c76",
+      "link": "https://www.doctorbangladesh.com/drmd-mizanur-rahman/",
+      "imageId": "226aafe0-eaaa-4f13-956d-82b8e602bb7c",
       "name": "Dr. Md. Mizanur Rahman",
       "degree": "MBBS, BCS (Health), DTCD (BSMMU)",
       "specialty": "Chest Diseases, Asthma, TB & Respiratory Medicine Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Medicomplex",
         "address": "Badurtola, Cumilla",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801904311510"
-      },
-      "id": "1064e385-439c-4961-933c-a8aae40ff9d2"
+        "appointmentNumber": "+8801904311510Call Now"
+      }
     },
     {
+      "id": "7c1f1dfd-4915-462f-b8b8-79b77eb3140f",
+      "departmentId": "fad76ef6-1d72-420d-a4f5-26d5bafb6c76",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahabubur-rahman/",
+      "imageId": "14e0b3e2-1c9d-4699-8dfb-104454ec4527",
       "name": "Dr. Md. Mahabubur Rahman",
       "degree": "MBBS (DMC), BCS (Health), MD (Chest Diseases)",
       "specialty": "Chest Diseases (Cough, Chest Pain, TB, COPD, Allergy, Asthma) Specialist",
@@ -94,9 +116,8 @@
         "hospital": "Mukti Hospital, Comilla",
         "address": "Race Course, Sasongacha, Cumilla - 3500",
         "visitingTime": "3.30pm to 8.30pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801336695385"
-      },
-      "id": "8673b499-c007-499d-b65e-c2dc2fd5e69c"
+        "appointmentNumber": "+8801336695385Call Now"
+      }
     }
   ]
 }

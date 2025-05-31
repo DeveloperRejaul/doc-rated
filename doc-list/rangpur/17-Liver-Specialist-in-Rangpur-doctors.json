@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "7c2552c0-0988-4523-8695-c36c5a93c0d7",
+      "departmentId": "0d72ffb8-917e-4c30-b393-929556590a8a",
+      "link": "https://www.doctorbangladesh.com/dr-zia-hayder-bosunia/",
+      "imageId": "405a7d21-b7b3-4ddd-9bc4-3ffbdede0f20",
       "name": "Dr. Zia Hayder Bosunia",
       "degree": "MBBS, FCPS (Medicine), MD (Hepatology), ERCP",
       "specialty": "Liver & Medicine Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Popular Diagnostic Center, Rangpur",
         "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787813"
-      },
-      "id": "f5f6a6aa-e594-4088-b6ac-47bbe692cf5e"
+        "appointmentNumber": "+8809666787813Call Now"
+      }
     },
     {
+      "id": "f40b24f6-0e6d-4aa5-a55e-726837533ffc",
+      "departmentId": "0d72ffb8-917e-4c30-b393-929556590a8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-nurul-islam-khan/",
+      "imageId": "c0d7f394-1b17-4000-8143-38aae2273142",
       "name": "Dr. Md. Nurul Islam Khan",
       "degree": "MBBS, MD (Hepatology)",
       "specialty": "Liver Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Update Diagnostic, Rangpur",
         "address": "Dhap, Jail Road, Rangpur",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801971555555"
-      },
-      "id": "6ec59be1-efda-43f0-942c-dbd948de3d04"
+        "appointmentNumber": "+8801971555555Call Now"
+      }
     },
     {
+      "id": "5d1e4f65-54f4-4400-8d09-47791223c35e",
+      "departmentId": "0d72ffb8-917e-4c30-b393-929556590a8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahbub-hussain/",
+      "imageId": "3975bd15-b0c4-46a5-bd36-f6d9ad7c422f",
       "name": "Dr. Md. Mahbub Hussain",
       "degree": "MBBS, MD (Hepatology)",
       "specialty": "Liver Specialist",
@@ -38,9 +48,8 @@
         "hospital": "Popular Diagnostic Center, Rangpur",
         "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787813"
-      },
-      "id": "a2c94524-7458-424f-8d57-bf8ebdb757a8"
+        "appointmentNumber": "+8809666787813Call Now"
+      }
     }
   ]
 }

@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "26a30179-622c-4255-b52a-d45fd522911e",
+      "departmentId": "b252a2ee-f1d2-4f41-b66b-23c9de735f3d",
+      "link": "https://www.doctorbangladesh.com/drmdatiqurrahman/",
+      "imageId": "5d538e40-c520-4ef5-b86e-4607726142a1",
       "name": "Dr. Md. Atiqur Rahaman",
       "degree": "BDS (RAJ)",
       "specialty": "Oral & Dental Surgeon",
@@ -10,11 +14,14 @@
         "hospital": "Atiq's Dental & Implant Centre",
         "address": "Holding No: 224/220, Amin Tower, Jhawtola, Cumilla",
         "visitingTime": "4pm to 10pm (Friday on Patient Demand)",
-        "appointmentNumber": "+8801731042167"
-      },
-      "id": "4fecf4eb-3726-4a11-9165-2e74885f9c14"
+        "appointmentNumber": "+8801731042167Call Now"
+      }
     },
     {
+      "id": "a5d76afe-f953-4f4b-87d0-e18502a0b2b2",
+      "departmentId": "b252a2ee-f1d2-4f41-b66b-23c9de735f3d",
+      "link": "https://www.doctorbangladesh.com/dr-sakina-akter/",
+      "imageId": "dd135fa4-08c8-4aa7-a18d-2b1d285e4b56",
       "name": "Dr. Sakina Akter",
       "degree": "BDS, BCS",
       "specialty": "Oral & Dental Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "Sakina's Dental Sense",
         "address": "432, Nazrul Avenue, Kandirpar, Cumilla",
         "visitingTime": "3pm to 8.30pm (Everyday)",
-        "appointmentNumber": "+8801716982626"
-      },
-      "id": "fab889a3-5b64-45dc-99be-838e5246211d"
+        "appointmentNumber": "+8801716982626Call Now"
+      }
     },
     {
+      "id": "63550a8f-7ec1-430f-87a6-60b0238795e9",
+      "departmentId": "b252a2ee-f1d2-4f41-b66b-23c9de735f3d",
+      "link": "https://www.doctorbangladesh.com/dr-md-mostafizur-rahman-khandaker/",
+      "imageId": "53ef6767-8f49-4de1-a6cc-f0db4a2850a3",
       "name": "Dr. Md. Mostafizur Rahman Khandaker",
       "degree": "BDS, PGT (Oral & Maxillofacial Surgery)",
       "specialty": "Oral & Dental Surgeon, Smile Designer",
@@ -38,11 +48,14 @@
         "hospital": "Mostafizur's DentalKidney Laparoscopy Specialized Hospital",
         "address": "225/4 Shaheed Shamsul Haque Road, Jhawtala, Cumilla",
         "visitingTime": "10am to 8pm (Friday On Call)",
-        "appointmentNumber": "+8801316503605"
-      },
-      "id": "115b61ed-fb40-4a48-9f3f-fe93c9b093bd"
+        "appointmentNumber": "+8801316503605Call Now"
+      }
     },
     {
+      "id": "b161e46e-f125-4700-bffc-4bc239545533",
+      "departmentId": "b252a2ee-f1d2-4f41-b66b-23c9de735f3d",
+      "link": "https://www.doctorbangladesh.com/dr-ariful-rahman/",
+      "imageId": "228bd384-9c00-49d7-af19-b9226cad6780",
       "name": "Dr. Ariful Rahman",
       "degree": "BDS (CMC), BCS (Health), PGT, DDS (Dental Surgery)",
       "specialty": "Oral & Dental Surgeon",
@@ -52,11 +65,14 @@
         "hospital": "Moon Hospital, Comilla",
         "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801919496666"
-      },
-      "id": "35f3bab3-259a-4816-b21b-92c6565c721e"
+        "appointmentNumber": "+8801919496666Call Now"
+      }
     },
     {
+      "id": "318a2f4c-09a7-4d89-b6a6-b4eeb80a031e",
+      "departmentId": "b252a2ee-f1d2-4f41-b66b-23c9de735f3d",
+      "link": "https://www.doctorbangladesh.com/dr-abu-saeed-ibn-harun/",
+      "imageId": "d1a44890-c325-4032-8598-242f4f491fbd",
       "name": "Dr. Abu Saeed Ibn Harun",
       "degree": "BDS, MS",
       "specialty": "Oral & Dental Specialist & Surgeon",
@@ -66,11 +82,14 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "3pm to 8pm (Closed: Tues & Wednesday)",
-        "appointmentNumber": "+8801711144786"
-      },
-      "id": "8acf502b-3741-4ce4-ac9d-2572488ec3ca"
+        "appointmentNumber": "+8801711144786Call Now"
+      }
     },
     {
+      "id": "e0adec00-c785-4689-8e35-f4aa134cb646",
+      "departmentId": "b252a2ee-f1d2-4f41-b66b-23c9de735f3d",
+      "link": "https://www.doctorbangladesh.com/dr-ishrat-jahan-tanna/",
+      "imageId": "c6384665-a783-46e5-a758-e1f56abe81e3",
       "name": "Dr. Ishrat Jahan Tanna",
       "degree": "BDS (CMC)",
       "specialty": "Oral & Dental Surgeon",
@@ -80,11 +99,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Comilla",
         "address": "House # 29, Kotbari Road, Tomsom Bridge, Cumilla",
         "visitingTime": "9am to 1pm (Closed: Friday)",
-        "appointmentNumber": "+8801841212275"
-      },
-      "id": "ab5f9c08-fcc0-4f1d-89c4-e214c987d0ad"
+        "appointmentNumber": "+8801841212275Call Now"
+      }
     },
     {
+      "id": "72b35aea-6b38-4c02-8332-c1ac0df6aaa4",
+      "departmentId": "b252a2ee-f1d2-4f41-b66b-23c9de735f3d",
+      "link": "https://www.doctorbangladesh.com/dr-md-shoyeb/",
+      "imageId": "07031399-d4b6-4133-8dbd-7c148dd3100b",
       "name": "Dr. Md. Shoyeb",
       "degree": "BDS (Dhaka), BCS (Health), PGT (DDC)",
       "specialty": "Oral & Dental Surgeon",
@@ -94,11 +116,14 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801712631367"
-      },
-      "id": "5047e05d-d1e9-4b2c-a5e1-48d8a31449be"
+        "appointmentNumber": "+8801712631367Call Now"
+      }
     },
     {
+      "id": "76c5b0ae-b92a-4541-86e6-45e7a1791832",
+      "departmentId": "b252a2ee-f1d2-4f41-b66b-23c9de735f3d",
+      "link": "https://www.doctorbangladesh.com/dr-tanim-tansuva/",
+      "imageId": "d26d93ed-61f4-4b67-a477-43f1ae8cf301",
       "name": "Dr. Tanim Tasnova",
       "degree": "BDS (Dhaka), PGT (OMS)",
       "specialty": "Oral & Dental Specialist & Surgeon",
@@ -108,11 +133,14 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "9am to 1pm & 4.30pm to 8.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801711144786"
-      },
-      "id": "e2cc236c-498a-4c99-87d4-a8a683297ae6"
+        "appointmentNumber": "+8801711144786Call Now"
+      }
     },
     {
+      "id": "ebe41453-e0d8-4d26-a56d-78356bb6e525",
+      "departmentId": "b252a2ee-f1d2-4f41-b66b-23c9de735f3d",
+      "link": "https://www.doctorbangladesh.com/dr-shahnaz-khan-joya/",
+      "imageId": "b9cb6928-48ac-4ed2-84b8-b40dd39752c5",
       "name": "Dr. Shahnaz Khan Joya",
       "degree": "BDS (Dhaka), PGT (BSMMU)",
       "specialty": "Oral & Dental Specialist & Surgeon",
@@ -122,25 +150,14 @@
         "hospital": "Comilla Trauma Center",
         "address": "511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809612808182"
-      },
-      "id": "59d17fb2-2603-4829-a361-c209c69cd064"
+        "appointmentNumber": "+8809612808182Call Now"
+      }
     },
     {
-      "name": "Dr. Md. Abul Kashem Bahar",
-      "degree": "BDS (CMC), PGT (Conservative Dentistry & Endodontics)",
-      "specialty": "Oral & Dental Surgeon",
-      "workplace": "Khairunnesa Medical College & Hospital",
-      "info": "Dr. Md. Abul Kashem Bahar is a Dentist in Comilla. His qualification is BDS (CMC), PGT (Conservative Dentistry & Endodontics). He is a Medical Officer, Dentistry at Khairunnesa Medical College & Hospital. He regularly provides treatment to his patients at Rahmania Oral & Dental Care. Practicing hour of Dr. Md. Abul Kashem Bahar at Rahmania Oral & Dental Care is 10am to 1pm & 3pm to 9pm (Closed: Friday).",
-      "chamber": {
-        "hospital": "Rahmania Oral & Dental Care",
-        "address": "Opposite the Hotel Salauddin, Laksam Road, Cumilla",
-        "visitingTime": "10am to 1pm & 3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801705125529"
-      },
-      "id": "05b04534-7c0a-4535-a1bd-af580c4cdbb2"
-    },
-    {
+      "id": "c4e5f22f-4a13-4b71-bbe6-a028d02d6b3e",
+      "departmentId": "b252a2ee-f1d2-4f41-b66b-23c9de735f3d",
+      "link": "https://www.doctorbangladesh.com/dr-tanzila-fatema/",
+      "imageId": "761d9c8e-aaa3-433b-9928-4db4f86ea939",
       "name": "Dr. Tanzila Fatema",
       "degree": "BDS (DU), Higher Training (Cosmetics Dentistry)",
       "specialty": "Oral & Dental Surgeon",
@@ -150,25 +167,48 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "10am to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8801862511123"
-      },
-      "id": "eb8e2c29-3c34-45a5-9eea-458b5ea53942"
+        "appointmentNumber": "+8801862511123Call Now"
+      }
     },
     {
+      "id": "4410b175-66a9-400c-bdde-e9af5457deb6",
+      "departmentId": "b252a2ee-f1d2-4f41-b66b-23c9de735f3d",
+      "link": "https://www.doctorbangladesh.com/dr-md-abul-kashem-bahar/",
+      "imageId": "d50d980f-57ea-492b-8e3f-12a9eedd02fb",
+      "name": "Dr. Md. Abul Kashem Bahar",
+      "degree": "BDS (CMC), PGT (Conservative Dentistry & Endodontics)",
+      "specialty": "Oral & Dental Surgeon",
+      "workplace": "Khairunnesa Medical College & Hospital",
+      "info": "Dr. Md. Abul Kashem Bahar is a Dentist in Comilla. His qualification is BDS (CMC), PGT (Conservative Dentistry & Endodontics). He is a Medical Officer, Dentistry at Khairunnesa Medical College & Hospital. He regularly provides treatment to his patients at Rahmania Oral & Dental Care. Practicing hour of Dr. Md. Abul Kashem Bahar at Rahmania Oral & Dental Care is 10am to 1pm & 3pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Rahmania Oral & Dental Care",
+        "address": "Opposite the Hotel Salauddin, Laksam Road, Cumilla",
+        "visitingTime": "10am to 1pm & 3pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801705125529Call Now"
+      }
+    },
+    {
+      "id": "41c7dc7e-7095-40aa-9fa8-b8c739ec4548",
+      "departmentId": "b252a2ee-f1d2-4f41-b66b-23c9de735f3d",
+      "link": "https://www.doctorbangladesh.com/dr-ummay-salma/",
+      "imageId": "57e0ff42-ae63-4e9e-97ce-7a56d980a579",
       "name": "Dr. Ummay Salma",
       "degree": "BDS (Dhaka Dental College), BCS (Health)MS (Prosthodontics), Bangabandhu Sheikh Mujib Medical University (BSMMU)",
       "specialty": "Oral & Dental Surgeon, Prosthodontist, Dental Implantologist, TMD Specialist, Smile Designer",
       "workplace": "Cumilla Medical College & Hospital",
-      "info": "Dentex\nAddress: QR Tower, Badurtola, Comilla\nVisiting Hour: 4pm to 8pm (Closed: Friday)\nAppointment: +8801919496666\nCall Now",
+      "info": "Dentex Address: QR Tower, Badurtola, Comilla Visiting Hour: 4pm to 8pm (Closed: Friday) Appointment: +8801919496666 Call Now",
       "chamber": {
         "hospital": "Moon Hospital, Comilla",
         "address": "Room 213, Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+88 01919496666"
-      },
-      "id": "bc340ff4-6ce9-4ec4-9290-04d4100683b5"
+        "appointmentNumber": "+88 01919496666Call Now"
+      }
     },
     {
+      "id": "2f17b093-b985-4fc8-9009-fa83b6df4720",
+      "departmentId": "b252a2ee-f1d2-4f41-b66b-23c9de735f3d",
+      "link": "https://www.doctorbangladesh.com/dr-tajul-islam/",
+      "imageId": "634237b9-493c-436b-bf18-abff7883c2ec",
       "name": "Dr. Tajul Islam",
       "degree": "BDS (Dhaka Dental College), BCS(Health), PGT (Oral & Maxillofacial Surgery)",
       "specialty": "Oral & Dental specialist and Surgeon",
@@ -178,11 +218,14 @@
         "hospital": "Comilla Popular Hospital Pvt. Ltd.",
         "address": "Laksam Road, Cumilla",
         "visitingTime": "3.30pm to 8.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801914458646"
-      },
-      "id": "5b68f37c-51ce-4eac-b4fe-feac01e913a5"
+        "appointmentNumber": "+8801914458646Call Now"
+      }
     },
     {
+      "id": "07f0a258-a871-401e-b8e5-130f665e0515",
+      "departmentId": "b252a2ee-f1d2-4f41-b66b-23c9de735f3d",
+      "link": "https://www.doctorbangladesh.com/dr-rifat-tamanna/",
+      "imageId": "be00e1f9-1ac2-4ed3-8d7c-d460ef353c55",
       "name": "Dr. Rifat Tamanna",
       "degree": "BDS (CMC), PGT (Pediatric Dentistry)",
       "specialty": "Oral & Dental Surgeon",
@@ -192,11 +235,14 @@
         "hospital": "Safe Dental Zone, Kotbari, Cumilla",
         "address": "Kotbari Adarsha Complex, Opposite to Singer Showroom Changini Dakshin Mor, Kotbari, Cumilla",
         "visitingTime": "9am to 2pm & 4pm to 8pm",
-        "appointmentNumber": "+88 01864317242"
-      },
-      "id": "cb02b707-e5fb-4a71-bb05-15daeb99ed92"
+        "appointmentNumber": "+88 01864317242Call Now"
+      }
     },
     {
+      "id": "93a6ff91-941d-486c-b54d-c21a32bf236f",
+      "departmentId": "b252a2ee-f1d2-4f41-b66b-23c9de735f3d",
+      "link": "https://www.doctorbangladesh.com/dr-abu-raihan/",
+      "imageId": "7d1fbb3a-b489-46af-a66c-924bc838f6de",
       "name": "Dr. Abu Raihan",
       "degree": "BDS (DU), PGT (OMS)",
       "specialty": "Dental Implant, Specialist in Smile Designing & Reconstructive Dentistry",
@@ -206,11 +252,14 @@
         "hospital": "A R Dental Point",
         "address": "903, South Bagichagaon (Beside SEL Anjuman Tower), Cumilla",
         "visitingTime": "4pm to 8.30pm (Everyday)",
-        "appointmentNumber": "+8801717517777"
-      },
-      "id": "67fd2e53-f175-4521-bd62-0b88cc90ba4d"
+        "appointmentNumber": "+8801717517777Call Now"
+      }
     },
     {
+      "id": "8809d048-f089-4d0c-be7c-40e7b2e13674",
+      "departmentId": "b252a2ee-f1d2-4f41-b66b-23c9de735f3d",
+      "link": "https://www.doctorbangladesh.com/dr-saidul-islam-khan/",
+      "imageId": "6c915152-ee7f-4477-961a-5a8aa7b6446e",
       "name": "Dr. Saidul Islam Khan",
       "degree": "BDS, PGT (Oral & Maxillofacial Surgery)",
       "specialty": "Dental Surgery, Cosmetic Dentistry & Dental Implant Specialist",
@@ -220,11 +269,14 @@
         "hospital": "Dr. Saidul Dental & Implant Centre",
         "address": "Lucky House, Laksam Road, Tomsom Bridge, Comilla",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801861075550"
-      },
-      "id": "217e0bce-77e4-454b-ae77-f79ce7cdff22"
+        "appointmentNumber": "+8801861075550Call Now"
+      }
     },
     {
+      "id": "a516af24-108e-4463-8f81-11ef0ceaa945",
+      "departmentId": "b252a2ee-f1d2-4f41-b66b-23c9de735f3d",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdul-al-wahid/",
+      "imageId": "840e8c74-4420-4582-a073-e2ad04dd482c",
       "name": "Dr. Md. Abdul Al Wahid",
       "degree": "BDS, PGT (Oral & Maxillofacial Surgery)",
       "specialty": "Oral & Dental Surgeon, Smile Designer",
@@ -234,11 +286,14 @@
         "hospital": "Motiur's Dental",
         "address": "Debidwar Ibn Sina Hospital (Pvt.) Ltd, Debidwar, Cumilla",
         "visitingTime": "10am to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801756649595"
-      },
-      "id": "2f762bf0-42b4-46f0-9644-217a609ab2fd"
+        "appointmentNumber": "+8801756649595Call Now"
+      }
     },
     {
+      "id": "b6f0d42f-ad9d-4bbc-8757-187f5feb78d8",
+      "departmentId": "b252a2ee-f1d2-4f41-b66b-23c9de735f3d",
+      "link": "https://www.doctorbangladesh.com/dr-md-sawkat-kamal/",
+      "imageId": "79207ec2-c152-4c67-9663-35c3e3ed4201",
       "name": "Dr. Md. Sawkat Kamal",
       "degree": "BDS (DU), PGT (DDC)",
       "specialty": "Oral & Maxillofacial Surgery Specialist",
@@ -248,9 +303,8 @@
         "hospital": "S K Dental, Cumilla",
         "address": "Ramghat, Kandirpar, Cumilla - 3500",
         "visitingTime": "4pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801911287292"
-      },
-      "id": "c0b306d7-6824-4883-8ba5-d77437e7a477"
+        "appointmentNumber": "+8801911287292Call Now"
+      }
     }
   ]
 }

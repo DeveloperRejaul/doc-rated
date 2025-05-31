@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "1c913b70-9158-4f56-b80e-51db09de418d",
+      "departmentId": "e793119f-6cc7-4e63-a800-f130f52f80c6",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-habibullah-2/",
+      "imageId": "6d476f8c-aa49-4e18-8210-c6bfdd533041",
       "name": "Dr. Mohammad Habibullah",
       "degree": "MBBS, BCS (Health), MS (EYE)",
       "specialty": "Eye, Retina Specialist & Phaco Surgeon",
@@ -10,11 +14,14 @@
         "hospital": "Pranto Specialized Hospital, Mymensingh",
         "address": "67, Charpara, Mymensingh",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801788222000"
-      },
-      "id": "1e97b53c-ab59-44af-846e-bc3e20595ff8"
+        "appointmentNumber": "+8801788222000Call Now"
+      }
     },
     {
+      "id": "cd5a3360-0968-4e4e-8949-63b0afc9af46",
+      "departmentId": "e793119f-6cc7-4e63-a800-f130f52f80c6",
+      "link": "https://www.doctorbangladesh.com/dr-foysal-kader-shah-chowdhury-imon/",
+      "imageId": "4956148f-6088-4f06-8a83-bcbe04a8e8d0",
       "name": "Dr. Foysal Kader Shah Chowdhury Imon",
       "degree": "MBBS (Dhaka), BCS (Health), DO, MCPS (EYE)",
       "specialty": "Eye Specialist & Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "Union Specialized Hospital, Mymensingh",
         "address": "337, Charpara, Mymensingh",
         "visitingTime": "Saturady, Monday & Wednesday",
-        "appointmentNumber": "+8801958280000"
-      },
-      "id": "d337735d-c19c-42d0-83ee-33fbc62baf6a"
+        "appointmentNumber": "+8801958280000Call Now"
+      }
     },
     {
+      "id": "61679efe-7f97-48d6-b9fd-f7a24e596a3a",
+      "departmentId": "e793119f-6cc7-4e63-a800-f130f52f80c6",
+      "link": "https://www.doctorbangladesh.com/dr-md-fakhrul-islam-eye/",
+      "imageId": "10e35242-c859-400f-ae64-8eda091bc91f",
       "name": "Dr. Md. Fakhrul Islam",
       "degree": "MBBS, DO (DU), FICS, Training (Microsurgery & Vitreo Retina)",
       "specialty": "Eye Specialist & Phaco Surgeon",
@@ -38,23 +48,25 @@
         "hospital": "Union Specialized Hospital, Mymensingh",
         "address": "337, Charpara, Mymensingh",
         "visitingTime": "Sat to Wed (Closed: Friday)",
-        "appointmentNumber": "+8801958280000"
-      },
-      "id": "bf2dbdc8-04da-419d-83f7-792952733b69"
+        "appointmentNumber": "+8801958280000Call Now"
+      }
     },
     {
+      "id": "e833b48b-2af8-4ebb-a221-edb355781018",
+      "departmentId": "e793119f-6cc7-4e63-a800-f130f52f80c6",
+      "link": "https://www.doctorbangladesh.com/dr-mst-nahid-sultana/",
+      "imageId": "7af25496-cc23-4018-9598-4c30411259e2",
       "name": "Dr. Mst. Nahid Sultana",
       "degree": "MBBS (Dhaka), BCS (Health), MS-Eye (BSMMU)",
       "specialty": "Eye Specialist & Phaco Surgeon",
       "workplace": "Mymensingh Medical College & Hospital",
-      "info": "Asha Diagnostic Center\nAddress: Opposed to Fulpur Hospital, Mymensingh\nVisiting Hour: 3pm to 8pm (Friday)\nAppointment: +8801719190155\nCall Now",
+      "info": "Asha Diagnostic Center Address: Opposed to Fulpur Hospital, Mymensingh Visiting Hour: 3pm to 8pm (Friday) Appointment: +8801719190155 Call Now",
       "chamber": {
         "hospital": "Sayem Diagno Complex & Hospital, Mymensingh",
         "address": "Unit 2 (Diagnostic) 213, 214 Charpara, Dhaka Road, Mymensingh",
         "visitingTime": "3pm to 8:00pm (Closed: Friday)",
-        "appointmentNumber": "+8801719190155"
-      },
-      "id": "e56f74c1-5e28-43cf-b95c-dc6a4076399c"
+        "appointmentNumber": "+8801719190155Call Now"
+      }
     }
   ]
 }

@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "0e065906-23af-49c2-9887-f3240a0d5de5",
+      "departmentId": "d9323a57-c473-4348-bd78-8d25176ee3d0",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-firoz-kabir/",
+      "imageId": "a60cf33c-1cc4-41ef-b81e-8a22ffbca1b1",
       "name": "Prof. Dr. Md. Firoz Kabir",
       "degree": "MBBS, FCPS (ENT)",
       "specialty": "Eye Diseases Specialist & Phaco Surgeon",
@@ -10,11 +14,14 @@
         "hospital": "Mukti Hospital, Comilla",
         "address": "Race Course, Sasongacha, Cumilla - 3500",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801834220141"
-      },
-      "id": "13188f5d-1a1e-4564-9ce8-d3c99e8945a1"
+        "appointmentNumber": "+8801834220141Call Now"
+      }
     },
     {
+      "id": "298b0f28-549f-4130-96bc-d33873cf434d",
+      "departmentId": "d9323a57-c473-4348-bd78-8d25176ee3d0",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdul-kaium/",
+      "imageId": "cd359785-d014-4e60-9458-bd4395c4d16a",
       "name": "Dr. Md. Abdul Quayum Khan",
       "degree": "MBBS, BCS (Health), FCPS (EYE), MS (EYE)",
       "specialty": "Eye Diseases (Retina, Glaucoma, Cataract) Specialist & Phaco Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Comilla",
         "address": "House # 29, Kotbari Road, Tomsom Bridge, Cumilla",
         "visitingTime": "4pm to 6pm (Sun, Mon, Tue & Wed)",
-        "appointmentNumber": "+8801841212275"
-      },
-      "id": "2dabf330-f241-495a-b951-2276b6da8254"
+        "appointmentNumber": "+8801841212275Call Now"
+      }
     },
     {
+      "id": "8b1c4d96-04df-4275-b28b-53f7cdd567c1",
+      "departmentId": "d9323a57-c473-4348-bd78-8d25176ee3d0",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-nazmus-saadat/",
+      "imageId": "9b79cdb8-8477-43d7-be8a-6172a497b2ae",
       "name": "Prof. Dr. Md. Nazmus Saadat",
       "degree": "MBBS, DO (DU), FCPS (EYE)",
       "specialty": "Eye (Retina, Glaucoma, Cataract) Specialist & Phaco Surgeon",
@@ -38,11 +48,14 @@
         "hospital": "Moon Hospital, Comilla",
         "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
         "visitingTime": "5pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801766556655"
-      },
-      "id": "b3890748-c2cb-488e-838a-cdedcbdde7f2"
+        "appointmentNumber": "+8801766556655Call Now"
+      }
     },
     {
+      "id": "1a780f9d-0223-4a20-95b6-621983724af8",
+      "departmentId": "d9323a57-c473-4348-bd78-8d25176ee3d0",
+      "link": "https://www.doctorbangladesh.com/dr-sayaka-sultana/",
+      "imageId": "5af62738-c6f5-4311-8799-ce39d450360d",
       "name": "Dr. Sayaka Sultana",
       "degree": "MBBS, MS (EYE-BSMMU)",
       "specialty": "Eye Diseases Specialist & Phaco Surgeon",
@@ -52,11 +65,14 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "5pm to 7pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801711144786"
-      },
-      "id": "a2f96d95-a63a-47ec-b09e-3a3f751f2dc4"
+        "appointmentNumber": "+8801711144786Call Now"
+      }
     },
     {
+      "id": "1bf15eef-15d1-44ec-8a9e-671610e9fca3",
+      "departmentId": "d9323a57-c473-4348-bd78-8d25176ee3d0",
+      "link": "https://www.doctorbangladesh.com/dr-anis-uddin-ahmed/",
+      "imageId": "ab4dac15-0db3-41c8-8937-8558363da2a1",
       "name": "Dr. Anis Uddin Ahmed",
       "degree": "MBBS, BCS (Health), MS (EYE)",
       "specialty": "Eye Diseases Specialist & Micro Surgeon",
@@ -66,11 +82,14 @@
         "hospital": "Comilla Popular Hospital Pvt. Ltd.",
         "address": "Laksam Road, Cumilla",
         "visitingTime": "3pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801711785442"
-      },
-      "id": "dbb2d9d6-13af-41fe-954a-54c792835469"
+        "appointmentNumber": "+8801711785442Call Now"
+      }
     },
     {
+      "id": "dd5710e9-554a-49a3-8676-6fa41a69918a",
+      "departmentId": "d9323a57-c473-4348-bd78-8d25176ee3d0",
+      "link": "https://www.doctorbangladesh.com/dr-md-jahangir-alam-2/",
+      "imageId": "1b74ce47-faf5-489a-bee6-01f817c615d0",
       "name": "Dr. Md. Jahangir Alam",
       "degree": "MBBS, DO (EYE)",
       "specialty": "Eye Diseases Specialist & Phaco Surgeon",
@@ -80,23 +99,25 @@
         "hospital": "Comilla Trauma Center",
         "address": "511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla",
         "visitingTime": "4pm to 8pm (Sat, Mon Tue & Thu)",
-        "appointmentNumber": "+8809612808182"
-      },
-      "id": "21698711-2876-4ec8-bb75-8e8511094516"
+        "appointmentNumber": "+8809612808182Call Now"
+      }
     },
     {
+      "id": "342f9985-c6b7-4842-9174-644729682b18",
+      "departmentId": "d9323a57-c473-4348-bd78-8d25176ee3d0",
+      "link": "https://www.doctorbangladesh.com/dr-md-nowroz-bahar-pintu/",
+      "imageId": "e0344c13-9cf9-4544-9ab4-dfdc6d36f082",
       "name": "Dr. Md. Nowroz Bahar (Pintu)",
       "degree": "MBBS, DO, FVRS",
       "specialty": "Eye Specialist, Phaco & Retina Surgeon",
       "workplace": "Bangladesh Eye Hospital, Mirpur, Dhaka",
-      "info": "Retina Glaucoma Center Super Speciality Eye Hospital (RGC)\nAddress: 57/E, Panthapath, Dhaka (Near BRB Hospital)\nVisiting Hour: 4pm to 8pm (Monday)\nAppointment: +8801301481208\nCall Now",
+      "info": "Retina Glaucoma Center Super Speciality Eye Hospital (RGC) Address: 57/E, Panthapath, Dhaka (Near BRB Hospital) Visiting Hour: 4pm to 8pm (Monday) Appointment: +8801301481208 Call Now",
       "chamber": {
         "hospital": "Bangladesh Eye Hospital, Mirpur",
         "address": "Sumi Tower, 66 Zoo Road, Mirpur-2, Dhaka-1216",
         "visitingTime": "5pm to 9pm (Sat, Sun, Tue & Wed)",
-        "appointmentNumber": "+8801301481208"
-      },
-      "id": "1372b167-68cd-4e3c-bb83-7f2895b4ff86"
+        "appointmentNumber": "+8801301481208Call Now"
+      }
     }
   ]
 }

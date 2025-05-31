@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "e512790b-fd5a-412c-a408-3ca6ddc01b6e",
+      "departmentId": "ced3256e-7d52-4c05-a820-4733cec23b1e",
+      "link": "https://www.doctorbangladesh.com/dr-md-habibur-rahman-tarek/",
+      "imageId": "7cd528f5-aca1-4b29-b00a-a41633d543c8",
       "name": "Dr. Md. Habibur Rahman Tarek",
       "degree": "MBBS, DCP (Clinical Pathology), FCPS (Hematology)",
       "specialty": "Blood Diseases & Cancer Specialist",
@@ -10,9 +14,8 @@
         "hospital": "Popular Diagnostic Center, Mymensingh",
         "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
         "visitingTime": "4pm to 5:30pm (Everyday)",
-        "appointmentNumber": "+8809666787814"
-      },
-      "id": "59f90025-9d57-431d-a577-87378eaa10a8"
+        "appointmentNumber": "+8809666787814Call Now"
+      }
     }
   ]
 }

@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "0e7ca457-63d5-41de-924e-1ae5e6a34f76",
+      "departmentId": "0683e044-4fa6-4b71-9980-bc89f92ea601",
+      "link": "https://www.doctorbangladesh.com/dr-sarwar-ibne-salam/",
+      "imageId": "c572c468-549e-49d5-9c30-0083c428e247",
       "name": "Dr. Sarwar Ibne Salam",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Orthopedic & Pediatric Orthopedic Surgeon",
@@ -10,11 +14,14 @@
         "hospital": "Health and Hope Hospital",
         "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
         "visitingTime": "6pm to 9pm (Sun, Mon & Thu) & 4pm to 9pm (Tue)",
-        "appointmentNumber": "+8809611996699"
-      },
-      "id": "6e94ed72-b223-41a4-bfdc-615d92d1bd62"
+        "appointmentNumber": "+8809611996699Call Now"
+      }
     },
     {
+      "id": "c8d07918-0ec0-40e8-97c9-b1242257df58",
+      "departmentId": "0683e044-4fa6-4b71-9980-bc89f92ea601",
+      "link": "https://www.doctorbangladesh.com/dr-quazi-shahid-ul-alam/",
+      "imageId": "3c30c6f8-d0ff-4d63-8c4e-378e2a8d66bc",
       "name": "Dr. Quazi Shahid-Ul-Alam",
       "degree": "MBBS (DMC), BCS (Health), MS (ORTHO), DMC",
       "specialty": "Pediatric Orthopedic (Birth Deformity, Spine, Trauma Rheumatic & Joint) Surgery Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "Room - 437, Old Building, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "5pm to 9pm (Closed: Mon & Friday)",
-        "appointmentNumber": "+8801766142663"
-      },
-      "id": "9f975f6c-da17-4122-a085-60771c29d881"
+        "appointmentNumber": "+8801766142663Call Now"
+      }
     },
     {
+      "id": "6fe05315-d461-4e6a-8c97-44aa6dd21931",
+      "departmentId": "0683e044-4fa6-4b71-9980-bc89f92ea601",
+      "link": "https://www.doctorbangladesh.com/dr-qaisur-rabbi/",
+      "imageId": "908c2f76-6a61-4641-8d47-76139570cdf7",
       "name": "Dr. Qaisur Rabbi",
       "degree": "MBBS, D-ORTHO",
       "specialty": "Pediatric Orthopedic Surgery Specialist",
@@ -38,25 +48,31 @@
         "hospital": "Health and Hope Hospital",
         "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
         "visitingTime": "Only with prior appointment (Sun, Mon, Wed & Thu)",
-        "appointmentNumber": "+8801534919618"
-      },
-      "id": "3af75e51-4851-4636-b560-7136f5aadcae"
+        "appointmentNumber": "+8801534919618Call Now"
+      }
     },
     {
+      "id": "0d53d42e-28f3-4e46-bdb0-830df4132dc9",
+      "departmentId": "0683e044-4fa6-4b71-9980-bc89f92ea601",
+      "link": "https://www.doctorbangladesh.com/dr-biplob-majumder/",
+      "imageId": "ef03a80e-de59-48ec-938c-14e043009660",
       "name": "Dr. Biplab Mozumder",
       "degree": "MBBS, BCS (Health), D-ORTHO, MS (Orthopedics)",
       "specialty": "Pediatric Orthopedic Surgeon",
       "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
-      "info": "Parkview Hospital, Chittagong\nAddress: 94/103, Katalganj Road, Panchlaish, Chattogram\nVisiting Hour: 6pm to 9pm (2nd and 4th Thursday)\nAppointment: +8801892962636\nCall Now",
+      "info": "Parkview Hospital, Chittagong Address: 94/103, Katalganj Road, Panchlaish, Chattogram Visiting Hour: 6pm to 9pm (2nd and 4th Thursday) Appointment: +8801892962636 Call Now",
       "chamber": {
         "hospital": "Labaid Diagnostic, Uttara (Unit 02)",
         "address": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
         "visitingTime": "5pm to 7pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801676008580"
-      },
-      "id": "b173d952-a779-4c5b-b800-6c4936036be8"
+        "appointmentNumber": "+8801676008580Call Now"
+      }
     },
     {
+      "id": "7213e025-e448-4612-b53f-7191e2bd595b",
+      "departmentId": "0683e044-4fa6-4b71-9980-bc89f92ea601",
+      "link": "https://www.doctorbangladesh.com/dr-nripen-kumar-kundu/",
+      "imageId": "e3026d7f-5446-4259-99aa-f5ca92970e74",
       "name": "Dr. Nripen Kumar Kundu",
       "degree": "MBBS, FCPS (Surgery), D-ORTHO, AO Trauma (BASIC)",
       "specialty": "Orthopedic Specialist & Trauma Surgeon",
@@ -66,11 +82,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801715012020"
-      },
-      "id": "e77f6bc2-5454-438f-803a-4f30ac923c72"
+        "appointmentNumber": "+8801715012020Call Now"
+      }
     },
     {
+      "id": "963057f0-ab80-4f46-a9c3-3a2db65e3d02",
+      "departmentId": "0683e044-4fa6-4b71-9980-bc89f92ea601",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-rubaiath-tashfin/",
+      "imageId": "75fc97da-4170-44e6-8d29-0b88f600cd3f",
       "name": "Dr. Mohammad Rubaiath Tashfin",
       "degree": "MBBS, MS (Orthopedic Surgery)",
       "specialty": "Paediatric Orthopaedic Surgery & Brachial Plexus Birth Palsy Specialist",
@@ -80,9 +99,8 @@
         "hospital": "Health and Hope Hospital",
         "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
         "visitingTime": "5pm to 8pm (Sunday to Wednesday)",
-        "appointmentNumber": "+8801755799743"
-      },
-      "id": "a5f02997-aae7-438a-8e26-ec2c938358df"
+        "appointmentNumber": "+8801755799743Call Now"
+      }
     }
   ]
 }

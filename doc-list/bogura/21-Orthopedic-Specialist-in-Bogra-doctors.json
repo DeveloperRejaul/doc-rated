@@ -1,20 +1,27 @@
 {
   "doctor": [
     {
+      "id": "50318c0e-b423-4745-b0c6-aa2b6ce4cb94",
+      "departmentId": "95c82c74-e542-4af0-b28b-c65f59fd01f7",
+      "link": "https://www.doctorbangladesh.com/dr-naresh-kumar-roy/",
+      "imageId": "0899c6eb-e4d0-4ee0-b5ae-e75465230d38",
       "name": "Dr. Naresh Kumar Roy",
       "degree": "MBBS, D-ORTHO, MS (ORTHO)",
       "specialty": "Bone Joint, Arthritis, Orthopedics Specialist & Surgeon",
       "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
-      "info": "Doctors Clinic, Bogura\nAddress: Unit 2, Thanthania, Sherpur Road, Bogura\nVisiting Hour: 5pm to 9pm (Closed: Friday)\nAppointment: +8801716106796\nCall Now",
+      "info": "Doctors Clinic, Bogura Address: Unit 2, Thanthania, Sherpur Road, Bogura Visiting Hour: 5pm to 9pm (Closed: Friday) Appointment: +8801716106796 Call Now",
       "chamber": {
         "hospital": "Labaid Diagnostic, Bogura",
         "address": "House # 1872, Sherpur Road, Colony, Bogura",
         "visitingTime": "2.30pm to 5pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801766662777"
-      },
-      "id": "d1ff1e66-e5d2-4efb-a111-6afd4f8b3938"
+        "appointmentNumber": "+8801766662777Call Now"
+      }
     },
     {
+      "id": "af488b19-9734-44ba-8391-e10fdc02a99a",
+      "departmentId": "95c82c74-e542-4af0-b28b-c65f59fd01f7",
+      "link": "https://www.doctorbangladesh.com/dr-md-rezaul-karim/",
+      "imageId": "36b9747f-c8cb-4b07-ad1d-7a81be263593",
       "name": "Dr. Md. Rezaul Karim",
       "degree": "MBBS, BCS (Health), MS (Ortho Surgery), AO Spine (Singapore), Fellow (Ilizarov Surgery)",
       "specialty": "Orthopedic Specialist & Trauma, Spine Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "10am to 8pm (Wednesday), 3pm to 8pm (Thursday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "8b071815-8555-4143-906d-69a7eeb35811"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "b9cdf637-b796-4928-8f3b-51db1552aebe",
+      "departmentId": "95c82c74-e542-4af0-b28b-c65f59fd01f7",
+      "link": "https://www.doctorbangladesh.com/dr-abdullah-al-muti-suborno/",
+      "imageId": "494e4b61-4e64-47c7-b130-a1a495bcbe0c",
       "name": "Dr. Abdullah Al Muti Suborno",
       "degree": "MBBS, BCS (Health), MS (Ortho)",
       "specialty": "Orthopedics Specialist & Trauma Surgeon",
@@ -38,11 +48,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "4pm to 9pm (Closed: Wed & Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "8264375d-b50b-46c6-8126-15896ce8c6c2"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "1cd5fa00-1484-430a-8c21-6efa84d4ff23",
+      "departmentId": "95c82c74-e542-4af0-b28b-c65f59fd01f7",
+      "link": "https://www.doctorbangladesh.com/dr-md-mohiuddin-aslam-koushik/",
+      "imageId": "b58213bb-8303-429c-89dd-66ed2ebca74a",
       "name": "Dr. Md. Mohiuddin Aslam Koushik",
       "degree": "MBBS, BCS (Health), MS (Ortho Surgery), Fellowship (Pain Management)",
       "specialty": "Bone Joint, Spine, Trauma Specialist & Surgeon",
@@ -52,11 +65,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "3pm to 9pm (Sat to Thu) & 9am to 3pm (Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "0713e35d-60b2-4843-ba49-18a4ad793b7b"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "b7d793fb-b6e6-407f-be61-4787c12fa2e4",
+      "departmentId": "95c82c74-e542-4af0-b28b-c65f59fd01f7",
+      "link": "https://www.doctorbangladesh.com/dr-syed-shamsul-arefin-juwel/",
+      "imageId": "09afbd60-4eeb-4c9a-afca-de43827c71fb",
       "name": "Dr. Syed Shamsul Arefin Juwel",
       "degree": "MBBS, BCS (Health), MS (Ortho Surgery)",
       "specialty": "Bone Joint, Fractures, Trauma, Spine Specialist & Surgeon",
@@ -66,11 +82,14 @@
         "hospital": "Saic General Hospital, Bogura",
         "address": "Bhai Pagla Mazar Lane, Thanthania, Bogura",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801936005870"
-      },
-      "id": "292165a2-6839-4149-9fd4-4f2081bc4f93"
+        "appointmentNumber": "+8801936005870Call Now"
+      }
     },
     {
+      "id": "4b6c89cf-edc6-465f-97a8-bbed032795d9",
+      "departmentId": "95c82c74-e542-4af0-b28b-c65f59fd01f7",
+      "link": "https://www.doctorbangladesh.com/dr-md-wadudul-haq-tarafder-nahid/",
+      "imageId": "444099f8-ba65-4cd4-9048-84f53a9b7bd0",
       "name": "Dr. Md. Wadudul Haq Tarafder Nahid",
       "degree": "MBBS, D-ORTHO, MS (ORTHO, BSMMU), AO Spine (Singapore)",
       "specialty": "Bone Joint, Spine, Trauma Specialist & Surgeon",
@@ -80,11 +99,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "3pm to 9pm (Sat to Thu) & 10am to 8pm (Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "e52a49bb-1821-46df-8752-acbf54eabb57"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "eccddd43-4124-4022-9b9a-579ce0959c13",
+      "departmentId": "95c82c74-e542-4af0-b28b-c65f59fd01f7",
+      "link": "https://www.doctorbangladesh.com/dr-md-arifur-rahman-talukdar/",
+      "imageId": "eb928c55-84c8-467d-976e-f8fe60c7eb6e",
       "name": "Dr. Md. Arifur Rahman Talukdar",
       "degree": "MBBS, BCS (Health), D-Ortho (NITOR), AO Trauma (India)",
       "specialty": "Orthopedic, Trauma & Spine Surgeon",
@@ -94,11 +116,14 @@
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
         "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801701560011"
-      },
-      "id": "376a8f2c-1483-4a0f-a212-f04856703cda"
+        "appointmentNumber": "+8801701560011Call Now"
+      }
     },
     {
+      "id": "114ae9ed-22e2-4cf1-b76c-1b946f243e14",
+      "departmentId": "95c82c74-e542-4af0-b28b-c65f59fd01f7",
+      "link": "https://www.doctorbangladesh.com/dr-md-nazrul-islam-nahid/",
+      "imageId": "139b4e02-ebf4-4d75-aa64-3f7df9845c3a",
       "name": "Dr. Md. Nazrul Islam Nahid",
       "degree": "MBBS, BCS (Health), MS (Ortho Surgery)",
       "specialty": "Bone Joint, Complex Fractures, Trauma Specialist & Surgeon",
@@ -108,11 +133,14 @@
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
         "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
         "visitingTime": "3pm to 5pm (Closed: Mon & Friday)",
-        "appointmentNumber": "+8801701560011"
-      },
-      "id": "c5e06509-0415-422f-aa06-7310fbd6a303"
+        "appointmentNumber": "+8801701560011Call Now"
+      }
     },
     {
+      "id": "39b70ae1-8ba2-4347-93d3-01643ef7a5f3",
+      "departmentId": "95c82c74-e542-4af0-b28b-c65f59fd01f7",
+      "link": "https://www.doctorbangladesh.com/dr-md-nazibullah/",
+      "imageId": "d61b66ad-f1d6-4173-8812-e15b846bcdea",
       "name": "Dr. Md. Nazibullah",
       "degree": "MBBS (DU), D-ORTHO (DU)",
       "specialty": "Orthopedics Specialist & Trauma Surgeon",
@@ -122,11 +150,14 @@
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
         "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
         "visitingTime": "4pm to 8pm (Closed: Mon & Friday)",
-        "appointmentNumber": "+8801701560011"
-      },
-      "id": "90389c60-d809-47b5-9bd0-7f097147d2fc"
+        "appointmentNumber": "+8801701560011Call Now"
+      }
     },
     {
+      "id": "33acbc00-093c-4657-aadd-b54907dff91c",
+      "departmentId": "95c82c74-e542-4af0-b28b-c65f59fd01f7",
+      "link": "https://www.doctorbangladesh.com/dr-m-a-k-shams-uddin-mintu/",
+      "imageId": "3f6c670c-853f-495e-941c-d20a6acd50a6",
       "name": "Dr. M.A.K. Shams Uddin Mintu",
       "degree": "MBBS, D-ORTHO",
       "specialty": "Orthopedics Specialist & Trauma Surgeon",
@@ -136,11 +167,14 @@
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
         "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
         "visitingTime": "10am to 1pm (Closed: Friday)",
-        "appointmentNumber": "+8801701560011"
-      },
-      "id": "3acdd98c-472b-4d40-9da8-62fbd1d59fa8"
+        "appointmentNumber": "+8801701560011Call Now"
+      }
     },
     {
+      "id": "e51301f2-a0ec-41aa-8bc4-a6c201be4c74",
+      "departmentId": "95c82c74-e542-4af0-b28b-c65f59fd01f7",
+      "link": "https://www.doctorbangladesh.com/dr-a-k-m-shaharul-islam/",
+      "imageId": "24aac024-ae8a-47c0-864f-b41f99fb02af",
       "name": "Dr. A.K.M. Shaharul Islam",
       "degree": "MBBS, D-ORTHO (BSMMU)",
       "specialty": "Orthopedic Specialist & Trauma Surgeon",
@@ -150,9 +184,8 @@
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
         "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
         "visitingTime": "5pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801701560011"
-      },
-      "id": "c3d41b33-218d-424b-b187-10fb9c634cab"
+        "appointmentNumber": "+8801701560011Call Now"
+      }
     }
   ]
 }

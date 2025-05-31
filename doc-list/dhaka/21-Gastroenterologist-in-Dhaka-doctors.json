@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "20336a9e-f4ba-4419-be29-1810ce544f01",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-swapan-kumar-sarkar/",
+      "imageId": "a5dc8ddd-7a8e-4e77-98df-3951ae3ac35a",
       "name": "Prof. Dr. Swapan Kumar Sarkar",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Gastroenterology (Stomach, Liver, Gallbladder, Pancreas) & Medicine Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Labaid Diagnostic, Malibagh",
         "address": "House # B65, Chowdhury Para, Malibagh, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662555"
-      },
-      "id": "f6131f61-911e-4281-9ef9-2cc9add784a0"
+        "appointmentNumber": "+8801766662555Call Now"
+      }
     },
     {
+      "id": "a4c928c0-de73-4e30-a8b9-1f02240bfdf8",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-m-s-alam-utsha/",
+      "imageId": "acc5affa-ef7e-495c-8e85-8141739089f8",
       "name": "Dr. M S Alam (Utsha)",
       "degree": "MBBS, FCPS (Medicine), FCPS ( Gastroenterology, Thesis), CCD (BIRDEM), EDC (BIRDEM), C-CARD",
       "specialty": "Medicine, Gastroliver, Rheumatology, Hormone & Diabetes Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "Room 505, House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "4pm to 9pm (Sat to Thu) & 7:30pm to 10pm (Friday)",
-        "appointmentNumber": "+8801872777770"
-      },
-      "id": "3ef10a8b-0bd6-4a13-8b2f-86c6ef1294cc"
+        "appointmentNumber": "+8801872777770Call Now"
+      }
     },
     {
+      "id": "0be3ac27-5239-4290-bdd5-945f91ad8003",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-mir-jakib-hossain/",
+      "imageId": "c48c7983-20e3-47b0-8ad2-c8b66add0cc1",
       "name": "Assoc. Prof. Dr. Mir Jakib Hossain",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Gastroenterology, Liver Diseases, Pancreas & Medicine Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Medinova Medical Services, Malibagh",
         "address": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
         "visitingTime": "4pm to 6pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801790118855"
-      },
-      "id": "d8dfa768-6079-48ae-9689-ffa871f84a52"
+        "appointmentNumber": "+8801790118855Call Now"
+      }
     },
     {
+      "id": "2256216e-d1a1-47dd-ac8b-fbea59cc81b9",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-sukanta-das/",
+      "imageId": "6d08c857-f59a-428a-a0bd-06cccbd97a70",
       "name": "Dr. Sukanta Das",
       "degree": "MBBS, FCPS (Medicine), MCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Gastroenterology, Liver & Medicine Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Medinova Medical Services, Malibagh",
         "address": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
         "visitingTime": "7pm to 9pm (Sunday & Tuesday)",
-        "appointmentNumber": "+8801716410062, +8801790118855"
-      },
-      "id": "561ee4bd-d0a8-4820-a4b2-9caed6ba57c1"
+        "appointmentNumber": "+8801716410062, +8801790118855Call Now"
+      }
     },
     {
+      "id": "c3389c36-aab9-47c9-b705-90b3944f4ead",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-faruque-ahmed/",
+      "imageId": "77193cd3-81ce-4868-abc7-8bb0a341ae6f",
       "name": "Prof. Dr. Faruque Ahmed",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Gastroenterology, Liver Diseases & Pancreatic Medicine Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "6pm to 10pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "2b2ea8ec-fe42-4569-a55b-fba532386342"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "6333e78b-d705-4b07-9ffe-077eb73dff4f",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-mahmud-hasan/",
+      "imageId": "3c0dbe03-5e42-4346-934c-f2397d09517d",
       "name": "Prof. Dr. Mahmud Hasan",
       "degree": "MBBS, PhD (Edin), FCPS, FCPS (Pak), FRCP (Edin), FRCP (Glasgow)",
       "specialty": "Gastroenterology, Liver & Pancreatic Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "4pm to 8pm (Closed: Tuesday & Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "aab3af6d-c4c5-4582-ae16-5b6966f9442b"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "e3833046-8f52-44c2-bcab-8060b352f664",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-abul-kashem-khandaker/",
+      "imageId": "6765d2eb-b1bf-4214-a6e3-11489aa2be81",
       "name": "Prof. Dr. Abul Kashem Khandaker",
       "degree": "MBBS, FCPS (Medicine), PhD (Gastroenterology), FRCP (UK), FACP (USA), Fellow (WHO)",
       "specialty": "Gastroenterology, Liver Diseases & Medicine Specialist",
@@ -94,11 +116,14 @@
         "hospital": "Padma Diagnostic Center, Malibagh",
         "address": "245/2 New Circular Road, West Malibagh, Dhaka",
         "visitingTime": "3.30pm to 10.30pm (Closed: Friday)",
-        "appointmentNumber": "+8809617444222"
-      },
-      "id": "33ebe49e-0269-4e9b-9739-ee68e1562cd4"
+        "appointmentNumber": "+8809617444222Call Now"
+      }
     },
     {
+      "id": "790c89af-ecee-4980-8f95-1d92dac436fd",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-habibur-rahman-gastro/",
+      "imageId": "540cf2f5-f1fa-434d-915a-0245f4f3dbb9",
       "name": "Prof. Dr. Md. Habibur Rahman",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Gastroenterology, Liver Diseases & Pancreas Medicine Specialist",
@@ -108,11 +133,14 @@
         "hospital": "Islami Bank Hospital, Motijheel",
         "address": "24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801727666741"
-      },
-      "id": "436060d9-6b6c-4e6b-97d9-5b5b5e5b50c8"
+        "appointmentNumber": "+8801727666741Call Now"
+      }
     },
     {
+      "id": "0682a1ca-590a-4092-bed8-5fd1df752a03",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-anisur-rahman/",
+      "imageId": "965d4585-1b3b-46af-84ee-d6f7cde1a48f",
       "name": "Prof. Dr. Md. Anisur Rahman",
       "degree": "MBBS, FCPS, FRCP (EDIN)",
       "specialty": "Gastroenterologist & Liver Diseases Specialist",
@@ -122,25 +150,31 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "11am to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "3a5b9527-1750-4d32-8309-2bb08a2003a5"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "b48980ef-4afd-486b-996c-9358c841d1ae",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-abdullahel-kafi/",
+      "imageId": "3e411953-1d5a-405a-8622-aa4db5c90413",
       "name": "Prof. Dr. Muhammad Abdullahel Kafi",
       "degree": "MBBS, MCPS (Medicine), FCPS (Gastroenterology)",
       "specialty": "Gastroenterology, Liver, Medicine, Therapeutic & ERCP Specialist",
       "workplace": "Ibn Sina Medical College & Hospital",
-      "info": "Islami Bank Central Hospital, Kakrail\nAddress: 30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000\nVisiting Hour: 3pm to 5pm (Closed: Friday)\nAppointment: +8801810000116\nCall Now",
+      "info": "Islami Bank Central Hospital, Kakrail Address: 30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000 Visiting Hour: 3pm to 5pm (Closed: Friday) Appointment: +8801810000116 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "10am to 12pm (Closed: Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "b5926ce5-8fd4-4acc-92ce-3369a6421dfb"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "491590c0-63a7-4287-b45e-aa97b6fd1547",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-anwarul-kabir/",
+      "imageId": "d3b35e36-410c-404f-896d-18819c0a1565",
       "name": "Prof. Dr. Md. Anwarul Kabir",
       "degree": "MBBS, MD (Gastroenterology)",
       "specialty": "Gastroenterology, Liver & Pancreatic Diseases Specialist",
@@ -150,53 +184,65 @@
         "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
         "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787805"
-      },
-      "id": "7737c7a7-d82e-4d0a-b099-d97cdc202de6"
+        "appointmentNumber": "+8809666787805Call Now"
+      }
     },
     {
+      "id": "d4c8e065-245e-4ac4-9fc6-3811b47c7c0b",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-touhidul-karim-majumder/",
+      "imageId": "17760db9-1406-4f20-9dcf-9e10ce8f8517",
       "name": "Prof. Dr. Touhidul Karim Majumder",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Gastroenterology, Liver Diseases, & Pancreatic Medicine Specialist",
       "workplace": "National Gastroliver Institute & Hospital",
-      "info": "United Hospital Ltd, Dhaka\nAddress: Plot # 15, Road # 71, Gulshan, Dhaka\nVisiting Hour: 2pm to 6:30pm (Closed: Wed & Friday)\nAppointment: 10666\nCall Now",
+      "info": "United Hospital Ltd, Dhaka Address: Plot # 15, Road # 71, Gulshan, Dhaka Visiting Hour: 2pm to 6:30pm (Closed: Wed & Friday) Appointment: 10666 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "4.30pm to 8pm (Sun & Wed), 7pm to 10pm (Sat, Mon & Tue), 10am to 1pm (Fri)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "f1f9f667-2862-4579-9228-c9ba6788fbef"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "5bd8758d-e884-4bde-98ce-9e99762fe392",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-projesh-kumar-roy/",
+      "imageId": "3d89ad6c-fdd0-47dc-84a4-ff05b35352ff",
       "name": "Prof. Dr. Projesh Kumar Roy",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Gastroenterology, Medicine, Pancreas & Liver Disease Specialist",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Green Life Hospital, Dhaka\nAddress: 32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka\nVisiting Hour: 10.30am to 12.30pm (Closed: Friday)\nAppointment: +8801790175862\nCall Now",
+      "info": "Green Life Hospital, Dhaka Address: 32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka Visiting Hour: 10.30am to 12.30pm (Closed: Friday) Appointment: +8801790175862 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Shantinagar",
         "address": "Unit # 01, House # 11, Shantinagar, Motijheel, Dhaka",
         "visitingTime": "5:30pm to 8pm (Closed: Tue & Friday)",
-        "appointmentNumber": "+8809666787803"
-      },
-      "id": "4f07c5f7-315a-4a43-99f0-9604d896afb1"
+        "appointmentNumber": "+8809666787803Call Now"
+      }
     },
     {
+      "id": "f1d3e3a0-54e4-4f81-8648-d5cc602c9e59",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-brig-gen-md-mokhlesur-rahman/",
+      "imageId": "36d87068-18cb-4a5b-b867-8dd5e118b633",
       "name": "Prof. Dr. Brig. Gen. Md. Mokhlesur Rahman",
       "degree": "MBBS, FCPS (Medicine), Fellowship Gastroenterology & Hepatology (PAK)",
       "specialty": "Gastroenterology, Medicine & Liver Diseases Specialist",
       "workplace": "Combined Military Hospital (CMH), Dhaka",
-      "info": "Popular Diagnostic Center, Mirpur\nAddress: Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka\nVisiting Hour: 10am to 12:30pm (Closed: Friday)\nAppointment: +8809666787807\nCall Now",
+      "info": "Popular Diagnostic Center, Mirpur Address: Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka Visiting Hour: 10am to 12:30pm (Closed: Friday) Appointment: +8809666787807 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "b9dde16c-d90c-4d7b-947d-e4bb9102c2a4"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "1f9f5b26-a3ad-4821-bc04-fb23c12c9123",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-a-q-m-mohsen/",
+      "imageId": "91e6bbc0-76a4-47ad-875a-5da5a3822686",
       "name": "Prof. Dr. A.Q.M. Mohsen",
       "degree": "MBBS, FCPS (Gastroenterology), FGH",
       "specialty": "Gastroenterology, Liver & Pancreatic Diseases Specialist",
@@ -206,11 +252,14 @@
         "hospital": "United Hospital Ltd, Dhaka",
         "address": "Plot # 15, Road # 71, Gulshan, Dhaka",
         "visitingTime": "9am to 6pm (Closed: Friday)",
-        "appointmentNumber": "10666"
-      },
-      "id": "a672dfbc-42e2-45a3-8213-e56069dd5110"
+        "appointmentNumber": "10666Call Now"
+      }
     },
     {
+      "id": "9454746f-85cc-47d9-84f9-8b42278a8eb4",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-md-golam-kibria/",
+      "imageId": "c9b8d6a4-be3d-44ec-9215-be41750d51f2",
       "name": "Prof. Dr. Md. Golam Kibria",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Gastroenterology, Liver Diseases, Pancreas & Medicine Specialist",
@@ -220,11 +269,14 @@
         "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
         "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
         "visitingTime": "7pm to 9pm (Satu, Mon & Wednesday)",
-        "appointmentNumber": "+8809666787805"
-      },
-      "id": "839ee946-afc2-40a6-b647-20728188a5c4"
+        "appointmentNumber": "+8809666787805Call Now"
+      }
     },
     {
+      "id": "fb60aead-8f91-4cb7-bab3-604d97ce678c",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-mohammad-mohibur-rahman/",
+      "imageId": "598bbf23-5cda-41a9-99e1-b51f74ed5cac",
       "name": "Prof. Dr. Mohammad Mohibur Rahman",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Medicine, Gastroenterology, Liver & Pancreatic Disease Specialist",
@@ -234,11 +286,14 @@
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "fe09bf31-76be-4de4-a1a5-5f1acb5227db"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
+      "id": "1327e3a1-68e1-41a7-8b90-aecd2a98bed1",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-ahm-rowshon/",
+      "imageId": "fcef2586-fdf0-4a46-bfa2-62440d0a686a",
       "name": "Prof. Dr. AHM Rowshon",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology), Commonwealth Fellow-Gastro (UK)",
       "specialty": "Gastroenterology, Liver Diseases & Medicine Specialist",
@@ -248,11 +303,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "7pm to 10pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "53b0a2ba-caf8-4dbe-9e0d-47647b74545e"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "14cd6036-9df5-43a8-a402-ed050e1ee912",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-a-s-m-a-raihan/",
+      "imageId": "546b1e95-c116-4741-b73d-8cdecf127f49",
       "name": "Prof. Dr. A.S.M.A. Raihan",
       "degree": "MBBS, MD (Gastroenterology), FRCP (UK)",
       "specialty": "Gastrointestinal, Liver Medicine & Pancreatic Diseases Specialist",
@@ -262,11 +320,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "3f80745d-6e2c-4b09-bb4b-47aa0dec99bf"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "e369e2a4-90cd-48d8-ae67-2f19ba2cd982",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-dewan-saifuddin-ahmed/",
+      "imageId": "d63b978d-1934-4d1f-ad3c-7d7d3368fa4f",
       "name": "Prof. Dr. Dewan Saifuddin Ahmed",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Gastroenterology (Stomach, Intestines, Liver, Gallbladder, Pancreas) Specialist",
@@ -276,11 +337,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "5pm to 10pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "e441125e-b0b2-4160-8259-41ea88292737"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "62d467c1-5608-4c35-80d4-b67b51e80b66",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-a-masud/",
+      "imageId": "2dd68974-33c3-4f5d-a4f8-c4513ffac9da",
       "name": "Prof. Dr. M. A. Masud",
       "degree": "MBBS, MD (Gastroenterology), FCPS (Medicine), FACG, FRCP (Edin)",
       "specialty": "Gastroenterology, Liver & Medicine Specialist",
@@ -290,39 +354,48 @@
         "hospital": "BRB Hospital, Dhaka",
         "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
         "visitingTime": "10am to 8pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801777764800"
-      },
-      "id": "0b88fa18-5251-44fe-9dcc-d048f115761b"
+        "appointmentNumber": "+8801777764800Call Now"
+      }
     },
     {
+      "id": "10577efb-e760-458d-9321-f7a22c83c728",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-ashfaque-ahmed-siddique/",
+      "imageId": "e23c06ad-a3b0-4c8a-921d-bbd65a11191b",
       "name": "Dr. Ashfaque Ahmed Siddique",
       "degree": "MBBS (DMC), BCS (Health), MCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Gastroenterology, Liver Diseases & Medicine Specialist",
       "workplace": "National Gastroliver Institute & Hospital",
-      "info": "Farazy Hospital, Banasree\nAddress: House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka\nVisiting Hour: 7.30pm to 10pm (Sun & Tue) & 4pm to 5.30pm (Thu)\nAppointment: +8801766111137\nCall Now",
+      "info": "Farazy Hospital, Banasree Address: House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka Visiting Hour: 7.30pm to 10pm (Sun & Tue) & 4pm to 5.30pm (Thu) Appointment: +8801766111137 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "6.30pm to 10.30pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "b172911d-f9c8-4c50-ad84-0a65ee55aa5a"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
+      "id": "5b283c22-2b9d-4925-aaed-6454dae1f69a",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-swapan-chandra-dhar/",
+      "imageId": "7f29df98-9e31-46f1-ae1c-672d82ce1a03",
       "name": "Prof. Dr. Swapan Chandra Dhar",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology), MACG (USA), FRCP (UK)",
       "specialty": "Gastrointestinal & Liver Diseases Specialist",
       "workplace": "Sir Salimullah Medical College & Mitford Hospital",
-      "info": "Anwer Khan Modern Medical College Hospital\nAddress: House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205\nVisiting Hour: 10am to 1pm (Closed: Friday)\nAppointment: +8801775746755\nCall Now",
+      "info": "Anwer Khan Modern Medical College Hospital Address: House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205 Visiting Hour: 10am to 1pm (Closed: Friday) Appointment: +8801775746755 Call Now",
       "chamber": {
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "6.30pm to 11.30pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "e21c7df1-cc67-4110-8fb8-73b184873920"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "6ed5f3c9-e6f6-49a6-a993-87b5961cc320",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-md-masudur-rahman/",
+      "imageId": "48158616-31b6-4f26-a1ce-255389a540ad",
       "name": "Dr. Md. Masudur Rahman",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology), FACP (USA), FACG, FRCP (UK)",
       "specialty": "Gastroenterology, Medicine & Liver Diseases Specialist",
@@ -332,53 +405,65 @@
         "hospital": "Bangladesh Specialized Hospital",
         "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8809666700100"
-      },
-      "id": "4913f60c-24d2-40b8-9312-7cd761627068"
+        "appointmentNumber": "+8809666700100Call Now"
+      }
     },
     {
+      "id": "baa5c860-e145-4da6-864a-ffe76369d432",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-fakhrul-alam/",
+      "imageId": "f8d80ead-50d5-4acb-bfe4-04c40a925f5d",
       "name": "Prof. Dr. Md. Fakhrul Alam",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Gastroenterology, Liver Diseases, Pancreas & Medicine Specialist",
       "workplace": "Holy Family Red Crescent Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, B.B. Road, Chashara, Narayanganj – 1400\nVisiting Hour: 2pm to 8pm (Sat, Mon & Wed)\nAppointment: +8809666787804\nCall Now",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, B.B. Road, Chashara, Narayanganj – 1400 Visiting Hour: 2pm to 8pm (Sat, Mon & Wed) Appointment: +8809666787804 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Shantinagar",
         "address": "Unit # 02, House # 15, Shantinagar, Motijheel, Dhaka",
         "visitingTime": "5:30pm to 8pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8809666787803"
-      },
-      "id": "0ea065ab-9353-46c9-bc3e-4d57fa09438d"
+        "appointmentNumber": "+8809666787803Call Now"
+      }
     },
     {
+      "id": "42ed726d-0afa-474f-9135-13402471f1cc",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-md-jakir-hossain/",
+      "imageId": "3c1e465a-0780-4598-aeb6-e57d1d5f1681",
       "name": "Dr. Md. Jakir Hossain",
       "degree": "MBBS, BCS (Health), MD (Gastroenterology)",
       "specialty": "Gastroenterology, Liver & Pancreas Diseases Specialist",
       "workplace": "Sir Salimullah Medical College & Mitford Hospital",
-      "info": "Moon Hospital, Comilla\nAddress: Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla\nVisiting Hour: 3pm to 8pm (Thu) & 11am to 5pm (Fri)\nAppointment: +8801717648307\nCall Now",
+      "info": "Moon Hospital, Comilla Address: Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla Visiting Hour: 3pm to 8pm (Thu) & 11am to 5pm (Fri) Appointment: +8801717648307 Call Now",
       "chamber": {
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "4pm to 8pm (Sat, Sun, Mon & Tue)",
-        "appointmentNumber": "+8801711825557"
-      },
-      "id": "6c26eb53-b71f-47ee-b1ec-d2f7ec433bc3"
+        "appointmentNumber": "+8801711825557Call Now"
+      }
     },
     {
+      "id": "9b87a5ae-9c47-436b-96da-cd1f5c391786",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-taslima-zaman/",
+      "imageId": "ddbd7e7e-c5ea-49b6-9459-8ee4c69cc8e8",
       "name": "Dr. Taslima Zaman",
       "degree": "MBBS (DMC), MD (Gastroenterology)",
       "specialty": "Gastroenterology, Pancreatic & Liver Diseases Specialist",
       "workplace": "Japan East West Medical College & Hospital",
-      "info": "Ahsania Mission Cancer & General Hospital\nAddress: Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka\nVisiting Hour: 5pm to 6pm (Sat, Mon & Wed)\nContact Number: 10617\nCall Now",
+      "info": "Ahsania Mission Cancer & General Hospital Address: Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka Visiting Hour: 5pm to 6pm (Sat, Mon & Wed) Contact Number: 10617 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "aab8cf6a-611b-4505-8680-ccdf5340b94d"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "da76644e-7778-4ed1-bb14-e4fe8262e8c4",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-sayed-mohammad-arif/",
+      "imageId": "e657244d-cc26-4e65-9a88-91276100f7b0",
       "name": "Prof. Dr. Syed Mohammad Arif",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Gastroenterology (Stomach, Liver, Gallbladder, Pancreas) & Medicine Specialist",
@@ -388,11 +473,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "10am to 12pm & 3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "67283add-288c-4792-8a9a-0a46160dc4de"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "e09e5cec-6c3c-4922-9505-2a6e508b3700",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-col-dr-sm-mizanur-rahman/",
+      "imageId": "92e1f5cc-4cbf-4ab2-b6f6-5024d1e90999",
       "name": "Prof. Dr. Brig. Gen. SM Mizanur Rahman",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Gastroenterology (Stomach, Liver, Gallbladder, Pancreas) & Medicine Specialist",
@@ -402,11 +490,14 @@
         "hospital": "Popular Diagnostic Center, Mirpur",
         "address": "Unit 02, House # 02, Block # A, Section # 10, Mirpur, Dhaka",
         "visitingTime": "5.30pm to 7.30pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787807"
-      },
-      "id": "6a4084d9-3d10-4754-aa9a-824312677c78"
+        "appointmentNumber": "+8809666787807Call Now"
+      }
     },
     {
+      "id": "bf3e2a9e-fb57-4b3c-8e76-744ca535a861",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-lutful-l-chowdhury/",
+      "imageId": "77180166-43b5-49e0-b0ef-0c26896f0e83",
       "name": "Dr. Lutful L. Chowdhury",
       "degree": "MBBS, MRCP (UK), FRCP (EDIN)",
       "specialty": "Gastroenterology, Liver Diseases & Medicine Specialist",
@@ -416,11 +507,14 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 5pm (Sat to Thu)",
-        "appointmentNumber": "10678"
-      },
-      "id": "bdd9f839-b467-4d21-9fee-425bda8201df"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "74cccdfa-ed9d-4405-a449-2da4da3bb643",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-shawkat-ali/",
+      "imageId": "4adb1735-5698-4083-b082-751554b642e4",
       "name": "Prof. Dr. Md. Shawkat Ali",
       "degree": "MBBS (CMC), FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Gastroenterology, Liver & Medicine Specialist",
@@ -430,11 +524,14 @@
         "hospital": "Labaid Diagnostic, Uttara (Unit 02)",
         "address": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662050"
-      },
-      "id": "5993cce7-4206-4c6a-9947-f9f06b52a08b"
+        "appointmentNumber": "+8801766662050Call Now"
+      }
     },
     {
+      "id": "2f83f297-0e88-4d32-92bd-f387510855b9",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-chanchal-kumar-ghosh/",
+      "imageId": "dea8b815-9b8e-4c20-92a2-424c0afff77c",
       "name": "Prof. Dr. Chanchal Kumar Ghosh",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Gastroenterology, Liver & Pancreas Specialist",
@@ -444,11 +541,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "6pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "23a157aa-8df5-4641-bd79-f73233c515ce"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "555a5660-aea9-402a-aa73-ed7e37452182",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-mizanur-rahman/",
+      "imageId": "c6b9eac0-b40f-4b89-9451-dcd22b433062",
       "name": "Dr. Mizanur Rahman",
       "degree": "MBBS, MD (Gastroenterology)",
       "specialty": "Gastroenterology & Liver Diseases Specialist",
@@ -458,11 +558,14 @@
         "hospital": "BRB Hospital, Dhaka",
         "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
         "visitingTime": "9am to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801777764800"
-      },
-      "id": "8233baac-5e50-4bfb-a6b8-3e98122ca073"
+        "appointmentNumber": "+8801777764800Call Now"
+      }
     },
     {
+      "id": "1a1601f0-fa11-4cbd-9e5d-acf7e43089d8",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-samsul-arfin/",
+      "imageId": "0757d11c-6131-4c66-be2a-6b29d42cbe0a",
       "name": "Prof. Dr. Md. Samsul Arfin",
       "degree": "MBBS, FCPS (Medicine)",
       "specialty": "Gastrointestinal, Liver & Pancreatic Diseases Specialist",
@@ -472,25 +575,31 @@
         "hospital": "Bangladesh Specialized Hospital",
         "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
         "visitingTime": "4pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666700100"
-      },
-      "id": "266b28cc-21bf-4247-8690-af183d6b7563"
+        "appointmentNumber": "+8809666700100Call Now"
+      }
     },
     {
+      "id": "e63f87e1-934f-4966-9537-1e3b224c0f2a",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-mahbub-h-khan/",
+      "imageId": "3b13c8b9-a8bd-4526-980a-8b73902614a8",
       "name": "Prof. Dr. Mahbub H. Khan",
       "degree": "MBBS, PhD (Liver Medicine, Sydney), DSM (Vienna), Fellow (Liver & Gastroenterology)",
       "specialty": "Liver & Gastroenterology Specialist",
       "workplace": "Bangladesh Institute of Health Sciences Hospital",
-      "info": "Labaid Diagnostic, Kalabagan\nAddress: House – 66, Mirpur Road, Kalabagan, Dhaka – 1205\nVisiting Hour: 6pm to 9pm (Closed: Thu & Friday)\nAppointment: +8801766661331\nCall Now",
+      "info": "Labaid Diagnostic, Kalabagan Address: House – 66, Mirpur Road, Kalabagan, Dhaka – 1205 Visiting Hour: 6pm to 9pm (Closed: Thu & Friday) Appointment: +8801766661331 Call Now",
       "chamber": {
         "hospital": "Medinova Medical Services, Dhanmondi",
         "address": "House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka",
         "visitingTime": "10am to 12.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801911356298"
-      },
-      "id": "70c42ca4-4d74-4590-b9c6-b1b7505add84"
+        "appointmentNumber": "+8801911356298Call Now"
+      }
     },
     {
+      "id": "2417dd26-3a48-4444-8a31-a4340e4fd23e",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-md-shoaib-chowdhury/",
+      "imageId": "b9cb34f1-e137-433e-9022-1f305dc3cf51",
       "name": "Dr. Md. Shoaib Chowdhury",
       "degree": "MBBS, MD (Gastroenterology)",
       "specialty": "Gastroenterology & Medicine Specialist",
@@ -500,11 +609,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "6.30pm to 9pm (Friday: 9am to 11am)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "92584ed1-a73e-45ce-9fa1-1c57deec8e59"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "40a7a37c-d60a-4bb4-957b-189413203cf4",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-t-rahman/",
+      "imageId": "7c175e70-fe7b-4a8c-bcd4-be1297095153",
       "name": "Prof. Dr. M. T. Rahman",
       "degree": "MBBS, FCPS, Training (France & japan)",
       "specialty": "Gastrointestinal, Liver & Pancreatic Diseases Specialist",
@@ -514,11 +626,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "11am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "944f64a5-0df6-4622-ae24-ee2a8d33d9a5"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "1d016f66-0aa2-47ed-9819-e92ad34b44b2",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-syedul-islam/",
+      "imageId": "0090ea76-b376-45d4-940f-4bc94c626263",
       "name": "Dr. Syedul Islam",
       "degree": "MBBS, FCPS (Medicine), CCD (BIRDEM), MD (Gastro)",
       "specialty": "Medicine & Gastroenterology Specialist",
@@ -528,11 +643,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "3pm to 10pm (Everyday)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "c5b094b9-7181-4d39-a221-e266971d35fd"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
+      "id": "2bd9bf46-bef5-406f-bee3-d076e7b6eb64",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-s-m-ishaq/",
+      "imageId": "46a06219-e729-45eb-b51e-413ffa5106a3",
       "name": "Prof. Dr. S. M. Ishaq",
       "degree": "MBBS, DTM, MD (Gastroenterology)",
       "specialty": "Gastroenterology & Liver Diseases Specialist",
@@ -542,11 +660,14 @@
         "hospital": "Comfort Diagnostic Center, Dhanmondi",
         "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801731956033"
-      },
-      "id": "09dd4e81-888c-48d1-84da-9e88e9cdc863"
+        "appointmentNumber": "+8801731956033Call Now"
+      }
     },
     {
+      "id": "2fbfb26f-0956-4ffd-86ad-17f893c87fdb",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-hafeza-aftab/",
+      "imageId": "a33c900a-122a-44ce-84dd-575cb4c6cbf1",
       "name": "Prof. Dr. Hafeza Aftab (Rosy)",
       "degree": "MBBS, MD (Gastroenterology), PhD (Japan)",
       "specialty": "Gastroenterology (Stomach, Intestine, Liver, Gallbladder, Pancreas) Specialist",
@@ -556,11 +677,14 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "10678"
-      },
-      "id": "e9a16c6a-1ae6-4b02-a091-6f11e7f15ca1"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "be5b29c3-790e-43d4-9d84-7cfea28bd9b2",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-syeda-nur-e-jannat/",
+      "imageId": "2843dc1c-afad-45b5-9e52-4e13c1ca1dd2",
       "name": "Dr. Syeda Nur-E-Jannat",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Medicine & Gastroenterology Specialist",
@@ -570,11 +694,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Malibagh",
         "address": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
         "visitingTime": "8pm to 9.30pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801844141717"
-      },
-      "id": "d02b8f6b-e35d-49e0-9bc5-ebd4f0eb45a2"
+        "appointmentNumber": "+8801844141717Call Now"
+      }
     },
     {
+      "id": "fa22f3d0-8446-4a71-9552-8d53e12f87a1",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-sk-md-bahar-hussain/",
+      "imageId": "c9a009a9-ed4f-42a1-a226-b768cced1f2c",
       "name": "Prof. Dr. Sk. Md. Bahar Hussain",
       "degree": "MBBS, FCPS (Medicine), FACP (USA), FRCP (Edin), F.Gastro (Shanghai), FRCP (Glasgow)",
       "specialty": "Gastroenterology & Liver Diseases Specialist",
@@ -584,11 +711,14 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "e939f4c6-1078-49c4-b1c7-36a467c004c7"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "8003c738-2c7a-4cd5-b1ad-29f5458a48c5",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-md-zahidur-rahman/",
+      "imageId": "36c88d27-a104-4036-b880-e3aa9149acb6",
       "name": "Dr. Md. Zahidur Rahman",
       "degree": "MBBS, MD (Gastroenterology)",
       "specialty": "Gastroenterology (Stomach, Intestine, Liver, Gallbladder, Pancreas) Specialist",
@@ -598,53 +728,65 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "3pm to 5pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "05f2d9f0-b7f6-4107-9b2c-6b5feb9bb40b"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "ae560242-2bfa-41a1-9c73-92ee1a857d5d",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-jm-ariful-islam/",
+      "imageId": "67d4aaf9-af6f-4dfc-b02f-a2e612d5dba9",
       "name": "Dr. J.M. Ariful Islam",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Liver, Gastroenterology & Medicine Specialist",
       "workplace": "Kurmitola General Hospital, Dhaka",
-      "info": "Ibn Sina Diagnostic & Consultation Center, Bogra\nAddress: House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800\nVisiting Hour: 7pm to 9pm (Thu) & 8am to 8pm (Fri)\nAppointment: +8801701560011\nCall Now",
+      "info": "Ibn Sina Diagnostic & Consultation Center, Bogra Address: House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800 Visiting Hour: 7pm to 9pm (Thu) & 8am to 8pm (Fri) Appointment: +8801701560011 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Malibagh",
         "address": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801844141717"
-      },
-      "id": "81a9fb8e-78da-4aaa-a9af-0e5ec79ee094"
+        "appointmentNumber": "+8801844141717Call Now"
+      }
     },
     {
+      "id": "6c33f2c8-7ac2-467f-9c28-86ce35ba8186",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-al-mahmood-appolo/",
+      "imageId": "931629b8-c168-41ac-b6b9-eae3a0d851ce",
       "name": "Dr. Al Mahmood Appolo",
       "degree": "MBBS, BCS (Health), MD (Gastroenterology)",
       "specialty": "Gastroenterology, Liver & Pancreatic Diseases Specialist",
       "workplace": "National Gastroliver Institute & Hospital",
-      "info": "Popular Diagnostic Center, Mirpur\nAddress: Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka\nVisiting Hour: 4pm to 6:30pm (Closed: Friday)\nAppointment: +8809666787807\nCall Now",
+      "info": "Popular Diagnostic Center, Mirpur Address: Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka Visiting Hour: 4pm to 6:30pm (Closed: Friday) Appointment: +8809666787807 Call Now",
       "chamber": {
         "hospital": "Aalok Health Care, Pallabi",
         "address": "2/6 Begum Rokeya Avenue, Pallabi, Mirpur 11.5, Dhaka",
         "visitingTime": "8.30pm to 9:30pm (Closed: Friday)",
-        "appointmentNumber": "+8801307267402"
-      },
-      "id": "898befd9-132d-4798-a411-99b93d79c9f8"
+        "appointmentNumber": "+8801307267402Call Now"
+      }
     },
     {
+      "id": "b322fc04-75db-4839-add4-a7cd26cc0a81",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-md-enamul-karim/",
+      "imageId": "4dd8823a-bd58-4d31-a432-ff9399dbb736",
       "name": "Dr. Md. Enamul Karim",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Gastrointestinal & Liver Specialist",
       "workplace": "National Gastroliver Institute & Hospital",
-      "info": "Bangladesh Specialized Hospital\nAddress: 21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8809666700100\nCall Now",
+      "info": "Bangladesh Specialized Hospital Address: 21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh Visiting Hour: Unknown. Please call to know visiting hour Appointment: +8809666700100 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Lalbagh",
         "address": "27/4 Dhakeshwori Road, Lalbagh, Dhaka",
         "visitingTime": "7.30pm to 10pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801783356048"
-      },
-      "id": "545637d4-4c17-41ba-b58a-f131f249d32a"
+        "appointmentNumber": "+8801783356048Call Now"
+      }
     },
     {
+      "id": "c2dd53c2-2159-42a3-9539-4d251d3158df",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-mian-mashhud-ahmed/",
+      "imageId": "c047daa9-e379-4698-a063-7dd7728f2ba7",
       "name": "Prof. Dr. Mian Mashhud Ahmed",
       "degree": "MBBS, MD, PhD, FRCP",
       "specialty": "Medicine, Gastrointestinal & Liver Diseases Specialist",
@@ -654,11 +796,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "10am to 1 pm & 6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "85cbcdb4-9cc1-4f30-8547-1ca05b36a34f"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "c648e650-68a1-44f7-8a55-9c4864b9b4d7",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-mushtaque-ahmad-rana/",
+      "imageId": "f769d3bb-cb77-45b8-a307-66a38c9f2a07",
       "name": "Dr. Mushtaque Ahmad Rana",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Medicine & Gastroenterology Specialist",
@@ -668,11 +813,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "6pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "e0be954d-2ca2-4cb8-a237-bb25c31048c5"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
+      "id": "ae3bf3ee-4908-4af2-bed1-583882111c16",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-brig-gen-md-sayedur-rahman/",
+      "imageId": "64df41a1-810a-4670-8d38-53f0420f7872",
       "name": "Brig. Gen. Prof. Dr. Md. Sayedur Rahman",
       "degree": "MBBS, FCPS (Medicine), OJT (Gastroenterology), FACP (USA), FRCP (Glasgow)",
       "specialty": "Gastroenterology, Liver Diseases & Medicine Specialist",
@@ -682,11 +830,14 @@
         "hospital": "Popular Diagnostic Center, Mirpur",
         "address": "Unit 02, House # 02, Block # A, Section # 10, Mirpur, Dhaka",
         "visitingTime": "4.30pm to 6pm (Sat, Mon & Wednesday)",
-        "appointmentNumber": "+8809666787807"
-      },
-      "id": "3dd6b119-8137-48c3-9738-a35439c0c2e1"
+        "appointmentNumber": "+8809666787807Call Now"
+      }
     },
     {
+      "id": "9264bde3-8f09-4c41-b504-18c6f162710b",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-razibul-alam/",
+      "imageId": "7f582ca9-1d24-4d1a-a054-835939baba14",
       "name": "Prof. Dr. Md. Razibul Alam",
       "degree": "MBBS, MD (Gastroenterology)",
       "specialty": "Gastroenterology (Stomach, Intestine, Pancreas, Gallbladder, Liver) Specialist",
@@ -696,11 +847,14 @@
         "hospital": "Popular Diagnostic Center, Shantinagar",
         "address": "Unit # 01, House # 11, Shantinagar, Motijheel, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787803"
-      },
-      "id": "7d460a97-9c92-4802-b8b8-227e784ee4d3"
+        "appointmentNumber": "+8809666787803Call Now"
+      }
     },
     {
+      "id": "43bc7d33-688a-4b46-8427-0f6cfffb405b",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-asm-salimullah/",
+      "imageId": "e8ad306f-4fef-4ebe-b0c4-dcb0c0a8ed03",
       "name": "Dr. ASM Salimullah",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Gastroenterology & Medicine Specialist",
@@ -710,11 +864,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Doyagonj",
         "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801878115751"
-      },
-      "id": "e6945fa4-1389-418b-9081-90775af53f28"
+        "appointmentNumber": "+8801878115751Call Now"
+      }
     },
     {
+      "id": "4e56649b-b65a-4fdd-a3a9-5b855819c025",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-abm-shakil-gani/",
+      "imageId": "4c4e8489-1672-4658-9db4-67a46cc85e3d",
       "name": "Dr. ABM Shakil Gani",
       "degree": "MBBS, MD",
       "specialty": "Hepatology (Liver Diseases) Specialist",
@@ -724,11 +881,14 @@
         "hospital": "Popular Diagnostic Center, Savar",
         "address": "E/22, Talbagh, Anandapur, Savar, Dhaka",
         "visitingTime": "2.30pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787808"
-      },
-      "id": "e02539c7-d7db-458b-879b-25e864d9ac7b"
+        "appointmentNumber": "+8809666787808Call Now"
+      }
     },
     {
+      "id": "ee53b821-3f6b-4ac7-b585-558d8ef62543",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-md-asadur-rahman/",
+      "imageId": "f3bade6a-b059-41a1-a51b-0dcab1675b8b",
       "name": "Dr. Md. Asadur Rahman",
       "degree": "MBBS, MD (Gastroenterology)",
       "specialty": "Gastroenterology (Stomach, Intestines, Liver, Gallbladder, Pancreas) Specialist",
@@ -738,11 +898,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Mirpur",
         "address": "House # 11, Haji Road, Avenue 3, Rupnagar, Mirpur 2, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801847262996"
-      },
-      "id": "386d9ca3-e28f-4971-8d2b-4681be04a2be"
+        "appointmentNumber": "+8801847262996Call Now"
+      }
     },
     {
+      "id": "83ace78e-9871-4cf3-9f6f-bc0ba53db81e",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/brig-gen-dr-md-delwar-hossain/",
+      "imageId": "c0e3ba82-64de-4ff5-b8c5-c91b5ad9d084",
       "name": "Brig. Gen. Dr. Md. Delwar Hossain",
       "degree": "MBBS, FCPS (Medicine), FCPS (Gastroenterology)",
       "specialty": "Gastroenterology (Stomach, Intestine, Rectum, Pancreas, Liver) Specialist",
@@ -752,11 +915,14 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "756bc269-453c-409c-8df7-880d70ebb2c2"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "3b1df5e0-540f-4f42-abb6-8f5aa94569ad",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-dilip-kumar-ghosh/",
+      "imageId": "d9f3399d-90eb-4084-a173-9a3ddf4e9271",
       "name": "Dr. Dilip Kumar Ghosh",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Liver, Gastroenterology & Medicine Specialist",
@@ -766,11 +932,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "8pm to 10pm (Everyday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "42befe5d-0317-4c59-b813-adb8be049bf3"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "7a077005-8ca6-41a0-9fa9-fc935f20e57e",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-mostofa-showkat-imran/",
+      "imageId": "53a142f1-ebb3-4c00-9b32-cc45ec1c66cc",
       "name": "Dr. Mostofa Showkat Imran",
       "degree": "MBBS, MD (Gastroenterology)",
       "specialty": "Gastroenterology (Stomach, Liver, Gallbladder, Pancreas) Specialist",
@@ -780,11 +949,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "6pm to 9pm (Sat, Sun, Tue & Wed)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "d375ac88-980b-48ff-b9c5-29c22715a19e"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "262e130b-f76e-4fe5-8a92-459597848543",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-f-k-chowdhury-chanchal/",
+      "imageId": "1fbb94f6-5ac3-4383-9cfd-7abf92df63e3",
       "name": "Dr. F K Chowdhury Chanchal",
       "degree": "MBBS (Dhaka), FCPS (Medicine), MCPS (Medicine), MD (Gastroenterology, BSMMU)",
       "specialty": "Gastroentereology, Liver & Medicine Specialist",
@@ -794,25 +966,31 @@
         "hospital": "Popular Diagnostic Center, Mirpur",
         "address": "Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka",
         "visitingTime": "6pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787807"
-      },
-      "id": "fa9d5d31-eacf-4f52-a15e-9b3845d7e1d8"
+        "appointmentNumber": "+8809666787807Call Now"
+      }
     },
     {
+      "id": "8a5600a5-6ecf-44b8-8cb2-654d8c25c636",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-birendra-nath-saha/",
+      "imageId": "0bb66eec-9974-421c-a033-c2803369cb4a",
       "name": "Dr. Birendra Nath Saha",
       "degree": "MBBS, BCS (Health), MD (GASTRO-BSMMU)",
       "specialty": "Gastroenterology, Liver Specialist & Interventional Endoscopist",
       "workplace": "Shaheed Tajuddin Ahmad Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Khulna\nAddress: 37 KDA Avenue, Khulna\nVisiting Hour: 3pm to 8pm (Only Friday)\nAppointment: +8809666787821\nCall Now",
+      "info": "Popular Diagnostic Center, Khulna Address: 37 KDA Avenue, Khulna Visiting Hour: 3pm to 8pm (Only Friday) Appointment: +8809666787821 Call Now",
       "chamber": {
         "hospital": "Labaid Diagnostic, Uttara (Unit 01)",
         "address": "House # 15, Road # 12, Sector # 06, Uttara, Dhaka",
         "visitingTime": "7pm to 9pm (Sat, Sun, Tue & Wed)",
-        "appointmentNumber": "+8801766662606"
-      },
-      "id": "65c73669-3ec3-42ff-951c-068a28f76644"
+        "appointmentNumber": "+8801766662606Call Now"
+      }
     },
     {
+      "id": "ebd4f2a7-adb8-426f-83b4-88157d9ef6d0",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-susmita-islam/",
+      "imageId": "c4d292e4-a6fc-49b1-baa7-22d991c3154f",
       "name": "Dr. Susmita Islam",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Gastroenterology, Liver Diseases, Pancreas & Medicine Specialist",
@@ -822,11 +1000,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "7pm to 9pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "9d2748de-47c0-41d5-afb6-8f7b04de167c"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "f12b4d90-2c35-42c3-b2c3-2936c47a1cd9",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahmudur-rahman-gastro/",
+      "imageId": "0495cce4-1ee6-41a8-96a6-e9e5d81c0383",
       "name": "Dr. Md. Mahmudur Rahman",
       "degree": "MBBS, MD (Gastroenterology)",
       "specialty": "Gastroenterology (Stomach, Liver, Gallbladder, Pancreas, Intestine, Rectum) Specialist",
@@ -836,11 +1017,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "3pm to 6pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "2fce8cfa-fc9d-45e7-861e-f906bf111f65"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "c68a268c-56e2-49ba-9818-bf18affcfce7",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-a-q-m-mobin/",
+      "imageId": "e2ba9189-9ae7-483d-8c88-ccf3ab2e4390",
       "name": "Dr. A Q M Mobin",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology), MACP (USA)",
       "specialty": "Medicine, Liver & Gastroenterology Specialist",
@@ -850,11 +1034,14 @@
         "hospital": "Islami Bank Hospital, Mugda",
         "address": "1/24/B, Kamalapur Manda Road, South Mugdapara, Dhaka",
         "visitingTime": "8pm to 10pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801724008677"
-      },
-      "id": "5f8df297-e310-48ca-ba10-7995cf343065"
+        "appointmentNumber": "+8801724008677Call Now"
+      }
     },
     {
+      "id": "b0216f89-daf5-4b87-b242-774159fb8af1",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-hasan-masud/",
+      "imageId": "0e7adee5-2743-4db6-915c-2a727b79b83e",
       "name": "Prof. Dr. Md. Hasan Masud",
       "degree": "MBBS, MD (Gastroenterology)",
       "specialty": "Gastroenterology, Liver Diseases, Pancreas & Endoscopy Specialist",
@@ -864,11 +1051,14 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "10am to 1pm & 4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "a7fbb911-eb7c-441c-882d-c488735088cb"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "7ff7baf5-ae15-45b2-b421-d55dadc8704d",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-aminul-hoque/",
+      "imageId": "afc6043c-b80a-4e12-aa1d-1c5512094ab1",
       "name": "Dr. Mohammad Aminul Hoque",
       "degree": "MBBS, BCS (Health), MD (Gastroenterology)",
       "specialty": "Gastroenterologist",
@@ -878,11 +1068,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Savar",
         "address": "31/6 Jaleshwar, Aricha Road, Savar, Dhaka - 1340",
         "visitingTime": "4pm to 7.30pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+88 09610009613"
-      },
-      "id": "3c3bc300-afbc-4767-99c4-2137d3ed7cf9"
+        "appointmentNumber": "+88 09610009613Call Now"
+      }
     },
     {
+      "id": "f0a44754-a28d-43e9-a942-fdb80effa0c8",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-sayeda-rahim/",
+      "imageId": "b35eb4ae-501f-45f5-9604-270a492d36bf",
       "name": "Prof. Dr. Sayeda Rahim",
       "degree": "MBBS, MD (Gastroenterology)",
       "specialty": "Gastroenterology (Stomach, Intestine, Liver, Gallbladder, Pancreas) Specialist",
@@ -892,11 +1085,14 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "4pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "10678"
-      },
-      "id": "c2243a66-bab6-49eb-982e-99a6632fe110"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "ae6c46ff-6b94-4a27-9438-e888a2f134c0",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-shireen-ahmed/",
+      "imageId": "7a1fd73e-f7ae-498d-9411-1879f1bbf59c",
       "name": "Dr. Shireen Ahmed",
       "degree": "MBBS, FCPS (Gastroenterology), MD (Gastroenterology)",
       "specialty": "Gastroenterology, Liver Diseases, Pancreas & Medicine Specialist",
@@ -906,11 +1102,14 @@
         "hospital": "Ibn Sina Medical Imaging Center, Zigatola",
         "address": "House # 58, Road # 2A, Zigatola Bus Stand, Dhaka - 1209",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801711625173"
-      },
-      "id": "fb35a40e-2dd9-4d71-936b-d6e1dda24664"
+        "appointmentNumber": "+8801711625173Call Now"
+      }
     },
     {
+      "id": "419b435f-76b7-4302-8c7e-2f0f36d9955b",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-mahfuza-akhter/",
+      "imageId": "a4796fed-983e-4ca6-b4c8-6d1b341f00e9",
       "name": "Dr. Mahfuza Akhter",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), FCPS ( Gastroenterology)",
       "specialty": "Gastroenterology Specialist",
@@ -920,11 +1119,14 @@
         "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
         "address": "1/1 B, Kallyanpur, Dhaka",
         "visitingTime": "7pm to 9pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801703725590"
-      },
-      "id": "bc1107c4-f6a1-4be3-85bf-548c196c185f"
+        "appointmentNumber": "+8801703725590Call Now"
+      }
     },
     {
+      "id": "95212c8f-e69a-4b76-a8f4-3585fc81dfa2",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-mohammad-kamrul-hasan/",
+      "imageId": "3c496b95-39e6-41e8-a233-73dfe3112702",
       "name": "Prof. Dr. Mohammad Kamrul Hasan",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Liver, Pancreas, Gastroenterology & Medicine Specialist",
@@ -934,11 +1136,14 @@
         "hospital": "Enam Medical College & Hospital",
         "address": "9/3 Parboti Nagar, Thana Road, Savar, Dhaka",
         "visitingTime": "8am to 2.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801716358146"
-      },
-      "id": "e59e0ec9-a980-45a3-a2fb-98d51b301e08"
+        "appointmentNumber": "+8801716358146Call Now"
+      }
     },
     {
+      "id": "0f981bbe-9649-4617-bfda-61fedb4576d1",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-bimal-chandra-shil/",
+      "imageId": "e1bf26c1-c65f-4b64-838b-9870a6f85809",
       "name": "Dr. Bimal Chandra Shil",
       "degree": "MBBS, FCPS (Med), MD (Gastro)",
       "specialty": "Liver Specialist",
@@ -948,11 +1153,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "5pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "ef1a3356-f2b3-4e5f-83b9-55bc4c27dc48"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "6ce7ecc0-4307-42d6-b26d-d703a34460f7",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-riad-md-moshaed-hossain/",
+      "imageId": "327ee08e-ed35-4a8d-a371-afc51061ba57",
       "name": "Dr. Riad Md. Moshaed Hossain",
       "degree": "MBBS, FCPS (Medicine), FCPS (Gastroenterology)",
       "specialty": "Gastroenterology, Liver Diseases, Diabetes & Medicine Specialist",
@@ -962,11 +1170,14 @@
         "hospital": "Popular Diagnostic Center, Mirpur",
         "address": "Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka",
         "visitingTime": "7pm to 11pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787807"
-      },
-      "id": "c670b34c-2a7b-45a6-a9b0-f793f0b3585d"
+        "appointmentNumber": "+8809666787807Call Now"
+      }
     },
     {
+      "id": "f985205c-dadd-4b9e-a7be-9df0c5ad80a1",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-md-mawla-ali-sheikh/",
+      "imageId": "76e5c911-b74f-4aa9-bea2-c0df00b2a491",
       "name": "Dr. Md. Mawla Ali Sheikh",
       "degree": "MBBS, MD (Gastroenterology)",
       "specialty": "Gastroenterology Specialist",
@@ -976,25 +1187,31 @@
         "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
         "address": "1/1 B, Kallyanpur, Dhaka",
         "visitingTime": "11am to 1pm & 7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801703725590"
-      },
-      "id": "4b516487-7a8e-4799-9c01-3d93ecefc8b8"
+        "appointmentNumber": "+8801703725590Call Now"
+      }
     },
     {
+      "id": "bd4b3048-5a6a-4e36-ae01-f3c42d198908",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahbubur-rahman/",
+      "imageId": "40c7d7c6-bcf5-41ad-9918-e36da17b5552",
       "name": "Dr. Md. Mahbubur Rahman",
       "degree": "MBBS (DMC), CCD (BIRDEM), MD (Gastroenterology)",
       "specialty": "Gastroenterology Specialist",
       "workplace": "Uttara Adhunik Medical College & Hospital",
-      "info": "Medinova Medical Services, Dhanmondi\nAddress: House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka\nVisiting Hour: 6pm to 8pm (Closed: Friday)\nContact Number: 10658\nCall Now",
+      "info": "Medinova Medical Services, Dhanmondi Address: House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka Visiting Hour: 6pm to 8pm (Closed: Friday) Contact Number: 10658 Call Now",
       "chamber": {
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "aca0a2ed-9c66-49bd-9096-273a1b45ce54"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "0387172c-313c-4c4c-ae2a-3dd8aa602ca9",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-tanmoy-saha/",
+      "imageId": "bbef5fb5-d94b-4e8f-a267-c63726522457",
       "name": "Dr. Tanmoy Saha",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Gastroenterology (Stomach, Liver, Gallbladder, Pancreas) & Medicine Specialist",
@@ -1004,11 +1221,14 @@
         "hospital": "Labaid Diagnostic, Malibagh",
         "address": "House # B65, Chowdhury Para, Malibagh, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662555"
-      },
-      "id": "23316eab-0332-4a55-bea2-527121082c58"
+        "appointmentNumber": "+8801766662555Call Now"
+      }
     },
     {
+      "id": "96d74a04-3916-4ca2-95b1-8e0176531f3d",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-kazi-monisur-rahman/",
+      "imageId": "c27c862b-6909-49bb-8da0-d605140b6f99",
       "name": "Dr. Kazi Monisur Rahman",
       "degree": "MBBS (DMC), MD (Gastroenterology)",
       "specialty": "Gastroenterology, Liver & Medicine Specialist",
@@ -1018,11 +1238,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Jatrabari",
         "address": "House # 79/1E, Demra Road, Uttar Jatrabari, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009626"
-      },
-      "id": "4cf82684-8453-4240-90f9-6bce87ccfcee"
+        "appointmentNumber": "+8809610009626Call Now"
+      }
     },
     {
+      "id": "fbcfcf57-0c0a-4865-96d3-a4bdbb531e91",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-rokanuzzaman-bhuyian/",
+      "imageId": "38ef542d-0281-4f6e-b0d0-2035e89a17c6",
       "name": "Dr. Rokanuzzaman Bhuyian",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Gastroenterology & Medicine Specialist",
@@ -1032,11 +1255,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Malibagh",
         "address": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
         "visitingTime": "4.30pm to 6pm (Sunday, Monday & Thursday)",
-        "appointmentNumber": "+8801844141717"
-      },
-      "id": "247338af-1390-4eb9-a40d-ede5c62a94db"
+        "appointmentNumber": "+8801844141717Call Now"
+      }
     },
     {
+      "id": "a4d0c10e-852e-47f8-8a85-ef0b8b9aa788",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-lqbal-murshed-kabir/",
+      "imageId": "2e5fa4df-e45b-461d-be50-c12aa0172d04",
       "name": "Dr. lqbal Murshed Kabir",
       "degree": "MBBS (DMC), FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Gastroenterology (Stomach, Liver, Gallbladder, Pancreas) & Medicine Specialist",
@@ -1046,11 +1272,14 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10678"
-      },
-      "id": "69eb39f2-0164-41b7-8075-36cb781191eb"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "49d9bd62-741b-4919-808a-932c80b59d49",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-sharmin-tahmina-khan/",
+      "imageId": "24d18244-57d0-4b17-93a8-87ddcd24d103",
       "name": "Dr.Sharmin Tahmina Khan (Sunvee)",
       "degree": "MBBS, BCS (Health), MD (Gastroenterology)",
       "specialty": "Gastroenterology (Stomach, Liver, Gallbladder, Pancreas) Specialist",
@@ -1060,11 +1289,14 @@
         "hospital": "Comfort Diagnostic Center, Dhanmondi",
         "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801731956033"
-      },
-      "id": "4c7723cd-5472-4033-8945-7104c2ea182d"
+        "appointmentNumber": "+8801731956033Call Now"
+      }
     },
     {
+      "id": "192e2610-a631-409d-8c95-80acb3096f67",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-raj-datta/",
+      "imageId": "e0b24541-64aa-4cad-86f4-cb9ec9562287",
       "name": "Dr. Raj Datta",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Gastroenterology & Medicine Specialist",
@@ -1074,11 +1306,14 @@
         "hospital": "Popular Diagnostic Center, D",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "8.30pm to 10pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "7354e952-2e11-42a2-b418-b9ae4dc45054"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "50176bba-657f-4d1a-ab95-8db6c2a49a44",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-shaila-perveen/",
+      "imageId": "4ae5ac6d-bc7c-4526-9f27-09cef15723bd",
       "name": "Prof. Dr. Shaila Perveen",
       "degree": "MBBS (SSMC), MCPS, FCPS (Medicine), FRCP (Glasgow)",
       "specialty": "Gastroenterology (Stomach, Liver, Gallbladder, Pancreas) & Medicine Specialist",
@@ -1088,11 +1323,14 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10678"
-      },
-      "id": "d113825b-3d81-4cf4-9a88-2208809bf389"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "4fe823d4-562a-4179-b8b6-b474319b1779",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-rajib-dutta/",
+      "imageId": "6044cda4-9e37-4839-814f-e9e04d0ad1d3",
       "name": "Dr. Rajib Dutta",
       "degree": "MBBS, BCS (Health), MD (Gastroenterology)",
       "specialty": "Gastroenterology (Stomach, Intestines, Liver, Gallbladder, Pancreas) Specialist",
@@ -1102,11 +1340,14 @@
         "hospital": "Universal Medical College Hospital",
         "address": "Room 906, Ground Floor, Mohakali (Opposite of RAOWA), Dhaka",
         "visitingTime": "7pm to 9pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801841-480000"
-      },
-      "id": "68a046bb-d23c-4374-814e-98459131a336"
+        "appointmentNumber": "+8801841-480000Call Now"
+      }
     },
     {
+      "id": "e3fbadd9-a226-4c8a-bf40-880e81a6cf98",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-md-ashraful-islam/",
+      "imageId": "fde0ca46-b093-4c90-863a-cb3fe04bb02d",
       "name": "Dr. Md. Ashraful Islam",
       "degree": "MBBS, FCPS (Med), MD (Gastro)",
       "specialty": "Liver & Medicine Specialist",
@@ -1116,11 +1357,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "6pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "f9f1f809-6572-42f3-893c-f66dcb8e14b6"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "e74cb27d-6763-424a-af51-9fa63250368f",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-rehan-habib/",
+      "imageId": "9ff0c711-8319-4c7b-89c5-e6562a3af34f",
       "name": "Dr. Rehan Habib",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Gastroenterology & Medicine Specialist",
@@ -1130,25 +1374,14 @@
         "hospital": "Popular Diagnostic Center, Shyamoli",
         "address": "Opposite to Shyamoli Shishu Mela, Babor Road, Mohammadpur, Dhaka",
         "visitingTime": "3pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787806"
-      },
-      "id": "66768b2d-abf5-4f90-bccc-9e60dd0009a4"
+        "appointmentNumber": "+8809666787806Call Now"
+      }
     },
     {
-      "name": "Prof. Dr. Irin Parveen",
-      "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
-      "specialty": "Liver Specialist & Gastroenterologist",
-      "workplace": "Enam Medical College & Hospital",
-      "info": "Prof. Dr. Irin Parveen is a Gastroenterologist in Dhaka. Her qualification is MBBS, FCPS (Medicine), MD (Gastroenterology). She is a Professor & Head, Gastroenterology at Enam Medical College & Hospital. She regularly provides treatment to her patients at Enam Medical College & Hospital. Practicing hour of Prof. Dr. Irin Parveen at Enam Medical College & Hospital is 8am to 2.30pm (Closed: Friday).",
-      "chamber": {
-        "hospital": "Enam Medical College & Hospital",
-        "address": "9/3 Parboti Nagar, Thana Road, Savar, Dhaka",
-        "visitingTime": "8am to 2.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801716358146"
-      },
-      "id": "458de5a8-2c04-4bd7-a804-03939da488f9"
-    },
-    {
+      "id": "672d1078-1880-430e-aa0d-d1eae1530d85",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-habib-ahmed/",
+      "imageId": "968680a6-72ce-4961-8451-bf4a8c2b4f01",
       "name": "Dr. Habib Ahmed",
       "degree": "MBBS, BCS (Health), MD (Gastroenterology)",
       "specialty": "Gastroenterology & Liver Specialist",
@@ -1158,11 +1391,31 @@
         "hospital": "Savar Prime Hospital",
         "address": "A-89, Thana Road, Talbagh, Savar, Dhaka - 1340",
         "visitingTime": "3pm to 6pm (Sat, Mon & Thu)",
-        "appointmentNumber": "+8801752561542"
-      },
-      "id": "af00024e-1ad4-4ae3-a69f-b6c753552016"
+        "appointmentNumber": "+8801752561542Call Now"
+      }
     },
     {
+      "id": "9c08cae2-c225-44f8-91d8-db5c8a6556f9",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-irin-parveen/",
+      "imageId": "c2d976fe-afa8-4367-a38c-1d140b1c575e",
+      "name": "Prof. Dr. Irin Parveen",
+      "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
+      "specialty": "Liver Specialist & Gastroenterologist",
+      "workplace": "Enam Medical College & Hospital",
+      "info": "Prof. Dr. Irin Parveen is a Gastroenterologist in Dhaka. Her qualification is MBBS, FCPS (Medicine), MD (Gastroenterology). She is a Professor & Head, Gastroenterology at Enam Medical College & Hospital. She regularly provides treatment to her patients at Enam Medical College & Hospital. Practicing hour of Prof. Dr. Irin Parveen at Enam Medical College & Hospital is 8am to 2.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Enam Medical College & Hospital",
+        "address": "9/3 Parboti Nagar, Thana Road, Savar, Dhaka",
+        "visitingTime": "8am to 2.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801716358146Call Now"
+      }
+    },
+    {
+      "id": "71d41b6d-06af-473d-883d-5d483042c283",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-nigar-sultana/",
+      "imageId": "7f987cc8-b3e4-4961-8c17-272dfee826d5",
       "name": "Dr. Nigar Sultana",
       "degree": "MBBS, MPH, FCPS (GASTRO)",
       "specialty": "Liver, Gastrointestinal & Pancreas Diseases Specialist",
@@ -1172,11 +1425,14 @@
         "hospital": "Delta Hospital, Mirpur",
         "address": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka - 1216",
         "visitingTime": "6pm to 8pm (Sat, Mon, Tue & Wed)",
-        "appointmentNumber": "+8801301254924"
-      },
-      "id": "99d6cfaf-4e29-481e-90fe-ac413eb02261"
+        "appointmentNumber": "+8801301254924Call Now"
+      }
     },
     {
+      "id": "b1fbfd93-69c0-4614-adc0-6d939546c388",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-ali-monsur-sharif/",
+      "imageId": "761dd60f-5ce1-4a9e-aa23-2035e5cb0d15",
       "name": "Dr. Ali Monsur Sharif",
       "degree": "MBBS, MD (Gastroenterology)",
       "specialty": "Gastroenterology, Liver Diseases & Medicine Specialist",
@@ -1186,25 +1442,31 @@
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "97747763-ef17-42e9-8f4c-2bba6e74c4f0"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
+      "id": "4e1668c0-e788-4adc-9a4b-95215e5639d8",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-tawfiq-aziz/",
+      "imageId": "4b7eff78-9680-4a37-b731-e4958bd79173",
       "name": "Dr. Tawfiq Aziz",
       "degree": "MBBS (DU), MRCP (UK), MSc (Gastroenterology)",
       "specialty": "Gastroenterology Specialist",
       "workplace": "Medical College for Women & Hospital",
-      "info": "Holy Lab Diagnostic Complex\nAddress: House # 03, Shayestha Kha Avenue, Sector – 04, Uttara, Dhaka\nVisiting Hour: 7am to 8am (Everyday)\nAppointment: +8801535869730\nCall Now",
+      "info": "Holy Lab Diagnostic Complex Address: House # 03, Shayestha Kha Avenue, Sector – 04, Uttara, Dhaka Visiting Hour: 7am to 8am (Everyday) Appointment: +8801535869730 Call Now",
       "chamber": {
         "hospital": "Labaid Diagnostic, Uttara (Unit 01)",
         "address": "House # 15, Road # 12, Sector # 06, Uttara, Dhaka",
         "visitingTime": "7pm to 8:30pm (Thursday)",
-        "appointmentNumber": "+8801766662606"
-      },
-      "id": "6d5b8f74-f07f-482f-a269-0f075abae8bc"
+        "appointmentNumber": "+8801766662606Call Now"
+      }
     },
     {
+      "id": "eecd980a-4fb7-4be4-b455-59e625b56ef1",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-gobinda-gain/",
+      "imageId": "0b313895-be79-4608-b000-e3ced775275e",
       "name": "Dr. Gobinda Gain",
       "degree": "MBBS, MCPS, FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Gastroenterology & Medicine Specialist",
@@ -1214,11 +1476,14 @@
         "hospital": "Labaid Cancer Hospital & Super Speciality Center",
         "address": "26, Green Road, Dhaka",
         "visitingTime": "6pm to 9pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809666710001"
-      },
-      "id": "4c4512fb-76f2-4a11-9377-20d463ef17ae"
+        "appointmentNumber": "+8809666710001Call Now"
+      }
     },
     {
+      "id": "f676a0e9-6775-4012-b45e-1763151fb013",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-md-saif-uddoula/",
+      "imageId": "ef2af5f4-6f11-426b-b403-fc9a9539148e",
       "name": "Dr. Md. Saif Uddoula",
       "degree": "MBBS (DMC), MCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Medicine, Liver & Gastroenterology Specialist",
@@ -1228,11 +1493,14 @@
         "hospital": "Aurora Specialized Hospital",
         "address": "19/01, Kakrail, Dhaka (Opposite of Karnaphuli Garden City)",
         "visitingTime": "5pm to 10pm (Everyday)",
-        "appointmentNumber": "+8801404450401"
-      },
-      "id": "7c8806a2-7187-439d-8c5a-0953fa1d0232"
+        "appointmentNumber": "+8801404450401Call Now"
+      }
     },
     {
+      "id": "e368e14c-cf73-4819-bd95-63429c62405c",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-n-c-nath/",
+      "imageId": "6bc6fcc0-7cfe-4ad3-a7f0-57900b08934f",
       "name": "Prof. Dr. N C Nath",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Medicine, Liver & Pancreatic Specialist",
@@ -1242,11 +1510,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "a79cc1ec-08ea-494c-8df5-05694662843f"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "5059625f-f4bd-416c-a61b-64fb9f057b73",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-indrajit-kumar-datta/",
+      "imageId": "f4b29e4f-852f-4262-b4d5-59d823f4a1ee",
       "name": "Dr. Indrajit Kumar Datta",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Gastroenterology Specialist",
@@ -1256,11 +1527,14 @@
         "hospital": "Asgar Ali Hospital, Dhaka",
         "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801787683333"
-      },
-      "id": "5ba3a0f1-f842-4443-b02b-b4d9d6e1d15b"
+        "appointmentNumber": "+8801787683333Call Now"
+      }
     },
     {
+      "id": "c312a31e-790c-4621-a00a-fbfd1d6ff877",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-imtiaz-mahbub/",
+      "imageId": "439831fc-522b-44cc-b475-9c0aef0bf5e3",
       "name": "Dr. Imtiaz Mahbub",
       "degree": "MBBS, BCS (Health), MD (Gastroenterology)",
       "specialty": "Gastroenterology (Stomach, Liver, Gallbladder, Pancreas) Specialist",
@@ -1270,11 +1544,14 @@
         "hospital": "Labaid Diagnostic, Malibagh",
         "address": "House # B65, Chowdhury Para, Malibagh, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662555"
-      },
-      "id": "f47aa464-44ae-4149-81a9-a56e0012f24e"
+        "appointmentNumber": "+8801766662555Call Now"
+      }
     },
     {
+      "id": "f45d351c-003a-4be7-aa54-6a18d52aabe1",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-mahedi-hasan/",
+      "imageId": "c0aced29-2724-4ce4-b0e0-d96e3a8a59c9",
       "name": "Dr. Mahedi Hasan",
       "degree": "MMBS, CCD, MD (Gastroenterology), MACP, MACG",
       "specialty": "Gastroenterologist & Hepatologist",
@@ -1284,25 +1561,14 @@
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Jatrabari",
         "address": "House # 79/1E, Demra Road, Bibir Bagicha, Uttor Jatrabari, Dhaka",
         "visitingTime": "6pm to 9pm (Sunday to Thursday)",
-        "appointmentNumber": "+8809610-009626"
-      },
-      "id": "701e2116-ccb9-444a-9840-3b392ede4fe6"
+        "appointmentNumber": "+8809610-009626Call Now"
+      }
     },
     {
-      "name": "Dr. Quazi Abdullah Al Masum",
-      "degree": "MBBS (DMC), MD (Gastroenterology), FCPS (Medicine)",
-      "specialty": "Gastroenterology Specialist",
-      "workplace": "Asgar Ali Hospital, Dhaka",
-      "info": "Dr. Quazi Abdullah Al Masum is a Gastroenterologist in Dhaka. His qualification is MBBS (DMC), MD (Gastroenterology), FCPS (Medicine). He is working as a Gastroenterology Specialist doctor in Asgar Ali Hospital, Dhaka. He regularly provides treatment to his patients at Asgar Ali Hospital, Dhaka. Practicing hour of Dr. Quazi Abdullah Al Masum at Asgar Ali Hospital, Dhaka is Unknown. Please call to know visiting hour.",
-      "chamber": {
-        "hospital": "Asgar Ali Hospital, Dhaka",
-        "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
-        "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801787683333"
-      },
-      "id": "1b39d173-1850-459a-b716-ca72b3a14194"
-    },
-    {
+      "id": "da43734c-5f4a-45ea-8646-60fd71a55c69",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-rahat-hassan-baig/",
+      "imageId": "fa81dc5c-49f3-43e5-9e10-6df52bb8b26d",
       "name": "Dr. Rahat Hassan Baig",
       "degree": "MBBS, MD",
       "specialty": "Gastroenterology Specialist",
@@ -1312,25 +1578,31 @@
         "hospital": "Comfort Diagnostic Center, Dhanmondi",
         "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "7pm to 9pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801731956033"
-      },
-      "id": "1f2c38e3-87a5-4d12-8263-d4384d46a04a"
+        "appointmentNumber": "+8801731956033Call Now"
+      }
     },
     {
+      "id": "2e2d7141-be83-43bc-986f-d7ebed2e6a8e",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-parash-ullah/",
+      "imageId": "97dbe5fb-0979-4c78-b9a1-789c9da01cb8",
       "name": "Dr. Parash Ullah",
       "degree": "MBBS, BCS (Health), MD (Gastroenterology), MACP, MACG",
       "specialty": "Gastroenterology & Medicine Specialist",
       "workplace": "Shaheed Suhrawardy Medical College & Hospital",
-      "info": "Fayez General Hospital, Habiganj\nAddress: M. M Tower, New Bust Terminal Road, Habiganj Sadar, Habiganj\nVisiting Hour: 9am to 6pm (Friday)\nAppointment: +8801601426538\nCall Now",
+      "info": "Fayez General Hospital, Habiganj Address: M. M Tower, New Bust Terminal Road, Habiganj Sadar, Habiganj Visiting Hour: 9am to 6pm (Friday) Appointment: +8801601426538 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Mirpur",
         "address": "House # 11, Haji Road, Avenue 3, Rupnagar, Mirpur 2, Dhaka",
         "visitingTime": "5pm to 8pm (Wednesday, Thursday & Saturday)",
-        "appointmentNumber": "+8801601426538"
-      },
-      "id": "fda28921-03a5-4313-aaed-db9aa3ea18a8"
+        "appointmentNumber": "+8801601426538Call Now"
+      }
     },
     {
+      "id": "f9dfd9b9-d3e3-4f34-9d50-13162866d89f",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-m-e-jahid/",
+      "imageId": "7dce7fe9-a829-4dc7-9de5-2574e01cc57e",
       "name": "Dr. M.E. Jahid",
       "degree": "MBBS, DSM (Medicine), FRSH (UK), MCCP (USA), AST (UK)",
       "specialty": "Liver, Gastroenterology & Medicine Specialist",
@@ -1340,11 +1612,31 @@
         "hospital": "Islami Bank Specialized & General Hospital, Nayapaltan",
         "address": "71-72, VIP Road, Nayapaltan, Dhaka",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801977552283"
-      },
-      "id": "eb9f6c94-55f2-43f3-82ca-8b7f4a40d63c"
+        "appointmentNumber": "+8801977552283Call Now"
+      }
     },
     {
+      "id": "2494820d-8612-4bd0-858f-eec96d38d217",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-quazi-abdullah-al-masum/",
+      "imageId": "2c70c4a2-a9ef-4b4d-a9b5-3c189ce368fc",
+      "name": "Dr. Quazi Abdullah Al Masum",
+      "degree": "MBBS (DMC), MD (Gastroenterology), FCPS (Medicine)",
+      "specialty": "Gastroenterology Specialist",
+      "workplace": "Asgar Ali Hospital, Dhaka",
+      "info": "Dr. Quazi Abdullah Al Masum is a Gastroenterologist in Dhaka. His qualification is MBBS (DMC), MD (Gastroenterology), FCPS (Medicine). He is working as a Gastroenterology Specialist doctor in Asgar Ali Hospital, Dhaka. He regularly provides treatment to his patients at Asgar Ali Hospital, Dhaka. Practicing hour of Dr. Quazi Abdullah Al Masum at Asgar Ali Hospital, Dhaka is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Asgar Ali Hospital, Dhaka",
+        "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801787683333Call Now"
+      }
+    },
+    {
+      "id": "e20444dd-4c28-4eba-9ee6-3c4d2c304099",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-belayet-hossain-khan/",
+      "imageId": "5d878915-bc40-4f2e-b94d-e4dacbe3a8f1",
       "name": "Prof. Dr. Md. Belayet Hossain Khan",
       "degree": "MBBS, FRSH, MCPS, MPH, PHD",
       "specialty": "Gastroenterology & Liver Specialist",
@@ -1354,11 +1646,14 @@
         "hospital": "Comfort Diagnostic Center, Dhanmondi",
         "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801731956033"
-      },
-      "id": "3bd18559-b371-4f54-acd7-bfe1f4aefd99"
+        "appointmentNumber": "+8801731956033Call Now"
+      }
     },
     {
+      "id": "7960cc95-9c7f-43e3-8445-f9b44b78ddbe",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-md-abu-sayeed-mustafa/",
+      "imageId": "843236b4-4b54-4382-bd71-894d30407d81",
       "name": "Dr. Md. Abu Sayeed Mustafa",
       "degree": "MBBS, MD (Gastroenterology)",
       "specialty": "Gastroenterology (Stomach, Liver, Gallbladder, Pancreas) Specialist",
@@ -1368,11 +1663,14 @@
         "hospital": "KC Hospital & Diagnostic Center",
         "address": "2620, Noapara, Dakshin Khan, Uttara, Dhaka - 1230",
         "visitingTime": "7pm to 9pm (Sat, Mon, Wed & Thu)",
-        "appointmentNumber": "+8801777753464"
-      },
-      "id": "eae702b3-ecf6-4aa9-ac14-ccc782b3a697"
+        "appointmentNumber": "+8801777753464Call Now"
+      }
     },
     {
+      "id": "ce04f8c7-70c4-47b8-b427-a43508d5399c",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/dr-d-m-sazzad-hossain/",
+      "imageId": "87fb2596-e4e3-4948-b551-8463977d9ccf",
       "name": "Dr. D.M. Sazzad Hossain",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), Fellowship Training (Gastroenterology)",
       "specialty": "Medicine, Gastroenterology & Liver Specialist",
@@ -1382,11 +1680,14 @@
         "hospital": "Aichi Hospital Limited, Uttara",
         "address": "Plot # 35 & 37, Sector # 08, Abdullahpur, Uttara, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Thurs & Friday)",
-        "appointmentNumber": "+8801689956599"
-      },
-      "id": "f972fce8-3ddd-408a-8fc5-b2e21c65b144"
+        "appointmentNumber": "+8801689956599Call Now"
+      }
     },
     {
+      "id": "3ec061d6-d818-459b-acce-6c6eaf95ef95",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-abdur-rahim-miah/",
+      "imageId": "7a634135-e241-494d-96a1-4a6de4520662",
       "name": "Prof. Dr. Md. Abdur Rahim Miah",
       "degree": "MBBS (Dhaka), MD (Gastroenterology)",
       "specialty": "Gastroenterology, Liver Diseases & Medicine Specialist",
@@ -1396,11 +1697,14 @@
         "hospital": "Digilab Medical Services Ltd, Mirpur",
         "address": "House # 02, Road # 06, Block # A, Mirpur-10, Dhaka",
         "visitingTime": "5pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801626792323"
-      },
-      "id": "a2c48860-462e-4af7-86a2-944357759551"
+        "appointmentNumber": "+8801626792323Call Now"
+      }
     },
     {
+      "id": "0f5e8629-efd3-4d09-a8d0-0e58cc6e7505",
+      "departmentId": "3e613289-b56b-42ad-acb8-061423daf1d2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-nazmul-hoque/",
+      "imageId": "2fe3598e-3b85-4df9-be2d-24be2830075c",
       "name": "Prof. Dr. Md. Nazmul Hoque",
       "degree": "MBBS, MD (Gastroenterology), FACP (USA), FRCP (UK)",
       "specialty": "Gastroenterology, Liver & Pancreas Specialist",
@@ -1410,9 +1714,8 @@
         "hospital": "Aalok Healthcare & Hospital, Mirpur 10",
         "address": "House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka",
         "visitingTime": "6pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801307267402"
-      },
-      "id": "4a8a1686-bf97-4bee-85cb-02c2e7101d69"
+        "appointmentNumber": "+8801307267402Call Now"
+      }
     }
   ]
 }

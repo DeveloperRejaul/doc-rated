@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "860e34be-0ba7-43d6-a248-3f1b4d465feb",
+      "departmentId": "e0c0e4ea-15f9-470d-8597-971c301d885e",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-mojibar-rahman-selim/",
+      "imageId": "f898ad76-794e-40c6-b35e-509979ceb42a",
       "name": "Prof. Dr. Md. Mojibar Rahman Selim",
       "degree": "MBBS, DTCD, MD (Cardiology), WHO Fellow (Interventional Cardiology)",
       "specialty": "Clinical & Interventional Cardiologist & Chest Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "2:30pm to 8:30pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "ede5549c-e172-40be-a649-a94f8d1ef3b7"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "f3c2a231-2b63-484c-93a7-7b0d8decbc1c",
+      "departmentId": "e0c0e4ea-15f9-470d-8597-971c301d885e",
+      "link": "https://www.doctorbangladesh.com/dr-debashis-kumar-gupta/",
+      "imageId": "a4b20a65-06d4-4465-9aea-bd74d6a3c84b",
       "name": "Dr. Debashis Kumar Gupta",
       "degree": "MBBS, BCS (Health), MCPS, MD (Chest Diseases)",
       "specialty": "Chest Diseases & Asthma Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
         "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
         "visitingTime": "1pm to 4pm (Closed: Friday)",
-        "appointmentNumber": "+8801701560011"
-      },
-      "id": "32231bf0-a524-42b9-8854-69d673886b83"
+        "appointmentNumber": "+8801701560011Call Now"
+      }
     },
     {
+      "id": "901d1a80-763c-4f58-82a0-927ee012dca0",
+      "departmentId": "e0c0e4ea-15f9-470d-8597-971c301d885e",
+      "link": "https://www.doctorbangladesh.com/dr-k-m-monjurul-alom/",
+      "imageId": "92e6efa0-79e2-4526-afdb-d7ee390d2942",
       "name": "Dr. K.M. Monjurul Alom",
       "degree": "MBBS, DTCD, MD (Chest Diseases), FCCP (USA)",
       "specialty": "Chest Diseases & Asthma Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "3pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "51343cf6-0803-4c9a-b16a-8bada4db6e85"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "18e25b40-d8fb-423c-b848-2841f50287bb",
+      "departmentId": "e0c0e4ea-15f9-470d-8597-971c301d885e",
+      "link": "https://www.doctorbangladesh.com/dr-rabindra-chandra-mitra/",
+      "imageId": "41de1206-cd9b-46df-93ea-076a07ba800c",
       "name": "Dr. Rabindra Chandra Mitra",
       "degree": "MBBS (Dhaka), DTCD (DU)",
       "specialty": "Chest Diseases, Asthma & TB Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Maleka Nursing Home, Bogura",
         "address": "Sherpur Road, Sutrapur, Bogura - 5800",
         "visitingTime": "10am to 3pm (Everyday)",
-        "appointmentNumber": "+8801718881897"
-      },
-      "id": "1b85c90a-3564-42eb-b4a0-8c624d7c4047"
+        "appointmentNumber": "+8801718881897Call Now"
+      }
     },
     {
+      "id": "9a4aeae9-b572-4524-9227-d5a003f2d9e2",
+      "departmentId": "e0c0e4ea-15f9-470d-8597-971c301d885e",
+      "link": "https://www.doctorbangladesh.com/dr-md-mehedi-hasan-chest/",
+      "imageId": "612cda15-d12a-4f5b-83c2-db90f6ca3b9f",
       "name": "Dr. Md. Mehedi Hasan",
       "degree": "MBBS, MD (CHEST)",
       "specialty": "Asthma & Chest Diseases Specialist",
@@ -66,9 +82,8 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "2.30pm to 8pm (Sat to Thu) & 10am to 6pm (Fri)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "218d3e67-a54e-42a4-ad2b-8810398874e8"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     }
   ]
 }

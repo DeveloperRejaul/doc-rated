@@ -1,20 +1,27 @@
 {
   "doctor": [
     {
+      "id": "5ac551a8-c400-4bfd-97f1-7ed7eec4648a",
+      "departmentId": "3ec02e40-a08d-436d-b41a-5ac032b85cfc",
+      "link": "https://www.doctorbangladesh.com/prof-dr-mir-mahfuzul-haque-chowdhury/",
+      "imageId": "cb556081-72ef-4ec2-9d1c-339d7e3154df",
       "name": "Prof. Dr. Mir Mahfuzul Haque Chowdhury",
       "degree": "MBBS, MD (Internal Medicine)",
       "specialty": "Internal Medicine & Rheumatology Specialist",
       "workplace": "Sir Salimullah Medical College & Mitford Hospital",
-      "info": "Amin Diagnostic & Medical Services, Kushtia\nAddress: Ram Chandra Ray Chowdhury Road, College Mor, Court Para, Kushtia\nVisiting Hour: 5pm to 11pm (Thursday), 10am to 6pm (Friday)\nAppointment: +8801712243514\nCall Now",
+      "info": "Amin Diagnostic & Medical Services, Kushtia Address: Ram Chandra Ray Chowdhury Road, College Mor, Court Para, Kushtia Visiting Hour: 5pm to 11pm (Thursday), 10am to 6pm (Friday) Appointment: +8801712243514 Call Now",
       "chamber": {
         "hospital": "Bangladesh Specialized Hospital",
         "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8809666700100"
-      },
-      "id": "b518930a-68b2-4b90-ba41-523b80388ffc"
+        "appointmentNumber": "+8809666700100Call Now"
+      }
     },
     {
+      "id": "5b2ed975-87c6-43c7-8212-d03a2b2bbd00",
+      "departmentId": "3ec02e40-a08d-436d-b41a-5ac032b85cfc",
+      "link": "https://www.doctorbangladesh.com/dr-asm-musa-kobir/",
+      "imageId": "7e63fcb5-2179-44ef-b5df-30a93d5a8a35",
       "name": "Dr ASM Musa Kobir",
       "degree": "MBBS (DMC), MRCP (UK)",
       "specialty": "Medicine, Liver, & Gastroenterology Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Popular Diagnostic Centre, Kushtia",
         "address": "City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787817"
-      },
-      "id": "6e1a5269-b4f0-4c6f-9892-ea47ea9f09d8"
+        "appointmentNumber": "+8809666787817Call Now"
+      }
     },
     {
+      "id": "5647f083-5d2a-435b-bb0b-a879e6ac2b2b",
+      "departmentId": "3ec02e40-a08d-436d-b41a-5ac032b85cfc",
+      "link": "https://www.doctorbangladesh.com/dr-saleque-masud/",
+      "imageId": "c42f414b-0591-4c1e-a2fa-844ae2b3efcb",
       "name": "Dr. Saleque Masud",
       "degree": "MBBS, DTCD, MD (MEDICINE)",
       "specialty": "Chest Diseases (Asthma, Allergy, TB) & Medicine Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Sono Diagnostic Center, Kushtia",
         "address": "Sono Tower, College Mor, Court Para, Kushtia",
         "visitingTime": "11am to 1pm & 4pm to 7pm (Closed: Sat & Friday)",
-        "appointmentNumber": "+8801732651178"
-      },
-      "id": "c4ae8fe1-1b36-45dd-a7d9-c7dc7c030a2d"
+        "appointmentNumber": "+8801732651178Call Now"
+      }
     },
     {
+      "id": "5b1dc2ce-bf7b-4e37-b5a6-c9a215ee2905",
+      "departmentId": "3ec02e40-a08d-436d-b41a-5ac032b85cfc",
+      "link": "https://www.doctorbangladesh.com/dr-md-akramuzzaman-mintu/",
+      "imageId": "e3c7c28b-dcf6-4773-8742-e1b5b88f14d2",
       "name": "Dr. Md. Akramuzzaman (Mintu)",
       "degree": "MBBS, MD (Internal Medicine), Research Fellow (Rheumatology)",
       "specialty": "Medicine, Rheumatology & Diabetes Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Sono Diagnostic Center, Kushtia",
         "address": "Sono Tower, College Mor, Court Para, Kushtia",
         "visitingTime": "3pm to 8pm (Sat to Thu), 9.30am to 5pm (Friday)",
-        "appointmentNumber": "+8801710626618"
-      },
-      "id": "3e67e6c8-6a8f-499d-898f-65c162b9e186"
+        "appointmentNumber": "+8801710626618Call Now"
+      }
     },
     {
+      "id": "28f1e9b4-ab9a-415d-b11e-9ad96d970380",
+      "departmentId": "3ec02e40-a08d-436d-b41a-5ac032b85cfc",
+      "link": "https://www.doctorbangladesh.com/dr-quazi-nazmul-hoque-shaun/",
+      "imageId": "36807034-143e-45ef-99f4-92f2f8ffe611",
       "name": "Dr. Quazi Nazmul Hoque (Shaun)",
       "degree": "MBBS, BCS (Health), FCPS (Medicine)",
       "specialty": "Medicine Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Sono Diagnostic Center, Kushtia",
         "address": "Sono Tower, College Mor, Court Para, Kushtia",
         "visitingTime": "3pm to 9pm (Closed: Wednesday)",
-        "appointmentNumber": "+8801786359977"
-      },
-      "id": "7db61e0f-11ad-4b76-b954-6920fafcf05b"
+        "appointmentNumber": "+8801786359977Call Now"
+      }
     },
     {
+      "id": "0e2ff0d9-8d08-46c6-a758-feaeec86d1c2",
+      "departmentId": "3ec02e40-a08d-436d-b41a-5ac032b85cfc",
+      "link": "https://www.doctorbangladesh.com/dr-md-moin-uddin-medicine/",
+      "imageId": "5eec9538-011f-4eab-a56d-965efcea0089",
       "name": "Dr. Md. Moin Uddin",
       "degree": "MBBS, BCS (Health), MCPS (Medicine), FCPS (Medicine)",
       "specialty": "Medicine (All Diseases of Adults) Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Amin Diagnostic & Medical Services, Kushtia",
         "address": "Ram Chandra Ray Chowdhury Road, College Mor, Court Para, Kushtia",
         "visitingTime": "3pm to 8pm (Sat to Wed), 10am to 4pm (Fri)",
-        "appointmentNumber": "+8801712243514"
-      },
-      "id": "47a542ca-96e1-486b-a580-ae4eeca96117"
+        "appointmentNumber": "+8801712243514Call Now"
+      }
     },
     {
+      "id": "12c14c2d-9753-422b-a28a-26a88f36c80b",
+      "departmentId": "3ec02e40-a08d-436d-b41a-5ac032b85cfc",
+      "link": "https://www.doctorbangladesh.com/dr-md-nazim-uddin-medicine/",
+      "imageId": "e18941a9-c02e-4bae-928f-61f737c676db",
       "name": "Dr. Md. Nazim Uddin",
       "degree": "MBBS, BCS (Health), MD (Internal Medicine), MACP (USA)",
       "specialty": "Medicine Specialist",
@@ -94,11 +116,14 @@
         "hospital": "Popular Diagnostic Centre, Kushtia",
         "address": "City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia",
         "visitingTime": "2:30pm to 8pm (Closed: Mon & Friday)",
-        "appointmentNumber": "+8809666787817"
-      },
-      "id": "2a51b859-0450-4b42-8301-eb01e586424c"
+        "appointmentNumber": "+8809666787817Call Now"
+      }
     },
     {
+      "id": "6945a5c4-90c5-4e39-a6c7-26f1a7a5145d",
+      "departmentId": "3ec02e40-a08d-436d-b41a-5ac032b85cfc",
+      "link": "https://www.doctorbangladesh.com/dr-md-khairul-islam-shimon/",
+      "imageId": "14339d7e-362b-4159-8b32-b698f721fb65",
       "name": "Dr. Md. Khairul Islam (Shimon)",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), CCD (BIRDEM), MRCP (UK)",
       "specialty": "Medicine, Diabetes & Rheumatology Specialist",
@@ -108,11 +133,14 @@
         "hospital": "Popular Diagnostic Centre, Kushtia",
         "address": "City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia",
         "visitingTime": "9am to 8pm (Friday) & 3pm to 9pm (Saturday)",
-        "appointmentNumber": "+8809666787817"
-      },
-      "id": "94a209b4-b6c2-4ca3-b519-0d1dabfbc088"
+        "appointmentNumber": "+8809666787817Call Now"
+      }
     },
     {
+      "id": "abb2bad4-45c6-43e2-9856-4bd734b938de",
+      "departmentId": "3ec02e40-a08d-436d-b41a-5ac032b85cfc",
+      "link": "https://www.doctorbangladesh.com/dr-md-jafar-islam/",
+      "imageId": "0130aac9-c7de-429c-be17-96dfc9d3c634",
       "name": "Dr. Md. Jafar Islam",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MACP (USA)",
       "specialty": "Medicine Specialist",
@@ -122,11 +150,14 @@
         "hospital": "Popular Diagnostic Centre, Kushtia",
         "address": "City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787817"
-      },
-      "id": "c6e5f4d7-4198-4241-848a-1610cdb21b3a"
+        "appointmentNumber": "+8809666787817Call Now"
+      }
     },
     {
+      "id": "8c1d6520-94dc-4099-9ef7-8042ca182e0b",
+      "departmentId": "3ec02e40-a08d-436d-b41a-5ac032b85cfc",
+      "link": "https://www.doctorbangladesh.com/dr-md-rezaul-islam-hitu/",
+      "imageId": "09c8d610-d43b-4e69-b639-31a0c4000c69",
       "name": "Dr. Md. Rezaul Islam (Hitu)",
       "degree": "MBBS (DMC), BCS (Health), FCPS (Medicine)",
       "specialty": "Medicine Specialist",
@@ -136,11 +167,14 @@
         "hospital": "Sono Diagnostic Center, Kushtia",
         "address": "Sono Tower, College Mor, Court Para, Kushtia",
         "visitingTime": "3pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801323026501"
-      },
-      "id": "145cde16-b38d-4c42-b21d-1533b49e0074"
+        "appointmentNumber": "+8801323026501Call Now"
+      }
     },
     {
+      "id": "b8baac62-9344-4125-a0a7-e78036addf7f",
+      "departmentId": "3ec02e40-a08d-436d-b41a-5ac032b85cfc",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdul-momin-medicine/",
+      "imageId": "5354061a-e3f3-4916-90f9-575b3754c4da",
       "name": "Dr. Md. Abdul Momin",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MACP (USA), Higher Training (Endocrinology & Diabetes)",
       "specialty": "Medicine, Diabetes & Hormone Specialist",
@@ -150,9 +184,8 @@
         "hospital": "Popular Diagnostic Centre, Kushtia",
         "address": "City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia",
         "visitingTime": "10am to 5pm (Friday)",
-        "appointmentNumber": "+8809666787817"
-      },
-      "id": "1e6bf7a3-7a9d-47c0-ae80-310aaf63c10b"
+        "appointmentNumber": "+8809666787817Call Now"
+      }
     }
   ]
 }

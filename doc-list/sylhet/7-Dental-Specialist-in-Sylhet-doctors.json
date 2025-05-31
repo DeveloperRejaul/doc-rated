@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "97b0a1ba-9530-4263-b924-6be792716037",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-md-mushfiqul-hasan/",
+      "imageId": "6bfff1af-8526-403d-a86d-175e622860a1",
       "name": "Dr. Md. Mushfiqul Hasan",
       "degree": "BDS (DU), MPH (LU)",
       "specialty": "Oral, Dental & Maxillofacial Specialist Surgeon",
@@ -10,11 +14,14 @@
         "hospital": "Bangla Dental Care, Sylhet",
         "address": "Waves B, 95/A Shohid View (Ground Floor), Behind NCC Bank, Amborkhana, Sylhet",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801716691530"
-      },
-      "id": "998ef5f2-1901-4526-b9f0-12cdf017ae1b"
+        "appointmentNumber": "+8801716691530Call Now"
+      }
     },
     {
+      "id": "ae51ef14-accc-4cd2-b22a-e4b2938d3e8e",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-md-rafiqul-islam-dental/",
+      "imageId": "fec0140b-3d7d-4559-bb3f-52b783984d3a",
       "name": "Dr. Md. Rafiqul Islam",
       "degree": "BDS, BCS (Health), DDS (BSMMU), FICD (USA), FRSH (London)",
       "specialty": "Dentistry & Orthodontics Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Dental ClinicPopular Medical Center Ltd.",
         "address": "Room - 510, Level - 5, Kajoshah, Sylhet",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801911340774"
-      },
-      "id": "81672149-fc20-40bf-b4a4-06d1de730da9"
+        "appointmentNumber": "+8801911340774Call Now"
+      }
     },
     {
+      "id": "9e7c2a58-ce5c-4d31-ae20-dfe613c75b05",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-sayma-shahadat/",
+      "imageId": "a4b09229-32f7-4d0e-a87e-482784c3ae30",
       "name": "Dr. Sayma Shahadat",
       "degree": "BDS, BCS (Health), DDS (BSMMU), FICD (USA)",
       "specialty": "Oral & Dental Surgeon",
@@ -38,11 +48,14 @@
         "hospital": "Dental ClinicPopular Medical Center Ltd.",
         "address": "Room - 510, Level - 5, Kajoshah, Sylhet",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801911340774"
-      },
-      "id": "89f4e97c-6647-467f-a44c-0133afdfe569"
+        "appointmentNumber": "+8801911340774Call Now"
+      }
     },
     {
+      "id": "6f738fcb-30ba-41d1-9ad5-2860a17ab0d3",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-naimul-hasan-razin/",
+      "imageId": "97286ae1-f458-4cdd-8b1d-c1e549c303d1",
       "name": "Dr. Naimul Hasan Razin",
       "degree": "BDS (DU). PGT(OMS), BSMMU & CONSERVATIVE DENTISTRY (MMCH)",
       "specialty": "Oral, Dental & Maxillofacial Specialist Surgeon",
@@ -52,25 +65,31 @@
         "hospital": "Tooth Castle, Sylhet",
         "address": "Shwapnonir (Ground floor), 17/A, Block-C, Main Road, Shahjalal Uposhohor, Sylhet",
         "visitingTime": "10.30am to 2pm & 5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+88 01749075420"
-      },
-      "id": "a899d552-82ac-4e01-ae1d-c7b656830a11"
+        "appointmentNumber": "+88 01749075420Call Now"
+      }
     },
     {
+      "id": "c974e330-e793-4494-b0f3-2b5fb8c588b2",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-alam-shikder/",
+      "imageId": "c2aec5f0-481e-476a-affb-67359e921474",
       "name": "Dr. Muhammad Alam Sikder",
       "degree": "BDS, DDS, BCS",
       "specialty": "Oral & Dental Surgeon",
       "workplace": "Sylhet MAG Osmani Medical College & Hospital",
-      "info": "Dr. Muhammad Alam Sikder is a Dentist in Sylhet. His qualification is BDS, DDS, BCS. He is an Associate Professor & Head-SDM, Dental Unit of  at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Trust Medical Services, Sylhet. Practicing hour of Dr. Muhammad Alam Sikder at Trust Medical Services, Sylhet is 4pm to 9pm (Closed: Friday).",
+      "info": "Dr. Muhammad Alam Sikder is a Dentist in Sylhet. His qualification is BDS, DDS, BCS. He is an Associate Professor & Head-SDM, Dental Unit of at Sylhet MAG Osmani Medical College & Hospital. He regularly provides treatment to his patients at Trust Medical Services, Sylhet. Practicing hour of Dr. Muhammad Alam Sikder at Trust Medical Services, Sylhet is 4pm to 9pm (Closed: Friday).",
       "chamber": {
         "hospital": "Trust Medical Services, Sylhet",
         "address": "16, Modhushahid, New Medical Road, Sylhet - 3100",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801712604174"
-      },
-      "id": "795ee2f5-cda3-46ba-9988-7514bb89f024"
+        "appointmentNumber": "+8801712604174Call Now"
+      }
     },
     {
+      "id": "3930c71f-40e6-477c-b0e7-f8fa26f22d45",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-m-a-shahed/",
+      "imageId": "921406bc-2247-42fc-83fe-a7e09a399580",
       "name": "Dr. M. A. Shahed",
       "degree": "BDS, PGT, MPH, LU (OM&S)",
       "specialty": "Dental, Oral & Maxillofacial Surgery Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Ibn Sina Hospital, Sylhet",
         "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
         "visitingTime": "10am to 1pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009640"
-      },
-      "id": "80f49bf6-03c5-4ddc-8574-7bdbcff214fc"
+        "appointmentNumber": "+8809610009640Call Now"
+      }
     },
     {
+      "id": "6e86c203-c85c-41e3-876a-eb46a3964c71",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-tasneem-faruqui/",
+      "imageId": "770fe70a-2749-49ae-aeca-db01bde8fe9a",
       "name": "Dr. Tasneem Faruqui",
       "degree": "BDS, PGT, MPH",
       "specialty": "Oral & Dental Diseases Specialist & Surgeon",
@@ -94,11 +116,14 @@
         "hospital": "Trust Medical Services, Sylhet",
         "address": "16, Modhushahid, New Medical Road, Sylhet - 3100",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801917405659"
-      },
-      "id": "b119b378-ae86-4c84-8d43-d8b64e5877ea"
+        "appointmentNumber": "+8801917405659Call Now"
+      }
     },
     {
+      "id": "10321ea8-ef7c-4697-aa89-7beff7056cb7",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-md-talal-mamun/",
+      "imageId": "5ddcd10a-0751-4832-bea7-0d6ca3e6c889",
       "name": "Dr. Md. Talal Mamun",
       "degree": "BDS (DU), PGT, FCPS (OMS)",
       "specialty": "Dental, Oral & Maxillofacial Surgery Specialist",
@@ -108,11 +133,14 @@
         "hospital": "Al Haramain Hospital, Sylhet",
         "address": "Samato-30, Chali Bandar, Bishwa Road, Subhani Ghat, Sylhet",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801931225555"
-      },
-      "id": "5f4a3ced-260a-4f72-8e54-5b27d0a9128e"
+        "appointmentNumber": "+8801931225555Call Now"
+      }
     },
     {
+      "id": "6aaff231-54ed-4dfd-804b-4dd690c64eec",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-marjana-siddique-moury/",
+      "imageId": "e6e5a7ab-c7e3-4d4d-8343-67188885ce07",
       "name": "Dr. Marjana Siddique Moury",
       "degree": "BDS (SOMC), PGT (OMS)",
       "specialty": "Oral, Dental & Maxillofacial Surgery Specialist",
@@ -122,11 +150,14 @@
         "hospital": "Quick Dental Care, Sylhet",
         "address": "Quick Dental Care, Akhalia, Sylhet",
         "visitingTime": "10am to 2pm & 4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801307978439"
-      },
-      "id": "ccf4b488-c6f0-4346-b960-4674c05e52d3"
+        "appointmentNumber": "+8801307978439Call Now"
+      }
     },
     {
+      "id": "dd3f7653-b4c2-492d-894b-35517c951d8a",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-sanchita-sultana/",
+      "imageId": "7c7ff8e2-b603-4445-8f43-4d2a1bfdaabf",
       "name": "Dr. Sanchita Sultana",
       "degree": "BDS (DU), MPH (LU), PGT (OMS)",
       "specialty": "Oral, Dental & Maxillofacial Surgery Specialist",
@@ -136,11 +167,14 @@
         "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
         "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
         "visitingTime": "10am to 2pm & 6pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801711407472"
-      },
-      "id": "619c70f2-6224-4b5b-9113-5f93827be364"
+        "appointmentNumber": "+8801711407472Call Now"
+      }
     },
     {
+      "id": "180436e6-5453-4880-ad0f-d954efddddde",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-s-a-m-imran-hossain/",
+      "imageId": "c47875c0-3d81-45bf-b682-e6cf59e0e534",
       "name": "Dr. S.A.M. Imran Hossain",
       "degree": "BDS, FCPS",
       "specialty": "Dental & Oral Specialist Surgeon",
@@ -150,11 +184,14 @@
         "hospital": "North East Medical College & Hospital",
         "address": "Gohorpur Road, South Surma, Sylhet - 3100",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801735603075"
-      },
-      "id": "28615ab8-3ded-406b-8f1d-69d3acd5c61e"
+        "appointmentNumber": "+8801735603075Call Now"
+      }
     },
     {
+      "id": "e4b5f86e-fade-44c7-bda1-6cac5ddfbaf7",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-syeda-tasmia-kawser/",
+      "imageId": "509e2d78-f968-47d3-989e-d7776180134e",
       "name": "Dr. Syeda Tasmia Kawser",
       "degree": "BDS, FCPS",
       "specialty": "Dental, Oral & Maxillofacial Specialist Surgeon",
@@ -164,11 +201,14 @@
         "hospital": "North East Medical College & Hospital",
         "address": "Gohorpur Road, South Surma, Sylhet - 3100",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801735603075"
-      },
-      "id": "a24e19c1-5cfc-4f6f-9a39-d856d6ec078f"
+        "appointmentNumber": "+8801735603075Call Now"
+      }
     },
     {
+      "id": "e56c4563-de4b-40ac-a51b-a8bf4bfc9c06",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-mst-latifa-yasmin-rita/",
+      "imageId": "40b03142-28a2-473a-8c75-073b3fa81684",
       "name": "Dr. Mst. Latifa Yasmin Rita",
       "degree": "BDS, PGT (Prosthodontics)",
       "specialty": "Oral, Dental & Maxillofacial Surgery Specialist",
@@ -178,11 +218,14 @@
         "hospital": "Ibn Sina Hospital, Sylhet",
         "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
         "visitingTime": "Morning (Closed: Friday)",
-        "appointmentNumber": "+8809610009640"
-      },
-      "id": "a45dd614-f595-4ade-b14e-3e7433ff5074"
+        "appointmentNumber": "+8809610009640Call Now"
+      }
     },
     {
+      "id": "304fb4a6-b24f-4b1e-a57d-3ad9afd1be07",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-tasnim-ahmed/",
+      "imageId": "c0361abb-7016-4eab-9fc9-840a4d41b097",
       "name": "Dr. Tasnim Ahmed",
       "degree": "BDS, MS",
       "specialty": "Dentist & Oral Surgeon",
@@ -192,11 +235,14 @@
         "hospital": "North East Medical College & Hospital",
         "address": "Gohorpur Road, South Surma, Sylhet - 3100",
         "visitingTime": "9am to 2pm (Sunday, Tuesday & Thursday)",
-        "appointmentNumber": "+8801735603075"
-      },
-      "id": "224684a5-e6b3-4a85-90ff-1dde9f5b6d60"
+        "appointmentNumber": "+8801735603075Call Now"
+      }
     },
     {
+      "id": "7776e03a-f945-4706-b443-05c4cfd01d7b",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-m-a-rakib-dentist/",
+      "imageId": "bd9c8a32-6909-4181-905e-acb00424f1c2",
       "name": "Dr. M A Rakib",
       "degree": "BDS, MPH",
       "specialty": "Tooth Implant & General Dentistry Specialist",
@@ -206,11 +252,14 @@
         "hospital": "Decent Oral and Dental Care",
         "address": "58, East Stadium Market (1st Floor), Sylhet",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801711955197"
-      },
-      "id": "b9a7def7-5916-4c6f-9791-fb2c5b2f0f77"
+        "appointmentNumber": "+8801711955197Call Now"
+      }
     },
     {
+      "id": "c20bc3c2-392d-4464-8d59-2b0a6a942955",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-sadia-sajnin-nipun/",
+      "imageId": "5391a684-0637-4417-a5cb-6a95ee02ddf7",
       "name": "Dr. Sadia Sajnin Nipun",
       "degree": "BDS (DU), PGT in Oral & Maxillofacial Surgery (BSMMU)",
       "specialty": "Oral & Maxillofacial Surgery Specialist",
@@ -220,11 +269,14 @@
         "hospital": "Shamimabad Dental Point, Sylhet",
         "address": "Shamimabad, Kanishail Road (Beside International University), Sylhet",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801784431480"
-      },
-      "id": "95e9e683-1981-46eb-aa9b-af8665432840"
+        "appointmentNumber": "+8801784431480Call Now"
+      }
     },
     {
+      "id": "2d590c79-5638-4461-b200-8dc748ff2355",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-abul-bashar-md-monirul-islam/",
+      "imageId": "c80954da-f68a-432a-87d2-264c5e028c01",
       "name": "Dr. Abul Bashar Md. Monirul Islam",
       "degree": "BDS (DU), MPH (LU)",
       "specialty": "Oral, Dental & Maxillofacial Specialist Surgeon",
@@ -234,11 +286,14 @@
         "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
         "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
         "visitingTime": "5pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801616869432"
-      },
-      "id": "af287655-2f65-4e2c-b31e-f0070459c2d3"
+        "appointmentNumber": "+8801616869432Call Now"
+      }
     },
     {
+      "id": "e92779cb-218f-4fcf-ad65-bed722251b68",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-md-rubel-ahmed/",
+      "imageId": "1191f525-7073-403a-9fe9-0439f8f95212",
       "name": "Dr. Md. Rubel Ahmed",
       "degree": "BDS, MPH",
       "specialty": "Oral & Dental Specialist Surgeon",
@@ -248,11 +303,14 @@
         "hospital": "Popular Dental Care",
         "address": "Sanwar Mansion, West Shibgonj, Sylhet",
         "visitingTime": "5.30pm to 9.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801819129677"
-      },
-      "id": "00190277-2b2c-496c-a8d7-f2026ad2b78d"
+        "appointmentNumber": "+8801819129677Call Now"
+      }
     },
     {
+      "id": "671e38aa-2c94-4b9b-9413-18f8e63f28e8",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-snigdha-biswas/",
+      "imageId": "7a924813-7147-450c-b254-d2f4cb285670",
       "name": "Dr. Snigdha Biswas",
       "degree": "BDS (DU), MPH (Community Dentistry), PGT (Oral & Maxillofacial Surgery)",
       "specialty": "Dental, Oral & Maxillofacial Surgeon",
@@ -262,11 +320,14 @@
         "hospital": "Saumik Dental Surgery",
         "address": "VIP Road (Opposite to Modon Mohon College), Lamabazar, Sylhet",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801676112058"
-      },
-      "id": "d4be319b-9b24-4625-875d-7e73ab481dc7"
+        "appointmentNumber": "+8801676112058Call Now"
+      }
     },
     {
+      "id": "50521c85-71f9-4e74-9ff1-bfbab281a705",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-anandita-dey/",
+      "imageId": "6bebdc73-b34c-46d1-a1a9-975fc0a9d324",
       "name": "Dr. Anandita Dey",
       "degree": "BDS, MPH",
       "specialty": "Dental & Oral Surgeon",
@@ -276,11 +337,14 @@
         "hospital": "North East Medical College & Hospital",
         "address": "Gohorpur Road, South Surma, Sylhet - 3100",
         "visitingTime": "11am to 1.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801735603075"
-      },
-      "id": "5cb4bd8c-1041-4852-a023-d18a34b99c0a"
+        "appointmentNumber": "+8801735603075Call Now"
+      }
     },
     {
+      "id": "6f4128db-18ef-4a81-ac8e-5c74dd43ce3e",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-anamika-paul/",
+      "imageId": "f914fad9-25b3-44e7-918c-73727c0666ba",
       "name": "Dr. Anamika Paul",
       "degree": "BDS (DU)",
       "specialty": "Oral, Dental & Maxillofacial Surgery Specialist",
@@ -290,11 +354,14 @@
         "hospital": "Oasis Hospital, Sylhet",
         "address": "Bishwa Road, Subhanighat, Sylhet Sadar, Sylhet - 3100",
         "visitingTime": "4pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801763990044"
-      },
-      "id": "61c670ce-d5bc-497f-b532-f128d71f20fd"
+        "appointmentNumber": "+8801763990044Call Now"
+      }
     },
     {
+      "id": "dfe1d41f-2958-4a33-9552-8ca3f8e7f6c1",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-shamim-ahmed-pasha/",
+      "imageId": "46be6028-8e81-4a11-b4be-90c2d8548d09",
       "name": "Dr. Shamim Ahmed Pasha",
       "degree": "BDS (SOMC), PGT (OMS)",
       "specialty": "Oral, Dental & Maxillofacial Surgery Specialist",
@@ -304,11 +371,14 @@
         "hospital": "Heaven Dental Surgery, Sylhet",
         "address": "Mitali Complex (1st Floor), Subidbazar Point, Sylhet",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801750025531"
-      },
-      "id": "a939849f-2aa0-448d-8a77-251ad8b3810e"
+        "appointmentNumber": "+8801750025531Call Now"
+      }
     },
     {
+      "id": "43bdeffb-6df8-44be-80a0-fb1b6f0b0a0b",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-syeda-tasfia-kawser/",
+      "imageId": "3e0aae09-268c-4a35-b54a-4282a19baf05",
       "name": "Dr. Syeda Tasfia Kawser",
       "degree": "BDS (CU)",
       "specialty": "Dental & Oral Surgeon",
@@ -318,11 +388,14 @@
         "hospital": "North East Medical College & Hospital",
         "address": "Gohorpur Road, South Surma, Sylhet - 3100",
         "visitingTime": "9am to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8801735603075"
-      },
-      "id": "96f58d7b-9627-4478-8a6e-05426beb937e"
+        "appointmentNumber": "+8801735603075Call Now"
+      }
     },
     {
+      "id": "fd3911d7-cbcc-4c8a-85c5-0c092590602c",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-prokriti-rani-sinha/",
+      "imageId": "8c9f5f58-acb1-4a68-a480-ec44473b561f",
       "name": "Dr. Prokriti Rani Sinha",
       "degree": "BDS, PGT (Prosthodontics)",
       "specialty": "Oral, Dental Specialist & Maxillofacial Surgeon",
@@ -332,11 +405,14 @@
         "hospital": "North East Medical College & Hospital",
         "address": "Gohorpur Road, South Surma, Sylhet - 3100",
         "visitingTime": "9am to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8801735603075"
-      },
-      "id": "e48fb3a1-6c4a-4698-89a6-1d1285e1a4e7"
+        "appointmentNumber": "+8801735603075Call Now"
+      }
     },
     {
+      "id": "c13048d0-07b5-4915-8677-eb3e12ff7fbf",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-sumaiya-zaman/",
+      "imageId": "999f9ff4-809b-46d4-859e-5efb4117716d",
       "name": "Dr. Sumaiya Zaman",
       "degree": "BDS (DU), MPH",
       "specialty": "Dental & Oral Surgeon",
@@ -346,11 +422,14 @@
         "hospital": "North East Medical College & Hospital",
         "address": "Gohorpur Road, South Surma, Sylhet - 3100",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801735603075"
-      },
-      "id": "b1a91389-ac69-4436-9f4c-5bf3c7c736e4"
+        "appointmentNumber": "+8801735603075Call Now"
+      }
     },
     {
+      "id": "3b1edfe9-0ab4-4e4b-b054-1ec9634ad626",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-md-saif-hasan/",
+      "imageId": "901e2fa4-2cfe-4af7-956e-38313cfc7122",
       "name": "Dr. Md. Saif Hasan",
       "degree": "BDS",
       "specialty": "Dental Specialist & Surgeon",
@@ -360,11 +439,14 @@
         "hospital": "North East Medical College & Hospital",
         "address": "Gohorpur Road, South Surma, Sylhet - 3100",
         "visitingTime": "11am to 1.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801735603075"
-      },
-      "id": "1991b063-74a3-4f64-9708-61fe6d0a9e5b"
+        "appointmentNumber": "+8801735603075Call Now"
+      }
     },
     {
+      "id": "59192f5a-c197-4335-bb34-bc7cc9c86697",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-minhaz-rouf-sakib/",
+      "imageId": "4ba2ad25-76b9-4833-a789-7b930ab54670",
       "name": "Dr. Minhaz Rouf Sakib",
       "degree": "BDS (SUST), PGT (NEMC)",
       "specialty": "Oral & Dental Surgeon (Root Canal & Braces System Expert)",
@@ -374,11 +456,14 @@
         "hospital": "Anodyne Dental Care",
         "address": "Queens Tower, Humayun Chottor, Kodomtoli, Sylhet",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801316431567"
-      },
-      "id": "f27b7e13-b780-4bef-b06f-3ac2ed349684"
+        "appointmentNumber": "+8801316431567Call Now"
+      }
     },
     {
+      "id": "49dab7bf-79a9-4fad-95d2-0bf6c9f3f65c",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-shafikul-alam/",
+      "imageId": "e56bc959-8184-4164-ac81-cff79f9905e3",
       "name": "Dr. Shafikul Alam",
       "degree": "BDS (DU)",
       "specialty": "Oral & Dental Surgeon",
@@ -388,11 +473,14 @@
         "hospital": "Bondhu Deental Surgery & Endodontic Clinic",
         "address": "White Rose Market, Ideal Hospital, Rikabibazar, Sylhet",
         "visitingTime": "11am to 2.30pm & 6pm to 9.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801834863906"
-      },
-      "id": "f4ff1f83-0ead-47b8-ac18-83a8811f4489"
+        "appointmentNumber": "+8801834863906Call Now"
+      }
     },
     {
+      "id": "7c8e89b5-b8e9-45be-bfe7-175d8bb8e20c",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-md-nurul-amin-miah/",
+      "imageId": "3347263b-cfce-4e85-854b-26d768b560e3",
       "name": "Dr. Md. Nurul Amin Miah",
       "degree": "BDS, BCS (health), MSc (London)",
       "specialty": "Oral and Maxillofacial Surgeon (Dental Surgeon)",
@@ -402,11 +490,14 @@
         "hospital": "Siyam Dental Surgery, Sylhet",
         "address": "H S Tower, East Dorgah Gate, Sylhet (Besides Noorjahan Hospital)",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801753040748"
-      },
-      "id": "dd75da4a-aa32-45b7-a0ac-12287bd33731"
+        "appointmentNumber": "+8801753040748Call Now"
+      }
     },
     {
+      "id": "e5cbd8ba-0fef-4d46-acca-84a5a0e03945",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-md-imran-ahamed-chowdhury/",
+      "imageId": "b57c1bbf-e33a-4b90-a436-08c6769298f3",
       "name": "Dr. Md. Imran Ahamed Chowdhury",
       "degree": "BDS (DU), PGT (ShSMC)",
       "specialty": "Oral & Dental Surgeon",
@@ -416,11 +507,14 @@
         "hospital": "Dr. Imran's Dental Care",
         "address": "4th Floor (Noorjahan Hospital), Dargah Gate, Sylhet",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801717542450, +8801682347387"
-      },
-      "id": "7628c047-4c03-4b57-969b-23ae0abf752d"
+        "appointmentNumber": "+8801717542450, +8801682347387Call Now"
+      }
     },
     {
+      "id": "23ffa33f-a62a-48d0-9ff0-a0691fe386b4",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-mehdi-rahman/",
+      "imageId": "d9e7652a-9a28-487a-babb-949a0ae790fd",
       "name": "Dr. Mehdi Rahman",
       "degree": "BDS, PGT (Oral & Maxillofacial Surgery)",
       "specialty": "Oral & Dental Surgeon",
@@ -430,23 +524,25 @@
         "hospital": "Rahman Dental Surgery, Sylhet",
         "address": "Temukhi Point (Above Banoful), Kumargao, Sylhet",
         "visitingTime": "10am to 1pm and 4pm to 9pm",
-        "appointmentNumber": "+8801781113241"
-      },
-      "id": "a93a4024-3d58-4e1c-a0af-7ebc33b2e282"
+        "appointmentNumber": "+8801781113241Call Now"
+      }
     },
     {
+      "id": "a1c6f554-5bdb-43d8-b796-0738474f9eae",
+      "departmentId": "1bca1f25-b8ff-4895-9f70-1cd560b248de",
+      "link": "https://www.doctorbangladesh.com/dr-pangkaj-paul/",
+      "imageId": "94cc570a-5525-4314-94e9-c0ac2bb048f3",
       "name": "Dr. Pangkaj Paul",
       "degree": "BDS (Rajshahi Medical College)",
       "specialty": "Oral & Dental Surgeon",
       "workplace": "Blue Light Dental Care, Sylhet",
-      "info": "Ma Pharmacy, Sherpur\nAddress: Haji Tota Miya Market, Afrojganj, Sherpur, Moulovibazar\nVisiting Hour: 11am to 2pm (Closed: Friday)\nAppointment: +8801761570191\nCall Now",
+      "info": "Ma Pharmacy, Sherpur Address: Haji Tota Miya Market, Afrojganj, Sherpur, Moulovibazar Visiting Hour: 11am to 2pm (Closed: Friday) Appointment: +8801761570191 Call Now",
       "chamber": {
         "hospital": "Blue Light Dental Care, Sylhet",
         "address": "Choyab Ali Bhaban (2nd Floor), Mendibagh, Sylhet",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801708529206"
-      },
-      "id": "ede24694-63ad-4375-a4c5-7a4cb7647aa3"
+        "appointmentNumber": "+8801708529206Call Now"
+      }
     }
   ]
 }

@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "489a49e1-04f1-4801-a6b9-ea6358137f44",
+      "departmentId": "a0114032-e378-46ff-ac85-c31e2ffcefda",
+      "link": "https://www.doctorbangladesh.com/dr-md-nazrul-islam-child/",
+      "imageId": "580f2728-f5bb-4557-a58a-517ac98b2b3d",
       "name": "Prof. Dr. Md. Nazrul Islam",
       "degree": "MBBS, BCS (Health), MCPS (Pediatrics), FCPS (Pediatrics), MD (Neonatal)",
       "specialty": "Neonatal & Child Diseases Specialist",
@@ -10,25 +14,31 @@
         "hospital": "Sayem Diagno Complex & Hospital, Mymensingh",
         "address": "30/A/1, Dengu Bepari Road, Sehora, Mymensingh – 2200",
         "visitingTime": "4pm to 10pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801725516141"
-      },
-      "id": "4a21f65c-97a3-43d2-9305-1e68f42c0daf"
+        "appointmentNumber": "+8801725516141Call Now"
+      }
     },
     {
+      "id": "35e81fc5-431b-4330-bf0f-2f986a5cde1d",
+      "departmentId": "a0114032-e378-46ff-ac85-c31e2ffcefda",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-azizul-haque-child/",
+      "imageId": "2f987b80-8287-468b-9e6a-81bfce4a52ee",
       "name": "Prof. Dr. Md. Azizul Haque",
       "degree": "MBBS, FCPS (Pediatrics), DHPED (AU), FWHO (Sydney, Bangkok & India)",
       "specialty": "Neonatal, Child & Adolescent Diseases Specialist",
       "workplace": "Mymensingh Medical College & Hospital",
-      "info": "Nexus Hospital, Mymensingh\nAddress: 29, Sehora, Mymensingh Sadar, Mymensingh – 2200\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8801796586561\nCall Now",
+      "info": "Nexus Hospital, Mymensingh Address: 29, Sehora, Mymensingh Sadar, Mymensingh – 2200 Visiting Hour: Unknown. Please call to know visiting hour Appointment: +8801796586561 Call Now",
       "chamber": {
         "hospital": "Sodesh Hospital, Mymensingh",
         "address": "298/2, Maskanda (Bus Stand), Mymensingh - 2200",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666777990"
-      },
-      "id": "549e8782-1dfc-445d-b601-2b99dda5f7ed"
+        "appointmentNumber": "+8809666777990Call Now"
+      }
     },
     {
+      "id": "6094a35b-7a4e-4f91-b53c-0968f0ef46ab",
+      "departmentId": "a0114032-e378-46ff-ac85-c31e2ffcefda",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-karim-khan/",
+      "imageId": "b52ef4c4-29d0-43bf-be46-e150995a7e55",
       "name": "Prof. Dr. M. Karim Khan",
       "degree": "MBBS, DPED (Vienna), MCPS (Pediatrics), DCH (Glasgow), DTM&H (UK), MPH (DU)",
       "specialty": "Newborn, Child & Adolescent Diseases Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Sodesh Hospital, Mymensingh",
         "address": "298/2, Maskanda (Bus Stand), Mymensingh - 2200",
         "visitingTime": "4pm to 8:30pm (Closed: Friday)",
-        "appointmentNumber": "+8809666777990"
-      },
-      "id": "3afa0acb-a380-489d-b955-2e8da2857fdf"
+        "appointmentNumber": "+8809666777990Call Now"
+      }
     },
     {
+      "id": "dfb71d7a-cf93-4974-abaa-0a2bbf472b81",
+      "departmentId": "a0114032-e378-46ff-ac85-c31e2ffcefda",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-nazrul-islam-child/",
+      "imageId": "a5a83c98-437f-4159-9078-7a72a91a94d6",
       "name": "Prof. Dr. Md. Nazrul Islam",
       "degree": "MBBS, FCPS (Pediatrics)",
       "specialty": "Neonatal & Child Diseases Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Delta Health Care, Mymensingh",
         "address": "55/5, Medical College Gate, Charpara, Mymensingh",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801847158301"
-      },
-      "id": "31961eab-c960-4491-a4c6-164ff96240df"
+        "appointmentNumber": "+8801847158301Call Now"
+      }
     },
     {
+      "id": "fe52c0ee-4f45-443d-8fe8-6f5d77e73309",
+      "departmentId": "a0114032-e378-46ff-ac85-c31e2ffcefda",
+      "link": "https://www.doctorbangladesh.com/dr-biswajit-chowdhury/",
+      "imageId": "82a4f768-a21a-441a-809f-8bd0047fd862",
       "name": "Dr. Biswajit Chowdhury",
       "degree": "MBBS (Dhaka), BCS (Health), MD (Child Health)",
       "specialty": "Neonatal & Child Diseases Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Labaid Diagnostic, Mymensingh",
         "address": "72, Charpara, Medical College Gate, Mymensingh",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801766663000"
-      },
-      "id": "5ed16912-2456-4ce2-8997-152bccddad22"
+        "appointmentNumber": "+8801766663000Call Now"
+      }
     },
     {
+      "id": "8f2040ba-985b-4b01-b9ce-650801046a9b",
+      "departmentId": "a0114032-e378-46ff-ac85-c31e2ffcefda",
+      "link": "https://www.doctorbangladesh.com/dr-md-ayub-ali-child/",
+      "imageId": "b8007290-1b6c-4701-a105-c018773a7037",
       "name": "Dr. Md. Ayub Ali",
       "degree": "MBBS, DCH, FCPS (Pediatrics), MD (Neonatal)",
       "specialty": "Neonatal & Child Diseases Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Delta Health Care, Mymensingh",
         "address": "55/5, Medical College Gate, Charpara, Mymensingh",
         "visitingTime": "3pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801847158301"
-      },
-      "id": "c4792bde-8793-4d16-bd36-e16a5408ae6c"
+        "appointmentNumber": "+8801847158301Call Now"
+      }
     },
     {
+      "id": "c5c61e8a-eb56-47c3-b2af-7b788e9f385e",
+      "departmentId": "a0114032-e378-46ff-ac85-c31e2ffcefda",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahmudul-hasan/",
+      "imageId": "995e8ecc-2ae1-4fdb-b6d1-64af6581a813",
       "name": "Dr. Md. Mahmudul Hasan",
       "degree": "MBBS, BCS (Health), MD (Pediatrics)",
       "specialty": "Newborn, Adolescent & Child Diseases Specialist",
@@ -94,11 +116,14 @@
         "hospital": "Popular Diagnostic Center, Mymensingh",
         "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787814"
-      },
-      "id": "83ae1e2b-0f90-40d3-aadf-d3bbbd6dbdb9"
+        "appointmentNumber": "+8809666787814Call Now"
+      }
     },
     {
+      "id": "bcf3a1b3-a9b9-432c-a585-6ddc54bc05b8",
+      "departmentId": "a0114032-e378-46ff-ac85-c31e2ffcefda",
+      "link": "https://www.doctorbangladesh.com/dr-manik-mazumder/",
+      "imageId": "7a06b641-c00d-4379-8234-74ab4f94503e",
       "name": "Dr. Manik Mazumder",
       "degree": "MBBS, BCS (Health), ENS (Germany), MD (Pediatrics)",
       "specialty": "Newborn, Adolescent & Child Diseases Specialist",
@@ -108,11 +133,14 @@
         "hospital": "Popular Diagnostic Center, Mymensingh",
         "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
         "visitingTime": "3pm to 9pm (Everyday)",
-        "appointmentNumber": "+8809666787814"
-      },
-      "id": "caf9c8fc-f9c8-411f-bd41-cd09fc1ddc5b"
+        "appointmentNumber": "+8809666787814Call Now"
+      }
     },
     {
+      "id": "5fededad-a57e-4404-a4c6-073c74f3182d",
+      "departmentId": "a0114032-e378-46ff-ac85-c31e2ffcefda",
+      "link": "https://www.doctorbangladesh.com/dr-provati-pandit/",
+      "imageId": "0a9afc8d-6c74-4493-85fa-e66d48a2a01f",
       "name": "Dr. Provati Pandit",
       "degree": "MBBS, BCS (Health), MD (Pediatrics), Training (Neurology)",
       "specialty": "Child & Child Neurology Specialist",
@@ -122,11 +150,14 @@
         "hospital": "Popular Diagnostic Center, Mymensingh",
         "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
         "visitingTime": "3pm to 8pm (Closed: Tuesday)",
-        "appointmentNumber": "+8809666787814"
-      },
-      "id": "8046e27d-2f1d-4a4b-8b92-98dea20bbca3"
+        "appointmentNumber": "+8809666787814Call Now"
+      }
     },
     {
+      "id": "e11569c3-d179-4cdb-ac6c-50f29af333f4",
+      "departmentId": "a0114032-e378-46ff-ac85-c31e2ffcefda",
+      "link": "https://www.doctorbangladesh.com/dr-biplob-kumar-saha-child/",
+      "imageId": "c7e46bd1-f1b5-4ac0-a019-f28a80499cea",
       "name": "Dr. Biplob Kumar Saha",
       "degree": "MBBS, BCS (Health), FCPS (Pediatrics), MD (Pediatrics)",
       "specialty": "Newborn, Adolescent & Child Diseases Specialist",
@@ -136,11 +167,14 @@
         "hospital": "Serum Hospital Pvt. Ltd, Mymensingh",
         "address": "Chomir Plaza, Charpara Mor, Mymensingh – 2200",
         "visitingTime": "2.30pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801732141999"
-      },
-      "id": "0b5b6f25-a6c6-4982-a4d1-2d4e4e5b73e8"
+        "appointmentNumber": "+8801732141999Call Now"
+      }
     },
     {
+      "id": "fce54831-a6bd-4a7a-8160-1de23f857dfd",
+      "departmentId": "a0114032-e378-46ff-ac85-c31e2ffcefda",
+      "link": "https://www.doctorbangladesh.com/prof-dr-mirza-manjurul-haque/",
+      "imageId": "df9afe1a-da4a-4536-9885-ade44e92eae0",
       "name": "Prof. Dr. Mirza Manjurul Haque",
       "degree": "MBBS, DCH (DU)",
       "specialty": "Neonatal & Child Diseases Specialist",
@@ -150,11 +184,14 @@
         "hospital": "Nexus Hospital, Mymensingh",
         "address": "29, Sehora, Mymensingh Sadar, Mymensingh – 2200",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801796586561"
-      },
-      "id": "7b765202-d628-4c0a-8f1b-83b917b97d2c"
+        "appointmentNumber": "+8801796586561Call Now"
+      }
     },
     {
+      "id": "117a7500-9efa-4a52-b0ae-84568d2d7015",
+      "departmentId": "a0114032-e378-46ff-ac85-c31e2ffcefda",
+      "link": "https://www.doctorbangladesh.com/dr-md-kamruzzaman-child/",
+      "imageId": "e7d56ddf-7c36-4f5d-9a04-12b3ffedce70",
       "name": "Dr. Md. Kamruzzaman",
       "degree": "MBBS, DCH (DU)",
       "specialty": "Child Diseases Specialist",
@@ -164,11 +201,14 @@
         "hospital": "Union Specialized Hospital, Mymensingh",
         "address": "337, Charpara, Mymensingh",
         "visitingTime": "Sat to Thu (Closed: Sunday)",
-        "appointmentNumber": "+8801958280000"
-      },
-      "id": "48fda1b7-7e25-4b0c-94c9-b0c33f5af05d"
+        "appointmentNumber": "+8801958280000Call Now"
+      }
     },
     {
+      "id": "d6ef0f7b-37eb-4309-9511-eaba97517661",
+      "departmentId": "a0114032-e378-46ff-ac85-c31e2ffcefda",
+      "link": "https://www.doctorbangladesh.com/dr-sabiha-parvin-liza/",
+      "imageId": "7cf5cd8f-dc27-467b-a1ca-91c78d703ae1",
       "name": "Dr. Sabiha Parvin Liza",
       "degree": "MBBS, MD (CHILD)",
       "specialty": "Neonatal & Child Diseases Specialist",
@@ -178,11 +218,14 @@
         "hospital": "Union Specialized Hospital, Mymensingh",
         "address": "337, Charpara, Mymensingh",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801958280000"
-      },
-      "id": "add3f265-f7b8-4049-b2e0-8ba3bb33066c"
+        "appointmentNumber": "+8801958280000Call Now"
+      }
     },
     {
+      "id": "735a0b91-2948-4eb5-be1a-6bf335e82399",
+      "departmentId": "a0114032-e378-46ff-ac85-c31e2ffcefda",
+      "link": "https://www.doctorbangladesh.com/prof-dr-a-s-m-ruhul-quddus/",
+      "imageId": "0025a5b9-2833-4c9f-99e7-1e1fb9630c30",
       "name": "Prof. Dr. A.S.M. Ruhul Quddus",
       "degree": "MBBS, DCH, MD (Pediatrics)",
       "specialty": "Newborn & Child Diseases Specialist",
@@ -192,11 +235,14 @@
         "hospital": "Delta Health Care, Mymensingh",
         "address": "55/5, Medical College Gate, Charpara, Mymensingh",
         "visitingTime": "3pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801847158301"
-      },
-      "id": "f9d9bb3f-5877-48ad-93c4-df722e6dcbf4"
+        "appointmentNumber": "+8801847158301Call Now"
+      }
     },
     {
+      "id": "ff03de44-3491-46ec-8e16-2da8d0ab0e47",
+      "departmentId": "a0114032-e378-46ff-ac85-c31e2ffcefda",
+      "link": "https://www.doctorbangladesh.com/dr-md-nurunnabi/",
+      "imageId": "6a23be9b-9d28-483e-9755-6942c26a039c",
       "name": "Dr. Md. Nurunnabi",
       "degree": "MBBS, DCH",
       "specialty": "Child Diseases Specialist",
@@ -206,11 +252,14 @@
         "hospital": "Union Specialized Hospital, Mymensingh",
         "address": "337, Charpara, Mymensingh",
         "visitingTime": "10am to 2pm (Sat & Sun)",
-        "appointmentNumber": "+8801958280000"
-      },
-      "id": "64978a28-fe41-4677-9a51-bbc48c959ae2"
+        "appointmentNumber": "+8801958280000Call Now"
+      }
     },
     {
+      "id": "8b531319-22d5-4204-a30e-d907fbd942b3",
+      "departmentId": "a0114032-e378-46ff-ac85-c31e2ffcefda",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-shafiqul-haque-sharif/",
+      "imageId": "f2227a82-7cb7-4726-a19f-cbf182c10552",
       "name": "Dr. Muhammad Shafiqul Haque Sharif",
       "degree": "MBBS, DCH (BSMMU)",
       "specialty": "Neonatal & Child Specialist",
@@ -220,51 +269,59 @@
         "hospital": "TMC Diagnostic & Hospital, Mymensingh",
         "address": "Zeropoint, Noudhar, Trishal, Mymensingh – 2220",
         "visitingTime": "2:30pm to 7pm (Sun, Tue, Wed & Friday)",
-        "appointmentNumber": "+8801774955555"
-      },
-      "id": "8f918d30-df4c-4987-87e3-c19720be2b2c"
+        "appointmentNumber": "+8801774955555Call Now"
+      }
     },
     {
+      "id": "03c9eecd-3573-4d3d-8b9f-270884a1b363",
+      "departmentId": "a0114032-e378-46ff-ac85-c31e2ffcefda",
+      "link": "https://www.doctorbangladesh.com/dr-md-monirul-islam-khan-ranju/",
+      "imageId": "a2cd8dc0-cdc7-4a2d-b11b-8416a32a2373",
       "name": "Dr. Md. Monirul Islam Khan (Ranju)",
       "degree": "MBBS (Dhaka), BCS (Health), MD (Pediatrics)",
       "specialty": "Newborn, Child & Adolescent Specialist",
       "workplace": "Shahid Syed Nazrul Islam Medical College, Kishoreganj",
-      "info": "Bhaluka Digital Hospital, Bhaluka\nAddress: Sadik Tower, Dhaka-mymensingh Highway, Bhaluka, Mymensingh\nVisiting Hour: 3pm to 6pm (Sat, Mon & Wed), 10am to 6pm (Fri)\nAppointment: +8801772806973\nCall Now",
+      "info": "Bhaluka Digital Hospital, Bhaluka Address: Sadik Tower, Dhaka-mymensingh Highway, Bhaluka, Mymensingh Visiting Hour: 3pm to 6pm (Sat, Mon & Wed), 10am to 6pm (Fri) Appointment: +8801772806973 Call Now",
       "chamber": {
         "hospital": "Venus Hospital, Mymensingh",
         "address": "Suprabha Tower, 8/3, Bhatikashor, Mymensingh",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801403181379"
-      },
-      "id": "cc1f1cf1-48e7-470e-9714-4704c6cb508d"
+        "appointmentNumber": "+8801403181379Call Now"
+      }
     },
     {
+      "id": "e0634d6e-c452-4175-9296-840b74775e66",
+      "departmentId": "a0114032-e378-46ff-ac85-c31e2ffcefda",
+      "link": "https://www.doctorbangladesh.com/dr-sonjib-kumar-dhar/",
+      "imageId": "15bd332f-862e-4c65-8579-df8c39b6bf70",
       "name": "Dr. Sonjib Kumar Dhar",
       "degree": "MBBS, MD (Paediatrics)",
       "specialty": "Newborn, Child & Adolescent Disease Specialist",
       "workplace": "Haluaghat Upazila Health Complex, Mymensingh",
-      "info": "New Mediplus Hospital & Diagnostic Center\nAddress: 68/B, Baghmara Road, (Near to Jamia Islamia Madrasah at Charpara Mor), Mymensingh\nVisiting Hour: 7pm to 9pm (Closed: Friday)\nAppointment: +8801713211664\nCall Now",
+      "info": "New Mediplus Hospital & Diagnostic Center Address: 68/B, Baghmara Road, (Near to Jamia Islamia Madrasah at Charpara Mor), Mymensingh Visiting Hour: 7pm to 9pm (Closed: Friday) Appointment: +8801713211664 Call Now",
       "chamber": {
         "hospital": "Radiant Diagnostic & General Hospital Ltd",
         "address": "110, Baghmara, Brahmapalli Road, Mymensingh",
         "visitingTime": "3pm to 8pm (Sun, Tue & Wed)",
-        "appointmentNumber": "+8801713211664"
-      },
-      "id": "6dcb653a-1f31-46db-bf65-79997972b8e9"
+        "appointmentNumber": "+8801713211664Call Now"
+      }
     },
     {
+      "id": "af987354-507f-4599-8b9f-4f1fcb1334ea",
+      "departmentId": "a0114032-e378-46ff-ac85-c31e2ffcefda",
+      "link": "https://www.doctorbangladesh.com/dr-anupam-dutta-roy/",
+      "imageId": "3eabbe04-83a3-4e84-94e7-8a3c0e03ae7d",
       "name": "Dr. Anupam Dutta Roy",
       "degree": "MBBS (Dhaka), BCS (Health), DCH (BSMMU), FCPS (Paediatrics),PGPN (Boston, USA), MRCPCH (Clinical) (UK)",
       "specialty": "Newborn, Adolescent & Child Diseases Specialist",
       "workplace": "Mymensingh Medical College & Hospital",
-      "info": "Popular Pharmacy, Kewatkhali, Mymensingh\nAddress: Horticulture Centre, Wapda Mor, Kewatkhali, Mymensingh\nVisiting Hour: 3pm to 9pm (Closed: Friday)\nAppointment: +8801780161065\nCall Now",
+      "info": "Popular Pharmacy, Kewatkhali, Mymensingh Address: Horticulture Centre, Wapda Mor, Kewatkhali, Mymensingh Visiting Hour: 3pm to 9pm (Closed: Friday) Appointment: +8801780161065 Call Now",
       "chamber": {
         "hospital": "Memorial Diagnostic Centre, Mymensingh",
         "address": "Haque Mansion, Charpara (Opposite to Hospital Gate), Mymensingh",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801780161065"
-      },
-      "id": "2eb7092f-3812-4d48-90f4-d7e4ad437189"
+        "appointmentNumber": "+8801780161065Call Now"
+      }
     }
   ]
 }

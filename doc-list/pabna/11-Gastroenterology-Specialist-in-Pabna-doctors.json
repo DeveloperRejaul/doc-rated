@@ -1,20 +1,27 @@
 {
   "doctor": [
     {
+      "id": "039b4d93-c75c-41d7-b98d-f838c2be14a5",
+      "departmentId": "fa40b910-ef69-4323-9322-3664a9b6ac2d",
+      "link": "https://www.doctorbangladesh.com/dr-ashraful-islam-milon/",
+      "imageId": "dc0c4d63-0310-4f9c-b18c-dfc1b8017be1",
       "name": "Dr. Md. Ashraful Islam (Milon)",
       "degree": "MBBS, BCS (Health), MCPS (Medicine), MD (Gastroenterology), CCD (BIRDEM)",
       "specialty": "Gastroenterology, Liver Diseases & Medicine Specialist",
       "workplace": "National Gastroliver Institute & Hospital",
-      "info": "Alpha Diagnostic Center, Ishwardi\nAddress: Post Office Mor (Biswas Palace), Hospital Road, Ishwardi, Pabna\nVisiting Hour: 3pm to 8pm (Every Friday)\nAppointment: +8801787382022\nCall Now",
+      "info": "Alpha Diagnostic Center, Ishwardi Address: Post Office Mor (Biswas Palace), Hospital Road, Ishwardi, Pabna Visiting Hour: 3pm to 8pm (Every Friday) Appointment: +8801787382022 Call Now",
       "chamber": {
         "hospital": "Central Hospital, Pabna",
         "address": "South Side of Sadar Hospital Gate, Hospital Road, Shalgaria, Pabna",
         "visitingTime": "4pm to 8pm (Every Thursday)",
-        "appointmentNumber": "+8801322912612"
-      },
-      "id": "186c058b-d664-49a5-90f1-b9520ecd68f8"
+        "appointmentNumber": "+8801322912612Call Now"
+      }
     },
     {
+      "id": "9f43936e-6a13-457c-940d-c01fc234bf20",
+      "departmentId": "fa40b910-ef69-4323-9322-3664a9b6ac2d",
+      "link": "https://www.doctorbangladesh.com/dr-md-habibul-haque-habib/",
+      "imageId": "82a7a1bc-d917-4c9a-a966-755d75926967",
       "name": "Dr. Md. Habibul Haque Habib",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Gastroenterology), CCD (BIRDEM)",
       "specialty": "Medicine, Gastro-Liver & Diabetes Specialist",
@@ -24,39 +31,48 @@
         "hospital": "Shafique Hospital, Pabna",
         "address": "Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna",
         "visitingTime": "4pm to 10pm (Thu) & 9am to 4pm (Fri)",
-        "appointmentNumber": "+8801701654390"
-      },
-      "id": "a35d2c6a-4c01-4218-a7da-d9a08790e20c"
+        "appointmentNumber": "+8801701654390Call Now"
+      }
     },
     {
+      "id": "75d9d3cb-ccb7-49c4-a908-d800f8c26c22",
+      "departmentId": "fa40b910-ef69-4323-9322-3664a9b6ac2d",
+      "link": "https://www.doctorbangladesh.com/dr-md-kamran-hasan/",
+      "imageId": "cf726e80-4612-4419-9c84-186ae259b586",
       "name": "Dr. Md. Kamran Hasan",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Gastroenterology), CCD (BIRDEM)",
       "specialty": "Medicine, Gastroenterology, Liver & Diabetes Specialist",
       "workplace": "Sir Salimullah Medical College & Mitford Hospital",
-      "info": "Shimla Hospital, Pabna\nAddress: Shimla Tower, Thana Mor, Hospital Road, Pabna\nVisiting Hour: 5pm to 9pm (Only Thursday)\nAppointment: +8801713228218\nCall Now",
+      "info": "Shimla Hospital, Pabna Address: Shimla Tower, Thana Mor, Hospital Road, Pabna Visiting Hour: 5pm to 9pm (Only Thursday) Appointment: +8801713228218 Call Now",
       "chamber": {
         "hospital": "Akota Diagnostic Center, Pabna",
         "address": "Sadar Hospital Gate, Hospital Road, Shalgaria, Pabna",
         "visitingTime": "9am to 2pm (Only Friday)",
-        "appointmentNumber": "+8801701787870"
-      },
-      "id": "13f83714-d390-4a6b-af50-1f9ea29c31cf"
+        "appointmentNumber": "+8801701787870Call Now"
+      }
     },
     {
+      "id": "7d769611-9776-4053-95aa-c47ce5e0ea94",
+      "departmentId": "fa40b910-ef69-4323-9322-3664a9b6ac2d",
+      "link": "https://www.doctorbangladesh.com/dr-md-moshiur-rahman-mia-tutul/",
+      "imageId": "5eb706c3-a3b6-4838-8ee0-8294a7845175",
       "name": "Dr. Md. Moshiur Rahman Mia (Tutul)",
       "degree": "MBBS, BCS (Health), MD (Gastroenterology), FCPS (Medicine, FP), MACP (USA), MACG (USA)",
       "specialty": "Gastroenterology, Liver Diseases & Medicine Specialist",
       "workplace": "Shaheed Suhrawardy Medical College & Hospital",
-      "info": "Shimla Hospital, Pabna\nAddress: Shimla Tower, Thana Mor, Hospital Road, Pabna\nVisiting Hour: 4pm to 8pm (Thu), 9am to 4pm (Fri)\nAppointment: +8801713228218\nCall Now",
+      "info": "Shimla Hospital, Pabna Address: Shimla Tower, Thana Mor, Hospital Road, Pabna Visiting Hour: 4pm to 8pm (Thu), 9am to 4pm (Fri) Appointment: +8801713228218 Call Now",
       "chamber": {
         "hospital": "Assort Specialised Hospital, Pabna",
         "address": "Beside Mujahid Club, Dhaka Road, East Shalgaria, Pabna",
         "visitingTime": "2pm to 4pm (Only Thursday)",
-        "appointmentNumber": "+8801322931500"
-      },
-      "id": "82adfd14-73db-48f1-87f9-a41ce49827cb"
+        "appointmentNumber": "+8801322931500Call Now"
+      }
     },
     {
+      "id": "901c779a-4a90-4484-be8d-665342ea2c9c",
+      "departmentId": "fa40b910-ef69-4323-9322-3664a9b6ac2d",
+      "link": "https://www.doctorbangladesh.com/dr-md-golam-sarwar/",
+      "imageId": "d813bf48-1e2f-4b3d-8a61-508d2b281a0a",
       "name": "Dr. Md. Golam Sarwar",
       "degree": "MBBS, BCS (Health), FCPS (Medicine, FP), MD (Gastroenterology, P2)",
       "specialty": "Gastroenterology, Liver & Medicine Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Dr. Gaffar Diagnostic Complex, Pabna",
         "address": "South Side of Sadar Thana, Hospital Road, Pabna",
         "visitingTime": "2pm to 4pm (Everyday)",
-        "appointmentNumber": "+8801780817051"
-      },
-      "id": "1ff56e6b-c135-4820-a782-13748bc674c4"
+        "appointmentNumber": "+8801780817051Call Now"
+      }
     },
     {
+      "id": "e0f35a05-7533-4ede-9798-bad227427602",
+      "departmentId": "fa40b910-ef69-4323-9322-3664a9b6ac2d",
+      "link": "https://www.doctorbangladesh.com/dr-d-m-shahinuzzaman/",
+      "imageId": "49d7feb8-a4c9-4d26-bfb6-9d5815f50ba9",
       "name": "Dr. D.M. Shahinuzzaman",
       "degree": "MBBS, BCS (Health), MD (Gastroenterology)",
       "specialty": "Gastroenterology (Stomach, Intestine, Rectum, Pancreas, Liver) Specialist",
@@ -80,9 +99,8 @@
         "hospital": "Shafique Hospital, Pabna",
         "address": "Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna",
         "visitingTime": "3pm to 9pm (Every Wednesday)",
-        "appointmentNumber": "+8801701654390"
-      },
-      "id": "2b6c676f-5c88-45b4-a0b3-28461ca3e310"
+        "appointmentNumber": "+8801701654390Call Now"
+      }
     }
   ]
 }

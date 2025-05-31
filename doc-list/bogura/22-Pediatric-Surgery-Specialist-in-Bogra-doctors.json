@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "49375665-4a40-4001-b17a-7239816bcd47",
+      "departmentId": "b6ce4d48-6862-4817-9d3c-6d6c0323862d",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-mizanur-rahman-shibli/",
+      "imageId": "787267b5-b17a-49c9-a21e-e6f4439e7d34",
       "name": "Dr. Md. Mizanur Rahman (Shibli)",
       "degree": "MBBS (Dhaka), BCS (Health), MS (Pediatric Surgery)",
       "specialty": "Neonatal & Pediatric Surgeon",
@@ -10,11 +14,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "4pm to 8pm (Sat, Sun & Monday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "6a074b6d-8ac9-4963-a648-5c361f3b25f0"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "a5ca6a05-935c-400d-874b-a1f44ef33b48",
+      "departmentId": "b6ce4d48-6862-4817-9d3c-6d6c0323862d",
+      "link": "https://www.doctorbangladesh.com/dr-s-m-noor-e-shadid/",
+      "imageId": "3547a717-b403-402b-a98a-ac7da7c923fd",
       "name": "Dr. S M Noor E Shadid",
       "degree": "MBBS, MS (Pediatric Surgery)",
       "specialty": "Pediatric (Children) Surgery Specialist",
@@ -24,25 +31,31 @@
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
         "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
         "visitingTime": "3pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801701560011"
-      },
-      "id": "f4cfbee7-3b9e-4b90-a084-988f5a9330c7"
+        "appointmentNumber": "+8801701560011Call Now"
+      }
     },
     {
+      "id": "da2dd3cb-cd60-45fa-befe-35f92742fc48",
+      "departmentId": "b6ce4d48-6862-4817-9d3c-6d6c0323862d",
+      "link": "https://www.doctorbangladesh.com/dr-md-moniruzzaman-tipu/",
+      "imageId": "34f5f731-cc44-42e4-b3e8-0410a2b721ad",
       "name": "Dr. Md. Moniruzzaman (Tipu)",
       "degree": "MBBS, MS (Pediatric Surgery)",
       "specialty": "Pediatric Surgeon",
       "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
-      "info": "Kushtia Trauma Center & Specialized Hospital\nAddress: Wasi Tower, 97/5, Ram Chandra Ray Chowdhury Road, Courtpara, Kushtia\nVisiting Hour: Thursday (2.30pm to 8pm), Friday ( 9.00am to 5.00pm)\nAppointment: +8801407984249\nCall Now",
+      "info": "Kushtia Trauma Center & Specialized Hospital Address: Wasi Tower, 97/5, Ram Chandra Ray Chowdhury Road, Courtpara, Kushtia Visiting Hour: Thursday (2.30pm to 8pm), Friday ( 9.00am to 5.00pm) Appointment: +8801407984249 Call Now",
       "chamber": {
         "hospital": "Maleka Nursing Home, Bogura",
         "address": "Yakubia mor, Sherpur Road, Sutrapur, Bogura - 5800",
         "visitingTime": "4pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801407984249"
-      },
-      "id": "8f8569c6-81a2-46a4-a5a0-43604724de67"
+        "appointmentNumber": "+8801407984249Call Now"
+      }
     },
     {
+      "id": "2b2ec02d-4cf1-4ce0-b1dd-755605af9563",
+      "departmentId": "b6ce4d48-6862-4817-9d3c-6d6c0323862d",
+      "link": "https://www.doctorbangladesh.com/dr-k-m-zafrul-hossain-ripon/",
+      "imageId": "67c60a4c-77d3-4280-af80-1e63fac6d65a",
       "name": "Dr. K.M Zafrul Hossain Ripon",
       "degree": "MBBS, MS",
       "specialty": "Pediatric (Children) Surgery Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
         "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
         "visitingTime": "3pm to 9pm (Everyday)",
-        "appointmentNumber": "+8801718641102"
-      },
-      "id": "03f974a8-4081-4c2e-ad26-75cd4e04022c"
+        "appointmentNumber": "+8801718641102Call Now"
+      }
     },
     {
+      "id": "d8f8ad81-a7bd-4bce-83e2-10ca319dd38a",
+      "departmentId": "b6ce4d48-6862-4817-9d3c-6d6c0323862d",
+      "link": "https://www.doctorbangladesh.com/dr-mahabur-rahman-sarker/",
+      "imageId": "92235001-b2d5-475f-9902-6e3f5c411f71",
       "name": "Dr. Mahabur Rahman Sarker",
       "degree": "MBBS, MS (Pediatric Surgery)",
       "specialty": "Pediatric Surgeon",
@@ -66,9 +82,8 @@
         "hospital": "Doctors Clinic, Bogura",
         "address": "Unit 1, Mofiz Paglar Mor, Sherpur Road, Bogura",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801791893605"
-      },
-      "id": "8bbfaf56-905a-4d2d-871f-caf5af9e5eb4"
+        "appointmentNumber": "+8801791893605Call Now"
+      }
     }
   ]
 }

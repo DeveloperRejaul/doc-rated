@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "2b6cfe82-5ca6-4045-87a0-ea87a950d446",
+      "departmentId": "c4a92382-6ebb-48af-9c1b-4568c6718fc7",
+      "link": "https://www.doctorbangladesh.com/dr-hossain-mohammad-selim/",
+      "imageId": "a93e5024-9c51-4a06-b11a-b57daa987173",
       "name": "Dr. Hossain Mohammad Selim",
       "degree": "DHMS, BHMS (Dhaka), DIHOM (UK)",
       "specialty": "Alternative Homeopathy Medicine Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Organon Homoeo Healing Home",
         "address": "28/A, Shafi Villa, CDA Avenue, Sulokbohor, Chittagong",
         "visitingTime": "10am to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801711424704"
-      },
-      "id": "030a9da5-ac3c-4090-b218-727135dd751a"
+        "appointmentNumber": "+8801711424704Call Now"
+      }
     },
     {
+      "id": "9edfd4dd-dbbf-41ca-8257-dcffefd79a34",
+      "departmentId": "c4a92382-6ebb-48af-9c1b-4568c6718fc7",
+      "link": "https://www.doctorbangladesh.com/dr-a-k-m-fazlul-haque-siddiqui/",
+      "imageId": "b5aeffa9-43e8-4ca0-b4ca-c49765294c01",
       "name": "Dr. A.K.M. Fazlul Haque Siddiqui",
       "degree": "DHMS (BHB), DUMS (BUASM), BAMS (Alternative Medicine), PDT (Medicine)",
       "specialty": "Piles, Tonsil, Tumor, STD & Kidney Stone Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Dr. Siddiqi Piles Care Center, Chittagong",
         "address": "95, Lal Dighir Par, Beside Bata Showroom, Kotwali, Chittagong",
         "visitingTime": "2pm to 10pm (Closed: Friday & Saturday)",
-        "appointmentNumber": "+8801819-544950"
-      },
-      "id": "56ff4d94-61d7-4d40-a622-d6eefa2489d8"
+        "appointmentNumber": "+8801819-544950Call Now"
+      }
     },
     {
+      "id": "2340c3cd-2818-44b1-991b-4d5ada3ba11d",
+      "departmentId": "c4a92382-6ebb-48af-9c1b-4568c6718fc7",
+      "link": "https://www.doctorbangladesh.com/dr-khaled-bin-kabir-bhuiyan/",
+      "imageId": "d9fd30d2-3ab8-4705-8072-a3f04e910968",
       "name": "Dr. Khaled Bin Kabir Bhuiyan",
       "degree": "DHMS, BHB (Dhaka)",
       "specialty": "Chronic Diseases (Homeopathy) Specialist",
@@ -38,11 +48,14 @@
         "hospital": "International Homeo Clinic, Chittagong",
         "address": "450/A, Abdul Hamid Road, Sholokbahar (Near Rawshan Boarding), Chattogram",
         "visitingTime": "5pm to 11.30pm (Everyday)",
-        "appointmentNumber": "+8801818196333"
-      },
-      "id": "1e3d62be-cc33-4daf-a13a-16699247244e"
+        "appointmentNumber": "+8801818196333Call Now"
+      }
     },
     {
+      "id": "5a5dedc0-b33a-4208-92b7-43c6f9c8e47a",
+      "departmentId": "c4a92382-6ebb-48af-9c1b-4568c6718fc7",
+      "link": "https://www.doctorbangladesh.com/dr-ajoy-kumer-chowdhury/",
+      "imageId": "63d4bd76-0411-4cac-b40c-86b14c7bf312",
       "name": "Dr. Ajoy Kumer Chowdhury",
       "degree": "DHMS (Dhaka), Gold Medalist",
       "specialty": "Homeopathic (Old & Chronic Diseases) Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Hahnemann Homeo Mission",
         "address": "22, Nazumeah Lane, Baxirhat (East), Chittagong",
         "visitingTime": "9am to 1pm & 5pm to 10pm (Sat to Thu), 10am to 1pm (Friday)",
-        "appointmentNumber": "+8801819-354771"
-      },
-      "id": "5736469e-69ed-45b3-be76-e44a96b727ce"
+        "appointmentNumber": "+8801819-354771Call Now"
+      }
     },
     {
+      "id": "040d9463-2239-4ad3-841a-b80b4ed9b4f9",
+      "departmentId": "c4a92382-6ebb-48af-9c1b-4568c6718fc7",
+      "link": "https://www.doctorbangladesh.com/dr-anjan-kumar-das/",
+      "imageId": "8b4ddb96-811f-4371-aa56-5f0653353f9f",
       "name": "Dr. Anjan Kumar Das",
       "degree": "DHMS (BHB), MBA, Silva Mind Control Graduate",
       "specialty": "Homeopathic Medicine Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Jamuna Homoeo Centre",
         "address": "City Corporation Market, Andarkilla, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801711959836"
-      },
-      "id": "7c242d7b-63cc-4ec1-970d-9916df7bc7a3"
+        "appointmentNumber": "+8801711959836Call Now"
+      }
     },
     {
+      "id": "8e699bbc-308a-4032-9bf2-ab53300ba74f",
+      "departmentId": "c4a92382-6ebb-48af-9c1b-4568c6718fc7",
+      "link": "https://www.doctorbangladesh.com/dr-ajay-barua/",
+      "imageId": "46a91ca2-0ae6-4233-934c-ad93b17c05c6",
       "name": "Dr. Ajay Barua",
       "degree": "DHMS, BHB (Dhaka)",
       "specialty": "Chronic & Critical Diseases Expert in Homeo & Bio-Chemic MedicinePiles, Gonorrhea, Tumor, Infertility, Kidney Stone, Nasal Polyp,Urine Infection, Prostate Enlarge, Impotency",
@@ -80,9 +99,8 @@
         "hospital": "Shuvo Homeo Pharmacy",
         "address": "273, Old Church, KC Dey Road, West Laldighi, Chattogram",
         "visitingTime": "10am to 2pm & 4pm to 10pm",
-        "appointmentNumber": "+8801768673585"
-      },
-      "id": "caf227a5-ba6e-414c-97da-22c7588068ed"
+        "appointmentNumber": "+8801768673585Call Now"
+      }
     }
   ]
 }

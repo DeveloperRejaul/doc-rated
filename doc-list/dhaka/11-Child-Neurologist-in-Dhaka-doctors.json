@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "17a17d07-3e0a-402c-82b0-3b985998e6c0",
+      "departmentId": "6135e64e-f621-4039-b86e-e3c54e9a197c",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-mizanur-rahman-pediatric/",
+      "imageId": "13e2770b-2b93-4036-add3-840d9a3595e4",
       "name": "Prof. Dr. Md. Mizanur Rahman",
       "degree": "MBBS, FCPS (Pediatrics)",
       "specialty": "Child Neurological Disorders, Development & Autism Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Central Hospital, Dhanmondi",
         "address": "House # 02, Road # 05, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "4pm to 11pm (Closed: Friday)",
-        "appointmentNumber": "+8802-41060800"
-      },
-      "id": "f8f90d41-5956-4f5a-8730-d0ac76c8414c"
+        "appointmentNumber": "+8802-41060800Call Now"
+      }
     },
     {
+      "id": "810656eb-3115-4651-b4c8-d2e0ea3d6410",
+      "departmentId": "6135e64e-f621-4039-b86e-e3c54e9a197c",
+      "link": "https://www.doctorbangladesh.com/prof-dr-narayan-saha/",
+      "imageId": "120cb425-ed04-46e8-9db7-08e1b7492c59",
       "name": "Prof. Dr. Narayan Chandra Saha",
       "degree": "MBBS, FCPS (Pediatrics), Fellow (Pediatric Neurology)",
       "specialty": "Child Neurology & Autism Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Comfort Diagnostic Center, Dhanmondi",
         "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "6pm to 10pm (Sat, Sun, Tue & Wed)",
-        "appointmentNumber": "+8801731956033"
-      },
-      "id": "de58bf26-8d49-4c06-a040-3752084b3710"
+        "appointmentNumber": "+8801731956033Call Now"
+      }
     },
     {
+      "id": "80f2858e-6b19-4cab-9379-e14f33aed7c7",
+      "departmentId": "6135e64e-f621-4039-b86e-e3c54e9a197c",
+      "link": "https://www.doctorbangladesh.com/dr-kaniz-fatema/",
+      "imageId": "3374eb77-5f4e-4c15-bbc3-5d0995409015",
       "name": "Dr. Kanij Fatema",
       "degree": "MBBS, FCPS (Pediatrics), FCPS (Pediatric Neurology)",
       "specialty": "Child Neurology & Autism Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "6pm to 9pm (Closed: Tuesday & Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "2f57079d-e72e-4ec0-891c-f89217a40675"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "5432c1ab-add8-4047-9428-7b2c21b7dfef",
+      "departmentId": "6135e64e-f621-4039-b86e-e3c54e9a197c",
+      "link": "https://www.doctorbangladesh.com/dr-gopen-kumar-kundu/",
+      "imageId": "d84130df-890b-4abd-b299-976cb25d63da",
       "name": "Prof. Dr. Gopen Kumar Kundu",
       "degree": "MBBS, DCH (BSMMU), FCPS (Pediatrics), MD (Pediatric Neurology)",
       "specialty": "Pediatric Neurology & Autism Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801726937871"
-      },
-      "id": "d7ad1049-6181-42b3-8e7d-3bfcb2025cc6"
+        "appointmentNumber": "+8801726937871Call Now"
+      }
     },
     {
+      "id": "94d42e53-29ac-4e68-b3ce-06a1a1bbef4e",
+      "departmentId": "6135e64e-f621-4039-b86e-e3c54e9a197c",
+      "link": "https://www.doctorbangladesh.com/dr-bithi-debnath/",
+      "imageId": "6cd48fd6-ab17-4b80-b749-9b049e88113e",
       "name": "Dr. Bithi Debnath",
       "degree": "MBBS (DMC), BCS (Health), FCPS (Pediatrics), FCPS (Pediatric Neurology)",
       "specialty": "Child Neurology & Autism Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "abd4a8cd-e072-44e5-b8d7-abadc1487f74"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "1fff09f2-7fe9-4955-883f-af17336bbb2e",
+      "departmentId": "6135e64e-f621-4039-b86e-e3c54e9a197c",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-monir-hossain-2/",
+      "imageId": "c2f5713c-0fb4-44c3-8db2-1cac3e931a48",
       "name": "Dr Mohammad Monir Hossain",
       "degree": "MBBS, FCPS (Pediatrics), MD (Pediatric Neurology & Neurodevelopment)",
       "specialty": "Child Neurologist & Child Diseases Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "6pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801782007136"
-      },
-      "id": "310e85c3-c7d8-4dcd-98ab-b8adb4f13708"
+        "appointmentNumber": "+8801782007136Call Now"
+      }
     },
     {
+      "id": "9734e4e7-5429-4882-bb1a-bdbe1989bc5e",
+      "departmentId": "6135e64e-f621-4039-b86e-e3c54e9a197c",
+      "link": "https://www.doctorbangladesh.com/dr-sarwar-jahan-bhuiyan/",
+      "imageId": "2e34c2a0-07d1-441a-83a1-8b96f80f7cc9",
       "name": "Dr. Sarwar Jahan Bhuiyan",
       "degree": "MBBS, FCPS (Pediatrics)",
       "specialty": "Pediatric Neurology (Epilepsy, Autism, Headache, Movement Disorders) Specialist",
@@ -94,25 +116,31 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10678"
-      },
-      "id": "f465b8b0-dae1-4d8e-b863-ec56989d8174"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "0e7f85db-de21-4e91-a167-84bf3c61024e",
+      "departmentId": "6135e64e-f621-4039-b86e-e3c54e9a197c",
+      "link": "https://www.doctorbangladesh.com/dr-selina-daisy/",
+      "imageId": "4a150d2f-ebc1-4552-8b7d-d5b400a2048c",
       "name": "Dr. Selina Daisy",
       "degree": "MBBS, FAAP (USA), MD (USA)",
       "specialty": "Pediatric (Child) Neurologist & Neurophysiologist",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Ibn Sina Medical Imaging Center, Zigatola\nAddress: House # 58, Road # 2A, Zigatola Bus Stand, Dhaka – 1209\nVisiting Hour: 8am to 4pm (Sat & Wed)\nAppointment: +8801711625173\nCall Now",
+      "info": "Ibn Sina Medical Imaging Center, Zigatola Address: House # 58, Road # 2A, Zigatola Bus Stand, Dhaka – 1209 Visiting Hour: 8am to 4pm (Sat & Wed) Appointment: +8801711625173 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "10am to 11am (Closed: Friday)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "c5667f91-c4db-467e-ac5b-6829e06009f2"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "202562a4-1994-40c4-af66-9c5683113fcc",
+      "departmentId": "6135e64e-f621-4039-b86e-e3c54e9a197c",
+      "link": "https://www.doctorbangladesh.com/dr-rumana-islam/",
+      "imageId": "9f4578cf-307e-4bd2-b114-d6412c46a8d9",
       "name": "Dr. Rumana Islam",
       "degree": "MBBS, DCH, MD (Pediatric Neurology)",
       "specialty": "Pediatric Neurology, Neurodevelopment & Autism Specialist",
@@ -122,11 +150,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 2, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "3pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "e6f2cd33-1879-4e84-a307-7c8882f2ec2c"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "9e03e91e-f07d-4c9c-b424-8af151a785cc",
+      "departmentId": "6135e64e-f621-4039-b86e-e3c54e9a197c",
+      "link": "https://www.doctorbangladesh.com/prof-dr-shaheen-akhter/",
+      "imageId": "47b4ce3b-df0a-465b-84c7-cc13f7937504",
       "name": "Prof. Dr. Shaheen Akhter",
       "degree": "MBBS (DMC), MD (Pediatric Neurology)",
       "specialty": "Pediatric Neurological Disorders, Development, Cerebral Palsy & Autism Specialist",
@@ -136,25 +167,31 @@
         "hospital": "Bangladesh Specialized Hospital",
         "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666700100"
-      },
-      "id": "c3670079-fceb-495e-942d-a425329722f1"
+        "appointmentNumber": "+8809666700100Call Now"
+      }
     },
     {
+      "id": "f1611aca-1367-41e4-9e6b-2150f6ffcc5f",
+      "departmentId": "6135e64e-f621-4039-b86e-e3c54e9a197c",
+      "link": "https://www.doctorbangladesh.com/dr-nazmul-haque/",
+      "imageId": "33b5f074-644f-4b29-8fa1-d54e9ea90c03",
       "name": "Dr. Nazmul Haque",
       "degree": "MBBS, BCS (Health), FCPS (Pediatric Neurology), FCPS (Pediatrics), MD (Pediatrics)",
       "specialty": "Child Specialist & Child Neurologist",
       "workplace": "National Institute of Neurosciences & Hospital",
-      "info": "Popular Diagnostic Center, Badda\nAddress: Cha-90/2, North Badda (Pragoti Sharoni), Dhaka\nVisiting Hour: 6pm to 11pm (Closed: Monday)\nAppointment: +8809666787809\nCall Now",
+      "info": "Popular Diagnostic Center, Badda Address: Cha-90/2, North Badda (Pragoti Sharoni), Dhaka Visiting Hour: 6pm to 11pm (Closed: Monday) Appointment: +8809666787809 Call Now",
       "chamber": {
         "hospital": "United Hospital Ltd, Dhaka",
         "address": "Plot # 15, Road # 71, Gulshan, Dhaka",
         "visitingTime": "3pm to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8802222262466"
-      },
-      "id": "32623c96-6cb7-4fd6-938d-eefd9656b4dd"
+        "appointmentNumber": "+8802222262466Call Now"
+      }
     },
     {
+      "id": "78b015d6-eec1-4ede-b428-1e74d1e177a9",
+      "departmentId": "6135e64e-f621-4039-b86e-e3c54e9a197c",
+      "link": "https://www.doctorbangladesh.com/dr-najmul-haque/",
+      "imageId": "7cab3d83-f847-456e-8732-5b09d846f9dc",
       "name": "Asst. Prof. Dr. Najmul Haque",
       "degree": "MBBS (DMC), BCS (Health), FCPS (Child), MD (Child), FCPS (Child Neurology)",
       "specialty": "Child Diseases, Child Neurology & Development Specialist",
@@ -164,25 +201,31 @@
         "hospital": "Popular Diagnostic Center, Badda",
         "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka - 1212",
         "visitingTime": "5pm to 10pm (Everyday)",
-        "appointmentNumber": "+8809666787809"
-      },
-      "id": "8ff84167-9327-4aa8-b3a8-f0d2ca84f80f"
+        "appointmentNumber": "+8809666787809Call Now"
+      }
     },
     {
+      "id": "183d9450-ca3a-4b27-b686-326a76c89cda",
+      "departmentId": "6135e64e-f621-4039-b86e-e3c54e9a197c",
+      "link": "https://www.doctorbangladesh.com/dr-shaoli-sarker/",
+      "imageId": "92d001cd-a00b-4d4e-abf2-ff526ff83503",
       "name": "Dr. Shaoli Sarker",
       "degree": "MBBS (SSMC), FCPS (CHILD)",
       "specialty": "Child Neurology & Development Specialist",
       "workplace": "Bangladesh Shishu Hospital & Institute",
-      "info": "NeuroGen Healthcare\nAddress: Eastern Dolan, Level – 4, 152/2-H, West Panthapath, Dhaka\nVisiting Hour: 4pm to 8pm (Sun & Tue)\nAppointment: +8801787662575\nCall Now",
+      "info": "NeuroGen Healthcare Address: Eastern Dolan, Level – 4, 152/2-H, West Panthapath, Dhaka Visiting Hour: 4pm to 8pm (Sun & Tue) Appointment: +8801787662575 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Shyamoli",
         "address": "Opposite to Shyamoli Shishu Mela, Babor Road, Mohammadpur, Dhaka",
         "visitingTime": "3:30pm to 6:30pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809666787806"
-      },
-      "id": "6aa46103-83c3-4cc8-928a-fe39408590bc"
+        "appointmentNumber": "+8809666787806Call Now"
+      }
     },
     {
+      "id": "d32adb21-7942-4ba2-beb4-8bb9f26498cf",
+      "departmentId": "6135e64e-f621-4039-b86e-e3c54e9a197c",
+      "link": "https://www.doctorbangladesh.com/dr-naznin-akter-rubi/",
+      "imageId": "e268e913-30b5-4904-91d6-d63eed3809a2",
       "name": "Dr. Naznin Akter (Ruby)",
       "degree": "MBBS, BCS (Health), FCPS (Pediatric Neurology)",
       "specialty": "Child Neurology (Epilepsy, Seizures, Autism) Specialist",
@@ -192,11 +235,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "4c6ad19b-1d78-449a-a194-217be92b71c6"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "61d1395a-130a-44f7-9cbb-568dae18db2a",
+      "departmentId": "6135e64e-f621-4039-b86e-e3c54e9a197c",
+      "link": "https://www.doctorbangladesh.com/dr-syeda-tabassum-alam/",
+      "imageId": "427d4ab0-56c0-4bfb-86be-f8b7833c96ed",
       "name": "Prof. Dr. Syeda Tabassum Alam",
       "degree": "MBBS, BCS (Health), DCH (DU), FCPS (Pediatrics), MD (Pediatric Neurology & Neuro-Development)",
       "specialty": "Child Neurology (Epilepsy, Autism, Movement Disorders) Specialist",
@@ -206,11 +252,14 @@
         "hospital": "Central Hospital, Dhanmondi",
         "address": "House # 02, Road # 05, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "6pm to 9pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801301378151"
-      },
-      "id": "93e9ec58-6e16-4782-a7d7-7ce46b868173"
+        "appointmentNumber": "+8801301378151Call Now"
+      }
     },
     {
+      "id": "53945227-f94f-4c94-8892-2f321d51c354",
+      "departmentId": "6135e64e-f621-4039-b86e-e3c54e9a197c",
+      "link": "https://www.doctorbangladesh.com/brig-gen-prof-dr-anjuman-ara-beauty/",
+      "imageId": "c3b1ebc0-78f0-47bf-ab60-80662c686fd2",
       "name": "Brig. Gen. Prof. Dr. Anjuman Ara Beauty",
       "degree": "MBBS, DCH, FCPS (Pediatrics), Fellow (Pediatric Neurology)",
       "specialty": "Child Neurological Disorders, Development, Epilepsy & Autism Specialist",
@@ -220,25 +269,14 @@
         "hospital": "United Hospital Ltd, Dhaka",
         "address": "Plot # 15, Road # 71, Gulshan, Dhaka",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8802222262466"
-      },
-      "id": "2c8f8c87-2a19-46d1-8c0e-c396c11ac85e"
+        "appointmentNumber": "+8802222262466Call Now"
+      }
     },
     {
-      "name": "Dr. Sanjida Ahmed",
-      "degree": "MBBS (Dhaka), MD (Pediatric Neurology & Neuro Development), Fellow in Autism (South Korea), MPH",
-      "specialty": "Pediatric Neurologist, Developmental Pediatrician & Autism Specialist",
-      "workplace": "Institute of Pediatric Neurodisorder & Autism (IPNA), BSMMU",
-      "info": "Dr. Sanjida Ahmed is a Pediatric Neurologist in Dhaka. Her qualification is MBBS (Dhaka), MD (Pediatric Neurology & Neuro Development), Fellow in Autism (South Korea), MPH. She is an Assistant Professor, Pediatric Neurology at Institute of Pediatric Neurodisorder & Autism (IPNA), BSMMU. She regularly provides treatment to her patients at Popular Diagnostic Center, Shantinagar. Practicing hour of Dr. Sanjida Ahmed at Popular Diagnostic Center, Shantinagar is 4:30pm to 7pm (Closed: Thu & Friday).",
-      "chamber": {
-        "hospital": "Popular Diagnostic Center, Shantinagar",
-        "address": "Unit # 01, House # 11, Shantinagar, Motijheel, Dhaka",
-        "visitingTime": "4:30pm to 7pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787803"
-      },
-      "id": "6ce03127-bae4-4ef7-b83e-60dd167b8fc6"
-    },
-    {
+      "id": "f1059c69-7df4-4ae8-822d-00fbba59420d",
+      "departmentId": "6135e64e-f621-4039-b86e-e3c54e9a197c",
+      "link": "https://www.doctorbangladesh.com/dr-major-zeena-salwa/",
+      "imageId": "038cd401-5067-4ee3-87bb-77a98b7cf17f",
       "name": "Dr. Major Zeena Salwa",
       "degree": "MBBS, DCH, FCPS (Pediatrics)",
       "specialty": "Child Neurology (Epilepsy, Autism, Movement Disorders) Specialist",
@@ -248,11 +286,31 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "5b75e5fc-b804-4690-8b52-3483e21924fe"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "06753d95-6d48-4e74-9d04-53b7d93873ec",
+      "departmentId": "6135e64e-f621-4039-b86e-e3c54e9a197c",
+      "link": "https://www.doctorbangladesh.com/dr-sanjida-ahmed/",
+      "imageId": "703127e6-ea71-4bd1-a910-362846991273",
+      "name": "Dr. Sanjida Ahmed",
+      "degree": "MBBS (Dhaka), MD (Pediatric Neurology & Neuro Development), Fellow in Autism (South Korea), MPH",
+      "specialty": "Pediatric Neurologist, Developmental Pediatrician & Autism Specialist",
+      "workplace": "Institute of Pediatric Neurodisorder & Autism (IPNA), BSMMU",
+      "info": "Dr. Sanjida Ahmed is a Pediatric Neurologist in Dhaka. Her qualification is MBBS (Dhaka), MD (Pediatric Neurology & Neuro Development), Fellow in Autism (South Korea), MPH. She is an Assistant Professor, Pediatric Neurology at Institute of Pediatric Neurodisorder & Autism (IPNA), BSMMU. She regularly provides treatment to her patients at Popular Diagnostic Center, Shantinagar. Practicing hour of Dr. Sanjida Ahmed at Popular Diagnostic Center, Shantinagar is 4:30pm to 7pm (Closed: Thu & Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Shantinagar",
+        "address": "Unit # 01, House # 11, Shantinagar, Motijheel, Dhaka",
+        "visitingTime": "4:30pm to 7pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8809666787803Call Now"
+      }
+    },
+    {
+      "id": "c657ec67-8317-47dc-947f-abcb3f8e6813",
+      "departmentId": "6135e64e-f621-4039-b86e-e3c54e9a197c",
+      "link": "https://www.doctorbangladesh.com/dr-kazi-ashraful-islam/",
+      "imageId": "5c2bfc70-3290-4452-a2d2-0b18345525f7",
       "name": "Dr. Kazi Ashraful Islam",
       "degree": "MBBS, MCPS, MD (Pediatrics)",
       "specialty": "Child Diseases & Child Neurology (Epilepsy, Autism, Movement Disorders) Specialist",
@@ -262,23 +320,25 @@
         "hospital": "Dhaka Hospital",
         "address": "17, DC Ray Road (Mitford), Dhaka - 1100",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801714047686"
-      },
-      "id": "5b00afb0-3957-4391-92ae-d1b481c4b01e"
+        "appointmentNumber": "+8801714047686Call Now"
+      }
     },
     {
+      "id": "639eb37c-8bc7-45bf-9e43-c052d6543455",
+      "departmentId": "6135e64e-f621-4039-b86e-e3c54e9a197c",
+      "link": "https://www.doctorbangladesh.com/dr-shyamal-sarker/",
+      "imageId": "5d7d0661-c9c7-4d21-90cc-ede05fc86ccc",
       "name": "Dr. Shyamal Sarker",
       "degree": "MBBS, FCPS (Pediatrics), BCS (Health), FCPS (Pediatric Neurology & Development), PGPN (Boston, USA)",
       "specialty": "Child Neurologist & Child Specialist",
       "workplace": "National Institute of Neurosciences & Hospital",
-      "info": "Popular Diagnostic Center, Barisal\nAddress: 955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal\nVisiting Hour: 5pm to 11pm (Thursday) & 9am to 5pm (Friday)\nAppointment: +8809666787819\nCall Now",
+      "info": "Popular Diagnostic Center, Barisal Address: 955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal Visiting Hour: 5pm to 11pm (Thursday) & 9am to 5pm (Friday) Appointment: +8809666787819 Call Now",
       "chamber": {
         "hospital": "Global Specialized Hospital, Mirpur",
         "address": "Almas Tower, 282/1, First Kolony, Mazar Road, Mirpur, Dhaka",
         "visitingTime": "6pm to 9pm (Saturday to Wednesday)",
-        "appointmentNumber": "+8801715818883"
-      },
-      "id": "a089d2e5-8f53-4968-8e3a-67d85b2b4e5d"
+        "appointmentNumber": "+8801715818883Call Now"
+      }
     }
   ]
 }

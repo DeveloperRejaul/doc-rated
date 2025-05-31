@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "e51337f5-209c-4153-86f8-d2fc883114d8",
+      "departmentId": "57e78800-9e19-470c-8ab4-f25e1fbceaf2",
+      "link": "https://www.doctorbangladesh.com/dr-md-raju-ahmed/",
+      "imageId": "44934803-e95a-4ca3-8de5-9e93fc982a74",
       "name": "Dr. Md. Raju Ahmed",
       "degree": "MBBS, DDV, MCPS (Dermatology & Venereology)",
       "specialty": "Skin & Sexual Diseases Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Update Diagnostic, Rangpur",
         "address": "Dhap, Jail Road, Rangpur",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801971555555"
-      },
-      "id": "82c578f4-21b5-43c7-8922-a252900b74db"
+        "appointmentNumber": "+8801971555555Call Now"
+      }
     },
     {
+      "id": "9b0ab490-d342-4b39-8093-5efd87f42e0b",
+      "departmentId": "57e78800-9e19-470c-8ab4-f25e1fbceaf2",
+      "link": "https://www.doctorbangladesh.com/dr-md-rezaul-alam/",
+      "imageId": "625263cb-df8f-4a04-9c67-4752597c29d4",
       "name": "Dr. Md. Rezaul Alam",
       "degree": "MBBS, DD (Thailand), MPH (Dhaka), CCL (India), CCD (BIRDEM)",
       "specialty": "Skin, Allergy & Sexual Diseases Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Doctor's Community Hospital, Rangpur",
         "address": "Medical East Gate, Health City Road, Dhap, Rangpur",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801717292458"
-      },
-      "id": "c838f991-fc78-4a3d-8930-d67a18c32f90"
+        "appointmentNumber": "+8801717292458Call Now"
+      }
     },
     {
+      "id": "4962ac87-2d3e-4e13-8965-3bd45a56d93b",
+      "departmentId": "57e78800-9e19-470c-8ab4-f25e1fbceaf2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-mominul-haque/",
+      "imageId": "a11aee84-ee37-4073-be83-3f5c0ca701bc",
       "name": "Prof. Dr. Md. Mominul Haque",
       "degree": "MBBS, DDV, M.Phil (Physiology)",
       "specialty": "Skin, Allergy, Leprosy & Sexual Diseases Specialist",
@@ -38,9 +48,8 @@
         "hospital": "Islami Bank Community Hospital, Rangpur",
         "address": "Jail Road, Dhap, Rangpur",
         "visitingTime": "3pm to 8pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801750908297"
-      },
-      "id": "a7e71a0a-d43c-4387-9fbf-ffa1cbb9a7c9"
+        "appointmentNumber": "+8801750908297Call Now"
+      }
     }
   ]
 }

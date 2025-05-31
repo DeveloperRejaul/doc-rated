@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "f0fb27d0-0a28-4cdd-a03f-62d4a0f559ef",
+      "departmentId": "8c87ee91-63c0-4a25-988f-0969c5afb31f",
+      "link": "https://www.doctorbangladesh.com/dr-ranjit-basak/",
+      "imageId": "4d10eff5-8d94-4289-8352-c6da7bd04d72",
       "name": "Prof. Dr. Ranjit Basak",
       "degree": "MBBS, FCPS (Pediatrics), Fellow in Pediatric Nutrition (USA)",
       "specialty": "Newborn, Child Diseases & Nutrition Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Update Diagnostic, Rangpur",
         "address": "Dhap (Opposite to Police Fari), Jail Road, Rangpur",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801971555555"
-      },
-      "id": "0a93943d-8fb5-4c2b-bb15-373227d9f0e6"
+        "appointmentNumber": "+8801971555555Call Now"
+      }
     },
     {
+      "id": "a049868f-40fd-4b64-9287-ec07da02dbcf",
+      "departmentId": "8c87ee91-63c0-4a25-988f-0969c5afb31f",
+      "link": "https://www.doctorbangladesh.com/dr-sm-nurun-nabi/",
+      "imageId": "5debb125-3b46-491c-b7be-a871f19a896a",
       "name": "Dr. SM Nurun Nabi",
       "degree": "MBBS, FCPS (Child), MD (Pediatric)",
       "specialty": "Child Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Labaid Diagnostic, Rangpur",
         "address": "House # 69, Dhap, Jail Road, Rangpur",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801766663099"
-      },
-      "id": "02ebb90e-ac18-4335-bf78-61dc9708f07c"
+        "appointmentNumber": "+8801766663099Call Now"
+      }
     },
     {
+      "id": "def731f5-f5fe-4b26-84dc-4df51457b44a",
+      "departmentId": "8c87ee91-63c0-4a25-988f-0969c5afb31f",
+      "link": "https://www.doctorbangladesh.com/dr-m-a-hakim/",
+      "imageId": "dc4ecabd-86cf-4690-b148-475e8d9d183f",
       "name": "Dr. M A Hakim",
       "degree": "MBBS, BCS (Health), DCH, MD (Child)",
       "specialty": "Child Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Apollo Diagnostic Center, Rangpur",
         "address": "Medical Mor, Jail Road, Dhap, Rangpur",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801733008087"
-      },
-      "id": "2ea18e79-094b-473d-93a3-412e901f7a5b"
+        "appointmentNumber": "+8801733008087Call Now"
+      }
     },
     {
+      "id": "b03c6b89-759f-4044-b7bf-1af9227b1b4c",
+      "departmentId": "8c87ee91-63c0-4a25-988f-0969c5afb31f",
+      "link": "https://www.doctorbangladesh.com/dr-nusrat-jahan-child/",
+      "imageId": "83de48a7-c98e-4f03-b37c-7b492f892835",
       "name": "Dr. Nusrat Jahan",
       "degree": "MBBS, BCS (Health), MD (Pediatrics)",
       "specialty": "Child Diseases, Child Blood Diseases & Child Cancer Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Update Diagnostic, Rangpur",
         "address": "Dhap (Opposite to Police Fari), Jail Road, Rangpur",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801971555555"
-      },
-      "id": "e2b1b1f6-0df7-417f-975e-0e5606c2629f"
+        "appointmentNumber": "+8801971555555Call Now"
+      }
     },
     {
+      "id": "3067cdfc-7d80-4487-89e6-6f1320a86181",
+      "departmentId": "8c87ee91-63c0-4a25-988f-0969c5afb31f",
+      "link": "https://www.doctorbangladesh.com/dr-a-s-m-moniruzzaman/",
+      "imageId": "9125f93b-6862-4aea-8a44-29f9f4a40f79",
       "name": "Dr. A.S.M. Moniruzzaman",
       "degree": "MBBS, MD (Child)",
       "specialty": "Child Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Popular Diagnostic Center, Rangpur",
         "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787813"
-      },
-      "id": "91ad70ea-a076-4a8b-a866-73e68c1cf69f"
+        "appointmentNumber": "+8809666787813Call Now"
+      }
     },
     {
+      "id": "2eebba54-79f2-4f6e-b944-ec8e29094938",
+      "departmentId": "8c87ee91-63c0-4a25-988f-0969c5afb31f",
+      "link": "https://www.doctorbangladesh.com/dr-most-umme-habiba-begum/",
+      "imageId": "cbd02626-a210-4939-8433-cc4edf286ab1",
       "name": "Dr. Most. Umme Habiba Begum",
       "degree": "MBBS, FCPS (Children)",
       "specialty": "Child Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Doctor's Community Hospital, Rangpur",
         "address": "Medical East Gate, Health City Road, Dhap, Rangpur",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801717292458"
-      },
-      "id": "a34c69af-ff7e-4b29-ac12-15ce105615b5"
+        "appointmentNumber": "+8801717292458Call Now"
+      }
     },
     {
+      "id": "6e22997a-dd6d-45f8-823d-5fb19602f1bb",
+      "departmentId": "8c87ee91-63c0-4a25-988f-0969c5afb31f",
+      "link": "https://www.doctorbangladesh.com/dr-md-akter-faruk-shamim/",
+      "imageId": "3d1e42ad-982b-4664-bd58-11366518b3de",
       "name": "Dr. Md. Akter Faruk Shamim",
       "degree": "MBBS, BCS (Health), FCPS (Child)",
       "specialty": "Child Specialist",
@@ -94,11 +116,14 @@
         "hospital": "Apollo Diagnostic Center, Rangpur",
         "address": "Dhap, Jail Road, Rangpur",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801733008088"
-      },
-      "id": "930f6289-f4e8-4031-9552-47c284174038"
+        "appointmentNumber": "+8801733008088Call Now"
+      }
     },
     {
+      "id": "143c23ec-a234-4e1c-86b3-883a5998d616",
+      "departmentId": "8c87ee91-63c0-4a25-988f-0969c5afb31f",
+      "link": "https://www.doctorbangladesh.com/dr-abu-jafar-muhammad-kamrul-iman-rashed/",
+      "imageId": "8aec11d2-122c-463a-a437-5216351e8998",
       "name": "Dr. Abu Jafar Muhammad Kamrul Eman (Rashed)",
       "degree": "MBBS (DMC), BCS (Health). MD (Pediatrics) DMC",
       "specialty": "Newborn & Child Diseases Specialist",
@@ -108,23 +133,25 @@
         "hospital": "Hypertension & Research Center, Rangpur",
         "address": "Holding No: 13/2, Hypertension Centre Lane, Dhap, Jail Road, Rangpur",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801798627570, +8801832314477"
-      },
-      "id": "592737bb-22e3-4961-b386-331cdfc31ec4"
+        "appointmentNumber": "+8801798627570, +8801832314477Call Now"
+      }
     },
     {
+      "id": "44cab38e-500d-46aa-995d-6aa985ac7eb6",
+      "departmentId": "8c87ee91-63c0-4a25-988f-0969c5afb31f",
+      "link": "https://www.doctorbangladesh.com/dr-prahlad-kumar-swapnil/",
+      "imageId": "f10627c3-39dd-482e-9f15-96d72b492a87",
       "name": "Dr. Prahlad Kumar Swapnil",
       "degree": "MBBS, BCS (Health), MD (Paediatrics), ENS (Early Nutrition Specialist)",
       "specialty": "Newborn, Child & Adolescent Specialist and Child Nutritionist",
       "workplace": "Rangpur Medical College & Hospital",
-      "info": "Alaq Diagnostic Centre\nAddress: Gurhati, Kalibari, Palashbari, Gaibandha\nVisiting Hour: 10am to 10pm (Friday)\nAppointment: +8801878069165\nCall Now",
+      "info": "Alaq Diagnostic Centre Address: Gurhati, Kalibari, Palashbari, Gaibandha Visiting Hour: 10am to 10pm (Friday) Appointment: +8801878069165 Call Now",
       "chamber": {
         "hospital": "Sun Diagnostic Centre (Unit-2)",
         "address": "Marium Elahi Bhobon, Medical More, Dhap, Rangpur",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801878069165"
-      },
-      "id": "0e0fae28-e312-4064-aa11-6ca6c8998b80"
+        "appointmentNumber": "+8801878069165Call Now"
+      }
     }
   ]
 }

@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "4ee81a18-7f0d-4d88-b159-0e7c379387a5",
+      "departmentId": "2e82f0b8-eea7-4c19-832d-eb9c2264046d",
+      "link": "https://www.doctorbangladesh.com/dr-md-rais-uddin/",
+      "imageId": "a1ed921c-c1e2-42ac-8934-d0d21ce8ffc3",
       "name": "Dr. Md. Rais Uddin Mondol",
       "degree": "MBBS, FCPS (Medicine), MD (Cardiology), Fellow (WHO)",
       "specialty": "Cardiology, Heart Diseases, Rheumatic Fever, Hypertension & Medicine Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "4pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "e7df1d0a-45f0-4ddf-b77d-90ec39adc8f3"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "15616d91-dd33-4fa1-8be7-ab82ee8b24be",
+      "departmentId": "2e82f0b8-eea7-4c19-832d-eb9c2264046d",
+      "link": "https://www.doctorbangladesh.com/dr-md-ayub-ali/",
+      "imageId": "4a977604-1b5a-4eda-a3e8-63bfa648dfbe",
       "name": "Dr. Md. Ayub Ali",
       "degree": "MBBS (Dhaka), MCPS (Medicine), MD (Cardiology)",
       "specialty": "Cardiology, Hypertension, Rheumatic Fever & Medicine Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Biopath Diagnostic Center, Rajshahi",
         "address": "Beside Medical College, Sipaipara, Rajshahi",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801308441306"
-      },
-      "id": "230a02e2-d269-4e3a-8f3c-939cc0ea7fae"
+        "appointmentNumber": "+8801308441306Call Now"
+      }
     },
     {
+      "id": "f21cb8ba-f121-4244-9288-f29bf0b3ffb2",
+      "departmentId": "2e82f0b8-eea7-4c19-832d-eb9c2264046d",
+      "link": "https://www.doctorbangladesh.com/dr-m-a-khaleque/",
+      "imageId": "36a9f999-9b47-4905-afed-9bcf472748d6",
       "name": "Prof. Dr. M. A. Khaleque",
       "degree": "MBBS, MCPS (Medicine), D-CARD (DU), MD (Cardiology)",
       "specialty": "Cardiology (Heart Diseases, Hypertension, Rheumatic Fever) Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Zamzam Islami Hospital, Rajshahi",
         "address": "Greater Road, Kazihata, Laxmipur, Rajshahi",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801711192600"
-      },
-      "id": "beebe72e-5d83-4cf6-bbc0-b56b2d27645e"
+        "appointmentNumber": "+8801711192600Call Now"
+      }
     },
     {
+      "id": "9eb4c149-0fab-4187-a3f9-cd31294ea9d0",
+      "departmentId": "2e82f0b8-eea7-4c19-832d-eb9c2264046d",
+      "link": "https://www.doctorbangladesh.com/dr-rakibul-hasan-rashed/",
+      "imageId": "43c9ffce-db59-48f5-a195-ca8a162512bc",
       "name": "Dr. Rakibul Hasan Rashed",
       "degree": "MBBS, BCS (Health), MD (Cardiology)",
       "specialty": "Cardiology Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "4pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "596e0153-21de-4727-a3bb-282cc9f44066"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "8bbde8f2-c7af-42ea-9a2a-3da097feaddb",
+      "departmentId": "2e82f0b8-eea7-4c19-832d-eb9c2264046d",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-abul-hossain/",
+      "imageId": "ab4e8aa4-b721-41f8-ab63-d49d9d72e483",
       "name": "Prof. Dr. Md. Abul Hossain",
       "degree": "MBBS, D-CARD",
       "specialty": "Cardiology (Heart Diseases, Hypertension & Rheumatic Fever) Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Islami Bank Hospital, Rajshahi",
         "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
         "visitingTime": "1pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801777242536"
-      },
-      "id": "85307bfb-41de-4e94-8f6e-8d46afb93938"
+        "appointmentNumber": "+8801777242536Call Now"
+      }
     },
     {
+      "id": "49f1df8c-0eb4-45f2-bdd5-3fd1954bc171",
+      "departmentId": "2e82f0b8-eea7-4c19-832d-eb9c2264046d",
+      "link": "https://www.doctorbangladesh.com/dr-rajesh-kumar-ghosh/",
+      "imageId": "ecfb4487-a0fc-4b3f-a890-7b37b6cbd62c",
       "name": "Dr. Rajesh Kumar Ghosh",
       "degree": "MBBS, BCS (Health), MD (Cardiology)",
       "specialty": "Cardiology (Heart Diseases, Hypertension & Rheumatic Fever) Specialist",
@@ -80,25 +99,31 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "4:30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "8cfddc02-ecf2-491d-8e95-47ae786ce31d"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "a7a50c8d-a519-4bab-91ad-c1e089916ff2",
+      "departmentId": "2e82f0b8-eea7-4c19-832d-eb9c2264046d",
+      "link": "https://www.doctorbangladesh.com/dr-a-s-m-sayem/",
+      "imageId": "d6d8f356-5d4c-4b7b-8b70-02d5c5717c12",
       "name": "Dr. A.S.M. Sayem",
       "degree": "MBBS, BCS (Health), D-Card (NICVD), MACP (America)",
       "specialty": "Clinical & Interventional Cardiologist",
       "workplace": "Rajshahi Medical College & Hospital",
-      "info": "New Haven Diagnostic Center\nAddress: Sher Shah Road, Laxmipur, Rajshahi\nVisiting Hour: 4pm to 9pm (Closed: Friday)\nAppointment: +8801728-830544\nCall Now",
+      "info": "New Haven Diagnostic Center Address: Sher Shah Road, Laxmipur, Rajshahi Visiting Hour: 4pm to 9pm (Closed: Friday) Appointment: +8801728-830544 Call Now",
       "chamber": {
         "hospital": "National Heart Foundation, Rajshahi",
         "address": "Bakir More, Laxmipur, Rajpara, Rajshahi",
         "visitingTime": "3pm to 4pm (Closed: Friday)",
-        "appointmentNumber": "+8801728-830544"
-      },
-      "id": "5e72abfb-afbb-44b5-8158-37b3f6601018"
+        "appointmentNumber": "+8801728-830544Call Now"
+      }
     },
     {
+      "id": "d98553a1-46a7-4337-850a-b4a56a58cbd9",
+      "departmentId": "2e82f0b8-eea7-4c19-832d-eb9c2264046d",
+      "link": "https://www.doctorbangladesh.com/dr-md-saiful-islam-cardiology/",
+      "imageId": "5dad8253-645d-4c56-a0fe-69ad16a06980",
       "name": "Dr. Md. Saiful Islam",
       "degree": "MBBS, BCS (Health), CCD (BIRDEM), MD (Cardiology)",
       "specialty": "Cardiology (Heart Diseases, Hypertension, Diabetes & Rheumatic Fever) Specialist",
@@ -108,11 +133,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "addae808-7e59-4639-9c0e-67497f455cf9"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "97078c15-c9c0-458a-a20a-36672aff4a0a",
+      "departmentId": "2e82f0b8-eea7-4c19-832d-eb9c2264046d",
+      "link": "https://www.doctorbangladesh.com/dr-md-jahidus-sayeed/",
+      "imageId": "60697da6-a0cd-4a87-90c2-08b506170b5f",
       "name": "Dr. Md. Zahidus Sayeed",
       "degree": "MBBS, MD (Cardiology)",
       "specialty": "Cardiology, Rheumatic Fever & Medicine Specialist",
@@ -122,11 +150,14 @@
         "hospital": "Rajshahi Metropolitan Hospital",
         "address": "C&B Mor, Laxmipur, Kazihata, Rajshahi",
         "visitingTime": "3.30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801818634975"
-      },
-      "id": "2396aa76-7682-4942-a13d-34f0755a90f6"
+        "appointmentNumber": "+8801818634975Call Now"
+      }
     },
     {
+      "id": "76baa23e-9d3d-4123-9bad-f3e130341a17",
+      "departmentId": "2e82f0b8-eea7-4c19-832d-eb9c2264046d",
+      "link": "https://www.doctorbangladesh.com/dr-hasnatu-rabbi/",
+      "imageId": "5aa6e09f-6644-4675-81e4-d25a407ee78a",
       "name": "Dr. Hasnatu Rabbi",
       "degree": "MBBS, BCS (Health), D-CARD, MD (Internal Medicine)-Resident (Phase B)",
       "specialty": "Cardiology & Medicine Specialist",
@@ -136,11 +167,14 @@
         "hospital": "Islami Bank Hospital, Rajshahi",
         "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
         "visitingTime": "2.30pm to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801777242536"
-      },
-      "id": "fc42aacb-2131-4fb9-a217-ca2e370087cf"
+        "appointmentNumber": "+8801777242536Call Now"
+      }
     },
     {
+      "id": "0c9abd21-e821-4f66-b00a-9430cf81e8fa",
+      "departmentId": "2e82f0b8-eea7-4c19-832d-eb9c2264046d",
+      "link": "https://www.doctorbangladesh.com/dr-molla-md-iftekhar-hossain/",
+      "imageId": "697839bd-a129-44af-bd93-e0d11bfd0f57",
       "name": "Dr. Molla Md. Iftekhar Hossain",
       "degree": "MBBS (DMC), MD (Cardiology)",
       "specialty": "Clinical & Interventional Cardiologist",
@@ -150,12 +184,15 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "4:30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "ae057e16-becd-4550-be83-5067a35fdc9d"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
-      "name": "Dr.  Kazi Mohammad Abdul Awal",
+      "id": "7f96b0be-36af-438a-b247-a83b2c08dd07",
+      "departmentId": "2e82f0b8-eea7-4c19-832d-eb9c2264046d",
+      "link": "https://www.doctorbangladesh.com/dr-kazi-md-abdul-awal/",
+      "imageId": "ec5c3072-6949-4fe2-8dff-6bdb9e14bf3d",
+      "name": "Dr. Kazi Mohammad Abdul Awal",
       "degree": "MBBS, D-CARD, MD, MACP, CCD (Diabetology)",
       "specialty": "Cardiology (Heart Diseases, Diabetes, Rheumatic Diseases) Specialist",
       "workplace": "Islami Bank Medical College & Hospital",
@@ -164,11 +201,14 @@
         "hospital": "Silk City Diagnostic Center, Rajshahi",
         "address": "Doctors Tower, In front of Medical College Gate, Laxmipur, Rajshahi",
         "visitingTime": "2pm to 4pm (Closed: Friday)",
-        "appointmentNumber": "+8801746752163"
-      },
-      "id": "f8a84712-b3df-43ac-a94d-fb6480fe7e71"
+        "appointmentNumber": "+8801746752163Call Now"
+      }
     },
     {
+      "id": "e1582a81-24b0-4bdd-b3d6-8dd48c9bc466",
+      "departmentId": "2e82f0b8-eea7-4c19-832d-eb9c2264046d",
+      "link": "https://www.doctorbangladesh.com/dr-md-ariful-islam/",
+      "imageId": "e08cf246-f338-4522-b4cb-a918ab399432",
       "name": "Dr. Md. Ariful Islam",
       "degree": "MBBS, D-CARD (Cardiology)",
       "specialty": "Cardiology Specialist",
@@ -178,11 +218,14 @@
         "hospital": "Rajshahi Central Hospital",
         "address": "Mehedi Plaza, Greater Road, Laxmipur Mor, Rajshahi",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801997383940"
-      },
-      "id": "eb3f08a1-201e-4e11-9661-44316b38fa20"
+        "appointmentNumber": "+8801997383940Call Now"
+      }
     },
     {
+      "id": "be7879af-af2d-4043-aca3-b3fada480912",
+      "departmentId": "2e82f0b8-eea7-4c19-832d-eb9c2264046d",
+      "link": "https://www.doctorbangladesh.com/dr-subrata-kumar/",
+      "imageId": "de17b311-63ba-4801-90e4-5335ffa79570",
       "name": "Dr. Subrata Kumar",
       "degree": "MBBS, D-CARD (BSMMU)",
       "specialty": "Cardiology Specialist",
@@ -192,11 +235,14 @@
         "hospital": "North Bengal Diagnostic Center, Rajshahi",
         "address": "17, Haque Plaza, Greater road, Laxmipur, Rajshahi",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801712512532"
-      },
-      "id": "52b55482-38a6-4f4f-9ed7-94587a95aa8f"
+        "appointmentNumber": "+8801712512532Call Now"
+      }
     },
     {
+      "id": "d4e941c3-9741-494c-89d7-162bb80a4662",
+      "departmentId": "2e82f0b8-eea7-4c19-832d-eb9c2264046d",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahadat-hossain-rowshon/",
+      "imageId": "4623d39f-4938-4553-8487-f435945df992",
       "name": "Dr. Md. Shahadat Hossain Rowshon",
       "degree": "MBBS, D-CARD (DU)",
       "specialty": "Cardiology Specialist",
@@ -206,11 +252,14 @@
         "hospital": "Medipath Diagnostic Complex, Rajshahi",
         "address": "Shuvecca View, Greater Road, Laxmipur, Kajihata, Rajshahi",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801712685297"
-      },
-      "id": "3e5f1493-7aac-4128-a097-b8e460d64b6e"
+        "appointmentNumber": "+8801712685297Call Now"
+      }
     },
     {
+      "id": "27739756-2db4-4546-a41a-2da647e9e480",
+      "departmentId": "2e82f0b8-eea7-4c19-832d-eb9c2264046d",
+      "link": "https://www.doctorbangladesh.com/dr-m-a-sobuj-hayat/",
+      "imageId": "b5501f24-64fa-41a3-8801-0fb9e497dc63",
       "name": "Dr. M.A. Sobuj Hayat",
       "degree": "MBBS, BCS (Health), CCD (BIRDEM), D-CARD (BSMMU)",
       "specialty": "Cardiology (Heart Diseases, Hypertension & Rheumatic Fever) Specialist",
@@ -220,11 +269,14 @@
         "hospital": "Munzu Hospital & Diagnostic Centre",
         "address": "North Side of Education Board, Laxmipur, Rajshahi",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801722504704"
-      },
-      "id": "8aa0aa0a-c8ef-46cf-a9da-287b95800b2b"
+        "appointmentNumber": "+8801722504704Call Now"
+      }
     },
     {
+      "id": "8350922a-f56f-40c9-b2a8-0c93f3d5708f",
+      "departmentId": "2e82f0b8-eea7-4c19-832d-eb9c2264046d",
+      "link": "https://www.doctorbangladesh.com/dr-md-rakibul-hassan-tushar/",
+      "imageId": "0333f9db-2eff-4808-8f6f-81e81e6b6521",
       "name": "Dr. Md. Rakibul Hassan Tushar",
       "degree": "MBBS, BCS (Health), MD (Cardiology), MACC (USA)",
       "specialty": "Cardiology (Heart Diseases, Hypertension & Rheumatic Fever) Specialist",
@@ -234,9 +286,8 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "Room 309, Bhaban 02, Laxmipur, Rajshahi",
         "visitingTime": "3:30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801778040842"
-      },
-      "id": "d4e10483-3e97-49c6-8df6-746ff915a833"
+        "appointmentNumber": "+8801778040842Call Now"
+      }
     }
   ]
 }

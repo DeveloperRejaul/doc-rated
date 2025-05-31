@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "8b9579b4-9287-470c-9395-4963e7ccc6ef",
+      "departmentId": "fa01409b-bbe8-4b28-9cd9-53856e551e13",
+      "link": "https://www.doctorbangladesh.com/dr-md-ariful-islam-surgeon/",
+      "imageId": "82c7041b-d9ea-44d5-8c28-83bd788f4a42",
       "name": "Dr. Md. Ariful Islam",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General, Colorectal & Endo-Laparoscopic Surgeon",
@@ -10,25 +14,31 @@
         "hospital": "Popular Diagnostic Centre, Kushtia",
         "address": "City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia",
         "visitingTime": "3pm to 6pm (Closed: Monday), 9am to 3pm (Friday)",
-        "appointmentNumber": "+8809666787817"
-      },
-      "id": "2a01e9a4-22a8-41be-983a-c404203ad628"
+        "appointmentNumber": "+8809666787817Call Now"
+      }
     },
     {
+      "id": "5fe3345a-0030-486d-918d-96187734bf8c",
+      "departmentId": "fa01409b-bbe8-4b28-9cd9-53856e551e13",
+      "link": "https://www.doctorbangladesh.com/dr-md-abu-sayem/",
+      "imageId": "38d80533-a704-4f81-9a69-467fa62f1173",
       "name": "Dr. Md. Abu Sayem",
       "degree": "MBBS (Dhaka), BCS (Health), FCPS (Surgery), FACS (America)",
       "specialty": "General, Laparoscopic, Colorectal & Cancer Surgeon",
       "workplace": "National Institute of Cancer Research & Hospital",
-      "info": "Popular Diagnostic Centre, Kushtia\nAddress: City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia\nVisiting Hour: 9am to 5pm (Friday)\nAppointment: +8809666787817\nCall Now",
+      "info": "Popular Diagnostic Centre, Kushtia Address: City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia Visiting Hour: 9am to 5pm (Friday) Appointment: +8809666787817 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "9am to 3pm (Friday), 3pm to 7pm (Thursday)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "ef9a0e1f-c27a-48d8-b966-7e5f04ae18e7"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
+      "id": "23795428-4037-44c5-929a-d2abddda616d",
+      "departmentId": "fa01409b-bbe8-4b28-9cd9-53856e551e13",
+      "link": "https://www.doctorbangladesh.com/dr-md-amirul-islam-surgeon/",
+      "imageId": "daba389d-9716-4a00-848a-b32d000c4c61",
       "name": "Dr. Md. Amirul Islam",
       "degree": "MBBS, MS (SURGERY)",
       "specialty": "General & Laparoscopic Surgery Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Sono Diagnostic Center, Kushtia",
         "address": "Sono Tower, College Mor, Court Para, Kushtia",
         "visitingTime": "1pm to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8801930543929"
-      },
-      "id": "4c6205f0-11fb-489c-896c-1ef299a50bc7"
+        "appointmentNumber": "+8801930543929Call Now"
+      }
     },
     {
+      "id": "0a1c171a-9c3b-4d29-b58a-fd180e12e4bd",
+      "departmentId": "fa01409b-bbe8-4b28-9cd9-53856e551e13",
+      "link": "https://www.doctorbangladesh.com/dr-debashis-paul/",
+      "imageId": "9ec6091c-b549-478d-ac9b-87ba3888412a",
       "name": "Dr. Debashis Paul",
       "degree": "MBBS (DMC), FCPS (Surgery), FMAS (Laparoscopy, India)",
       "specialty": "General & Laparoscopic Surgery Specialist",
@@ -52,9 +65,8 @@
         "hospital": "Amin Diagnostic & Medical Services, Kushtia",
         "address": "Ram Chandra Ray Chowdhury Road, College Mor, Court Para, Kushtia",
         "visitingTime": "3pm to 8pm (Sat to Thu), 10am to 8pm (Fri)",
-        "appointmentNumber": "+8801712243514"
-      },
-      "id": "8f7c107e-9657-44e4-b185-7be652d89575"
+        "appointmentNumber": "+8801712243514Call Now"
+      }
     }
   ]
 }

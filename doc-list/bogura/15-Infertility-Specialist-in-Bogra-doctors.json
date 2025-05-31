@@ -1,20 +1,27 @@
 {
   "doctor": [
     {
+      "id": "6579c111-77ff-4c29-8a15-914b8e02be22",
+      "departmentId": "21ebf20f-13fc-4dd9-9e2f-e1adfde6501e",
+      "link": "https://www.doctorbangladesh.com/dr-akhtari-hossain-chowdhury-nipa/",
+      "imageId": "e824d2c5-b809-4f86-bb02-749f88c76a2b",
       "name": "Dr. Akhtari Hossain Chowdhury Nipa",
       "degree": "MBBS, BCS (Health), DGO, MCPS (OBGYN), Training in Infertility (Malaysia)",
       "specialty": "Gynecology, Infertility Specialist & Surgeon",
       "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
-      "info": "Doctors Clinic, Bogura\nAddress: Unit 2, Thanthania, Sherpur Road, Bogura\nVisiting Hour: 7.30pm to 11.30pm (Sat to Thu) & 11.30am to 6pm (Fri)\nAppointment: +8801716106796\nCall Now",
+      "info": "Doctors Clinic, Bogura Address: Unit 2, Thanthania, Sherpur Road, Bogura Visiting Hour: 7.30pm to 11.30pm (Sat to Thu) & 11.30am to 6pm (Fri) Appointment: +8801716106796 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "6pm to 9pm (Closed: Friday & Tuesday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "be030323-bc65-4078-bc75-66224f31067b"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "f0a7b4f3-8abe-4690-bfd1-bb8cf96d0950",
+      "departmentId": "21ebf20f-13fc-4dd9-9e2f-e1adfde6501e",
+      "link": "https://www.doctorbangladesh.com/dr-hasina-akhter-rekha/",
+      "imageId": "575dd1f7-7e2e-409a-868d-2d1f61ebf03b",
       "name": "Dr. Hasina Akhter Rekha",
       "degree": "MBBS, BCS (Health), MS (OBGYN), FCPS (OBGYN)",
       "specialty": "Gynecology, Infertility Specialist & Laparoscopic Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
         "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
         "visitingTime": "4pm to 8pm (Sat to Thu) & 10am to 12pm (Fri)",
-        "appointmentNumber": "+8801701560011"
-      },
-      "id": "08cf70a1-89b5-48c9-8171-a3cf7acc86d7"
+        "appointmentNumber": "+8801701560011Call Now"
+      }
     },
     {
+      "id": "56cf5db5-c3bc-4a6c-82d2-4d24fc05402a",
+      "departmentId": "21ebf20f-13fc-4dd9-9e2f-e1adfde6501e",
+      "link": "https://www.doctorbangladesh.com/dr-taslima-abid-shapla/",
+      "imageId": "4aa62b30-b96d-429e-81d5-0000edf9acfb",
       "name": "Dr. Taslima Abid Shapla",
       "degree": "MBBS, BCS (Health), MCPS, FCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
@@ -38,11 +48,14 @@
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
         "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
         "visitingTime": "4pm to 8pm (Sat, Mon, Tue & Thu)",
-        "appointmentNumber": "+8801701560011"
-      },
-      "id": "5256807d-4797-4611-aec5-04ddf27e2d1f"
+        "appointmentNumber": "+8801701560011Call Now"
+      }
     },
     {
+      "id": "0a7ce849-c867-49a8-9c40-b81a6a847f0d",
+      "departmentId": "21ebf20f-13fc-4dd9-9e2f-e1adfde6501e",
+      "link": "https://www.doctorbangladesh.com/dr-sharmin-akter-shampa/",
+      "imageId": "36159702-a313-4697-b4e4-d5c7d4548194",
       "name": "Dr. Sharmin Akter Shampa",
       "degree": "MBBS, FCPS (OBGYN)",
       "specialty": "Gynecology, Infertility Specialist & Surgeon",
@@ -52,9 +65,8 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "12pm to 5pm (Mon, Tue, Wed & Thursday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "9e38e756-c442-4e81-9391-79a433be1c8c"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     }
   ]
 }

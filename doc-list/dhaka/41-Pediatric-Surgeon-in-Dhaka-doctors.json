@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "9e9bb290-6705-4c5e-a176-11bd057271a7",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/dr-md-ashraf-ul-huq-kazal/",
+      "imageId": "99618ac4-8680-4b37-bf1d-cccb46b90609",
       "name": "Prof. Dr. Md. Ashraf Ul Huq Kazal",
       "degree": "MBBS, MS (Pediatric Surgery), FICS, EMSB (Australia), PhD, FACS",
       "specialty": "Pediatric Surgeon, Pediatric Urologist, Laparoscopic Surgeon & Intersex specialist",
@@ -10,11 +14,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "3pm to 5pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801731403790"
-      },
-      "id": "754a329c-6411-46a5-b715-9e76b78c7623"
+        "appointmentNumber": "+8801731403790Call Now"
+      }
     },
     {
+      "id": "f73b7b2e-36bc-420d-a324-166364d3b59b",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-abu-jafor/",
+      "imageId": "428d1efc-7ef5-4371-85e7-d701e0e6a96f",
       "name": "Prof. Dr. Md. Abu Jafor",
       "degree": "MBBS, MCPS (Surgery), FCPS (Surgery), MS (Paediatric Surgery)",
       "specialty": "Pediatric Surgery Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "4pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "b3db2ac2-f87d-487a-9ec0-b8eb26ac7521"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "6c658895-780d-4de7-acf0-9dd1ce480b7d",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/dr-swapan-kumar-paul/",
+      "imageId": "5e25c943-644a-4a81-bc6b-a0eba82ee17d",
       "name": "Prof. Dr. Swapan Kumar Paul",
       "degree": "MBBS, MS (Pediatric Surgery), FACS (USA)",
       "specialty": "Neonatal, Pediatric Surgery & Pediatric Neurosurgery Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Millennium Specialized Hospital Ltd",
         "address": "Ashraf Tower, 4/1, Walter Road, Sutrapur, Dhaka",
         "visitingTime": "4pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8809639206020"
-      },
-      "id": "55ee327f-4bc3-444c-a471-513aab593a5a"
+        "appointmentNumber": "+8809639206020Call Now"
+      }
     },
     {
+      "id": "0bc4bb5d-3f38-41fa-a25e-145d45bcae6e",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-kabirul-islam/",
+      "imageId": "0e0aa5e1-3cc7-4a93-b43d-89c3760e265e",
       "name": "Prof. Dr. Md. Kabirul Islam",
       "degree": "MBBS, MS (Pediatric Surgery), FICS (USA), FRCS (UK)",
       "specialty": "Pediatric Surgeon, Pediatric Urologist & Laparoscopic Surgeon",
@@ -52,11 +65,14 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "11am to 1pm & 5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "315a16e2-417d-4fde-b9a0-7a02123f3ee5"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "59cedb3e-ba4c-487a-b57c-a8fe7fa8a4b4",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-arifur-rahman/",
+      "imageId": "425bb05d-308b-4550-a866-6bccf0b9d221",
       "name": "Prof. Dr. Md. Arifur Rahman",
       "degree": "MBBS, MS (Pediatric Surgery), Trained in Laparoscopic Surgery (India)",
       "specialty": "Pediatric & Laparoscopic Surgery Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Health and Hope Hospital",
         "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
         "visitingTime": "6pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8809611996699"
-      },
-      "id": "00741b56-bafe-4c11-8100-9bc438af7d79"
+        "appointmentNumber": "+8809611996699Call Now"
+      }
     },
     {
+      "id": "9e988ced-dfac-4215-a9ee-856501cf7adb",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/prof-dr-abdul-hanif-tablu/",
+      "imageId": "4fd675a0-4a14-4904-9463-58ba3361833f",
       "name": "Prof. Dr. Abdul Hanif Tablu",
       "degree": "MBBS (DMC), MS (Pediatric Surgery), MMEd (DU)",
       "specialty": "Neonatal & Pediatric Surgeon",
@@ -80,11 +99,14 @@
         "hospital": "Bangladesh Specialized Hospital",
         "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8809666700100"
-      },
-      "id": "07d00f61-ed20-484a-acd7-b3c5fa4dbd76"
+        "appointmentNumber": "+8809666700100Call Now"
+      }
     },
     {
+      "id": "382bae5f-e2da-4cec-a360-275b9669ca2e",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/prof-dr-kamal-m-choudhury/",
+      "imageId": "b36ed4bd-3ea7-4638-94eb-67fbbd1a727e",
       "name": "Prof. Dr. Kamal M. Choudhury",
       "degree": "MBBS, MS (Pediatric Surgery), FACS, Fellow Pediatric Urology (Australia)",
       "specialty": "Pediatric Surgery Specialist",
@@ -94,53 +116,65 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "fed4fddc-7c8b-4dfb-bb50-5d8d6e4374a3"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "ea04eee3-c40e-448f-bfef-ef92cb1057d2",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/dr-zahid-boksh/",
+      "imageId": "1055a3a8-8156-405d-b87f-5ffbbd6374cf",
       "name": "Prof. Dr. Zahid Boksh",
       "degree": "MBBS (Dhaka), MCPS (Surgery), MS (Pediatric Surgery), FACS (USA)",
       "specialty": "Pediatric Specialist Surgeon",
       "workplace": "Sir Salimullah Medical College & Mitford Hospital",
-      "info": "Popular Diagnostic Center, Dhanmondi\nAddress: Room – 312, House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205\nVisiting Hour: 10am to 12pm (Friday)\nAppointment: +8801711344844\nCall Now",
+      "info": "Popular Diagnostic Center, Dhanmondi Address: Room – 312, House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205 Visiting Hour: 10am to 12pm (Friday) Appointment: +8801711344844 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, English Road",
         "address": "House # 2, English Road, Ray Shaheb Bazar, Dhaka",
         "visitingTime": "6pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801711344844"
-      },
-      "id": "75c52d02-ac6a-4982-8bb4-030e7db62c1b"
+        "appointmentNumber": "+8801711344844Call Now"
+      }
     },
     {
+      "id": "7f721742-cd5b-4e80-8cc0-8ec0ce6d8626",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/dr-kazi-md-noor-ul-ferdous/",
+      "imageId": "6d52c462-d2e8-483b-939b-8132dc83573c",
       "name": "Prof. Dr. Kazi Md. Noor ul Ferdous",
       "degree": "MBBS, MS (Pediatric Surgery), FACS (USA)",
       "specialty": "Pediatric & Neonatal Surgeon",
       "workplace": "Bangladesh Shishu Hospital & Institute",
-      "info": "Ibn Sina Specialized Hospital, Dhanmondi\nAddress: House # 68, Road # 15/A, Dhanmondi, Dhaka – 1209\nVisiting Hour: 5pm to 7pm (Sat, Mon & Wed)\nAppointment: +8809610010615\nCall Now",
+      "info": "Ibn Sina Specialized Hospital, Dhanmondi Address: House # 68, Road # 15/A, Dhanmondi, Dhaka – 1209 Visiting Hour: 5pm to 7pm (Sat, Mon & Wed) Appointment: +8809610010615 Call Now",
       "chamber": {
         "hospital": "Al-Manar Hospital Limited",
-        "address": "6/9, Block - F, Lalmatia, Satmasjeed Road, (beside Academia School),  Dhaka",
+        "address": "6/9, Block - F, Lalmatia, Satmasjeed Road, (beside Academia School), Dhaka",
         "visitingTime": "2pm to 5pm (Closed : Friday & Holidays)",
-        "appointmentNumber": "+8801550020885"
-      },
-      "id": "9d1d8449-a9fe-4735-bdf1-6c19f88b0803"
+        "appointmentNumber": "+8801550020885Call Now"
+      }
     },
     {
+      "id": "b5bba8a9-5e82-4a27-b1cc-61aece782c53",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/prof-dr-kh-md-rayhan-hossain/",
+      "imageId": "3b762640-cc5c-4214-be2f-731a9a23e095",
       "name": "Prof. Dr. Kh. Md. Rayhan Hossain",
       "degree": "MBBS, BCS (Health), MS (Pediatric Surgery)",
       "specialty": "Neonatal & Pediatric Surgeon",
       "workplace": "National Gastroliver Institute & Hospital",
-      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, B.B. Road, Chashara, Narayanganj – 1400\nVisiting Hour: 2pm to 5pm (Only Monday)\nAppointment: +8809666787804\nCall Now",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, B.B. Road, Chashara, Narayanganj – 1400 Visiting Hour: 2pm to 5pm (Only Monday) Appointment: +8809666787804 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Badda",
         "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka - 1212",
         "visitingTime": "6pm to 9pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8809666787809"
-      },
-      "id": "d09262cd-2930-44b2-8f0a-628189bdb7ca"
+        "appointmentNumber": "+8809666787809Call Now"
+      }
     },
     {
+      "id": "0cfe7d3f-99a3-4ab3-a625-07def730a944",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/dr-md-sajedul-haque/",
+      "imageId": "dcbaa495-363c-4cf0-913d-9e2be9c1f702",
       "name": "Dr. Md. Sajedul Haque",
       "degree": "MBBS, BCS (Health), MS (Pediatric Surgery), MMEd, FACS (USA)",
       "specialty": "Pediatric, Burn, Plastic & Laparoscopic Surgeon",
@@ -150,11 +184,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "6pm to 9pm (Sat, Sun, Tue & Wed)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "7f02db08-91f5-47bc-afd3-3e3bb37592fd"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "5a9ab598-04d3-415a-bb1a-0c3e1c5f299f",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/dr-m-m-masud-pervez-shaheen/",
+      "imageId": "bf94bd29-2523-499a-b60a-6d1f80c62e5d",
       "name": "Dr. M M Masud Pervez Shaheen",
       "degree": "MBBS, MS (Pediatric Surgery)",
       "specialty": "Pediatric Surgon",
@@ -164,11 +201,14 @@
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Monday)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "f6107076-c9af-4b6b-a6d5-835d7d938385"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
+      "id": "fa25474e-86a5-458a-91fd-9ff8ee5a4a48",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-shahid-karim/",
+      "imageId": "9b0f3dfb-cd0a-4249-bb32-0e47a2239d2e",
       "name": "Prof. Dr. Md. Shahid Karim",
       "degree": "MBBS, FCPS (Surgery), FICS (USA)",
       "specialty": "Pediatric Surgery & Pediatric Urology Specialist",
@@ -178,11 +218,14 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10678"
-      },
-      "id": "991bcbda-d651-4f49-93ac-bd1a7ec2b76e"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "e4cd5649-d66b-4ea8-b588-6586b8209a31",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/prof-dr-sajal-majumdar/",
+      "imageId": "706a75dc-c8d9-4654-a6c0-c35b35798cd9",
       "name": "Prof. Dr. Sajal Majumdar",
       "degree": "MBBS, MS (Pediatric Surgery)",
       "specialty": "Neonatal & Pediatric Surgery Specialist",
@@ -192,11 +235,14 @@
         "hospital": "Central Hospital, Dhanmondi",
         "address": "House # 02, Road # 05, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "7pm to 9.30pm (Closed: Friday)",
-        "appointmentNumber": "+8802-41060800"
-      },
-      "id": "3635097c-443b-4eec-a39c-ebf1357bc61b"
+        "appointmentNumber": "+8802-41060800Call Now"
+      }
     },
     {
+      "id": "af2fb3e9-245d-4067-9204-06043049a773",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-shah-alam-talukder/",
+      "imageId": "a89b0246-2688-4ced-b417-5a0f636a02eb",
       "name": "Prof. Dr. Md. Shah Alam Talukder",
       "degree": "MBBS, MS (Pediatric Surgery), Fellow in Pediatric Reconstructive Surgery (WHO)",
       "specialty": "Child Birth Defect Specialist & Pediatric Surgeon",
@@ -206,11 +252,14 @@
         "hospital": "Hi-Care General Hospital, Uttara",
         "address": "House # 24 & 26 , Lake Drive Road, Sector # 7, Uttara, Dhaka",
         "visitingTime": "8am to 2pm (Closed: Friday & Saturday)",
-        "appointmentNumber": "+8801778949055"
-      },
-      "id": "fc13d23a-c1a2-4677-9425-321947326d15"
+        "appointmentNumber": "+8801778949055Call Now"
+      }
     },
     {
+      "id": "9b98e10d-057b-4936-8a7e-d433686b7c0f",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/dr-a-m-s-shahin/",
+      "imageId": "05518f18-98cc-477d-8769-0357845f1e5f",
       "name": "Dr. A.M.S Shahin",
       "degree": "MBBS, MS (Pediatric Surgery)",
       "specialty": "Child, Newborn & Adolescent Surgery Specialist",
@@ -220,11 +269,14 @@
         "hospital": "Islami Bank Hospital, Mirpur",
         "address": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801992346632"
-      },
-      "id": "8225142d-a014-4419-9120-86d717f46e03"
+        "appointmentNumber": "+8801992346632Call Now"
+      }
     },
     {
+      "id": "46dcbfbe-ccf6-4443-918d-f6d38fd63e61",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/dr-syed-abdul-adil-rupas/",
+      "imageId": "33ae06a2-663f-426e-8424-ff4aee505ebb",
       "name": "Dr. Syed Abdul Adil Rupas",
       "degree": "MBBS, MS (Pediatric Surgery)",
       "specialty": "Neonatal, Pediatric, Urology & Laparoscopic Surgeon",
@@ -234,11 +286,14 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "6pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+880258616074"
-      },
-      "id": "8e84db76-afaf-4108-b6ae-11d9addea195"
+        "appointmentNumber": "+880258616074Call Now"
+      }
     },
     {
+      "id": "56e5f156-6ab2-4cda-9562-7cd2c45176de",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/dr-shamsuzzaman-khan-khursed/",
+      "imageId": "ec2fd104-7c01-4499-9503-ab2ebf4db3ec",
       "name": "Dr. Shamsuzzaman Khan Khursed",
       "degree": "MBBS, BCS (Health), MS (Pediatric Surgery)",
       "specialty": "Pediatric Surgeon",
@@ -248,11 +303,14 @@
         "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
         "address": "1/1 B, Kallyanpur, Dhaka",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801703725590"
-      },
-      "id": "c52ad309-6627-475d-a944-f0e43600f648"
+        "appointmentNumber": "+8801703725590Call Now"
+      }
     },
     {
+      "id": "a286dd2d-0851-41a4-a5f7-c4ec3f49d892",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/dr-md-mobassar-hussain-mullick/",
+      "imageId": "ba291fa6-d612-4fd8-b7c8-6b0bbd868c27",
       "name": "Dr. Md. Mobassar Hussain Mullick",
       "degree": "MBBS, MS (Pediatric Surgery)",
       "specialty": "Newborn & Child Surgery Specialist",
@@ -262,11 +320,14 @@
         "hospital": "Delta Hospital, Mirpur",
         "address": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka - 1216",
         "visitingTime": "6pm to 8pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801301254924"
-      },
-      "id": "15fb26b6-48af-4b30-8aff-9f8a6041e972"
+        "appointmentNumber": "+8801301254924Call Now"
+      }
     },
     {
+      "id": "4133f60d-59dd-40c8-a26a-71efb128b703",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/dr-mohammed-mainul-haque/",
+      "imageId": "a9f5d0e4-1ec3-47d2-9665-dc6a10a865f8",
       "name": "Dr. Mohammed Mainul Haque",
       "degree": "MBBS, BCS (Health), MS (Pediatric Surgery)",
       "specialty": "Pediatric Surgery Specialist",
@@ -276,11 +337,14 @@
         "hospital": "Islami Bank Central Hospital, Kakrail",
         "address": "30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000",
         "visitingTime": "3pm to 4pm (Closed: Friday)",
-        "appointmentNumber": "+8801810000116"
-      },
-      "id": "31664e39-1546-4322-8d50-3c214821a724"
+        "appointmentNumber": "+8801810000116Call Now"
+      }
     },
     {
+      "id": "8f2e2429-c37c-47d0-b7ec-b0af2c82a60b",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/dr-md-delwar-hossain-ped-surgeon/",
+      "imageId": "b7ebeff2-c9fc-45ee-90b7-05967b9fdd4b",
       "name": "Dr. Md. Delwar Hossain",
       "degree": "MBBS (Dhaka), MS (Pediatric Surgery), FACS (USA), Pediatric Nutrition PGPN (Boston, USA)",
       "specialty": "Pediatric Surgery & Pediatric Neurosurgery Specialist",
@@ -290,11 +354,14 @@
         "hospital": "Dhaka Central Consultation & Diagnostic Center",
         "address": "Block - 4/Ka, Ring Road, Shyamoli, Dhaka - 1207",
         "visitingTime": "4pm to 6pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801711546845"
-      },
-      "id": "7477dbc2-360f-45f1-8b56-8a062f129556"
+        "appointmentNumber": "+8801711546845Call Now"
+      }
     },
     {
+      "id": "6d48e39d-451d-40ba-be2b-45ec8ad396ac",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/dr-sadruddin-al-masud/",
+      "imageId": "88a76548-7c2e-4a7e-964f-c7c342d72234",
       "name": "Dr. Sadruddin Al-Masud",
       "degree": "MBBS (DMC), BCS (Health), MS (Pediatric Surgery)",
       "specialty": "Pediatric Surgery Specialist",
@@ -304,11 +371,14 @@
         "hospital": "Unity Aid Hospital Limited",
         "address": "House # 1-2, Block # D, Main Road, South Banasree, Khilgaon, Dhaka",
         "visitingTime": "6pm to 8pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801997421112"
-      },
-      "id": "300b11a7-3816-4738-a616-4694c9c9a8c5"
+        "appointmentNumber": "+8801997421112Call Now"
+      }
     },
     {
+      "id": "51aff79c-0d47-4d6b-b9e2-a33dbb986861",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/dr-ruhul-amin-a-hassan/",
+      "imageId": "ca4c551f-361b-4d22-85b3-21efc2c3cb19",
       "name": "Dr. Ruhul Amin A Hassan",
       "degree": "MBBS, FRCS (Ireland)",
       "specialty": "Pediatrics Surgery Specialist",
@@ -318,11 +388,14 @@
         "hospital": "Asgar Ali Hospital, Dhaka",
         "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801787683333"
-      },
-      "id": "439f667a-c0e0-48c2-af1e-d123d404fbf5"
+        "appointmentNumber": "+8801787683333Call Now"
+      }
     },
     {
+      "id": "d12f8fd2-1b5e-43a4-8113-0c0188f2fc1d",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/dr-ahmed-zahid-hossain/",
+      "imageId": "d423a7c1-76b3-45ec-92ea-534818f6676f",
       "name": "Dr. Ahmed Zahid Hossain",
       "degree": "MBBS, MPH (Epidemiology), MS (Pediatric Surgery)",
       "specialty": "Pediatric Surgery Specialist",
@@ -332,11 +405,14 @@
         "hospital": "Bangladesh Specialized Hospital",
         "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8809666700100"
-      },
-      "id": "7294a64d-4211-4557-bec0-b54f0e94563f"
+        "appointmentNumber": "+8809666700100Call Now"
+      }
     },
     {
+      "id": "a4290351-8a6c-4839-bc0c-30a16f4de3f5",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/dr-musrat-rahman-deeba/",
+      "imageId": "561887e9-2bfd-4cb3-97e9-47ead6ae77fc",
       "name": "Dr. Musrat Rahman Deeba",
       "degree": "MBBS, MS (Pediatric Surgery)",
       "specialty": "Pediatric Surgery Specialist & Laparoscopic Surgeon",
@@ -346,11 +422,14 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "10am to 2pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "d91b2b56-0eef-4ca3-a805-7279652b7ee4"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "871eb777-5633-44dc-849e-e2da6832815e",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/prof-dr-asm-alamgir-chowdhury/",
+      "imageId": "0418c0be-0e68-4fdc-b186-a1d2c0c0915c",
       "name": "Prof. Dr. ASM Alamgir Chowdhury",
       "degree": "MBBS, MS (Pediatric Surgery)",
       "specialty": "Pediatric Surgeon",
@@ -360,11 +439,14 @@
         "hospital": "AMZ Hospital, Badda",
         "address": "Cha - 80/3, Progati Sarani, Uttar Badda, Dhaka",
         "visitingTime": "7pm to 10pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801847331020"
-      },
-      "id": "88fd6230-33fe-40ce-a176-da6f3f146e60"
+        "appointmentNumber": "+8801847331020Call Now"
+      }
     },
     {
+      "id": "4c051c40-4dd8-4e53-8289-8d288f91f1cf",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/dr-md-rezaul-karim-pediatric/",
+      "imageId": "f88df3b4-4172-414f-81c2-8076b5f4c973",
       "name": "Dr. Md. Rezaul Karim",
       "degree": "MBBS, MS (Pediatric Surgery)",
       "specialty": "Neonatal & Pediatric Surgery Specialist",
@@ -374,11 +456,14 @@
         "hospital": "Enam Medical College & Hospital",
         "address": "9/3 Parboti Nagar, Thana Road, Savar, Dhaka",
         "visitingTime": "8am to 2.30pm (Sat to Thu) & 5pm to 9pm (Sat, Sun, Tue, Mon & Thu)",
-        "appointmentNumber": "+8801716358146"
-      },
-      "id": "8bd9dc48-de95-4150-952a-794c08758a37"
+        "appointmentNumber": "+8801716358146Call Now"
+      }
     },
     {
+      "id": "fdc1a9ae-0d7e-43e7-b5fb-5b767d7944c5",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahin-reza/",
+      "imageId": "c797737c-2035-443f-b1cb-8d60edde1351",
       "name": "Dr. Md. Shahin Reza",
       "degree": "MBBS, BCS, FACS, MS",
       "specialty": "Pediatric Endo-Laparoscopic Surgeon & Pediatric Urologist",
@@ -388,11 +473,14 @@
         "hospital": "Insaf Barakah Kidney & General Hospital",
         "address": "11, Shaheed Tajuddin Ahmed Sarani, Mogbazar, Dhaka",
         "visitingTime": "5pm to 7pm (Closed: Mon & Tuesday)",
-        "appointmentNumber": "+8801711010161"
-      },
-      "id": "a1e82d21-255f-4575-808d-d5362ec104b0"
+        "appointmentNumber": "+8801711010161Call Now"
+      }
     },
     {
+      "id": "5068f27e-7ff0-4314-9721-e3fc35edb96d",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/prof-dr-a-k-m-zahid-hossain/",
+      "imageId": "b3f623d0-59ff-428f-969c-6968b88ef4c6",
       "name": "Prof. Dr. A.K.M. Zahid Hossain",
       "degree": "MBBS, MS (Pediatric Surgery)",
       "specialty": "Pediatric (General, Hepatobiliary & Pancreatic, Urology) Surgeon",
@@ -402,39 +490,48 @@
         "hospital": "Samorita Hospital Ltd, Panthapath",
         "address": "89/1, Panthapath, Dhaka - 1215, Bangladesh",
         "visitingTime": "7pm to 9pm (Sat, Mon & Wed)",
-        "appointmentNumber": "10674"
-      },
-      "id": "70726017-da06-454d-be59-c02e51630620"
+        "appointmentNumber": "10674Call Now"
+      }
     },
     {
+      "id": "8e495618-457c-469e-bb8d-6edf43d003eb",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/dr-muhammed-rashedul-alam/",
+      "imageId": "fcc06223-90b1-4fe5-987d-aaf9ead32fd8",
       "name": "Dr. Muhammed Rashedul Alam",
       "degree": "MBBS, MS (Pediatric Surgery)",
       "specialty": "Pediatric Surgeon",
       "workplace": "Bangladesh Shishu Hospital & Institute",
-      "info": "Pancare Hospital Ltd.\nAddress: Dhanmondi Tower, North to Rapa Palaza, Dhanmondi, Dhaka\nVisiting Hour: 4pm to 6pm (Closed: Friday)\nAppointment: +880258155309\nCall Now",
+      "info": "Pancare Hospital Ltd. Address: Dhanmondi Tower, North to Rapa Palaza, Dhanmondi, Dhaka Visiting Hour: 4pm to 6pm (Closed: Friday) Appointment: +880258155309 Call Now",
       "chamber": {
         "hospital": "Victoria Heathcare Ltd",
         "address": "Cosmopolitan Center (Opposite to NIKDU), Babar Road, Dhaka",
         "visitingTime": "2.30pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801712006577"
-      },
-      "id": "aa94789b-684f-4496-a252-f7815d7167b9"
+        "appointmentNumber": "+8801712006577Call Now"
+      }
     },
     {
+      "id": "6797e3d5-cd65-4c07-8ad7-6a75f0b8b8b3",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdullah-al-mahmud-shovon/",
+      "imageId": "787f666a-b1b2-47cb-94a2-91e8e3f872f4",
       "name": "Dr. Md. Abdullah Al Mahmud Shovon",
       "degree": "MBBS, BCS (Health), MS (Pediatric Surgery), DG Medalist (NAPD)",
       "specialty": "Pediatric Surgeon",
       "workplace": "Kuwait Bangladesh Friendship Government Hospital",
-      "info": "Aalok Health Care, Mirpur 1\nAddress: 21 Darus Salam Road, Mirpur 1, Dhaka\nVisiting Hour: 7pm to 9pm (Closed: Friday)\nAppointment: +8801726654541\nCall Now",
+      "info": "Aalok Health Care, Mirpur 1 Address: 21 Darus Salam Road, Mirpur 1, Dhaka Visiting Hour: 7pm to 9pm (Closed: Friday) Appointment: +8801726654541 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
         "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
         "visitingTime": "2.30pm to 4pm (Sat to Thu), 6pm to 9pm (Friday)",
-        "appointmentNumber": "+8801726654541"
-      },
-      "id": "0b54ecea-b01e-441f-86b1-b44cbb6376f5"
+        "appointmentNumber": "+8801726654541Call Now"
+      }
     },
     {
+      "id": "3370f228-60e4-4e8a-ada2-42ac40e22bab",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/prof-dr-a-k-m-shamsuddin/",
+      "imageId": "f23f572e-6825-441b-8dfc-f2ba9515ff79",
       "name": "Prof. Dr. A.K.M. Shamsuddin",
       "degree": "MBBS, BCS (Health), MS (Pediatric Surgery)",
       "specialty": "Pediatric Surgeon",
@@ -444,11 +541,14 @@
         "hospital": "Mirpur General Hospital & Diagnostic Center",
         "address": "Plot - 10, Road - 4/5, Section - 12, Kalshi Road, Mirpur, Dhaka",
         "visitingTime": "9pm to 10pm (Everyday)",
-        "appointmentNumber": "+8801610964966"
-      },
-      "id": "a214d84f-105a-4f3f-a9f6-c3da21fd6399"
+        "appointmentNumber": "+8801610964966Call Now"
+      }
     },
     {
+      "id": "ceaf3659-fb53-44f7-8f75-e5d2535ce437",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/dr-a-k-m-khairul-basher/",
+      "imageId": "bd98f579-a9e1-449b-8912-dde921478baa",
       "name": "Dr. A.K.M Khairul Basher",
       "degree": "MBBS, BCS (Health), MS (Pediatric Surgery), BSMMU",
       "specialty": "Pediatric Urologist & Pediatric Surgeon",
@@ -458,11 +558,14 @@
         "hospital": "Comfort Diagnostic Center, Dhanmondi",
         "address": "Comfort Doctors’ Chamber 3, Green Road, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801764763827"
-      },
-      "id": "b09e955d-f52b-4629-bd13-afd25a38c575"
+        "appointmentNumber": "+8801764763827Call Now"
+      }
     },
     {
+      "id": "275c953f-edab-46c5-9fe2-de6153a23d29",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/dr-a-h-m-abdul-hai/",
+      "imageId": "f7eacae8-cfc7-4d13-98ef-e127e212884f",
       "name": "Dr. A H M Abdul Hai",
       "degree": "MBBS, BCS (Health), MS (Pediatric Surgery)",
       "specialty": "Neonatal & Pediatric Surgery Specialist",
@@ -472,11 +575,14 @@
         "hospital": "Holy Aid Hospital Ltd, Demra",
         "address": "Lake View Sarker Plaza, Hazinagar, Sarulia, Demra, Dhaka",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801955990055"
-      },
-      "id": "c63d6502-869d-4d35-ab14-62cb7122b4c0"
+        "appointmentNumber": "+8801955990055Call Now"
+      }
     },
     {
+      "id": "2fae67bd-ca5c-4a96-b201-570bb51390f7",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/dr-zannatul-ferdous-peu/",
+      "imageId": "338e47c3-e71a-480d-90f5-12698f86de30",
       "name": "Dr. Zannatul Ferdous Peu",
       "degree": "MBBS (DMC), MRCS (UK), MS (Pediatric Surgery)",
       "specialty": "Pediatric Surgery Specialist",
@@ -486,11 +592,14 @@
         "hospital": "SIBL Foundation Hospital & Diagnostic Center",
         "address": "Fattah Plaza, 70, Green Road, Panthapath, Dhaka - 1205",
         "visitingTime": "3pm to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801958339339"
-      },
-      "id": "672601db-5d07-4d25-9d1d-7131904d90e3"
+        "appointmentNumber": "+8801958339339Call Now"
+      }
     },
     {
+      "id": "2429e246-7388-48d7-8848-57d9ba34bc1d",
+      "departmentId": "7a8ee781-fb40-494c-b386-63309db5570e",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-samidur-rahman/",
+      "imageId": "eb1b6cf5-0ce2-453f-b36b-941bb0ac5e9a",
       "name": "Prof. Dr. Md. Samidur Rahman",
       "degree": "MBBS, MS (Paediatric Surgery), FACS (USA)",
       "specialty": "Pediatric Surgeon, Specialty in Hypospadias Surgery",
@@ -500,9 +609,8 @@
         "hospital": "AMZ Hypospadias and Circumcision Center",
         "address": "Cha, 80/3, Shadhinota Soroni (Progoti Soroni), Uttar Badda, Dhaka",
         "visitingTime": "5pm to 7pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801847331020"
-      },
-      "id": "ff786e70-68f1-47e6-826a-de18ef74e616"
+        "appointmentNumber": "+8801847331020Call Now"
+      }
     }
   ]
 }

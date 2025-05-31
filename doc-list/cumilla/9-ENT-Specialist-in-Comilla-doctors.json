@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "990dde61-81ac-4e51-8604-da8a27a0ab34",
+      "departmentId": "ee4a7b50-5b4c-4b58-bb6e-72aabc8a40f4",
+      "link": "https://www.doctorbangladesh.com/dr-a-h-m-delwar-mamun/",
+      "imageId": "4a932162-b2c0-4e7b-a95e-56a36e1c1f6b",
       "name": "Prof. Dr. A.H.M. Delwar Mamun",
       "degree": "MBBS, DLO (ENT), MCPS (ENT), MRCPS (UK), FMRC (USA), MD (Audiology) Spain, FICS (USA)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -10,11 +14,14 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Room - 314 (2nd Floor), Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "2.30pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801711246978, +8801730931391"
-      },
-      "id": "d0b865ca-91b6-4dc2-8078-1815748caffc"
+        "appointmentNumber": "+8801711246978, +8801730931391Call Now"
+      }
     },
     {
+      "id": "1bce3b60-01a1-4628-a36d-b89daa184b7f",
+      "departmentId": "ee4a7b50-5b4c-4b58-bb6e-72aabc8a40f4",
+      "link": "https://www.doctorbangladesh.com/dr-md-sajibur-rashid/",
+      "imageId": "e06735ce-942f-4fdc-ba28-01f9fb3e2d22",
       "name": "Dr. Md. Sajibur Rashid",
       "degree": "MBBS, BCS (Health), FCPS (ENT), MS (ENT), FRCS (UK), FACS (USA)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801711144786"
-      },
-      "id": "8276ff7f-dbb6-4477-8e97-fb0d84624610"
+        "appointmentNumber": "+8801711144786Call Now"
+      }
     },
     {
+      "id": "6e85db0c-6023-4d89-baac-61555062088e",
+      "departmentId": "ee4a7b50-5b4c-4b58-bb6e-72aabc8a40f4",
+      "link": "https://www.doctorbangladesh.com/dr-dipankar-lodh/",
+      "imageId": "c1db4e00-c7f2-41fa-a628-322440429b49",
       "name": "Prof. Dr. Dipankar Lodh",
       "degree": "MBBS (DMC), BCS (Health), FRCS, FCPS (ENT), DLO, MCPS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Surgeon",
@@ -38,11 +48,14 @@
         "hospital": "Modern Diagnostic Center, Narayanganj",
         "address": "BJA Babhan, Bangabandhu Road, Chashara, Narayanganj",
         "visitingTime": "6pm to 9pm (Sat, Sun, Tue & Wed)",
-        "appointmentNumber": "+8801820842293"
-      },
-      "id": "e41d8278-019d-423b-b1ba-63a9591c6858"
+        "appointmentNumber": "+8801820842293Call Now"
+      }
     },
     {
+      "id": "5a444350-8145-445b-b0b2-da2348494630",
+      "departmentId": "ee4a7b50-5b4c-4b58-bb6e-72aabc8a40f4",
+      "link": "https://www.doctorbangladesh.com/dr-habibur-rahman-palash/",
+      "imageId": "432199d4-b587-45c3-ab01-500ea82a33dd",
       "name": "Dr. Habibur Rahman Palash",
       "degree": "MBBS, DLO (ENT), MS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -52,11 +65,14 @@
         "hospital": "Moon Hospital, Comilla",
         "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
         "visitingTime": "4pm to 8pm (Thu) & 9am to 8pm (Fri)",
-        "appointmentNumber": "+8801764364575"
-      },
-      "id": "61c761ab-436e-41e8-a507-ae68fa64a968"
+        "appointmentNumber": "+8801764364575Call Now"
+      }
     },
     {
+      "id": "54fde983-64e4-4d86-a9c7-922b6efaa694",
+      "departmentId": "ee4a7b50-5b4c-4b58-bb6e-72aabc8a40f4",
+      "link": "https://www.doctorbangladesh.com/dr-md-shafiqur-rahman/",
+      "imageId": "fffe6b22-17e9-4c4e-9be2-67930d858236",
       "name": "Dr. Md. Shafiqur Rahman",
       "degree": "MBBS, BCS (Health), DLO, FMRC (USA), MRCPS (Glasgow, UK)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -66,11 +82,14 @@
         "hospital": "Modern Hospital Private Limited",
         "address": "Laksam Road, Shaktola, Cumilla – 3500",
         "visitingTime": "3pm to 7pm (Sat to Wed), 1pm to 3pm (Thu)",
-        "appointmentNumber": "+8801977120930"
-      },
-      "id": "a15bd669-877a-4d5c-a309-28e649a5c493"
+        "appointmentNumber": "+8801977120930Call Now"
+      }
     },
     {
+      "id": "f3dbe349-dec3-4f81-b194-7ccb06f9b044",
+      "departmentId": "ee4a7b50-5b4c-4b58-bb6e-72aabc8a40f4",
+      "link": "https://www.doctorbangladesh.com/dr-md-delwar-hossain/",
+      "imageId": "56c343a6-d239-4b19-a68b-4cc090d0a3f9",
       "name": "Dr. Md. Delwar Hossain",
       "degree": "MBBS, MCPS (ENT), FCPS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -80,11 +99,14 @@
         "hospital": "Cumilla People's Hospital",
         "address": "Khokon Tower, Medical College Road, Tomsom Bridge, Cumilla",
         "visitingTime": "2pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801888117873"
-      },
-      "id": "c46dead9-a9a6-4ea5-b48e-8cd307588e71"
+        "appointmentNumber": "+8801888117873Call Now"
+      }
     },
     {
+      "id": "c5b9916b-8c15-4347-9fff-6bf64fb864de",
+      "departmentId": "ee4a7b50-5b4c-4b58-bb6e-72aabc8a40f4",
+      "link": "https://www.doctorbangladesh.com/dr-md-jahangir-alam-majumder/",
+      "imageId": "4b5da6d3-47ea-48cf-bf4c-b990474b6046",
       "name": "Dr. Md. Jahangir Alam Majumder",
       "degree": "MBBS, BCS (Health), DLO (ENT), MRCPS (UK)",
       "specialty": "ENT Specialist & Surgeon",
@@ -94,11 +116,14 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801711144786"
-      },
-      "id": "1a9ffb85-3c26-403d-bc64-479dc5c13ac5"
+        "appointmentNumber": "+8801711144786Call Now"
+      }
     },
     {
+      "id": "740120be-088a-427c-b95c-7933d78cb301",
+      "departmentId": "ee4a7b50-5b4c-4b58-bb6e-72aabc8a40f4",
+      "link": "https://www.doctorbangladesh.com/dr-md-rafiqul-islam-sarkar/",
+      "imageId": "61e67557-666d-4f6a-a3d7-bc8cfec9ac39",
       "name": "Dr. Md. Rafiqul Islam Sarkar",
       "degree": "MBBS, BCS (Health), MCPS, DLO (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -108,11 +133,14 @@
         "hospital": "Moon Hospital, Comilla",
         "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
         "visitingTime": "4pm to 7pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801717294611"
-      },
-      "id": "5c4ebdfe-c4ab-4723-8309-bfcc827a8586"
+        "appointmentNumber": "+8801717294611Call Now"
+      }
     },
     {
+      "id": "339875bf-5e56-4537-8104-0de4739c49f8",
+      "departmentId": "ee4a7b50-5b4c-4b58-bb6e-72aabc8a40f4",
+      "link": "https://www.doctorbangladesh.com/dr-md-golam-sarwar-sarker/",
+      "imageId": "f8929cbe-bc0f-4b4c-90a7-c89b22574874",
       "name": "Dr. Md. Golam Sarwar Sarker",
       "degree": "MBBS, BCS (Health), DLO (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -122,11 +150,14 @@
         "hospital": "Midland Hospital, Comilla",
         "address": "Laksam Road, Ramghat, Kandirpar, Cumilla",
         "visitingTime": "2pm to 4pm (Sat to Thu) & 10am to 5pm (Fri)",
-        "appointmentNumber": "+8801711795740"
-      },
-      "id": "9fcbd78f-d379-4ffe-b71b-63b52c7c98c8"
+        "appointmentNumber": "+8801711795740Call Now"
+      }
     },
     {
+      "id": "c97a55dd-872b-40f2-a253-96959290a48f",
+      "departmentId": "ee4a7b50-5b4c-4b58-bb6e-72aabc8a40f4",
+      "link": "https://www.doctorbangladesh.com/dr-md-zahirul-haque-ent/",
+      "imageId": "83daafae-bdee-456c-9871-695ba15d2db3",
       "name": "Dr. Md. Zahirul Haque",
       "degree": "MBBS, BCS (Health), DLO (BSMMU)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -136,11 +167,14 @@
         "hospital": "Comilla Mission Hospital",
         "address": "Shasongacha, Railgate, Cumilla – 3500",
         "visitingTime": "2pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801739142170"
-      },
-      "id": "ca7ab422-3c0f-428c-bd17-6a8f9eb49ef4"
+        "appointmentNumber": "+8801739142170Call Now"
+      }
     },
     {
+      "id": "60b32772-a597-483e-8786-e8f2a1ba61e7",
+      "departmentId": "ee4a7b50-5b4c-4b58-bb6e-72aabc8a40f4",
+      "link": "https://www.doctorbangladesh.com/dr-subrata-das-rupam/",
+      "imageId": "7f8827d2-24af-44e2-8f49-9faa1a3d66aa",
       "name": "Dr. Subrata Das Rupam",
       "degree": "MBBS, DLO (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Surgeon",
@@ -150,11 +184,14 @@
         "hospital": "CD Path & Hospital Pvt. Ltd.",
         "address": "Shishu Monagal Road, Badurtoal, Cumilla – 3500",
         "visitingTime": "9am to 2pm (Everyday)",
-        "appointmentNumber": "+8801790680973"
-      },
-      "id": "d7740184-4f90-47eb-822d-0368c7c46fec"
+        "appointmentNumber": "+8801790680973Call Now"
+      }
     },
     {
+      "id": "d4caeb4d-7ece-4f53-854b-b01939d0833a",
+      "departmentId": "ee4a7b50-5b4c-4b58-bb6e-72aabc8a40f4",
+      "link": "https://www.doctorbangladesh.com/dr-nur-ahmed/",
+      "imageId": "45b59af7-046d-4c6d-af15-8a14d9e327a1",
       "name": "Dr. Nur Ahmed",
       "degree": "MBBS (DU), DLO (CMH), MCPS",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -164,23 +201,25 @@
         "hospital": "Gomati Hospital, Comilla",
         "address": "Nazrul Avenue, Kandirpar, Cumilla (Opposite to Farida Bidyayatan School)",
         "visitingTime": "8am to 11.30am (Friday)",
-        "appointmentNumber": "+8801881115671"
-      },
-      "id": "d52d2876-6f56-4caf-8aae-7d0510d5995c"
+        "appointmentNumber": "+8801881115671Call Now"
+      }
     },
     {
+      "id": "30213fa2-40c2-4f31-8710-6671bccda8b5",
+      "departmentId": "ee4a7b50-5b4c-4b58-bb6e-72aabc8a40f4",
+      "link": "https://www.doctorbangladesh.com/dr-md-belal-hossain/",
+      "imageId": "2f3ab4d5-954f-4ed0-8b6b-b6ac18f03ff0",
       "name": "Dr. Md. Belal Hossain",
       "degree": "MBBS, DLO",
       "specialty": "ENT Specialist & Head Neck Surgeon",
       "workplace": "Cumilla Medical College & Hospital",
-      "info": "Retinal Hospital, Cumilla\nAddress: 716, Sadar Hospital Road, Manohorpur, Cumilla\nVisiting Hour: 3pm to 6pm (Closed: Friday)\nAppointment: +8801674988803\nCall Now",
+      "info": "Retinal Hospital, Cumilla Address: 716, Sadar Hospital Road, Manohorpur, Cumilla Visiting Hour: 3pm to 6pm (Closed: Friday) Appointment: +8801674988803 Call Now",
       "chamber": {
         "hospital": "Insaf Hospital, Cumilla",
         "address": "38, Tomsom Bridge, Kotbari Road, Cumilla",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801674988803"
-      },
-      "id": "84daae10-b83d-40fc-b135-bbc9cce3a79b"
+        "appointmentNumber": "+8801674988803Call Now"
+      }
     }
   ]
 }

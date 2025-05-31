@@ -1,34 +1,44 @@
 {
   "doctor": [
     {
+      "id": "7ef7bac6-7fda-4974-88ba-81f1ce0c0054",
+      "departmentId": "0ffd9fc2-7892-430d-abf3-53b1f7fe3daa",
+      "link": "https://www.doctorbangladesh.com/dr-nurul-hoque-mia/",
+      "imageId": "6f91acf5-1d33-4268-ad54-aa806ddb30cb",
       "name": "Dr. Md. Nurul Hoque Miah",
       "degree": "MBBS (CMC), BCS (Health), FCPS (Physical Medicine & Rehabilitation), MD (BSMMU)",
       "specialty": "Pain, Arthritis, Sports Injury, Physical Medicine & Rehabilitation Specialist",
       "workplace": "Sher-E-Bangla Medical College & Hospital",
-      "info": "Labaid Diagnostic, Barisal\nAddress: K Jahan Center, House # 106, Sadar Road, Barisal\nVisiting Hour: 6.30pm to 10.30pm (Closed: Friday)\nAppointment: +8801787857658\nCall Now",
+      "info": "Labaid Diagnostic, Barisal Address: K Jahan Center, House # 106, Sadar Road, Barisal Visiting Hour: 6.30pm to 10.30pm (Closed: Friday) Appointment: +8801787857658 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Barisal",
         "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787819"
-      },
-      "id": "58a27ac6-08cc-454e-8b85-4804db6d5d9a"
+        "appointmentNumber": "+8809666787819Call Now"
+      }
     },
     {
+      "id": "1ac9e40b-24be-4b68-8c3a-7d3cc9df6972",
+      "departmentId": "0ffd9fc2-7892-430d-abf3-53b1f7fe3daa",
+      "link": "https://www.doctorbangladesh.com/dr-md-foyzul-islam/",
+      "imageId": "0d84e90a-b458-4548-a586-558d9a28ff32",
       "name": "Dr. Md. Foyzul Islam",
       "degree": "MBBS (Dhaka), BCS (Health), MD (Physical Medicine)",
       "specialty": "Pain, Paralysis, Arthritis, Physical Medicine & Rehabilitation Specialist",
       "workplace": "Sher-E-Bangla Medical College & Hospital",
-      "info": "South Apollo Diagnostic Complex, Barisal\nAddress: 135, Sadar Road, Barisal\nVisiting Hour: 12.30pm to 3pm (Closed: Friday)\nAppointment: +8801711457444\nCall Now",
+      "info": "South Apollo Diagnostic Complex, Barisal Address: 135, Sadar Road, Barisal Visiting Hour: 12.30pm to 3pm (Closed: Friday) Appointment: +8801711457444 Call Now",
       "chamber": {
         "hospital": "Rahat Anwar Hospital, Barisal",
         "address": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801711993953"
-      },
-      "id": "3bcab3d8-b3ef-45ab-a45e-ab7ecba6a572"
+        "appointmentNumber": "+8801711993953Call Now"
+      }
     },
     {
+      "id": "f4da4293-9f34-4e2f-a99f-c3ea52b83f23",
+      "departmentId": "0ffd9fc2-7892-430d-abf3-53b1f7fe3daa",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-israt-hasan/",
+      "imageId": "d29ae561-45c4-47be-983c-b8776df0880f",
       "name": "Dr. Mohammad Israt Hasan",
       "degree": "MBBS, BCS (Health), MD (Physical Medicine)",
       "specialty": "Arthritis, Paralysis, Rheumatological Diseases, Injury & Rehabilitation Specialist",
@@ -38,9 +48,8 @@
         "hospital": "D Lab Medical Services, Barisal",
         "address": "Sarkari Mohila College Goli, Sadar Road, Barisal",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801729208433"
-      },
-      "id": "b5773b86-188a-488d-9413-722a16e9a338"
+        "appointmentNumber": "+8801729208433Call Now"
+      }
     }
   ]
 }

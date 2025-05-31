@@ -1,20 +1,27 @@
 {
   "doctor": [
     {
+      "id": "73d24399-92cd-4187-8ee5-4825001d93d4",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-farida-yasmin-shumi/",
+      "imageId": "311c107f-c211-43d4-a654-d4f675fdf6b3",
       "name": "Asst. Prof. Dr. Farida Yasmin SHUMI",
       "degree": "MBBS, DGO, MS (Gyne), MSc in Sexual & Reproductive Medicine (UK)",
       "specialty": "Obstetrician, Gynecologist, Infertility Specialist & Surgeon",
       "workplace": "Chittagong Medical College & HospitalHelpline: 01782666066",
-      "info": "Belle Vue Hospital, Chittagong\nAddress: Prabartak Hill, 12/12, O.R. Nizam Road, Panchlaish, Chattogram\nVisiting Hour: 9pm to 10.30pm (Saturday to Wednesday)\nAppointment: 01782666066, 01969901166\nCall Now",
+      "info": "Belle Vue Hospital, Chittagong Address: Prabartak Hill, 12/12, O.R. Nizam Road, Panchlaish, Chattogram Visiting Hour: 9pm to 10.30pm (Saturday to Wednesday) Appointment: 01782666066, 01969901166 Call Now",
       "chamber": {
         "hospital": "Dr. Shumi & Genesis",
         "address": "AS Tower (Level-3), 553 Shishu Academy Road (Beside Mimi Super Market)Hillview R/A, Probortak Circle, Chittagong",
         "visitingTime": "6.30pm to 8.30pm (Saturday to Wednesday)",
-        "appointmentNumber": "+8801782666066"
-      },
-      "id": "93e7e888-84b0-4d4e-916a-9c17f724e426"
+        "appointmentNumber": "+8801782666066Call Now"
+      }
     },
     {
+      "id": "87b7e4c3-3d64-487a-a35a-02c92b6b1a47",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-syeda-yeasmin-akter/",
+      "imageId": "94f3442f-213e-4d70-92ec-2146ff8cd66e",
       "name": "Dr. Syeda Yeasmin Akter",
       "degree": "MBBS, BCS (Health), FCPS (Gynecology & Obstetrics)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "Asperia Health Care Ltd, Chittagong",
         "address": "Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801810-004550"
-      },
-      "id": "8b3eeda6-ddfc-4498-87d4-139b43bce666"
+        "appointmentNumber": "+8801810-004550Call Now"
+      }
     },
     {
+      "id": "1abff20f-0e08-46ef-8ebe-cb7af8ea9616",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-masuma-tabassum/",
+      "imageId": "4fe2e2f4-bc4e-49fb-b6e7-a574cf0abf23",
       "name": "Dr. Masuma Tabassum",
       "degree": "MBBS (CMC), BCS (Health), MS in Gynae & Obs (BSMMU), CMU (Ultra)",
       "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
@@ -38,11 +48,31 @@
         "hospital": "CSCR Hospital, Chittagong",
         "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
         "visitingTime": "6pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801606757472"
-      },
-      "id": "895cce71-1033-4955-a429-b917d0501e9a"
+        "appointmentNumber": "+8801606757472Call Now"
+      }
     },
     {
+      "id": "0e3bb25c-eb24-45fa-9a7a-70cfcfefbeba",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-priti-barua/",
+      "imageId": "53b5b853-a33e-49cf-9384-21a243210502",
+      "name": "Dr. Priti Barua",
+      "degree": "MBBS (CU), MCPS (Dhaka), MSC, MCH (London)",
+      "specialty": "Obstetrician, Gynecologist & Surgeon",
+      "workplace": "Memon Maternity Hospital, ChittagongAppointment: 01713-123100",
+      "info": "Dr. Priti Barua is a highly experienced Obstetrician, Gynecologist, and Surgeon in Chattogram, holding qualifications of MBBS (CU), MCPS (Dhaka), MSC, and MCH (London), with former service as a Senior Consultant in Gynecology at Memon Maternity Hospital, Chittagong. She specializes in managing pregnancy care, normal and cesarean deliveries, menstrual disorders, ovarian cysts, uterine fibroids, infertility, endometriosis, and menopause-related complications. Dr. Priti Barua currently offers consultations at Belle Vue Hospital, Chattogram, located at Prabartak Hill, 12/12, O.R. Nizam Road, Panchlaish, with visiting hours from 5 pm to 8 pm, except on Thursdays and Fridays.",
+      "chamber": {
+        "hospital": "Belle Vue Hospital, Chittagong",
+        "address": "Prabartak Hill, 12/12, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "5pm to 8pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801713123100Call Now"
+      }
+    },
+    {
+      "id": "856220dd-7a09-4aa9-9b39-fc8093eaa49c",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-shahanara-chowdhury/",
+      "imageId": "579b60cd-e624-4dc6-8c82-93a562454481",
       "name": "Prof. Dr. Shahanara Chowdhury",
       "degree": "MBBS, FCPS (OBGYN), DMEd (UK)",
       "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
@@ -52,11 +82,14 @@
         "hospital": "Royal Hospital, Chittagong",
         "address": "1530/A, O.R. Nizam Road, GEC More, Panchlaish, Chattogram",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+880241355934"
-      },
-      "id": "cb8a67d1-7dc3-4b6b-a346-84ad9bfd1ff0"
+        "appointmentNumber": "+880241355934Call Now"
+      }
     },
     {
+      "id": "86801c39-dd6b-4332-a22b-88cbc15bd58c",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-sahena-akhtar/",
+      "imageId": "2089bae1-247c-4ac7-88b7-20f589d59704",
       "name": "Prof. Dr. Sahena Akhtar",
       "degree": "MBBS, DGO, FCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
@@ -66,11 +99,14 @@
         "hospital": "CSCR Hospital, Chittagong",
         "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
         "visitingTime": "6pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801887656565"
-      },
-      "id": "6b711b60-f70c-4ed2-aad0-81ab9615000c"
+        "appointmentNumber": "+8801887656565Call Now"
+      }
     },
     {
+      "id": "fc0f1b60-176a-4ce8-b615-100e7b896a5d",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-shoyela-shahnaz/",
+      "imageId": "13b6fe46-c3a1-402e-81e6-a88d6c71b390",
       "name": "Dr. Shoyela Shahnaz",
       "degree": "MBBS, FCPS (OBGYN)",
       "specialty": "Obstetrics, Gynecology Specialist & Surgeon",
@@ -80,25 +116,31 @@
         "hospital": "CSCR Hospital, Chittagong",
         "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
         "visitingTime": "3pm to 6pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801883434063"
-      },
-      "id": "89804fdc-74f2-44f1-9a07-8a8d3942dc22"
+        "appointmentNumber": "+8801883434063Call Now"
+      }
     },
     {
+      "id": "c7b0cd45-8eb8-4ddd-a6a0-ce71ce14c7b6",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-fahmida-islam-chowdhury/",
+      "imageId": "ee728bde-84d5-447c-96ff-48f6289a239b",
       "name": "Dr. Fahmida Islam Chowdhury",
       "degree": "MBBS, FCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Lancet Diagnostic Center, Chittagong\nAddress: 106/B, K.B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 6pm to 10pm (Closed: Thursday & Friday)\nAppointment: +8801552674425\nCall Now",
+      "info": "Lancet Diagnostic Center, Chittagong Address: 106/B, K.B. Fazlul Kader Road, Panchlaish, Chattogram Visiting Hour: 6pm to 10pm (Closed: Thursday & Friday) Appointment: +8801552674425 Call Now",
       "chamber": {
         "hospital": "CSCR Hospital, Chittagong",
         "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801755019576"
-      },
-      "id": "6f8f2048-45cd-41c5-9145-103c9c16b411"
+        "appointmentNumber": "+8801755019576Call Now"
+      }
     },
     {
+      "id": "e5745bfc-0b86-49a9-b604-66fe8241893d",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-taslima-begum/",
+      "imageId": "a6e1ab89-8729-4e9f-bec8-650a866b9a42",
       "name": "Dr. Taslima Begum",
       "degree": "MBBS, FCPS (OBGYN), Fellowship Training in Infertility & IVF (BNCIRM & BSMMU)",
       "specialty": "Infertility, Gynecology, Obstetrics Specialist & Surgeon",
@@ -108,11 +150,14 @@
         "hospital": "Chattogram Metropolitan Hospital",
         "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "3pm to 6pm (Sat, Mon, Wed & Thu)",
-        "appointmentNumber": "+8801706175916"
-      },
-      "id": "6a32cf8a-4e4e-4432-9603-2c776fe55964"
+        "appointmentNumber": "+8801706175916Call Now"
+      }
     },
     {
+      "id": "86e8d58d-9a89-46b8-806e-197856493392",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-fahmida-rashid-swati/",
+      "imageId": "30ae2193-c523-4ea7-8002-f241fc86ec7f",
       "name": "Dr. Fahmida Rashid (Swati)",
       "degree": "MBBS, FCPS, MS (Obs & Gynae), MSc (Infertility - UK), FRM (Fellowship in Infertility) (India)",
       "specialty": "Infertility & IVF SpecialistObstetrician, Gynaecologist & Laparoscopic Surgeon",
@@ -122,11 +167,14 @@
         "hospital": "Popular Diagnostic Center, Chittagong",
         "address": "Room 606, 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "2pm to 5pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787810"
-      },
-      "id": "3729f349-da62-4a9c-9cf6-d44608540039"
+        "appointmentNumber": "+8809666787810Call Now"
+      }
     },
     {
+      "id": "0e2b8e94-9c68-4429-ac1f-482ec4cbad51",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-baeuty-paul-nandy/",
+      "imageId": "f60aeb0d-36c0-4984-8af5-1ff387246376",
       "name": "Dr. Beauty Paul Nandy",
       "degree": "MBBS, DGO, MCPS (OBGYN)",
       "specialty": "Obstetrics, Gynecology Specialist & Surgeon",
@@ -136,39 +184,48 @@
         "hospital": "People's Hospital, Chittagong",
         "address": "94, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Mon & Friday)",
-        "appointmentNumber": "+8801923829051সিরিয়ালের জন্য কল করবেন না। চেম্বারে আসার পর সিরিয়াল নেওয়া হবে।"
-      },
-      "id": "bcbeac53-ba6f-43d4-80e5-962ceceb3d5b"
+        "appointmentNumber": "+8801923829051সিরিয়ালের জন্য কল করবেন না। চেম্বারে আসার পর সিরিয়াল নেওয়া হবে।Call Now"
+      }
     },
     {
+      "id": "a1541760-7d97-4aea-8cd5-cccfbd2e1c2c",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-tahera-begum/",
+      "imageId": "99b8daab-4302-41a8-8d10-245ccd25df38",
       "name": "Dr. Tahera Begum",
       "degree": "MBBS, MCPS, DGO, MS (OBGYN)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
       "workplace": "Southern Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Chittagong\nAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 2:30pm to 4:30pm (Closed: Friday)\nAppointment: +8809666787810\nCall Now",
+      "info": "Popular Diagnostic Center, Chittagong Address: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram Visiting Hour: 2:30pm to 4:30pm (Closed: Friday) Appointment: +8809666787810 Call Now",
       "chamber": {
         "hospital": "Chattogram Metropolitan Hospital",
         "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "5pm to 6:30pm (Closed: Friday)",
-        "appointmentNumber": "+8801814651077"
-      },
-      "id": "28303814-ffd7-4f84-8123-36060559e666"
+        "appointmentNumber": "+8801814651077Call Now"
+      }
     },
     {
+      "id": "6fc527e0-74a7-4b16-9d2c-8155132593ce",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-sanjida-kabir/",
+      "imageId": "094c7894-9021-4011-819a-634a127e787f",
       "name": "Dr. Shanjida Kabir",
       "degree": "MBBS, MCPS (OBGYN), FCPS (OBGYN), DMU (Ultra)",
       "specialty": "Gynecology, Obstetrics, Infertility Specialist & Laparoscopic Surgeon",
       "workplace": "Evercare Hospital, Chattogram",
-      "info": "Evercare Hospital, Chattogram\nAddress: H1, Ananna R/A, CDA, Hathazari, Chattogram\nVisiting Hour: 9am to 5pm (Closed: Friday)\nAppointment: +8809610810663\nCall Now",
+      "info": "Evercare Hospital, Chattogram Address: H1, Ananna R/A, CDA, Hathazari, Chattogram Visiting Hour: 9am to 5pm (Closed: Friday) Appointment: +8809610810663 Call Now",
       "chamber": {
         "hospital": "Islami Bank Hospital, Chittagong",
         "address": "3, Sheikh Mujib Road, Agrabad, Chittagong",
         "visitingTime": "3pm to 4pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801731253990"
-      },
-      "id": "559ed873-bc39-486e-9864-fa0045474c03"
+        "appointmentNumber": "+8801731253990Call Now"
+      }
     },
     {
+      "id": "01a64520-d713-45ec-a995-0ee2d838f2e3",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-rinku-das/",
+      "imageId": "6b8ca2f2-742a-4451-af47-a359e28bc1fe",
       "name": "Dr. Rinku Das",
       "degree": "MBBS, DGO, FCPS (OBGYN), MCPS",
       "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
@@ -178,11 +235,14 @@
         "hospital": "Max Hospital & Diagnostic, Chittagong",
         "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
         "visitingTime": "6pm to 10pm (Closed: Tuesday & Friday)",
-        "appointmentNumber": "+8801713998199"
-      },
-      "id": "e9202d94-0e05-4de6-b3a6-3258ac9fbd33"
+        "appointmentNumber": "+8801713998199Call Now"
+      }
     },
     {
+      "id": "086def6a-5cc0-4956-8536-b9540df1f52b",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-rosy-dutta-biswas/",
+      "imageId": "601a2126-0bef-46a7-9e5a-661e6107ba07",
       "name": "Dr. Rosy Dutta Biswas",
       "degree": "MBBS, DGO",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
@@ -192,25 +252,31 @@
         "hospital": "Sensiv Private Limited, Chittagong",
         "address": "14, Jamal Khan Road, Jamal Khan, Chattogram",
         "visitingTime": "6pm to 10pm (Sat to Thu) & 10am to 1pm (Fri)",
-        "appointmentNumber": "+8801731025915"
-      },
-      "id": "d869de10-ab67-4e89-9173-60c8a570ade0"
+        "appointmentNumber": "+8801731025915Call Now"
+      }
     },
     {
+      "id": "90298384-f562-4c0e-9b69-902e74ced0d5",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-tafiqur-naha-mona/",
+      "imageId": "1cd98b88-9fe0-4409-8dfb-d115f031d4bb",
       "name": "Dr. Tafiqur Naha Mona",
       "degree": "MBBS, BCS (Health), MS (OBGYN)",
       "specialty": "Maternity, Gynecology, Obstetrics Specialist & Surgeon",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Dr. Tafiqur Naha Mona is a Gynecologist in Chittagong. Her qualification is MBBS, BCS (Health), MS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Chittagong Medical College & Hospital. She regularly provides treatment to her patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Tafiqur Naha Mona at Parkview Hospital, Chittagong is 5pm to 7pm (Closed: Thursday & Friday).",
+      "info": "Dr. Tafiqur Naha Mona is a Gynecologist in Chittagong. Her qualification is MBBS, BCS (Health), MS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Chittagong Medical College & Hospital. She regularly provides treatment to her patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Tafiqur Naha Mona at Parkview Hospital, Chittagong is 5pm to 9pm (Closed: Wednesday & Friday).",
       "chamber": {
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
-        "visitingTime": "5pm to 7pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "6781f4d0-a64b-4e35-bd76-7a01e69ca780"
+        "visitingTime": "5pm to 9pm (Closed: Wednesday & Friday)",
+        "appointmentNumber": "+8801407043902Call Now"
+      }
     },
     {
+      "id": "e8275076-2bd7-495d-a961-e8af9e42eac7",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-srabani-barua/",
+      "imageId": "5c0ba7c9-4002-43fa-a1d3-f6303952450a",
       "name": "Dr. Srabani Barua",
       "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
@@ -220,53 +286,65 @@
         "hospital": "Chevron Clinical Laboratory, Chittagong",
         "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "5pm to 9pm (Sun, Tue & Thu) & 5pm to 7pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801755666969"
-      },
-      "id": "f4ebfc03-4d3a-4c92-bd17-37ffee024266"
+        "appointmentNumber": "+8801755666969Call Now"
+      }
     },
     {
+      "id": "33c66427-635a-4d59-b2a8-a769643234b0",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-sabina-yeasmin/",
+      "imageId": "ed97f3a9-2b96-4f74-b90c-5ccfafcac79a",
       "name": "Dr. Sabina Yeasmin",
       "degree": "MBBS, FCPS (OBGYN)",
       "specialty": "Gynecology, Infertility, Obstetrics Specialist & Surgeon",
       "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
-      "info": "Qrex Diagnostic & Consultation Centre, Chittagong\nAddress: Plot # 9/A, Road # 1, Lane # 2, Block # G, Halishahar, Chattogram\nVisiting Hour: 6pm to 9pm (Closed: Friday)\nAppointment: +8801828880299\nCall Now",
+      "info": "Qrex Diagnostic & Consultation Centre, Chittagong Address: Plot # 9/A, Road # 1, Lane # 2, Block # G, Halishahar, Chattogram Visiting Hour: 6pm to 9pm (Closed: Friday) Appointment: +8801828880299 Call Now",
       "chamber": {
         "hospital": "Epic Healthcare, Chittagong",
         "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "3pm to 5pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801734606667"
-      },
-      "id": "5572d818-c3e2-4f01-a28b-a8565c34dc91"
+        "appointmentNumber": "+8801734606667Call Now"
+      }
     },
     {
+      "id": "d1bc947d-5b4b-4313-9597-f074c5164a7a",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-rownak-jahan/",
+      "imageId": "255b8013-fb5f-4272-b807-e53dbf19c82d",
       "name": "Dr. Rownak Jahan",
       "degree": "MBBS, BCS (Health), DGO (DU), FCPS (OBGYN), WHO Fellow (Thailand)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
       "workplace": "Rajshahi Medical College & Hospital",
-      "info": "Parkview Hospital, Chittagong\nAddress: 94/103, Katalganj Road, Panchlaish, Chattogram\nVisiting Hour: 11am to 1pm (Closed: Friday)\nAppointment: +8801976022333\nCall Now",
+      "info": "Parkview Hospital, Chittagong Address: 94/103, Katalganj Road, Panchlaish, Chattogram Visiting Hour: 11am to 1pm (Closed: Friday) Appointment: +8801976022333 Call Now",
       "chamber": {
         "hospital": "Epic Healthcare, Chittagong",
         "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "7pm to 9.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801984499600"
-      },
-      "id": "20267ad1-d69e-4730-ad92-f9cd51fb9c2a"
+        "appointmentNumber": "+8801984499600Call Now"
+      }
     },
     {
+      "id": "ea9133ca-0bf3-4975-acf6-0c873b959227",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-moshammat-zebunnesa/",
+      "imageId": "4382ee6d-f9ff-4c8e-8ea7-9f766e4b4ff0",
       "name": "Dr. Moshammat Zebunnesa",
       "degree": "MBBS, FCPS (OBGYN), MS (OBGYN), Advance Training (Infertility)",
       "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Medical Centre Hospital, Chittagong\nAddress: 953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram\nVisiting Hour: 5pm to 7pm (Closed: Friday)\nAppointment: +88031658501\nCall Now",
+      "info": "Medical Centre Hospital, Chittagong Address: 953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram Visiting Hour: 5pm to 7pm (Closed: Friday) Appointment: +88031658501 Call Now",
       "chamber": {
         "hospital": "Chevron Clinical Laboratory, Chittagong",
         "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801755666969"
-      },
-      "id": "a84875a2-f98e-45c8-9c3a-2d163138eed9"
+        "appointmentNumber": "+8801755666969Call Now"
+      }
     },
     {
+      "id": "6026331f-45e6-4ca9-99f9-ba40f0dec88e",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-shahanaj-sharmin/",
+      "imageId": "e43b6b6f-3475-47fd-81cd-14cb58d058b5",
       "name": "Dr. Shahanaj Sharmin",
       "degree": "MBBS, MCPS (OBGYN), FCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
@@ -276,53 +354,65 @@
         "hospital": "Chevron Clinical Laboratory, Chittagong",
         "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801755666969"
-      },
-      "id": "e69c53e3-1b7c-4171-9f42-248b9e068b89"
+        "appointmentNumber": "+8801755666969Call Now"
+      }
     },
     {
+      "id": "2ba8f723-73ed-4660-ad84-baf94ca87a1e",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-taslima-akter/",
+      "imageId": "7130c5b9-e13d-4c0d-b796-330a865069d6",
       "name": "Dr. Taslima Akter",
       "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Dr. Taslima Akter is a Gynecologist in Chittagong. Her qualification is MBBS, BCS (Health), FCPS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Chittagong Medical College & Hospital. She regularly provides treatment to her patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Taslima Akter at Parkview Hospital, Chittagong is 7pm to 9pm (Closed: Monday & Friday).",
+      "info": "Dr. Taslima Akter is a Gynecologist in Chittagong. Her qualification is MBBS, BCS (Health), FCPS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Chittagong Medical College & Hospital. She regularly provides treatment to her patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Taslima Akter at Parkview Hospital, Chittagong is 5pm to 8pm (Closed: Mon, Thu & Friday).",
       "chamber": {
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
-        "visitingTime": "7pm to 9pm (Closed: Monday & Friday)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "bb4ebe7d-845a-416c-8d32-0848ae69cbda"
+        "visitingTime": "5pm to 8pm (Closed: Mon, Thu & Friday)",
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "6d5f3133-48ed-4e9f-bc99-ec79c29c52d9",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-reshma-sharmin/",
+      "imageId": "430faf1d-2f4b-4679-aae9-dc9467fbc1a7",
       "name": "Dr. Reshma Sharmin",
       "degree": "MBBS, BCS (Health), FCPS (OBGYN), MRCOG (UK)",
       "specialty": "Gynecology, Gyne Oncology Specialist & Laparoscopic Surgeon",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Apollo Imperial Hospital, Chittagong\nAddress: Zakir Hossain Road, Pahartali, Chattogram\nVisiting Hour: 5pm to 8pm (Sun & Wednesday)\nAppointment: +8809612247247\nCall Now",
+      "info": "Apollo Imperial Hospital, Chittagong Address: Zakir Hossain Road, Pahartali, Chattogram Visiting Hour: 5pm to 8pm (Sun & Wednesday) Appointment: +8809612247247 Call Now",
       "chamber": {
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
-        "visitingTime": "3pm to 8pm (Monday & Thursday)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "513b85dd-d8bd-4107-b8ce-55e1fc0f39fb"
+        "visitingTime": "4pm to 6pm (Monday & Thursday)",
+        "appointmentNumber": "+8801860647640Call Now"
+      }
     },
     {
+      "id": "b82da65b-374c-4d4a-8c5f-ed180d80845a",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-afroza-ferdous/",
+      "imageId": "1ae64542-598b-4b52-9a66-24d8884575e2",
       "name": "Dr. Afroza Ferdous",
       "degree": "MBBS, BCS (Health), FCPS (OBGYN), MS (OBGYN)",
       "specialty": "Gynecology, Obstetrics, Infertility Specialist & Laparoscopic Surgeon",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Max Hospital & Diagnostic, Chittagong\nAddress: 35/36, Mehedibag Road, Chawkbazar, Chattogram\nVisiting Hour: 4pm to 8pm (Closed: Friday)\nAppointment: +8801713998199\nCall Now",
+      "info": "Max Hospital & Diagnostic, Chittagong Address: 35/36, Mehedibag Road, Chawkbazar, Chattogram Visiting Hour: 4pm to 8pm (Closed: Friday) Appointment: +8801713998199 Call Now",
       "chamber": {
         "hospital": "Labaid Specialized Hospital, Chattogram",
         "address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
         "visitingTime": "8pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662828"
-      },
-      "id": "7eb7c88e-8237-4653-8ed8-c5c9a3d97b34"
+        "appointmentNumber": "+8801766662828Call Now"
+      }
     },
     {
+      "id": "f08c2dba-f20b-476c-8ac0-9ef21589bea4",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-sirajun-noor-rosy/",
+      "imageId": "668d8f8d-640e-4cf9-b769-019177be3ce2",
       "name": "Prof. Dr. Serajun Noor Rosy",
       "degree": "MBBS, FCPS (OBGYN)",
       "specialty": "Gynecology & Obstetrics Specialist",
@@ -332,11 +422,14 @@
         "hospital": "Chattogram Metropolitan Hospital",
         "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "3pm to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801949422024"
-      },
-      "id": "87d28a2c-dcac-4572-b307-6f6c856d9bb1"
+        "appointmentNumber": "+8801949422024Call Now"
+      }
     },
     {
+      "id": "13fc9af5-c3b3-47b4-b064-571f28c03b65",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-shamima-siddiqua/",
+      "imageId": "745ffed2-55a3-43b8-a8ac-5a52e4bbdf60",
       "name": "Dr. Shamima Siddiqua",
       "degree": "MBBS, FCPS (OBGYN), DME (UK)",
       "specialty": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
@@ -346,39 +439,31 @@
         "hospital": "Chevron Clinical Laboratory, Chittagong",
         "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "3.30pm to 7.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801755666969"
-      },
-      "id": "d54c7690-e025-4e83-b58a-bd4a639765be"
+        "appointmentNumber": "+8801755666969Call Now"
+      }
     },
     {
+      "id": "0603ced3-7676-423f-9a78-5c74ea947aef",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-farzana-ahmed-surovi/",
+      "imageId": "7e6c3811-ba67-4a21-8355-f299dd573282",
       "name": "Dr. Farjana Ahmed Surovi",
       "degree": "MBBS, FCPS (OBGYN)",
       "specialty": "Gynecology & Obstetrics Specialist",
       "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
-      "info": "Shahjalal Diagnostic Clinic, Chittagong\nAddress: 143, Sheikh Mujib Road, Badamtoli, Agrabad, Chattogram\nVisiting Hour: 6pm to 10pm (Closed: Friday)\nAppointment: +8801317661879\nCall Now",
+      "info": "Shahjalal Diagnostic Clinic, Chittagong Address: 143, Sheikh Mujib Road, Badamtoli, Agrabad, Chattogram Visiting Hour: 6pm to 10pm (Closed: Friday) Appointment: +8801317661879 Call Now",
       "chamber": {
         "hospital": "Islami Bank Hospital, Chittagong",
         "address": "3, Sheikh Mujib Road, Agrabad, Chittagong",
         "visitingTime": "4pm to 6pm (Sat, Mon, Wed & Fri)",
-        "appointmentNumber": "+8801731253990"
-      },
-      "id": "092ed700-70d3-4712-a21b-2cf4f72dfa5d"
+        "appointmentNumber": "+8801731253990Call Now"
+      }
     },
     {
-      "name": "Dr. Priti Barua",
-      "degree": "MBBS (CU), MCPS (Dhaka), MSC, MCH (London)",
-      "specialty": "Obstetrician, Gynecologist & Surgeon",
-      "workplace": "Memon Maternity Hospital, Chittagong",
-      "info": "Dr. Priti Barua is one of the best Gynecologist in Chittagong. Her qualification is MBBS (CU), MCPS (Dhaka), MSC, MCH (London). She is a Ex. Senior Consultant, Gynecology at Memon Maternity Hospital, Chittagong. She regularly provides treatment to her patients at Belle Vue Hospital, Chittagong. Practicing hour of Dr. Priti Barua at Belle Vue Hospital, Chittagong is 5pm to 8pm (Closed: Thu & Friday).",
-      "chamber": {
-        "hospital": "Belle Vue Hospital, Chittagong",
-        "address": "Prabartak Hill, 12/12, O.R. Nizam Road, Panchlaish, Chattogram",
-        "visitingTime": "5pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801713123100"
-      },
-      "id": "72d09cde-b79f-46c0-93f0-eea989e8ec2f"
-    },
-    {
+      "id": "a113bff9-4693-4992-9e6e-68f97b2daf95",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-shirin-fatema/",
+      "imageId": "f4e94fda-b924-4564-b0e2-9afbb1546bf8",
       "name": "Dr. Shirin Fatema",
       "degree": "MBBS, MCPS, DGO, FCPS",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
@@ -388,53 +473,65 @@
         "hospital": "Apollo Imperial Hospital, Chittagong",
         "address": "Zakir Hossain Road, Pahartali, Chattogram",
         "visitingTime": "9am to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8809612247247"
-      },
-      "id": "ba9242a9-b66a-480e-b62a-f1c2e08f964f"
+        "appointmentNumber": "+8809612247247Call Now"
+      }
     },
     {
+      "id": "c1d3aef7-19c3-4d29-81a2-085a77dd7327",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-ainur-nahar-hamid/",
+      "imageId": "352a874f-3784-4a0c-af44-ca67fa52b3cd",
       "name": "Dr. Ayinur Nahar Hamid",
       "degree": "MBBS, FCPS (OBGYN), MCPS",
       "specialty": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Metro Diagnostic Center, Chittagong\nAddress: Metro Tower, Goal Pahar Mor, Mehedibag, Chattogram\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8801878131126\nCall Now",
+      "info": "Metro Diagnostic Center, Chittagong Address: Metro Tower, Goal Pahar Mor, Mehedibag, Chattogram Visiting Hour: Unknown. Please call to know visiting hour Appointment: +8801878131126 Call Now",
       "chamber": {
         "hospital": "CSCR Hospital, Chittagong",
         "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
         "visitingTime": "8pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801887656565"
-      },
-      "id": "e47875f7-2e05-4a49-ad7f-0e3a4e83bc82"
+        "appointmentNumber": "+8801887656565Call Now"
+      }
     },
     {
+      "id": "6f4a3f9d-fec2-417b-a784-e86e5e4256d3",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-farzana-haseen/",
+      "imageId": "b6883efa-e9b5-4f62-be28-9a949e3368f4",
       "name": "Dr. Farzana Haseen Mukti",
       "degree": "MBBS, FCPS (OBGYN), DGO, MCPS (OBGYN), DLP (DIABETOLOGY)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
       "workplace": "Evercare Hospital, Chattogram",
-      "info": "Evercare Hospital, Chattogram\nAddress: H1, Ananna R/A, CDA, Hathazari, Chattogram\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8809610810663\nCall Now",
+      "info": "Evercare Hospital, Chattogram Address: H1, Ananna R/A, CDA, Hathazari, Chattogram Visiting Hour: Unknown. Please call to know visiting hour Appointment: +8809610810663 Call Now",
       "chamber": {
         "hospital": "Chevron Clinical Laboratory, Halishahar",
         "address": "993/2121, Agrabad Access Road, Halishahar, Chattogram",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801701229090"
-      },
-      "id": "05b9bf47-032c-471f-89d8-f2d1c7b5e325"
+        "appointmentNumber": "+8801701229090Call Now"
+      }
     },
     {
+      "id": "0267a1e1-613a-4793-ae91-693754c782b9",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-mafruha-khanam-porag/",
+      "imageId": "b9740fac-c5bf-445f-925d-7f6382878e7d",
       "name": "Dr. Mafruha Khanam Porag",
       "degree": "MBBS (Dhaka), MCPS (OBGYN), MS (OBGYN)",
       "specialty": "Infertility Specialist & Gynecologist",
       "workplace": "Bangabandhu Memorial Hospital, USTC, Chittagong",
-      "info": "Surgiscope Hospital, Chittagong\nAddress: Unit 2, Room # 421, 53/1, Panchlaish, Chattogram\nVisiting Hour: 2.30pm to 5.30pm (Closed: Friday)\nAppointment: +8801711208859\nCall Now",
+      "info": "Surgiscope Hospital, Chittagong Address: Unit 2, Room # 421, 53/1, Panchlaish, Chattogram Visiting Hour: 2.30pm to 5.30pm (Closed: Friday) Appointment: +8801711208859 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Chittagong",
         "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "4pm to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787810"
-      },
-      "id": "11075703-c824-4467-9947-1928f266217b"
+        "appointmentNumber": "+8809666787810Call Now"
+      }
     },
     {
+      "id": "c8a95d9d-79ae-4e63-8d86-3f9a835a9dba",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-sharmin-nahar-bashar/",
+      "imageId": "5536cb85-a984-4645-964f-05d727ab4307",
       "name": "Dr. Sharmin Nahar Bashar",
       "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
       "specialty": "Obstetrics, Gynecology Specialist & Surgeon",
@@ -444,11 +541,14 @@
         "hospital": "Labaid Specialized Hospital, Chattogram",
         "address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
         "visitingTime": "7pm to 10pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801766662829"
-      },
-      "id": "f29bd05c-807c-4096-9f95-01600cdecf4f"
+        "appointmentNumber": "+8801766662829Call Now"
+      }
     },
     {
+      "id": "3708da8e-63d3-4dcf-a43f-968b081b2013",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-nargis-sultana-gyne/",
+      "imageId": "7bf1e006-af83-4fd8-9266-087fb78bbad8",
       "name": "Dr. Nargis Sultana",
       "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
@@ -458,11 +558,14 @@
         "hospital": "Epic Healthcare, Chittagong",
         "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "7pm to 10pm (Closed: Monday & Friday)",
-        "appointmentNumber": "+8801984499600"
-      },
-      "id": "16f952cb-0bef-45d5-8c91-8d3a8a683ba8"
+        "appointmentNumber": "+8801984499600Call Now"
+      }
     },
     {
+      "id": "dddc5997-8b21-4235-b801-76ff67fd03f1",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-adiba-malik/",
+      "imageId": "77b3471c-06fb-4a0f-8b36-112fa2283f47",
       "name": "Dr. Adiba Malik",
       "degree": "MBBS, MS (OBGYN), DMU",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
@@ -472,25 +575,31 @@
         "hospital": "Shahjalal Diagnostic Clinic, Chittagong",
         "address": "143, Sheikh Mujib Road, Badamtoli, Agrabad, Chattogram",
         "visitingTime": "4pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801821741950"
-      },
-      "id": "f0113c00-0532-42d6-bd40-258c14aa444f"
+        "appointmentNumber": "+8801821741950Call Now"
+      }
     },
     {
+      "id": "072eae4e-d22d-42a9-ab18-c7bb5c5cc720",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-jahanara-begum-sikha/",
+      "imageId": "65897647-4a34-4b07-889b-9272db6ba46b",
       "name": "Dr. Jahanara Begum Sikha",
       "degree": "MBBS, BCS (Health), MCPS (OBGYN), FCPS (OBGYN)",
       "specialty": "Gynecologist & Surgeon",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Chevron Clinical Laboratory, Halishahar\nAddress: 993/2121, Agrabad Access Road, Halishahar, Chattogram\nVisiting Hour: 4pm to 6pm (Monday) & 10am to 12pm (Friday)\nAppointment: +8801701229090\nCall Now",
+      "info": "Chevron Clinical Laboratory, Halishahar Address: 993/2121, Agrabad Access Road, Halishahar, Chattogram Visiting Hour: 4pm to 6pm (Monday) & 10am to 12pm (Friday) Appointment: +8801701229090 Call Now",
       "chamber": {
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
-        "visitingTime": "7pm to 9pm (Closed: Monday & Friday)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "3e934fa5-43e2-4787-8028-05c0de7e7453"
+        "visitingTime": "3pm to 6pm (Closed: Monday & Friday)",
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "951630e4-06d8-4d06-8e43-c5c6f524dee9",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-kamrun-nesa-begum-rosy/",
+      "imageId": "f4681dee-f888-4052-a594-2c13d69657a4",
       "name": "Dr. Kamrun Nesa Begum (Rosy)",
       "degree": "MBBS, BCS (Health), FCPS (OBGYN), MS (Thesis)",
       "specialty": "Obstetrics, Gynecology Specialist & Laparoscopic Surgeon",
@@ -500,11 +609,14 @@
         "hospital": "Max Hospital & Diagnostic, Chittagong",
         "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801713998199"
-      },
-      "id": "2c4bc17d-94a4-4e36-8e8c-8eefa43873d8"
+        "appointmentNumber": "+8801713998199Call Now"
+      }
     },
     {
+      "id": "7fda16af-6418-461e-b08c-2456c16d92d9",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-rowsan-morshed/",
+      "imageId": "bb1aea6f-3702-45ef-9b0b-c01a9c74edad",
       "name": "Dr. Rowsan Morshed",
       "degree": "MBBS, DGO, FCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
@@ -514,25 +626,31 @@
         "hospital": "CSCR Hospital, Chittagong",
         "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
         "visitingTime": "10am to 1pm (Sat to Thu) & 10am to 1pm (Sunday)",
-        "appointmentNumber": "+8801887656565"
-      },
-      "id": "50bcabe1-253e-40f0-8ec1-181cb69ca895"
+        "appointmentNumber": "+8801887656565Call Now"
+      }
     },
     {
+      "id": "ca2ec244-3c5a-480d-b782-d24b4d60ef33",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-shireen-akhter-khanam/",
+      "imageId": "43ddb62f-234d-4aee-85f5-888641baf299",
       "name": "Dr. Shireen Akhter Khanam",
       "degree": "MBBS, MCPS, DGO, FCPS (OBGYN)",
       "specialty": "Obstetrics, Gynecology Specialist & Laparoscopic Surgeon",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Chittagong\nAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 3pm to 5pm (Closed: Wed, Thu & Friday)\nAppointment: +8809666787810\nCall Now",
+      "info": "Popular Diagnostic Center, Chittagong Address: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram Visiting Hour: 3pm to 5pm (Closed: Wed, Thu & Friday) Appointment: +8809666787810 Call Now",
       "chamber": {
         "hospital": "Holy Health Hospital, Chittagong",
         "address": "107, Opposite Chittagong Medical College Gate, Palclaish, Chattogram",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801812605505"
-      },
-      "id": "3872d632-c127-447d-b581-832c91ddd312"
+        "appointmentNumber": "+8801812605505Call Now"
+      }
     },
     {
+      "id": "279c5d13-ec64-4f8c-8c3f-a76ef61bb93e",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-munawar-sultana-lina/",
+      "imageId": "55ee74d2-a10c-42a4-8619-f060231d9f77",
       "name": "Dr. Munawar Sultana Lina",
       "degree": "MBBS, FCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
@@ -542,25 +660,31 @@
         "hospital": "Delta Health Care, Chittagong",
         "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801841906010"
-      },
-      "id": "536abc8d-e910-48e4-a83a-41b12a0ca71e"
+        "appointmentNumber": "+8801841906010Call Now"
+      }
     },
     {
+      "id": "286535ca-2b72-4df5-898e-dee01f96e66e",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-afroja-chowdhury/",
+      "imageId": "baa28abd-e750-4e4a-85ac-e571b332b691",
       "name": "Dr. Afroza Chowdhury",
       "degree": "MBBS, DGO, MCPS, FCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
       "workplace": "Bangabandhu Memorial Hospital, USTC, Chittagong",
-      "info": "Dr. Afroza Chowdhury is a Gynecologist in Chittagong. Her qualification is MBBS, DGO, MCPS, FCPS (OBGYN). She is a Associate Professor, Gynecology & Obstetrics at Bangabandhu Memorial Hospital, USTC, Chittagong. She regularly provides treatment to her patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Afroza Chowdhury at Parkview Hospital, Chittagong is 1pm to 2pm (Sat & Tue).",
+      "info": "Dr. Afroza Chowdhury is a Gynecologist in Chittagong. Her qualification is MBBS, DGO, MCPS, FCPS (OBGYN). She is a Professor, Gynecology & Obstetrics at Bangabandhu Memorial Hospital, USTC, Chittagong. She regularly provides treatment to her patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Afroza Chowdhury at Parkview Hospital, Chittagong is 6pm to 9pm (Sun & Tuesday).",
       "chamber": {
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
-        "visitingTime": "1pm to 2pm (Sat & Tue)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "14791c4d-a998-414c-b9e0-2df22c2c25ab"
+        "visitingTime": "6pm to 9pm (Sun & Tuesday)",
+        "appointmentNumber": "+8801860-647640Call Now"
+      }
     },
     {
+      "id": "839f7dd9-0b5f-4cab-adaa-3b2f0e2449ed",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-suchanda-das/",
+      "imageId": "47ece088-e258-416a-b1e0-414b315b966d",
       "name": "Dr. Suchanda Das",
       "degree": "MBBS, BCS (Health), MCPS (OBGYN), DGO, FCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
@@ -570,11 +694,14 @@
         "hospital": "Medical Centre Hospital, Chittagong",
         "address": "953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801910947454"
-      },
-      "id": "cbe1a56f-35bb-4b40-9ed5-f96fcbf8ce94"
+        "appointmentNumber": "+8801910947454Call Now"
+      }
     },
     {
+      "id": "3678caff-c1da-4d88-b7a1-6cda2facc663",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-tanzina-jahan/",
+      "imageId": "84cdb64f-a9ce-4332-931b-c57ce23781a6",
       "name": "Dr. Tanzina Jahan",
       "degree": "MBBS, FCPS (OBGYN)",
       "specialty": "Gynecology & Obstetrics Specialist",
@@ -584,11 +711,14 @@
         "hospital": "Chevron Clinical Laboratory, Halishahar",
         "address": "993/2121, Agrabad Access Road, Halishahar, Chattogram",
         "visitingTime": "6.30pm to 8pm (Sat, Sun, Tue & Thu)",
-        "appointmentNumber": "+8801701229090"
-      },
-      "id": "3c64193b-54ba-4f99-89b2-6a804c6e878a"
+        "appointmentNumber": "+8801701229090Call Now"
+      }
     },
     {
+      "id": "b47b61db-e6b8-4290-b31c-332b8f355ee5",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-dil-anziz-begum/",
+      "imageId": "ac72430d-7310-4e41-b9b1-da13d96bd9ec",
       "name": "Dr. Dil Anziz Begum",
       "degree": "MBBS, PGT, MCPS, MS (OBGYN)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
@@ -598,11 +728,14 @@
         "hospital": "Apollo Imperial Hospital, Chittagong",
         "address": "Zakir Hossain Road, Pahartali, Chattogram",
         "visitingTime": "9am to 1pm & 4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809612247247"
-      },
-      "id": "44770ff8-5564-40dc-8eca-6600da1db67f"
+        "appointmentNumber": "+8809612247247Call Now"
+      }
     },
     {
+      "id": "676453e6-f11c-47fa-86b5-bb21812937a9",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-banita-biswas/",
+      "imageId": "49270df6-40a5-42c8-8072-3859d1230c20",
       "name": "Dr. Banita Biswas",
       "degree": "MBBS, BCS (Health), DGO, MS (OBGYN)",
       "specialty": "Gynecology & Obstetrics Specialist",
@@ -612,25 +745,31 @@
         "hospital": "Metro Diagnostic Center, Chittagong",
         "address": "Metro Tower, Goal Pahar Mor, Mehedibag, Chattogram",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801754635455"
-      },
-      "id": "180220ed-ae35-4233-8ea8-c76bf1fd8f20"
+        "appointmentNumber": "+8801754635455Call Now"
+      }
     },
     {
+      "id": "e8e6edf3-2c2f-4fe4-a46e-59e39eecab4f",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-reshma-firoz/",
+      "imageId": "4b63ca91-59a7-4bd9-9b80-7e052b88a97c",
       "name": "Dr. Reshma Firoz",
       "degree": "MBBS, DGO, MCPS",
       "specialty": "Gynecology Specialist & Surgeon",
       "workplace": "Bangabandhu Memorial Hospital, USTC, Chittagong",
-      "info": "Islami Bank Hospital, Chittagong\nAddress: 3, Sheikh Mujib Road, Agrabad, Chittagong\nVisiting Hour: 9am to 2pm (Closed: Friday)\nAppointment: +8801731253990\nCall Now",
+      "info": "Islami Bank Hospital, Chittagong Address: 3, Sheikh Mujib Road, Agrabad, Chittagong Visiting Hour: 9am to 2pm (Closed: Friday) Appointment: +8801731253990 Call Now",
       "chamber": {
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
-        "visitingTime": "5pm to 7pm (Closed: Mon & Friday)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "cfedd186-3171-40d6-b743-95a25e7b2344"
+        "visitingTime": "4:30pm to 7pm (Closed: Sun, Tue & Friday)",
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "815865a3-382a-46f2-8c5e-2ae8ac459b2a",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-lutfun-nahar-begum-koli/",
+      "imageId": "7c8bbb1d-7aea-47fb-9b68-5f223883a12e",
       "name": "Dr. Lutfun Nahar Begum Koli",
       "degree": "MBBS, FCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
@@ -640,11 +779,14 @@
         "hospital": "Chevron Clinical Laboratory, Chittagong",
         "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "3pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801755666969"
-      },
-      "id": "6addc01f-e8b5-4f74-85a4-ef09e1e47ca5"
+        "appointmentNumber": "+8801755666969Call Now"
+      }
     },
     {
+      "id": "c5f27b21-10ea-49a6-93c3-9721db604868",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-ratna-chakraborty/",
+      "imageId": "9feb986b-f5ed-4e2b-b5ee-2f7c5453db78",
       "name": "Dr. Ratna Chakraborty",
       "degree": "MBBS, DGO (OBGYN)",
       "specialty": "Gynecology & Obstetrics Specialist",
@@ -654,11 +796,14 @@
         "hospital": "People's Hospital, Chittagong",
         "address": "94, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+88031658911"
-      },
-      "id": "b2487bb9-ca40-4dc8-9a89-ca0290fd5d7b"
+        "appointmentNumber": "+88031658911Call Now"
+      }
     },
     {
+      "id": "12166176-f335-439d-b46a-38c8b470b5b4",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-sarwat-ara-riku/",
+      "imageId": "3c12dea8-65d3-4b9a-a296-b31415208246",
       "name": "Dr. Sarwat Ara Riku",
       "degree": "MBBS, BCS (Health), MCPS, MS (OBGYN)",
       "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
@@ -668,11 +813,14 @@
         "hospital": "National Hospital, Chittagong",
         "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801822685066"
-      },
-      "id": "527ea271-abbf-4926-8ced-260fec14c267"
+        "appointmentNumber": "+8801822685066Call Now"
+      }
     },
     {
+      "id": "49c98bae-37ef-4e7e-a032-34ce94340486",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-naz-sohani-sultana/",
+      "imageId": "9da0103f-f83f-412a-9038-47a91358d80a",
       "name": "Dr. Naz Sohani Sultana",
       "degree": "MBBS, MCPS (OBGYN), DHN (UK)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
@@ -682,11 +830,14 @@
         "hospital": "Popular Diagnostic Center, Chittagong",
         "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8809666787810"
-      },
-      "id": "96ba17b9-ee53-4ad3-82d2-ae5f5b7916e6"
+        "appointmentNumber": "+8809666787810Call Now"
+      }
     },
     {
+      "id": "bb08309c-4ec4-411b-9b8f-a2c925c558a8",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-nasreen-banu/",
+      "imageId": "58c8c763-ebc0-4357-99dd-e034a7691da0",
       "name": "Prof. Dr. Nasreen Banu",
       "degree": "MBBS, MCPS, DGO, MS (OBGYN)",
       "specialty": "Obstetrics, Gynecology Specialist & Laparoscopic Surgeon",
@@ -696,11 +847,14 @@
         "hospital": "Labaid Specialized Hospital, Chattogram",
         "address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
         "visitingTime": "11am to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662829"
-      },
-      "id": "e5089120-14a1-4afc-b942-156badf555b6"
+        "appointmentNumber": "+8801766662829Call Now"
+      }
     },
     {
+      "id": "70ea8210-5073-448b-9efb-880bcec4dd37",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-monira-jamal/",
+      "imageId": "2e096d96-0ae4-4b4e-b58e-140ede4df34a",
       "name": "Dr. Monira Jamal",
       "degree": "MBBS, FCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
@@ -710,25 +864,31 @@
         "hospital": "Islami Bank Hospital, Chittagong",
         "address": "3, Sheikh Mujib Road, Agrabad, Chittagong",
         "visitingTime": "5.30pm to 7.30pm (Closed: Friday)",
-        "appointmentNumber": "+8802333325854"
-      },
-      "id": "29839863-c37c-4712-9f80-d285434477bb"
+        "appointmentNumber": "+8802333325854Call Now"
+      }
     },
     {
+      "id": "61bc9925-9f50-4a84-972d-d38a00511770",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-muslina-akhter/",
+      "imageId": "0ecbbb95-9107-4bd3-a4d8-fb2d655b6e51",
       "name": "Dr. Muslina Akhter",
       "degree": "MBBS, MCPS (OBGYN), FCPS(OBGYN)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
       "workplace": "Chattagram International Medical College & Hospital",
-      "info": "Dr. Muslina Akhter is a Gynecologist in Chittagong. Her qualification is MBBS, MCPS (OBGYN), FCPS(OBGYN). She is a Associate Professor & Head, Gynecology & Obstetrics at Chattagram International Medical College & Hospital. She regularly provides treatment to her patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Muslina Akhter at Parkview Hospital, Chittagong is 6pm to 8pm (Closed: Fri, Tue & Sat).",
+      "info": "Dr. Muslina Akhter is a Gynecologist in Chittagong. Her qualification is MBBS, MCPS (OBGYN), FCPS(OBGYN). She is a Associate Professor & Head, Gynecology & Obstetrics at Chattagram International Medical College & Hospital. She regularly provides treatment to her patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Muslina Akhter at Parkview Hospital, Chittagong is 5pm to 7pm (Closed: Fri, Tue & Sat).",
       "chamber": {
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
-        "visitingTime": "6pm to 8pm (Closed: Fri, Tue & Sat)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "a3d9af86-e56f-4aab-8196-a25fad1ab2c9"
+        "visitingTime": "5pm to 7pm (Closed: Fri, Tue & Sat)",
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "6b9ce416-849a-459e-992e-4f1f64a5f36c",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-tazeen-sultana/",
+      "imageId": "f28afbf4-cf93-42e2-843b-da43ede40b10",
       "name": "Dr. Tazeen Sultana",
       "degree": "MBBS, FCPS (OBGYN)",
       "specialty": "Gynecology Specialist & Surgeon",
@@ -738,11 +898,14 @@
         "hospital": "National Hospital, Chittagong",
         "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
         "visitingTime": "4pm to 6pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801822685066"
-      },
-      "id": "2ce7a081-cd97-46fa-9fb5-b22f080a8076"
+        "appointmentNumber": "+8801822685066Call Now"
+      }
     },
     {
+      "id": "a94dc8bf-7762-4745-b1f8-1f1d118fba25",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-zeenat-ara-chowdhury/",
+      "imageId": "23f68f06-ad7b-49b8-83da-6d3c1b601b09",
       "name": "Dr. Zeenat Ara Chowdhury",
       "degree": "MBBS, MCPS (OBGYN), DGO, MS (OBGYN)",
       "specialty": "Gynecologist & Surgeon",
@@ -752,11 +915,14 @@
         "hospital": "Chevron Clinical Laboratory, Chittagong",
         "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801755666969"
-      },
-      "id": "7fcade53-fcfc-4d47-bee8-198027990653"
+        "appointmentNumber": "+8801755666969Call Now"
+      }
     },
     {
+      "id": "c9ef2877-4a04-49b8-a320-09e4ff7b47f3",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-suparna-dey/",
+      "imageId": "22301e97-84c1-4833-9611-13e04a394dd1",
       "name": "Dr. Suparna Dey",
       "degree": "MBBS, PGT (OBGYN), NIPS-Fellow (Japan), CCD (BIRDEM)",
       "specialty": "Gynecology, Obstetrics & Breast Cancer Specialist",
@@ -766,25 +932,31 @@
         "hospital": "Doctors Lab, Chittagong",
         "address": "131, KB Fazlul Kader Road, Probortok More, Panchlaish, Chattogram",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801940876810"
-      },
-      "id": "b010706a-38c5-47d4-a202-480ef2608998"
+        "appointmentNumber": "+8801940876810Call Now"
+      }
     },
     {
+      "id": "aa4fb29d-10af-485a-a5d4-7f9d411cc3d6",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-salma-akter-shimu/",
+      "imageId": "bb309324-27d3-48c1-80d1-049c7905bb09",
       "name": "Dr. Salma Akter Shimu",
       "degree": "MBBS, MCPS, FCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
       "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
-      "info": "Shajinaz Hospital Ltd.\nAddress: Arefin Nagar, Bayezid Link Road, Bayezid Bostami, Chattogram\nVisiting Hour: 5pm to 8pm (Sat, Mon & Wed)\nAppointment: +8801886338811\nCall Now",
+      "info": "Shajinaz Hospital Ltd. Address: Arefin Nagar, Bayezid Link Road, Bayezid Bostami, Chattogram Visiting Hour: 5pm to 8pm (Sat, Mon & Wed) Appointment: +8801886338811 Call Now",
       "chamber": {
         "hospital": "Asperia Treatment Health Care, Chittagong",
         "address": "1st Floor, 100, Panchlaish, (opposite to Probortok School), Chittagong",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801323337344"
-      },
-      "id": "1710d3be-b5ea-4325-9467-15761dda07eb"
+        "appointmentNumber": "+8801323337344Call Now"
+      }
     },
     {
+      "id": "b288600a-8212-4188-907d-dda74bd97570",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-kajal-rekha-roy/",
+      "imageId": "cafd3030-9bac-4b29-8834-f8addbb36809",
       "name": "Dr. Kajal Rekha Roy",
       "degree": "MBBS, MCPS (OBGYN), DGO, MS (OBGYN)",
       "specialty": "Gynecology & Obstetrics Specialist",
@@ -794,25 +966,31 @@
         "hospital": "Holy Health Hospital, Chittagong",
         "address": "107, Opposite Chittagong Medical College Gate, Palclaish, Chattogram",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801812605505"
-      },
-      "id": "442f06fc-1b95-4d52-a1b8-cfd194b41242"
+        "appointmentNumber": "+8801812605505Call Now"
+      }
     },
     {
+      "id": "fac0364a-649b-4ee7-9035-cee05b7fb84b",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-moumita-tripura/",
+      "imageId": "d0d81cf5-0c7c-4115-9964-91ec725bd2e7",
       "name": "Dr. Moumita Tripura Mumu",
       "degree": "MBBS, FCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
       "workplace": "Rangamati Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Chittagong\nAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 8pm to 9:30pm (Sat, Mon, Wed & Thursday)\nAppointment: +8809666787810\nCall Now",
+      "info": "Popular Diagnostic Center, Chittagong Address: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram Visiting Hour: 8pm to 9:30pm (Sat, Mon, Wed & Thursday) Appointment: +8809666787810 Call Now",
       "chamber": {
         "hospital": "Labaid Specialized Hospital, Chattogram",
         "address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
         "visitingTime": "8pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662828"
-      },
-      "id": "f77198c8-240c-401b-90c6-01f5d76df83e"
+        "appointmentNumber": "+8801766662828Call Now"
+      }
     },
     {
+      "id": "bc4c8219-0dd7-4bdd-95d8-0a90b07054c7",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-farzana-chowdhury/",
+      "imageId": "f9f2ee0b-d35a-4be6-ba65-fd0ea1392b68",
       "name": "Dr. Farzana Chowdhury",
       "degree": "MBBS, MCPS, FCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
@@ -822,11 +1000,14 @@
         "hospital": "CSCR Hospital, Chittagong",
         "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
         "visitingTime": "6pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801835208915"
-      },
-      "id": "29b2c34d-4753-40e0-8d6f-4de152a94bc5"
+        "appointmentNumber": "+8801835208915Call Now"
+      }
     },
     {
+      "id": "94afd692-ba81-434d-a005-19625bb1a18f",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-nargis-akther-shiddique/",
+      "imageId": "4c78716c-5689-4e4d-8e63-2bc76f33a9ae",
       "name": "Dr. Nargis Akther Shiddique",
       "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
@@ -836,11 +1017,14 @@
         "hospital": "Epic Healthcare, Chittagong",
         "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801984499600"
-      },
-      "id": "85d02984-bf27-4864-8cf3-55e636370762"
+        "appointmentNumber": "+8801984499600Call Now"
+      }
     },
     {
+      "id": "9c3ee2b0-1065-4ada-adda-8f63b5413445",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-rupasree-biswas/",
+      "imageId": "60bc3878-1c60-48b5-834d-c589fe33aaeb",
       "name": "Dr. Rupasree Biswas",
       "degree": "MBBS, FCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
@@ -850,11 +1034,14 @@
         "hospital": "People's Hospital, Chittagong",
         "address": "94, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+88031658911"
-      },
-      "id": "4ca5d4dd-0ec4-4a98-9cd1-58c6f4a7bd39"
+        "appointmentNumber": "+88031658911Call Now"
+      }
     },
     {
+      "id": "4b263385-1473-4174-9f85-cfe798c1a09a",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-jannatul-ferdous-bublee/",
+      "imageId": "9b4cd3a1-c036-4ca3-a8e0-baf911e90a3f",
       "name": "Dr. Jannatul Ferdous Bublee",
       "degree": "MBBS, FCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
@@ -864,11 +1051,14 @@
         "hospital": "Labaid Specialized Hospital, Chattogram",
         "address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662828"
-      },
-      "id": "6e6d4779-e764-49f2-9890-19a8f2860639"
+        "appointmentNumber": "+8801766662828Call Now"
+      }
     },
     {
+      "id": "d755c220-e276-4edc-b39f-fa9e31dd4149",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-ferdousi-begum-nely/",
+      "imageId": "74656836-bf57-4ed8-962f-b255bc3a463c",
       "name": "Dr. Ferdousi Begum Nely",
       "degree": "MBBS, DGO",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
@@ -878,25 +1068,31 @@
         "hospital": "Max Hospital & Diagnostic, Chittagong",
         "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801713998199"
-      },
-      "id": "c929242b-5970-460e-874c-d55456b3cb31"
+        "appointmentNumber": "+8801713998199Call Now"
+      }
     },
     {
+      "id": "8c45a301-d19a-4b0d-bcea-27e1cbf4c06f",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-farzana-akhter-bithi/",
+      "imageId": "2e14e56f-39b3-4ea2-a46a-d09cb577c0bf",
       "name": "Dr. Farzana Akhter Bithi",
       "degree": "MBBS (RMC), BCS (Health), FCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Chevron Clinical Laboratory, Anowara\nAddress: CUFL Road, Chaturi Chowmuhoni, Anwara, Chattogram\nVisiting Hour: 2pm to 8.30pm (Friday & Sunday)\nAppointment: 01755666941, 01816255018\nCall Now",
+      "info": "Chevron Clinical Laboratory, Anowara Address: CUFL Road, Chaturi Chowmuhoni, Anwara, Chattogram Visiting Hour: 2pm to 8.30pm (Friday & Sunday) Appointment: 01755666941, 01816255018 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Chittagong",
         "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "4pm to 7pm (Saturday & Tuesday)",
-        "appointmentNumber": "09666787810, 01816255018"
-      },
-      "id": "ad6e3386-3806-4f0a-bc60-906e67999aba"
+        "appointmentNumber": "09666787810, 01816255018Call Now"
+      }
     },
     {
+      "id": "ef6b68ee-4cde-49a6-a9ac-b21e53a3f25f",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-shamima-akter-gynecology/",
+      "imageId": "9661a693-cd64-47b9-acee-e5699a2f756c",
       "name": "Dr. Shamima Akter",
       "degree": "MBBS, MCPS, DGO, FCPS (OBGYN)",
       "specialty": "Obstetrics, Gynecology Specialist & Laparoscopic Surgeon",
@@ -906,11 +1102,14 @@
         "hospital": "Delta Health Care, Chittagong",
         "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801841906010"
-      },
-      "id": "20c36eab-660b-4d45-9381-9e565d11d032"
+        "appointmentNumber": "+8801841906010Call Now"
+      }
     },
     {
+      "id": "2fe4064e-72e5-47e3-9330-605b2f221564",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/col-dr-nazma-siddique/",
+      "imageId": "2db49373-13e2-4f10-9956-2c297130bb20",
       "name": "Col. Dr. Nazma Siddique",
       "degree": "MBBS, DGO (DU), FCPS (OBGYN)",
       "specialty": "Gynecology, Infertility Specialist & Laparoscopic Surgeon",
@@ -920,11 +1119,14 @@
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "7.30pm to 10pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "b8cee680-ecfe-4e0c-a499-386afd9279d5"
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "8828c26b-108c-462a-9cc5-085b9734aa37",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-bilkis-fatema/",
+      "imageId": "754d55e7-55cd-44ba-abb1-9e9a81030f2e",
       "name": "Dr. Bilkis Fatema",
       "degree": "MBBS, BCS (Health), DGO, MCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
@@ -934,25 +1136,31 @@
         "hospital": "Asperia Treatment Health Care, Chittagong",
         "address": "1st Floor, 100, Panchlaish, (opposite to Probortok School), Chittagong",
         "visitingTime": "7pm to 9pm (Closed: Sun & Friday)",
-        "appointmentNumber": "+8801323337344"
-      },
-      "id": "10638c6e-4d50-4234-8688-74a5261ca74c"
+        "appointmentNumber": "+8801323337344Call Now"
+      }
     },
     {
+      "id": "62779aaa-e296-415c-9ec5-2955eab2072f",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-zakeya-sultana/",
+      "imageId": "33deec8a-6f62-4ffe-b7c0-df86215b0b98",
       "name": "Dr. Zakeya Sultana Begum",
       "degree": "MBBS, MCPC, DGO, Trainer in Infertility (USA)",
       "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
       "workplace": "Marine City Medical College & Hospital",
-      "info": "Shajinaz Hospital Ltd.\nAddress: Arefin Nagar, Bayezid Link Road, Bayezid Bostami, Chattogram\nVisiting Hour: 4pm to 7pm (Sun, TUe, Wed & Thu)\nAppointment: 01886-338811\nCall Now",
+      "info": "Shajinaz Hospital Ltd. Address: Arefin Nagar, Bayezid Link Road, Bayezid Bostami, Chattogram Visiting Hour: 4pm to 7pm (Sun, TUe, Wed & Thu) Appointment: 01886-338811 Call Now",
       "chamber": {
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "10am to 1pm (Closed: Friday)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "ebac3468-12a6-47af-b963-55703120e7b2"
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "940bbd85-d396-456d-82e4-6797db0d9b87",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-nazmun-nahar-rosy/",
+      "imageId": "4afeb77f-5967-49b1-9a4b-5073ee4b1b47",
       "name": "Dr. Nazmun Nahar Rosy",
       "degree": "MBBS, FCPS (Obs & Gyne)",
       "specialty": "Gynecology, Obstetrics, Infertility Specialist & Laparoscopic Surgeon",
@@ -962,25 +1170,31 @@
         "hospital": "Shajinaz Hospital Ltd.",
         "address": "Arefin Nagar, Bayezid Link Road, Bayezid Bostami, Chattogram",
         "visitingTime": "10am to 12pm (Monday & Friday)",
-        "appointmentNumber": "+8801886-338811"
-      },
-      "id": "937a518c-40ce-4a91-9138-ce7a448964b3"
+        "appointmentNumber": "+8801886-338811Call Now"
+      }
     },
     {
+      "id": "715a8bd8-7e5d-4e5d-bbeb-11d7e4b1ed0d",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-najmin-sultana/",
+      "imageId": "d076cce0-f95b-46bf-97bf-e92ff09a8c44",
       "name": "Dr. Nazmin Sultana",
       "degree": "MBBS, FCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
       "workplace": "Parkview Hospital, Chittagong",
-      "info": "Dr. Nazmin Sultana is a Gynecologist in Chittagong. Her qualification is MBBS, FCPS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Parkview Hospital, Chittagong. She regularly provides treatment to her patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Nazmin Sultana at Parkview Hospital, Chittagong is 6pm to 9pm (Closed: Friday).",
+      "info": "Dr. Nazmin Sultana is a Gynecologist in Chittagong. Her qualification is MBBS, FCPS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Parkview Hospital, Chittagong. She regularly provides treatment to her patients at Parkview Hospital, Chittagong. Practicing hour of Dr. Nazmin Sultana at Parkview Hospital, Chittagong is 6pm to 9pm (Closed: Thursday), 4pm to 6pm (Friday).",
       "chamber": {
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
-        "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "3d626328-5e50-4322-b145-94ee2826db07"
+        "visitingTime": "6pm to 9pm (Closed: Thursday), 4pm to 6pm (Friday)",
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "e7df71fb-ab91-466d-a363-9c97d19ce30e",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-sulekha-bhattacharjee/",
+      "imageId": "f2183810-db67-4390-886a-e10b870dc2a7",
       "name": "Dr. Sulekha Bhattacharjee",
       "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
       "specialty": "Obstetrics, Gynecology Specialist & Laparoscopic Surgeon",
@@ -990,25 +1204,14 @@
         "hospital": "Medical Centre Hospital, Chittagong",
         "address": "953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801816872702"
-      },
-      "id": "7eef6dc1-b94f-4083-9e47-13924b5561b2"
+        "appointmentNumber": "+8801816872702Call Now"
+      }
     },
     {
-      "name": "Dr. Farhanaz Mabud Silvi",
-      "degree": "MBBS, MCPS (OBGYN), MS (OBGYN)",
-      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
-      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
-      "info": "Chattogram Metropolitan Hospital\nAddress: 698/752, O.R. Nizam Road, Panchlaish, Chattogram\nVisiting Hour: 5pm to 6pm (Sat, Mon & Wed)\nAppointment: +8801814651077\nCall Now",
-      "chamber": {
-        "hospital": "Qrex Diagnostic & Consultation Centre, Chittagong",
-        "address": "Seaman Hostel Gate, Saltgola Crossing, EPZ, Chattogram",
-        "visitingTime": "7pm to 9pm (Sun & Tue) & 3.30pm to 5pm (Fri)",
-        "appointmentNumber": "+8801882534499"
-      },
-      "id": "0e9aafe1-419a-41bf-bb14-868e0197e304"
-    },
-    {
+      "id": "b129d47a-a5e8-4eaf-a0d1-14bb953e3c9d",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-zakia-afroze/",
+      "imageId": "87c8a04b-5aca-46fc-8604-2b8960a318a6",
       "name": "Dr. Zakia Afroze",
       "degree": "MBBS, BCS (Health), DGO, MCPS, MS (OBGYN)",
       "specialty": "Gynecologist & Surgeon",
@@ -1018,11 +1221,31 @@
         "hospital": "Chevron Clinical Laboratory, Chittagong",
         "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 9.30pm (Sun, Mon, Tue & Thu) & 9am to 12pm (Friday)",
-        "appointmentNumber": "+8801755666969"
-      },
-      "id": "735af83e-882a-4336-adf5-ab7e97cf5203"
+        "appointmentNumber": "+8801755666969Call Now"
+      }
     },
     {
+      "id": "87333f76-b7ef-4e2f-8b0e-72eb74935918",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-farhanaz-mabud-silvi/",
+      "imageId": "60958ac0-be79-4bae-a18c-77f4ae59d135",
+      "name": "Dr. Farhanaz Mabud Silvi",
+      "degree": "MBBS, MCPS (OBGYN), MS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
+      "info": "Chattogram Metropolitan Hospital Address: 698/752, O.R. Nizam Road, Panchlaish, Chattogram Visiting Hour: 5pm to 6pm (Sat, Mon & Wed) Appointment: +8801814651077 Call Now",
+      "chamber": {
+        "hospital": "Qrex Diagnostic & Consultation Centre, Chittagong",
+        "address": "Seaman Hostel Gate, Saltgola Crossing, EPZ, Chattogram",
+        "visitingTime": "7pm to 9pm (Sun & Tue) & 3.30pm to 5pm (Fri)",
+        "appointmentNumber": "+8801882534499Call Now"
+      }
+    },
+    {
+      "id": "b11b2d85-acc1-474f-aeb5-6a0d54194c53",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-tanjila-karim/",
+      "imageId": "b9a453da-3267-4f73-b1c3-82ec6047ce07",
       "name": "Dr. Tanjila Karim",
       "degree": "MBBS, BCS (Health), DGO, FCPS (OBGYN)",
       "specialty": "Gynecology & Obstetrics Specialist",
@@ -1032,25 +1255,31 @@
         "hospital": "Max Hospital & Diagnostic, Chittagong",
         "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801713998199"
-      },
-      "id": "708bab58-6597-4e19-9cb4-338b817c7c4c"
+        "appointmentNumber": "+8801713998199Call Now"
+      }
     },
     {
+      "id": "6b0988e3-7a9e-430d-9ef7-18aaa3305716",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-roushan-akhter-jahan/",
+      "imageId": "de74c8c1-2368-47a3-8272-def260e6b072",
       "name": "Dr. Roushan Akhter Jahan",
       "degree": "MBBS, BCS (Health), MS (OBGYN)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Ibn Sina Diagnostic Center, Chittagong\nAddress: House # 12/A, Road # 02, Katalgonj, Panchlaish, Chattogram\nVisiting Hour: 6pm to 9pm (Sunday, Monday & Wednesday)\nAppointment: +8809610009622\nCall Now",
+      "info": "Ibn Sina Diagnostic Center, Chittagong Address: House # 12/A, Road # 02, Katalgonj, Panchlaish, Chattogram Visiting Hour: 6pm to 9pm (Sunday, Monday & Wednesday) Appointment: +8809610009622 Call Now",
       "chamber": {
         "hospital": "Islami Bank Hospital, Chittagong",
         "address": "3, Sheikh Mujib Road, Agrabad, Chittagong",
         "visitingTime": "6pm to 9pm (Saturday, Tuesday & Thursday)",
-        "appointmentNumber": "+8801731253990"
-      },
-      "id": "82e333be-2579-49cb-ae03-f32ed4b626bb"
+        "appointmentNumber": "+8801731253990Call Now"
+      }
     },
     {
+      "id": "36db9184-0d3d-43ff-8b05-68d5cb872e7d",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-nawshin-tasnuva/",
+      "imageId": "862fa3f0-5584-4654-b080-ccfbdaf3546c",
       "name": "Dr. Nawshin Tasnuva",
       "degree": "MBBS, DGO, FCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
@@ -1060,11 +1289,14 @@
         "hospital": "Labaid Specialized Hospital, Chattogram",
         "address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
         "visitingTime": "6pm to 9pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801766662828"
-      },
-      "id": "ee19125d-44aa-4240-bd06-9fe47ce30521"
+        "appointmentNumber": "+8801766662828Call Now"
+      }
     },
     {
+      "id": "67ef575a-b34e-4fb9-ae05-6093bf4e592f",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-sabrina-meher/",
+      "imageId": "6702e468-83ba-465e-b134-67ac3f2dbba0",
       "name": "Dr. Sabrina Meher",
       "degree": "MBBS, DGO, FCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
@@ -1074,123 +1306,14 @@
         "hospital": "CSCR Hospital, Chittagong",
         "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
         "visitingTime": "5pm to 9pm (Everyday)",
-        "appointmentNumber": "+8801887656565"
-      },
-      "id": "92e05ddb-463b-4bd6-a31d-8552a0f735c9"
+        "appointmentNumber": "+8801887656565Call Now"
+      }
     },
     {
-      "name": "Dr. Seema Bhattacharjee",
-      "degree": "MBBS, BCS (Health), DGO, FCPS (OBGYN), MCPS (OBGYN)",
-      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
-      "workplace": "Army Medical College, Chattogram",
-      "info": "Dr. Seema Bhattacharjee is a Gynecologist in Chittagong. Her qualification is MBBS, BCS (Health), DGO, FCPS (OBGYN), MCPS (OBGYN). She is a Associate Professor, Gynecology & Obstetrics at Army Medical College, Chattogram. She regularly provides treatment to her patients at Max Hospital & Diagnostic, Chittagong. Practicing hour of Dr. Seema Bhattacharjee at Max Hospital & Diagnostic, Chittagong is 7pm to 9pm (Closed: Friday).",
-      "chamber": {
-        "hospital": "Max Hospital & Diagnostic, Chittagong",
-        "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
-        "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801713998199"
-      },
-      "id": "60e23e23-7a73-4132-81c2-1b44b67667f7"
-    },
-    {
-      "name": "Dr. Nilima Jafrin",
-      "degree": "MBBS, BCS (Health), M.Phil (Physiology), FCPS (OBGYN)",
-      "specialty": "Gynecology & Obstetrics Specialist",
-      "workplace": "Bangladesh Institute of Tropical and Infectious Diseases",
-      "info": "Dr. Nilima Jafrin is a Gynecologist in Chittagong. Her qualification is MBBS, BCS (Health), M.Phil (Physiology), FCPS (OBGYN). She is a Assistant Professor, Gynecology at Bangladesh Institute of Tropical and Infectious Diseases. She regularly provides treatment to her patients at Doctors Lab, Chittagong. Practicing hour of Dr. Nilima Jafrin at Doctors Lab, Chittagong is Unknown. Please call to know visiting hour.",
-      "chamber": {
-        "hospital": "Doctors Lab, Chittagong",
-        "address": "131, KB Fazlul Kader Road, Probortok More, Panchlaish, Chattogram",
-        "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801940876810"
-      },
-      "id": "c381160e-b768-4a49-81d6-c77d91c1939b"
-    },
-    {
-      "name": "Dr. Shamima Hasnat",
-      "degree": "MBBS, FCPS (OBGYN)",
-      "specialty": "Gynecology & Obstetrics Specialist",
-      "workplace": "Delta Health Care, Chittagong",
-      "info": "Dr. Shamima Hasnat is a Gynecologist in Chittagong. Her qualification is MBBS, FCPS (OBGYN). She is working as a Gynecology & Obstetrics Specialist doctor in Delta Health Care, Chittagong. She regularly provides treatment to her patients at Delta Health Care, Chittagong. Practicing hour of Dr. Shamima Hasnat at Delta Health Care, Chittagong is 6pm to 9pm (Closed: Friday).",
-      "chamber": {
-        "hospital": "Delta Health Care, Chittagong",
-        "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
-        "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801841906010"
-      },
-      "id": "d97ced3c-91c6-4029-97f8-85f8dc08a68c"
-    },
-    {
-      "name": "Dr. Shiuly Chakma",
-      "degree": "MBBS, DGO",
-      "specialty": "Gynecology & Obstetrics Specialist",
-      "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
-      "info": "Dr. Shiuly Chakma is a Gynecologist in Chittagong. Her qualification is MBBS, DGO. She is working as a Gynecology & Obstetrics Specialist doctor in Chattogram Maa-O-Shishu Hospital Medical College. She regularly provides treatment to her patients at Qrex Diagnostic & Consultation Centre, Chittagong. Practicing hour of Dr. Shiuly Chakma at Qrex Diagnostic & Consultation Centre, Chittagong is 7pm to 9pm (Sat, Mon & Wed).",
-      "chamber": {
-        "hospital": "Qrex Diagnostic & Consultation Centre, Chittagong",
-        "address": "Seaman Hostel Gate, Saltgola Crossing, EPZ, Chattogram",
-        "visitingTime": "7pm to 9pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801882534499"
-      },
-      "id": "33c59925-20f9-47b2-af39-d4bfc9f8c652"
-    },
-    {
-      "name": "Dr. Lutfun Nessa Khan",
-      "degree": "MBBS, MCPS (OBGYN)",
-      "specialty": "Gynecology & Obstetrics Specialist",
-      "workplace": "Chittagong Medical College & Hospital",
-      "info": "Dr. Lutfun Nessa Khan is a Gynecologist in Chittagong. Her qualification is MBBS, MCPS (OBGYN). She is working as a Gynecology & Obstetrics Specialist doctor in Chittagong Medical College & Hospital. She regularly provides treatment to her patients at Sensiv Private Limited, Chittagong. Practicing hour of Dr. Lutfun Nessa Khan at Sensiv Private Limited, Chittagong is 7pm to 9pm (Closed: Friday & Saturday).",
-      "chamber": {
-        "hospital": "Sensiv Private Limited, Chittagong",
-        "address": "14, Jamal Khan Road, Jamal Khan, Chattogram",
-        "visitingTime": "7pm to 9pm (Closed: Friday & Saturday)",
-        "appointmentNumber": "+8801837600115"
-      },
-      "id": "ce4c1ea2-3fa5-4b45-94c5-58a85fb9cef4"
-    },
-    {
-      "name": "Dr. Hena Rani Barua",
-      "degree": "MBBS, DCM, MCPS, DGO, FCPS (OBGYN), MS (OBGYN)",
-      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
-      "workplace": "Rangamati Medical College & Hospital",
-      "info": "Dr. Hena Rani Barua is a Gynecologist in Chittagong. Her qualification is MBBS, DCM, MCPS, DGO, FCPS (OBGYN), MS (OBGYN). She is a Associate Professor, Gynecology & Obstetrics at Rangamati Medical College & Hospital. She regularly provides treatment to her patients at Doctors Lab, Chittagong. Practicing hour of Dr. Hena Rani Barua at Doctors Lab, Chittagong is Unknown. Please call to know visiting hour.",
-      "chamber": {
-        "hospital": "Doctors Lab, Chittagong",
-        "address": "131, KB Fazlul Kader Road, Probortok More, Panchlaish, Chattogram",
-        "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801940876810"
-      },
-      "id": "aa6679b1-1c71-483a-a6c8-c38abeb5ebbd"
-    },
-    {
-      "name": "Dr. Dilshan Ara Habib",
-      "degree": "MBBS, MCPS, DGO",
-      "specialty": "Infertility Specialist, Gynecologist & Surgeon",
-      "workplace": "Chittagong Medical College & Hospital",
-      "info": "Dr. Dilshan Ara Habib is a Gynecologist in Chittagong. Her qualification is MBBS, MCPS, DGO. She is a Ex. Senior Consultant at Chittagong Medical College & Hospital. She regularly provides treatment to her patients at Asperia Treatment Health Care, Chittagong. Practicing hour of Dr. Dilshan Ara Habib at Asperia Treatment Health Care, Chittagong is 7pm to 9pm (Closed: Friday).",
-      "chamber": {
-        "hospital": "Asperia Treatment Health Care, Chittagong",
-        "address": "1st Floor, 100, Panchlaish, (opposite to Probortok School), Chittagong",
-        "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801323337344"
-      },
-      "id": "6c745f02-9935-4b89-83ca-e3923bfd8b22"
-    },
-    {
-      "name": "Dr. Ferdous Ara Sarwar",
-      "degree": "MBBS, MCPS (OBGYN)",
-      "specialty": "Gynecology & Obstetrics Specialist",
-      "workplace": "Chittagong Port Authority Hospital",
-      "info": "Dr. Ferdous Ara Sarwar is a Gynecologist in Chittagong. Her qualification is MBBS, MCPS (OBGYN). She is a Senior Medical Officer, Gynecology at Chittagong Port Authority Hospital. She regularly provides treatment to her patients at Shahjalal Diagnostic Clinic, Chittagong. Practicing hour of Dr. Ferdous Ara Sarwar at Shahjalal Diagnostic Clinic, Chittagong is 7pm to 10pm (Closed: Friday).",
-      "chamber": {
-        "hospital": "Shahjalal Diagnostic Clinic, Chittagong",
-        "address": "143, Sheikh Mujib Road, Badamtoli, Agrabad, Chattogram",
-        "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801673259411"
-      },
-      "id": "9f85844a-b873-4b8d-adf6-ee76a211b374"
-    },
-    {
+      "id": "64771dca-89ad-473f-a376-ee595d30c387",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-kohinoor-akter/",
+      "imageId": "6eb5483c-dc91-4c30-ad44-393e51e60c88",
       "name": "Dr. Kohinoor Akter",
       "degree": "MBBS, MCS, DGO",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
@@ -1200,11 +1323,116 @@
         "hospital": "Medical Centre Hospital, Chittagong",
         "address": "953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram",
         "visitingTime": "10am to 1pm (Closed: Friday)",
-        "appointmentNumber": "+8801823301037"
-      },
-      "id": "6828458f-b8dc-467d-989f-88207c56b3f8"
+        "appointmentNumber": "+8801823301037Call Now"
+      }
     },
     {
+      "id": "ef36db67-018b-4fad-b326-aef18ac686c4",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-shamima-hasnat/",
+      "imageId": "da0af929-665d-4681-9b34-56b3976038b6",
+      "name": "Dr. Shamima Hasnat",
+      "degree": "MBBS, FCPS (OBGYN)",
+      "specialty": "Gynecology & Obstetrics Specialist",
+      "workplace": "Delta Health Care, Chittagong",
+      "info": "Dr. Shamima Hasnat is a Gynecologist in Chittagong. Her qualification is MBBS, FCPS (OBGYN). She is working as a Gynecology & Obstetrics Specialist doctor in Delta Health Care, Chittagong. She regularly provides treatment to her patients at Delta Health Care, Chittagong. Practicing hour of Dr. Shamima Hasnat at Delta Health Care, Chittagong is 6pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Delta Health Care, Chittagong",
+        "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801841906010Call Now"
+      }
+    },
+    {
+      "id": "162974e9-8bea-4834-bfaf-7e7b745df7f0",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-seema-bhattacharjee/",
+      "imageId": "eb0835fe-62b2-4bff-9810-6a9ca4b4c4ca",
+      "name": "Dr. Seema Bhattacharjee",
+      "degree": "MBBS, BCS (Health), DGO, FCPS (OBGYN), MCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Army Medical College, Chattogram",
+      "info": "Dr. Seema Bhattacharjee is a Gynecologist in Chittagong. Her qualification is MBBS, BCS (Health), DGO, FCPS (OBGYN), MCPS (OBGYN). She is a Associate Professor, Gynecology & Obstetrics at Army Medical College, Chattogram. She regularly provides treatment to her patients at Max Hospital & Diagnostic, Chittagong. Practicing hour of Dr. Seema Bhattacharjee at Max Hospital & Diagnostic, Chittagong is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Max Hospital & Diagnostic, Chittagong",
+        "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801713998199Call Now"
+      }
+    },
+    {
+      "id": "8886ff08-815c-429c-ad44-a97545de854b",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-lutfun-nessa-khan/",
+      "imageId": "208c922d-787b-4e8e-a9b2-09f3f756d74c",
+      "name": "Dr. Lutfun Nessa Khan",
+      "degree": "MBBS, MCPS (OBGYN)",
+      "specialty": "Gynecology & Obstetrics Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Lutfun Nessa Khan is a Gynecologist in Chittagong. Her qualification is MBBS, MCPS (OBGYN). She is working as a Gynecology & Obstetrics Specialist doctor in Chittagong Medical College & Hospital. She regularly provides treatment to her patients at Sensiv Private Limited, Chittagong. Practicing hour of Dr. Lutfun Nessa Khan at Sensiv Private Limited, Chittagong is 7pm to 9pm (Closed: Friday & Saturday).",
+      "chamber": {
+        "hospital": "Sensiv Private Limited, Chittagong",
+        "address": "14, Jamal Khan Road, Jamal Khan, Chattogram",
+        "visitingTime": "7pm to 9pm (Closed: Friday & Saturday)",
+        "appointmentNumber": "+8801837600115Call Now"
+      }
+    },
+    {
+      "id": "1c3ad2f7-d801-47c6-b7c7-a2a883e5b378",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-ferdous-ara-sarwar/",
+      "imageId": "8caa29c4-2ab4-4fec-95a4-e0f50a8dd0cd",
+      "name": "Dr. Ferdous Ara Sarwar",
+      "degree": "MBBS, MCPS (OBGYN)",
+      "specialty": "Gynecology & Obstetrics Specialist",
+      "workplace": "Chittagong Port Authority Hospital",
+      "info": "Dr. Ferdous Ara Sarwar is a Gynecologist in Chittagong. Her qualification is MBBS, MCPS (OBGYN). She is a Senior Medical Officer, Gynecology at Chittagong Port Authority Hospital. She regularly provides treatment to her patients at Shahjalal Diagnostic Clinic, Chittagong. Practicing hour of Dr. Ferdous Ara Sarwar at Shahjalal Diagnostic Clinic, Chittagong is 7pm to 10pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Shahjalal Diagnostic Clinic, Chittagong",
+        "address": "143, Sheikh Mujib Road, Badamtoli, Agrabad, Chattogram",
+        "visitingTime": "7pm to 10pm (Closed: Friday)",
+        "appointmentNumber": "+8801673259411Call Now"
+      }
+    },
+    {
+      "id": "cb3d90f0-01cb-4e5b-a080-781ada0fd3ba",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-dilshan-ara-habib/",
+      "imageId": "f72782a2-45c8-4a45-8eb6-2adfce020457",
+      "name": "Dr. Dilshan Ara Habib",
+      "degree": "MBBS, MCPS, DGO",
+      "specialty": "Infertility Specialist, Gynecologist & Surgeon",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Dr. Dilshan Ara Habib is a Gynecologist in Chittagong. Her qualification is MBBS, MCPS, DGO. She is a Ex. Senior Consultant at Chittagong Medical College & Hospital. She regularly provides treatment to her patients at Asperia Treatment Health Care, Chittagong. Practicing hour of Dr. Dilshan Ara Habib at Asperia Treatment Health Care, Chittagong is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Asperia Treatment Health Care, Chittagong",
+        "address": "1st Floor, 100, Panchlaish, (opposite to Probortok School), Chittagong",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801323337344Call Now"
+      }
+    },
+    {
+      "id": "28d41a11-a880-45e5-a1f5-1b491b1782d7",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-hena-rani-barua/",
+      "imageId": "8f01e268-b1c0-4c3c-a320-17b93707e66a",
+      "name": "Dr. Hena Rani Barua",
+      "degree": "MBBS, DCM, MCPS, DGO, FCPS (OBGYN), MS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Rangamati Medical College & Hospital",
+      "info": "Dr. Hena Rani Barua is a Gynecologist in Chittagong. Her qualification is MBBS, DCM, MCPS, DGO, FCPS (OBGYN), MS (OBGYN). She is a Associate Professor, Gynecology & Obstetrics at Rangamati Medical College & Hospital. She regularly provides treatment to her patients at Doctors Lab, Chittagong. Practicing hour of Dr. Hena Rani Barua at Doctors Lab, Chittagong is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Doctors Lab, Chittagong",
+        "address": "131, KB Fazlul Kader Road, Probortok More, Panchlaish, Chattogram",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801940876810Call Now"
+      }
+    },
+    {
+      "id": "2c7192e7-8d5d-4a2a-9569-b783c3232c1c",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-rehnuma-tarannum-shumi/",
+      "imageId": "d92c861a-f371-4979-9110-a2a6fa4536db",
       "name": "Dr. Rehnuma Tarannum Shumi",
       "degree": "MBBS, BCS (Health), MCPS, FCPS (OBGYN)",
       "specialty": "Obstetrics, Gynecology Specialist & Laparoscopic Surgeon",
@@ -1214,37 +1442,42 @@
         "hospital": "Max Hospital & Diagnostic, Chittagong",
         "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
         "visitingTime": "8pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801713998199"
-      },
-      "id": "755d6f2b-d036-4416-9930-8f8577595e6b"
+        "appointmentNumber": "+8801713998199Call Now"
+      }
     },
     {
+      "id": "dc383220-1e9f-4bf3-b112-3ab993055b71",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-hafiza-marjan/",
+      "imageId": "75d96e6d-7593-41ef-b979-ad59b52dea39",
       "name": "Dr. Hafiza Marjan",
       "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
       "workplace": "Chittagong Medical College Hospital",
-      "info": "Shahjalal Diagnostic Clinic, Chittagong\nAddress: 143, Sheikh Mujib Road, Badamtoli, Agrabad, Chattogram\nVisiting Hour: 6pm to 9pm (Sun, Tue & Thu)\nAppointment: +8801842508851\nCall Now",
+      "info": "Shahjalal Diagnostic Clinic, Chittagong Address: 143, Sheikh Mujib Road, Badamtoli, Agrabad, Chattogram Visiting Hour: 6pm to 9pm (Sun, Tue & Thu) Appointment: +8801842508851 Call Now",
       "chamber": {
         "hospital": "National Hospital, Chittagong",
         "address": "Room 2001, 14/15, Dampara Lane, Mehedibag, Chattogram",
         "visitingTime": "5pm to 9pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801822685066"
-      },
-      "id": "a9a6a7f0-75e6-4dd2-a7e0-f4e100b7075c"
+        "appointmentNumber": "+8801822685066Call Now"
+      }
     },
     {
+      "id": "edaaeb0b-5a12-480b-be3c-c0857b6af90b",
+      "departmentId": "ae519f1a-c627-4c3c-8a2d-b26a487edf7b",
+      "link": "https://www.doctorbangladesh.com/dr-samira-amir-chowdhury/",
+      "imageId": "de542d0f-38bb-40aa-a426-2ffe9095a0c2",
       "name": "Dr. Samira Amir Chowdhury",
       "degree": "MBBS, BCS (Health), DGO, MCPS (Gyne & Obs), FCPS (Gyne & Obs),CMU (Ultra), CCD (Diabetes)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Safe Ideal Health Care Ltd\nAddress: 1516/1725, 1 Kilometer, Bahaddarhat, Chittagong\nVisiting Hour: 7pm to 9pm (Sat, Mon & Wed)\nAppointment: +8801969908808\nCall Now",
+      "info": "Safe Ideal Health Care Ltd Address: 1516/1725, 1 Kilometer, Bahaddarhat, Chittagong Visiting Hour: 7pm to 9pm (Sat, Mon & Wed) Appointment: +8801969908808 Call Now",
       "chamber": {
         "hospital": "Lancet Diagnostic Center, Chittagong",
         "address": "106/B, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "2pm to 4pm (Everyday)",
-        "appointmentNumber": "+8801971899990"
-      },
-      "id": "2a2f9b6f-cc61-473b-80ca-5d6ab5e20fcd"
+        "appointmentNumber": "+8801971899990Call Now"
+      }
     }
   ]
 }

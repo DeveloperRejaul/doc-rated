@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "54161596-a369-4de6-80bb-495cc7d6a2d1",
+      "departmentId": "7b2e3c51-31ac-4f30-9e0a-2ddbcae52eca",
+      "link": "https://www.doctorbangladesh.com/dr-mitu-debnath/",
+      "imageId": "ea93cccd-a958-4220-aa1b-3c1240c8b2f1",
       "name": "Dr. Mitu Debnath",
       "degree": "MBBS, BCS (Health), FCPS (Surgery), MS (Surgical Oncology), Training (Breast Surgery)",
       "specialty": "General, Breast & Cancer Surgery Specialist",
@@ -10,25 +14,31 @@
         "hospital": "South Apollo Diagnostic Complex, Barisal",
         "address": "135, Sadar Road, Barisal",
         "visitingTime": "5pm to 8pm (Thursday), 11am to 3pm (Friday)",
-        "appointmentNumber": "+8801711457444"
-      },
-      "id": "8c65e163-c7f6-4cb2-a929-25afdf92fc83"
+        "appointmentNumber": "+8801711457444Call Now"
+      }
     },
     {
+      "id": "c8eaaf1e-ef5e-4a70-8ff0-190b600377e2",
+      "departmentId": "7b2e3c51-31ac-4f30-9e0a-2ddbcae52eca",
+      "link": "https://www.doctorbangladesh.com/dr-md-monirul-ahsan/",
+      "imageId": "6f137748-0d26-4f84-bd7b-13997be67fde",
       "name": "Dr. Md. Monirul Ahsan",
       "degree": "MBBS (Dhaka), BCS (Health), FCPS (Surgery)",
       "specialty": "General & Laparoscopic Surgeon",
       "workplace": "Sher-E-Bangla Medical College & Hospital",
-      "info": "Islami Bank Hospital, Barisal\nAddress: Band Road, Chandmari, Barisal – 8200\nVisiting Hour: 5pm to 8pm (Closed: Friday)\nAppointment: +8801810000121\nCall Now",
+      "info": "Islami Bank Hospital, Barisal Address: Band Road, Chandmari, Barisal – 8200 Visiting Hour: 5pm to 8pm (Closed: Friday) Appointment: +8801810000121 Call Now",
       "chamber": {
         "hospital": "South Apollo Diagnostic Complex, Barisal",
         "address": "135, Sadar Road, Barisal",
         "visitingTime": "3pm to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801711457444"
-      },
-      "id": "4220e0c9-92b5-4fd5-ad3b-8faa10e8d504"
+        "appointmentNumber": "+8801711457444Call Now"
+      }
     },
     {
+      "id": "3e2e6e1e-edb5-436d-bd94-56dfae726326",
+      "departmentId": "7b2e3c51-31ac-4f30-9e0a-2ddbcae52eca",
+      "link": "https://www.doctorbangladesh.com/dr-g-m-nazimul-haque/",
+      "imageId": "a9c71628-6c99-4e7b-873c-b80dec634a0e",
       "name": "Prof. Dr. G.M. Nazimul Haque",
       "degree": "MBBS, FCPS (Surgery), FACS (USA), FMAS (INDIA)",
       "specialty": "General & Colorectal Surgeon",
@@ -38,25 +48,31 @@
         "hospital": "Popular Diagnostic Center, Barisal",
         "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
         "visitingTime": "2pm to 3pm (Closed: Friday)",
-        "appointmentNumber": "+8801724210773"
-      },
-      "id": "de1c4bd7-c7c6-4809-855e-de62d44dbfbb"
+        "appointmentNumber": "+8801724210773Call Now"
+      }
     },
     {
+      "id": "7a517246-8123-41ba-867c-65dcd511ec27",
+      "departmentId": "7b2e3c51-31ac-4f30-9e0a-2ddbcae52eca",
+      "link": "https://www.doctorbangladesh.com/dr-sourav-sutar/",
+      "imageId": "d46ac632-7833-40bb-be5d-e4449a1c4563",
       "name": "Dr. Sourav Sutar",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General & Laparoscopic Specialist Surgeon",
       "workplace": "Sher-E-Bangla Medical College & Hospital",
-      "info": "Rahat Anwar Hospital, Barisal\nAddress: Band Road, Chandmari, Barisal Sadar, Barisal – 8200\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8801711993953\nCall Now",
+      "info": "Rahat Anwar Hospital, Barisal Address: Band Road, Chandmari, Barisal Sadar, Barisal – 8200 Visiting Hour: Unknown. Please call to know visiting hour Appointment: +8801711993953 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Barisal",
         "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
         "visitingTime": "5pm to 7pm (Closed: Sun & Friday)",
-        "appointmentNumber": "+8809666787819"
-      },
-      "id": "9a6e8cc6-3fbb-49f1-8e44-5a507d7f4f13"
+        "appointmentNumber": "+8809666787819Call Now"
+      }
     },
     {
+      "id": "e30a5198-33ac-45d5-b81a-f7ea3ff2fe2b",
+      "departmentId": "7b2e3c51-31ac-4f30-9e0a-2ddbcae52eca",
+      "link": "https://www.doctorbangladesh.com/dr-m-s-rahman-sumon/",
+      "imageId": "a4130509-e9b8-47d6-a04a-3096988a6886",
       "name": "Dr. M.S. Rahman Sumon",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General, Colorectal & Laparoscopic Surgery Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Rahat Anwar Hospital, Barisal",
         "address": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801711993953"
-      },
-      "id": "c288ba4d-4416-4b17-90d6-47a2771bf6d6"
+        "appointmentNumber": "+8801711993953Call Now"
+      }
     },
     {
+      "id": "da614ee9-9db2-4862-9f54-bb7b4551b5ad",
+      "departmentId": "7b2e3c51-31ac-4f30-9e0a-2ddbcae52eca",
+      "link": "https://www.doctorbangladesh.com/dr-joy-jakharia-rob/",
+      "imageId": "64c30cb4-c883-4c5a-b779-5a7470808719",
       "name": "Dr. Joy Jakharia Rob",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General & Laparoscopic Surgery Specialist",
@@ -80,11 +99,14 @@
         "hospital": "South Apollo Diagnostic Complex, Barisal",
         "address": "135, Sadar Road, Barisal",
         "visitingTime": "7pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801711457444"
-      },
-      "id": "b4477d97-6779-4c58-bf70-1c473bf87503"
+        "appointmentNumber": "+8801711457444Call Now"
+      }
     },
     {
+      "id": "58178452-3dee-4db3-b7a1-cb966d2642f1",
+      "departmentId": "7b2e3c51-31ac-4f30-9e0a-2ddbcae52eca",
+      "link": "https://www.doctorbangladesh.com/dr-md-kabir-mia/",
+      "imageId": "13846f47-de84-4ea5-a53a-a1192327d03d",
       "name": "Dr. Md. Kabir Mia",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General & Laparoscopic Specialist Surgeon",
@@ -94,25 +116,31 @@
         "hospital": "Rahat Anwar Hospital, Barisal",
         "address": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
         "visitingTime": "2.30pm to 4pm & 6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801711993953"
-      },
-      "id": "2ed01d98-ad40-4463-91a4-fa808476036c"
+        "appointmentNumber": "+8801711993953Call Now"
+      }
     },
     {
+      "id": "e0c9bd0d-736e-46f8-99ca-67e37a3460d1",
+      "departmentId": "7b2e3c51-31ac-4f30-9e0a-2ddbcae52eca",
+      "link": "https://www.doctorbangladesh.com/dr-md-rezaul-kabir/",
+      "imageId": "ecde4ea4-3445-467a-a147-a5e3730426b4",
       "name": "Dr. Md. Rezaul Kabir",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General & Endolaparoscopic SurgeonSpecial interest in Breast and Colorectal Surgery",
       "workplace": "Sher-E-Bangla Medical College & Hospital",
-      "info": "Icon Medical Services, Barisal\nAddress: 514, Agorpur Road (In front of Women’s College), Barishal\nVisiting Hour: 2pm to 5pm (Closed: Thursday & Friday)\nAppointment: +8801717-333197\nCall Now",
+      "info": "Icon Medical Services, Barisal Address: 514, Agorpur Road (In front of Women’s College), Barishal Visiting Hour: 2pm to 5pm (Closed: Thursday & Friday) Appointment: +8801717-333197 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Barisal",
         "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
         "visitingTime": "5pm to 9pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8809666-787819"
-      },
-      "id": "33d8ee34-62d0-4999-8f3c-8f0966aa8aa2"
+        "appointmentNumber": "+8809666-787819Call Now"
+      }
     },
     {
+      "id": "963a3987-df40-4d97-ad23-a82676a068b6",
+      "departmentId": "7b2e3c51-31ac-4f30-9e0a-2ddbcae52eca",
+      "link": "https://www.doctorbangladesh.com/dr-dipak-chandra-kirttania/",
+      "imageId": "ec415dcc-ac21-47a7-baee-332cda496e79",
       "name": "Dr. Dipak Chandra Kirttania",
       "degree": "MBBS (Dhaka), FCPS (Surgery)",
       "specialty": "General & Laparoscopic Surgery Specialist",
@@ -122,9 +150,8 @@
         "hospital": "Mamota Specialised Hospital",
         "address": "Kali Bari Road, Barisal Sadar, Barisal - 8200",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801715080560"
-      },
-      "id": "bba69ce5-4e32-4e3c-9435-eeadb89cf684"
+        "appointmentNumber": "+8801715080560Call Now"
+      }
     }
   ]
 }

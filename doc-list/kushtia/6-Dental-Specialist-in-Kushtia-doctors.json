@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "d37ed462-aa66-4190-9c12-f07495f8e6a7",
+      "departmentId": "6fc7f91f-0999-4a6c-a4e5-049b2add8f48",
+      "link": "https://www.doctorbangladesh.com/dr-chandan-pal/",
+      "imageId": "8cf5894a-bef1-48fe-a9df-d8d2c35903ec",
       "name": "Dr. Chandan Pal",
       "degree": "BDS, BCS (Health), MS (BSMMU)",
       "specialty": "Oral & Dental Diseases Specialist & Surgeon",
@@ -10,11 +14,14 @@
         "hospital": "Sono Diagnostic Center, Kushtia",
         "address": "Sono Tower, College Mor, Court Para, Kushtia",
         "visitingTime": "3pm to 8pm (Saturday to Thursday), 8am to 2pm (Friday)",
-        "appointmentNumber": "+8801715159331"
-      },
-      "id": "3cb16bcc-b3b5-408c-99b9-bfa216f03594"
+        "appointmentNumber": "+8801715159331Call Now"
+      }
     },
     {
+      "id": "ff6358c1-4bf5-4fcf-93b3-0ac243f9190f",
+      "departmentId": "6fc7f91f-0999-4a6c-a4e5-049b2add8f48",
+      "link": "https://www.doctorbangladesh.com/dr-jayanta-kumar-pramanik/",
+      "imageId": "bb4f3f1b-3b34-488d-8f36-3c5aa83bda1c",
       "name": "Dr. Jayanta Kumar Pramanik",
       "degree": "MS (Maxillofacial Surgery), BCS (Health), BDS",
       "specialty": "Dental & Maxillofacial Surgeon",
@@ -24,9 +31,8 @@
         "hospital": "Dr. Tofazzul Health Center (Ratan Clinic)",
         "address": "42/1, N S Road, Kushtia",
         "visitingTime": "4pm to 9pm (Sat, Mon, Tue & Wed), 10am to 2pm (Fri)",
-        "appointmentNumber": "+88 01753901238"
-      },
-      "id": "237fa3ba-ca8d-449c-a0a9-b7a947dba173"
+        "appointmentNumber": "+88 01753901238Call Now"
+      }
     }
   ]
 }

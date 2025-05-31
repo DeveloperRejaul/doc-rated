@@ -1,48 +1,61 @@
 {
   "doctor": [
     {
+      "id": "0b2a3a6c-ee1f-4b06-8910-087ffe312a4d",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-sahbub-alam/",
+      "imageId": "acc9f1ea-9129-4076-8131-2f4f91a5ae80",
       "name": "Asso. Prof. Dr. Md. Sahbub Alam",
       "degree": "MBBS, FCPS (ENT), MS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
       "workplace": "Sir Salimullah Medical College & Mitford Hospital",
-      "info": "Ibn Sina Diagnostic Center, Dhanmondi\nAddress: House # 48, Road # 9/A, Dhanmondi, Dhaka – 1209\nVisiting Hour: 4:30pm to 6:30pm (Closed: Friday)\nAppointment: +8809610010615\nCall Now",
+      "info": "Ibn Sina Diagnostic Center, Dhanmondi Address: House # 48, Road # 9/A, Dhanmondi, Dhaka – 1209 Visiting Hour: 4:30pm to 6:30pm (Closed: Friday) Appointment: +8809610010615 Call Now",
       "chamber": {
         "hospital": "Bangladesh ENT Hospital Ltd",
         "address": "3rd Floor, Navana Newbury Place, 4/1/A Sobahanbag, Mirpur Road, Dhaka - 1207",
         "visitingTime": "3pm to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801717250667"
-      },
-      "id": "c6a78e71-facc-4c41-8773-fc96271354a9"
+        "appointmentNumber": "+8801717250667Call Now"
+      }
     },
     {
+      "id": "eb5ec21a-99a7-48a1-9b9c-0e4ba2b55b00",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-m-a-zulkawsar/",
+      "imageId": "2a9f75e7-4174-44f6-9509-57e1f97bb000",
       "name": "Dr. M A Zulkawsar",
       "degree": "MBBS (Dhaka Medical Collage, K-39), MCPS (Otolaryngology & Head-Neck Surgery) BCPS (Dhaka)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
       "workplace": "Ex. Dhaka Medical Collage & BSMMU(Ex. PG Hospital)",
-      "info": "Zulkawsar Villa\nAddress: House # 709,Road # 04, Khanaikhali, Behind of firebrigade,North to BADC Godown & PBI Office, Natore\nVisiting Hour: 10am to 10pm (Only Friday & Saturday)\nAppointment: +8801711-437336\nCall Now",
+      "info": "Zulkawsar Villa Address: House # 709,Road # 04, Khanaikhali, Behind of firebrigade,North to BADC Godown & PBI Office, Natore Visiting Hour: 10am to 10pm (Only Friday & Saturday) Appointment: +8801711-437336 Call Now",
       "chamber": {
         "hospital": "Bangladesh ENT Hospital Ltd",
         "address": "3rd Floor, Navana Newbury Place, 4/1/A Sobahanbag, Mirpur Road, Dhaka",
         "visitingTime": "9am to 9pm (Closed: Friday & Saturday)",
-        "appointmentNumber": "+8801711-437336"
-      },
-      "id": "bc982ea5-6742-4237-ad9d-bdcee40815c3"
+        "appointmentNumber": "+8801711-437336Call Now"
+      }
     },
     {
+      "id": "b9d32b0e-1a65-4cf5-8cf1-b96c9255b860",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdullah-al-harun/",
+      "imageId": "c943a7a6-b5d1-4b5d-a598-9aa603e492ba",
       "name": "Dr. Md. Abdullah Al Harun",
       "degree": "MBBS (DMC), BCS (Health), FCPS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
       "workplace": "Associate Professor, ENTDhaka Medical College & Hospital (Ex)Consultant, ENTBangladesh ENT Hospital Limited",
-      "info": "Authentic Diagnostic & Consultation Center\nAddress: House # 71/4, Hoseni Dalan Road, Chankharpul, Dhaka\nVisiting Hour: 2.30pm to 4pm (Saturday & Wednesday)\nAppointment: +8801841715269\nCall Now",
+      "info": "Authentic Diagnostic & Consultation Center Address: House # 71/4, Hoseni Dalan Road, Chankharpul, Dhaka Visiting Hour: 2.30pm to 4pm (Saturday & Wednesday) Appointment: +8801841715269 Call Now",
       "chamber": {
         "hospital": "Bangladesh ENT Hospital Ltd",
         "address": "Navana Newbury Place (4th Floor), 4/1/A Sobahanbag, Mirpur Road, Dhaka",
         "visitingTime": "Sat, Mon & Wed (7pm to 10pm), Tuesday (2.30pm to 3.30pm )",
-        "appointmentNumber": "+8809666710710"
-      },
-      "id": "d5496e56-1634-4a7d-9232-d7a6b2781f44"
+        "appointmentNumber": "+8809666710710Call Now"
+      }
     },
     {
+      "id": "eaeac7a3-cc58-4ae8-98b0-8ffedf4c3aae",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahriar-arafat-shourav/",
+      "imageId": "f694cbe8-b52c-473e-8cec-9df0513df97f",
       "name": "Dr. Md. Shahriar Arafat (Shourav)",
       "degree": "MBBS, BCS (Health), MCPS (ENT), FCPS (ENT), MS (ENT), FACS (USA)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -52,11 +65,14 @@
         "hospital": "BRB Hospital, Dhaka",
         "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
         "visitingTime": "5pm to 9pm (Sat, Mon & Wed), 3pm to 6pm (Tue & Thu), 7pm to 9pm (Fri)",
-        "appointmentNumber": "+8801777764800"
-      },
-      "id": "05a4e01a-9910-40a3-a1cd-edd789602f44"
+        "appointmentNumber": "+8801777764800Call Now"
+      }
     },
     {
+      "id": "13bca321-cde1-4525-8a1d-46f9f6b322be",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-nazmul-islam/",
+      "imageId": "d3f7aad1-4f5f-435d-b525-8037f6397169",
       "name": "Prof. Dr. Md. Nazmul Islam",
       "degree": "MBBS, MS (ENT), MPH",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -66,25 +82,31 @@
         "hospital": "Medinova Medical Services, Malibagh",
         "address": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
         "visitingTime": "6pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801716410062"
-      },
-      "id": "990bb7ba-fc61-46ee-85a0-097653c52804"
+        "appointmentNumber": "+8801716410062Call Now"
+      }
     },
     {
+      "id": "e7dc195f-8473-47a4-a2f0-0292d87257fa",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/lt-col-dr-momin-uddin-kallol/",
+      "imageId": "296e42dc-35cb-47ec-9339-8900976d3151",
       "name": "Asso. Prof. Dr. Lt. Col. Md. Momin Uddin Kallol",
       "degree": "MBBS (SSMC), FCPS (ENT), DLO, MCPS, FICS (USA)",
       "specialty": "ENT Specialist & Head Neck Cancer SurgeonSuper Specialty in Thyroid, Tongue, Tonsil & Oral Cavity Cancer Surgery",
       "workplace": "Bangladesh Navy Hospital, ChittagongFormer Classified ENT SpecialistCombined Military Hospital (CMH), Dhaka17 Years of Experience",
-      "info": "Islami Bank Hospital, Chittagong\nAddress: 3, Sheikh Mujib Road, Agrabad, Chittagong\nVisiting Hour: 3pm to 5pm (Closed: Friday)\nAppointment: +8801772928701, +8801795551160\nCall Now",
+      "info": "Islami Bank Hospital, Chittagong Address: 3, Sheikh Mujib Road, Agrabad, Chittagong Visiting Hour: 3pm to 5pm (Closed: Friday) Appointment: +8801772928701, +8801795551160 Call Now",
       "chamber": {
         "hospital": "Chevron Clinical Laboratory, Patenga",
         "address": "Opposite to Navy Hospital Gate, Patenga, Chittagong",
         "visitingTime": "7pm to 8.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801772928701, +8801795551160"
-      },
-      "id": "2569ff78-a770-4723-904f-47213a2e794b"
+        "appointmentNumber": "+8801772928701, +8801795551160Call Now"
+      }
     },
     {
+      "id": "68bd4639-1030-4bea-bdeb-d5829df0f4e0",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-pran-gopal-datta/",
+      "imageId": "a6efcb62-255d-493e-b5e3-6581ed246add",
       "name": "Prof. Dr. Pran Gopal Datta",
       "degree": "MBBS, MCPS, MS (Otolaryngology), PhD, MSc (Audiology), FRCS (Glasgow), FCPS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -94,11 +116,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "8am to 11am (Sat, Sun, Mon & Wed)",
-        "appointmentNumber": "+8801966010138Prof. Dr. Pran Gopal Datta এর চেম্বার গত ১৩ আগস্ট ২০২৪ তারিখ থেকে বন্ধ রয়েছে। Prof. Dr. Pran Gopal Datta খুব শীঘ্রই যথারীতি নিয়মে চেম্বারে রোগী দেখা শুরু করবেন।"
-      },
-      "id": "4fc94ef9-9c9a-447a-8535-8266c3e49706"
+        "appointmentNumber": "+8801966010138Prof. Dr. Pran Gopal Datta এর চেম্বার গত ১৩ আগস্ট ২০২৪ তারিখ থেকে বন্ধ রয়েছে। Prof. Dr. Pran Gopal Datta খুব শীঘ্রই যথারীতি নিয়মে চেম্বারে রোগী দেখা শুরু করবেন।Call Now"
+      }
     },
     {
+      "id": "921e6f1d-1ffa-475a-bcc2-9a2d0f0d727e",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-kamrul-hassan-tarafder/",
+      "imageId": "d7df8d2e-75eb-4598-b409-574cd1be4454",
       "name": "Prof. Dr. Kamrul Hasan Tarafder",
       "degree": "MBBS, FCPS (ENT), FICS (USA), FACS (USA), FRCS (UK)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -108,11 +133,14 @@
         "hospital": "Taqwa Specialized Hospital, Dhaka",
         "address": "15 New Eskaton Road, Moghbazar, Dhaka - 1000",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801823025304"
-      },
-      "id": "b2617760-2a52-4686-a86a-9322aa78a50d"
+        "appointmentNumber": "+8801823025304Call Now"
+      }
     },
     {
+      "id": "dc5e946b-1f09-4144-8a3a-5117f8efe3c8",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-a-matin/",
+      "imageId": "35ceb841-3646-4c40-923d-662b99cc9540",
       "name": "Prof. Dr. M. A. Matin",
       "degree": "MBBS (DMC), DLO (London), FRCS (England), FRCS (Edinburgh), FRCS (Glasgow), FACS (USA)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -122,11 +150,14 @@
         "hospital": "Bangladesh ENT Hospital Ltd",
         "address": "3rd Floor, Navana Newbury Place, 4/1/A Sobahanbag, Mirpur Road, Dhaka - 1207",
         "visitingTime": "3pm to 6pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666710710"
-      },
-      "id": "0f860d04-bda7-4884-88e2-54a1656b55b8"
+        "appointmentNumber": "+8809666710710Call Now"
+      }
     },
     {
+      "id": "da3be5b4-52eb-4198-9bef-84b03de6a299",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-sheikh-hasanur-rahman/",
+      "imageId": "50f00049-e00c-4c93-858e-150cac4d112f",
       "name": "Prof. Dr. Sheikh Hasanur Rahman",
       "degree": "MBBS, FCPS (ENT), MS (ENT)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -136,11 +167,14 @@
         "hospital": "Popular Diagnostic Center, Shantinagar",
         "address": "Unit # 01, House # 11, Shantinagar, Motijheel, Dhaka",
         "visitingTime": "4pm to 6pm (Sat, Mon, Wed & Thursday)",
-        "appointmentNumber": "+8809666787803"
-      },
-      "id": "1ea377af-a008-4ca9-8c62-05469bfb2879"
+        "appointmentNumber": "+8809666787803Call Now"
+      }
     },
     {
+      "id": "ca4d3924-e603-4019-bcd9-289a6ce3d1b1",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-abm-khorshed-alam/",
+      "imageId": "74409763-0800-4036-a97a-0bb9fbaad2fc",
       "name": "Prof. Dr. ABM Khorshed Alam",
       "degree": "MBBS, FCPS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -150,25 +184,31 @@
         "hospital": "Ibn Sina Diagnostic Center, Lalbagh",
         "address": "27/4 Dhakeshwori Road, Lalbagh, Dhaka",
         "visitingTime": "6pm to 7.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801783356048"
-      },
-      "id": "ffbcf03a-afe1-4914-a12c-b3d005e4527d"
+        "appointmentNumber": "+8801783356048Call Now"
+      }
     },
     {
+      "id": "ac702aeb-cf86-4ebc-9cc1-4475354017b8",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-abu-yusuf-fakir/",
+      "imageId": "bf6f5e2b-7e80-4186-8444-f1ecc9dfc4d5",
       "name": "Prof. Dr. Md. Abu Yusuf Fakir",
       "degree": "MBBS, DLO, MS (ENT), FCPS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Dhanmondi\nAddress: House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205\nVisiting Hour: 10am to 12pm (Closed: Thu & Friday)\nAppointment: +8809666787801\nCall Now",
+      "info": "Popular Diagnostic Center, Dhanmondi Address: House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205 Visiting Hour: 10am to 12pm (Closed: Thu & Friday) Appointment: +8809666787801 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Shantinagar",
         "address": "Unit # 02, House # 15, Shantinagar, Motijheel, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Thus & Friday)",
-        "appointmentNumber": "+8809666787803"
-      },
-      "id": "c23be4a6-d7cd-431f-b022-996b7c3cd5c0"
+        "appointmentNumber": "+8809666787803Call Now"
+      }
     },
     {
+      "id": "72ee2d9c-b7da-497b-9129-f83660c633ce",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-abu-hanif/",
+      "imageId": "063a0277-c20f-4fde-9677-be7a71db8324",
       "name": "Prof. Dr. Md. Abu Hanif",
       "degree": "MBBS, DLO, FCPS (ENT), Micro-Ear Surgery (Bombay), FESS (Delhi)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -178,11 +218,14 @@
         "hospital": "Central Hospital, Dhanmondi",
         "address": "House # 02, Road # 05, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8802-41060800"
-      },
-      "id": "06ec009c-259b-40b5-8f6a-e1451d8ce45e"
+        "appointmentNumber": "+8802-41060800Call Now"
+      }
     },
     {
+      "id": "59bde0d6-28c8-409d-a8f9-06ccdad12a30",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-monjurul-alam/",
+      "imageId": "5ea10634-007b-4d9b-a583-3610a213b8e3",
       "name": "Prof. Dr. Md. Monjurul Alam",
       "degree": "MBBS, FCPS (ENT), MS (ENT), FICS (USA), FESS (India)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -192,25 +235,31 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "5pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "3cb99a2d-0854-4f30-bbb2-3e24f1135a1a"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "0d20f78c-2c9f-423c-b3e7-247348b43e19",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdus-sattar/",
+      "imageId": "ca4e25ba-4fbc-4770-8021-43f186bbd74d",
       "name": "Prof. Dr. Md. Abdus Sattar",
       "degree": "MBBS, DLO, FCPS (ENT), MS (ENT), Head Neck Fellow (USA), Higher Training (India, USA)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Islami Bank Hospital, Motijheel\nAddress: 24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka\nVisiting Hour: 6pm to 8pm (Closed: Thu & Friday)\nAppointment: +8801727666741\nCall Now",
+      "info": "Islami Bank Hospital, Motijheel Address: 24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka Visiting Hour: 6pm to 8pm (Closed: Thu & Friday) Appointment: +8801727666741 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Doyagonj",
         "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
         "visitingTime": "3pm to 6pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801878115751"
-      },
-      "id": "cbf50e59-7564-47e4-88ea-fcd9e8dee9e9"
+        "appointmentNumber": "+8801878115751Call Now"
+      }
     },
     {
+      "id": "47dbfbed-bd84-4e8d-9640-c6aa8b48584b",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-sk-nurul-fattah-rumi/",
+      "imageId": "97f7ef33-0cf7-4e23-a0ac-6f3c721e4ccc",
       "name": "Prof. Dr. SK Nurul Fattah Rumi",
       "degree": "MBBS (DMC), DLO, MS (ENT)",
       "specialty": "Ear, Nose, Throat, Head-Neck Specialist & Surgeon",
@@ -220,11 +269,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "5.30pm to 8.30pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "31cee3d2-3886-41be-a02f-e98f05a4ba7c"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "d632f84a-c4a1-4213-a6d9-2de5c16a61ed",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-s-m-khorshed-mazumder/",
+      "imageId": "35e86e73-2a5a-452f-9d32-5cb01d299c73",
       "name": "Prof. Dr. S.M. Khorshed Mazumder",
       "degree": "MBBS, FCPS (ENT), MS (ENT), FRCS (UK)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -234,11 +286,14 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "4pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801919545058"
-      },
-      "id": "f61039ea-de5d-4c75-90f9-116c8aa7112d"
+        "appointmentNumber": "+8801919545058Call Now"
+      }
     },
     {
+      "id": "bea940d0-c872-4476-a5a0-c82261a373e3",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-a-f-mohiuddin-khan/",
+      "imageId": "32cdb123-0bb3-4c8a-9ae5-67dfc5a11fd3",
       "name": "Prof. Dr. A.F. Mohiuddin Khan",
       "degree": "MBBS, DLO (DU), MS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -248,25 +303,31 @@
         "hospital": "Japan Bangladesh Friendship Hospital",
         "address": "55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi",
         "visitingTime": "5pm to 8.30pm (Sat, Sun, Mon, Tue & Fri), 8.30am to 1pm (Wed & Thu)",
-        "appointmentNumber": "+8801819214831"
-      },
-      "id": "f7d8f1ce-a4b2-4d42-aa8d-29a631540e8b"
+        "appointmentNumber": "+8801819214831Call Now"
+      }
     },
     {
+      "id": "cfed0477-91a2-4acd-9d75-d741a11218d3",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-zillur-rahman/",
+      "imageId": "48168b1a-95c8-415f-9cad-011771ea6e9f",
       "name": "Prof. Dr. Md. Zillur Rahman",
       "degree": "MBBS, FCPS (ENT), MS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
       "workplace": "Ibn Sina Medical College & Hospital",
-      "info": "Evercare Hospital, Dhaka\nAddress: Plot # 81, Block # E, Bashundhara R/A, Dhaka\nVisiting Hour: Unknown. Please call.\nAppointment: 10678\nCall Now",
+      "info": "Evercare Hospital, Dhaka Address: Plot # 81, Block # E, Bashundhara R/A, Dhaka Visiting Hour: Unknown. Please call. Appointment: 10678 Call Now",
       "chamber": {
         "hospital": "Bangladesh ENT Hospital Ltd",
         "address": "3rd Floor, Navana Newbury Place, 4/1/A Sobahanbag, Mirpur Road, Dhaka - 1207",
         "visitingTime": "11am to 2pm & 6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801717250667"
-      },
-      "id": "f4fb7ad3-dea1-4ff4-95db-42bc4532bb34"
+        "appointmentNumber": "+8801717250667Call Now"
+      }
     },
     {
+      "id": "c84fecad-24bc-4f33-80bf-c71c84fe81c7",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-ashraful-islam/",
+      "imageId": "8ca590a8-e577-47ec-8670-f77539a26810",
       "name": "Prof. Dr. Md. Ashraful Islam",
       "degree": "MBBS, FCPS (ENT), FICS (USA)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -276,39 +337,48 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "a644e50b-ba66-4fb4-8d58-6d95130f13e4"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "b738768c-d0bc-4077-97e5-6326e8ba921d",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/lt-col-prof-dr-md-abdullah-hel-kafi/",
+      "imageId": "dbf0845d-fa4f-4b9e-aa88-3a4b61e1f5e1",
       "name": "Lt. Col. Prof. Dr. Md. Abdullah Hel Kafi",
       "degree": "MBBS, MCPS (ENT), FCPS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
       "workplace": "Ibn Sina Medical College & Hospital",
-      "info": "Medinova Medical Services, Dhanmondi\nAddress: House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka\nVisiting Hour: 6pm to 9pm (Closed: Thursday & Friday)\nContact Number: 10658\nCall Now",
+      "info": "Medinova Medical Services, Dhanmondi Address: House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka Visiting Hour: 6pm to 9pm (Closed: Thursday & Friday) Contact Number: 10658 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "4pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "924178ae-0d57-453b-9d1a-b97ba32f7b17"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "cb3069e8-ab9c-4134-be8f-c2726e96988e",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-col-mohammad-delwar-hossain/",
+      "imageId": "10fa6e75-793f-4290-b91c-2da50dae13a4",
       "name": "Prof. Dr. Col. Mohammad Delwar Hossain",
       "degree": "MBBS, FCPS (ENT), DLO, MCPS (ENT), FRCS (England), FRCS (Glasgow)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
       "workplace": "Combined Military Hospital (CMH), Dhaka",
-      "info": "Popular Diagnostic Center, Mirpur\nAddress: Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka\nVisiting Hour: 7pm to 10pm (Closed: Friday)\nAppointment: +8809666787807\nCall Now",
+      "info": "Popular Diagnostic Center, Mirpur Address: Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka Visiting Hour: 7pm to 10pm (Closed: Friday) Appointment: +8809666787807 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
         "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
         "visitingTime": "4pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787805"
-      },
-      "id": "55967344-d672-4864-a606-f2e8569ab10a"
+        "appointmentNumber": "+8809666787805Call Now"
+      }
     },
     {
+      "id": "58ee64dd-ca70-4b66-90f3-a06e59306479",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-shaheeduzzaman/",
+      "imageId": "80262ed5-d809-4de6-a1d0-83f56ebe7666",
       "name": "Prof. Dr. Md. Shaheeduzzaman",
       "degree": "MBBS, DLO (DU), WHO Fellow (Bangkok)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -318,11 +388,14 @@
         "hospital": "Al-Markazul Islami (AMI) Hospital",
         "address": "21/17, Babar Road, Mohammadpur, Dhaka 1207",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801715153599 "
-      },
-      "id": "fb1d564e-02ab-4eb8-8b61-56fc71046783"
+        "appointmentNumber": "+8801715153599 Call Now"
+      }
     },
     {
+      "id": "4a8b8b17-03a9-44a5-b63e-f4c4a6e9457f",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-kazi-shah-alam/",
+      "imageId": "0baf2219-c045-4296-856c-980f765b659b",
       "name": "Prof. Dr. Kazi Shah Alam",
       "degree": "MBBS (Dhaka), DLO, FCPS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -332,53 +405,65 @@
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "6pm to 9pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "9a7ef070-a8ec-4880-8bed-5e67e8010d1c"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
+      "id": "d239c15c-3b0f-4547-aada-58829cd825c6",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-alamgir-chowdhury/",
+      "imageId": "b8f96ebb-955d-4a1e-990c-2df4ed47c7c4",
       "name": "Prof. Dr. M. Alamgir Chowdhury",
       "degree": "MBBS, DLO, MS (ENT), FICS (USA)",
       "specialty": "Ear, Nose & Throat Specialist & Head Neck Surgeon",
       "workplace": "Anwer Khan Modern Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Uttara (Jasimuddin)\nAddress: House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka\nVisiting Hour: 5pm to 7pm (Only Friday)\nAppointment: +8809666787805\nCall Now",
+      "info": "Popular Diagnostic Center, Uttara (Jasimuddin) Address: House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka Visiting Hour: 5pm to 7pm (Only Friday) Appointment: +8809666787805 Call Now",
       "chamber": {
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "10am to 1pm & 5pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801919222182"
-      },
-      "id": "2e49b1ee-924c-4a91-a96e-b6b52a173b36"
+        "appointmentNumber": "+8801919222182Call Now"
+      }
     },
     {
+      "id": "654b3df4-945d-44fc-bc40-960aae203d34",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-khabiruddin-ahmed/",
+      "imageId": "aaabb8df-4361-4592-ad30-1ec6d406fa21",
       "name": "Prof. Dr. Khabiruddin Ahmed",
       "degree": "MBBS, FCPS (ENT), FICS (USA)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
       "workplace": "Shaheed Suhrawardy Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Dhanmondi\nAddress: House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205\nVisiting Hour: 1pm to 2:30pm (Closed: Friday)\nAppointment: +8809666787801\nCall Now",
+      "info": "Popular Diagnostic Center, Dhanmondi Address: House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205 Visiting Hour: 1pm to 2:30pm (Closed: Friday) Appointment: +8809666787801 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Medical Imaging Center, Zigatola",
         "address": "House # 58, Road # 2A, Zigatola Bus Stand, Dhaka - 1209",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801711625173"
-      },
-      "id": "58d464a9-00fa-4c0f-9a46-2df97ff59b8a"
+        "appointmentNumber": "+8801711625173Call Now"
+      }
     },
     {
+      "id": "e096d279-80cd-40c9-b380-224ef655132b",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-azharul-islam/",
+      "imageId": "5a6d4eca-931a-4495-bfb6-c3b45efe3a8b",
       "name": "Prof. Dr. Md. Azharul Islam",
       "degree": "MBBS, FCPS (ENT), FICS (USA)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Alex Diagnostic Center\nAddress: 214, Outer Circular Road, Moghbazar, Dhaka – 1217\nVisiting Hour: 6pm to 9pm (Sun & Tue)\nAppointment: +8801719-219429\nCall Now",
+      "info": "Alex Diagnostic Center Address: 214, Outer Circular Road, Moghbazar, Dhaka – 1217 Visiting Hour: 6pm to 9pm (Sun & Tue) Appointment: +8801719-219429 Call Now",
       "chamber": {
         "hospital": "Super Medical Hospital, Savar",
         "address": "Near Razzak Plaza, B-119/3, Jaleshwar, Savar, Dhaka",
         "visitingTime": "2pm to 8pm (Wednesday)",
-        "appointmentNumber": "+8801711266169"
-      },
-      "id": "a6a197b9-a52d-4e86-9237-57f3f351f182"
+        "appointmentNumber": "+8801711266169Call Now"
+      }
     },
     {
+      "id": "4e7922c8-8118-4580-946a-574b8a24db2a",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-wahiduzzaman/",
+      "imageId": "f86024a5-95f0-49b3-bfe3-f67acd18feb5",
       "name": "Dr. Md. Wahiduzzaman",
       "degree": "MBBS, FCPS (ENT), MS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -388,11 +473,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "7.30pm to 9.30pm (Closed: Wednesday & Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "63d9b64f-0989-41af-825a-8c0508cf1a61"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "193de96b-8300-4b8b-bb6a-fb82502246eb",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-mosleh-uddin/",
+      "imageId": "6760ae5c-c4af-4a8d-8d82-0f8f2867bb19",
       "name": "Prof. Dr. Md. Mosleh Uddin",
       "degree": "MBBS, MCPS, MS (ENT), Higher Training (India, Philippines & USA)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -402,11 +490,14 @@
         "hospital": "Popular Diagnostic Center, Mirpur",
         "address": "Unit 02, House # 02, Block # A, Section # 10, Mirpur, Dhaka",
         "visitingTime": "5:30pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787807"
-      },
-      "id": "b4b566d1-7f29-4ba1-ad92-6cd248590cc7"
+        "appointmentNumber": "+8809666787807Call Now"
+      }
     },
     {
+      "id": "a9a7cff7-1aa7-4054-bede-dd6b149f26a8",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-mohammad-abdullah/",
+      "imageId": "5e506055-8d9c-471a-8de6-a2f9181104ab",
       "name": "Prof. Dr. Mohammad Abdullah",
       "degree": "MBBS, FCPS (ENT), FICS (USA)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -416,11 +507,14 @@
         "hospital": "Bangladesh ENT Hospital Ltd",
         "address": "Navana Newbury Place (3rd Floor), 4/1/A Sobahanbag, Mirpur Road, Dhaka",
         "visitingTime": "5pm to 7pm (Friday & Govt. Holidays are Closed)",
-        "appointmentNumber": "+8809666710710"
-      },
-      "id": "8f57f67d-2da8-488f-97e1-3d0c2d92af0b"
+        "appointmentNumber": "+8809666710710Call Now"
+      }
     },
     {
+      "id": "0dee005f-89ce-42bf-b7a9-95264e1e78ec",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-bashudeb-kumar-saha/",
+      "imageId": "7fcfa3a3-676c-4d2a-9ce6-7f8b7c46b5ee",
       "name": "Dr. Bashudeb Kumar Saha",
       "degree": "MBBS, MS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -430,11 +524,14 @@
         "hospital": "Malleus ENT Specialized Hospital",
         "address": "24/1, Shan Tower, 4th Floor, Shantinagar, Dhaka - 1217",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801324-254499"
-      },
-      "id": "55acb55e-7301-49b6-a109-205fc800f6d5"
+        "appointmentNumber": "+8801324-254499Call Now"
+      }
     },
     {
+      "id": "9f645257-921b-4c7e-9acc-61b0b227837d",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-zakaria-sarker/",
+      "imageId": "cf83a5ae-ef34-44b4-a418-523540cb1b61",
       "name": "Prof. Dr. Md. Zakaria Sarker",
       "degree": "MBBS, BCS (Health), DLO, MS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -444,39 +541,48 @@
         "hospital": "Aalok Healthcare & Hospital, Mirpur 10",
         "address": "House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka",
         "visitingTime": "7.30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801915448491"
-      },
-      "id": "69b9fd94-2f5b-4cdb-9916-190ad41e6b17"
+        "appointmentNumber": "+8801915448491Call Now"
+      }
     },
     {
+      "id": "391dd4f2-6754-4422-b6ba-27550c2b49eb",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-azizul-hoque-manik/",
+      "imageId": "7f87a6cf-787f-47d6-a3c6-691dda172c23",
       "name": "Dr. Md. Azizul Hoque Manik",
       "degree": "MBBS, BCS (Health), DLO, MCPS, FCPS (ENT), Fellowship Trainee (Head Neck Surgery)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Popular Medical Center & Hospital, Sylhet\nAddress: Subhanighat, Sylhet\nVisiting Hour: 6.30pm to 8pm (Only Wednesday)\nAppointment: +8801773035138\nCall Now",
+      "info": "Popular Medical Center & Hospital, Sylhet Address: Subhanighat, Sylhet Visiting Hour: 6.30pm to 8pm (Only Wednesday) Appointment: +8801773035138 Call Now",
       "chamber": {
         "hospital": "SIBL Foundation Hospital & Diagnostic Center",
         "address": "Fattah Plaza, 70, Green Road, Panthapath, Dhaka - 1205",
         "visitingTime": "4pm to 6pm (Saturday to Tuesday)",
-        "appointmentNumber": "+8801750-905927"
-      },
-      "id": "8f96e9dc-f3c5-44c9-b757-e606e0b7e24b"
+        "appointmentNumber": "+8801750-905927Call Now"
+      }
     },
     {
+      "id": "bb07bce1-c817-494b-bda5-943d9959d98d",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-abul-hossan/",
+      "imageId": "3c7a5f76-4b56-47c1-80b3-95672e61f7b2",
       "name": "Dr. Md. Abul Hossan",
       "degree": "MBBS, FCPS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
       "workplace": "Uttara Adhunik Medical College & Hospital",
-      "info": "Ahsania Mission Cancer & General Hospital\nAddress: Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka\nVisiting Hour: 2pm to 5pm (Sat, Mon & Wed)\nAppointment: 10617\nCall Now",
+      "info": "Ahsania Mission Cancer & General Hospital Address: Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka Visiting Hour: 2pm to 5pm (Sat, Mon & Wed) Appointment: 10617 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "4pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "560144bf-bffb-4d17-93b9-7a591491c433"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "e51e728b-a506-4bad-9101-b1090730cf68",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-kanu-lal-saha/",
+      "imageId": "e9a52e8f-f07f-4aef-b677-39df7efbfa68",
       "name": "Dr. Kanu Lal Saha",
       "degree": "MBBS, FCPS (ENT), MS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -486,11 +592,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "Room - 329, 32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801757303808"
-      },
-      "id": "5194d078-6049-4c97-872e-c5dcab760ab7"
+        "appointmentNumber": "+8801757303808Call Now"
+      }
     },
     {
+      "id": "82a82868-31ea-4b85-99e7-15820c36b9a2",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-a-f-m-ekramuddaula/",
+      "imageId": "f2502618-8027-4f2f-8c58-5dfc66733e89",
       "name": "Dr. AFM Ekramuddaula",
       "degree": "MBBS, FCPS (ENT), MS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -500,25 +609,31 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10678"
-      },
-      "id": "fe73c398-85d2-46c7-ba03-f6eb88c24425"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "900f89a9-3371-4f6a-846a-dcc1a33c421d",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-naseem-yasmeen/",
+      "imageId": "ab1b1280-4266-4a05-a2d8-ff7837e27766",
       "name": "Prof. Dr. Naseem Yasmeen",
       "degree": "MBBS, DLO, FCPS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
       "workplace": "Medical College for Women & Hospital",
-      "info": "Islami Bank Specialized & General Hospital, Nayapaltan\nAddress: 71-72, VIP Road, Nayapaltan, Dhaka\nVisiting Hour: 7pm to 8pm (Closed: Friday)\nAppointment: +8801977552283\nCall Now",
+      "info": "Islami Bank Specialized & General Hospital, Nayapaltan Address: 71-72, VIP Road, Nayapaltan, Dhaka Visiting Hour: 7pm to 8pm (Closed: Friday) Appointment: +8801977552283 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
         "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
         "visitingTime": "2pm to 4pm (Sat to Thu) & 5pm to 7pm (Fri) (Closed: Wed)",
-        "appointmentNumber": "+8809666787805"
-      },
-      "id": "4d05f673-5566-4a17-8061-841e35747f3e"
+        "appointmentNumber": "+8809666787805Call Now"
+      }
     },
     {
+      "id": "7526f507-7e65-411c-9f43-2edeabf1cf01",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-ahmed-minhaz-sumon/",
+      "imageId": "64e02571-d99c-4e19-847d-02f2e1392a86",
       "name": "Prof. Dr. Ahmed Minhaz Shumon",
       "degree": "MBBS, DLO, FCPS (ENT), MCPS",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -528,39 +643,48 @@
         "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
         "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
         "visitingTime": "6:30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787805"
-      },
-      "id": "b68adf1c-009c-4710-a227-4d729b76599b"
+        "appointmentNumber": "+8809666787805Call Now"
+      }
     },
     {
+      "id": "760a109e-4cc7-4ce6-bbeb-a155b0fe6613",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-brig-gen-md-abdul-mannan/",
+      "imageId": "3a360c43-ece5-44ea-99d0-365b33991a78",
       "name": "Prof. Dr. Brig. Gen. Md. Abdul Mannan",
       "degree": "MBBS, FCPS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
       "workplace": "Armed Forces Medical College, Dhaka",
-      "info": "Islami Bank Hospital, Mirpur\nAddress: Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216\nVisiting Hour: 11am to 1pm (Closed: Friday)\nAppointment: +8801992346632\nCall Now",
+      "info": "Islami Bank Hospital, Mirpur Address: Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216 Visiting Hour: 11am to 1pm (Closed: Friday) Appointment: +8801992346632 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Mirpur",
         "address": "Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka",
         "visitingTime": "10am to 11am (Closed: Monday & Friday)",
-        "appointmentNumber": "+8809666787807"
-      },
-      "id": "fb6486d6-1614-4d3d-9875-1db6905010bc"
+        "appointmentNumber": "+8809666787807Call Now"
+      }
     },
     {
+      "id": "729f1e70-8f6b-481a-9ab1-5c8336a6d80d",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-firoz-ahmed-khan/",
+      "imageId": "6db6b7a7-4087-4dee-8fbe-a761afb8244d",
       "name": "Prof. Dr. Firoz Ahmed Khan",
       "degree": "MBBS, FCPS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
       "workplace": "Uttara Adhunik Medical College & Hospital",
-      "info": "Uttara Crescent Diagnostic & Consultation Center\nAddress: House # 16, Sector # 7, Rabindra Sarani, Uttara, Dhaka – 1230\nVisiting Hour: 4pm to 6pm (Closed: Friday)\nAppointment: +8809666710665\nCall Now",
+      "info": "Uttara Crescent Diagnostic & Consultation Center Address: House # 16, Sector # 7, Rabindra Sarani, Uttara, Dhaka – 1230 Visiting Hour: 4pm to 6pm (Closed: Friday) Appointment: +8809666710665 Call Now",
       "chamber": {
         "hospital": "Labaid Diagnostic, Uttara (Unit 01)",
         "address": "House # 15, Road # 12, Sector # 06, Uttara, Dhaka",
         "visitingTime": "5pm to 6.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662606"
-      },
-      "id": "5cd208f0-ce2f-46a0-bcdc-b6496973146d"
+        "appointmentNumber": "+8801766662606Call Now"
+      }
     },
     {
+      "id": "ba9bbbdc-0d41-4d31-a06b-a40e0b3137d9",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-delwar-hossain/",
+      "imageId": "90874088-5143-43f7-a6fc-4a88ecba75bb",
       "name": "Dr. Delwar Hossain",
       "degree": "MBBS, FCPS (ENT)",
       "specialty": "Microear & Cochlear Implant Surgeon",
@@ -570,11 +694,14 @@
         "hospital": "Health and Hope Hospital",
         "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809611996699"
-      },
-      "id": "b5c98ca4-f38d-406d-bc39-4f1cce0f6673"
+        "appointmentNumber": "+8809611996699Call Now"
+      }
     },
     {
+      "id": "666acb5c-2c4a-41a6-ae92-4e73818819ea",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-abu-naser-md-jamil/",
+      "imageId": "c777ac7a-4c00-4cf1-9315-8602b52fd190",
       "name": "Dr. Abu Naser Mohammad Jamil",
       "degree": "MBBS, FCPS (ENT).",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -584,11 +711,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Savar",
         "address": "31/6 Jaleshwar, Aricha Road, Savar, Dhaka - 1340",
         "visitingTime": "4pm to 7pm (Closed: Thursday)",
-        "appointmentNumber": "+88 09610009613"
-      },
-      "id": "219a163c-33d8-4c8b-96b6-6dc62b9fe31d"
+        "appointmentNumber": "+88 09610009613Call Now"
+      }
     },
     {
+      "id": "90cd6918-576c-4d29-a19b-30192b7923a9",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-m-muinul-hafiz/",
+      "imageId": "0285c724-a1ba-48fe-a426-6d09fcf17f46",
       "name": "Dr. M. Muinul Hafiz",
       "degree": "MBBS, DAND, DLO, MS (ENT), FICS, FACS (USA)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Laser Surgeon",
@@ -598,11 +728,14 @@
         "hospital": "ENT Care Center",
         "address": "Sanmar Tower 2,13th Floor, House-38/A, Road-35, Gulshan-2, Dhaka",
         "visitingTime": "10am to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8801727346715"
-      },
-      "id": "b3a005a5-3d3b-454d-885f-535db15204bb"
+        "appointmentNumber": "+8801727346715Call Now"
+      }
     },
     {
+      "id": "82f32990-f52a-4567-bc39-8dc37c11ec2a",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahmudul-hasan-khan/",
+      "imageId": "c6ffbd1d-5705-4622-bce1-7ba4531d093f",
       "name": "Dr. Md. Mahmudul Hasan Khan",
       "degree": "MBBS (DMC), FCPS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -612,25 +745,31 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "3pm to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "bf6a8d1f-1272-47c6-8656-ee5a9c338525"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "623bf2ee-6d46-4425-8530-f3cef73d2fb0",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-ahmed-tariq/",
+      "imageId": "f689bea9-7a2e-4a5f-a1a5-143290bd548e",
       "name": "Dr. Ahmed Tariq",
       "degree": "MBBS, BCS (Health), FCPS (ENT), MS (ENT)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
       "workplace": "Sir Salimullah Medical College & Mitford Hospital",
-      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, B.B. Road, Chashara, Narayanganj – 1400\nVisiting Hour: 4pm to 9pm (Sat, Mon & Wed)\nAppointment: +8809666787804\nCall Now",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, B.B. Road, Chashara, Narayanganj – 1400 Visiting Hour: 4pm to 9pm (Sat, Mon & Wed) Appointment: +8809666787804 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "5pm to 9pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "f3c011a6-3363-44dc-9acb-23b34765119f"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
+      "id": "b7293498-9fca-4daf-9359-7dc6874e2917",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-morshed-alam/",
+      "imageId": "8ab03861-8b5f-4d4d-b8c9-257056760b53",
       "name": "Dr. Md. Morshed Alam",
       "degree": "MBBS, MS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -640,11 +779,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "1ba1b21a-33f8-4ac4-8c8d-0dcdedc74ea9"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "4240c422-8c47-40bb-aeda-3ddb489ccead",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-mashiur-rahman/",
+      "imageId": "c59cac9d-ad1d-4af6-ac72-e9ce86c6dbde",
       "name": "Dr. Md. Mashiur Rahman",
       "degree": "MBBS, FCPS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -654,11 +796,14 @@
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "6pm to 9.30pm (Everyday)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "2ec4a696-bb09-4eb3-bf68-dc27fb4d16e7"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
+      "id": "2c19ed8b-3dfb-4dca-b431-ec602c4702af",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahjahan-kabir/",
+      "imageId": "173e9ecb-38ad-4190-9a5b-ec623cbe704e",
       "name": "Dr. Md. Shahjahan Kabir",
       "degree": "MBBS, FCPS (ENT), MS (ENT)",
       "specialty": "ENT Specialist & Surgeon",
@@ -668,11 +813,14 @@
         "hospital": "Popular Diagnostic Center, Savar",
         "address": "E/22, Talbagh, Anandapur, Savar, Dhaka",
         "visitingTime": "3:30pm to 6pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809666787808"
-      },
-      "id": "1acba2d7-2cc4-47d2-b5bf-e1b1112c76cf"
+        "appointmentNumber": "+8809666787808Call Now"
+      }
     },
     {
+      "id": "fc2cf8fb-5ceb-4151-bed6-03a5a2e6d91b",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/brig-gen-dr-ranjit-kumar-mistry/",
+      "imageId": "ad69d745-78d1-4269-a0ae-f5583d3e85d7",
       "name": "Brig. Gen. Prof. Dr. Ranjit Kumar Mistry",
       "degree": "MBBS, DLO, FCPS, MCPS",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -682,25 +830,31 @@
         "hospital": "Aalok Healthcare & Hospital, Mirpur 10",
         "address": "House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Mon & Friday)",
-        "appointmentNumber": "+8801915448491"
-      },
-      "id": "e6466c38-3e26-45f4-8f1d-37b8df314eb5"
+        "appointmentNumber": "+8801915448491Call Now"
+      }
     },
     {
+      "id": "753db99a-73a3-4d6b-a381-3354dfe9c46c",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-shafiul-akram/",
+      "imageId": "bea8bc1d-ab7e-44ee-b0ad-7013e1ad8fec",
       "name": "Dr. Md. Shafiul Akram",
       "degree": "MBBS, BCS (Health), MS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
       "workplace": "National Institute of ENT & Hospital",
-      "info": "Aalok Health Care, Pallabi\nAddress: 2/6 Begum Rokeya Avenue, Pallabi, Mirpur 11.5, Dhaka\nVisiting Hour: 8pm to 10pm (Closed: Friday)\nAppointment: +8801825002867\nCall Now",
+      "info": "Aalok Health Care, Pallabi Address: 2/6 Begum Rokeya Avenue, Pallabi, Mirpur 11.5, Dhaka Visiting Hour: 8pm to 10pm (Closed: Friday) Appointment: +8801825002867 Call Now",
       "chamber": {
         "hospital": "Mirpur General Hospital & Diagnostic Center",
         "address": "Plot - 10, Road - 4/5, Section - 12, Kalshi Road, Mirpur, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801764-792288"
-      },
-      "id": "4a8f704c-301a-4c68-920f-02fce7a818f8"
+        "appointmentNumber": "+8801764-792288Call Now"
+      }
     },
     {
+      "id": "34d5b271-e407-44c1-989a-17adc3432d70",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-brig-gen-ms-khurshid-alam/",
+      "imageId": "9cfc1c09-76a9-4d31-a88a-4371a9f548a3",
       "name": "Prof. Brig. Gen. MS Khurshid Alam",
       "degree": "MBBS, DLO (Vienna), FCPS (ENT), MAMS (Vienna)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -710,11 +864,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "7.30pm to 8.30pm (Closed: Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "3a79bf86-f3da-4c43-8f4d-3e2e2753e083"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "fe8f684d-dd55-4596-98dd-f5be53e0de68",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-tapas-chakraborty/",
+      "imageId": "7ce01adf-6e50-4663-8a26-ec20a543275f",
       "name": "Dr. Tapas Chakraborty",
       "degree": "MBBS, DLO, MCPS, FCPS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -724,53 +881,65 @@
         "hospital": "Popular Diagnostic Center, Shantinagar",
         "address": "Unit # 02, House # 15, Shantinagar, Motijheel, Dhaka",
         "visitingTime": "5pm to 6.30pm (Sat to Thu), 3pm to 4pm (Friday)",
-        "appointmentNumber": "+8809666787803"
-      },
-      "id": "1f49522e-0ec0-4d7b-9c1f-a0e056010178"
+        "appointmentNumber": "+8809666787803Call Now"
+      }
     },
     {
+      "id": "fb86cdef-00a5-446b-8c2a-ca8cc1a51b61",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/lt-col-dr-md-zakir-hossain/",
+      "imageId": "633f5e42-c420-4271-bbcf-c890c8968cfa",
       "name": "Lt Col Dr. Md. Zakir Hossain",
       "degree": "MBBS, MCPS, DLO, FCPS (ENT), FACS (USA), FRCS (Glasg)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
       "workplace": "Combined Military Hospital (CMH), Dhaka",
-      "info": "Labaid Diagnostic, Mirpur\nAddress: House # 06, Block # B, Section # 01, Mirpur, Dhaka\nVisiting Hour: 5pm to 7pm (Closed: Friday)\nAppointment: +8801766662888\nCall Now",
+      "info": "Labaid Diagnostic, Mirpur Address: House # 06, Block # B, Section # 01, Mirpur, Dhaka Visiting Hour: 5pm to 7pm (Closed: Friday) Appointment: +8801766662888 Call Now",
       "chamber": {
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "6pm to 9pm (Only Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "9afebe61-9300-4903-91ba-5557c4a704cb"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "c7098eab-c1c3-4c89-8c48-a25a3e3504c5",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-kazi-atikuzzaman/",
+      "imageId": "5f22fb86-e03b-4fd6-869f-2251d98139f5",
       "name": "Prof. Dr. Kazi Atikuzzaman",
       "degree": "MBBS, FCPS (ENT), Training (Ear Micro & Endoscopic Sinus Surgery)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
       "workplace": "Enam Medical College & Hospital",
-      "info": "Enam Medical College & Hospital\nAddress: 9/3 Parboti Nagar, Thana Road, Savar, Dhaka\nVisiting Hour: 8am to 2.30pm (Closed: Friday)\nAppointment: +8801716358146\nCall Now",
+      "info": "Enam Medical College & Hospital Address: 9/3 Parboti Nagar, Thana Road, Savar, Dhaka Visiting Hour: 8am to 2.30pm (Closed: Friday) Appointment: +8801716358146 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Lalbagh",
         "address": "27/4 Dhakeshwori Road, Lalbagh, Dhaka",
         "visitingTime": "7.30pm to 9.30pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801783356048"
-      },
-      "id": "660f3a68-25cc-4094-ac45-4e3cc97fe550"
+        "appointmentNumber": "+8801783356048Call Now"
+      }
     },
     {
+      "id": "c2d4c8b9-8d66-46eb-9c9a-861ad732a1f6",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-rokon-uddin-bhuiyan/",
+      "imageId": "0d151712-4209-4c18-a447-f549e41027ea",
       "name": "Dr. Mohammad Rokon Uddin Bhuiyan",
       "degree": "MBBS, BCS (Health), FCPS (ENT), MS (ENT)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
       "workplace": "Kurmitola General Hospital, Dhaka",
-      "info": "Dogma Hospital, Badda\nAddress: Cha 88/1, Pragati Sarani, Uttar Badda, Dhaka\nVisiting Hour: 2.30pm to 3.30pm (Closed: Friday)\nAppointment: +8801921088076\nCall Now",
+      "info": "Dogma Hospital, Badda Address: Cha 88/1, Pragati Sarani, Uttar Badda, Dhaka Visiting Hour: 2.30pm to 3.30pm (Closed: Friday) Appointment: +8801921088076 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "7.30pm to 9.30pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "55706f46-b45e-4f14-bf88-556ae3b4242a"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
+      "id": "a141d053-e9b0-42b9-80e3-878dfe38dbb3",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-abul-hasnat-joarder/",
+      "imageId": "d8ad9507-9a62-4a1e-97cc-8b45abd569a1",
       "name": "Prof. Dr. Md. Abul Hasnat Joarder",
       "degree": "MBBS, FCPS (ENT)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -780,11 +949,14 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801728621089"
-      },
-      "id": "d4eb1ecb-fbe9-4ac7-a3a5-efe8e882cf3b"
+        "appointmentNumber": "+8801728621089Call Now"
+      }
     },
     {
+      "id": "8bfcc6e3-0ea8-4981-a7a2-0b1674387eba",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/left-col-dr-md-iftekharul-alam/",
+      "imageId": "4c540e1d-cf8e-450a-b508-2dfe1e1e3a87",
       "name": "Left. Col. Dr. Md. Iftekharul Alam",
       "degree": "MBBS, DLO, MCPS (ENT), FCPS (ENT)",
       "specialty": "ENT, Head & Neck Surgery Specialist",
@@ -794,11 +966,14 @@
         "hospital": "Popular Diagnostic Center, Badda",
         "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka - 1212",
         "visitingTime": "5pm to 7pm (Everyday)",
-        "appointmentNumber": "+8809666787809"
-      },
-      "id": "da13a9fb-4649-4253-8d36-70c68761a065"
+        "appointmentNumber": "+8809666787809Call Now"
+      }
     },
     {
+      "id": "1be7e883-d212-4540-ac3a-5027a659afaa",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-sayed-farhan-ali-razib/",
+      "imageId": "8806e7e4-ada3-4642-bf23-32cc568be46b",
       "name": "Prof. Dr. Sayed Farhan Ali Razib",
       "degree": "MBBS, FCPS (ENT)",
       "specialty": "ENT Specialist & Surgeon",
@@ -808,11 +983,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Malibagh",
         "address": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801844141717"
-      },
-      "id": "dc22b54b-93c1-4c2a-962a-7c3d552ebec9"
+        "appointmentNumber": "+8801844141717Call Now"
+      }
     },
     {
+      "id": "b655f319-86cc-421e-94d4-2b1da3ca6866",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-zaheer-al-amin/",
+      "imageId": "198e6668-1378-4610-8ee3-ad97b2418561",
       "name": "Prof. Dr. Zaheer Al Amin",
       "degree": "MBBS (Dhaka), DLO (England), FRCS (Ireland), FRCS (Edinburgh)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -822,53 +1000,65 @@
         "hospital": "SIBL Foundation Hospital & Diagnostic Center",
         "address": "Fattah Plaza, 70, Green Road, Panthapath, Dhaka - 1205",
         "visitingTime": "5pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801718131633"
-      },
-      "id": "5d0d163c-b260-4b31-b152-82495c77d076"
+        "appointmentNumber": "+8801718131633Call Now"
+      }
     },
     {
+      "id": "174e2b5e-b9ec-49a0-b90d-cde0fe5928a9",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-neyamat-ullah-khan/",
+      "imageId": "056741b5-650a-4350-ad05-579e5a171020",
       "name": "Prof. Dr. Neyamat Ullah Khan",
       "degree": "MBBS, FCPS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
       "workplace": "MH Samorita Hospital & Medical College",
-      "info": "Farazy Hospital, Banasree\nAddress: House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka\nVisiting Hour: 7pm to 10pm (Sun, Tue, Thu & Fri)\nAppointment: +8801882084414\nCall Now",
+      "info": "Farazy Hospital, Banasree Address: House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka Visiting Hour: 7pm to 10pm (Sun, Tue, Thu & Fri) Appointment: +8801882084414 Call Now",
       "chamber": {
         "hospital": "Labaid Diagnostic, Badda",
         "address": "House # 04, Road # 10, Merul Badda, Dhaka",
         "visitingTime": "6pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801766660208"
-      },
-      "id": "2d7ed84a-9cf2-4f71-867d-d042993e84f4"
+        "appointmentNumber": "+8801766660208Call Now"
+      }
     },
     {
+      "id": "4e183717-065b-4515-80af-30125b4d5d65",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-utpal-kumar-datta/",
+      "imageId": "f9165be2-fe99-40f9-a3d4-60d33da599c2",
       "name": "Dr. Utpal Kumar Datta",
       "degree": "MBBS, BCS (Health), MS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
       "workplace": "National Institute of ENT & Hospital",
-      "info": "Modern Diagnostic Center, Narayanganj\nAddress: 207, Bangabandhu Road, Chashara, Narayanganj – 1400\nVisiting Hour: 7pm to 9pm (Sun, Tue & Thu\nAppointment: +8801820842293\nCall Now",
+      "info": "Modern Diagnostic Center, Narayanganj Address: 207, Bangabandhu Road, Chashara, Narayanganj – 1400 Visiting Hour: 7pm to 9pm (Sun, Tue & Thu Appointment: +8801820842293 Call Now",
       "chamber": {
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "6pm to 8.30pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801744812176"
-      },
-      "id": "f58e06f6-b07c-4d45-b079-e8c1a07efc76"
+        "appointmentNumber": "+8801744812176Call Now"
+      }
     },
     {
+      "id": "bf128340-1064-4f76-96ca-bc8647c0c8bd",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-a-k-m-a-sobhan/",
+      "imageId": "3bcfda6b-03e3-4cad-b9a7-6372adae14f3",
       "name": "Prof. Dr. A K M A Sobhan",
       "degree": "MBBS, BCS (Health), DLO (DU), MS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
       "workplace": "Shaheed Suhrawardy Medical College & Hospital",
-      "info": "Ibn Sina Diagnostic Center, Dhanmondi\nAddress: House # 48, Road # 9/A, Dhanmondi, Dhaka – 1209\nVisiting Hour: 10am to 1pm (Closed: Friday)\nAppointment: +8809610-010615\nCall Now",
+      "info": "Ibn Sina Diagnostic Center, Dhanmondi Address: House # 48, Road # 9/A, Dhanmondi, Dhaka – 1209 Visiting Hour: 10am to 1pm (Closed: Friday) Appointment: +8809610-010615 Call Now",
       "chamber": {
         "hospital": "Digilab Medical Services Ltd, Mirpur",
         "address": "House # 02, Road # 06, Block # A, Mirpur-10, Dhaka",
         "visitingTime": "7.30pm to 9pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801626792323"
-      },
-      "id": "9563e477-17b9-4d15-ba62-8e9d9f05e53f"
+        "appointmentNumber": "+8801626792323Call Now"
+      }
     },
     {
+      "id": "54c4f3fd-cfad-49a6-9eac-ac028a35e670",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-mostafa-kamal-arefin/",
+      "imageId": "57fb5f43-ec63-4cc9-92e0-06d67e39743b",
       "name": "Dr. Mostafa Kamal Arefin",
       "degree": "MBBS (DMC), BCS (Health), MCPS, FCPS (ENT), FICS ( USA), DLSB (IND)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -878,11 +1068,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "4pm to 6pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "9264ce49-8633-42f6-8279-b1dfdf735c54"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "032daaac-0854-4d3e-ae31-eb38871bde9c",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-nm-khairul-bashar/",
+      "imageId": "5214e6ae-d95b-425d-b58e-61408889f050",
       "name": "Dr. NM Khairul Bashar",
       "degree": "MBBS, BCS (Health), MS (ENT)",
       "specialty": "Ear, Nose, Throat, Head, Neck, Thyroid Specialist & Surgeon",
@@ -892,11 +1085,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Savar",
         "address": "31/6 Jaleshwar, Aricha Road, Savar, Dhaka - 1340",
         "visitingTime": "6.30pm to 8pm (Closed: Sunday, Tuesday & Thursday)",
-        "appointmentNumber": "+88 09610009613"
-      },
-      "id": "cb47c9ad-fc77-4eee-9864-60812e1e89f8"
+        "appointmentNumber": "+88 09610009613Call Now"
+      }
     },
     {
+      "id": "2c00a3c1-966d-49f2-8a75-07e074b38848",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-debesh-chandra-talukder/",
+      "imageId": "5443fc2d-4236-475a-a56a-7de6b0064f41",
       "name": "Prof. Dr. Debesh Chandra Talukder",
       "degree": "MBBS (DMC), FCPS (ENT), DLO, FACS (USA)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -906,11 +1102,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "606e34b7-b87e-411a-a0a4-07f6123b9bf8"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "31aa20ea-0614-43d3-86da-c6357f273882",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-shorfuddin-mahmud/",
+      "imageId": "3f8058b7-fec0-44d0-b190-4cb5ebc800e8",
       "name": "Dr. Shorfuddin Mahmud",
       "degree": "MBBS, BCS (Health), MCPS (ENT), FCPS (ENT)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -920,11 +1119,14 @@
         "hospital": "Popular Diagnostic Center, Mirpur",
         "address": "Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka",
         "visitingTime": "8pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787807"
-      },
-      "id": "238fe567-cf12-4e44-a1c9-87fb73a33269"
+        "appointmentNumber": "+8809666787807Call Now"
+      }
     },
     {
+      "id": "5c97efd7-9c14-4eac-ba7f-532ae6ea573b",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-idris-ali/",
+      "imageId": "299355fd-1cc0-4728-9169-e0423f6a135f",
       "name": "Dr. Mohammad Idris Ali",
       "degree": "MBBS, MS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -934,25 +1136,31 @@
         "hospital": "Islami Bank Hospital, Mirpur",
         "address": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801992346632"
-      },
-      "id": "c0a35165-6acf-486f-855b-527b4faaa6a6"
+        "appointmentNumber": "+8801992346632Call Now"
+      }
     },
     {
+      "id": "e1705a27-bb6a-433f-8815-54c4287cb058",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-mkm-doulatullah/",
+      "imageId": "f37b45d8-60f2-4a90-8332-07de69565992",
       "name": "Dr. M.K.M Daulatullah",
       "degree": "MBBS, FCPS (ENT), MCPS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, B.B. Road, Chashara, Narayanganj – 1400\nVisiting Hour: 3pm to 9pm (Sun, Tue & Thu) & 11am to 9pm (Fri)\nAppointment: +8809666787804\nCall Now",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, B.B. Road, Chashara, Narayanganj – 1400 Visiting Hour: 3pm to 9pm (Sun, Tue & Thu) & 11am to 9pm (Fri) Appointment: +8809666787804 Call Now",
       "chamber": {
         "hospital": "Medi-Hope General Hospital, Demra",
         "address": "Company Super Market, Konapara, Demra, Dhaka",
         "visitingTime": "7pm to 10pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801770538862"
-      },
-      "id": "70c54bcd-1cd2-4c98-a72c-24a8babfbe64"
+        "appointmentNumber": "+8801770538862Call Now"
+      }
     },
     {
+      "id": "efe7ad9a-7188-42a0-9923-bb77dea20c36",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-nasima-akhtar/",
+      "imageId": "715dcd6d-5cf9-4cac-9b94-5f9bc0bec690",
       "name": "Prof. Dr. Nasima Akhtar",
       "degree": "MBBS, DLO, FCPS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -962,25 +1170,31 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801712656285"
-      },
-      "id": "053186a0-8bff-4793-a8af-5aad15013ec7"
+        "appointmentNumber": "+8801712656285Call Now"
+      }
     },
     {
+      "id": "9b74139c-ccf3-4706-bc5b-3e38e7c7a795",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-hasan-saydee-khan/",
+      "imageId": "585a5517-00cf-46e7-8243-670c37a268a1",
       "name": "Prof. Dr. Hasan Saydee Khan",
       "degree": "MBBS, DLO (ENT), Fellow (Japan), WHO Fellow (Thailand)",
       "specialty": "ENT Specialist & Surgeon",
       "workplace": "Shaheed Suhrawardy Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Savar\nAddress: E/22, Talbagh, Anandapur, Savar, Dhaka\nVisiting Hour: 10am to 4pm (Friday)\nContact: +8809666787808\nCall Now",
+      "info": "Popular Diagnostic Center, Savar Address: E/22, Talbagh, Anandapur, Savar, Dhaka Visiting Hour: 10am to 4pm (Friday) Contact: +8809666787808 Call Now",
       "chamber": {
         "hospital": "Medinova Medical Services, Dhanmondi",
         "address": "House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "10658"
-      },
-      "id": "04acdc85-3653-4699-ac53-ba7797eb6321"
+        "appointmentNumber": "10658Call Now"
+      }
     },
     {
+      "id": "72f3eaa5-8e58-4924-a14a-f46f2d4dd355",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahjahan-sarkar/",
+      "imageId": "70b5b9ec-640d-4be2-8735-063c24a5ffce",
       "name": "Dr. Md. Shahjahan Sarkar",
       "degree": "MBBS (Dhaka), MCS (Health), FCPS (ENT), MS (ENT)",
       "specialty": "ENT, Head & Neck Surgery Specialist",
@@ -990,39 +1204,48 @@
         "hospital": "Popular Diagnostic Center, Badda",
         "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka - 1212",
         "visitingTime": "6pm to 9.00pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8809666787809"
-      },
-      "id": "9c11a6dd-40ae-4d66-850e-1e95357673d8"
+        "appointmentNumber": "+8809666787809Call Now"
+      }
     },
     {
+      "id": "90997a3d-5baf-48c1-9766-2215bd757c62",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-a-k-m-shaif-uddin-saif/",
+      "imageId": "2cf0523a-dcfb-455a-8e25-26d1c67fc00f",
       "name": "Prof. Dr. A.K.M. Shaif Uddin (Saif)",
       "degree": "MBBS, BCS (Health), MCPS, MS (ENT)",
       "specialty": "ENT Specialist & Head-Neck Surgeon",
       "workplace": "Shaheed Suhrawardy Medical College & Hospital",
-      "info": "Bangladesh ENT Hospital Ltd\nAddress: 3rd Floor, Navana Newbury Place, 4/1/A Sobahanbag, Mirpur Road, Dhaka\nVisiting Hour: 2.30pm to 4.30pm (Closed: Friday)\nAppointment: +8809666710710\nCall Now",
+      "info": "Bangladesh ENT Hospital Ltd Address: 3rd Floor, Navana Newbury Place, 4/1/A Sobahanbag, Mirpur Road, Dhaka Visiting Hour: 2.30pm to 4.30pm (Closed: Friday) Appointment: +8809666710710 Call Now",
       "chamber": {
         "hospital": "Islami Bank Hospital, Mirpur",
         "address": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
         "visitingTime": "7.30pm to 9.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801992346632"
-      },
-      "id": "842e825a-a921-485b-ac92-4f9aacc226ed"
+        "appointmentNumber": "+8801992346632Call Now"
+      }
     },
     {
+      "id": "c8f78f16-5e4e-4a9b-a11f-99bda83fdd0d",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdul-quddus-shohag/",
+      "imageId": "17526925-f5d3-4bdc-82c7-988b973f7fba",
       "name": "Dr. Md. Abdul Quddus (Shohag)",
       "degree": "MBBS, BCS (Health), MS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Esquire Lab Diagnostic Center, Feni\nAddress: Somobay Super Market-3 (3rd Floor), SSK Road, Feni\nVisiting Hour: 5pm to 8.30pm (Thu), 9am to 1.30pm (Fri)\nAppointment: +8801829542754\nCall Now",
+      "info": "Esquire Lab Diagnostic Center, Feni Address: Somobay Super Market-3 (3rd Floor), SSK Road, Feni Visiting Hour: 5pm to 8.30pm (Thu), 9am to 1.30pm (Fri) Appointment: +8801829542754 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
         "address": "1/1 B, Kallyanpur, Dhaka",
         "visitingTime": "7pm to 9pm (Sat to Tuesday)",
-        "appointmentNumber": "+8809610009616"
-      },
-      "id": "9cb598ab-444f-4d31-a7e1-8e7380abca9b"
+        "appointmentNumber": "+8809610009616Call Now"
+      }
     },
     {
+      "id": "6f5bb61a-b8ee-4dbc-a39b-f8386bf19140",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-muntasir-mahbub/",
+      "imageId": "089873fc-eb11-4876-b909-cd13930b5985",
       "name": "Dr. Muntasir Mahbub",
       "degree": "MBBS (DU), FCPS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -1032,11 +1255,14 @@
         "hospital": "DNA Solution Diagnostic & Consultation Center",
         "address": "15/2, Momtaz Heights (Laz Pharma Building), Shyamoli Road, Dhaka-1207",
         "visitingTime": "3pm to 5pm (Sunday & Monday)",
-        "appointmentNumber": "+8801330706466"
-      },
-      "id": "11e366bb-3c8a-4d7b-be75-960c023b837e"
+        "appointmentNumber": "+8801330706466Call Now"
+      }
     },
     {
+      "id": "3af3365f-42c7-4b8d-b2e9-dc728e6f3be2",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-zahurul-huq/",
+      "imageId": "fa11e4ad-501e-4702-a908-2f53afb20e35",
       "name": "Prof. Dr. Zahurul Huq",
       "degree": "MBBS, DLO, FCPS (ENT), FRCS (Glasgow), FACS (USA)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -1046,11 +1272,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "5pm to 7.30pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "16ad3ddc-a95d-4102-a4bb-90168b72b9e3"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "90eb4a8d-8a7d-44f9-83d0-637db2ce305c",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-zahedul-alam/",
+      "imageId": "c8bc8064-3f5c-4a99-97bc-31caa68a7488",
       "name": "Prof. Dr. Zahedul Alam",
       "degree": "MBBS, DLO, MS (ENT)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -1060,11 +1289,14 @@
         "hospital": "Asgar Ali Hospital, Dhaka",
         "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801787683333"
-      },
-      "id": "a6036c0d-b33f-4375-8a4f-de82a89b8c4b"
+        "appointmentNumber": "+8801787683333Call Now"
+      }
     },
     {
+      "id": "5ecc4056-2623-496c-b3a2-8c8a0987c0be",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahadat-hossain/",
+      "imageId": "e0fba047-1734-4b25-9685-1547c23debf5",
       "name": "Dr. Md. Shahadath Hossain",
       "degree": "MBBS, DLO (ENT)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -1074,11 +1306,14 @@
         "hospital": "Popular Diagnostic Center, Mirpur",
         "address": "Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka",
         "visitingTime": "6:30pm to 9pm (Everyday)",
-        "appointmentNumber": "+8809666787807"
-      },
-      "id": "8e62504f-7f4c-4079-949b-f71416b2a4a9"
+        "appointmentNumber": "+8809666787807Call Now"
+      }
     },
     {
+      "id": "317ece5b-eae9-4283-9fdd-28d3cb5ce43e",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-ariful-islam-arif/",
+      "imageId": "c5775d91-213f-48a4-ab52-0d3c8cdcad48",
       "name": "Dr. Ariful Islam Arif",
       "degree": "MBBS, FCPS (ENT)",
       "specialty": "Ear, Nose & Throat Specialist",
@@ -1088,25 +1323,31 @@
         "hospital": "Ibn Sina Diagnostic Center, Malibagh",
         "address": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
         "visitingTime": "7.30pm to 9.30pm (Everyday)",
-        "appointmentNumber": "+8801844141717"
-      },
-      "id": "e01e5d68-ef70-47f4-9366-39a85338e121"
+        "appointmentNumber": "+8801844141717Call Now"
+      }
     },
     {
+      "id": "3ea1f1df-89e7-425f-8a97-5e75b85cf1f0",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-aftab-u-ahmed/",
+      "imageId": "c25a2a69-d174-401f-8818-3ce6f9fbe4cf",
       "name": "Prof. Dr. Aftab U Ahmed",
       "degree": "MBBS, MCPS, DLO, FICS",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
       "workplace": "Green Life Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Mirpur\nAddress: Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka\nVisiting Hour: 6pm to 9pm (Everyday)\nAppointment: +8809666787807\nCall Now",
+      "info": "Popular Diagnostic Center, Mirpur Address: Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka Visiting Hour: 6pm to 9pm (Everyday) Appointment: +8809666787807 Call Now",
       "chamber": {
         "hospital": "Medinova Medical Services, Mirpur",
         "address": "Plot # 29-30, Block # Kha, Road # 1, Section # 6, Mirpur 10, Dhaka",
         "visitingTime": "8pm to 10pm (Sat, Mon & Wed), 10:30am to 12:30pm (Sat, Mon & Wednesday)",
-        "appointmentNumber": "+8801300550448"
-      },
-      "id": "9b85677d-32a1-4f25-994d-3bb61ede1547"
+        "appointmentNumber": "+8801300550448Call Now"
+      }
     },
     {
+      "id": "a5d27141-d4d7-4343-b0bf-9241a3e6d9cd",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahmudul-amin-sakik/",
+      "imageId": "adeb1414-45c6-4328-a2e1-a4e61629681c",
       "name": "Dr. Md. Mahmudul Amin Sakik",
       "degree": "MBBS, BCS (Health), FCPS (ENT)",
       "specialty": "Ear, Nose & Throat Specialist & Head-Neck Surgeon",
@@ -1116,11 +1357,14 @@
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "6e4dc4ed-cd83-4fbe-a80f-7738fdb1a17c"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
+      "id": "53e65c59-c110-4e4a-84d4-6f32569cae63",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-m-h-shaheel-mahmood/",
+      "imageId": "192577d3-c91e-4aa3-be15-1d348c6930c6",
       "name": "Dr. M.H. Shaheel Mahmood",
       "degree": "MBBS, FCPS (ENT), MS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -1130,25 +1374,31 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "12pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "e1f79e21-9fc9-4fef-8ffa-e00f4489adde"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "d052f57c-587e-48b9-a87d-6ea89e9c2b96",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-safiullah/",
+      "imageId": "63f92d63-fd4e-4928-a670-dd9064b04258",
       "name": "Dr. Md. Safiullah",
       "degree": "MBBS, DLO (DU), MCPS (ENT), FICS (USA), FRCS (GLASGOW, UK)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
       "workplace": "Abdul Malek Ukil Medical College, Noakhali",
-      "info": "Good Heal Hospital Complex, Noakhali\nAddress: Hospital Road, Maijdee, Noakhali – 3800\nVisiting Hour: 4pm to 8pm (Wed & Thursday), (All Day – Friday)\nAppointment: +8801718-500280\nCall Now",
+      "info": "Good Heal Hospital Complex, Noakhali Address: Hospital Road, Maijdee, Noakhali – 3800 Visiting Hour: 4pm to 8pm (Wed & Thursday), (All Day – Friday) Appointment: +8801718-500280 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
         "address": "1/1 B, Kallyanpur, Dhaka",
         "visitingTime": "6pm to 8pm (Saturday to Tuesday)",
-        "appointmentNumber": "+8801703725590"
-      },
-      "id": "e4edb1aa-1d3b-4bb8-9e67-71c224598dd6"
+        "appointmentNumber": "+8801703725590Call Now"
+      }
     },
     {
+      "id": "38e621a1-3d81-498e-9a67-312009703d33",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-hanif/",
+      "imageId": "49f00644-2764-4fdf-a72a-5cfd392f022e",
       "name": "Dr. Mohammad Hanif",
       "degree": "MBBS, FCPS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Cancer Surgeon",
@@ -1158,11 +1408,14 @@
         "hospital": "Labaid Cancer Hospital & Super Speciality Center",
         "address": "26, Green Road, Dhaka",
         "visitingTime": "5pm to 8pm (Sun, Tue & Thu), 3pm to 4pm (Mon & Wed)",
-        "appointmentNumber": "+8809666710001"
-      },
-      "id": "c85f236f-8d40-4075-ae39-12e4f287addf"
+        "appointmentNumber": "+8809666710001Call Now"
+      }
     },
     {
+      "id": "2cd073bc-110d-4c51-82dd-b3f0e2f12c16",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-abirvab-naha/",
+      "imageId": "f1638bb2-881c-4592-ba45-6f78f03d1d26",
       "name": "Dr. Abirvab Naha",
       "degree": "MBBS, MS (ENT), Training (Head & Neck Surgery, India)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -1172,11 +1425,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801511401111"
-      },
-      "id": "40b54cd4-b598-44e6-82f2-3572d4dd327a"
+        "appointmentNumber": "+8801511401111Call Now"
+      }
     },
     {
+      "id": "91aacfe1-20e5-4490-9199-67bb9a9d49bc",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-km-nurul-alam/",
+      "imageId": "5b5b4658-5bdc-4e3c-bcc6-0e3cec504621",
       "name": "Dr. KM Nurul Alam",
       "degree": "MBBS, FCPS (ENT), MS (ENT)",
       "specialty": "Ear, Nose & Throat Specialist",
@@ -1186,11 +1442,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Doyagonj",
         "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
         "visitingTime": "7pm to 9.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801878115751"
-      },
-      "id": "33f5feb6-cf45-4cfc-a3f3-f3613edeaf8e"
+        "appointmentNumber": "+8801878115751Call Now"
+      }
     },
     {
+      "id": "efb1fa69-51da-47cf-a925-95dccd8ba108",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-sanjoy-banerjee/",
+      "imageId": "37abef0f-f755-498e-a6b5-be216626a6ff",
       "name": "Dr. Sanjoy Banerjee",
       "degree": "MBBS, FCPS (ENT)",
       "specialty": "ENT Specialist & Head Neck Cancer Surgeon",
@@ -1200,39 +1459,48 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "10am to 1pm & 5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "41efc05e-9252-4f41-a12b-6568d6e3b401"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "ea44ed34-6a64-4c54-9c8b-f7cad5413d32",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-amzad-hossain/",
+      "imageId": "7d6817b7-d8c6-479e-91d4-f9333875a020",
       "name": "Dr. Mohammad Amzad Hossain",
       "degree": "MBBS, BCS (Health), MS (ENT)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
       "workplace": "Sir Salimullah Medical College & Mitford Hospital",
-      "info": "Farazy Hospital, Banasree\nAddress: House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka\nVisiting Hour: 7pm to 10pm (Sat, Mon & Wed)\nAppointment: +8801766111137\nCall Now",
+      "info": "Farazy Hospital, Banasree Address: House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka Visiting Hour: 7pm to 10pm (Sat, Mon & Wed) Appointment: +8801766111137 Call Now",
       "chamber": {
         "hospital": "Unity Aid Hospital Limited",
         "address": "House # 1-2, Block # D, Main Road, South Banasree, Khilgaon, Dhaka",
         "visitingTime": "7.30pm to 9.30pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801997421112"
-      },
-      "id": "029db5e2-c59b-4376-a0c1-51f70a873fdd"
+        "appointmentNumber": "+8801997421112Call Now"
+      }
     },
     {
+      "id": "cacd2a12-362e-4df1-88aa-84fd1b5d3d7b",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdul-karim-mithu/",
+      "imageId": "7ee0c473-7c52-4da3-b089-da6bebe1fd4c",
       "name": "Dr. Md. Abdul Karim Mithu",
       "degree": "MBBS, BCS (Health), DLO, FCPS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Onco Surgeon",
       "workplace": "Labaid Cancer Hospital & Super Speciality Center",
-      "info": "Islami Bank Central Hospital, Kakrail\nAddress: 30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000\nVisiting Hour: 3pm to 4pm (Closed: Friday)\nAppointment: +8801810000116\nCall Now",
+      "info": "Islami Bank Central Hospital, Kakrail Address: 30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000 Visiting Hour: 3pm to 4pm (Closed: Friday) Appointment: +8801810000116 Call Now",
       "chamber": {
         "hospital": "Labaid Cancer Hospital & Super Speciality Center",
         "address": "26, Green Road, Dhaka",
         "visitingTime": "4pm to 7pm (Sat, Mon, Tue & Wed)",
-        "appointmentNumber": "+8809666710001"
-      },
-      "id": "98224b8a-bf5d-4118-92bd-0edacc669310"
+        "appointmentNumber": "+8809666710001Call Now"
+      }
     },
     {
+      "id": "6e2af18e-4caa-491b-8254-3e4a8596466c",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-ashim-kumar-biswas/",
+      "imageId": "17af7e7e-35fc-4658-bc5e-00dd8448c30a",
       "name": "Dr. Ashim Kumar Biswas",
       "degree": "MBBS, MS, FCPS (ENT)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -1242,11 +1510,14 @@
         "hospital": "Padma Diagnostic Center, Malibagh",
         "address": "245/2 New Circular Road, West Malibagh, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809617444222"
-      },
-      "id": "93ada1e6-2267-48e4-8424-455c06865037"
+        "appointmentNumber": "+8809617444222Call Now"
+      }
     },
     {
+      "id": "0712a9d3-4fdd-4e16-a9e5-d0a24565f47f",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahbubul-alam-ent/",
+      "imageId": "0fc0d3d8-e599-42f6-9850-9c106dbb2ee6",
       "name": "Dr. Md. Mahbubul Alam",
       "degree": "MBBS, BCS (Health), DLO (BSMMU), MCPS (ENT)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -1256,25 +1527,31 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "6pm to 8pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "026586e9-2340-4e4a-a6ed-fc64277082f9"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "3ecf3461-9053-4e2f-9041-86d484edb038",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-arifuzzaman/",
+      "imageId": "ae48cf03-79a3-4769-a2c8-d3dc15e5dbf4",
       "name": "Dr. Md. Arifuzzaman",
       "degree": "MBBS, FCPS (ENT), FACS (USA)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
       "workplace": "Bangladesh Shishu Hospital & Institute",
-      "info": "Labaid Diagnostic, Malibagh\nAddress: House # B65, Chowdhury Para, Malibagh, Dhaka\nVisiting Hour: 8pm to 10pm (Closed: Sun & Friday)\nAppointment: +8801766662555\nCall Now",
+      "info": "Labaid Diagnostic, Malibagh Address: House # B65, Chowdhury Para, Malibagh, Dhaka Visiting Hour: 8pm to 10pm (Closed: Sun & Friday) Appointment: +8801766662555 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Shyamoli",
         "address": "House - 1/5, Block - B, Mohammadpur Housing Estate, Dhaka",
         "visitingTime": "4pm to 7pm (Closed: Sun & Friday)",
-        "appointmentNumber": "+8809666787806"
-      },
-      "id": "de5db56d-0161-4bf8-b407-b46da3dd17ac"
+        "appointmentNumber": "+8809666787806Call Now"
+      }
     },
     {
+      "id": "a41c1baf-e4d9-460c-b74a-4156e527de07",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-raju-barua/",
+      "imageId": "a8820300-db5b-40b3-ae76-7a0f01823911",
       "name": "Dr. Raju Barua",
       "degree": "MBBS, DLO, FCPS (ENT)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -1284,11 +1561,14 @@
         "hospital": "Labaid Diagnostic, Gulshan",
         "address": "House # 13/A, Road # 35, Gulshan 2, Dhaka",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801766662525"
-      },
-      "id": "a56edf55-56cf-4f59-b8df-93e73384c6e4"
+        "appointmentNumber": "+8801766662525Call Now"
+      }
     },
     {
+      "id": "0680868b-605a-4dd6-9a8c-79fbdf69ece4",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdur-razzak-ent/",
+      "imageId": "f7512492-e3cc-447b-b133-5e8c1e02b34e",
       "name": "Dr. Md. Abdur Razzak",
       "degree": "MBBS, FCPS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -1298,11 +1578,14 @@
         "hospital": "City Hospital Limited, Dhaka",
         "address": "1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka – 1207",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801558220134"
-      },
-      "id": "2afecb5d-1fa1-4f4e-8017-e87dc2f0e22a"
+        "appointmentNumber": "+8801558220134Call Now"
+      }
     },
     {
+      "id": "7089a889-a76b-47fe-b588-2c126c593b1c",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-asaduzzaman-rasel/",
+      "imageId": "b1ba5d5d-c784-4920-9bea-070679f29a02",
       "name": "Dr. Md. Asaduzzaman Rasel",
       "degree": "MBBS, FCPS (ENT)",
       "specialty": "ENT Specialist & Head-Neck Surgeon",
@@ -1312,25 +1595,31 @@
         "hospital": "Bangladesh Specialized Hospital",
         "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8809666700100"
-      },
-      "id": "1afa887c-d3fa-4229-acdd-61597421d142"
+        "appointmentNumber": "+8809666700100Call Now"
+      }
     },
     {
+      "id": "92adc2c4-cb5a-4a0c-9619-ce1ce64cb820",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-ahmed-raquib/",
+      "imageId": "2016ac26-f5c4-432b-bbfc-19f48ecac2db",
       "name": "Dr. Ahmed Raquib",
       "degree": "MBBS, DLO, MS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
       "workplace": "Popular Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Dhanmondi\nAddress: House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205\nVisiting Hour: 5pm to 7pm (Closed: Thu & Friday)\nAppointment: +8809666787801\nCall Now",
+      "info": "Popular Diagnostic Center, Dhanmondi Address: House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205 Visiting Hour: 5pm to 7pm (Closed: Thu & Friday) Appointment: +8809666787801 Call Now",
       "chamber": {
         "hospital": "Bangladesh ENT Hospital Ltd",
         "address": "3rd Floor, Navana Newbury Place, 4/1/A Sobahanbag, Mirpur Road, Dhaka - 1207",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666710710"
-      },
-      "id": "df07c8cd-fdc4-454c-a887-389306cae44e"
+        "appointmentNumber": "+8809666710710Call Now"
+      }
     },
     {
+      "id": "900ccd08-13bc-467c-93ff-4d8bf408579b",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-farid-uddin-milki/",
+      "imageId": "f49ed3f1-41eb-45b9-a026-9c906b8f5809",
       "name": "Dr. Md. Farid Uddin Milki",
       "degree": "MBBS (Karachi), DLO (DU)",
       "specialty": "Ear, Nose, Throat Specialist & Surgeon",
@@ -1340,11 +1629,14 @@
         "hospital": "Al-Manar Hospital Limited",
         "address": "Plot # Umo, Block # Rossoi, Satmosjid Road, Dhaka",
         "visitingTime": "7.30pm to 9.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801550020885"
-      },
-      "id": "c68402e3-53b4-4ac1-a914-ef668b24f8de"
+        "appointmentNumber": "+8801550020885Call Now"
+      }
     },
     {
+      "id": "78a1e730-134d-4629-b6cd-bcabd57be567",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-mostafizur-rahman-ent/",
+      "imageId": "b0402eee-a06d-4ca6-b265-b040328e3eef",
       "name": "Dr. Md. Mostafizur Rahman",
       "degree": "MBBS, MS (ENT)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -1354,11 +1646,14 @@
         "hospital": "Islami Bank Hospital, Mugda",
         "address": "1/24/B, Kamalapur Manda Road, South Mugdapara, Dhaka",
         "visitingTime": "6pm to 8pm (Mon, Tue & Fri)",
-        "appointmentNumber": "+8801724008677"
-      },
-      "id": "42b88ed2-18b9-451d-a54d-5d455ec2778d"
+        "appointmentNumber": "+8801724008677Call Now"
+      }
     },
     {
+      "id": "a59deb93-c99a-4340-af99-a649bf01a54d",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-nasimul-jamal/",
+      "imageId": "18b879d1-6f15-4bef-8111-1f5f9d08e809",
       "name": "Dr. Md. Nasimul Jamal",
       "degree": "MBBS, DLO, FCPS (ENT)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -1368,11 +1663,14 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "086a3fa0-7523-46a8-856d-8880b23c8ebb"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "7553d3c6-81bf-418d-9890-c9a61291e43f",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-mohammed-yousuf/",
+      "imageId": "47f76376-c5be-48c1-a4c7-6afd6e5d12dc",
       "name": "Prof. Dr. Mohammed Yousuf",
       "degree": "MBBS, MCPS, FCPS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -1382,11 +1680,14 @@
         "hospital": "Delta Hospital, Mirpur",
         "address": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka - 1216",
         "visitingTime": "8.30am to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8801301254924"
-      },
-      "id": "e7432fd5-6d19-4b90-8d16-48b064a5c523"
+        "appointmentNumber": "+8801301254924Call Now"
+      }
     },
     {
+      "id": "7648c4d7-ae2e-4b01-a754-f6e7d830f84e",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-s-m-rasel-parvez/",
+      "imageId": "55128815-5dfb-4a58-a589-0ab212dc9a4d",
       "name": "Dr. S. M. Rasel Parvez",
       "degree": "MBBS, BCS (Health), MS (ENT - BSMMU)",
       "specialty": "ENT (Ear, Nose, Throat Diseases) Specialist & Head Neck Surgeon",
@@ -1396,11 +1697,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Keraniganj",
         "address": "Room - 507, Maa Plaza, Kadomtoli Mor, Zinzira, Keraniganj, Dhaka",
         "visitingTime": "3pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809610009619"
-      },
-      "id": "529bc283-7662-4494-89b6-dd4d37298fed"
+        "appointmentNumber": "+8809610009619Call Now"
+      }
     },
     {
+      "id": "5ce70e90-77e1-4355-b611-fc4b38ae3210",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-col-md-tauhidul-islam/",
+      "imageId": "1b931d7e-f308-40a4-95c6-b8099bde6acc",
       "name": "Prof. Dr. Col. Md. Tauhidul Islam",
       "degree": "MBBS (DMC), CCD, MCPS, DLO, FCPS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -1410,25 +1714,31 @@
         "hospital": "Medinova Medical Services, Mirpur",
         "address": "Plot # 29-30, Block # Kha, Road # 1, Section # 6, Mirpur 10, Dhaka",
         "visitingTime": "6pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801627172222"
-      },
-      "id": "320cb992-122c-49ca-a677-bb0225cc077b"
+        "appointmentNumber": "+8801627172222Call Now"
+      }
     },
     {
+      "id": "82fb5db1-9734-40f7-bb2f-bae588054807",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-sadequr-rahman/",
+      "imageId": "0cacfb07-1f38-4ca2-8abd-bb3b8e25c101",
       "name": "Dr. Md. Sadequr Rahman Emon",
       "degree": "MBBS (DU), CCD, DLO (BSMMU)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
       "workplace": "US-Bangla Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, Bangabandhu Road, Chashara, Narayanganj – 1400\nVisiting Hour: 10am to 3pm (Sun & Tue) & 2pm to 5pm (Thu)\nAppointment: +8809666787804\nCall Now",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, Bangabandhu Road, Chashara, Narayanganj – 1400 Visiting Hour: 10am to 3pm (Sun & Tue) & 2pm to 5pm (Thu) Appointment: +8809666787804 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "10am to 2pm (Sun, Tue & Friday) & 3pm to 6pm (Thu)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "6ca06b04-de4a-4c2e-9ae6-905bfbaf6884"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "65b0d3d1-0edb-4bb6-bb42-34aeffd3a5b6",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-capt-m-asaduzzaman/",
+      "imageId": "f35cd24e-d1ce-430a-8a18-b1478dccf2dc",
       "name": "Dr. Capt. M. Asaduzzaman",
       "degree": "MBBS, FCPS (ENT), MCPS (ENT), DLO (DU)",
       "specialty": "ENT Diseases Specialist & Surgeon",
@@ -1438,11 +1748,14 @@
         "hospital": "Shin Shin Japan Hospital, Uttara",
         "address": "17, Garib E Nawaz Ave, Sector # 11, Uttara, Dhaka",
         "visitingTime": "2pm to 3pm (Closed: Friday)",
-        "appointmentNumber": "+8801929478565"
-      },
-      "id": "87e5f506-43c8-475f-b6c6-f548b32da9c4"
+        "appointmentNumber": "+8801929478565Call Now"
+      }
     },
     {
+      "id": "134a46da-3a7c-4a69-9aff-90e0293b59b3",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-ahm-parvez-humayun/",
+      "imageId": "fe61784a-ae7a-4d71-94e3-2e6fcdb057e6",
       "name": "Dr. Abu Hena Mohammad Parvez Humayun",
       "degree": "MBBS, FCPS (ENT), MS (ENT)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -1452,11 +1765,14 @@
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "6.30pm to 9.30pm (Saturday, Monday & Thursday)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "30575bba-4a8c-4e9f-8ffc-c6d07d650530"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
+      "id": "679e896f-b61e-4d97-a262-3e1237d2f7b6",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-bithi-bhowmik/",
+      "imageId": "ba07d152-761c-47e1-9779-100929916f49",
       "name": "Prof. Dr. Bithi Bhowmik",
       "degree": "MBBS, FCPS (ENT)",
       "specialty": "ENT Specialist, Head Neck Cancer & Sleep Surgeon",
@@ -1466,11 +1782,14 @@
         "hospital": "Asgar Ali Hospital, Dhaka",
         "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
         "visitingTime": "10am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801787683333"
-      },
-      "id": "adc542e4-fe1d-43d0-8770-d4d1fb54b2a9"
+        "appointmentNumber": "+8801787683333Call Now"
+      }
     },
     {
+      "id": "c7f79583-ee44-4023-869e-930d8cfa34b0",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-moniruzzaman-2/",
+      "imageId": "0102d3d8-6d30-454a-9a31-af1fe1221647",
       "name": "Dr. Md. Moniruzzaman",
       "degree": "MBBS, MCPS (ENT & HNS), BCS (Health), CCD (BIRDEM), DLO (BSMMU)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -1480,11 +1799,14 @@
         "hospital": "Labaid Diagnostic, Malibagh",
         "address": "House # B65, Chowdhury Para, Malibagh, Dhaka",
         "visitingTime": "7pm to 10pm (Sat, Mon, Tue & Thu), 9am to 12pm (Friday)",
-        "appointmentNumber": "+8801766662555"
-      },
-      "id": "015ae8f9-e75e-4f8c-a7db-fa0f94bf531b"
+        "appointmentNumber": "+8801766662555Call Now"
+      }
     },
     {
+      "id": "b90ee0e5-5fc8-4a56-a94e-c30e7f7b0549",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-tariqul-islam-ent/",
+      "imageId": "2756a1e7-9655-47e4-8169-635699da5c93",
       "name": "Dr. Md. Tariqul Islam",
       "degree": "MBBS, FCPS (ENT), MS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Cancer Surgeon",
@@ -1494,25 +1816,31 @@
         "hospital": "Labaid Cancer Hospital & Super Speciality Center",
         "address": "26, Green Road, Dhaka",
         "visitingTime": "6pm to 9pm (Thu, Fri & Sat)",
-        "appointmentNumber": "+8809666710001"
-      },
-      "id": "dadd98cc-0a03-480e-bcdc-a27ae6ea7e04"
+        "appointmentNumber": "+8809666710001Call Now"
+      }
     },
     {
+      "id": "f402eadc-d63d-40c8-8d48-9700acb9952d",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-syeda-sharmin-zamal/",
+      "imageId": "349414ef-6870-442b-801d-76f1e2d9e464",
       "name": "Dr. Syeda Sharmin Zamal",
       "degree": "MBBS, DLO (ENT), FESS (Singapore), Head Neck Surgery (USA)",
       "specialty": "ENT Specialist & Head-Neck Surgeon",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Central Hospital, Dhanmondi\nAddress: House # 02, Road # 05, Green Road, Dhanmondi, Dhaka – 1205\nVisiting Hour: 2.30pm to 4pm (Closed: Friday)\nAppointment: +8802-41060800\nCall Now",
+      "info": "Central Hospital, Dhanmondi Address: House # 02, Road # 05, Green Road, Dhanmondi, Dhaka – 1205 Visiting Hour: 2.30pm to 4pm (Closed: Friday) Appointment: +8802-41060800 Call Now",
       "chamber": {
         "hospital": "Bangladesh Specialized Hospital",
         "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8809666700100"
-      },
-      "id": "402b4ab4-079e-4014-a45c-695f27c18174"
+        "appointmentNumber": "+8809666700100Call Now"
+      }
     },
     {
+      "id": "5e119792-1cb5-4ba5-98ca-b94e12e0a583",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-syed-hasan-imam-al-maum/",
+      "imageId": "adb4483b-6269-4863-9b16-0c9204c49ef1",
       "name": "Prof. Dr. Syed Hasan Imam Al Maum",
       "degree": "MBBS, MCPS (ENT), DLO",
       "specialty": "ENT Specialist",
@@ -1522,11 +1850,14 @@
         "hospital": "Comfort Diagnostic Center, Dhanmondi",
         "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "6pm to 8.30pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801731956033"
-      },
-      "id": "8bc70b3f-f3d3-4a78-a3bf-2e49da8ad2c1"
+        "appointmentNumber": "+8801731956033Call Now"
+      }
     },
     {
+      "id": "b6b61358-2338-4ae8-8ffa-bccdbc69d6b6",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-anwar-hossain/",
+      "imageId": "eba757b2-ea64-46d2-a831-f3f5bfb81099",
       "name": "Dr. Mohammad Anwar Hossain",
       "degree": "MBBS (DMC), FCPS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -1536,11 +1867,14 @@
         "hospital": "Islami Bank Hospital, Motijheel",
         "address": "24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka",
         "visitingTime": "7.30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801727666741"
-      },
-      "id": "e4633c97-78f9-4464-8bfa-521d666598f4"
+        "appointmentNumber": "+8801727666741Call Now"
+      }
     },
     {
+      "id": "df208bf8-adac-4b4d-a669-f4e638cd8bda",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-fuad-mohammad-shaheed-hossain/",
+      "imageId": "9c068cdc-7132-4a47-945b-a15bfc9de9bd",
       "name": "Dr. Fuad Mohammad Shaheed Hossain",
       "degree": "MBBS, DLO (BSMMU), MS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -1550,25 +1884,14 @@
         "hospital": "Advance Hospital, Banasree",
         "address": "House # 1, Main Road, Block # F, Banasree, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801999242424"
-      },
-      "id": "0833d003-9245-4243-b748-bcdd1f90d2b5"
+        "appointmentNumber": "+8801999242424Call Now"
+      }
     },
     {
-      "name": "Prof. Dr. M M Moniruzzaman",
-      "degree": "MBBS, DLO (BSMMU)",
-      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
-      "workplace": "Shahabuddin Medical College & Hospital",
-      "info": "Prof. Dr. M M Moniruzzaman is a ENT Specialist in Dhaka. His qualification is MBBS, DLO (BSMMU). He is a Professor & Head, ENT at Shahabuddin Medical College & Hospital. He regularly provides treatment to his patients at City Hospital Limited, Dhaka. Practicing hour of Prof. Dr. M M Moniruzzaman at City Hospital Limited, Dhaka is 5pm to 9pm (Closed: Friday).",
-      "chamber": {
-        "hospital": "City Hospital Limited, Dhaka",
-        "address": "1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka – 1207",
-        "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801558220134"
-      },
-      "id": "3dab17d0-e304-4911-aba8-2e6bc9c9dc75"
-    },
-    {
+      "id": "5f976480-805c-4447-aea0-d9ffecc8f9b4",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-rafiqul-islam-ent/",
+      "imageId": "bb7c9324-9e60-4fb8-bf07-047d7cd390e2",
       "name": "Dr. Muhammad Rafiqul Islam",
       "degree": "MBBS (Dhaka), BCS (Health), DLO (BSMMU), FCPS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -1578,11 +1901,31 @@
         "hospital": "Super Medical Hospital, Savar",
         "address": "Near Razzak Plaza, B-119/3, Jaleshwar, Savar, Dhaka",
         "visitingTime": "4pm to 8pm (Sun, Mon, Tue & Thu)",
-        "appointmentNumber": "+8801711266169"
-      },
-      "id": "468372bc-2519-4aef-8f49-6fdfd7abf4be"
+        "appointmentNumber": "+8801711266169Call Now"
+      }
     },
     {
+      "id": "786e6456-60ce-41bb-8768-a7eafb5edfae",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-m-moniruzzaman/",
+      "imageId": "3fcd1d7e-4bde-4324-85d3-9d97a7870041",
+      "name": "Prof. Dr. M M Moniruzzaman",
+      "degree": "MBBS, DLO (BSMMU)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Shahabuddin Medical College & Hospital",
+      "info": "Prof. Dr. M M Moniruzzaman is a ENT Specialist in Dhaka. His qualification is MBBS, DLO (BSMMU). He is a Professor & Head, ENT at Shahabuddin Medical College & Hospital. He regularly provides treatment to his patients at City Hospital Limited, Dhaka. Practicing hour of Prof. Dr. M M Moniruzzaman at City Hospital Limited, Dhaka is 5pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "City Hospital Limited, Dhaka",
+        "address": "1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka – 1207",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801558220134Call Now"
+      }
+    },
+    {
+      "id": "fe2bcc35-e1db-44f5-aaf8-b2857b9fb87e",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/lt-col-dr-md-monsur-alam/",
+      "imageId": "920d57d3-ef2b-43ab-8f71-d2ce71eb7d36",
       "name": "Lt. Col. Dr. Md. Monsur Alam",
       "degree": "MBBS, MCPS, DLO, FCPS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -1592,25 +1935,31 @@
         "hospital": "Labaid Diagnostic, Uttara (Unit 01)",
         "address": "House # 15, Road # 12, Sector # 06, Uttara, Dhaka",
         "visitingTime": "6.30pm to 8.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662606"
-      },
-      "id": "a3c34434-bbac-4b4b-ba1b-c0a309415563"
+        "appointmentNumber": "+8801766662606Call Now"
+      }
     },
     {
+      "id": "155e8bca-c14a-4576-b51f-5527ed83983b",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-alauddin-sheikh/",
+      "imageId": "15d1fe05-38a9-4933-9d33-2e9e1a22d216",
       "name": "Prof. Dr. Md. Alauddin Sheikh",
       "degree": "MBBS, DLO, FAMS, FRCS (UK), FICS (USA)",
       "specialty": "Ear, Nose, Throat Disease Specialist & Head Neck Surgeon",
       "workplace": "Bangladesh Medical College & Hospital",
-      "info": "City Hospital Limited, Dhaka\nAddress: 1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka – 1207\nVisiting Hour: 5pm to 8.30pm (Closed: Friday)\nAppointment: +8801558220134\nCall Now",
+      "info": "City Hospital Limited, Dhaka Address: 1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka – 1207 Visiting Hour: 5pm to 8.30pm (Closed: Friday) Appointment: +8801558220134 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Shyamoli",
         "address": "Opposite to Shyamoli Shishu Mela, Babor Road, Mohammadpur, Dhaka",
         "visitingTime": "10am to 12pm (Sat, Sun, Mon & Tuesday)",
-        "appointmentNumber": "+8809666787806"
-      },
-      "id": "e0000383-d336-49c9-a3a2-81e9cef2df5d"
+        "appointmentNumber": "+8809666787806Call Now"
+      }
     },
     {
+      "id": "66e4c130-281b-40e3-9e49-46b9bd9e46db",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-asaduzzaman-liton/",
+      "imageId": "c88ddada-3cce-4a4a-bce4-17ce47a23ee4",
       "name": "Dr. Md. Asaduzzaman Liton",
       "degree": "MBBS, BCS (Health), FCPS (ENT)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -1620,11 +1969,14 @@
         "hospital": "Medinova Medical Services, Malibagh",
         "address": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
         "visitingTime": "6pm to 9pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801790118855"
-      },
-      "id": "eedee127-69cc-4975-9ba2-cd8213beb82b"
+        "appointmentNumber": "+8801790118855Call Now"
+      }
     },
     {
+      "id": "e224f600-4bbd-4c6e-b0ac-e652ea334b08",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-hasanul-haque-nipun/",
+      "imageId": "7002b9f9-81ea-4c8c-8e39-bfe7dd567697",
       "name": "Dr. Md. Hasanul Haque Nipun",
       "degree": "MBBS, MS (ENT& HNS), FICS",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -1634,11 +1986,14 @@
         "hospital": "Popular Diagnostic Centre, Jatrabari",
         "address": "33, Shahid Faruk Road, North Jatrabari, Dhaka - 1204",
         "visitingTime": "5pm to 8pm (Sat, Sun, Tue & Wed)",
-        "appointmentNumber": "+8801712625655"
-      },
-      "id": "2ef68fb6-2deb-48e3-bd07-522b6d9904f3"
+        "appointmentNumber": "+8801712625655Call Now"
+      }
     },
     {
+      "id": "35d72429-52ba-466b-a3b5-1c46e0a80a42",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-a-k-m-munirul-haque/",
+      "imageId": "fb3dffd7-3cd0-415c-8eab-6f73ba5cd485",
       "name": "Dr. A.K.M. Munirul Haque",
       "degree": "MBBS, DLO (BSMMU)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -1648,11 +2003,14 @@
         "hospital": "Shin Shin Japan Hospital, Uttara",
         "address": "17, Garib E Nawaz Ave, Sector # 11, Uttara, Dhaka",
         "visitingTime": "7pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801929478565"
-      },
-      "id": "2a121c91-a8c3-45bc-a68a-02b8a9a7ff47"
+        "appointmentNumber": "+8801929478565Call Now"
+      }
     },
     {
+      "id": "c0efee26-dd79-49fa-b77d-24dacd400a4f",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-major-dr-m-motahar-hossain/",
+      "imageId": "6f4adaf6-e4b4-41ca-a3ab-c79f88a7daf9",
       "name": "Prof. Major Dr. M Motahar Hossain",
       "degree": "MBBS, DLO, FICH (USA)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -1662,11 +2020,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "73875533-d972-44b8-949d-dd8e5891f3fb"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "cc8cb0cb-6774-42b4-a908-949096524100",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-asraful-islam/",
+      "imageId": "b667fdae-66f2-4cb2-ad5f-a60d595c2f6f",
       "name": "Dr. Md. Asraful Islam",
       "degree": "MBBS, DLO (ENT), MS (ENT)",
       "specialty": "ENT Specialist & Neck Surgeon",
@@ -1676,25 +2037,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "7pm to 9pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "346881e8-45bc-4826-a99f-4cb4bb60721b"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
-      "name": "Prof. Dr. Maj. Md. Ziauddin Haidar",
-      "degree": "MBBS, MCPS (ENT), DLO (DU), FRSH (UK)",
-      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
-      "workplace": "Combined Military Hospital (CMH), Dhaka",
-      "info": "Prof. Dr. Maj. Md. Ziauddin Haidar is a ENT Specialist in Dhaka. His qualification is MBBS, MCPS (ENT), DLO (DU), FRSH (UK). He is a Consultant, ENT at Combined Military Hospital (CMH), Dhaka. He regularly provides treatment to his patients at Aichi Hospital Limited, Uttara. Practicing hour of Prof. Dr. Maj. Md. Ziauddin Haidar at Aichi Hospital Limited, Uttara is 4.30pm to 8.30pm (Closed: Friday).",
-      "chamber": {
-        "hospital": "Aichi Hospital Limited, Uttara",
-        "address": "Plot # 35 & 37, Sector # 08, Abdullahpur, Uttara, Dhaka",
-        "visitingTime": "4.30pm to 8.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801689956599"
-      },
-      "id": "e6d22450-ca0a-4af9-97c5-8b3e630013d6"
-    },
-    {
+      "id": "a89013aa-eb5c-453a-af02-adf8bd333ccc",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-afroza-suraya-majumder/",
+      "imageId": "da4e1846-1005-4ff8-871d-066742f9ca44",
       "name": "Dr. Afroza Suraya Majumder",
       "degree": "MBBS, DLO (ENT)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -1704,11 +2054,31 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "9am to 2pm & 7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801757138425"
-      },
-      "id": "ea8f1542-e121-41b6-8d24-420324c91f75"
+        "appointmentNumber": "+8801757138425Call Now"
+      }
     },
     {
+      "id": "c89f4dbd-0869-46b0-a7ec-8a745edb20ae",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-maj-md-ziauddin-haidar/",
+      "imageId": "ad75bf83-a3e1-458f-a608-1ecc468c6e5e",
+      "name": "Prof. Dr. Maj. Md. Ziauddin Haidar",
+      "degree": "MBBS, MCPS (ENT), DLO (DU), FRSH (UK)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Combined Military Hospital (CMH), Dhaka",
+      "info": "Prof. Dr. Maj. Md. Ziauddin Haidar is a ENT Specialist in Dhaka. His qualification is MBBS, MCPS (ENT), DLO (DU), FRSH (UK). He is a Consultant, ENT at Combined Military Hospital (CMH), Dhaka. He regularly provides treatment to his patients at Aichi Hospital Limited, Uttara. Practicing hour of Prof. Dr. Maj. Md. Ziauddin Haidar at Aichi Hospital Limited, Uttara is 4.30pm to 8.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Aichi Hospital Limited, Uttara",
+        "address": "Plot # 35 & 37, Sector # 08, Abdullahpur, Uttara, Dhaka",
+        "visitingTime": "4.30pm to 8.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801689956599Call Now"
+      }
+    },
+    {
+      "id": "95c271e6-8ad3-4bbd-bfb6-56ad2d767c71",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahmud-ali/",
+      "imageId": "3764a3a5-b0cf-46c9-b312-960209d86246",
       "name": "Dr. Md. Mahmud Ali",
       "degree": "MBBS, BCS (Health), MCPS, FCPS, MS",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -1718,25 +2088,14 @@
         "hospital": "Aalok Health Care, Kachukhet",
         "address": "Room # L-1, Rajanigandha Tower (6th Floor), Kachukhet, Dhaka",
         "visitingTime": "7pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801724505932"
-      },
-      "id": "28f12d66-15db-4308-b785-3d9a54ff42a5"
+        "appointmentNumber": "+8801724505932Call Now"
+      }
     },
     {
-      "name": "Dr. Kamrun Nahar Hurain",
-      "degree": "MBBS. DLO (BSMMU), FCPS (ENT)",
-      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head-Neck Cancer Surgeon",
-      "workplace": "ENT and Head-Neck Cancer Hospital & Institute",
-      "info": "Khidmah Hospital, Dhaka\nAddress: C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka\nVisiting Hour: 6pm to 9pm (Sat, Mon & Wed), 9.30pm to 11pm (Friday)\nAppointment: +8809606063030\nCall Now",
-      "chamber": {
-        "hospital": "Popular Diagnostic Center, Narayanganj",
-        "address": "231/4, B.B. Road, Chashara, Narayanganj – 1400",
-        "visitingTime": "3pm to 6pm (Sunday, Tuesday & Thursday), 11am to 6pm (Friday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "3c2ec1b7-4622-4dc8-9576-62aac5a9b91d"
-    },
-    {
+      "id": "5bac7eb1-5fa9-4fea-ac48-d53e2810d649",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-rakib-hossain/",
+      "imageId": "b9fd94ff-f3e7-40bb-aaa0-07936895cce3",
       "name": "Dr. Md. Rakib Hossain",
       "degree": "MBBS, MCPS (ENT), DLO (BSMMU)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -1746,11 +2105,31 @@
         "hospital": "Labaid Diagnostic, Mirpur",
         "address": "Plot # 09, Block # B, Section # 01, Mirpur, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801614-444141"
-      },
-      "id": "2d411010-7443-41d5-b8f5-ff79680a2276"
+        "appointmentNumber": "+8801614-444141Call Now"
+      }
     },
     {
+      "id": "75397fe2-2be2-4157-9774-2b0abc2bc278",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-kamrun-nahar-hurain/",
+      "imageId": "f05962e9-6a81-4e79-a424-c4a3484a1548",
+      "name": "Dr. Kamrun Nahar Hurain",
+      "degree": "MBBS. DLO (BSMMU), FCPS (ENT)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head-Neck Cancer Surgeon",
+      "workplace": "ENT and Head-Neck Cancer Hospital & Institute",
+      "info": "Khidmah Hospital, Dhaka Address: C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka Visiting Hour: 6pm to 9pm (Sat, Mon & Wed), 9.30pm to 11pm (Friday) Appointment: +8809606063030 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Narayanganj",
+        "address": "231/4, B.B. Road, Chashara, Narayanganj – 1400",
+        "visitingTime": "3pm to 6pm (Sunday, Tuesday & Thursday), 11am to 6pm (Friday)",
+        "appointmentNumber": "+8809666787804Call Now"
+      }
+    },
+    {
+      "id": "e499bbea-7061-480b-8715-095cedbff5a0",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-syed-ali-ahsan-asif/",
+      "imageId": "f80df80b-e423-4312-8405-8ec5de504414",
       "name": "Dr. Syed Ali Ahsan (Asif)",
       "degree": "MBBS (DMC), FCPS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -1760,25 +2139,14 @@
         "hospital": "Aalok Health Care, Mirpur 1",
         "address": "21 Darus Salam Road, Mirpur 1, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Mon & Friday)",
-        "appointmentNumber": "+8801915448500"
-      },
-      "id": "c1b7255d-bee1-4bc8-b04a-1553fd2da489"
+        "appointmentNumber": "+8801915448500Call Now"
+      }
     },
     {
-      "name": "Dr. Tareq Mohammad",
-      "degree": "MBBS, FCPS, FICS (ENT)",
-      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
-      "workplace": "Popular Medical College & Hospital",
-      "info": "Dr. Tareq Mohammad is a ENT Specialist in Dhaka. His qualification is MBBS, FCPS, FICS (ENT). He is a Consultant, ENT at Popular Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Dhanmondi. Practicing hour of Dr. Tareq Mohammad at Popular Diagnostic Center, Dhanmondi is 5pm to 9pm (Closed: Friday).",
-      "chamber": {
-        "hospital": "Popular Diagnostic Center, Dhanmondi",
-        "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
-        "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "b96482be-4ab1-4c3d-91bf-605ba2c51593"
-    },
-    {
+      "id": "f0140300-f6dc-4e08-9071-34ee4f1ede17",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/asso-prof-dr-md-zonaid-rahim/",
+      "imageId": "b9a74580-8811-4a3a-abcb-ddc5f1ac2be6",
       "name": "Asso. Prof. Dr. Md. Zonaid Rahim",
       "degree": "MBBS, DLO",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -1788,25 +2156,31 @@
         "hospital": "Labaid Diagnostic, Uttara (Unit 02)",
         "address": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
         "visitingTime": "7.30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662050"
-      },
-      "id": "39ce973b-7531-4ade-9f43-cc01f9feb451"
+        "appointmentNumber": "+8801766662050Call Now"
+      }
     },
     {
-      "name": "Prof. Dr. Md. Golam Shorowar",
-      "degree": "MBBS, MCPS (ENT), DLO (DU), FRSH (Lndon)",
-      "specialty": "ENT, Head & Neck Surgery Specialist",
-      "workplace": "Shahabuddin Medical College & Hospital",
-      "info": "Prof. Dr. Md. Golam Shorowar is a ENT Specialist in Dhaka. His qualification is MBBS, MCPS (ENT), DLO (DU), FRSH (Lndon). He is working as a ENT, Head & Neck Surgery Specialist doctor in Shahabuddin Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Badda. Practicing hour of Prof. Dr. Md. Golam Shorowar at Popular Diagnostic Center, Badda is 6.30pm to 9pm (Closed: Friday).",
+      "id": "d56eba7c-d033-434c-a431-b3f295f332d4",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-tareq-mohammad/",
+      "imageId": "bf8a25ee-7ec0-4581-a406-c506921a39cb",
+      "name": "Dr. Tareq Mohammad",
+      "degree": "MBBS, FCPS, FICS (ENT)",
+      "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
+      "workplace": "Popular Medical College & Hospital",
+      "info": "Dr. Tareq Mohammad is a ENT Specialist in Dhaka. His qualification is MBBS, FCPS, FICS (ENT). He is a Consultant, ENT at Popular Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Dhanmondi. Practicing hour of Dr. Tareq Mohammad at Popular Diagnostic Center, Dhanmondi is 5pm to 9pm (Closed: Friday).",
       "chamber": {
-        "hospital": "Popular Diagnostic Center, Badda",
-        "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka - 1212",
-        "visitingTime": "6.30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787809"
-      },
-      "id": "9d65eb43-f00b-4293-9de7-64d89aff3db4"
+        "hospital": "Popular Diagnostic Center, Dhanmondi",
+        "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "7acc056a-3e0c-44ba-ad6e-81897a7217bd",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-harun-or-rashid/",
+      "imageId": "43ee068c-f372-4d92-8886-74f5eba0be5b",
       "name": "Dr. Mohammad Harun-Or-Rashid",
       "degree": "MBBS, BCS (Health), DLO (BSMMU), FCPS (ENT)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -1816,11 +2190,31 @@
         "hospital": "Savar Prime Hospital",
         "address": "A-89, Thana Road, Talbagh, Savar, Dhaka - 1340",
         "visitingTime": "4pm to 6pm (Sun, Mon, Wed & Thu)",
-        "appointmentNumber": "+8801752561542"
-      },
-      "id": "dc9fdd3f-c1be-4744-b7ee-fbc3396a9abb"
+        "appointmentNumber": "+8801752561542Call Now"
+      }
     },
     {
+      "id": "3c84ac6d-7f08-45a0-b33e-d197eb093fa4",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-golam-shorowar/",
+      "imageId": "51fdc728-1a6f-4038-be11-7a76dba80cc8",
+      "name": "Prof. Dr. Md. Golam Shorowar",
+      "degree": "MBBS, MCPS (ENT), DLO (DU), FRSH (Lndon)",
+      "specialty": "ENT, Head & Neck Surgery Specialist",
+      "workplace": "Shahabuddin Medical College & Hospital",
+      "info": "Prof. Dr. Md. Golam Shorowar is a ENT Specialist in Dhaka. His qualification is MBBS, MCPS (ENT), DLO (DU), FRSH (Lndon). He is working as a ENT, Head & Neck Surgery Specialist doctor in Shahabuddin Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Badda. Practicing hour of Prof. Dr. Md. Golam Shorowar at Popular Diagnostic Center, Badda is 6.30pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Badda",
+        "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka - 1212",
+        "visitingTime": "6.30pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787809Call Now"
+      }
+    },
+    {
+      "id": "26206c27-98cd-469b-9882-9786f1b57dbd",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-k-m-reza-ul-haq/",
+      "imageId": "11a6e996-3258-4659-bdd3-8670161115ab",
       "name": "Dr. K.M. Reza-Ul-Haq",
       "degree": "MBBS, FCPS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -1830,11 +2224,14 @@
         "hospital": "Delta Hospital, Mirpur",
         "address": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka - 1216",
         "visitingTime": "8.30am to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8801301254924"
-      },
-      "id": "594422f0-6c88-4056-b3cb-d89e2988b910"
+        "appointmentNumber": "+8801301254924Call Now"
+      }
     },
     {
+      "id": "b9ea1621-5c36-40c2-bd09-177e4960f17d",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-arif-mahmud-jewel/",
+      "imageId": "8504dce2-5ff2-48c6-ba93-1c1ad4166395",
       "name": "Dr. Arif Mahmud Jewel",
       "degree": "MBBS, MS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -1844,11 +2241,14 @@
         "hospital": "Islami Bank Specialized & General Hospital, Nayapaltan",
         "address": "71-72, VIP Road, Nayapaltan, Dhaka",
         "visitingTime": "5pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801977552283"
-      },
-      "id": "0da6f4df-1006-4540-963f-c117b3397004"
+        "appointmentNumber": "+8801977552283Call Now"
+      }
     },
     {
+      "id": "ae90d232-2860-4bee-9984-a687a86b8699",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-mofizuddin/",
+      "imageId": "3b80adf9-079c-4150-95e0-f5cb979c3814",
       "name": "Dr. Md. Mofizuddin",
       "degree": "MBBS, FCPS (ENT), DLO (DU)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -1858,25 +2258,14 @@
         "hospital": "Aichi Hospital Limited, Uttara",
         "address": "Plot # 35 & 37, Sector # 08, Abdullahpur, Uttara, Dhaka",
         "visitingTime": "5:30pm to 8:30pm (Closed: Friday)",
-        "appointmentNumber": "+8801689956599"
-      },
-      "id": "7ef85b52-4f2b-4203-9037-8e5354fb3186"
+        "appointmentNumber": "+8801689956599Call Now"
+      }
     },
     {
-      "name": "Dr. Masrur Rahman",
-      "degree": "MBBS, BCS, DPH, DLO, MS (ENT)",
-      "specialty": "ENT Specialist",
-      "workplace": "National Institute of ENT & Hospital",
-      "info": "Dr. Masrur Rahman is a ENT Specialist in Dhaka. His qualification is MBBS, BCS, DPH, DLO, MS (ENT). He is working as a ENT Specialist doctor in National Institute of ENT & Hospital. He regularly provides treatment to his patients at Comfort Diagnostic Center, Dhanmondi. Practicing hour of Dr. Masrur Rahman at Comfort Diagnostic Center, Dhanmondi is 5.30pm to 7pm (Closed: Friday).",
-      "chamber": {
-        "hospital": "Comfort Diagnostic Center, Dhanmondi",
-        "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
-        "visitingTime": "5.30pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801731956033"
-      },
-      "id": "ac4fa205-6a9a-4148-895b-27eeb9aa889a"
-    },
-    {
+      "id": "1c3f4c03-5c6a-48f5-98c2-e737ff366026",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-manash-ranjan-chakraborty/",
+      "imageId": "cc8a25a6-a2f0-4ccb-aecc-e16a716e4295",
       "name": "Dr. Manash Ranjan Chakraborty",
       "degree": "MBBS, DLO",
       "specialty": "ENT Specialist",
@@ -1886,11 +2275,14 @@
         "hospital": "Comfort Diagnostic Center, Dhanmondi",
         "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801731956033"
-      },
-      "id": "73c06fa2-19c3-44af-bfc2-87d53e61132b"
+        "appointmentNumber": "+8801731956033Call Now"
+      }
     },
     {
+      "id": "ca7a4068-06af-48d6-85ad-9ae822d4fb2b",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-didar-md-ibrahim-bhuiyan/",
+      "imageId": "87976125-2e3d-4609-9934-5ffe1a6ebbca",
       "name": "Dr. Didar Md. Ibrahim Bhuiyan",
       "degree": "MBBS, DLO (BSMMU)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -1900,25 +2292,14 @@
         "hospital": "Upasham Health Point (Pvt.) Ltd",
         "address": "House-14, Road-2/B, Block-J, Natun Bazar, Baridhara, Dhaka-1212",
         "visitingTime": "6pm to 8pm (Sat, Sun, Mon & Wed)",
-        "appointmentNumber": "+8801932200200"
-      },
-      "id": "c71d0d8b-44e0-4673-a7af-9af6e3486e8c"
+        "appointmentNumber": "+8801932200200Call Now"
+      }
     },
     {
-      "name": "Dr. Mostafa Kamal Masud",
-      "degree": "MBBS (Dhaka), FCPS (ENT), BCS (Health)",
-      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
-      "workplace": "Shaheed Tajuddin Ahmad Medical College, Gazipur",
-      "info": "Dr. Mostafa Kamal Masud is a ENT Specialist in Dhaka. His qualification is MBBS (Dhaka), FCPS (ENT), BCS (Health). He is a Assistant Professor, Department of ENT at Shaheed Tajuddin Ahmad Medical College, Gazipur. He regularly provides treatment to his patients at Labaid Diagnostic, Uttara (Unit 02). Practicing hour of Dr. Mostafa Kamal Masud at Labaid Diagnostic, Uttara (Unit 02) is 7.30pm to 9pm (Closed: Friday).",
-      "chamber": {
-        "hospital": "Labaid Diagnostic, Uttara (Unit 02)",
-        "address": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
-        "visitingTime": "7.30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662050"
-      },
-      "id": "aad16750-79f1-4ce8-a7b8-4bd74e600102"
-    },
-    {
+      "id": "55307af4-889c-4bc1-be94-37574676c8b2",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-tayob-ali/",
+      "imageId": "d9fddb43-02f9-41bb-a73b-e09444e1a361",
       "name": "Dr. Md. Tayob Ali",
       "degree": "MBBS, MCPS (ENT), CCD (BIRDEM)",
       "specialty": "ENT & Diabetes Specialist",
@@ -1928,11 +2309,48 @@
         "hospital": "Al-Manar Hospital Limited",
         "address": "Plot # Umo, Block # Rossoi, Satmosjid Road, Dhaka",
         "visitingTime": "9am to 1pm (Closed: Friday)",
-        "appointmentNumber": "+8801550020885"
-      },
-      "id": "315776bb-1851-4780-a783-b2d93ac91ea1"
+        "appointmentNumber": "+8801550020885Call Now"
+      }
     },
     {
+      "id": "9f7ebf8e-ac1c-4986-aac2-91c7e1d57ff3",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-masrur-rahman/",
+      "imageId": "0e0e3dd1-913b-472e-8761-d5dd4fea4d65",
+      "name": "Dr. Masrur Rahman",
+      "degree": "MBBS, BCS, DPH, DLO, MS (ENT)",
+      "specialty": "ENT Specialist",
+      "workplace": "National Institute of ENT & Hospital",
+      "info": "Dr. Masrur Rahman is a ENT Specialist in Dhaka. His qualification is MBBS, BCS, DPH, DLO, MS (ENT). He is working as a ENT Specialist doctor in National Institute of ENT & Hospital. He regularly provides treatment to his patients at Comfort Diagnostic Center, Dhanmondi. Practicing hour of Dr. Masrur Rahman at Comfort Diagnostic Center, Dhanmondi is 5.30pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Comfort Diagnostic Center, Dhanmondi",
+        "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
+        "visitingTime": "5.30pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801731956033Call Now"
+      }
+    },
+    {
+      "id": "0580caf5-bb4c-44ae-b7a8-4e022b5b8a13",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-mostafa-kamal-masud/",
+      "imageId": "bb5ec102-6933-42e6-ba01-7cb37aacdd08",
+      "name": "Dr. Mostafa Kamal Masud",
+      "degree": "MBBS (Dhaka), FCPS (ENT), BCS (Health)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Shaheed Tajuddin Ahmad Medical College, Gazipur",
+      "info": "Dr. Mostafa Kamal Masud is a ENT Specialist in Dhaka. His qualification is MBBS (Dhaka), FCPS (ENT), BCS (Health). He is a Assistant Professor, Department of ENT at Shaheed Tajuddin Ahmad Medical College, Gazipur. He regularly provides treatment to his patients at Labaid Diagnostic, Uttara (Unit 02). Practicing hour of Dr. Mostafa Kamal Masud at Labaid Diagnostic, Uttara (Unit 02) is 7.30pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Uttara (Unit 02)",
+        "address": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
+        "visitingTime": "7.30pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662050Call Now"
+      }
+    },
+    {
+      "id": "642f9f01-6ed8-40b9-9518-617a0754e708",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-abu-sufi-ahmed-amin/",
+      "imageId": "508ec9c1-c504-4fa2-a14e-f3dee261edae",
       "name": "Prof. Dr. Abu Sufi Ahmed Amin",
       "degree": "MBBS, DLO (ENT)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -1942,11 +2360,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "10653"
-      },
-      "id": "7e82dcfa-d486-471a-9125-420fbd3da2d8"
+        "appointmentNumber": "10653Call Now"
+      }
     },
     {
+      "id": "4193c9ca-6a82-45f4-9daf-ffd2a10393a2",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-hasan-zafor-rifat/",
+      "imageId": "85043fbf-2b37-408c-8dce-8aca1733f3f6",
       "name": "Dr. Md. Hasan Zafor Rifat",
       "degree": "MBBS, MS (ENT)",
       "specialty": "ENT Specialist & Surgeon",
@@ -1956,11 +2377,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Doyagonj",
         "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
         "visitingTime": "4.30pm to 7pm (Sat to Thu) & 10am to 12pm (Fri)",
-        "appointmentNumber": "+8801878115751"
-      },
-      "id": "a9b74556-1fc1-4ce5-8977-1c8187390391"
+        "appointmentNumber": "+8801878115751Call Now"
+      }
     },
     {
+      "id": "1675984b-1bc0-4f1d-8be5-b097cc087cf1",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahriar-islam/",
+      "imageId": "00e83f1b-7402-40e4-a2e7-4f955de57707",
       "name": "Dr. Md. Shahriar Islam",
       "degree": "MBBS, BCS (Health), FCPS (ENT)",
       "specialty": "ENT Specialist",
@@ -1970,11 +2394,14 @@
         "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
         "address": "1/1 B, Kallyanpur, Dhaka",
         "visitingTime": "6pm to 8pm (Mon, Tue, Thu & Friday)",
-        "appointmentNumber": "+8801703725590"
-      },
-      "id": "ccc46791-23bc-443d-9285-eb9cdcc3489e"
+        "appointmentNumber": "+8801703725590Call Now"
+      }
     },
     {
+      "id": "bce98e0f-ac05-42f4-bd31-d1de55ca28cd",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-r-islam/",
+      "imageId": "2c2fecd8-5afc-4b54-8a44-36764da0e7b9",
       "name": "Prof. Dr. M R Islam",
       "degree": "MBBS, MS(ENT)",
       "specialty": "ENT Specialist",
@@ -1984,11 +2411,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "9am to 2pm & 5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "85b7be0b-c275-4029-8567-456c7323a93a"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "b2beea63-6f30-462e-ab1e-6883c2561c16",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-tawfiqur-rahman/",
+      "imageId": "747b64d2-cf03-432f-a7e5-14c6946f4f7e",
       "name": "Dr. Tawfiqur Rahman",
       "degree": "MBBS, MS (ENT)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -1998,11 +2428,14 @@
         "hospital": "Ibn Sina Medical Imaging Center, Zigatola",
         "address": "House # 58, Road # 2A, Zigatola Bus Stand, Dhaka - 1209",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801711625173"
-      },
-      "id": "b1ea124b-13c2-4718-8d68-3b8913554169"
+        "appointmentNumber": "+8801711625173Call Now"
+      }
     },
     {
+      "id": "e385f6c1-e17f-460a-ab61-bcf8e89dfbac",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-md-wakilur-rahman/",
+      "imageId": "80862bd3-e752-455e-a063-1da64ba9c1db",
       "name": "Dr. Md. Wakilur Rahman",
       "degree": "MBBS, FCPS (ENT)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -2012,11 +2445,14 @@
         "hospital": "Badda General Hospital",
         "address": "107/2, Progati Sarani, Uttar Badda, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801790776722"
-      },
-      "id": "1dbf36d6-9a63-4996-978f-811edb74e287"
+        "appointmentNumber": "+8801790776722Call Now"
+      }
     },
     {
+      "id": "3dc9abe4-4cc0-4816-94ab-09cd588818d5",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-akm-mamun-murshed/",
+      "imageId": "1154dec6-e3df-4a32-81a2-54f4608620c4",
       "name": "Dr. AKM Mamun Murshed",
       "degree": "MBBS, PGDND, DLO",
       "specialty": "Ear, Nose & Throat Specialist",
@@ -2026,11 +2462,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "6.30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "d4133c51-fbbc-41ba-b06f-0fa9b76abc53"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "0e3d11c3-4c71-4788-879e-12a2b26df750",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-amzad-hossain/",
+      "imageId": "87710499-ae4e-4144-8d5e-77c62390166f",
       "name": "Prof. Dr. Md. Amzad Hossain",
       "degree": "MBBS, BCS (Health), MS (ENT)",
       "specialty": "Ear, Nose & Throat Specialist & Surgeon",
@@ -2040,11 +2479,14 @@
         "hospital": "AMZ Hospital, Badda",
         "address": "Cha - 80/3, Progati Sarani, Uttar Badda, Dhaka",
         "visitingTime": "6pm to 8pm (Sunday to Thursday)",
-        "appointmentNumber": "+8801847331013"
-      },
-      "id": "3b32d957-4241-4c1d-8cb8-f23c5e761fe9"
+        "appointmentNumber": "+8801847331013Call Now"
+      }
     },
     {
+      "id": "3c0c98df-f817-4e3d-86cd-87790460dc53",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-sabah-uddin-ahmed/",
+      "imageId": "14121269-da78-4303-8265-8fee5df94177",
       "name": "Dr. Sabah Uddin Ahmed",
       "degree": "MBBS, DLO, MS (Otolaryngology)",
       "specialty": "ENT Specialist",
@@ -2054,11 +2496,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "e322bed6-29a0-4174-b2b0-cacc10cbad7f"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "43198955-6118-486d-9bf0-a9529d06f77a",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-ariful-islam-ent/",
+      "imageId": "83f48e34-78a2-49e5-aaf8-6fa82492f4d5",
       "name": "Dr. Ariful Islam",
       "degree": "MBBS, DLO, Neck Education (UK)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -2068,25 +2513,14 @@
         "hospital": "Mirpur General Hospital & Diagnostic Center",
         "address": "Plot - 10, Road - 4/5, Section - 12, Kalshi Road, Mirpur, Dhaka",
         "visitingTime": "7.30pm to 8.30pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801610964966"
-      },
-      "id": "79cc3b21-5a35-4331-9bab-e97ffb64ba94"
+        "appointmentNumber": "+8801610964966Call Now"
+      }
     },
     {
-      "name": "Dr. Shawly Mahbub",
-      "degree": "MBBS, CCD, DLO (BSMMU), FCPS (ENT)",
-      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
-      "workplace": "Birdem General Hospital & Ibrahim Medical College",
-      "info": "Dr. Shawly Mahbub is a dedicated ENT (Ear, Nose, Throat) Specialist and Head Neck Surgeon in Dhaka, with advanced expertise in the diagnosis and surgical management of ENT conditions including sinusitis, hearing disorders, tonsillitis, nasal polyps, voice problems, and head-neck tumors. She holds an MBBS, CCD, DLO (BSMMU), and FCPS (ENT), reflecting her strong academic foundation and clinical proficiency. Currently, she serves as Associate Professor of ENT & Head Neck Surgery at Birdem General Hospital & Ibrahim Medical College, where she is known for her compassionate care and meticulous surgical skills. Dr. Shawly Mahbub provides consultations at the BIRDEM Specialized Chamber Complex, Shahbag, Dhaka, with visiting hours from 2pm to 4pm (Closed: Friday).",
-      "chamber": {
-        "hospital": "BIRDEM Specialized Chamber Complex",
-        "address": "Main Building, 122, Kazi Nazrul Islam Avenue, Shahbag, Dhaka",
-        "visitingTime": "2pm to 4pm (Closed: Friday)",
-        "appointmentNumber": "+8801615366726"
-      },
-      "id": "9287e88d-60bd-4c7e-9de3-6038f4c4c0e2"
-    },
-    {
+      "id": "9218a594-9794-4e20-81ac-06706219f29f",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-tanvir-ahmed/",
+      "imageId": "6c3e02e8-e74d-4a21-878b-f2edbd07e928",
       "name": "Dr. Tanvir Ahmed",
       "degree": "MBBS, DLO",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -2096,9 +2530,42 @@
         "hospital": "Labaid Diagnostic, Kalabagan",
         "address": "House - 66, Mirpur Road, Kalabagan, Dhaka - 1205",
         "visitingTime": "3pm to 5pm (Sun, Tue & Thursday)",
-        "appointmentNumber": "+8801766661331"
-      },
-      "id": "84ad7233-88d3-489c-93f9-026bef08f606"
+        "appointmentNumber": "+8801766661331Call Now"
+      }
+    },
+    {
+      "id": "c255844b-c0dd-4b0d-aed3-cda2ee50aa32",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/dr-shawly-mahbub/",
+      "imageId": "49609403-51a4-4e28-82cd-eb4d5e5cc203",
+      "name": "Dr. Shawly Mahbub",
+      "degree": "MBBS, CCD, DLO (BSMMU), FCPS (ENT)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Birdem General Hospital & Ibrahim Medical College",
+      "info": "Dr. Shawly Mahbub is a dedicated ENT (Ear, Nose, Throat) Specialist and Head Neck Surgeon in Dhaka, with advanced expertise in the diagnosis and surgical management of ENT conditions including sinusitis, hearing disorders, tonsillitis, nasal polyps, voice problems, and head-neck tumors. She holds an MBBS, CCD, DLO (BSMMU), and FCPS (ENT), reflecting her strong academic foundation and clinical proficiency. Currently, she serves as Associate Professor of ENT & Head Neck Surgery at Birdem General Hospital & Ibrahim Medical College, where she is known for her compassionate care and meticulous surgical skills. Dr. Shawly Mahbub provides consultations at the BIRDEM Specialized Chamber Complex, Shahbag, Dhaka, with visiting hours from 2pm to 4pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "BIRDEM Specialized Chamber Complex",
+        "address": "Main Building, 122, Kazi Nazrul Islam Avenue, Shahbag, Dhaka",
+        "visitingTime": "2pm to 4pm (Closed: Friday)",
+        "appointmentNumber": "+8801615366726Call Now"
+      }
+    },
+    {
+      "id": "2972152b-630a-4c33-897b-62d8b0c3b4c0",
+      "departmentId": "fca7fd30-0b05-47ff-84fb-aebb5634b73b",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-asadur-rahman/",
+      "imageId": "5a089c50-1ccd-42ed-9748-4f139ea0546e",
+      "name": "Prof. Dr. Md. Asadur Rahman",
+      "degree": "MBBS (DMC), MS (ENT), FACS (USA), MRCPS (Glasgow)",
+      "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Prof. Dr. Md. Asadur Rahman is a highly experienced ENT (Ear, Nose, Throat) Specialist and Head Neck Surgeon in Dhaka, holding MBBS (DMC), MS (ENT), FACS (USA), and MRCPS (Glasgow) degrees, along with a Fellowship in Endoscopic Sinus Surgery from India. As Professor and Head of the ENT Department at Dhaka Medical College & Hospital, he is skilled in managing a wide range of ENT-related conditions, including sinusitis, nasal polyps, tonsillitis, ear infections, hearing loss, thyroid disorders, head and neck tumors, and voice-related problems. Prof. Dr. Asadur Rahman provides consultations at Anwer Khan Modern Medical College Hospital, Room 6312, House #20, Road #8, Dhanmondi R/A, Dhaka, from 5pm to 9pm (closed on Friday).",
+      "chamber": {
+        "hospital": "Anwer Khan Modern Medical College Hospital",
+        "address": "Room: 6312, House # 20, Road # 08, Dhanmondi R/A, Dhaka",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801781458544Call Now"
+      }
     }
   ]
 }

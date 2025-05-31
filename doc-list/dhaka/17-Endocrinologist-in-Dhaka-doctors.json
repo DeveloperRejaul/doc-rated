@@ -1,20 +1,27 @@
 {
   "doctor": [
     {
+      "id": "50f1a65e-8250-4829-a9d7-f22adfabbafa",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-md-shayedat-ullah/",
+      "imageId": "b23a77a0-9935-4fed-9572-6f2e3c3adcb7",
       "name": "Dr. Md. Shayedat Ullah",
       "degree": "MBBS (Dhaka), BCS (Health), MACP (USA), MACE (USA), MD (Endocrinology & Metabolism) (BSMMU)",
       "specialty": "Diabetes, Thyroid, Hormone, Obesity, Metabolic & Sexual Diseases Specialist",
       "workplace": "National Institute of Burn & Plastic Surgery, Shahbag, Dhaka",
-      "info": "Insaf Barakah Kidney & General Hospital\nAddress: 11, Shaheed Tajuddin Ahmed Sarani, Mogbazar, Dhaka\nVisiting Hour: 3.30pm to 7pm (Closed: Thu & Friday)\nAppointment: +8801987851666\nCall Now",
+      "info": "Insaf Barakah Kidney & General Hospital Address: 11, Shaheed Tajuddin Ahmed Sarani, Mogbazar, Dhaka Visiting Hour: 3.30pm to 7pm (Closed: Thu & Friday) Appointment: +8801987851666 Call Now",
       "chamber": {
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "6.30pm to 10pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801987851666"
-      },
-      "id": "b1d8f38b-12d7-454d-a5c9-dd36ef66fb1d"
+        "appointmentNumber": "+8801987851666Call Now"
+      }
     },
     {
+      "id": "a7b677aa-647c-43c3-92cb-a69bab47f5b5",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-m-s-alam-utsha/",
+      "imageId": "2defb14b-e8dd-498b-9b3f-a37287a071b2",
       "name": "Dr. M S Alam (Utsha)",
       "degree": "MBBS, FCPS (Medicine), FCPS ( Gastroenterology, Thesis), CCD (BIRDEM), EDC (BIRDEM), C-CARD",
       "specialty": "Medicine, Gastroliver, Rheumatology, Hormone & Diabetes Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "Room 505, House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "4pm to 9pm (Sat to Thu) & 7:30pm to 10pm (Friday)",
-        "appointmentNumber": "+8801872777770"
-      },
-      "id": "d5ee7f0b-754c-454a-86cb-0038f79fb92b"
+        "appointmentNumber": "+8801872777770Call Now"
+      }
     },
     {
+      "id": "d82927e6-3ca5-4e92-af02-98dba9106f6a",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-dalia-sultana/",
+      "imageId": "71dd4bbc-4273-4f6d-b755-04824fe9fc5c",
       "name": "Dr. Dalia Sultana",
       "degree": "MBBS (DU), MD (Endocrinology, BIRDEM), CCD (Diabetology, BIRDEM)",
       "specialty": "Diabetes, Thyroid and Hormone Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Medinova Medical Services, Malibagh",
         "address": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
         "visitingTime": "4pm to 6pm (Sat, Tue & Wed)",
-        "appointmentNumber": "+8801716410062, +8801790118855"
-      },
-      "id": "e319241f-e467-49c3-95ea-6b09f285c079"
+        "appointmentNumber": "+8801716410062, +8801790118855Call Now"
+      }
     },
     {
+      "id": "39023eb7-1ae2-4bfd-a7dc-3ec77725017e",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-mdashikur-rahman/",
+      "imageId": "e86ed012-4284-459b-8677-db6bcff924ad",
       "name": "Dr. Md. Ashiqur Rahman",
       "degree": "MBBS (DMC), BCS (Health), MCPS (Medicine), MRCP (UK), MD (Endocrinology & Metabolism)",
       "specialty": "Endocrinology (Diabetes, Thyroid & Hormone) & Medicine Specialist",
@@ -52,25 +65,31 @@
         "hospital": "Medinova Medical Services, Malibagh",
         "address": "Gimcon Tower, 255, New Circular Road, Malibagh, Dhaka",
         "visitingTime": "6pm to 9pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801727041923, +8801790118866"
-      },
-      "id": "1de0aeee-4c2a-47cf-a615-d09f09ff4657"
+        "appointmentNumber": "+8801727041923, +8801790118866Call Now"
+      }
     },
     {
+      "id": "aea9e99e-8bea-4346-88f4-086c511fb4c1",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahmud-hasan/",
+      "imageId": "202aafb4-6099-4798-b304-39a6b515844e",
       "name": "Dr. Md. Mahmud Hasan",
       "degree": "MBBS, BCS, MD (Endocrinology & Metabolism), MACE (USA)",
       "specialty": "Endocrinologist (Diabetes, Thyroid, Obesity & Hormone Specialist)",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Sonia Nursing Home, Tangail\nAddress: New Bus Stand (Opposite of Janata Bank), Tangail\nVisiting Hour: 9am to 5pm (Every Friday)\nAppointment: +8801622351235\nCall Now",
+      "info": "Sonia Nursing Home, Tangail Address: New Bus Stand (Opposite of Janata Bank), Tangail Visiting Hour: 9am to 5pm (Every Friday) Appointment: +8801622351235 Call Now",
       "chamber": {
         "hospital": "Central Hospital, Dhanmondi",
         "address": "Room 240, House # 02, Road # 05, Green Road, Dhanmondi, Dhaka",
         "visitingTime": "6.30pm to 8.30pm (Wednesday & Friday Closed)",
-        "appointmentNumber": "+8801622351235"
-      },
-      "id": "0d71bf01-653a-47bf-9592-bdecd881bd0e"
+        "appointmentNumber": "+8801622351235Call Now"
+      }
     },
     {
+      "id": "2d6d7f6d-334a-4379-9c35-6480005d0464",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-hafizur-rahman/",
+      "imageId": "263f60ea-dad9-4520-be65-7846e3783528",
       "name": "Prof. Dr. Md. Hafizur Rahman",
       "degree": "MBBS (DMC), DEM (BIRDEM), MD (Endocrinology), MACE (USA)",
       "specialty": "Diabetes, Thyroid & Hormone Diseases Specialist",
@@ -80,67 +99,82 @@
         "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
         "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787805"
-      },
-      "id": "964f5b70-7cba-426d-8bda-62c40785794c"
+        "appointmentNumber": "+8809666787805Call Now"
+      }
     },
     {
+      "id": "aa56f67d-cdb6-4afd-89bf-a119b9c53ab0",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-farid-uddin/",
+      "imageId": "5c5d0487-b557-48b8-bc5b-b7b1061dbb18",
       "name": "Prof. Dr. Md. Farid Uddin",
-      "degree": "MBBS, DEM, MD (Endocrinology)",
+      "degree": "MBBS, DEM, MD (Endocrinology & Metabolism)",
       "specialty": "Endocrinology (Diabetes, Thyroid & Hormonal Diseases) Specialist",
-      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Prof. Dr. Md. Farid Uddin is a Endocrinologist  in Dhaka. His qualification is MBBS, DEM, MD (Endocrinology). He is a Professor & Chairman, Endocrinology & Metabolism at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Dhanmondi. Practicing hour of Prof. Dr. Md. Farid Uddin at Popular Diagnostic Center, Dhanmondi is 5pm to 9pm (Closed: Friday).",
+      "workplace": "Bangladesh Medical University (PG Hospital)",
+      "info": "Prof. Dr. Md. Farid Uddin is a highly respected Endocrinology (Diabetes, Thyroid & Hormonal Diseases) specialist in Dhaka, holding MBBS, DEM, and MD (Endocrinology & Metabolism) degrees. As the Founder Chairman of the Endocrinology Department at Bangladesh Medical University (PG Hospital), he has dedicated his career to diagnosing and treating complex hormonal disorders, including diabetes, thyroid diseases, obesity, pituitary disorders, adrenal gland problems, and other endocrine-related conditions. Dr. Md. Farid Uddin provides consultations at Popular Diagnostic Center, Dhanmondi (Room 505, Bhaban 2, House #16, Road #2, Dhanmondi R/A, Dhaka), where he is available from 10am to 1pm and 6pm to 9pm, Sunday to Thursday.",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Dhanmondi",
-        "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
-        "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "0ea4b23c-39d3-4eab-8056-ea3f794c23fa"
+        "address": "Room: 505, Bhaban 2, House # 16, Road # 2, Dhanmondi R/A, Dhaka",
+        "visitingTime": "10am to 1pm & 6pm to 9pm (Sunday to Thursday)",
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "43fb778c-ff43-4082-89e5-7547842c3dbb",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/prof-dr-indrajit-prasad/",
+      "imageId": "c7c63d18-9273-43a3-ae7c-b375415078bb",
       "name": "Prof. Dr. Indrajit Prasad",
       "degree": "MBBS (DMC), FCPS (Medicine) MD (Endocrinology), FACE (USA)",
       "specialty": "Diabetes, Thyroid & Hormone Specialist",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Bangladesh Specialized Hospital\nAddress: 21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8809666700100\nCall Now",
+      "info": "Bangladesh Specialized Hospital Address: 21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh Visiting Hour: Unknown. Please call to know visiting hour Appointment: +8809666700100 Call Now",
       "chamber": {
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "5pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "4e957413-8118-47fc-90df-5d3449e69450"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "b09ed151-0b84-4290-aa6b-f2b23c9bcf71",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/prof-sm-ashrafuzzaman/",
+      "imageId": "5f240f0e-cf61-48c1-a01a-a0af4a79e10a",
       "name": "Prof. Dr. SM Ashrafuzzaman",
       "degree": "MBBS (DMC), DEM (DU), MD (Endocrinology), FAACE (USA)",
       "specialty": "Diabetes, Hormone & Thyroid Specialist",
       "workplace": "Birdem General Hospital & Ibrahim Medical College",
-      "info": "Khidmah Hospital, Dhaka\nAddress: C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka\nVisiting Hour: 6pm to 8.30pm (Only Thursday)\nAppointment: +8809606063030\nCall Now",
+      "info": "Khidmah Hospital, Dhaka Address: C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka Visiting Hour: 6pm to 8.30pm (Only Thursday) Appointment: +8809606063030 Call Now",
       "chamber": {
         "hospital": "BIRDEM Specialized Chamber Complex",
         "address": "Main Building, Room - 6, 122, Kazi Nazrul Islam Avenue, Dhaka",
         "visitingTime": "3pm By Appointment (Monday & Wednesday)",
-        "appointmentNumber": "+8801847259770"
-      },
-      "id": "3d7592ea-ead2-4314-8587-c80ae1137402"
+        "appointmentNumber": "+8801847259770Call Now"
+      }
     },
     {
+      "id": "341dd68a-27d5-4aa7-8ef9-beed6fa8fecd",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-marufa-mustari/",
+      "imageId": "d910e556-1429-4f22-8d09-b1dd031a31ec",
       "name": "Dr. Marufa Mustari",
       "degree": "MBBS, FCPS (Endocrinology & Metabolism), MACE (USA)",
       "specialty": "Diabetes, Thyroid & Hormone Specialist",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "BRB Hospital, Dhaka\nAddress: 77/A, East Rajabazar, West Panthapath, Dhaka\nVisiting Hour: 3pm to 5pm (Sun, Tue, Thu & Fri)\nAppointment: +8801777764800\nCall Now",
+      "info": "BRB Hospital, Dhaka Address: 77/A, East Rajabazar, West Panthapath, Dhaka Visiting Hour: 3pm to 5pm (Sun, Tue, Thu & Fri) Appointment: +8801777764800 Call Now",
       "chamber": {
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "5355d0ae-73db-4e63-96ad-6fcf13604dfc"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "b5493fcf-08e7-4070-976e-65bb90b6e428",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/prof-dr-tofail-ahmed/",
+      "imageId": "8c44eb11-b4e7-481e-8c92-d15a5e651189",
       "name": "Prof. Dr. Tofail Ahmed",
       "degree": "MBBS, DEM, MPhil, PhD",
       "specialty": "Endocrinology (Diabetes, Thyroid & Hormonal Diseases) Specialist",
@@ -150,11 +184,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "5pm to 8pm (Thursday & Friday)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "08520ebc-3302-4d84-b096-5ce44dc10b90"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "2a6ed106-b272-4b9c-aa87-30a999035a08",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-sharmin-jahan/",
+      "imageId": "ca34b022-0ee3-4aaf-9412-850d1e4f076f",
       "name": "Dr. Sharmin Jahan",
       "degree": "MBBS, FCPS (Medicine), MD (Endocrinology)",
       "specialty": "Diabetes, Thyroid & Hormone Specialist",
@@ -164,25 +201,31 @@
         "hospital": "Ibn Sina Diagnostic Center, Doyagonj",
         "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
         "visitingTime": "4.30pm to 9pm (Closed: Tue & Fri)",
-        "appointmentNumber": "+8801878115751"
-      },
-      "id": "ecd452c0-00a9-437b-b15f-db6fe668363e"
+        "appointmentNumber": "+8801878115751Call Now"
+      }
     },
     {
+      "id": "0395d9dd-6cfd-4f65-8a1d-54f3ff2209c1",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-feroz-amin/",
+      "imageId": "ae92db3f-3182-4f11-b0a1-ef4e05289d89",
       "name": "Prof. Dr. Feroz Amin",
       "degree": "MBBS, MD (Endocrinology), FACE (USA)",
       "specialty": "Endocrinology (Diabetes, Thyroid, Hormonal Diseases) Specialist",
       "workplace": "Birdem General Hospital & Ibrahim Medical College",
-      "info": "BIRDEM Specialized Chamber Complex\nAddress: Main Building, 122, Kazi Nazrul Islam Avenue, Shahbag, Dhaka\nVisiting Hour: 2pm to 4pm (Closed: Monday & Friday)\nAppointment: +8801771940407\nCall Now",
+      "info": "BIRDEM Specialized Chamber Complex Address: Main Building, 122, Kazi Nazrul Islam Avenue, Shahbag, Dhaka Visiting Hour: 2pm to 4pm (Closed: Monday & Friday) Appointment: +8801771940407 Call Now",
       "chamber": {
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "7966605b-db35-4ad8-9766-0d319819f6d9"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "18195fa5-2691-45ac-ac46-61ab29d4e32c",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-rushda-sharmin-binte-rauf/",
+      "imageId": "ed45a1b6-4d3f-4bd4-8380-4e63f32838d7",
       "name": "Dr. Rushda Sarmin Binte Rouf",
       "degree": "MBBS (DMC), FCPS (Medicine), Gold Medalist, MD (Endocrinology)",
       "specialty": "Diabetes, Thyroid & Hormone Specialist",
@@ -192,11 +235,14 @@
         "hospital": "Popular Diagnostic Center, Badda",
         "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka - 1212",
         "visitingTime": "1pm to 4pm (Saturday)",
-        "appointmentNumber": "+8809666787809"
-      },
-      "id": "070536f7-750d-445e-be6b-1242ab839c6f"
+        "appointmentNumber": "+8809666787809Call Now"
+      }
     },
     {
+      "id": "be66fa45-3bb7-4ae0-b871-facd0bcf0501",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-a-hasnat/",
+      "imageId": "4a70daec-c7cb-45ad-b348-cbcb81668de6",
       "name": "Prof. Dr. M A Hasanat",
       "degree": "MBBS, MPhil, MD (Endocrinology)",
       "specialty": "Endocrinology (Diabetes, Thyroid & Hormone) Specialist",
@@ -206,11 +252,14 @@
         "hospital": "Samorita Hospital Ltd, Panthapath",
         "address": "89/1, Panthapath, Dhaka - 1215, Bangladesh",
         "visitingTime": "6pm to 9pm (Sun, Mon, Tue & Wed)",
-        "appointmentNumber": "10674"
-      },
-      "id": "8ebbf609-8f43-4e67-a69e-7dcdaaad2626"
+        "appointmentNumber": "10674Call Now"
+      }
     },
     {
+      "id": "eeb13342-264f-445e-b597-2e1645a9ef76",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-tania-tofail/",
+      "imageId": "4662f33c-84d6-4d1d-8005-c4ab2071da01",
       "name": "Dr. Tania Tofail",
       "degree": "MBBS, CCD (BIRDEM), MRCP (UK), MD (Endocrinology)",
       "specialty": "Diabetes, Thyroid & Hormone Specialist",
@@ -220,25 +269,31 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Sun, Tues & Friday)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "818eb255-ab70-405f-8086-753584e54ef0"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "9b6754e6-ac66-4156-841a-b015974bfee6",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-a-mannan/",
+      "imageId": "474fb7d3-a013-4428-a987-b4c84b547228",
       "name": "Prof. Dr. M. A. Mannan",
       "degree": "MBBS, MCS (Medicine), MD (Endocrinology), MACE (USA), FACE (USA)",
       "specialty": "Diabetics, Thyroid, Hormone & Pancreatic Specialist",
       "workplace": "Anwer Khan Modern Medical College & Hospital",
-      "info": "Islami Bank Hospital, Motijheel\nAddress: 24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka\nVisiting Hour: 3.30pm to 5pm (Closed: Friday)\nAppointment: +8801727666741\nCall Now",
+      "info": "Islami Bank Hospital, Motijheel Address: 24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka Visiting Hour: 3.30pm to 5pm (Closed: Friday) Appointment: +8801727666741 Call Now",
       "chamber": {
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "9am to 12pm (Closed: Friday)",
-        "appointmentNumber": "+8801712163463"
-      },
-      "id": "d421375c-9640-4de3-9ff3-bea486f22f7f"
+        "appointmentNumber": "+8801712163463Call Now"
+      }
     },
     {
+      "id": "cefb8aee-41dc-4bc6-b32e-30dd30eaab4f",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-sultana-marufa-shafin/",
+      "imageId": "a121af3c-7392-4be3-811a-74524c46c784",
       "name": "Dr. Sultana Marufa Shefin",
       "degree": "MBBS, MD (Endocrinology)",
       "specialty": "Endocrinology (Hormone, Diabetes, Thyroid & Medicine) Specialist",
@@ -248,39 +303,48 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "3.30pm to 7pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "709f0f63-060e-4254-a541-777b1cb324f3"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "d7cba0b0-d6c9-416f-8e18-afe549ea6d48",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-m-a-halim-khan/",
+      "imageId": "bfa1ae34-6acd-4236-aad6-81b8adf0e1cb",
       "name": "Dr. M A Halim Khan",
       "degree": "MBBS, BCS (Health), MD (Endocrinology)",
       "specialty": "Diabetes, Thyroid, Hormone Specialist & Endocrinologist",
       "workplace": "Shaheed Suhrawardy Medical College & Hospital",
-      "info": "Farazy Hospital, Banasree\nAddress: House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka\nVisiting Hour: 5pm to 7.30pm (Closed: Tue & Friday)\nAppointment: +8801882084414\nCall Now",
+      "info": "Farazy Hospital, Banasree Address: House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka Visiting Hour: 5pm to 7.30pm (Closed: Tue & Friday) Appointment: +8801882084414 Call Now",
       "chamber": {
         "hospital": "Labaid Diagnostic, Malibagh",
         "address": "House # B65, Chowdhury Para, Malibagh, Dhaka",
         "visitingTime": "7.30pm to 10.30pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801766660208"
-      },
-      "id": "4e3c7fcc-f370-455d-b0ae-84c16c08431d"
+        "appointmentNumber": "+8801766660208Call Now"
+      }
     },
     {
+      "id": "3a1944a5-b98b-4a9f-b437-927ca69bf753",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-md-murshed-ahmed-khan/",
+      "imageId": "66cfa789-436a-48ed-8b05-a81cf8b75fc3",
       "name": "Dr. Md. Murshed Ahmed Khan",
       "degree": "MBBS (Dhaka), MD (Endocrinology), MACP, MACE (USA)",
       "specialty": "Diabetes, Thyroid, Hormone & Medicine Specialist",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Central Hospital, Dhanmondi\nAddress: House # 02, Road # 05, Green Road, Dhanmondi, Dhaka – 1205\nVisiting Hour: 6pm to 9pm (Sat, Mon & Thursday)\nAppointment: +8802-41060800\nCall Now",
+      "info": "Central Hospital, Dhanmondi Address: House # 02, Road # 05, Green Road, Dhanmondi, Dhaka – 1205 Visiting Hour: 6pm to 9pm (Sat, Mon & Thursday) Appointment: +8802-41060800 Call Now",
       "chamber": {
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "6pm to 9pm (Sun, Tues & Wednesday)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "047737df-9bd2-4f02-8129-4c536e43905e"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
+      "id": "8ff3db65-8035-4446-a7bd-53c45b4f5cf9",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-zobaida-naznin/",
+      "imageId": "a467c437-2a08-436d-a4fc-f1410c28f85e",
       "name": "Dr. Jobaida Nazneen",
       "degree": "MBBS, MD (Endocrinology)",
       "specialty": "Endocrinology (Hormone, Diabetes & Thyroid) Specialist",
@@ -290,11 +354,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "6pm to 8pm (Closed: Mon & Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "592e9145-6a01-442b-8a12-9cde427b8522"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "e59619cb-b896-4ea9-9ec0-ce6e05daec62",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/prof-dr-mir-mosarraf-hossain/",
+      "imageId": "6b2f3257-5c96-450d-9d9a-db33e5c07c1f",
       "name": "Prof. Dr. Mir Mosarraf Hossain",
       "degree": "MBBS, DEM (DU), MD (Endocrinology)",
       "specialty": "Endocrinology (Diabetes, Thyroid & Hormonal Diseases) Specialist",
@@ -304,11 +371,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "4:30pm to 8:30pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "7fab4afd-3106-43d7-81f8-ebf23f9133ce"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "b258027c-016f-4b43-b960-e6d81226b0a9",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-tanjina-hossain/",
+      "imageId": "7ffeb16b-4883-4714-9406-885b4ba08605",
       "name": "Dr. Tanjina Hossain",
       "degree": "MBBS, MD (Endocrinology)",
       "specialty": "Diabetes, Thyroid & Hormone Specialist",
@@ -318,25 +388,31 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "5.00pm to 7.00pm (Closed: Saturday, Monday & Friday)",
-        "appointmentNumber": "+8801751920103"
-      },
-      "id": "f6d317f4-df18-4dea-84b6-61bdb181b634"
+        "appointmentNumber": "+8801751920103Call Now"
+      }
     },
     {
+      "id": "ba607dfb-cc58-4b0b-bedb-bf98b2545170",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-faria-afsana/",
+      "imageId": "ba8f4913-f773-4afe-8798-6756acd74a4d",
       "name": "Dr. Faria Afsana",
       "degree": "MBBS, DEM, MD (Endocrinology), FACE, MACP",
       "specialty": "Endocrinology (Hormone, Diabetes, Thyroid & Medicine) Specialist",
       "workplace": "Birdem General Hospital & Ibrahim Medical College",
-      "info": "BIRDEM Specialized Chamber Complex\nAddress: Main Building, 122, Kazi Nazrul Islam Avenue, Shahbag, Dhaka\nVisiting Hour: 2.30pm to 5.30pm (Closed: Friday)\nAppointment: +8801407059574\nCall Now",
+      "info": "BIRDEM Specialized Chamber Complex Address: Main Building, 122, Kazi Nazrul Islam Avenue, Shahbag, Dhaka Visiting Hour: 2.30pm to 5.30pm (Closed: Friday) Appointment: +8801407059574 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "5:30pm to 8:30pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "790587af-8779-4688-a9b4-8877085fa08a"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "390d643e-0152-48ca-af6c-b02e5fb730a1",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/prof-dr-naseem-akhter-chowdhury/",
+      "imageId": "d8d82ac1-1706-44c0-af64-f9319ba7d112",
       "name": "Prof. Dr. Naseem Akhter Chowdhury",
       "degree": "MBBS, FCPS (Medicine), FACP (USA)",
       "specialty": "Medicine, Diabetes, Thyroid & Hormonal Disease Specialist",
@@ -346,25 +422,31 @@
         "hospital": "Popular Diagnostic Center, Mirpur",
         "address": "Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka",
         "visitingTime": "4pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787807"
-      },
-      "id": "f6d15b43-722a-489b-9349-b1ffc5dda5a8"
+        "appointmentNumber": "+8809666787807Call Now"
+      }
     },
     {
+      "id": "2bc4677b-94c1-4983-bc43-66face6f206d",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-mahmudul-haque/",
+      "imageId": "38ccf797-e73f-47a2-9843-561fa51f7bd8",
       "name": "Prof. Dr. Mahmudul Haque",
       "degree": "MBBS (DMC), MD (Endocrinology)",
       "specialty": "Endocrinology (Hormone, Diabetes, Thyroid Diseases) Specialist",
       "workplace": "Holy Family Red Crescent Medical College & Hospital",
-      "info": "Islami Bank Central Hospital, Kakrail\nAddress: 30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000\nVisiting Hour: 3pm to 4pm (Closed: Friday)\nAppointment: +8801810000116\nCall Now",
+      "info": "Islami Bank Central Hospital, Kakrail Address: 30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000 Visiting Hour: 3pm to 4pm (Closed: Friday) Appointment: +8801810000116 Call Now",
       "chamber": {
         "hospital": "Bangladesh Specialized Hospital",
         "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
         "visitingTime": "11am to 3pm (Closed: Friday)",
-        "appointmentNumber": "+8809666700100"
-      },
-      "id": "b5461fde-dba7-4b55-82e1-55ab939d7fab"
+        "appointmentNumber": "+8809666700100Call Now"
+      }
     },
     {
+      "id": "32b7889c-abf0-4dca-a52c-f5e48eb23d6f",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-afsar-ahammed/",
+      "imageId": "2cc0551b-6277-43d3-8899-74dbd208a2f5",
       "name": "Dr. Afsar Ahmed",
       "degree": "MBBS, BCS (Health), MD (Endocrinology), MACE ( USA)",
       "specialty": "Diabetes & Hormone Specialist",
@@ -374,11 +456,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Savar",
         "address": "31/6 Jaleshwar, Aricha Road, Savar, Dhaka - 1340",
         "visitingTime": "3pm to 7.30pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+88 09610009613"
-      },
-      "id": "d3069234-d228-42c3-8599-c2bba1005c8d"
+        "appointmentNumber": "+88 09610009613Call Now"
+      }
     },
     {
+      "id": "03f721ed-d19e-4402-a251-13f37b8b0059",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/prof-dr-abdul-mannan-sarker/",
+      "imageId": "f85117d1-5e88-48c8-8bf7-8618db72ce30",
       "name": "Prof. Dr. Abdul Mannan Sarker",
       "degree": "MBBS, DEM (DU), MD (Endocrinology)",
       "specialty": "Endocrinology (Hormone, Diabetes, Thyroid & Growth Disorders) Specialist",
@@ -388,11 +473,14 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10678"
-      },
-      "id": "5c71c9f1-a2df-41f9-a873-7cf35a788bdd"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "7d855bb9-4621-4757-9b69-bb94746976b9",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-m-saifuddin/",
+      "imageId": "1eadbeb6-298f-4306-9b4b-cfde9ada50eb",
       "name": "Dr. M Saifuddin",
       "degree": "MBBS, BCS, MD (Endocrinology), FRCP, FACP, FACE, FRSM",
       "specialty": "Diabetes & Hormone Specialist",
@@ -402,11 +490,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "2318ac67-84c6-4428-ab2d-847a011c0c28"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "987b6272-dd86-40b7-b8ce-50a023d2807b",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-md-firoj-hossain/",
+      "imageId": "abd8aa71-6852-4e85-8220-59d219a216fc",
       "name": "Dr. Md. Firoj Hossain",
       "degree": "MBBS, FCPS (Medicine), MD (Endocrinology), DEM (BIRDEM), MACE & MACP (USA)",
       "specialty": "Endocrinology (Hormone, Diabetes, Thyroid) & Medicine Specialist",
@@ -416,39 +507,48 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "e36d6d49-f326-4421-9caa-08543099da7f"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "85ebaa18-a8d3-48d7-b841-9ee2fe95050c",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-shahjamal-khan/",
+      "imageId": "5b693877-376b-4540-8531-5fb1cfc16b2e",
       "name": "Prof. Dr. Md. Shahjamal Khan",
       "degree": "MBBS, MD (Endocrinology), FACE (USA)",
       "specialty": "Diabetes, Thyroid & Hormone Diseases Specialist",
       "workplace": "Enam Medical College & Hospital",
-      "info": "Enam Medical College & Hospital\nAddress: 9/3 Parboti Nagar, Thana Road, Savar, Dhaka\nVisiting Hour: 8am to 2.30pm (Closed: Friday)\nAppointment: +8801716358146\nCall Now",
+      "info": "Enam Medical College & Hospital Address: 9/3 Parboti Nagar, Thana Road, Savar, Dhaka Visiting Hour: 8am to 2.30pm (Closed: Friday) Appointment: +8801716358146 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
         "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
         "visitingTime": "6pm to 9pm (Tuesday, Wednesday & Thursday)",
-        "appointmentNumber": "+8809666787805"
-      },
-      "id": "e046590c-7441-4323-858b-e8c02fa0689d"
+        "appointmentNumber": "+8809666787805Call Now"
+      }
     },
     {
+      "id": "1fae2657-c4a2-43eb-8400-d0acb1febcfd",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-shahjada-selim/",
+      "imageId": "35e75193-6cd5-409f-95fa-672648d57503",
       "name": "Dr. Shahjada Selim",
       "degree": "MBBS, MD (Endocrinology), MACE (USA)",
       "specialty": "Diabetes, Thyroid Disorders, Obesity, Metabolic Disorders, Sexual Dysfunctions Specialist",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Uttara Crescent Diagnostic & Consultation Center\nAddress: House # 16, Sector # 7, Rabindra Sarani, Uttara, Dhaka – 1230\nVisiting Hour: 3pm to 9pm (Sun, Tue & Thu)\nAppointment: +8809666710665\nCall Now",
+      "info": "Uttara Crescent Diagnostic & Consultation Center Address: House # 16, Sector # 7, Rabindra Sarani, Uttara, Dhaka – 1230 Visiting Hour: 3pm to 9pm (Sun, Tue & Thu) Appointment: +8809666710665 Call Now",
       "chamber": {
         "hospital": "Comfort Diagnostic Center, Dhanmondi",
         "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "3pm to 8pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801731956033"
-      },
-      "id": "886190a8-3909-4d16-a161-ef3d7668b625"
+        "appointmentNumber": "+8801731956033Call Now"
+      }
     },
     {
+      "id": "8f5ed555-ba47-4f8d-9419-9b9ec72179a0",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-imtiaz-mahbub/",
+      "imageId": "e731397e-9014-4005-9263-bfa51aaebce2",
       "name": "Dr. Mohammad Imtiaj Mahbub",
       "degree": "MBBS, MD (Endocrinology)",
       "specialty": "Endocrinology (Diabetes, Thyroid & Hormonal Diseases) Specialist",
@@ -458,11 +558,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "4pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "f6daa8b7-bf25-476e-b15b-afdaba9a43f6"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "0ff57391-5463-49ba-b10e-285dbac8815d",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-afroza-begum/",
+      "imageId": "7b814e09-fa48-4211-bdf4-33d7c35f169d",
       "name": "Dr. Afroza Begum",
       "degree": "MBBS, BCS (Health), MD (Endocrinology)",
       "specialty": "Diabetes & Hormone Specialist",
@@ -472,25 +575,31 @@
         "hospital": "Ibn Sina Diagnostic Center, Malibagh",
         "address": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
         "visitingTime": "6.30pm to 8pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801844141717"
-      },
-      "id": "e3250634-920c-4ae2-9c13-804a0b6ea8ad"
+        "appointmentNumber": "+8801844141717Call Now"
+      }
     },
     {
+      "id": "a2ee7dbd-4ef4-4a1b-8e7b-5ca67102eedb",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-md-mazharul-huq-tanim/",
+      "imageId": "965c4276-2ecb-4caf-b35d-2010c25df344",
       "name": "Dr. Md. Mazharul Huq Tanim",
       "degree": "MBBS, DEM (BIRDEM), MACP (USA)",
       "specialty": "Diabetics, Thyroid & Hormone Diseases Specialist",
       "workplace": "Enam Medical College & Hospital",
-      "info": "Enam Medical College & Hospital\nAddress: 9/3 Parboti Nagar, Thana Road, Savar, Dhaka\nVisiting Hour: 9am to 5pm (Closed: Friday)\nAppointment: +8801716358146\nCall Now",
+      "info": "Enam Medical College & Hospital Address: 9/3 Parboti Nagar, Thana Road, Savar, Dhaka Visiting Hour: 9am to 5pm (Closed: Friday) Appointment: +8801716358146 Call Now",
       "chamber": {
         "hospital": "Islami Bank Central Hospital, Kakrail",
         "address": "30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000",
         "visitingTime": "6pm to 8pm(Closed: Friday)",
-        "appointmentNumber": "+8801810000116"
-      },
-      "id": "619102f6-e81a-4b70-9f94-49400206ee3d"
+        "appointmentNumber": "+8801810000116Call Now"
+      }
     },
     {
+      "id": "b9ebc1db-d91e-4a71-b610-1efb53d52823",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-ahsanul-haq-amin/",
+      "imageId": "570cce82-797b-45ff-943d-e173b0b3040c",
       "name": "Dr. Ahsanul Haq Amin",
       "degree": "MBBS, MD (Endocrinology), FACE (USA)",
       "specialty": "Endocrinology (Diabetes, Thyroid, Hormone) & Metabolism Specialist",
@@ -500,39 +609,48 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10678"
-      },
-      "id": "1beb1e3b-3e46-45a7-87bc-ebf9c48b7c0f"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "324927d4-3b0e-45e8-9a72-b6ec302be2d2",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-mahmudul-hossain/",
+      "imageId": "ef8c0201-58ab-4aa2-80b7-63c09b866be8",
       "name": "Dr. Mahmudul Hossain",
       "degree": "MBBS (DMC), BCS (Health), MD (Endocrinology)",
       "specialty": "Endocrinology (Diabetes, Thyroid & Hormone) Specialist",
       "workplace": "Kurmitola General Hospital, Dhaka",
-      "info": "Islami Bank Hospital, Mirpur\nAddress: Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216\nVisiting Hour: 7.30pm to 9.30pm (Closed: Thu & Friday)\nAppointment: +8801992346632\nCall Now",
+      "info": "Islami Bank Hospital, Mirpur Address: Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216 Visiting Hour: 7.30pm to 9.30pm (Closed: Thu & Friday) Appointment: +8801992346632 Call Now",
       "chamber": {
         "hospital": "Aalok Healthcare & Hospital, Mirpur 10",
         "address": "House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka",
         "visitingTime": "5pm to 7.30pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801307267402"
-      },
-      "id": "40539140-5bd4-46d1-8d6b-122d51c90158"
+        "appointmentNumber": "+8801307267402Call Now"
+      }
     },
     {
+      "id": "e5e22f3f-bdd5-49bd-8764-5d35f5c46d48",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-sharmin-chowdhury/",
+      "imageId": "5e44527b-5606-4399-b4a0-79f0d707ddfc",
       "name": "Dr. Sharmin Chowdhury",
       "degree": "MBBS, BCS (Health), MD (Endocrinology)",
       "specialty": "Diabetes & Hormone Specialist",
       "workplace": "National Institute of Neurosciences & Hospital",
-      "info": "Bangladesh Specialized Hospital\nAddress: 21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8809666700100\nCall Now",
+      "info": "Bangladesh Specialized Hospital Address: 21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh Visiting Hour: Unknown. Please call to know visiting hour Appointment: +8809666700100 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
         "address": "1/1 B, Kallyanpur, Dhaka",
         "visitingTime": "5:30pm to 8pm (Sat, Mon & Wednesday)",
-        "appointmentNumber": "+8801703725590"
-      },
-      "id": "02ef7c10-a9ca-4061-8070-84e966e98305"
+        "appointmentNumber": "+8801703725590Call Now"
+      }
     },
     {
+      "id": "18eee8d3-7f8c-4fa3-95a5-46ecf82a4973",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-md-jahangir-alam-shohan/",
+      "imageId": "c331708c-5628-4fcd-a6c5-d65efb2fb15b",
       "name": "Dr. Md. Jahangir Alam (Shohan)",
       "degree": "MBBS, DEM (BIRDEM), MD (Endocrinology)",
       "specialty": "Endocrinology (Hormone, Diabetes & Thyroid) Specialist",
@@ -542,11 +660,14 @@
         "hospital": "Islami Bank Hospital, Mirpur",
         "address": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801992346632"
-      },
-      "id": "4782142e-e3a5-4331-b2f2-57a05e0d6793"
+        "appointmentNumber": "+8801992346632Call Now"
+      }
     },
     {
+      "id": "2ec77126-470a-4e77-8209-d3262ee74084",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-iffat-ara-jahan-liza/",
+      "imageId": "7a08e9e0-dcb5-4b51-ace1-fb773e4256cc",
       "name": "Dr. Iffat Ara Jahan Liza",
       "degree": "MBBS (DU), MD (Endocrinology)",
       "specialty": "Endocrinology (Hormone, Diabetes, Thyroid & Medicine) Specialist",
@@ -556,11 +677,14 @@
         "hospital": "Islami Bank Hospital, Mirpur",
         "address": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
         "visitingTime": "5pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801844610513"
-      },
-      "id": "a88d29ba-f388-47ec-a915-ef241d05feca"
+        "appointmentNumber": "+8801844610513Call Now"
+      }
     },
     {
+      "id": "64c22b43-5508-4535-a1d5-a93801717653",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-md-jahangir-alam/",
+      "imageId": "52f00418-6062-425f-b3de-12d690cf6c0f",
       "name": "Dr. Md. Jahangir Alam",
       "degree": "MBBS, BCS (Health), MD (Endocrinology)",
       "specialty": "Diabetes & Hormone Specialist",
@@ -570,11 +694,14 @@
         "hospital": "Popular Diagnostic Center, Savar",
         "address": "E/22, Talbagh, Anandapur, Savar, Dhaka",
         "visitingTime": "3pm to 7pm (Tuesday & Friday)",
-        "appointmentNumber": "+8809666787808"
-      },
-      "id": "effc64c4-e812-4275-8d8e-581a5ab6a878"
+        "appointmentNumber": "+8809666787808Call Now"
+      }
     },
     {
+      "id": "3b53bbd8-9f8c-4a11-b3a1-e98a5fe44d16",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-md-atiqur-rahman/",
+      "imageId": "248c095d-fd5b-4fe5-be13-007760cb7b83",
       "name": "Dr. Md. Atiqur Rahman",
       "degree": "MBBS, BCS (Health), MD (Endocrinology)",
       "specialty": "Diabetes & Hormone Specialist",
@@ -584,11 +711,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Malibagh",
         "address": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
         "visitingTime": "7.30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801844141717"
-      },
-      "id": "eabe2027-9a92-4ffb-bddf-bde1618765ff"
+        "appointmentNumber": "+8801844141717Call Now"
+      }
     },
     {
+      "id": "b6f8bbbf-da78-40b1-bdb6-b79484827c07",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-md-saifur-rahman-uttara/",
+      "imageId": "e12c85d2-5624-4a86-a8f4-ee4590d95922",
       "name": "Dr. Md. Saifur Rahman",
       "degree": "MBBS, MD (Endocrinology)",
       "specialty": "Endocrinology (Diabetes, Thyroid & Hormonal Diseases) Specialist",
@@ -598,11 +728,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "da464998-9839-4a39-9c59-270fb7e04d78"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "937599ca-61d7-454b-a86a-25eafa5d0dd5",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-sayeda-mubina-noor/",
+      "imageId": "bf46589b-81a4-46dc-a3fe-264dd1b0e751",
       "name": "Dr. Sayeda Mubina Noor",
       "degree": "MBBS, FCPS (Medicine), MRCP (UK), MD (Endocrinology)",
       "specialty": "Endocrinology (Diabetes, Thyroid, Hormone) & Medicine Specialist",
@@ -612,11 +745,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "10am to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "d2ad8db7-6d23-470d-be42-9f321b3b4843"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "6b83c827-7313-46b6-89fe-7634bbf94d09",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-anisur-rahman/",
+      "imageId": "a3e013f5-aefd-4ebb-9fd1-ad3f2e18a331",
       "name": "Dr. Anisur Rahman",
       "degree": "MBBS, DIH, DEM, FACE",
       "specialty": "Diabetes & Hormone Specialist",
@@ -626,11 +762,14 @@
         "hospital": "Popular Diagnostic Center, Shantinagar",
         "address": "Unit # 02, House # 15, Shantinagar, Motijheel, Dhaka",
         "visitingTime": "10am to 1pm(Closed: Friday)",
-        "appointmentNumber": "+8809666787803"
-      },
-      "id": "c127a443-97d0-4b8e-9261-23f1dd46e441"
+        "appointmentNumber": "+8809666787803Call Now"
+      }
     },
     {
+      "id": "3ccab3b4-f5e9-40aa-a41e-4fe747fbdbb7",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-ramen-chandra-basak/",
+      "imageId": "4db18b98-be3d-46fb-be66-5bce489f65bc",
       "name": "Dr. Ramen Chandra Basak",
       "degree": "MBBS, MD (Endocrinology), MRCP (UK), Diploma (Diabetes, UK)",
       "specialty": "Diabetes, Thyroid & Hormonal Diseases Specialist",
@@ -640,11 +779,14 @@
         "hospital": "Asgar Ali Hospital, Dhaka",
         "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801787683333"
-      },
-      "id": "54569a6f-ebaa-4785-a697-e896cefad9c0"
+        "appointmentNumber": "+8801787683333Call Now"
+      }
     },
     {
+      "id": "33d0f2eb-959f-4560-9841-bb24cded845d",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-rezwana-sobhan/",
+      "imageId": "8da3e0b1-58b8-472e-952b-96370ddbe97c",
       "name": "Dr. Rezwana Sobhan",
       "degree": "MBBS (DMC), MD (Endocrinology)",
       "specialty": "Endocrinology (Diabetes, Thyroid, Hormonal Diseases) Specialist",
@@ -654,11 +796,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "6pm to 9pm (Sat, Mon, Wed & Fri)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "10ecc5b0-284a-44d7-afff-4d2f7e14af0e"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "ca58ab54-455e-4d6d-9d8e-5987bc9e66ff",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-mirza-sharifuzzaman/",
+      "imageId": "e700722b-df36-470b-adbf-d5f14d4d517e",
       "name": "Dr. Mirza Sharifuzzaman",
       "degree": "MBBS, BCS (Health), MD (Endocrinology)",
       "specialty": "Endocrinology (Hormone, Diabetes, Thyroid) Specialist",
@@ -668,11 +813,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "9bd2be30-ce0d-4655-b9ce-d9df92783440"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "f0675f14-1436-4110-8ced-56485b1a77ab",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-kazi-ali-hassan/",
+      "imageId": "83868654-b9ae-42ba-b762-933cd3ad64cd",
       "name": "Dr. Kazi Ali Hassan",
       "degree": "MBBS, MPhil (Clinical Endocrinology), MRCP (UK), FRCP (EDIN)",
       "specialty": "Diabetes, Thyroid, Hormone Specialist & Endocrinologist",
@@ -682,11 +830,14 @@
         "hospital": "United Hospital Ltd, Dhaka",
         "address": "Plot # 15, Road # 71, Gulshan, Dhaka",
         "visitingTime": "9am to 6pm (Closed: Friday)",
-        "appointmentNumber": "10666"
-      },
-      "id": "f1362da8-1da3-4eab-9df5-3502fad3b9b2"
+        "appointmentNumber": "10666Call Now"
+      }
     },
     {
+      "id": "2acc6ef5-18ac-496e-a210-5a3cc97c66b4",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-md-tahsin-salam/",
+      "imageId": "f8bfb0e5-8022-4494-932d-4da2b381450c",
       "name": "Dr. Md. Tahsin Salam",
       "degree": "MBBS, FCPS (Medicine), FICM (India), CCD (BIRDEM)",
       "specialty": "Medicine & Diabetes Specialist",
@@ -696,11 +847,14 @@
         "hospital": "Ibn Sina Specialized Hospital, Dhanmondi",
         "address": "House # 68, Road # 15/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "6pm to 11pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801823039800"
-      },
-      "id": "3bf952fc-fb55-43e7-b558-dca296b7c736"
+        "appointmentNumber": "+8801823039800Call Now"
+      }
     },
     {
+      "id": "c8e9bc82-e231-48ca-8848-9600d0dfa0b5",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-yasmin-akhter/",
+      "imageId": "0c825459-6801-47be-92b9-63cc1873f010",
       "name": "Dr. Yasmin Akhter",
       "degree": "MBBS, MD (Endocrinology)",
       "specialty": "Diabetes, Hormone & Thyroid Specialist",
@@ -710,11 +864,14 @@
         "hospital": "Medinova Medical Services, Dhanmondi",
         "address": "House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka",
         "visitingTime": "6pm to 9pm (Sat, Mon & Wed)",
-        "appointmentNumber": "10658"
-      },
-      "id": "5abb2be1-902a-4c94-b3ff-338e873cecdb"
+        "appointmentNumber": "10658Call Now"
+      }
     },
     {
+      "id": "e3543d91-e5b7-4637-98b0-00211e5042ee",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-abdul-mannan-diabetes/",
+      "imageId": "27db2501-300d-4d49-90e3-dda84e91e5b6",
       "name": "Prof. Dr. MD. Abdul Mannan",
       "degree": "MBBS, ECFMG (USMLE), MRCP (UK)",
       "specialty": "Diabetes & Internal Medicine Specialist",
@@ -724,11 +881,14 @@
         "hospital": "Asgar Ali Hospital, Dhaka",
         "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801787683333"
-      },
-      "id": "29fe514f-d49e-43e1-aec5-9706d8f9b865"
+        "appointmentNumber": "+8801787683333Call Now"
+      }
     },
     {
+      "id": "985e2d22-fead-4a5f-a953-314dbddf73be",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-tareen-ahmed/",
+      "imageId": "5c83d3f7-ff26-41d0-a1fd-0aae5aa2c4ab",
       "name": "Dr. Tareen Ahmed",
       "degree": "MBBS, DEM",
       "specialty": "Endocrinology (Diabetes, Thyroid, Hormonal Diseases) Specialist",
@@ -738,11 +898,14 @@
         "hospital": "BIRDEM Specialized Chamber Complex",
         "address": "Main Building, 122, Kazi Nazrul Islam Avenue, Shahbag, Dhaka",
         "visitingTime": "3pm to 5pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801971151617"
-      },
-      "id": "889abc91-16c6-4b6c-9297-acf2fdc7cf1c"
+        "appointmentNumber": "+8801971151617Call Now"
+      }
     },
     {
+      "id": "9b2e11ca-e2fd-4e5f-b3f2-9e452d03e05f",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-s-m-mohiuddin/",
+      "imageId": "0ef720f0-19d3-462f-a472-e5fc54204039",
       "name": "Dr. S.M Mohiuddin",
       "degree": "MBBS, MD (Endocrinology)",
       "specialty": "Diabetes, Hormone & Thyroid Specialist",
@@ -752,11 +915,14 @@
         "hospital": "Islami Bank Hospital, Mugda",
         "address": "1/24/B, Kamalapur Manda Road, South Mugdapara, Dhaka",
         "visitingTime": "6.30pm to 9.30pm (Sat, Mon, Wed)",
-        "appointmentNumber": "+8801724008677"
-      },
-      "id": "3fc6a8a7-993b-41a7-b7b7-5be6999e44c4"
+        "appointmentNumber": "+8801724008677Call Now"
+      }
     },
     {
+      "id": "dfaff33a-4d5d-422e-a7f9-4973f37fa782",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-akm-aminul-islam/",
+      "imageId": "fc592918-f693-41f7-a06d-438dc5cd0a8e",
       "name": "Dr. AKM Aminul Islam",
       "degree": "MBBS , MD (Endocrine & Metabolism)",
       "specialty": "Endocrinology Specialist",
@@ -766,11 +932,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "8pm to 10pm (Everyday)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "e0283622-1c2a-4770-bd10-307206516eec"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
+      "id": "7d8f5b8d-64cd-4163-907f-8926d01863a3",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-prashanta-prasun-dey/",
+      "imageId": "0448bd7f-826e-4bb6-94bf-ecad293641fa",
       "name": "Dr. Prashanta Prasun Dey",
       "degree": "MBBS, MD (Endocrinology)",
       "specialty": "Thyroid, Diabetics, Hormone & Pancreatic Specialist",
@@ -780,11 +949,14 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "8pm tp 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801757138425"
-      },
-      "id": "bb0cee5f-00b9-407b-9215-06eed354e27a"
+        "appointmentNumber": "+8801757138425Call Now"
+      }
     },
     {
+      "id": "30b891cb-0f6d-4fb1-8d34-9b0e73134075",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-tahseen-mahmood/",
+      "imageId": "b016255d-dcc7-45a6-aa1c-5581236940d5",
       "name": "Dr. Tahseen Mahmood",
       "degree": "MBBS, MD (Endocrinology)",
       "specialty": "Endocrinology (Diabetes, Thyroid & Hormone) Specialist",
@@ -794,11 +966,14 @@
         "hospital": "BRB Hospital, Dhaka",
         "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
         "visitingTime": "10am to 7pm (Closed: Friday)",
-        "appointmentNumber": "10647"
-      },
-      "id": "fd8024aa-9243-468e-b969-5eaee4bbb022"
+        "appointmentNumber": "10647Call Now"
+      }
     },
     {
+      "id": "e376526b-78fe-42e2-ba43-d01408d62bb0",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-umme-sadia-mili/",
+      "imageId": "036352b4-299b-4a3a-85e1-0175e1fb7542",
       "name": "Dr. Umme Sadia Mili",
       "degree": "MBBS, DEM (DU), MACE (USA)",
       "specialty": "Diabetes & Hormone Diseases Specialist",
@@ -808,11 +983,14 @@
         "hospital": "Savar Prime Hospital",
         "address": "A-89, Thana Road, Talbagh, Savar, Dhaka - 1340",
         "visitingTime": "4pm to 6pm (Sat & Mon)",
-        "appointmentNumber": "+8801752561542"
-      },
-      "id": "59e6d191-f9ff-4d8f-9be4-7c126ae4b7e1"
+        "appointmentNumber": "+8801752561542Call Now"
+      }
     },
     {
+      "id": "3650ed81-192c-4114-b84c-46b90ddb050c",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-mostafa-hasan-rajib/",
+      "imageId": "18c5344f-9ac8-44a7-bfec-015358a8c620",
       "name": "Dr. Mostafa Hasan Rajib",
       "degree": "MBBS, MD (Endocrinology)",
       "specialty": "Diabetes, Thyroid & Hormonal Diseases Specialist",
@@ -822,11 +1000,14 @@
         "hospital": "Better Life Hospital, Rampura",
         "address": "1, DIT Road, East Rampura, Dhaka - 1219",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809639786786"
-      },
-      "id": "b940a7e1-e108-4ff2-aa68-abd99d678958"
+        "appointmentNumber": "+8809639786786Call Now"
+      }
     },
     {
+      "id": "704cca76-4cc6-4617-9faf-ce7a01830ba5",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-shafiul-alam/",
+      "imageId": "6d2d63c9-763f-476f-94ef-de36b0127e64",
       "name": "Dr. Shafiul Alam",
       "degree": "MBBS, DEM",
       "specialty": "Diabetes & Hormone Specialist",
@@ -836,11 +1017,14 @@
         "hospital": "Health and Hope Hospital",
         "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
         "visitingTime": "8pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809611996699"
-      },
-      "id": "a25c4a78-355e-4cc6-a1dd-8815afa8962d"
+        "appointmentNumber": "+8809611996699Call Now"
+      }
     },
     {
+      "id": "e44b059a-7a5e-47ff-b332-4208fd4f84b5",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-tahniyah-haq/",
+      "imageId": "3da9370f-9a22-4570-bfbf-09c68d79f148",
       "name": "Dr. Tahniyah Haq",
       "degree": "MBBS, MD (EM), MRCP (UK), MSc (CANADA)",
       "specialty": "Endocrinology (Diabetes, Thyroid, Hormonal Diseases) Specialist",
@@ -850,11 +1034,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "6:30pm to 8:30pm (Sat, Tue & Thu)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "b4c1a887-62cd-43b9-92d3-5817ea72f53c"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "14b3c2a2-ec16-417b-b68e-47da58b9295f",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-ananta-kumar-kundu/",
+      "imageId": "0c6db8a7-14ed-4fa8-8b24-74a0e23641ea",
       "name": "Dr. Ananta Kumar Kundu",
       "degree": "MBBS, MD (Endocrinology), DEM, MSC",
       "specialty": "Clinical Endocrinologist, Diabetologist & Nutritionist",
@@ -864,11 +1051,14 @@
         "hospital": "Aalok Healthcare & Hospital, Mirpur 10",
         "address": "House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka",
         "visitingTime": "6pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801915448491"
-      },
-      "id": "4d26c1c1-cc6e-4eb6-9a4e-a6ac5de66e54"
+        "appointmentNumber": "+8801915448491Call Now"
+      }
     },
     {
+      "id": "2c5957d4-63ee-4646-9016-e718503f5c70",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-hurjahan-banu-urmi/",
+      "imageId": "bdd68580-f236-43f9-a34e-58f76c68d7fe",
       "name": "Dr. Hurjahan Banu Urmi",
       "degree": "MBBS, FCPS (Endocrinology)",
       "specialty": "Diabetes & Hormone Specialist",
@@ -878,11 +1068,14 @@
         "hospital": "Ibn Sina Medical Imaging Center, Zigatola",
         "address": "House # 58, Road # 2A, Zigatola Bus Stand, Dhaka - 1209",
         "visitingTime": "6pm to 8.30pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801711625173"
-      },
-      "id": "94789040-dc11-4cb5-8f55-cd87b30ec8c6"
+        "appointmentNumber": "+8801711625173Call Now"
+      }
     },
     {
+      "id": "0ca12ec6-891f-43f4-b5f2-d40a567a31e5",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-samira-mahjabin/",
+      "imageId": "e56cdc42-cd52-4550-ac3c-6f7ff0a0b8ef",
       "name": "Dr. Samira Mahjabin",
       "degree": "MBBS, MD (Endocrine)",
       "specialty": "Diabetes & Hormone Specialist",
@@ -892,11 +1085,14 @@
         "hospital": "Popular Diagnostic Center, Badda",
         "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka - 1212",
         "visitingTime": "7pm to 9pm (Everyday)",
-        "appointmentNumber": "+8809666787809"
-      },
-      "id": "de4cd874-9315-4a00-af8e-a62345bfd602"
+        "appointmentNumber": "+8809666787809Call Now"
+      }
     },
     {
+      "id": "59237d74-9008-4210-9b80-b6956530fa28",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-shahana-parveen/",
+      "imageId": "cc6d214d-41d4-40f2-8dbc-fdcbbcda5e7a",
       "name": "Dr. Shahana Parveen",
       "degree": "MBBS, DEM",
       "specialty": "Diabetes & Hormone Specialist",
@@ -906,11 +1102,14 @@
         "hospital": "Ibn Sina Medical Imaging Center, Zigatola",
         "address": "House # 58, Road # 2A, Zigatola Bus Stand, Dhaka - 1209",
         "visitingTime": "7.30pm to 8.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801711625173"
-      },
-      "id": "b904cdee-8fd8-4043-b88a-da32fd299399"
+        "appointmentNumber": "+8801711625173Call Now"
+      }
     },
     {
+      "id": "ebb4e7db-99dd-4ea2-9a0e-e3416fd90fa8",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-pranab-chowdhury/",
+      "imageId": "3e7759a0-579c-4804-8df0-47d511d083fa",
       "name": "Dr. Pranab Chowdhury",
       "degree": "MBBS, MRCP (UK), FCGP (BCGP), CCD (BIRDEM)",
       "specialty": "Diabetes, Thyroid & Hormone Specialist",
@@ -920,11 +1119,14 @@
         "hospital": "Labaid Diagnostic, Malibagh",
         "address": "House # B65, Chowdhury Para, Malibagh, Dhaka",
         "visitingTime": "10am to 1pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801766662555"
-      },
-      "id": "a158c3a3-aae1-41c4-b639-dabc39220fff"
+        "appointmentNumber": "+8801766662555Call Now"
+      }
     },
     {
+      "id": "9e17b4ba-535c-4c61-81cb-3988fbe06bb0",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-omar-faruque/",
+      "imageId": "0c84db02-6534-4bf4-9384-49a917f5a1b2",
       "name": "Dr. Mohammad Omar Faruque",
       "degree": "MBBS, BCS (Health), MD (Endocrinology)",
       "specialty": "Endocrinology (Diabetes, Thyroid, Hormonal Diseases) Specialist",
@@ -934,11 +1136,14 @@
         "hospital": "Popular Diagnostic Center, Shantinagar",
         "address": "Unit # 02, House # 15, Shantinagar, Motijheel, Dhaka",
         "visitingTime": "8pm to 9:30pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787803"
-      },
-      "id": "fc907692-6951-410d-a191-ec3b0a2c8bb5"
+        "appointmentNumber": "+8809666787803Call Now"
+      }
     },
     {
+      "id": "c74801f3-1ed6-4df4-acf6-761dd9599726",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-mirza-azizul-haque/",
+      "imageId": "1fc11e65-cdaa-4afb-9c04-165330f18275",
       "name": "Dr. Mirza Azizul Haque",
       "degree": "MBBS, MPhil (Endocrinology), MD (Medicine), MACP (USA)",
       "specialty": "Endocrinology (Hormone, Diabetes, Thyroid) & Medicine Specialist",
@@ -948,11 +1153,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "11am to 3pm (Sun, Mon, Tue & Wed)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "7511fd2a-df68-4057-b45f-2542aa08a7c8"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "3761b11a-9264-461f-a1ea-ee4db7d376ab",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-a-hasnat-shaheen/",
+      "imageId": "04c25c57-3983-4c1b-b580-95e3c853088a",
       "name": "Dr. A. Hasnat Shaheen",
       "degree": "MBBS, DEM, MPH, MACE",
       "specialty": "Diabetes, Thyroid & Hormonal Diseases Specialist",
@@ -962,11 +1170,14 @@
         "hospital": "Impulse Hospital, Dhaka",
         "address": "304/E, Bir Uttam Mir Shawkat Sarak, Tejgaon, Dhaka",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801313434425"
-      },
-      "id": "a904cecf-8704-4c99-b3e2-1ba9a9009db9"
+        "appointmentNumber": "+8801313434425Call Now"
+      }
     },
     {
+      "id": "aedf1226-e58e-4d64-a2e3-f83404e4ff08",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-ayesha-begum-endo/",
+      "imageId": "2a206a45-1a2c-4c30-9f99-38ba06908cfe",
       "name": "Dr. Ayesha Begum",
       "degree": "MBBS (DMC), BCS (Health), FCPS (Medicine), MD (Endocrinology), MACP (USA)",
       "specialty": "Medicine, Diabetes, Thyroid & Hormonal Diseases Specialist",
@@ -976,11 +1187,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "5pm to 8pm (Only Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "90f8f6df-1ab4-4b73-904f-26fcee2836ba"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "eecc56af-6a7a-43b7-806d-faa62bb6796d",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-benzir-ahmed/",
+      "imageId": "3645afb1-906f-4a17-a654-587c9755e327",
       "name": "Dr. Benzir Ahmed",
       "degree": "MBBS, MBA (Health Care Management), CCD (BIRDEM), MRSH (UK)",
       "specialty": "Diabetics & Health Care Consultant",
@@ -990,11 +1204,14 @@
         "hospital": "Popular Diagnostic Center, Mirpur",
         "address": "Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka",
         "visitingTime": "5pm to 6pm (Sat, Wed, Thu)",
-        "appointmentNumber": "+8809666787807"
-      },
-      "id": "e96a5e97-4fa1-47d5-9c77-c9042eda0296"
+        "appointmentNumber": "+8809666787807Call Now"
+      }
     },
     {
+      "id": "9e41c51f-aec1-402a-858a-72ab4321be6c",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-lt-col-amzad-hossain/",
+      "imageId": "2d7383be-035c-40ef-9366-53e6268532a3",
       "name": "Dr. Lt. Col. Amzad Hossain",
       "degree": "MBBS, FCGP (BD), CCD (BIRDEM), MRSH (London)",
       "specialty": "Diabetes Specialist",
@@ -1004,11 +1221,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "11am to 1pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "f130ba29-9deb-4025-81c7-6a458978004a"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
+      "id": "810ed0f4-3012-41f4-b72a-ae939471980d",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-ziaul-karim/",
+      "imageId": "708d79b9-ed8b-458b-9608-ac53f5731593",
       "name": "Dr. Ziaul Karim",
       "degree": "MBBS (DU), CCD (BIRDEM)",
       "specialty": "Family Medicine & Diabetes Specialist",
@@ -1018,11 +1238,14 @@
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "9am to 2pm (Everyday)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "09edfa15-28d0-415c-9b51-a391cac06f73"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
+      "id": "96af8d99-0eee-4070-ad87-450ecd23d334",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-sharmin-chowdhury-rupa/",
+      "imageId": "9f0b0fce-dd5d-497c-bc59-d97beb615cbb",
       "name": "Dr. Sharmin Chowdhury Rupa",
       "degree": "MBBS, CCD (BIRDEM), PLAB (UK), MCCEE (CA)",
       "specialty": "Diabetes & Medicine Specialist",
@@ -1032,11 +1255,14 @@
         "hospital": "Padma Diagnostic Center, Malibagh",
         "address": "245/2 New Circular Road, West Malibagh, Dhaka",
         "visitingTime": "5pm to 7pm (Sat, Sun, Tue & Wed)",
-        "appointmentNumber": "+8809617444222"
-      },
-      "id": "c25e16c4-6848-4587-9265-8fbadd643a11"
+        "appointmentNumber": "+8809617444222Call Now"
+      }
     },
     {
+      "id": "cf36a1ae-dbe1-4879-8dae-2535d8c573ee",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-md-ejaj-bari-choudhury/",
+      "imageId": "594095fa-12c2-4c62-b385-f766bc05deb9",
       "name": "Dr. Md. Ejaj Bari Choudhury",
       "degree": "MBBS (DMC), CCD (BIRDEM), Post Graduate in Diabetes (USA)",
       "specialty": "Diabetes Specialist",
@@ -1046,11 +1272,14 @@
         "hospital": "Medinova Medical Services, Dhanmondi",
         "address": "House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka",
         "visitingTime": "10am to 12pm (Closed: Friday)",
-        "appointmentNumber": "10658"
-      },
-      "id": "e993eaad-91f2-4f15-8a7c-a49440f8661e"
+        "appointmentNumber": "10658Call Now"
+      }
     },
     {
+      "id": "0102c065-f6f3-4305-9bc2-a7d7cfae76a5",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-jahangir-alam/",
+      "imageId": "1e4faf2a-03fe-4599-88b6-ea2dfe8cf70f",
       "name": "Dr. Mohammad Jahangir Alam",
       "degree": "MBBS, BCS (Health), MD (Endocrinology & Metabolism)",
       "specialty": "Endocrinology (Diabetes, Thyroid & Hormonal Diseases) Specialist",
@@ -1060,11 +1289,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "51b11c92-234d-4022-a15d-2f2317c3ef9e"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "bf21dae0-b142-4376-b429-3a5ca42caaf9",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-nusrat-zerin/",
+      "imageId": "cf4843ab-0b04-4322-b4ae-aa98dc10cde0",
       "name": "Dr. Nusrat Zerin",
       "degree": "MBBS, MD (Endocrinology)",
       "specialty": "Diabetes & Hormone Specialist",
@@ -1074,11 +1306,14 @@
         "hospital": "Comfort Diagnostic Center, Dhanmondi",
         "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "6.30pm to 9.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801731956033"
-      },
-      "id": "ecab182f-d5c4-4827-b77d-3225c7b4086d"
+        "appointmentNumber": "+8801731956033Call Now"
+      }
     },
     {
+      "id": "a2d2478f-9a81-491e-82d6-08ad9acddb55",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-mahboob-iftekhar/",
+      "imageId": "639293cd-7fbc-479e-b693-19e291430426",
       "name": "Dr. Mohammad Mahboob Iftekhar",
       "degree": "MBBS, DEM, MACE (USA)",
       "specialty": "Diabetologist & Endocrinologist",
@@ -1088,11 +1323,14 @@
         "hospital": "Labaid Diagnostic, Uttara (Unit 02)",
         "address": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
         "visitingTime": "3pm to 5pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801766662050"
-      },
-      "id": "39902af2-f415-437e-83f2-38e55cefbadb"
+        "appointmentNumber": "+8801766662050Call Now"
+      }
     },
     {
+      "id": "bacdad5f-c282-42ef-ac1f-bfa2de7dae83",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-mashfiqul-hasan/",
+      "imageId": "6168e4d6-0286-4f90-8401-166586034626",
       "name": "Dr. Mashfiqul Hasan",
       "degree": "MBBS, BCS (Health), MCPS (Medicine), MD (Endocrinology)",
       "specialty": "Endocrinology (Diabetes, Thyroid & Hormonal Diseases) Specialist",
@@ -1102,25 +1340,31 @@
         "hospital": "Popular Diagnostic Center, Badda",
         "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787809"
-      },
-      "id": "b8da3d67-d9ff-413d-8a44-96c03fbe68f4"
+        "appointmentNumber": "+8809666787809Call Now"
+      }
     },
     {
+      "id": "83d5cc7c-1060-4b75-81d4-fbaade48a264",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-tahmina-ferdousi/",
+      "imageId": "0ac04cbf-dac2-4d0b-ae1f-453375d979dd",
       "name": "Dr. Tahmina Ferdousi",
       "degree": "MBBS, FCPS (Medicine), MD (Endocrinology)",
       "specialty": "Medicine, Diabetes, Thyroid and Hormone Specialist",
       "workplace": "Sarkari Karmachari Hospital, Dhaka",
-      "info": "Doyal Diagnostic & Hospital\nAddress: Mymensing Road, Sabalia, Tangail\nVisiting Hour: 9am to 4pm (Only Friday)\nAppointment: +8801711737363\nCall Now",
+      "info": "Doyal Diagnostic & Hospital Address: Mymensing Road, Sabalia, Tangail Visiting Hour: 9am to 4pm (Only Friday) Appointment: +8801711737363 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Shyamoli",
         "address": "22/7, ASM Nuruzzaman Road, Block-B, Babor Road, Mohammadpur, Dhaka",
         "visitingTime": "5pm to 8pm (Saturday to Wednesday)",
-        "appointmentNumber": "+8801973428965"
-      },
-      "id": "db908281-5db4-495d-b411-c64ffb9b4cf6"
+        "appointmentNumber": "+8801973428965Call Now"
+      }
     },
     {
+      "id": "f0e8f99c-6ea6-4b8a-bef7-42232027c1e5",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-nadia-jannat/",
+      "imageId": "24576940-0db3-4830-a35d-3352e8b27333",
       "name": "Dr. Nadia Jannat",
       "degree": "MBBS, DEM (BSMMU), CCD (BIRDEM)",
       "specialty": "Endocrinology (Diabetes, Thyroid & Hormone) Specialist",
@@ -1130,11 +1374,14 @@
         "hospital": "BRB Hospital, Dhaka",
         "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
         "visitingTime": "9am to 6pm (Closed: Friday)",
-        "appointmentNumber": "10647"
-      },
-      "id": "2dbf48d6-7002-4f4e-a739-0da64c3d01c3"
+        "appointmentNumber": "10647Call Now"
+      }
     },
     {
+      "id": "2f92a57a-79f0-4131-8890-32a4521000c2",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-ahmed-ifrad-bin-rawnak/",
+      "imageId": "badc963c-8cc4-403d-84ff-4ea3e6cabd45",
       "name": "Dr. Ahmed Ifrad bin Rawnak",
       "degree": "MBBS, BCS (Health), MD-Endocrinology (BSMMU), CCD (BIRDEM), PGDIP-DIABETES (UK)",
       "specialty": "Diabetes, Thyroid and Hormone Diseases Specialist",
@@ -1144,11 +1391,14 @@
         "hospital": "Labaid Diagnostic, Uttara (Unit 02)",
         "address": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662050"
-      },
-      "id": "a3d05fa4-eb93-4dce-87ea-fe905cef98af"
+        "appointmentNumber": "+8801766662050Call Now"
+      }
     },
     {
+      "id": "83fb5c43-03dc-4881-9d99-6c2f5e6c78a2",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-faysal-ahmed/",
+      "imageId": "e0da2b4a-d647-44b2-86ea-a3d128b0d908",
       "name": "Dr. Faysal Ahmed",
       "degree": "MBBS, MPH (Community Medicine), CCD (BIRDEM)",
       "specialty": "Diabetics Consultant",
@@ -1158,11 +1408,14 @@
         "hospital": "Popular Diagnostic Center, Mirpur",
         "address": "Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka",
         "visitingTime": "1pm to 2pm (Sun to Thursday), 6pm to 7pm (Saturday & Friday)",
-        "appointmentNumber": "+8809666787807"
-      },
-      "id": "907fdf88-9574-4a05-911c-d7ffc06ed76f"
+        "appointmentNumber": "+8809666787807Call Now"
+      }
     },
     {
+      "id": "a3f1ea0f-3675-4644-8ccd-5a19a91dabed",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-b-m-nazrul-islam/",
+      "imageId": "ce2ee79a-a095-48dd-8602-9ed9260e8b69",
       "name": "Dr. B. M. Nazrul Islam",
       "degree": "MBBS, FCPS (Medicine), CCD (BIRDEM)",
       "specialty": "Diabetes & Hormone Specialist",
@@ -1172,25 +1425,31 @@
         "hospital": "Comfort Diagnostic Center, Uttara",
         "address": "House # 22, Rabindra Sarani Road, Sector # 07, Uttara, Dhaka",
         "visitingTime": "10am to 11am & 6pm to 7pm (Everyday)",
-        "appointmentNumber": "+880258956388"
-      },
-      "id": "022f8487-8b0c-41ec-872c-72c9146d54c6"
+        "appointmentNumber": "+880258956388Call Now"
+      }
     },
     {
+      "id": "09ac8172-f416-49df-b135-f39f425238ef",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/prof-dr-zakirul-alam-ripon/",
+      "imageId": "5450f3a7-f9fc-4e16-85af-f5a113455ef1",
       "name": "Dr. Zakirul Alam Ripon",
       "degree": "MBBS, FCGP, MPH (NIPSOM), CCD (BIRDEM)",
       "specialty": "Diabetes & Hormone Specialist",
       "workplace": "Shahabuddin Medical College & Hospital",
-      "info": "Dr. Zakirul Alam Ripon is a Diabetes Specialist in Dhaka. His qualification is  MBBS, FCGP, MPH (NIPSOM), CCD (BIRDEM). He is a Assistant Professor, Endocrinology at Shahabuddin Medical College & Hospital. He regularly provides treatment to his patients at Badda General Hospital. Practicing hour of Dr. Zakirul Alam Ripon at Badda General Hospital is 5pm to 8.30pm (Closed: Friday).",
+      "info": "Dr. Zakirul Alam Ripon is a Diabetes Specialist in Dhaka. His qualification is MBBS, FCGP, MPH (NIPSOM), CCD (BIRDEM). He is a Assistant Professor, Endocrinology at Shahabuddin Medical College & Hospital. He regularly provides treatment to his patients at Badda General Hospital. Practicing hour of Dr. Zakirul Alam Ripon at Badda General Hospital is 5pm to 8.30pm (Closed: Friday).",
       "chamber": {
         "hospital": "Badda General Hospital",
         "address": "107/2, Progati Sarani, Uttar Badda, Dhaka",
         "visitingTime": "5pm to 8.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801790776722"
-      },
-      "id": "8fd953de-c573-4ca9-8ad9-d71b2b7d2590"
+        "appointmentNumber": "+8801790776722Call Now"
+      }
     },
     {
+      "id": "e4a1e60e-af03-4613-a746-cfecdcf44d83",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-farrukh-shaheen-rosy/",
+      "imageId": "f70118aa-f6d9-4c76-b4e9-d594708ceb55",
       "name": "Dr. Farrukh Shaheen Rosy",
       "degree": "MBBS, CCD (BIRDEM)",
       "specialty": "Diabetes & Hormone Specialist",
@@ -1200,25 +1459,31 @@
         "hospital": "Padma Diagnostic Center, Malibagh",
         "address": "245/2 New Circular Road, West Malibagh, Dhaka",
         "visitingTime": "7.30pm to 9pm (Closed: Friday & Saturday)",
-        "appointmentNumber": "+8809617444222"
-      },
-      "id": "aa5e0c3a-2931-4af0-8e6d-542ee29c56cd"
+        "appointmentNumber": "+8809617444222Call Now"
+      }
     },
     {
+      "id": "d8fa8c10-1d2b-45bb-9853-b3222123d3f2",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-abu-nesar-taib/",
+      "imageId": "c75361a4-0cdb-4606-a584-4ed8faec17cd",
       "name": "Dr Abu Nesar Taib",
       "degree": "MBBS, DEM (DU)",
       "specialty": "Diabetes & Endocrine Disorder Specialist",
       "workplace": "Birdem General Hospital & Ibrahim Medical College",
-      "info": "Japan Bangladesh Friendship Hospital\nAddress: 55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi\nVisiting Hour: 4pm to 6pm (Closed: Friday)\nAppointment: +88029672277\nCall Now",
+      "info": "Japan Bangladesh Friendship Hospital Address: 55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi Visiting Hour: 4pm to 6pm (Closed: Friday) Appointment: +88029672277 Call Now",
       "chamber": {
         "hospital": "Padma Diagnostic Center, Malibagh",
         "address": "245/2 New Circular Road, West Malibagh, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809617444222"
-      },
-      "id": "69dcd6bb-3c91-4582-8f42-db7dcfe7c7b8"
+        "appointmentNumber": "+8809617444222Call Now"
+      }
     },
     {
+      "id": "8ab563a2-c98c-406f-9f37-672292f388b7",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-umme-qulsum-rupa/",
+      "imageId": "06013c2e-09ad-4c41-af39-81ead587790f",
       "name": "Dr. Umme Qulsum Rupa",
       "degree": "MBBS (DU), FCGP (Family Medicine), CCD (Diabetology, BIRDEM)",
       "specialty": "Family Medicine & Diabetes Specialist",
@@ -1228,25 +1493,14 @@
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "10am to 2pm (Everyday)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "71e2c559-306d-4b0e-88ec-7034e208ba93"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
-      "name": "Dr. Shamsun Nahar",
-      "degree": "MBBS, CCD (BIRDEM)",
-      "specialty": "General Practitioner & Diabetologist",
-      "workplace": "Birdem General Hospital & Ibrahim Medical College",
-      "info": "Dr. Shamsun Nahar is a Diabetes Specialist in Dhaka. His qualification is MBBS, CCD (BIRDEM). He is working as a General Practitioner & Diabetologist doctor in Birdem General Hospital & Ibrahim Medical College. He regularly provides treatment to his patients at Khidmah Hospital, Dhaka. Practicing hour of Dr. Shamsun Nahar at Khidmah Hospital, Dhaka is 9am to 2pm (Closed: Friday).",
-      "chamber": {
-        "hospital": "Khidmah Hospital, Dhaka",
-        "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
-        "visitingTime": "9am to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "cb5998d3-650e-4d37-ab4b-7babcdff9f4b"
-    },
-    {
+      "id": "33c664ec-76e0-4d36-8916-faa30d5785de",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-md-faizul-bari/",
+      "imageId": "5f8ac57a-0a3c-485b-a6a0-8bf1c33645f1",
       "name": "Dr. Md. Faizul Bari",
       "degree": "MBBS, DPH (DU), CCD (BIRDEM)",
       "specialty": "Diabetologist & Preventive Medicine Specialist",
@@ -1256,11 +1510,31 @@
         "hospital": "Islami Bank Hospital, Mugda",
         "address": "1/24/B, Kamalapur Manda Road, South Mugdapara, Dhaka",
         "visitingTime": "9.30am to 12.30pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801724008677"
-      },
-      "id": "4b3fbd2a-e231-460d-9d14-d205191c95db"
+        "appointmentNumber": "+8801724008677Call Now"
+      }
     },
     {
+      "id": "fa918429-60b5-44fd-9994-fb8f958921b4",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-shamsun-nahar/",
+      "imageId": "9d3c1f6b-7d18-4c8b-8534-befa6b879ef3",
+      "name": "Dr. Shamsun Nahar",
+      "degree": "MBBS, CCD (BIRDEM)",
+      "specialty": "General Practitioner & Diabetologist",
+      "workplace": "Birdem General Hospital & Ibrahim Medical College",
+      "info": "Dr. Shamsun Nahar is a Diabetes Specialist in Dhaka. His qualification is MBBS, CCD (BIRDEM). He is working as a General Practitioner & Diabetologist doctor in Birdem General Hospital & Ibrahim Medical College. He regularly provides treatment to his patients at Khidmah Hospital, Dhaka. Practicing hour of Dr. Shamsun Nahar at Khidmah Hospital, Dhaka is 9am to 2pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Khidmah Hospital, Dhaka",
+        "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
+        "visitingTime": "9am to 2pm (Closed: Friday)",
+        "appointmentNumber": "+8809606063030Call Now"
+      }
+    },
+    {
+      "id": "0c8d9381-3154-4990-9a51-26c45547ee90",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/dr-hossain-ahmed/",
+      "imageId": "f68e99bd-9b06-436e-859f-8114068f3b34",
       "name": "Dr. Hossain Ahmed",
       "degree": "MBBS (DU), FCGP (Family Medicine), CCD (BIRDEM)",
       "specialty": "Family Medicine & Diabetes Specialist",
@@ -1270,11 +1544,14 @@
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "9am to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "ca02ed75-753a-403e-882f-e66e82b3db22"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
+      "id": "dee461ce-951b-4fc8-a5d5-59503a7c08c2",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/prof-dr-a-h-m-aktaruzzaman/",
+      "imageId": "3cf53923-f650-4416-b003-e33d0251fc82",
       "name": "Prof. Dr. A.H.M. Aktaruzzaman",
       "degree": "MBBS (Dhaka), MCPS (Medicine), MD (Endocrinology & Metabolism)",
       "specialty": "Diabetes, Thyroid, Hormone & Medicine Specialist",
@@ -1284,11 +1561,14 @@
         "hospital": "Digilab Medical Services Ltd, Mirpur",
         "address": "House # 02, Road # 06, Block # A, Mirpur-10, Dhaka",
         "visitingTime": "5pm to 10pm (Thu, Sat & Friday)",
-        "appointmentNumber": "+8801626792323"
-      },
-      "id": "189c3907-309b-448c-a81b-bde6c42cafc3"
+        "appointmentNumber": "+8801626792323Call Now"
+      }
     },
     {
+      "id": "c630e055-d918-447d-a3ee-237da1a12ee4",
+      "departmentId": "d4e26462-7457-43ce-9952-d4429cad85e6",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-faruque-pathan/",
+      "imageId": "60d3de31-ec5a-4c93-b906-c8ee8d065943",
       "name": "Prof. Dr. Md. Faruque Pathan",
       "degree": "MBBS (Dhaka), MD (Endocrinology & Metabolism)",
       "specialty": "Endocrinology (Diabetes, Thyroid & Hormonal Diseases) Specialist",
@@ -1298,9 +1578,8 @@
         "hospital": "BIRDEM Specialized Chamber Complex",
         "address": "Main Building, 122, Kazi Nazrul Islam Avenue, Shahbag, Dhaka",
         "visitingTime": "2.30pm to 6pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801847259771"
-      },
-      "id": "13108ce4-92b7-4878-892e-4f59dc1969df"
+        "appointmentNumber": "+8801847259771Call Now"
+      }
     }
   ]
 }

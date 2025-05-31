@@ -1,20 +1,27 @@
 {
   "doctor": [
     {
+      "id": "4e764735-2220-4c79-af49-8233afcba9ab",
+      "departmentId": "13877c8e-de3b-4041-a421-f81be9b64e3c",
+      "link": "https://www.doctorbangladesh.com/dr-rokhsana-sharmin-shanta/",
+      "imageId": "6d75baee-27a9-4734-b401-5c8ceeedd9e6",
       "name": "Dr. Rokhsana Sharmin Shanta",
       "degree": "MBBS (DMC), BCS (Health), FCPS (Surgery)",
       "specialty": "General, Laparoscopic, Breast & Colorectal Surgeon",
       "workplace": "Mohammad Ali Hospital, Bogra",
-      "info": "Saic General Hospital, Bogura\nAddress: Bhai Pagla Mazar Lane, Thanthania, Bogura\nVisiting Hour: 3pm to 4pm (Closed: Friday)\nAppointment: +8801936005870\nCall Now",
+      "info": "Saic General Hospital, Bogura Address: Bhai Pagla Mazar Lane, Thanthania, Bogura Visiting Hour: 3pm to 4pm (Closed: Friday) Appointment: +8801936005870 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "4pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "54894b2f-6b21-4c8a-b654-fdf203da4e28"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "2d884f76-0dfa-4ba9-a2c3-5e3f22f0a9b2",
+      "departmentId": "13877c8e-de3b-4041-a421-f81be9b64e3c",
+      "link": "https://www.doctorbangladesh.com/dr-md-zakirul-alam/",
+      "imageId": "f2338873-73d4-4b91-a020-c16da0566aa5",
       "name": "Dr. Md. Zakirul Alam",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Laparoscopic, Colorectal & Cancer Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "Doctors Clinic, Bogura",
         "address": "Unit 1, Mofiz Paglar Mor, Sherpur Road, Bogura",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801711890501"
-      },
-      "id": "d6388584-5788-4c26-b576-17ea76d78c97"
+        "appointmentNumber": "+8801711890501Call Now"
+      }
     },
     {
+      "id": "63601d10-9c3e-44a7-b905-4c6e2365f2dd",
+      "departmentId": "13877c8e-de3b-4041-a421-f81be9b64e3c",
+      "link": "https://www.doctorbangladesh.com/dr-lokman-hossain-juwel/",
+      "imageId": "0f680dbe-c128-4ba6-8ad3-14cc34af0d20",
       "name": "Dr. Lokman Hossain Juwel",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "Colorectal, General & Laparoscopic Surgeon",
@@ -38,11 +48,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "4pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "d1c81483-e2e4-442f-a9ad-42fcae96a3d5"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "ed009ca8-c2ca-405a-affb-794f4e8271cd",
+      "departmentId": "13877c8e-de3b-4041-a421-f81be9b64e3c",
+      "link": "https://www.doctorbangladesh.com/dr-ganesh-kumar-agarwala/",
+      "imageId": "0eee6b86-306b-477f-acc0-850483d60bab",
       "name": "Dr. Ganesh Kumar Agarwala",
       "degree": "MBBS, BCS (Health), MCPS (Surgery), MS (Surgery)",
       "specialty": "General, Breast, Colorectal & Laparoscopic Surgery Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Saic General Hospital, Bogura",
         "address": "Bhai Pagla Mazar Lane, Thanthania, Bogura",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801936005870"
-      },
-      "id": "6ca3f280-0e4b-438b-a279-ec0eaf5c4e8b"
+        "appointmentNumber": "+8801936005870Call Now"
+      }
     },
     {
+      "id": "cbb71149-9e83-4b0c-aeee-890ba3034397",
+      "departmentId": "13877c8e-de3b-4041-a421-f81be9b64e3c",
+      "link": "https://www.doctorbangladesh.com/dr-jamal-e-rabby/",
+      "imageId": "ecd88b12-5a32-4bdb-8044-ad5372f5a288",
       "name": "Dr. Md. Jamal-E-Rabby",
       "degree": "MBBS, FCPS (Surgery), FMAS",
       "specialty": "General, Colorectal & Breast Surgeon",
@@ -66,11 +82,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "4pm to 8pm (Sat to Thu) & 10am to 12pm (Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "f5700fbd-6fad-4c02-a84b-059a4a873b9e"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "5108e2bc-f989-4e39-ab43-ee3164cbacd2",
+      "departmentId": "13877c8e-de3b-4041-a421-f81be9b64e3c",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-shahjahan-ali/",
+      "imageId": "50043eda-b96e-4251-abb0-61de243e4f2f",
       "name": "Prof. Dr. Md. Shahjahan Ali",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -80,11 +99,14 @@
         "hospital": "Maleka Nursing Home, Bogura",
         "address": "Sherpur Road, Sutrapur, Bogura - 5800",
         "visitingTime": "9am to 12pm & 5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801711368633"
-      },
-      "id": "9421de4f-1251-48af-ac08-1c2cc9e2f2b1"
+        "appointmentNumber": "+8801711368633Call Now"
+      }
     },
     {
+      "id": "e8063386-db25-4e13-9ea6-37cff36fe179",
+      "departmentId": "13877c8e-de3b-4041-a421-f81be9b64e3c",
+      "link": "https://www.doctorbangladesh.com/dr-md-abul-kalam-azad-surgeon/",
+      "imageId": "c436db60-42e3-47d5-8408-6042b2c9debf",
       "name": "Dr. Md. Abul Kalam Azad",
       "degree": "MBBS, MPH, MS (Surgery), CCD (BIRDEM)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -94,11 +116,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "bc2de7bf-a6b4-4587-8938-f092cd8af088"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "1e28be81-82e2-4b59-8743-7d8d9e0288b9",
+      "departmentId": "13877c8e-de3b-4041-a421-f81be9b64e3c",
+      "link": "https://www.doctorbangladesh.com/dr-md-shaharul-alam-mondol/",
+      "imageId": "86aa0be6-a8e5-4a5a-a1d3-f67e40e239b9",
       "name": "Dr. Md. Shaharul Alam Mondol",
       "degree": "MBBS, BCS (Health), MS (Surgery)",
       "specialty": "General & Laparoscopic Specialist Surgeon",
@@ -108,11 +133,14 @@
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
         "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
         "visitingTime": "3pm to 8pm (Sat, Mon & Thu)",
-        "appointmentNumber": "+8801701560011"
-      },
-      "id": "aa3f1c9f-818f-449e-b9aa-12704243fafb"
+        "appointmentNumber": "+8801701560011Call Now"
+      }
     },
     {
+      "id": "1eb931e7-50a1-41b5-bb39-62bf07b9659c",
+      "departmentId": "13877c8e-de3b-4041-a421-f81be9b64e3c",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-anwar-sadat/",
+      "imageId": "c5ebfeea-18d5-4e50-9174-6cfee9d3e07a",
       "name": "Dr. Muhammad Anwar Sadat",
       "degree": "MBBS (Dhaka), BCS (Health), MRCS (Edinburgh), MRCS (Glasgow)",
       "specialty": "General, Laparoscopic & Cancer Surgeon",
@@ -122,11 +150,14 @@
         "hospital": "Labaid Diagnostic, Bogura",
         "address": "House # 1872, Sherpur Road, Colony, Bogura",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662777"
-      },
-      "id": "cede59b3-aeaf-4cba-a590-b06f56c34b57"
+        "appointmentNumber": "+8801766662777Call Now"
+      }
     },
     {
+      "id": "6a1432dc-7f57-4898-a572-63aea7c5cc47",
+      "departmentId": "13877c8e-de3b-4041-a421-f81be9b64e3c",
+      "link": "https://www.doctorbangladesh.com/dr-manobendra-kumar-paul-niloy/",
+      "imageId": "23d17f83-52f0-47ce-b335-baa1aaa19b11",
       "name": "Dr. Manobendra Kumar Paul Niloy",
       "degree": "MBBS, BCS (Health), FCPS (Surgery), MS (Hepatobiliary Surgery)",
       "specialty": "General, Laparoscopic & Pancreatic Surgeon",
@@ -136,11 +167,14 @@
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
         "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
         "visitingTime": "3:30pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801701560011"
-      },
-      "id": "a43b68e4-1a05-4f62-8fd7-135cc1eee42b"
+        "appointmentNumber": "+8801701560011Call Now"
+      }
     },
     {
+      "id": "f34b3d5c-2c7e-44e6-b500-ecfaaf937669",
+      "departmentId": "13877c8e-de3b-4041-a421-f81be9b64e3c",
+      "link": "https://www.doctorbangladesh.com/dr-md-salimullah-akando/",
+      "imageId": "52a404da-cb07-4059-9b11-df9491a8f8fe",
       "name": "Dr. Md. Salimullah Akando",
       "degree": "MBBS, BCS (Health), MS (Surgery)",
       "specialty": "General & Laparoscopic Specialist Surgeon",
@@ -150,11 +184,14 @@
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
         "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
         "visitingTime": "7pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801701560011"
-      },
-      "id": "6ac79e20-57f6-4050-9cc7-d2a3a4306473"
+        "appointmentNumber": "+8801701560011Call Now"
+      }
     },
     {
+      "id": "dd417be4-6c83-4905-8e0d-2b4690e1e13a",
+      "departmentId": "13877c8e-de3b-4041-a421-f81be9b64e3c",
+      "link": "https://www.doctorbangladesh.com/dr-md-ibne-golam-sabbir/",
+      "imageId": "3beb5619-326e-43c4-a427-e06b53e377ef",
       "name": "Dr. Md. Ibne Golam Sabbir",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General & Laparoscopic Specialist Surgeon",
@@ -164,11 +201,14 @@
         "hospital": "Labaid Diagnostic, Bogura",
         "address": "House # 1872, Sherpur Road, Colony, Bogura",
         "visitingTime": "4pm to 7pm (Closed: Sat & Mon)",
-        "appointmentNumber": "+8801766662777"
-      },
-      "id": "7648d026-8a72-4b97-a589-ca9e640684cd"
+        "appointmentNumber": "+8801766662777Call Now"
+      }
     },
     {
+      "id": "42ae74c6-703a-4b29-be47-f8a9f3bd8106",
+      "departmentId": "13877c8e-de3b-4041-a421-f81be9b64e3c",
+      "link": "https://www.doctorbangladesh.com/dr-asm-aminul-islam/",
+      "imageId": "894f3d71-7fd4-4d0c-8cb3-2f6316417c46",
       "name": "Dr. ASM Aminul Islam",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General, Laparoscopic, Colorectal & Breast Surgery Specialist",
@@ -178,25 +218,31 @@
         "hospital": "Labaid Diagnostic, Bogura",
         "address": "House # 1872, Sherpur Road, Colony, Bogura",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662777"
-      },
-      "id": "045d2142-7a16-4a91-a67c-b35bc4693cfb"
+        "appointmentNumber": "+8801766662777Call Now"
+      }
     },
     {
+      "id": "23dad182-606d-447e-b7a0-48ff902e3010",
+      "departmentId": "13877c8e-de3b-4041-a421-f81be9b64e3c",
+      "link": "https://www.doctorbangladesh.com/lt-col-dr-md-kamrul-huda/",
+      "imageId": "7afba051-a9ae-48e3-91d6-caa06a422dd5",
       "name": "Lt. Col. Dr. Md. Kamrul Huda",
       "degree": "MBBS, MCPS, FCPS (Surgery), FCPS (Thoracic Surgery), FACS (USA)",
       "specialty": "General, Laparoscopic & Thoracic Surgery Specialist",
       "workplace": "Combined Military Hospital, Bogura & AMC, Bogura",
-      "info": "Ibn Sina Diagnostic & Consultation Center, Bogra\nAddress: House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800\nVisiting Hour: 4pm to 6pm (Sun, Tue & Thursday)\nAppointment: +8801701560011\nCall Now",
+      "info": "Ibn Sina Diagnostic & Consultation Center, Bogra Address: House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800 Visiting Hour: 4pm to 6pm (Sun, Tue & Thursday) Appointment: +8801701560011 Call Now",
       "chamber": {
         "hospital": "Cantonment General Hospital, Bogura",
         "address": "Majhira Cantonment, Bogura",
         "visitingTime": "4pm to 6pm (Everyday)",
-        "appointmentNumber": "+8801757677661"
-      },
-      "id": "afa7a842-9edf-4d90-a966-740a43413ee6"
+        "appointmentNumber": "+8801757677661Call Now"
+      }
     },
     {
+      "id": "682f0e8c-507d-4f76-9502-2d64bb5b66a7",
+      "departmentId": "13877c8e-de3b-4041-a421-f81be9b64e3c",
+      "link": "https://www.doctorbangladesh.com/dr-s-belal-hossain/",
+      "imageId": "3012f8ed-63b6-4afc-9b59-03a6a45ba389",
       "name": "Dr. S. Belal Hossain",
       "degree": "MBBS, MCPS (Surgery), FCPS (Surgery)",
       "specialty": "General, Pediatric and Laparoscopic Specialist Surgeon",
@@ -206,9 +252,8 @@
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
         "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
         "visitingTime": "3pm to 5pm (Sunday to Wednesday)",
-        "appointmentNumber": "+8801515228662"
-      },
-      "id": "e6990387-0eb8-40ef-964d-3f962392ffd9"
+        "appointmentNumber": "+8801515228662Call Now"
+      }
     }
   ]
 }

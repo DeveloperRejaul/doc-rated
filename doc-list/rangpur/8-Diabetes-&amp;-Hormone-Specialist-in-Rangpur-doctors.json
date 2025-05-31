@@ -1,20 +1,27 @@
 {
   "doctor": [
     {
+      "id": "5a64935b-a18c-406c-a32d-7e2e8353853b",
+      "departmentId": "e38926be-07ae-4e5a-9b74-bae3d41043cc",
+      "link": "https://www.doctorbangladesh.com/dr-samir-kumar-talukder/",
+      "imageId": "01834ac9-66ec-4ebd-adb9-318cd230c54e",
       "name": "Dr. Samir Kumar Talukder",
       "degree": "MBBS, MD (Endocrinology)",
       "specialty": "Diabetes, Hormone & Thyroid Specialist",
       "workplace": "Rangpur Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Bogra\nAddress: House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura\nVisiting Hour: 10am to 8pm (Friday)\nAppointment: +8809666787812\nCall Now",
+      "info": "Popular Diagnostic Center, Bogra Address: House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura Visiting Hour: 10am to 8pm (Friday) Appointment: +8809666787812 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Rangpur",
         "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
         "visitingTime": "3pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787813"
-      },
-      "id": "2748a924-1a3f-431f-a4ff-8db1c7173db1"
+        "appointmentNumber": "+8809666787813Call Now"
+      }
     },
     {
+      "id": "30822afd-bf54-4657-af03-c578ef44293c",
+      "departmentId": "e38926be-07ae-4e5a-9b74-bae3d41043cc",
+      "link": "https://www.doctorbangladesh.com/dr-md-kamrul-hasan-badol/",
+      "imageId": "7ab57e47-7ff3-49de-9e43-2d81264f8eda",
       "name": "Dr. Md. Kamrul Hasan Badol",
       "degree": "MBBS, MD (Endocrinology)",
       "specialty": "Diabetes, Thyroid & Hormone Diseases Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Apollo Diagnostic Center, Rangpur",
         "address": "Dhap, Jail Road, Rangpur",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801733008088"
-      },
-      "id": "6b7ffee1-d281-4e7d-9929-089df3e07f05"
+        "appointmentNumber": "+8801733008088Call Now"
+      }
     },
     {
+      "id": "d6583047-877e-46ea-8b8b-d5e95455922b",
+      "departmentId": "e38926be-07ae-4e5a-9b74-bae3d41043cc",
+      "link": "https://www.doctorbangladesh.com/dr-md-al-sadi/",
+      "imageId": "c39778e7-b495-4bd6-8f63-c3c904b4d6af",
       "name": "Dr. Md. Al-Sadi",
       "degree": "MBBS, CCD, DEM (BIRDEM), MAC (USA)",
       "specialty": "Diabetes & Hormone Specialist",
@@ -38,9 +48,8 @@
         "hospital": "Doctor's Community Hospital, Rangpur",
         "address": "Medical East Gate, Health City Road, Dhap, Rangpur",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801717292458"
-      },
-      "id": "3a05d161-9968-4def-a39a-a08450ad4cf9"
+        "appointmentNumber": "+8801717292458Call Now"
+      }
     }
   ]
 }

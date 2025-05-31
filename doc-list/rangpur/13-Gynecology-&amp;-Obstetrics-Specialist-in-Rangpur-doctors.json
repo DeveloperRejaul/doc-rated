@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "90e81722-574a-4a40-82b7-d7032fbafce5",
+      "departmentId": "2f1abe04-4af6-4a5b-8765-0791c10bcd8f",
+      "link": "https://www.doctorbangladesh.com/prof-dr-anisa-begum/",
+      "imageId": "82d3bdc6-085f-4586-a036-2a0740b942ac",
       "name": "Prof. Dr. Anisa Begum",
       "degree": "MBBS, FCPS (OBGYN), MCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
@@ -10,11 +14,14 @@
         "hospital": "Doctor's Diagnostic Centre Unit-2, Rangpur",
         "address": "Dhap, Jail Road, Rangpur",
         "visitingTime": "2.30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801719783286"
-      },
-      "id": "04cd250d-2176-477e-9e79-1e8ab1621a21"
+        "appointmentNumber": "+8801719783286Call Now"
+      }
     },
     {
+      "id": "f78d24a2-8618-4b4e-ac16-48564f2f89ae",
+      "departmentId": "2f1abe04-4af6-4a5b-8765-0791c10bcd8f",
+      "link": "https://www.doctorbangladesh.com/dr-shahi-farzana-tasmin/",
+      "imageId": "b67b82da-2134-498e-a21e-953aa435ede8",
       "name": "Dr. Shahi Farzana Tasmin",
       "degree": "MBBS, FCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics Specialist & Laparoscopic Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "Popular Diagnostic Center, Rangpur",
         "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
         "visitingTime": "4pm to 8pm (Everyday)",
-        "appointmentNumber": "+8809666787813"
-      },
-      "id": "7af26867-50d3-40fa-87ae-b505b2973c24"
+        "appointmentNumber": "+8809666787813Call Now"
+      }
     },
     {
+      "id": "744ed109-0275-4d38-827f-422261e57b79",
+      "departmentId": "2f1abe04-4af6-4a5b-8765-0791c10bcd8f",
+      "link": "https://www.doctorbangladesh.com/prof-dr-aziza-begum-lucy/",
+      "imageId": "ee6325b5-d03b-4591-829e-435973756860",
       "name": "Prof. Dr. Aziza Begum Lucy",
       "degree": "MBBS. DGO, FCPS (OBGYN)",
       "specialty": "Gynecology, Infertility Specialist & Surgeon",
@@ -38,25 +48,31 @@
         "hospital": "Popular Diagnostic Center, Rangpur",
         "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787813"
-      },
-      "id": "9f16ece7-5295-4970-aea2-d539fa3bf238"
+        "appointmentNumber": "+8809666787813Call Now"
+      }
     },
     {
-      "name": "",
-      "degree": "",
-      "specialty": "",
-      "workplace": "",
-      "info": "",
+      "id": "daf3c944-9461-4361-b588-b0ba67494fa1",
+      "departmentId": "2f1abe04-4af6-4a5b-8765-0791c10bcd8f",
+      "link": "https://www.doctorbangladesh.com/dr-hasina-ferdousy/",
+      "imageId": "bf96b38a-1fe6-4592-a5eb-48f9a8928e3d",
+      "name": "Dr. Hasina Ferdousy",
+      "degree": "MBBS, FCPS (OBGYN)",
+      "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
+      "workplace": "Rangpur Medical College & Hospital",
+      "info": "Dr. Hasina Ferdousy is a Gynecologist in Rangpur. Her qualification is MBBS, FCPS (OBGYN). She is a Consultant, Gynecology & Obstetrics at Rangpur Medical College & Hospital. She regularly provides treatment to her patients at Update Diagnostic, Rangpur. Practicing hour of Dr. Hasina Ferdousy at Update Diagnostic, Rangpur is 5pm to 9pm (Closed: Friday).",
       "chamber": {
-        "hospital": "",
-        "address": "",
-        "visitingTime": "",
-        "appointmentNumber": ""
-      },
-      "id": "15c41f8d-40d2-4230-bffd-e70005316285"
+        "hospital": "Update Diagnostic, Rangpur",
+        "address": "Dhap (Opposite to Police Fari), Jail Road, Rangpur",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801971555555Call Now"
+      }
     },
     {
+      "id": "6702fce1-657d-4fa8-8432-7f375142dc89",
+      "departmentId": "2f1abe04-4af6-4a5b-8765-0791c10bcd8f",
+      "link": "https://www.doctorbangladesh.com/dr-iffat-ara-tulip/",
+      "imageId": "c230215c-fd62-4de2-805a-310d3c49d221",
       "name": "Dr. Iffat Ara Tulip",
       "degree": "MBBS, FCPS (OBGYN)",
       "specialty": "Gynecology & Obstetrics Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Popular Diagnostic Center, Rangpur",
         "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787813"
-      },
-      "id": "b091bccf-ae99-4a37-b7ba-101fdb46abd2"
+        "appointmentNumber": "+8809666787813Call Now"
+      }
     },
     {
+      "id": "595a4e9e-7bd8-4ee4-b38c-e355805cb914",
+      "departmentId": "2f1abe04-4af6-4a5b-8765-0791c10bcd8f",
+      "link": "https://www.doctorbangladesh.com/dr-nilufer-akter-nila/",
+      "imageId": "6bd77855-4fd3-460b-a8c3-5aa36d687017",
       "name": "Dr. Nilufar Akter Nila",
       "degree": "MBBS, FCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
@@ -80,11 +99,14 @@
         "hospital": "Update Diagnostic, Rangpur",
         "address": "Dhap (Opposite to Police Fari), Jail Road, Rangpur",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801971555555"
-      },
-      "id": "7ff4ea27-7743-494f-ba83-3782334f379b"
+        "appointmentNumber": "+8801971555555Call Now"
+      }
     },
     {
+      "id": "914ef882-274c-4817-8f5e-8077735a5e43",
+      "departmentId": "2f1abe04-4af6-4a5b-8765-0791c10bcd8f",
+      "link": "https://www.doctorbangladesh.com/dr-md-zafirul-hassan/",
+      "imageId": "e717fd6a-c473-44e4-88da-d2f79a9cdb17",
       "name": "Dr. Md. Zafirul Hassan",
       "degree": "MBBS, MCPS, FCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics, Infertility Specialist & Laparoscopic Surgeon",
@@ -94,11 +116,14 @@
         "hospital": "Update Diagnostic, Rangpur",
         "address": "Dhap (Opposite to Police Fari), Jail Road, Rangpur",
         "visitingTime": "4pm to 8pm (Sat, Sun, Mon & Tue)",
-        "appointmentNumber": "+8801971555555"
-      },
-      "id": "01c775f1-fb5b-4f2d-a34d-6935409ed326"
+        "appointmentNumber": "+8801971555555Call Now"
+      }
     },
     {
+      "id": "e1cb9e8b-8817-4710-a58d-ec39c8facde3",
+      "departmentId": "2f1abe04-4af6-4a5b-8765-0791c10bcd8f",
+      "link": "https://www.doctorbangladesh.com/dr-sonali-rani-mustofi/",
+      "imageId": "e050286e-75ff-4c73-950b-f29bc20b6173",
       "name": "Dr. Sonali Rani Mustofi",
       "degree": "MBBS, FCPS (OBGYN)",
       "specialty": "Gynecology & Obstetrics Specialist",
@@ -108,25 +133,31 @@
         "hospital": "Update Diagnostic, Rangpur",
         "address": "Dhap (Opposite to Police Fari), Jail Road, Rangpur",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801971555555"
-      },
-      "id": "86b25396-cee6-48be-8ba1-295e07071e73"
+        "appointmentNumber": "+8801971555555Call Now"
+      }
     },
     {
+      "id": "01061bbf-0b2d-4fb0-acd6-5c1c1306e7d4",
+      "departmentId": "2f1abe04-4af6-4a5b-8765-0791c10bcd8f",
+      "link": "https://www.doctorbangladesh.com/dr-nusrat-hossain-laz/",
+      "imageId": "830b1412-f1d1-498c-bafe-4b6e67f6b106",
       "name": "Dr. Nusrat Hossain Laz",
       "degree": "MBBS, BCS (Health), FCPS (OBGYN)",
       "specialty": "Gynecology, Infertility Specialist & Surgeon",
       "workplace": "Pirgacha Upazila Health Complex",
-      "info": "Dr. Nusrat Hossain Laz is a Gynecologist in Rangpur. Her qualification is MBBS, BCS (Health), FCPS (OBGYN). She is a Junior Consultant, Gynecology & Obstetrics at  Pirgacha Upazila Health Complex. She regularly provides treatment to her patients at Lab A One. Practicing hour of Dr. Nusrat Hossain Laz at Lab A One is 2.30pm to 8pm (Closed: Friday).",
+      "info": "Dr. Nusrat Hossain Laz is a Gynecologist in Rangpur. Her qualification is MBBS, BCS (Health), FCPS (OBGYN). She is a Junior Consultant, Gynecology & Obstetrics at Pirgacha Upazila Health Complex. She regularly provides treatment to her patients at Lab A One. Practicing hour of Dr. Nusrat Hossain Laz at Lab A One is 2.30pm to 8pm (Closed: Friday).",
       "chamber": {
         "hospital": "Lab A One",
         "address": "Jaill Road, Dhap, Rangpur",
         "visitingTime": "2.30pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801740627373"
-      },
-      "id": "bc33def2-13de-4589-bc81-ed186c34b960"
+        "appointmentNumber": "+8801740627373Call Now"
+      }
     },
     {
+      "id": "863e9c62-d00f-43a2-b1df-afa3d4c23d2d",
+      "departmentId": "2f1abe04-4af6-4a5b-8765-0791c10bcd8f",
+      "link": "https://www.doctorbangladesh.com/dr-rabeya-khatun/",
+      "imageId": "8d95e4f1-9faf-464b-97b1-0e9311289c0d",
       "name": "Dr. Rabeya Khatun",
       "degree": "MBBS, FCPS (OBGYN)",
       "specialty": "Gynecology & Obstetrics Specialist",
@@ -136,11 +167,14 @@
         "hospital": "Islami Bank Community Hospital, Rangpur",
         "address": "Jail Road, Dhap, Rangpur",
         "visitingTime": "3pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801750908297"
-      },
-      "id": "f741385d-1520-42cd-b2ab-13bf9f8aa19f"
+        "appointmentNumber": "+8801750908297Call Now"
+      }
     },
     {
+      "id": "f83e901a-b8eb-4f05-96e1-8843198f6c0c",
+      "departmentId": "2f1abe04-4af6-4a5b-8765-0791c10bcd8f",
+      "link": "https://www.doctorbangladesh.com/dr-mousumi-hasan/",
+      "imageId": "cfc504f5-8eed-445a-a17c-e56bd34b98c9",
       "name": "Dr. Mousumi Hasan",
       "degree": "MBBS, MS (OBGYN)",
       "specialty": "Gynecology & Obstetrics Specialist",
@@ -150,11 +184,14 @@
         "hospital": "Doctor's Community Hospital, Rangpur",
         "address": "Medical East Gate, Health City Road, Dhap, Rangpur",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801717292458"
-      },
-      "id": "5fce06c7-5d1b-44df-8023-5188533fd11c"
+        "appointmentNumber": "+8801717292458Call Now"
+      }
     },
     {
+      "id": "c849c3a2-6a2c-4d75-9c37-01e752e1de33",
+      "departmentId": "2f1abe04-4af6-4a5b-8765-0791c10bcd8f",
+      "link": "https://www.doctorbangladesh.com/dr-khodeza-khatun-toma/",
+      "imageId": "5da1738d-7936-47f6-99a3-9dbbd94d8aaf",
       "name": "Dr. Khodeza Khatun Toma",
       "degree": "MBBS, DGO, FCPS (OBGYN)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
@@ -164,11 +201,14 @@
         "hospital": "Labaid Diagnostic, Rangpur",
         "address": "House # 69, Dhap, Jail Road, Rangpur",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801766663099"
-      },
-      "id": "5a6daea9-a616-4b11-9ab4-49a637ef0742"
+        "appointmentNumber": "+8801766663099Call Now"
+      }
     },
     {
+      "id": "2c080763-2f7a-44bd-a362-c61c3c3a3dde",
+      "departmentId": "2f1abe04-4af6-4a5b-8765-0791c10bcd8f",
+      "link": "https://www.doctorbangladesh.com/dr-kismot-ara-sheikh-mala/",
+      "imageId": "333bbd5b-7877-419e-9292-8fd54beaf5cd",
       "name": "Dr. Kismot Ara Sheikh Mala",
       "degree": "MBBS, MCPS (OBGYN), FRSH (UK)",
       "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
@@ -178,11 +218,14 @@
         "hospital": "Popular Diagnostic Center, Rangpur",
         "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
         "visitingTime": "4pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787813"
-      },
-      "id": "19e09bd5-e2ba-46af-8bac-102cb76b35e9"
+        "appointmentNumber": "+8809666787813Call Now"
+      }
     },
     {
+      "id": "58902de4-f941-4421-ab4e-94bfab5ce17c",
+      "departmentId": "2f1abe04-4af6-4a5b-8765-0791c10bcd8f",
+      "link": "https://www.doctorbangladesh.com/dr-jebun-nessa-begum/",
+      "imageId": "9b7969c9-a8f2-4b96-9308-9001f3ba1ea6",
       "name": "Dr. Jebun Nessa Begum",
       "degree": "MBBS, MS (OBGYN)",
       "specialty": "Gynecology & Obstetrics Specialist",
@@ -192,11 +235,14 @@
         "hospital": "Doctor's Community Hospital, Rangpur",
         "address": "Medical East Gate, Health City Road, Dhap, Rangpur",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801717292458"
-      },
-      "id": "b102418f-1af3-43f5-ae9c-55e3cd870b33"
+        "appointmentNumber": "+8801717292458Call Now"
+      }
     },
     {
+      "id": "3e080eb5-d707-4e2a-8aed-8fd0d6ac5a3b",
+      "departmentId": "2f1abe04-4af6-4a5b-8765-0791c10bcd8f",
+      "link": "https://www.doctorbangladesh.com/dr-yeasmin-dil-jannat-munni/",
+      "imageId": "e958b5a6-cbdf-4d6b-b0d2-8bc765f35678",
       "name": "Dr. Yeasmin Dil Jannat Munni",
       "degree": "MBBS, BCS (Health), MS (OBGYN)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
@@ -206,11 +252,14 @@
         "hospital": "Update Diagnostic, Rangpur",
         "address": "Dhap (Opposite to Police Fari), Jail Road, Rangpur",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801971555555"
-      },
-      "id": "92569841-4a63-45bc-946b-3ab20b65f3ec"
+        "appointmentNumber": "+8801971555555Call Now"
+      }
     },
     {
+      "id": "82fa77c6-2f2c-48a6-9d57-513ca08b8282",
+      "departmentId": "2f1abe04-4af6-4a5b-8765-0791c10bcd8f",
+      "link": "https://www.doctorbangladesh.com/dr-ferdous-ara-sheikh-happy/",
+      "imageId": "0e864ddf-9d08-44b5-8cee-6980152ced0f",
       "name": "Dr. Ferdous Ara Sheikh Happy",
       "degree": "MBBS, MS (OBGYN)",
       "specialty": "Gynecology & Obstetrics Specialist",
@@ -220,11 +269,14 @@
         "hospital": "Labaid Diagnostic, Rangpur",
         "address": "House # 69, Dhap, Jail Road, Rangpur",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801766663099"
-      },
-      "id": "b2279da4-2c90-4966-a704-9eab2fb5c1fb"
+        "appointmentNumber": "+8801766663099Call Now"
+      }
     },
     {
+      "id": "8586a9b5-fbd4-4404-9ee3-c70bc9395ba8",
+      "departmentId": "2f1abe04-4af6-4a5b-8765-0791c10bcd8f",
+      "link": "https://www.doctorbangladesh.com/dr-effat-zahan-abdullah-eva/",
+      "imageId": "cdb8865f-3da4-4017-becd-a03c7fb92667",
       "name": "Dr. Effat Zahan Abdullah (Eva)",
       "degree": "MBBS, MS (OBGYN), FICS (America)",
       "specialty": "Gynecology, Obstetrics Specialist & Surgeon",
@@ -234,11 +286,14 @@
         "hospital": "Mount Pacific Hospital, Rangpur",
         "address": "Dhap (Near Police Fhari), Jail Road, Rangpur",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801707662407"
-      },
-      "id": "2d27c1b7-b7d7-41bd-b736-0ecdc14357b9"
+        "appointmentNumber": "+8801707662407Call Now"
+      }
     },
     {
+      "id": "8e21bcb9-bfb5-463a-bd30-7734eaf12a16",
+      "departmentId": "2f1abe04-4af6-4a5b-8765-0791c10bcd8f",
+      "link": "https://www.doctorbangladesh.com/dr-fouzia-akter/",
+      "imageId": "a734fec2-3994-4ccc-ba54-8d804b5a7c29",
       "name": "Dr. Fouzia Akter",
       "degree": "MBBS, MCPS (OBGYN), FCPS (OBGYN), BCS (Health)",
       "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
@@ -248,9 +303,8 @@
         "hospital": "Ideal Diagnostic Center, Rangpur",
         "address": "6/7, Treatment Tower, Dhap (beside of Police Fari), Jail Road, Rangpur",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801966555357"
-      },
-      "id": "07bfbefd-2a52-495f-92a8-097c16b8567f"
+        "appointmentNumber": "+8801966555357Call Now"
+      }
     }
   ]
 }

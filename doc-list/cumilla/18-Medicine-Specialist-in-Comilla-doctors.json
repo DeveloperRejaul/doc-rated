@@ -1,34 +1,44 @@
 {
   "doctor": [
     {
+      "id": "f2bf6936-7564-4f19-952e-987794fc4fa9",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-azizul-haque/",
+      "imageId": "b4d0df22-f818-4a17-b590-57b91ddeaa63",
       "name": "Prof. Dr. Md. Azizul Haque",
       "degree": "MBBS (Dhaka), FCPS (Medicine), MACP (USA)",
       "specialty": "Medicine Specialist",
       "workplace": "Cumilla Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Dhanmondi\nAddress: House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205\nVisiting Hour: 5pm to 7pm (Only Friday)\nAppointment: +8809666787801\nCall Now",
+      "info": "Popular Diagnostic Center, Dhanmondi Address: House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205 Visiting Hour: 5pm to 7pm (Only Friday) Appointment: +8809666787801 Call Now",
       "chamber": {
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "11am to 3pm & 5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801711144786"
-      },
-      "id": "dc3402fa-9350-4b2d-907f-f5c0282a9879"
+        "appointmentNumber": "+8801711144786Call Now"
+      }
     },
     {
+      "id": "f3f0f2ed-b328-4fc2-8824-9a779c1c7de1",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-a-k-m-shafiqul-islam-qayum/",
+      "imageId": "8eacc662-c2c2-4681-b706-e980b3e66de1",
       "name": "Dr. A.K.M. Shafiqul Islam Qayum",
       "degree": "MBBS, BCS (Health), MCPS (Medicine), FCPS (Medicine), MD (Gastroenterology), MACP (USA)",
       "specialty": "Gastroenterology, Medicine & Liver Diseases Specialist",
       "workplace": "Cumilla Medical College & Hospital",
-      "info": "CD Path & Hospital Pvt. Ltd.\nAddress: Shishu Monagal Road, Badurtoal, Cumilla – 3500\nVisiting Hour: 2.30pm to 8pm (Tue & Thu)\nAppointment: +8801790680143\nCall Now",
+      "info": "CD Path & Hospital Pvt. Ltd. Address: Shishu Monagal Road, Badurtoal, Cumilla – 3500 Visiting Hour: 2.30pm to 8pm (Tue & Thu) Appointment: +8801790680143 Call Now",
       "chamber": {
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "2.30pm to 5.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801308397223"
-      },
-      "id": "804716f6-e42a-48fb-adf2-ff72eecb66c2"
+        "appointmentNumber": "+8801308397223Call Now"
+      }
     },
     {
+      "id": "41af0a6f-da1e-42a2-ac08-e02760162486",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-saha-imran/",
+      "imageId": "87d38c93-2e9b-470b-9b5b-8a32a37537d7",
       "name": "Dr. Saha Imran",
       "degree": "MBBS, FCPS (Medicine)",
       "specialty": "Medicine Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Moon Hospital, Comilla",
         "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
         "visitingTime": "1pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801718653835"
-      },
-      "id": "4b21d395-6434-46aa-b3b9-f51a56eedad2"
+        "appointmentNumber": "+8801718653835Call Now"
+      }
     },
     {
+      "id": "14a49969-9868-4955-a935-b28799c6eef0",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-shah-jamal/",
+      "imageId": "e3496bb1-f1e0-452a-8b19-925f82035801",
       "name": "Dr. Mohammad Shah Jamal",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology), Training (Diabetes-BIRDEM)",
       "specialty": "Gastroenterology, Liver, Medicine & Diabetes Specialist",
@@ -52,11 +65,14 @@
         "hospital": "CD Path & Hospital Pvt. Ltd.",
         "address": "Shishu Monagal Road, Badurtoal, Cumilla – 3500",
         "visitingTime": "2pm to 6pm (Sun & Wed)",
-        "appointmentNumber": "+8801708437891"
-      },
-      "id": "0c1f16f4-5e62-493f-a662-e1a7da5e428a"
+        "appointmentNumber": "+8801708437891Call Now"
+      }
     },
     {
+      "id": "7d2587a4-0bee-4584-95bf-440bf71d9c4a",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-md-mohiuddin/",
+      "imageId": "1658bd47-317b-4ade-a040-e53a6403e0ce",
       "name": "Dr. Md. Mohiuddin",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), DEM (BIRDEM), MACE (USA)",
       "specialty": "Medicine, Diabetes, Thyroid & Hormone Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "3pm to 8pm (Closed: Tuesday)",
-        "appointmentNumber": "+8801711144786"
-      },
-      "id": "6d65416d-8168-404c-8921-577b995344fc"
+        "appointmentNumber": "+8801711144786Call Now"
+      }
     },
     {
+      "id": "fb94caaa-7bca-4617-b196-8feebd73f8c1",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-shah-alam/",
+      "imageId": "3a7e2357-52d7-4fb5-99a6-b7e9eace71ff",
       "name": "Dr. Muhammad Shah Alam",
       "degree": "MBBS, FCPS (Medicine), DEM (BIRDEM)",
       "specialty": "Medicine, Diabetes, Thyroid & Hormone Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Gomati Hospital, Comilla",
         "address": "Nazrul Avenue, Kandirpar, Cumilla - 3500",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801711798083"
-      },
-      "id": "526357e9-aade-47fb-bb55-d3a48ca7b12c"
+        "appointmentNumber": "+8801711798083Call Now"
+      }
     },
     {
+      "id": "3907f2ac-28fb-4abe-a0e9-9c207238d1e1",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-shahab-uddin/",
+      "imageId": "7c0eabab-7a07-415f-abdb-3b60864d542b",
       "name": "Prof. Dr. Md. Shahab Uddin",
       "degree": "MBBS, FCPS (Medicine), FACP (USA), FRCP (EDIN-UK), FRCP (GLAS-UK)",
       "specialty": "Medicine, Diabetes & Cardiology Specialist",
@@ -94,25 +116,31 @@
         "hospital": "CD Path & Hospital Pvt. Ltd.",
         "address": "Shishu Monagal Road, Badurtoal, Cumilla – 3500",
         "visitingTime": "9am to 1.30pm (Everyday)",
-        "appointmentNumber": "+8801711173718"
-      },
-      "id": "2a334b53-e451-488d-9427-fb646be6fa52"
+        "appointmentNumber": "+8801711173718Call Now"
+      }
     },
     {
+      "id": "5e42c393-517b-4eef-8c30-355a328aa355",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-md-kamruzzaman-khokon/",
+      "imageId": "df2b2ed0-10e8-4108-8ce8-41d440e581bb",
       "name": "Dr. Md. Kamruzzaman Khokan",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MACP (USA)",
       "specialty": "Medicine & Diabetes Specialist",
       "workplace": "Cumilla Medical College & Hospital",
-      "info": "Midland Hospital, Comilla\nAddress: Laksam Road, Ramghat, Kandirpar, Cumilla\nVisiting Hour: 3pm to 8pm (Closed: Friday)\nAppointment: +8801711795740\nCall Now",
+      "info": "Midland Hospital, Comilla Address: Laksam Road, Ramghat, Kandirpar, Cumilla Visiting Hour: 3pm to 8pm (Closed: Friday) Appointment: +8801711795740 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Comilla",
         "address": "House # 29, Kotbari Road, Tomsom Bridge, Cumilla",
         "visitingTime": "2pm to 4pm (Sat to Thu) & 10am to 12pm (Fri)",
-        "appointmentNumber": "+8801841212275"
-      },
-      "id": "49ab06b9-f532-4834-8a8a-e528b3af9ea9"
+        "appointmentNumber": "+8801841212275Call Now"
+      }
     },
     {
+      "id": "58738281-5283-4870-ad4d-c06c32f5fcb0",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-lokman-hakim/",
+      "imageId": "783c8e21-5486-46e6-9f6c-8f102c316d63",
       "name": "Dr. Mohammad Lokman Hakim",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Internal Medicine), MACP (USA), CCD (BIRDEM)",
       "specialty": "Medicine Specialist",
@@ -122,11 +150,14 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801714029997"
-      },
-      "id": "467e0d25-d6d5-458a-beed-59015b34b84f"
+        "appointmentNumber": "+8801714029997Call Now"
+      }
     },
     {
+      "id": "f291298c-fc60-4942-b746-4fced32ec718",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-taslima-akter-medicine/",
+      "imageId": "d2ac859c-bf43-48dc-b22c-483575908d25",
       "name": "Dr. Taslima Akter",
       "degree": "MBBS, BCS (Health), MCPS (Medicine), FCPS (Medicine)",
       "specialty": "Medicine Specialist",
@@ -136,11 +167,14 @@
         "hospital": "Moon Hospital, Comilla",
         "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
         "visitingTime": "3pm to 6pm (Sun, Tue & Wed)",
-        "appointmentNumber": "+8801903760115"
-      },
-      "id": "457c50fb-54d5-4bb3-ba90-df680722d434"
+        "appointmentNumber": "+8801903760115Call Now"
+      }
     },
     {
+      "id": "520b0bae-b2d5-4121-8705-798ec5a7ca6b",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-saleh-ahmed-saleh/",
+      "imageId": "e1b0cf51-f92a-4a00-90f4-3ac3cfc697f1",
       "name": "Dr. Saleh Ahmed Saleh",
       "degree": "MBBS, BCS (Health), FCPS (Medicine)",
       "specialty": "Medicine Specialist",
@@ -150,11 +184,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Comilla",
         "address": "House # 29, Kotbari Road, Tomsom Bridge, Cumilla",
         "visitingTime": "5pm to 9pm (Sat, Sun, Tue & Thu)",
-        "appointmentNumber": "+8801841212275"
-      },
-      "id": "a21ef33a-20ad-4f67-8008-53198d362ad3"
+        "appointmentNumber": "+8801841212275Call Now"
+      }
     },
     {
+      "id": "da6dd78e-81f2-4068-a199-b0d1b02765f9",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-abu-mohammad/",
+      "imageId": "f2b3d89c-1dc5-41bb-978c-b011d1ba1df1",
       "name": "Dr. Abu Mohammad",
       "degree": "MBBS (DMC), BCS (Health), FCPS (Medicine)",
       "specialty": "Medicine Specialist",
@@ -164,11 +201,14 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801677950044"
-      },
-      "id": "837590d8-45bd-4919-af57-d131fbfacee7"
+        "appointmentNumber": "+8801677950044Call Now"
+      }
     },
     {
+      "id": "d1b9dde0-8e0e-4959-bd6a-f48d58735566",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-ganesh-chandra-surov/",
+      "imageId": "840dac2e-a8ec-431b-9337-ae5aa658486d",
       "name": "Dr. Ganesh Chandra Saurav",
       "degree": "MBBS, D-CARD, FCCP, FCPS, MACP, MESC",
       "specialty": "Medicine Specialist, Cardiologist, Diabetologist & Chest PhysicianHeart Diseases, Hypertension & Rheumatic Fever Specialist",
@@ -178,11 +218,14 @@
         "hospital": "Moon Hospital, Comilla",
         "address": "Room - 617, Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
         "visitingTime": "3pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801836649409"
-      },
-      "id": "74aee079-2c5b-4d9b-8d8e-b99c7e4b46d4"
+        "appointmentNumber": "+8801836649409Call Now"
+      }
     },
     {
+      "id": "988a63b2-e838-47c2-95d4-9fc060a9f5a2",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-chinmoy-kumar-saha/",
+      "imageId": "ad531401-4e28-48b7-8908-e9ae7b2bbc7a",
       "name": "Dr. Chinmoy Kumar Saha",
       "degree": "MBBS, BCS (Health), FCPS (Medicine)",
       "specialty": "Medicine Specialist",
@@ -192,11 +235,14 @@
         "hospital": "Cumilla People's Hospital",
         "address": "Khocon Tower, Medical College Road, Tomsombridge, Cumilla",
         "visitingTime": "3pm to 10pm (Except Thursday & Friday)",
-        "appointmentNumber": "+8801888117894"
-      },
-      "id": "c5b45dda-b8c7-4141-ba89-bcd87441248c"
+        "appointmentNumber": "+8801888117894Call Now"
+      }
     },
     {
+      "id": "6b8b17a6-2f9f-43f5-96aa-15713fdbc5a0",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-syeda-tanzina-kalam/",
+      "imageId": "4568cf21-9189-4082-a285-c95630bda565",
       "name": "Dr. Syeda Tanzina Kalam",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MCPS (Medicine)",
       "specialty": "Medicine Specialist",
@@ -206,39 +252,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Comilla",
         "address": "House # 29, Kotbari Road, Tomsom Bridge, Cumilla",
         "visitingTime": "3pm to 5pm (Sat & Thu)",
-        "appointmentNumber": "+8801841212275"
-      },
-      "id": "4d5b8351-5ec5-4bcf-9df8-cd6570c1e4d8"
+        "appointmentNumber": "+8801841212275Call Now"
+      }
     },
     {
-      "name": "Dr. Md. Helalur Rahman",
-      "degree": "MBBS, BCS (Health), FCPS (Medicine), Higher Training (Neuromedicine)",
-      "specialty": "Medicine & Neuromedicine Specialist",
-      "workplace": "Cumilla Medical College & Hospital",
-      "info": "Dr. Md. Helalur Rahman is a Medicine Specialist in Comilla. His qualification is MBBS, BCS (Health), FCPS (Medicine), Higher Training (Neuromedicine). He is a Assistant Professor, Department of Medicine at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at CD Path & Hospital Pvt. Ltd.. Practicing hour of Dr. Md. Helalur Rahman at CD Path & Hospital Pvt. Ltd. is 2pm to 9pm (Closed: Friday).",
-      "chamber": {
-        "hospital": "CD Path & Hospital Pvt. Ltd.",
-        "address": "Shishu Monagal Road, Badurtoal, Cumilla – 3500",
-        "visitingTime": "2pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801708437893"
-      },
-      "id": "7cca1b96-287c-4f11-9fee-fda9adf27103"
-    },
-    {
-      "name": "Dr. Amrit Kumar Debnath",
-      "degree": "MBBS, FCPS (Medicine), MACP (USA)",
-      "specialty": "Medicine Specialist",
-      "workplace": "General Hospital, Cumilla",
-      "info": "Dr. Amrit Kumar Debnath is a Medicine Specialist in Comilla. His qualification is MBBS, FCPS (Medicine), MACP (USA). He is a Consultant, Department of Medicine at General Hospital, Cumilla. He regularly provides treatment to his patients at Comilla Trauma Center. Practicing hour of Dr. Amrit Kumar Debnath at Comilla Trauma Center is 3pm to 9pm (Sat to Wed) & 9am to 3pm (Fri).",
-      "chamber": {
-        "hospital": "Comilla Trauma Center",
-        "address": "511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla",
-        "visitingTime": "3pm to 9pm (Sat to Wed) & 9am to 3pm (Fri)",
-        "appointmentNumber": "+8809612808182"
-      },
-      "id": "b474f604-63ea-4202-96c0-fd6da2bb1d60"
-    },
-    {
+      "id": "097e8cd1-2267-4ac6-8aeb-3eed48051e47",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-md-delwar-hossain-medicine/",
+      "imageId": "8af702a4-3b0a-4c34-9f48-3eaf182feee9",
       "name": "Dr. Md. Delwar Hossain",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MACP (USA), FACP (USA)",
       "specialty": "Medicine Specialist",
@@ -248,11 +269,14 @@
         "hospital": "D. H. Hospital, Comilla",
         "address": "Tomsom Bridge, EPZ Road, Comilla",
         "visitingTime": "2.30pm to 7pm (Sat to Thu), 10am to 12pm (Fri)",
-        "appointmentNumber": "+8801820113365"
-      },
-      "id": "437e5957-b2a6-43bb-acd5-278e0c1b39db"
+        "appointmentNumber": "+8801820113365Call Now"
+      }
     },
     {
+      "id": "4545f146-59ea-4629-98a7-45ce212fc4dd",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-md-enamul-hoq/",
+      "imageId": "b09ee0c9-a972-4a4b-9870-1740bc0d5dd5",
       "name": "Dr. Md. Enamul Hoq",
       "degree": "MBBS (DMC), FCPS (Medicine), MACP (USA)",
       "specialty": "Medicine Specialist",
@@ -262,11 +286,14 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "4pm to 8pm (Sat to Thu) & 9am to 5pm (Fri)",
-        "appointmentNumber": "+8801401074126"
-      },
-      "id": "cc606304-365e-42ab-9f15-f05da306d632"
+        "appointmentNumber": "+8801401074126Call Now"
+      }
     },
     {
+      "id": "b4a0c5fd-76bc-4024-a572-1eb9116d77ab",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-md-kamal-hossain-patwary/",
+      "imageId": "99e9ab65-14cb-46c8-a994-6ef59ed0e87f",
       "name": "Dr. Md. Kamal Hossain Patwary",
       "degree": "MBBS, BCS (Health), FCPS (Medicine)",
       "specialty": "Medicine (All Diseases of Adults) Specialist",
@@ -276,11 +303,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Comilla",
         "address": "House # 29, Kotbari Road, Tomsom Bridge, Cumilla",
         "visitingTime": "2.30pm to 4pm (Sun, Mon & Tue)",
-        "appointmentNumber": "+8801841212275"
-      },
-      "id": "668fc6b9-c56c-425f-943b-e986d7a869a2"
+        "appointmentNumber": "+8801841212275Call Now"
+      }
     },
     {
+      "id": "983d5af1-8efc-4bd4-8ab9-a4b3186338e3",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-arup-kumar-roy/",
+      "imageId": "06b6232e-468c-4e12-9e6e-90fe204c7e8d",
       "name": "Dr. Arup Kumar Roy",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MACP (USA)",
       "specialty": "Medicine Specialist",
@@ -290,11 +320,14 @@
         "hospital": "Human Diagnostic & Hospital, Comilla",
         "address": "Beside Police Line School, Racecourse Main Road, Cumilla",
         "visitingTime": "2pm to 8pm (Closed: Fri & Saturday)",
-        "appointmentNumber": "+8801988547239"
-      },
-      "id": "3445e87d-fd4b-4e8d-acd6-9b443a7ee0bc"
+        "appointmentNumber": "+8801988547239Call Now"
+      }
     },
     {
+      "id": "de43d946-a64e-4e00-a91f-13a32a0ffe1b",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-makhan-lal-paul/",
+      "imageId": "e7f00810-eee6-4135-907a-265735051b0d",
       "name": "Prof. Dr. Makhan Lal Paul",
       "degree": "MBBS, FCPS (Medicine), FACP (USA), D-CARD (Cardiology C-C), CCD (BIRDEM)",
       "specialty": "Medicine, Cardiology, Diabetes & Rheumatic Fever Specialist",
@@ -302,13 +335,16 @@
       "info": "Prof. Dr. Makhan Lal Paul is a Medicine Specialist in Cumilla. His qualification is MBBS, FCPS (Medicine), FACP (USA), D-CARD (Cardiology C-C), CCD (BIRDEM). He is a Professor & Head of the Department of Medicine at Mainamoti Medical College & Hospital, Cumilla. He regularly provides treatment to his patients at Human Diagnostic & Hospital, Cumilla. Practicing hour of Prof. Dr. Makhan Lal Paul at Human Diagnostic & Hospital, Cumilla is 2pm to 6pm (Sat to Thu), 10am to 1pm (Fri).",
       "chamber": {
         "hospital": "Human Diagnostic & Hospital, Cumilla",
-        "address": "East side of Mukti Hospital,  Racecourse Main Road, Cumilla (South Side at East End of Flyover)",
+        "address": "East side of Mukti Hospital, Racecourse Main Road, Cumilla (South Side at East End of Flyover)",
         "visitingTime": "2pm to 6pm (Sat to Thu), 10am to 1pm (Fri)",
-        "appointmentNumber": "+8801748-154220, +8801686-922383"
-      },
-      "id": "07b374ba-1bff-403d-a605-05b6a9c6519c"
+        "appointmentNumber": "+8801748-154220, +8801686-922383Call Now"
+      }
     },
     {
+      "id": "3252929f-d1a1-49e4-806e-ffa2961e6333",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-h-m-kaiser/",
+      "imageId": "d24a2092-ffc5-4ddd-a686-209d399f284f",
       "name": "Dr. H. M. Kaiser",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MACP (USA)",
       "specialty": "Medicine Specialist",
@@ -318,11 +354,14 @@
         "hospital": "Moon Hospital, Comilla",
         "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801559892292"
-      },
-      "id": "42ccdd88-5af8-45fc-9fea-5255f5365869"
+        "appointmentNumber": "+8801559892292Call Now"
+      }
     },
     {
+      "id": "69042325-3796-4100-80eb-0a9236d77551",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-ali-medicine/",
+      "imageId": "8b52f4cf-f6aa-467d-8bbd-8e8e6acbb8d1",
       "name": "Dr. Mohammad Ali",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MACP (USA)",
       "specialty": "Medicine Specialist",
@@ -332,25 +371,31 @@
         "hospital": "Labaid Diagnostic, Cumilla",
         "address": "Tomsom Bridge, Laksam Road, Cumilla",
         "visitingTime": "2pm to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801766661133"
-      },
-      "id": "29b5d4fb-5eb4-4528-b8ea-e56eda081e89"
+        "appointmentNumber": "+8801766661133Call Now"
+      }
     },
     {
+      "id": "6bcddfec-fa7d-4936-9cd6-e4de7663b113",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-arif-akbar-shoibal/",
+      "imageId": "bc54372f-92d0-4a9f-82c0-6449ca93fb01",
       "name": "Prof. Dr. Md. Arif Akbar Shoibal",
       "degree": "MBBS, MD (Internal Medicine), FACP (USA)",
       "specialty": "Medicine Specialist",
       "workplace": "Eastern Medical College & Hospital",
-      "info": "Mukti Hospital, Comilla\nAddress: Race Course, Sasongacha, Cumilla – 3500\nVisiting Hour: 3pm to 8pm (Closed: Sunday)\nAppointment: +8801834220141\nCall Now",
+      "info": "Mukti Hospital, Comilla Address: Race Course, Sasongacha, Cumilla – 3500 Visiting Hour: 3pm to 8pm (Closed: Sunday) Appointment: +8801834220141 Call Now",
       "chamber": {
         "hospital": "CD Path & Hospital Pvt. Ltd.",
         "address": "Shishu Monagal Road, Badurtoal, Cumilla – 3500",
         "visitingTime": "4pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801790680849"
-      },
-      "id": "883d539c-9b1c-406d-b026-9cb3770adae5"
+        "appointmentNumber": "+8801790680849Call Now"
+      }
     },
     {
+      "id": "c473697a-5614-4814-9a3e-e66a5a605b47",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-nihar-ranjan-mazumder/",
+      "imageId": "c52573a3-724a-4f59-9ebf-8f0adc985de0",
       "name": "Dr. Nihar Ranjan Mazumder",
       "degree": "MBBS, FCPS (Medicine)",
       "specialty": "Medicine (All Diseases of Adults) Specialist",
@@ -360,11 +405,14 @@
         "hospital": "Comilla Trauma Center",
         "address": "511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla",
         "visitingTime": "2.30pm to 8pm (Sat to Thu) & 9am to 12pm (Fri)",
-        "appointmentNumber": "+8809612808182"
-      },
-      "id": "afc7d796-83da-495c-a767-f254683213c3"
+        "appointmentNumber": "+8809612808182Call Now"
+      }
     },
     {
+      "id": "a5c93636-f603-4876-800b-0199dc418c8e",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-akm-sajedur-rahman/",
+      "imageId": "09fc3e9f-9ce8-4c26-a342-56212ae70dec",
       "name": "Dr. AKM Sajedur Rahman",
       "degree": "MBBS, BCS (Health), MD (Internal Medicine)",
       "specialty": "Medicine Specialist",
@@ -374,11 +422,14 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "2.30pm to 6pm (Sun, Mon & Tue)",
-        "appointmentNumber": "+8801798290211"
-      },
-      "id": "c790c7bd-d840-4551-bfd1-fb721eed93cb"
+        "appointmentNumber": "+8801798290211Call Now"
+      }
     },
     {
+      "id": "3cc5a55a-99f0-47d6-8135-675b7fbf3aa1",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-md-ahsan-ullah-rumi/",
+      "imageId": "9a7b0e30-6d61-48d3-be2a-cd1a2752b3c1",
       "name": "Dr. Md. Ahsan Ullah Rumi",
       "degree": "MBBS, BCS (Health), MCPS (Medicine), FCPS (Medicine), CCD (BIRDEM)",
       "specialty": "Medicine & Diabetes Specialist",
@@ -388,11 +439,14 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "4.30pm to 8.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801711144786"
-      },
-      "id": "d34b583a-1eeb-469a-bb39-cead525422d7"
+        "appointmentNumber": "+8801711144786Call Now"
+      }
     },
     {
+      "id": "93d6604c-1534-4740-84b1-cc90ae9b1714",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-mostaq-ahmed/",
+      "imageId": "7bfd3184-7bf6-4645-8ce2-9b563e41d95a",
       "name": "Dr. Mostaq Ahmed",
       "degree": "MBBS, MRCP (Medicine), MRCPS (Glasgow)",
       "specialty": "Diabetes, Thyroid, Hormone & Medicine Specialist",
@@ -402,11 +456,14 @@
         "hospital": "Modern Hospital, Comilla",
         "address": "Laksam Road, Shaktola, Cumilla – 3500",
         "visitingTime": "3pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801711785199"
-      },
-      "id": "edb1f3e1-a032-4463-af45-0c0021d4c1ae"
+        "appointmentNumber": "+8801711785199Call Now"
+      }
     },
     {
+      "id": "0b42779f-1d83-4a3e-91d6-59d8f694b9bd",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-md-nazim-uddin/",
+      "imageId": "0872ff73-e439-46a2-8be6-32b16b8053a4",
       "name": "Dr. Md. Nazim Uddin",
       "degree": "MBBS, FCPS (MEDICINE)",
       "specialty": "Medicine Specialist",
@@ -416,11 +473,14 @@
         "hospital": "Modern Hospital, Comilla",
         "address": "Laksam Road, Shaktola, Cumilla – 3500",
         "visitingTime": "From 4pm (Closed: Friday)",
-        "appointmentNumber": "+8801711785199"
-      },
-      "id": "baaaf788-9169-4d50-8ad9-4daebb098578"
+        "appointmentNumber": "+8801711785199Call Now"
+      }
     },
     {
+      "id": "ff686f29-12cb-4a8d-a332-74824172fc5d",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-sanjib-kumar-purohit/",
+      "imageId": "d00666bd-6a08-47e2-9106-72413aaa5b28",
       "name": "Dr. Sanjib Kumar Purohit",
       "degree": "MBBS, FCPS (Medicine)",
       "specialty": "Medicine (All Diseases of Adults) Specialist",
@@ -430,25 +490,31 @@
         "hospital": "Comilla Popular Hospital Pvt. Ltd.",
         "address": "Laksam Road, Cumilla",
         "visitingTime": "11am to 2pm & 5pm to 7pm",
-        "appointmentNumber": "+8801733228828"
-      },
-      "id": "ea2a540e-228c-4625-9394-5f5f77d11174"
+        "appointmentNumber": "+8801733228828Call Now"
+      }
     },
     {
+      "id": "569dc903-db6e-4f94-b714-1bcedfb28090",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/asst-prof-dr-ankur-datta/",
+      "imageId": "0cb02d49-d5d3-4b23-b6e7-b80dc501b6bd",
       "name": "Asst. Prof. Dr. Ankur Datta",
       "degree": "MBBS, MPH (CM) BSMMU, CCD (Diabetes), EDC (Advance Diabetes) BIRDEM",
       "specialty": "Preventive Medicine SpecialistSpecial interest in Medicine, Diabetes, Hormone, Neurology",
       "workplace": "Eastern Medical College & Hospital",
-      "info": "Personal Chamber\nAddress: House Name: Shashi, In front of Modern High School, Left Lane of DBBL Booth 3rd Number House\nVisiting Hour: 4pm to 8pm (Everyday)\nAppointment: +8801787100087\nCall Now",
+      "info": "Personal Chamber Address: House Name: Shashi, In front of Modern High School, Left Lane of DBBL Booth 3rd Number House Visiting Hour: 4pm to 8pm (Everyday) Appointment: +8801787100087 Call Now",
       "chamber": {
         "hospital": "CD Path & Hospital Pvt. Ltd.",
         "address": "Shishu Monagal Road, Badurtoal, Cumilla – 3500",
         "visitingTime": "9am to 2pm (Everyday)",
-        "appointmentNumber": "+8801787100087"
-      },
-      "id": "4ae349c3-bb04-4fd1-b508-e5e2f45d5be8"
+        "appointmentNumber": "+8801787100087Call Now"
+      }
     },
     {
+      "id": "e5d630f6-be55-4f8a-b2e4-96e71d19cb51",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-mamunur-rashid-bhuiyan/",
+      "imageId": "478ee261-28d6-488f-8f47-f18f25451b40",
       "name": "Dr. Mamunur Rashid Bhuiyan",
       "degree": "MBBS (CMC), BCS (Health), FCPS (Medicine), MACP (USA), CCD (BIRDEM)",
       "specialty": "Medicine Specialist",
@@ -458,11 +524,14 @@
         "hospital": "Cumilla Navana Hospital (Pvt) Ltd",
         "address": "Jhawtala , Comilla",
         "visitingTime": "2pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801717186452"
-      },
-      "id": "7e5a1eed-dea3-4ad6-9ad4-b94b790be9ad"
+        "appointmentNumber": "+8801717186452Call Now"
+      }
     },
     {
+      "id": "e82c8e6e-520b-4fba-92f9-17345351d996",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-md-main-uddin/",
+      "imageId": "323d3af9-fd37-4edc-a7a7-74679ea116f6",
       "name": "Dr. Md. Main Uddin",
       "degree": "MBBS, FCPS (Gold Medalist)",
       "specialty": "Medicine Specialist",
@@ -472,11 +541,14 @@
         "hospital": "Labaid Diagnostic, Cumilla",
         "address": "Tomsom Bridge, Laksam Road, Cumilla",
         "visitingTime": "3pm to 6pm (Closed: Mon & Friday)",
-        "appointmentNumber": "+8801728180347"
-      },
-      "id": "af9ac051-278d-482e-8f69-63738385027f"
+        "appointmentNumber": "+8801728180347Call Now"
+      }
     },
     {
+      "id": "3bd5b28f-8d46-485a-9b58-ce6f0a731290",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-md-sayedur-rahman-miah/",
+      "imageId": "c9ca1ad3-8457-4478-89c7-63bd61ac971a",
       "name": "Dr. Md. Sayedur Rahman Miah",
       "degree": "MBBS, DNM, MICNP, PhD",
       "specialty": "Nuclear Medicine, Ultrasound, Color Doppler, Thyroid Specialist",
@@ -486,11 +558,14 @@
         "hospital": "Medinova Medical Services, Comilla",
         "address": "Laksam Road, Cumilla",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801744232288"
-      },
-      "id": "4246b476-3bf8-4035-99ab-c6058dce000c"
+        "appointmentNumber": "+8801744232288Call Now"
+      }
     },
     {
+      "id": "cbe6bd9d-0780-4cce-b018-83cae4f9ca27",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-tanvir-zubayer/",
+      "imageId": "a66e8c27-36e2-4732-913f-66b00d967d05",
       "name": "Dr. Tanvir Zubayer",
       "degree": "MBBS (DU), CCD (BIRDEM), FCPS (Medicine)",
       "specialty": "Medicine, Gastroenterology & Diabetes Specialist",
@@ -500,11 +575,14 @@
         "hospital": "Comilla Popular Hospital Pvt. Ltd.",
         "address": "Laksam Road, Cumilla",
         "visitingTime": "Everyday",
-        "appointmentNumber": "+8801711785442"
-      },
-      "id": "801ac6d6-f35d-442b-9af6-2b830a1d14aa"
+        "appointmentNumber": "+8801711785442Call Now"
+      }
     },
     {
+      "id": "ca084802-dd47-4289-ad44-f3b993273fbb",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdur-rob-bhuiyan/",
+      "imageId": "c4f30b65-85e1-4b9f-a190-0951fa137f0b",
       "name": "Dr. Md. Abdur Rob Bhuiyan",
       "degree": "MBBS, BCS (Health), MPH (HE)",
       "specialty": "General Physician",
@@ -514,11 +592,14 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "10am to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8801624976162"
-      },
-      "id": "140f28cc-2fb9-41b0-945a-3d7793002567"
+        "appointmentNumber": "+8801624976162Call Now"
+      }
     },
     {
+      "id": "6b3f7770-db27-4f21-b22e-fd978adf1be1",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-md-easin-arafat/",
+      "imageId": "83d216bc-fdad-4a5c-baf7-4f953f9bc076",
       "name": "Dr. Md. Easin Arafat",
       "degree": "MBBS, FCGP (Family Medicine), MACP (USA), CCD (Diabetes)",
       "specialty": "Medicine & Diabetes Specialist",
@@ -528,25 +609,14 @@
         "hospital": "Echo Diagnostic & Consultation Center",
         "address": "Adjacent Kashemul Ulum Madrasar, Laksam Road, Cumilla 3500",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801828542629"
-      },
-      "id": "f5e2262a-abca-4de5-ae84-953244536fc8"
+        "appointmentNumber": "+8801828542629Call Now"
+      }
     },
     {
-      "name": "Dr. Mohammad Almas Hossain",
-      "degree": "MBBS, BCS (Health), PGT (Medicine), D-Card (CC)",
-      "specialty": "Medicine, Cardiology, Rheumatic Fever & Chest Diseases Specialist",
-      "workplace": "General Hospital, Cumilla",
-      "info": "Dr. Mohammad Almas Hossain is a Medicine Specialist in Comilla. His qualification is MBBS, BCS (Health), PGT (Medicine), D-Card (CC). He is a Consultant, Department of Medicine at General Hospital, Cumilla. He regularly provides treatment to his patients at Comilla Mission Hospital. Practicing hour of Dr. Mohammad Almas Hossain at Comilla Mission Hospital is 2pm to 8pm (Closed: Friday).",
-      "chamber": {
-        "hospital": "Comilla Mission Hospital",
-        "address": "Shasongacha, Railgate, Cumilla – 3500",
-        "visitingTime": "2pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801739142170"
-      },
-      "id": "05642c10-dff2-4d49-a7ff-8da984c9dca5"
-    },
-    {
+      "id": "45650d58-4210-48ba-b47b-53430e948cf2",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-md-touhidul-islam-turjo/",
+      "imageId": "54989a44-5c7b-432d-9a8b-9788f3fa3cb1",
       "name": "Dr. Md. Touhidul Islam Turjo",
       "degree": "MBBS, FCGP (Family Medicine), CCD (BIRDEM), PGT (Medicine)",
       "specialty": "Family Medicine Specialist",
@@ -556,11 +626,31 @@
         "hospital": "Ibn Sina Diagnostic Center, Comilla",
         "address": "House # 29, Kotbari Road, Tomsom Bridge, Cumilla",
         "visitingTime": "10am to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8801841212275"
-      },
-      "id": "709b8545-1e01-4779-9f32-70778898f4a2"
+        "appointmentNumber": "+8801841212275Call Now"
+      }
     },
     {
+      "id": "2255ef7e-bddb-420a-9c9f-7fb5d529536c",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-almas-hossain/",
+      "imageId": "0509d59c-c04b-40a3-9e4a-f215eb20ca59",
+      "name": "Dr. Mohammad Almas Hossain",
+      "degree": "MBBS, BCS (Health), PGT (Medicine), D-Card (CC)",
+      "specialty": "Medicine, Cardiology, Rheumatic Fever & Chest Diseases Specialist",
+      "workplace": "General Hospital, Cumilla",
+      "info": "Dr. Mohammad Almas Hossain is a Medicine Specialist in Comilla. His qualification is MBBS, BCS (Health), PGT (Medicine), D-Card (CC). He is a Consultant, Department of Medicine at General Hospital, Cumilla. He regularly provides treatment to his patients at Comilla Mission Hospital. Practicing hour of Dr. Mohammad Almas Hossain at Comilla Mission Hospital is 2pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Comilla Mission Hospital",
+        "address": "Shasongacha, Railgate, Cumilla – 3500",
+        "visitingTime": "2pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801739142170Call Now"
+      }
+    },
+    {
+      "id": "74907f7c-bb0b-4256-8835-8cc3ab1a8fca",
+      "departmentId": "9f29a3bc-95b2-4c38-bc25-99ea48503416",
+      "link": "https://www.doctorbangladesh.com/professor-dr-md-abdul-latif/",
+      "imageId": "de04448e-2667-4dbc-99f6-64d34d2a64f9",
       "name": "Professor Dr. Md. Abdul Latif",
       "degree": "MBBS, FCPS (MEDICINE)",
       "specialty": "Medicine Specialist",
@@ -570,9 +660,8 @@
         "hospital": "Sun Medical Services, Comilla",
         "address": "1217 (East Side of Flyover), Race Course, Comilla",
         "visitingTime": "9am to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801958218081"
-      },
-      "id": "388dd43a-a194-4dde-acaa-10e859e4dba0"
+        "appointmentNumber": "+8801958218081Call Now"
+      }
     }
   ]
 }

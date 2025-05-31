@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "1b603229-101c-44b5-a371-006b06a1d2ff",
+      "departmentId": "3585b0c0-9d35-49de-80b0-5bd3f4f43f86",
+      "link": "https://www.doctorbangladesh.com/dr-a-s-m-sadequl-islam/",
+      "imageId": "db5ec899-6fc6-4c48-9e3d-66d80f46088f",
       "name": "Dr. A.S.M Sadequl Islam",
       "degree": "MBBS, BCS (Health), MD (Hepatology), CCD, CMED",
       "specialty": "Liver, Gastro, Pancreatic Medicine Specialist & Diabetologist",
@@ -10,9 +14,8 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "4pm to 9pm (Sat to Wednesday), 9am to 6pm (Friday)",
-        "appointmentNumber": "+8801755899720"
-      },
-      "id": "575e8af5-3e72-48c0-bd10-bb3ad23525c7"
+        "appointmentNumber": "+8801755899720Call Now"
+      }
     }
   ]
 }

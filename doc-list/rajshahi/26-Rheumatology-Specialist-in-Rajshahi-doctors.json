@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "7f3aa9a5-cf58-49cc-a17a-775a0c07cb2f",
+      "departmentId": "0773953e-ea41-430d-b0aa-76d68a9aa902",
+      "link": "https://www.doctorbangladesh.com/dr-md-azizul-haque-azad/",
+      "imageId": "6b2f8f07-485b-4410-9260-a68a11e070fe",
       "name": "Prof. Dr. Md. Azizul Haque Azad",
       "degree": "MBBS, FCPS (Medicine), FRCP (Edinburgh), MRCP (UK)",
       "specialty": "Medicine & Rheumatology Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Micropath Diagnostic Center, Rajshahi",
         "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
         "visitingTime": "4pm to 11pm (Everyday)",
-        "appointmentNumber": "+8801724550544"
-      },
-      "id": "4714baa7-eeb6-47c4-a31d-9e7056a173ce"
+        "appointmentNumber": "+8801724550544Call Now"
+      }
     },
     {
+      "id": "27881484-4203-4cf0-b3fe-4739fbcd80bb",
+      "departmentId": "0773953e-ea41-430d-b0aa-76d68a9aa902",
+      "link": "https://www.doctorbangladesh.com/dr-probir-mohan-basak/",
+      "imageId": "bfc51199-384c-4ca0-a3d6-1fc99b4c11c4",
       "name": "Dr. Prabir Mohan Basak",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MRCP (UK), FRCP (EDIN), FACP (USA)",
       "specialty": "Medicine & Rheumatology Specialist",
@@ -24,39 +31,48 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "3pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "809855fa-2072-4a58-96a5-f9561d88878d"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "82aa72bb-3af6-46e6-a342-8c65563444a9",
+      "departmentId": "0773953e-ea41-430d-b0aa-76d68a9aa902",
+      "link": "https://www.doctorbangladesh.com/dr-md-asadul-islam/",
+      "imageId": "d7477bba-6d43-42ff-b793-df0b8dcffba7",
       "name": "Dr. Md. Asadul Islam",
       "degree": "MBBS, BCS (Health), MD (Rheumatology), ECRD",
       "specialty": "Rheumatology (Rheumatoid Arthritis, Gout, Lupus, Pain) Specialist",
       "workplace": "Rajshahi Medical College & Hospital",
-      "info": "Shimla Hospital, Pabna\nAddress: Shimla Tower, Thana Mor, Hospital Road, Pabna\nVisiting Hour: 9am to 5pm (Every Friday)\nAppointment: +8801713228218\nCall Now",
+      "info": "Shimla Hospital, Pabna Address: Shimla Tower, Thana Mor, Hospital Road, Pabna Visiting Hour: 9am to 5pm (Every Friday) Appointment: +8801713228218 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "3pm to 6pm (Sat, Mon, Tue & Wed)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "21e443d1-e97e-4aa7-bec9-a783aecea536"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "76a4760b-2af8-48dc-9f71-e0a92b5073e6",
+      "departmentId": "0773953e-ea41-430d-b0aa-76d68a9aa902",
+      "link": "https://www.doctorbangladesh.com/dr-s-m-zobair-hossain/",
+      "imageId": "aac0c080-afe9-4f13-81c3-a08cb71efc2b",
       "name": "Dr. S.M Zobair Hossain",
       "degree": "MBBS (DU), MD (Rheumatology), MRCP (UK), BCS (Health)",
       "specialty": "Rheumatology (Rheumatoid Arthritis, SLE, Osteoporosis, Back Pain) Specialist",
       "workplace": "Rajshahi Medical College & Hospital",
-      "info": "Ibn Sina Diagnostic & Consultation Center, Rajshahi\nAddress: House# 223 & 224, Kazihata (Opposite of Television Centre), Rajpara, Rajshahi\nVisiting Hour: 4pm to 6pm (Closed: Friday)\nAppointment: +8801711620785\nCall Now",
+      "info": "Ibn Sina Diagnostic & Consultation Center, Rajshahi Address: House# 223 & 224, Kazihata (Opposite of Television Centre), Rajpara, Rajshahi Visiting Hour: 4pm to 6pm (Closed: Friday) Appointment: +8801711620785 Call Now",
       "chamber": {
         "hospital": "Islami Bank Hospital, Rajshahi",
         "address": "Bhaban 1, Sher Shah Road, Laxmipur, Rajshahi",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801711620785"
-      },
-      "id": "df013379-6945-4958-9b68-35bafcc8e319"
+        "appointmentNumber": "+8801711620785Call Now"
+      }
     },
     {
+      "id": "04cc163b-b976-4be7-9af1-9408e58b0da6",
+      "departmentId": "0773953e-ea41-430d-b0aa-76d68a9aa902",
+      "link": "https://www.doctorbangladesh.com/dr-md-rupali-yasmin/",
+      "imageId": "be3fd02a-e616-4e0e-8803-a3039744e066",
       "name": "Dr. Md. Rupali Yasmin",
       "degree": "MBBS, BCS (Health), MD (Rheumatology, BSMMU), ECRD (Switzerland)",
       "specialty": "Rheumatology (Arthritis, Gout, Lupus, Pain) Specialist",
@@ -66,9 +82,8 @@
         "hospital": "Labaid Diagnostic, Rajshahi",
         "address": "House # 621, Shershah Road, Rajpara, Laxmipur, Rajshahi",
         "visitingTime": "3pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801766661144"
-      },
-      "id": "5e4e58c5-f4d2-4483-932a-53bfd4438679"
+        "appointmentNumber": "+8801766661144Call Now"
+      }
     }
   ]
 }

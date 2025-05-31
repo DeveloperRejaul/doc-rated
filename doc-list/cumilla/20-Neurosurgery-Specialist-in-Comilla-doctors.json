@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "23540e3e-76c3-4c62-8db3-8fa21a756476",
+      "departmentId": "6b797ae3-4e15-4f5b-8700-71bea8d54a2c",
+      "link": "https://www.doctorbangladesh.com/dr-anm-ilias-naime/",
+      "imageId": "0e3cdcad-c6e0-4900-a2ff-b562613b7953",
       "name": "Dr. ANM Ilias Naime",
       "degree": "MBBS, FCPS (Neurosurgery)",
       "specialty": "Neurosurgery (Brain & Spine Surgery) Specialist",
@@ -10,25 +14,31 @@
         "hospital": "Medinova Medical Services, Comilla",
         "address": "Laksam Road, Cumilla",
         "visitingTime": "3pm to 8pm (Sat to Thu) & 9am to 12pm (Fri)",
-        "appointmentNumber": "+8801739689987"
-      },
-      "id": "ba922ae0-6982-4d11-bc6e-fa049659bb4d"
+        "appointmentNumber": "+8801739689987Call Now"
+      }
     },
     {
+      "id": "a2fca224-7e33-4457-a001-00076a13be4c",
+      "departmentId": "6b797ae3-4e15-4f5b-8700-71bea8d54a2c",
+      "link": "https://www.doctorbangladesh.com/dr-mashiur-rahman-majumder/",
+      "imageId": "2a981945-6a5f-4265-8945-ef9217afc128",
       "name": "Dr. Mashiur Rahman Majumder",
       "degree": "MBBS, FCPS (Surgery), MS (Neurosurgery)",
       "specialty": "Neurosurgery (Brain, Stroke, Paralysis) Specialist & Spine Surgeon",
       "workplace": "Comilla Medical College & Hospital",
-      "info": "Comilla Trauma Center\nAddress: 511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla\nVisiting Hour: 11am to 4pm (Thu) & 11am to 1pm (Fri)\nAppointment: +8809612808182\nCall Now",
+      "info": "Comilla Trauma Center Address: 511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla Visiting Hour: 11am to 4pm (Thu) & 11am to 1pm (Fri) Appointment: +8809612808182 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Comilla",
         "address": "House # 29, Kotbari Road, Tomsom Bridge, Cumilla",
         "visitingTime": "5pm to 6pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801841212275"
-      },
-      "id": "d1f09856-10f2-4db9-83d0-9d7b0513e217"
+        "appointmentNumber": "+8801841212275Call Now"
+      }
     },
     {
+      "id": "4231cd6d-680b-46d2-9297-71d2741bad9a",
+      "departmentId": "6b797ae3-4e15-4f5b-8700-71bea8d54a2c",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-zainul-abedin-sohag/",
+      "imageId": "00a210e4-c7ec-4c34-ad4c-3ad6e2910540",
       "name": "Dr. Muhammad Zainul Abedin Sohag",
       "degree": "MBBS, MS (Neurosurgery)",
       "specialty": "Neurosurgery (Brain, Nerve, Spine, Stroke) Specialist",
@@ -38,25 +48,31 @@
         "hospital": "Gomati Hospital, Comilla",
         "address": "Room 308, Nazrul Avenue, Kandirpar, Cumilla - 3500",
         "visitingTime": "9am to 12pm (Friday), 2pm to 6pm (Saturday & Sunday)",
-        "appointmentNumber": "+8801958-422806"
-      },
-      "id": "ba737bce-6553-4ea9-9d70-4e3f1479db1d"
+        "appointmentNumber": "+8801958-422806Call Now"
+      }
     },
     {
+      "id": "42200f2d-a3d0-48c9-bc10-f064c46e79a7",
+      "departmentId": "6b797ae3-4e15-4f5b-8700-71bea8d54a2c",
+      "link": "https://www.doctorbangladesh.com/dr-khaled-ahmedur-rahman/",
+      "imageId": "83eb752a-b688-4e72-99d5-00569c802d08",
       "name": "Dr. Khaled Ahmedur Rahman",
       "degree": "MBBS, BCS (Health), MS (Neurosurgery)",
       "specialty": "Brain, Stroke, Nerve, Spine Specialist & Neurosurgeon",
       "workplace": "Cumilla Medical College & Hospital",
-      "info": "CD Path & Hospital Pvt. Ltd.\nAddress: Shishu Monagal Road, Badurtoal, Cumilla – 3500\nVisiting Hour: 3pm to 8pm (Sun, Mon, Tue & Wed)\nAppointment: +8801790680849\nCall Now",
+      "info": "CD Path & Hospital Pvt. Ltd. Address: Shishu Monagal Road, Badurtoal, Cumilla – 3500 Visiting Hour: 3pm to 8pm (Sun, Mon, Tue & Wed) Appointment: +8801790680849 Call Now",
       "chamber": {
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "2.30pm to 3.30pm & 6pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801641313466"
-      },
-      "id": "f64b90ef-2efa-4425-8309-e0dedfbd1cc6"
+        "appointmentNumber": "+8801641313466Call Now"
+      }
     },
     {
+      "id": "fa88dc17-0ae2-4896-9ee1-2a2b6de7fde1",
+      "departmentId": "6b797ae3-4e15-4f5b-8700-71bea8d54a2c",
+      "link": "https://www.doctorbangladesh.com/dr-jalal-ahmed-ripon/",
+      "imageId": "3c5252b6-1fab-43fb-9efe-0cce2b628972",
       "name": "Dr. Jalal Ahmed Ripon",
       "degree": "MBBS, BCS (Health), MS (Neurosurgery) BSMMU",
       "specialty": "Neurosurgery (Brain, Spine, Nerve, Stroke) Specialist & Surgeon",
@@ -66,11 +82,14 @@
         "hospital": "Comilla Trauma Center",
         "address": "511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801328461125"
-      },
-      "id": "568314dc-28cb-47e7-a2d9-35e78d6153a5"
+        "appointmentNumber": "+8801328461125Call Now"
+      }
     },
     {
+      "id": "157e15f9-f503-41dc-a8be-09c601a79518",
+      "departmentId": "6b797ae3-4e15-4f5b-8700-71bea8d54a2c",
+      "link": "https://www.doctorbangladesh.com/dr-saiful-hoque/",
+      "imageId": "d92f23bb-a24e-4925-93aa-8090914c07be",
       "name": "Dr. Saiful Hoque",
       "degree": "MBBS, BCS (Health), MS (Neurosurgery)",
       "specialty": "Brain, Spine, Nerve, Stroke Specialist & Surgeon",
@@ -80,9 +99,8 @@
         "hospital": "Moon Hospital, Comilla",
         "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
         "visitingTime": "4pm to 9pm (Sunday to Wednesday)",
-        "appointmentNumber": "+8801301656807"
-      },
-      "id": "e0a2bbaa-fac8-4f3c-ac58-06b8b034beb8"
+        "appointmentNumber": "+8801301656807Call Now"
+      }
     }
   ]
 }

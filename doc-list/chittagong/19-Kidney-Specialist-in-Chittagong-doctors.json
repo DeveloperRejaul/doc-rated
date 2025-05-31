@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "336dce34-62b9-4898-8a60-ec101ce825d9",
+      "departmentId": "2bc39cfb-8f9f-4e66-b3c6-d76424d5ae48",
+      "link": "https://www.doctorbangladesh.com/dr-tuhin-shuvra-das/",
+      "imageId": "7c78513a-3555-4d20-8784-c8b0231426c3",
       "name": "Dr. Tuhin Shuvra Das",
       "degree": "MBBS (CMC), MD (Nephrology, BSMMU), CCD (BIRDEM), BCS (Health)",
       "specialty": "Kidney Diseases & Diabetes Specialist",
@@ -10,25 +14,31 @@
         "hospital": "Asperia Health Care Ltd, Chittagong",
         "address": "Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801810-004550"
-      },
-      "id": "a35445a3-4d3e-400b-906f-b117d745132b"
+        "appointmentNumber": "+8801810-004550Call Now"
+      }
     },
     {
+      "id": "f64bc9f2-b3b8-47db-8021-505483f0b40d",
+      "departmentId": "2bc39cfb-8f9f-4e66-b3c6-d76424d5ae48",
+      "link": "https://www.doctorbangladesh.com/prof-dr-pradip-kumar-dutta/",
+      "imageId": "2ccbb017-ee4b-4ea2-93f2-b64c70e5f536",
       "name": "Prof. Dr. Pradip Kumar Dutta",
       "degree": "MBBS, MD (Nephrology), FCPS (Medicine), Training (Internal Medicine)",
       "specialty": "Kidney Diseases & Internal Medicine Specialist",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Apollo Imperial Hospital, Chittagong\nAddress: Zakir Hossain Road, Pahartali, Chattogram\nVisiting Hour: 9am to 1pm (Sat & Tuesday)\nAppointment: +8809612247247\nCall Now",
+      "info": "Apollo Imperial Hospital, Chittagong Address: Zakir Hossain Road, Pahartali, Chattogram Visiting Hour: 9am to 1pm (Sat & Tuesday) Appointment: +8809612247247 Call Now",
       "chamber": {
         "hospital": "Max Hospital & Diagnostic, Chittagong",
         "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
         "visitingTime": "From 1.30pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801713998149সিরিয়াল আগের দিন সন্ধ্যা ৭ টা থেকে নেয়া হয়"
-      },
-      "id": "d25a9e0b-bf7c-4a13-984d-df23416147ad"
+        "appointmentNumber": "+8801713998149সিরিয়াল আগের দিন সন্ধ্যা ৭ টা থেকে নেয়া হয়Call Now"
+      }
     },
     {
+      "id": "781c6e5f-bc55-413a-988c-36694d9da403",
+      "departmentId": "2bc39cfb-8f9f-4e66-b3c6-d76424d5ae48",
+      "link": "https://www.doctorbangladesh.com/dr-md-nurul-huda/",
+      "imageId": "c046b7f9-f0d1-46ba-aa25-18adcd4f8b0d",
       "name": "Prof. Dr. Md. Nurul Huda",
       "degree": "MBBS, MCPS (Medicine), MD (Nephrology), FCPS (Medicine)",
       "specialty": "Kidney Diseases, Dialysis & Internal Medicine Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Chevron Clinical Laboratory, Chittagong",
         "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801755666969"
-      },
-      "id": "98b6d170-b675-420d-9c6e-fbba9f854a42"
+        "appointmentNumber": "+8801755666969Call Now"
+      }
     },
     {
+      "id": "090bdba0-e597-41d8-8f5b-5eae277515e3",
+      "departmentId": "2bc39cfb-8f9f-4e66-b3c6-d76424d5ae48",
+      "link": "https://www.doctorbangladesh.com/dr-m-a-kashem-kidney/",
+      "imageId": "569956e6-6ec9-41c4-8263-f03f27d0aa95",
       "name": "Prof. Dr. M. A. Kashem",
       "degree": "MBBS, MD (Nephrology), PhD (Nephrology)",
       "specialty": "Kidney & Medicine Specialist",
@@ -52,39 +65,48 @@
         "hospital": "CSCR Hospital, Chittagong",
         "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801887656565"
-      },
-      "id": "5b3df280-5706-42e1-91c6-8227b12e244b"
+        "appointmentNumber": "+8801887656565Call Now"
+      }
     },
     {
+      "id": "869f01e9-a8c1-46c3-ab00-646f1b0ffe54",
+      "departmentId": "2bc39cfb-8f9f-4e66-b3c6-d76424d5ae48",
+      "link": "https://www.doctorbangladesh.com/prof-dr-amm-ehteshamul-haque/",
+      "imageId": "a26e9e7b-72c8-45c2-aef0-06803b9acad3",
       "name": "Prof. Dr. A.M.M. Ehteshamul Haque",
       "degree": "MBBS, MD (Nephrology)",
       "specialty": "Kidney Diseases, Dialysis & Medicine Specialist",
       "workplace": "Bangabandhu Memorial Hospital, USTC, Chittagong",
-      "info": "National Hospital, Chittagong\nAddress: 14/15, Dampara Lane, Mehedibag, Chattogram\nVisiting Hour: 7pm to 9pm (Closed: Friday)\nAppointment: +8801822685066\nCall Now",
+      "info": "National Hospital, Chittagong Address: 14/15, Dampara Lane, Mehedibag, Chattogram Visiting Hour: 7pm to 9pm (Closed: Friday) Appointment: +8801822685066 Call Now",
       "chamber": {
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "5pm to 7pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "08f4458b-e1c4-4204-bbc2-6b7bde6c45bb"
+        "appointmentNumber": "+8809610818888Call Now"
+      }
     },
     {
+      "id": "ad7ce03e-9a41-46be-abfd-5e06f9b5cf47",
+      "departmentId": "2bc39cfb-8f9f-4e66-b3c6-d76424d5ae48",
+      "link": "https://www.doctorbangladesh.com/dr-syed-mahtab-ul-islam/",
+      "imageId": "984ac643-f212-450a-8049-d8294e55f0eb",
       "name": "Dr. Syed Mahtab-Ul-Islam",
       "degree": "MBBS, BCS (Health), MD (Nephrology)",
       "specialty": "Kidney Diseases, Dialysis, Transplant & Medicine Specialist",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Chittagong\nAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 5pm to 7:30pm (Closed: Friday & Saturday)\nAppointment: +8809666787810\nCall Now",
+      "info": "Popular Diagnostic Center, Chittagong Address: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram Visiting Hour: 5pm to 7:30pm (Closed: Friday & Saturday) Appointment: +8809666787810 Call Now",
       "chamber": {
         "hospital": "Epic Healthcare, Chittagong",
         "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801984499600"
-      },
-      "id": "0c369ba0-d448-4d30-930e-3f5fa5015646"
+        "appointmentNumber": "+8801984499600Call Now"
+      }
     },
     {
+      "id": "da8be142-7811-40dc-ad52-270c44e52315",
+      "departmentId": "2bc39cfb-8f9f-4e66-b3c6-d76424d5ae48",
+      "link": "https://www.doctorbangladesh.com/prof-dr-emran-bin-yunus/",
+      "imageId": "05c843c6-5ef0-4913-80eb-e3a00711511a",
       "name": "Prof. Dr. Emran Bin Yunus",
       "degree": "MBBS, FCPS (Nephrology), FRCP (UK)",
       "specialty": "Kidney Diseases Specialist",
@@ -94,11 +116,14 @@
         "hospital": "CSCR Hospital, Chittagong",
         "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
         "visitingTime": "9am to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8801714489341"
-      },
-      "id": "aa001551-2292-4a42-ba5f-b637f3b10259"
+        "appointmentNumber": "+8801714489341Call Now"
+      }
     },
     {
+      "id": "17a37011-df13-486d-8304-e2eb49452520",
+      "departmentId": "2bc39cfb-8f9f-4e66-b3c6-d76424d5ae48",
+      "link": "https://www.doctorbangladesh.com/prof-dr-dipti-chowdhury/",
+      "imageId": "14f40141-16b1-4449-ad5c-a7d36ad346fb",
       "name": "Prof. Dr. Dipti Chowdhury",
       "degree": "MBBS, FCPS (Medicine), FRCP (EDIN)",
       "specialty": "Kidney & Medicine Specialist",
@@ -108,39 +133,48 @@
         "hospital": "Sensiv Private Limited, Chittagong",
         "address": "14, Jamal Khan Road, Jamal Khan, Chattogram",
         "visitingTime": "10am to 1pm (Closed: Friday)",
-        "appointmentNumber": "+8801711761766"
-      },
-      "id": "de49237d-a416-4c78-83d4-fb9becad9d3b"
+        "appointmentNumber": "+8801711761766Call Now"
+      }
     },
     {
+      "id": "f04b6695-15d5-4cdb-80ea-de7cf44d6918",
+      "departmentId": "2bc39cfb-8f9f-4e66-b3c6-d76424d5ae48",
+      "link": "https://www.doctorbangladesh.com/dr-merina-arjumand/",
+      "imageId": "ab3a56e6-dcc1-42e5-ae6b-1300a10384a0",
       "name": "Dr Merina Arjumand",
       "degree": "MBBS, BCS (Health), MCPS (Medicine), MD (Nephrology)",
       "specialty": "Kidney & Medicine Specialist",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Ibn Sina Diagnostic Center, Chittagong\nAddress: House # 12/A, Road # 02, Katalgonj, Panchlaish, Chattogram\nVisiting Hour: 8pm to 10pm (Friday, Saturday & Sunday)\nAppointment: +8801886610115\nCall Now",
+      "info": "Ibn Sina Diagnostic Center, Chittagong Address: House # 12/A, Road # 02, Katalgonj, Panchlaish, Chattogram Visiting Hour: 8pm to 10pm (Friday, Saturday & Sunday) Appointment: +8801886610115 Call Now",
       "chamber": {
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "5pm to 8pm (Closed: Friday & Saturday)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "0cfc11bb-067a-46c1-aa1c-3a46f6d034ec"
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "53cb07ec-5e8f-465b-bae4-4e9e68bb9fed",
+      "departmentId": "2bc39cfb-8f9f-4e66-b3c6-d76424d5ae48",
+      "link": "https://www.doctorbangladesh.com/dr-rafiqul-hasan/",
+      "imageId": "d100a7ea-4fce-4757-b707-ecfde70e0381",
       "name": "Dr. Rafiqul Hasan",
       "degree": "MBBS, BCS (Health), MCPS (Medicine), FCPS (Medicine), MD (Nephrology)",
       "specialty": "Kidney Diseases, Dialysis & Medicine Specialist",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Labaid Specialized Hospital, Chattogram\nAddress: 3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram\nVisiting Hour: 8pm to 10pm (Closed: Friday)\nAppointment: +8801766662829\nCall Now",
+      "info": "Labaid Specialized Hospital, Chattogram Address: 3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram Visiting Hour: 8pm to 10pm (Closed: Friday) Appointment: +8801766662829 Call Now",
       "chamber": {
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "de1feae1-5c73-4238-9767-8d712e42b076"
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "7cdd59bb-e038-463f-9bc3-a1d7ffc0c485",
+      "departmentId": "2bc39cfb-8f9f-4e66-b3c6-d76424d5ae48",
+      "link": "https://www.doctorbangladesh.com/dr-md-foyejur-rahman/",
+      "imageId": "83685ab5-3002-40d8-b477-c81f3936540b",
       "name": "Dr. Md. Faizur Rahman",
       "degree": "MBBS, BCS (Health), MCPS, MD (Nephrology)",
       "specialty": "Kidney Diseases Specialist",
@@ -150,25 +184,31 @@
         "hospital": "Evercare Hospital, Chattogram",
         "address": "H1, Ananna R/A, CDA, Hathazari, Chattogram",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8809610810663"
-      },
-      "id": "63c7d347-512f-49c8-8679-b9342b35590b"
+        "appointmentNumber": "+8809610810663Call Now"
+      }
     },
     {
+      "id": "0fda194d-9d07-47ab-b7af-1e2eea6552ba",
+      "departmentId": "2bc39cfb-8f9f-4e66-b3c6-d76424d5ae48",
+      "link": "https://www.doctorbangladesh.com/dr-m-s-haider-rushni/",
+      "imageId": "530dd6c2-fcc7-41a6-83ae-0f6f9387d6b5",
       "name": "Dr. M.S. Haider Rushni",
       "degree": "MBBS (CMS), MD (Nephrology)",
       "specialty": "Kidney Diseases Specialist",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Evercare Hospital, Chattogram\nAddress: H1, Ananna R/A, CDA, Hathazari, Chattogram\nVisiting Hour: 3pm to 6pm (Sat, Mon, Wed & Thu)\nAppointment: +8809610810663\nCall Now",
+      "info": "Evercare Hospital, Chattogram Address: H1, Ananna R/A, CDA, Hathazari, Chattogram Visiting Hour: 3pm to 6pm (Sat, Mon, Wed & Thu) Appointment: +8809610810663 Call Now",
       "chamber": {
         "hospital": "Max Hospital & Diagnostic, Chittagong",
         "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
         "visitingTime": "6pm to 9.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801713998199"
-      },
-      "id": "3d2fb1c2-4f89-48e1-b879-24f36a86c8de"
+        "appointmentNumber": "+8801713998199Call Now"
+      }
     },
     {
+      "id": "4715369e-952b-4ca0-a673-8fc3e6572f3d",
+      "departmentId": "2bc39cfb-8f9f-4e66-b3c6-d76424d5ae48",
+      "link": "https://www.doctorbangladesh.com/dr-satyajit-roy/",
+      "imageId": "371da2f2-4dfe-430e-877f-5b5da676bbde",
       "name": "Dr. Satyajit Roy",
       "degree": "MBBS, MD (Nephrology), Diploma (Family Medicine), CCD (BIRDEM)",
       "specialty": "Kidney-Medicine, Kidney transplant, Dialysis Specialist and Diabetologist",
@@ -178,11 +218,14 @@
         "hospital": "Max Hospital & Diagnostic, Chittagong",
         "address": "Room no. 402A, 35/36, Mehedibag Road, Chawkbazar, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801815509244"
-      },
-      "id": "17a251f9-d607-4eab-bc20-a01b06cfcd8b"
+        "appointmentNumber": "+8801815509244Call Now"
+      }
     },
     {
+      "id": "f23fe0b7-bfb1-41b6-9ea8-0abdd3efd7b0",
+      "departmentId": "2bc39cfb-8f9f-4e66-b3c6-d76424d5ae48",
+      "link": "https://www.doctorbangladesh.com/dr-ratan-kanti-saha/",
+      "imageId": "c734d947-eb66-4846-baff-9507f717eb4b",
       "name": "Dr. Ratan Kanti Saha",
       "degree": "MBBS, CCD (BIRDEM), MD (Nephrology)",
       "specialty": "Kidney & Diabetes Specialist",
@@ -192,11 +235,14 @@
         "hospital": "Max Hospital & Diagnostic, Chittagong",
         "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801713998199"
-      },
-      "id": "d0d756f0-f9fe-4fd4-b813-d880ff73b582"
+        "appointmentNumber": "+8801713998199Call Now"
+      }
     },
     {
+      "id": "2077a20e-73cd-48ec-aa96-0e1d3271068e",
+      "departmentId": "2bc39cfb-8f9f-4e66-b3c6-d76424d5ae48",
+      "link": "https://www.doctorbangladesh.com/dr-munir-ahsan-khan/",
+      "imageId": "8634cbde-68bc-4466-9c1a-4894592d3cf1",
       "name": "Dr. Munir Ahsan Khan",
       "degree": "MBBS, MMED, SCI (UK), MS (Nephrology)",
       "specialty": "Kidney Diseases Specialist",
@@ -206,11 +252,14 @@
         "hospital": "Chevron Clinical Laboratory, Chittagong",
         "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801755666969"
-      },
-      "id": "e955e733-6e51-41bc-9588-f05d8619db75"
+        "appointmentNumber": "+8801755666969Call Now"
+      }
     },
     {
+      "id": "0dd64217-78ee-4452-801d-76b8b176d580",
+      "departmentId": "2bc39cfb-8f9f-4e66-b3c6-d76424d5ae48",
+      "link": "https://www.doctorbangladesh.com/dr-md-showkat-ali/",
+      "imageId": "cb937634-1ae5-4aad-bcf1-31e1669db5fc",
       "name": "Dr. Md. Showkat Ali",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Nephrology)",
       "specialty": "Kidney & Medicine Specialist",
@@ -220,11 +269,14 @@
         "hospital": "Chattogram Metropolitan Hospital",
         "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801844010549"
-      },
-      "id": "3200fcd7-84cb-4846-8cc1-eb1be1000bca"
+        "appointmentNumber": "+8801844010549Call Now"
+      }
     },
     {
+      "id": "8ff4e65b-c7f2-4e51-9deb-3f65889f921c",
+      "departmentId": "2bc39cfb-8f9f-4e66-b3c6-d76424d5ae48",
+      "link": "https://www.doctorbangladesh.com/dr-susmita-biswas/",
+      "imageId": "4233d375-8ec7-408c-ab2b-029590701535",
       "name": "Dr. Susmita Biswas",
       "degree": "MBBS, BCS (Health) MD (Pediatric Nephrology)",
       "specialty": "Child Kidney Diseases, Dialysis, Transplant & Biopsy Specialist",
@@ -234,11 +286,14 @@
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "4pm to 8pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "3cf2bc86-3c7b-4430-9adc-bc7cb6e9d2d6"
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "5783eba2-f3e8-4cc3-bb67-6cc2f8d9f927",
+      "departmentId": "2bc39cfb-8f9f-4e66-b3c6-d76424d5ae48",
+      "link": "https://www.doctorbangladesh.com/dr-biplob-kumar-barua/",
+      "imageId": "0b2a4672-c36a-4428-94ca-ca4d9e11d1bc",
       "name": "Dr. Biplob Kumar Barua",
       "degree": "MBBS, MD (Nephrology)",
       "specialty": "Kidney Diseases, Dialysis & Medicine Specialist",
@@ -248,11 +303,14 @@
         "hospital": "Labaid Specialized Hospital, Chattogram",
         "address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662828"
-      },
-      "id": "726bdb94-a89a-49ac-b9ad-c3627db1a5c4"
+        "appointmentNumber": "+8801766662828Call Now"
+      }
     },
     {
+      "id": "15d6b3bf-5ab2-4555-a2d2-8c3596f75215",
+      "departmentId": "2bc39cfb-8f9f-4e66-b3c6-d76424d5ae48",
+      "link": "https://www.doctorbangladesh.com/dr-dipan-chowdhury/",
+      "imageId": "5f171913-1293-419d-b2ac-cf0aba981280",
       "name": "Dr. Dipan Chowdhury",
       "degree": "MBBS, MD (Nephrology)",
       "specialty": "Kidney Diseases, Dialysis & Medicine Specialist",
@@ -262,25 +320,31 @@
         "hospital": "Labaid Specialized Hospital, Chattogram",
         "address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
         "visitingTime": "10am to 12pm (Closed: Wed & Friday)",
-        "appointmentNumber": "+8801766662828"
-      },
-      "id": "45d4e6e9-f5c6-402e-9f16-e3c0665c6b27"
+        "appointmentNumber": "+8801766662828Call Now"
+      }
     },
     {
+      "id": "0ec47a21-a179-4582-a138-d04d0ae167d9",
+      "departmentId": "2bc39cfb-8f9f-4e66-b3c6-d76424d5ae48",
+      "link": "https://www.doctorbangladesh.com/dr-md-kamrul-hasan-nephrologist/",
+      "imageId": "94a3eaa0-3c6c-480d-83db-971af300d5b4",
       "name": "Dr. Md. Kamrul Hasan",
       "degree": "MBBS, BCS (Health), MD (Nephrology), MACP (USA), CCD(BIRDEM)",
       "specialty": "Kidney Diseases & Diabetes Specialist",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Labaid Specialized Hospital, Chattogram\nAddress: 3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram\nVisiting Hour: 5pm to 7pm (Closed: Thu & Friday)\nAppointment: +8801558747716\nCall Now",
+      "info": "Labaid Specialized Hospital, Chattogram Address: 3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram Visiting Hour: 5pm to 7pm (Closed: Thu & Friday) Appointment: +8801558747716 Call Now",
       "chamber": {
         "hospital": "Delta Health Care, Chittagong",
         "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
         "visitingTime": "7.30pm to 9.30pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801816447095"
-      },
-      "id": "39878d00-1dbb-4145-ab21-ac8d0f029f6f"
+        "appointmentNumber": "+8801816447095Call Now"
+      }
     },
     {
+      "id": "1fef9da1-71f5-434e-be18-eed6361ac06c",
+      "departmentId": "2bc39cfb-8f9f-4e66-b3c6-d76424d5ae48",
+      "link": "https://www.doctorbangladesh.com/dr-rosanna-bintey-kamal/",
+      "imageId": "8f391069-48e3-4d5d-98fa-7aebdb4e100c",
       "name": "Dr. Rosanna Bintey Kamal",
       "degree": "MBBS, BCS (Health), MD (Nephrology)",
       "specialty": "Kidney Diseases, Dialysis & Kidney Transplant Specialist",
@@ -290,25 +354,31 @@
         "hospital": "Popular Diagnostic Center, Chittagong",
         "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "7pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787810"
-      },
-      "id": "b9c13fcb-2fc7-4b8b-b015-0a0ee4a6b486"
+        "appointmentNumber": "+8809666787810Call Now"
+      }
     },
     {
+      "id": "c95722fc-2f63-4782-a885-bd4a728e791d",
+      "departmentId": "2bc39cfb-8f9f-4e66-b3c6-d76424d5ae48",
+      "link": "https://www.doctorbangladesh.com/dr-noor-uddin-zahed/",
+      "imageId": "4149ffdd-30ea-4d4b-bc1c-7afa7d93be6c",
       "name": "Dr. Noor Uddin Zahed",
       "degree": "MBBS, MD (Nephrology), FMD, CCD",
       "specialty": "Nephrology (Kidney Diseases), Medicine & Diabetes Specialist",
       "workplace": "Bangabandhu Memorial Hospital, IAHS, USTC",
-      "info": "Cosmic Diagnostic Center & Hospital\nAddress: Khaiez Market, 2nd & 3rd floor, Noapara, Raozan, Chittagong\nVisiting Hour: 3pm to 6pm\nAppointment: +8801749166595, 01855248609\nCall Now",
+      "info": "Cosmic Diagnostic Center & Hospital Address: Khaiez Market, 2nd & 3rd floor, Noapara, Raozan, Chittagong Visiting Hour: 3pm to 6pm Appointment: +8801749166595, 01855248609 Call Now",
       "chamber": {
         "hospital": "Blue Vue Health Care Ltd, Chittagong",
         "address": "1530/A, O.R Nizam Road, Golpahar More, Chittagong",
         "visitingTime": "7pm to 9pm",
-        "appointmentNumber": "+8801861213760"
-      },
-      "id": "91882eb1-0bf3-4f4b-8b86-e6b1c38acd0c"
+        "appointmentNumber": "+8801861213760Call Now"
+      }
     },
     {
+      "id": "2abf9683-8993-4468-9191-265103d0a7ea",
+      "departmentId": "2bc39cfb-8f9f-4e66-b3c6-d76424d5ae48",
+      "link": "https://www.doctorbangladesh.com/dr-rana-kumar-saha/",
+      "imageId": "932ddd6c-6a02-40f2-beed-68be57cc69b3",
       "name": "Dr. Rana Kumar Saha",
       "degree": "MBBS, MD (Nephrology) BSMMU, FCPS (Part-2), CCD",
       "specialty": "Kidney Disease, Medicine & Diabetes Specialist",
@@ -318,9 +388,8 @@
         "hospital": "Epic Healthcare Ltd. (East Gate Branch)",
         "address": "36, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+88 01835538501"
-      },
-      "id": "f8d728be-9111-4098-83a3-80895013d68e"
+        "appointmentNumber": "+88 01835538501Call Now"
+      }
     }
   ]
 }

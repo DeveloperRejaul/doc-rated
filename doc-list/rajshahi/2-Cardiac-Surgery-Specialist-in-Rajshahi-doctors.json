@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "4a22dae2-6abf-4b65-bf9d-e6b083af56bd",
+      "departmentId": "2b669a69-45d3-401f-b0ec-f22dd33b974c",
+      "link": "https://www.doctorbangladesh.com/dr-md-badruzzaman/",
+      "imageId": "0148293c-0b03-43e9-9966-2aad5ff4010f",
       "name": "Dr. Md. Badruzzaman",
       "degree": "MBBS, (DU), MS (CVTS)",
       "specialty": "Cardiovascular & Thoracic Surgeon",
@@ -10,9 +14,8 @@
         "hospital": "Islami Bank Hospital, Rajshahi",
         "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801777242536"
-      },
-      "id": "6c57474c-0ee5-4138-b5a5-2092ba59bf9b"
+        "appointmentNumber": "+8801777242536Call Now"
+      }
     }
   ]
 }

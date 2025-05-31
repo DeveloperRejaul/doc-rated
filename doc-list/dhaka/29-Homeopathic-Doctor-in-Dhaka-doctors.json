@@ -1,20 +1,27 @@
 {
   "doctor": [
     {
+      "id": "c8ef38a1-0919-4f5f-a5d1-1c3f0e546898",
+      "departmentId": "b24d2f8a-215d-4a67-9641-95f61b65be67",
+      "link": "https://www.doctorbangladesh.com/dr-tanbir-ahmad/",
+      "imageId": "005d9bde-4a79-49af-b26e-c01500282d0f",
       "name": "Dr. Tanbir Ahmad",
       "degree": "BHMS (Homeopathy, Dhaka University), MSS in CSW (ISWR, Dhaka University),PGT (Psychotherapy, BSMMU), MPhil (ISWR, Dhaka University)",
       "specialty": "Sexual Diseases, Autism, Psychological Disease, Asthma & Any Kind of Chronic Disease Specialist",
       "workplace": "Bangladesh Homeopathy Health Center, Uttara, Dhaka",
-      "info": "Bangladesh Homeopathy Health Center, Gaibandha\nAddress: Paschimpara, Ahlehadis Masjid Street, Gaibandha Sadar, Gaibandha\nVisiting Hour: 4pm to 8pm (Monday & Tuesday)\nAppointment: +8801944-005800\nCall Now",
+      "info": "Bangladesh Homeopathy Health Center, Gaibandha Address: Paschimpara, Ahlehadis Masjid Street, Gaibandha Sadar, Gaibandha Visiting Hour: 4pm to 8pm (Monday & Tuesday) Appointment: +8801944-005800 Call Now",
       "chamber": {
         "hospital": "Bangladesh Homeopathy Health Center, Uttara",
         "address": "House #15 (Lift-2), Sonargaon Janapath, Sector#7 (House Building), Uttara, Dhaka",
         "visitingTime": "11am to 9pm (Everyday)",
-        "appointmentNumber": "+8801944-005800Talk to with Doctor: +8801774-098019"
-      },
-      "id": "060f3a60-2999-4d96-8474-b053ae55d065"
+        "appointmentNumber": "+8801944-005800Talk to with Doctor: +8801774-098019Call Now"
+      }
     },
     {
+      "id": "695c195d-3d1b-4b23-8eec-557eebc47c58",
+      "departmentId": "b24d2f8a-215d-4a67-9641-95f61b65be67",
+      "link": "https://www.doctorbangladesh.com/dr-nusrat-jahan-homeo/",
+      "imageId": "3c008abf-166a-4831-af23-73d4c7b6edd3",
       "name": "Dr. Nusrat Jahan",
       "degree": "BHMS (Homeopathy, DU), DMU (Ultra), PGT (Palliative Care)",
       "specialty": "Gynecology & Obstetrics, Maternal & Child Health Care, Cancer with Palliative Care, Gastroenterology, Pain Management with Rheumatology, Chronic Disease, Hair Problem, Heart disease, Heart Block, General Weakness & Skin Disease Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Bangladesh Homeopathy Health Center",
         "address": "House #15 (Lift-2), Sonargaon Janapath, Sector#7 (House Building), Uttara, Dhaka",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801737143512Talk directly to the doctor:  +8801317706216"
-      },
-      "id": "0eddad88-f6c2-4fcf-8367-25d2fb0cbd16"
+        "appointmentNumber": "+8801737143512Talk directly to the doctor: +8801317706216Call Now"
+      }
     },
     {
+      "id": "0f20991c-643d-463c-88ab-544efbc97684",
+      "departmentId": "b24d2f8a-215d-4a67-9641-95f61b65be67",
+      "link": "https://www.doctorbangladesh.com/dr-enamul-ahsan-sohel/",
+      "imageId": "f903b561-33cd-4ded-b7d0-5509d8b69feb",
       "name": "Dr. Enamul Ahsan Sohel",
       "degree": "BHMS (Bachelor of Homeopathic Medicine & Surgery, DU),",
       "specialty": "Skin Disease, Psoriasis Treatment, Allergy treatment, Infertility, Piles, Anxiety, ADHD, (Autism) ASD & Hair Fall Solution",
@@ -36,13 +46,16 @@
       "info": "",
       "chamber": {
         "hospital": "Dr Paul's Bangladesh Health Care",
-        "address": "House # 538, Near Evercare Hospital Gate,  Bashundhara R/A, Dhaka-1212",
+        "address": "House # 538, Near Evercare Hospital Gate, Bashundhara R/A, Dhaka-1212",
         "visitingTime": "12pm to 8pm (Closed: Tuesday)",
-        "appointmentNumber": "+8801711400334"
-      },
-      "id": "07006673-4e13-44e0-bb1b-89e8b6688788"
+        "appointmentNumber": "+8801711400334Call Now"
+      }
     },
     {
+      "id": "fbf679f0-00c3-4cac-a3d5-6a84c36a8f2f",
+      "departmentId": "b24d2f8a-215d-4a67-9641-95f61b65be67",
+      "link": "https://www.doctorbangladesh.com/dr-ruhul-amin/",
+      "imageId": "c002d967-7aa2-4a9a-a05f-9e01cf45532c",
       "name": "Dr. Ruhul Amin",
       "degree": "BHMS (Dhaka University)",
       "specialty": "Piles, Asthma, Sex, Back Pain & Chronic Diseases Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Janani Homeo Medicare",
         "address": "House # 02, Road # 04, Mirpur 10, Roundabout, Dhaka",
         "visitingTime": "4pm to 9.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801627585412"
-      },
-      "id": "17f5ea82-463b-4054-9949-92893e470f50"
+        "appointmentNumber": "+8801627585412Call Now"
+      }
     },
     {
+      "id": "9c074b02-6139-4435-afb8-09ff69371e17",
+      "departmentId": "b24d2f8a-215d-4a67-9641-95f61b65be67",
+      "link": "https://www.doctorbangladesh.com/dr-md-moniruzzaman-homeo/",
+      "imageId": "d5be3b36-67dc-40fc-9832-8e73ff0adf40",
       "name": "Dr. Md. Moniruzzaman",
       "degree": "BHMS (DU)",
       "specialty": "Skin, Asthma, Sex & Chronic Diseases Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Homeopathic Solutions & Research, Mirpur",
         "address": "Mirpur 14, Dhaka",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801521234793"
-      },
-      "id": "b681e891-2469-40a1-b18c-656f7c778cc5"
+        "appointmentNumber": "+8801521234793Call Now"
+      }
     },
     {
+      "id": "59903239-ab1a-44d9-894b-8ba9b4763674",
+      "departmentId": "b24d2f8a-215d-4a67-9641-95f61b65be67",
+      "link": "https://www.doctorbangladesh.com/dr-hasanuzzaman/",
+      "imageId": "81029305-cfd4-4fc3-8e63-c119509467f1",
       "name": "Dr. Hasanuzzaman",
       "degree": "BHMS (DU), CSW (DU), DHM (LONDON)",
       "specialty": "Homeopathy (Pain, Allergy, Asthma, Cancer & Kidney) Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Natural Health, Uttara",
         "address": "House # 15, Road # 34, Sector # 7, Uttara, Dhaka",
         "visitingTime": "11am to 2pm & 5pm to 9pm (Closed: Thursday)",
-        "appointmentNumber": "+8801727035044"
-      },
-      "id": "0f44723d-41be-4d2f-8d46-5a47c9b28132"
+        "appointmentNumber": "+8801727035044Call Now"
+      }
     },
     {
+      "id": "3cc68f6c-996e-42e3-b8d2-4dff91d91a44",
+      "departmentId": "b24d2f8a-215d-4a67-9641-95f61b65be67",
+      "link": "https://www.doctorbangladesh.com/dr-nazmul-hasan-jamson/",
+      "imageId": "f4b18730-8855-4485-94ca-6daf79e8d17e",
       "name": "Dr. Nazmul Hasan Jamson",
       "degree": "BHMS (DU), Diploma (Chinese Medicine), MSc (Microbiology), M.Phil",
       "specialty": "Homeopathic Doctor & Consultant",
@@ -92,13 +114,16 @@
       "info": "Dr. Nazmul Hasan Jamson is a Homeopathy Doctor in Dhaka. His qualification is BHMS (DU), Diploma (Chinese Medicine), MSc (Microbiology), M.Phil. He worked as a Consultant in Dr. Nazmul's Chamber. He regularly provides treatment to his patients at Dr. Nazmul's Chamber. Practicing hour of Dr. Nazmul Hasan Jamson at Dr. Nazmul's Chamber is 6pm to 10.30pm (Closed: Friday).",
       "chamber": {
         "hospital": "Dr. Nazmul's Chamber",
-        "address": "137/12, B-4, Priyangong R/A, Mazar Road, Mirpur  1, Dhaka",
+        "address": "137/12, B-4, Priyangong R/A, Mazar Road, Mirpur 1, Dhaka",
         "visitingTime": "6pm to 10.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801713520172"
-      },
-      "id": "d6a7160c-7463-47e5-abac-ce67a1c6d165"
+        "appointmentNumber": "+8801713520172Call Now"
+      }
     },
     {
+      "id": "4a15538b-d0e6-4a25-a8bd-2f85b2fe01ac",
+      "departmentId": "b24d2f8a-215d-4a67-9641-95f61b65be67",
+      "link": "https://www.doctorbangladesh.com/dr-momtaz-akter/",
+      "imageId": "2a250845-a763-444f-acb6-196bcf007592",
       "name": "Dr. Momtaz Akter",
       "degree": "BHMS (DU)",
       "specialty": "Child, Gynecology & Infertility Specialist (Homeopathy)",
@@ -108,11 +133,14 @@
         "hospital": "Janani Homeo Medicare",
         "address": "House # 02, Road # 04, Mirpur 10, Roundabout,, Dhaka",
         "visitingTime": "4pm to 9pm (Only Saturday)",
-        "appointmentNumber": "+8801991508827"
-      },
-      "id": "a1c31afe-21a6-4682-bc7a-da5f83498a3f"
+        "appointmentNumber": "+8801991508827Call Now"
+      }
     },
     {
+      "id": "723c4427-99ca-4e01-b972-e77e64a6ea2e",
+      "departmentId": "b24d2f8a-215d-4a67-9641-95f61b65be67",
+      "link": "https://www.doctorbangladesh.com/dr-msi-shovon/",
+      "imageId": "c658ce35-eff1-40f4-97e7-8dcef836038f",
       "name": "Dr. M.S.I. Shovon",
       "degree": "BHMS (DU)",
       "specialty": "Homeopathy (Chronic Diseases, Skin, Piles & Sexual Diseases) Expert",
@@ -122,11 +150,14 @@
         "hospital": "Sunshine Homeopathy Care",
         "address": "Mirpur, Dhaka",
         "visitingTime": "10am to 1pm & 4pm to 9pm (Everyday)",
-        "appointmentNumber": "+8801768955680"
-      },
-      "id": "45a74e58-bf87-4da8-99fc-5671db269d03"
+        "appointmentNumber": "+8801768955680Call Now"
+      }
     },
     {
+      "id": "34f2bd08-20f4-4231-8052-a01a75cfffb1",
+      "departmentId": "b24d2f8a-215d-4a67-9641-95f61b65be67",
+      "link": "https://www.doctorbangladesh.com/dr-md-nazrul-islam-bhuiyan-homeo/",
+      "imageId": "419f48ca-c788-4fba-90b3-ed050b74a135",
       "name": "Dr. Md. Nazrul Islam Bhuiyan",
       "degree": "BHMS (DU), BSC, MD (AM)",
       "specialty": "Homeopathic Doctor & Consultant",
@@ -136,11 +167,14 @@
         "hospital": "Islam Homeo Pharmacy",
         "address": "24/3, Chamelibagh, Shantinagar, Dhaka",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801712293006"
-      },
-      "id": "0754fcb7-7a5e-46ff-8700-ab616ffef2b7"
+        "appointmentNumber": "+8801712293006Call Now"
+      }
     },
     {
+      "id": "10f2ac2b-8549-48d9-98bd-f8cb9662ec71",
+      "departmentId": "b24d2f8a-215d-4a67-9641-95f61b65be67",
+      "link": "https://www.doctorbangladesh.com/dr-aziza-parveen/",
+      "imageId": "88b1de21-b03b-4161-923e-b9e86ae14133",
       "name": "Dr. Aziza Parveen",
       "degree": "BHMS (DU)",
       "specialty": "Homeopathic Doctor & Consultant",
@@ -150,11 +184,14 @@
         "hospital": "Natural Health",
         "address": "House # 15, Road # 34, Sector # 7, Uttara, Dhaka",
         "visitingTime": "11am to 2pm (Closed: Friday) & 5pm to 9pm (Closed: Thursday)",
-        "appointmentNumber": "+8801727035044"
-      },
-      "id": "7ccbfda1-c140-43fc-bd8b-94818d51c5e5"
+        "appointmentNumber": "+8801727035044Call Now"
+      }
     },
     {
+      "id": "a07fc83e-ec68-47e0-b06a-7de4daa1c9d6",
+      "departmentId": "b24d2f8a-215d-4a67-9641-95f61b65be67",
+      "link": "https://www.doctorbangladesh.com/dr-sabbir-mahmud/",
+      "imageId": "83e1c9c3-b332-4b6b-a998-38c071e09606",
       "name": "Dr. Sabbir Mahmud",
       "degree": "BHMS",
       "specialty": "Homeopathic General Physician & Consultant",
@@ -164,11 +201,14 @@
         "hospital": "Nexus Homeopathic Healthcare, Mirpur",
         "address": "Mirpur 14, Dhaka",
         "visitingTime": "9am to 9pm (Everyday)",
-        "appointmentNumber": "+8801745262382"
-      },
-      "id": "7d4abb45-a32d-4ade-a14b-145a23c15481"
+        "appointmentNumber": "+8801745262382Call Now"
+      }
     },
     {
+      "id": "9b7adbf8-d4ad-4f07-b4e8-7bbe75c8d88c",
+      "departmentId": "b24d2f8a-215d-4a67-9641-95f61b65be67",
+      "link": "https://www.doctorbangladesh.com/dr-abdullah-al-mahmud-masud/",
+      "imageId": "019a35ce-480f-40d5-9256-1718ebdfb638",
       "name": "Dr. Abdullah Al Mahmud Masud",
       "degree": "BHMS (DU), BHS",
       "specialty": "Homeopathic Doctor & Consultant",
@@ -178,11 +218,14 @@
         "hospital": "Masud Homeo Hall",
         "address": "46/1, Toyenbi Circular Road, Joy Kalimondir, Dhaka",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801711053748"
-      },
-      "id": "c9cc69bd-d035-41a6-8875-c0407d33e9e4"
+        "appointmentNumber": "+8801711053748Call Now"
+      }
     },
     {
+      "id": "5ec5ad00-e237-4d2a-9602-bb1dbe085c85",
+      "departmentId": "b24d2f8a-215d-4a67-9641-95f61b65be67",
+      "link": "https://www.doctorbangladesh.com/dr-eidris-ali/",
+      "imageId": "53c15856-9ff1-4d5b-b6f4-9bdbb0275ce4",
       "name": "Dr. Eidris Ali",
       "degree": "DHMS , CAPT",
       "specialty": "Infertility Specialist (Homeopathy)",
@@ -192,11 +235,14 @@
         "hospital": "Dhaka Homeopathy",
         "address": "Krishi Market, Ring Road, Mohammadpur, Dhaka",
         "visitingTime": "10am to 10pm (Everyday)",
-        "appointmentNumber": "+8801819476612"
-      },
-      "id": "af8ca05a-c45f-4f8c-abf0-b67b31b609ab"
+        "appointmentNumber": "+8801819476612Call Now"
+      }
     },
     {
+      "id": "df49e6fb-d8b8-4b1c-b2af-34970d9946aa",
+      "departmentId": "b24d2f8a-215d-4a67-9641-95f61b65be67",
+      "link": "https://www.doctorbangladesh.com/dr-abm-bazlul-hasan/",
+      "imageId": "5cec4db7-06e8-48f0-9b18-93b7e770d4f3",
       "name": "Dr. ABM Bazlul Hasan",
       "degree": "BHMS (DU)",
       "specialty": "Homeopathic Doctor & Consultant",
@@ -206,11 +252,14 @@
         "hospital": "Sicilia Homeo Clinic",
         "address": "198, Malibagh Bazar Road, Malibagh, Dhaka",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801911500847"
-      },
-      "id": "c9113825-007e-48fe-8c72-2d2a990e14d8"
+        "appointmentNumber": "+8801911500847Call Now"
+      }
     },
     {
+      "id": "437db5df-1398-4b83-9111-9635767a261a",
+      "departmentId": "b24d2f8a-215d-4a67-9641-95f61b65be67",
+      "link": "https://www.doctorbangladesh.com/dr-kazy-habibur-rahman/",
+      "imageId": "816e4b46-5efc-4723-9622-aa41039e2db5",
       "name": "Dr. Kazy Habibur Rahman",
       "degree": "BHMS (DU), MPH (Reproductive & Child Health )",
       "specialty": "General Homoeopathic Physician",
@@ -220,25 +269,31 @@
         "hospital": "Kazy Homoeopathic Treatment & Private Research Center",
         "address": "73, Jonaki Road, Ahmednagar, Paikpara, Mirpur-1, Dhaka - 1216",
         "visitingTime": "5.30pm to 11pm (Sat to Thu) & 9.30aam to 11pm (Fri)",
-        "appointmentNumber": "+8801738618894"
-      },
-      "id": "2c553f25-2c0f-428c-881a-d97263f95a97"
+        "appointmentNumber": "+8801738618894Call Now"
+      }
     },
     {
+      "id": "30ab61d4-2ab8-4fa9-bdf6-98fd09e2c4a0",
+      "departmentId": "b24d2f8a-215d-4a67-9641-95f61b65be67",
+      "link": "https://www.doctorbangladesh.com/dr-reazul-karim/",
+      "imageId": "4cb4ee37-b44c-4508-8698-a7dc7b615b36",
       "name": "Dr. Reazul Karim",
       "degree": "DHMS (BHB) Dhaka, MD (E. Homoeopathi) Kolkata, ICWH (New Delhi), WHC (Germany)",
       "specialty": "Homoeopathic (Skin, Piles, Back Pain, Infertility, GIT) Specialist",
       "workplace": "Thakurgaon Homoeopathic Medical College & Hospital",
-      "info": "Inno Homoeo Pharmacy & Cancer Treatment\nAddress: 3/1 Purana Paltan, Dhaka\nVisiting Hour: 10am to 5pm (Last Friday of Every Month)\nAppointment: 01733184699\nCall Now",
+      "info": "Inno Homoeo Pharmacy & Cancer Treatment Address: 3/1 Purana Paltan, Dhaka Visiting Hour: 10am to 5pm (Last Friday of Every Month) Appointment: 01733184699 Call Now",
       "chamber": {
         "hospital": "S R Homoeo Hall, Kushtia",
         "address": "Nearby Kushtia Court Railway Station, Courtpara, Kushtia",
         "visitingTime": "10am to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801733184699"
-      },
-      "id": "ff29b057-857b-4503-909c-ef58ea3ace6d"
+        "appointmentNumber": "+8801733184699Call Now"
+      }
     },
     {
+      "id": "db5b8012-0285-4057-9760-ec68873f115e",
+      "departmentId": "b24d2f8a-215d-4a67-9641-95f61b65be67",
+      "link": "https://www.doctorbangladesh.com/dr-nur-e-alam-rasel/",
+      "imageId": "55af97e1-5704-4a8d-a588-d2a0719a2c3a",
       "name": "Dr. Nur-E-Alam Rasel",
       "degree": "BHMS (DU), PGDHE (DU), MHE (DU), PG-HOM (LONDON)",
       "specialty": "Cancer, Tumour, CKD, CLD, Piles, Infertility and Sex Diseases Specialist",
@@ -248,11 +303,14 @@
         "hospital": "Jannat Homeo Hall, Mirpur",
         "address": "Near Kazipara Bus Stand, 672/B, Monipur, Mirpur-1216",
         "visitingTime": "5pm to 9.30pm (Everyday)",
-        "appointmentNumber": "+8801712114464"
-      },
-      "id": "a49d2d1e-587a-44b4-bcb7-4ac726b9f54c"
+        "appointmentNumber": "+8801712114464Call Now"
+      }
     },
     {
+      "id": "0f9636e3-6f99-4d03-992e-5313ecacb8f6",
+      "departmentId": "b24d2f8a-215d-4a67-9641-95f61b65be67",
+      "link": "https://www.doctorbangladesh.com/dr-akm-sahid-ullah/",
+      "imageId": "7e2cdba9-0a4b-4424-8cdd-1a8b1cdf4814",
       "name": "Dr. AKM Sahid Ullah",
       "degree": "BA, DHMS (Dhaka), MD (India)",
       "specialty": "Homeopathic (Chronic Diseases) Specialist",
@@ -262,11 +320,14 @@
         "hospital": "Chadpur Homeo Clinic",
         "address": "16, Rankin Street, Wary, Dhaka",
         "visitingTime": "10am to 1pm & 5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801711 005076"
-      },
-      "id": "b0c376b0-dd3e-42c4-8fe8-af3c3cedb35c"
+        "appointmentNumber": "+8801711 005076Call Now"
+      }
     },
     {
+      "id": "bd1ea074-9e6f-462e-b6c0-7880d2ea0346",
+      "departmentId": "b24d2f8a-215d-4a67-9641-95f61b65be67",
+      "link": "https://www.doctorbangladesh.com/dr-md-rashidul-haque/",
+      "imageId": "674b3638-96d2-4e50-b2a8-d1ddef61b72e",
       "name": "Dr. Md. Rashidul Haque",
       "degree": "BHMS (DU), DMU.CSW-MSS",
       "specialty": "Homeopathic Specialist (Specially Cancer)",
@@ -276,11 +337,14 @@
         "hospital": "Inno Homeo Pharmacy & Cancer Treatment",
         "address": "3/1 Purana Paltan, Dhaka",
         "visitingTime": "10am to 5pm (Everyday)",
-        "appointmentNumber": "+8801712079260"
-      },
-      "id": "3deeadbc-b734-49f7-89d5-415a878ded04"
+        "appointmentNumber": "+8801712079260Call Now"
+      }
     },
     {
+      "id": "aacb7b5f-07da-46c8-8659-78954c6d6037",
+      "departmentId": "b24d2f8a-215d-4a67-9641-95f61b65be67",
+      "link": "https://www.doctorbangladesh.com/dr-nazmul-alam-foysal/",
+      "imageId": "b2a65016-f60a-4741-a784-c455ad097dcb",
       "name": "Dr. Nazmul Alam Foysal",
       "degree": "BHMS (DU), CDV (Skin & Sex). CMU (Ultrasonography), CMI (Infertility)",
       "specialty": "Homeopathic (Skin, Sex, Infertility) Specialist",
@@ -290,11 +354,14 @@
         "hospital": "Rowshan Homoeopathic Chamber",
         "address": "House 4, 1 Ranavhola Road, Dhorangertek, Turag, Dhaka",
         "visitingTime": "9am to 1pm & 5pm to 10pm (Sunday to Friday)",
-        "appointmentNumber": "+8801812333433"
-      },
-      "id": "318e8232-a7f3-4d5e-a7ba-11ff6548948e"
+        "appointmentNumber": "+8801812333433Call Now"
+      }
     },
     {
+      "id": "3a4b72a8-0da9-4ff0-a4ab-c1a8b09ac7b4",
+      "departmentId": "b24d2f8a-215d-4a67-9641-95f61b65be67",
+      "link": "https://www.doctorbangladesh.com/dr-tanvir-mahmood/",
+      "imageId": "3aba2b2f-6035-4a0e-85f5-005fda3148bb",
       "name": "Dr. Tanvir Mahmood",
       "degree": "DHMS, PDT (B.H.M.C.H), PGHom (London), SCPH (Mumbai)",
       "specialty": "Any Kind of Chronic Disease: Anxiety, ADHD, Autism,Psychological Disease, Headache, Migraine, Hair Problem, Asthma, Gastroenterology, Piles, Kidney Rheumatology, Back Pain, Skin Disease, Allergy, Psoriasis, Gynecology & Obstetrics, Infertility, Maternal & Child Health Care, Cancer with Palliative Care, Sexual Diseases, Sexual Problem, General Weakness",
@@ -304,65 +371,76 @@
         "hospital": "Center for Advanced Homeopath",
         "address": "Shop no-34, Ground Floor, Hosaf Shopping Complex, 6/9 Outer Circular Road, Malibagh Mor, Dhaka",
         "visitingTime": "10am to 1pm & 5pm to 8pm (Closed: Thursday)",
-        "appointmentNumber": "+8801745940171"
-      },
-      "id": "1620c328-5f0d-4f49-ba7f-60a6bb086725"
+        "appointmentNumber": "+8801745940171Call Now"
+      }
     },
     {
+      "id": "c2df095e-4cb8-4025-b724-9dfa70915a8d",
+      "departmentId": "b24d2f8a-215d-4a67-9641-95f61b65be67",
+      "link": "https://www.doctorbangladesh.com/dr-m-u-m-rezwanun-nayem/",
+      "imageId": "b2a06f51-e75e-4bbe-8432-5e9af6b64d67",
       "name": "Dr. M.U.M. Rezwanun Nayem",
       "degree": "BHMS (DU), MS (Microbiology), MPhil (In course Microbiology, JnU), CMI (Infertility), CMU (Ultrasonography)",
       "specialty": "Homeopathic Medicine Specialist",
       "workplace": "Shefa Homeo Pharmacy and Doctor's Chamber",
-      "info": "Azima Manjil\nAddress: Motipur Municipality Area, Sonapur, Noakhali\nVisiting Hour: Last Week of Every Month\nAppointment: +8801914383878\nCall Now",
+      "info": "Azima Manjil Address: Motipur Municipality Area, Sonapur, Noakhali Visiting Hour: Last Week of Every Month Appointment: +8801914383878 Call Now",
       "chamber": {
         "hospital": "Shefa Homeo Pharmacy & Doctor's Chamber",
         "address": "Shop: 147, Level: 1, Shyamoli Square, Shyamoli, Dhaka",
         "visitingTime": "4.30pm to 8.30pm (Closed: Thursday & Last Week of Every Month)",
-        "appointmentNumber": "+8801914383878"
-      },
-      "id": "068d7da5-3397-4852-84dc-fc0a4f275141"
+        "appointmentNumber": "+8801914383878Call Now"
+      }
     },
     {
+      "id": "ac7b78a4-9396-46bb-99fc-60dabc0849d1",
+      "departmentId": "b24d2f8a-215d-4a67-9641-95f61b65be67",
+      "link": "https://www.doctorbangladesh.com/dr-mizanur-rahman-h/",
+      "imageId": "0d6e6f4d-f8f1-4874-821b-51c122adb6ec",
       "name": "Dr. Mizanur Rahman",
       "degree": "BHMS (DU), DUMD (North University)",
       "specialty": "Homeopathic Specialist (Cancer, Liver, Kidney & Gynae)",
       "workplace": "Govt. Homeopathic Medical College Hospital",
-      "info": "Babor Homoeo Hall\nAddress: Block-C, Line – 3, Mirpur 12,Pollobi Dhaka\nVisiting Hour: 3pm to 8pm\nAppointment: +8801716212932\nCall Now",
+      "info": "Babor Homoeo Hall Address: Block-C, Line – 3, Mirpur 12,Pollobi Dhaka Visiting Hour: 3pm to 8pm Appointment: +8801716212932 Call Now",
       "chamber": {
         "hospital": "Al Raji Homoeo Home",
         "address": "Tomsom Bridge, New Hostel (Opposite), Cumilla",
         "visitingTime": "3pm to 8pm",
-        "appointmentNumber": "+8801716212932"
-      },
-      "id": "46b959e5-909a-4deb-9785-8eac9b2e03e3"
+        "appointmentNumber": "+8801716212932Call Now"
+      }
     },
     {
+      "id": "43d33926-7edb-4e83-bba8-9fb64f5393cb",
+      "departmentId": "b24d2f8a-215d-4a67-9641-95f61b65be67",
+      "link": "https://www.doctorbangladesh.com/dr-md-jahangir-alam-hom/",
+      "imageId": "ced2a8d5-25aa-4b86-a6be-fe0330ae5c68",
       "name": "Dr. Md. Jahangir Alam",
       "degree": "BHMS (Dhaka University), MPH, PGD (Medicine), PG Hom (London), MF Hom (Malaysia)",
       "specialty": "Homoeopathic ConsultantAsthma, Piles & Fistula, Sexual Health, Physical & Mental Health, Kidney Problems, Liver Problems, Heart Problems, Diabetes, Blood Pressure, Tumour & Warts",
       "workplace": "Homoeopathic Foundation Bangladesh & Hospital (Outdoor)",
-      "info": "Badrunnessa Latif Memorial Community Hospital (Proposed)\nAddress: Near Local Community Health Center, Bakhaia Miaji Bari, Hosenpur, Kachua, Chandpur\nVisiting Hour: 9am to 1pm (1st & 3rd Friday of Every Month)\nAppointment: 01851686799, 01552348351, 01790139551\nCall Now",
+      "info": "Badrunnessa Latif Memorial Community Hospital (Proposed) Address: Near Local Community Health Center, Bakhaia Miaji Bari, Hosenpur, Kachua, Chandpur Visiting Hour: 9am to 1pm (1st & 3rd Friday of Every Month) Appointment: 01851686799, 01552348351, 01790139551 Call Now",
       "chamber": {
         "hospital": "Homoeopathic Foundation Hospital",
         "address": "674 West Kazipara (2nd Floor), Kazipara, Mirpur, Dhaka(North Site of Kazipara Central Mosque and West Site of 285 Piler of Metro Rail)",
         "visitingTime": "6pm to 9pm (Mon, Tue & Wednesday)",
-        "appointmentNumber": "01833700291, 01552348351, 01921219798"
-      },
-      "id": "c13d5f9e-24ff-4b3c-bf7d-96f2f175a4a9"
+        "appointmentNumber": "01833700291, 01552348351, 01921219798Call Now"
+      }
     },
     {
+      "id": "a58eb320-3dd7-4804-a088-c00ab916cc8a",
+      "departmentId": "b24d2f8a-215d-4a67-9641-95f61b65be67",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-syful-alam-roman/",
+      "imageId": "f2ffaac3-28c7-4e2c-98e4-cb08c38551a7",
       "name": "Dr. Mohammad Syful Alam Roman",
       "degree": "DHMS, PDT (BHMCH), PG-Hom (London), MBA, MCP, PGD-SC (BIM)",
       "specialty": "All kind of Chronic & Acute Disease including Mental Problem",
       "workplace": "Hopes Homoeopathic Medical College and Hospital, Malibag, Dhaka",
-      "info": "KGN Homeo Hall\nAddress: 72/Ka-2, Kadamtola, (Behind KPB School & College), Bashaboo, Sobujbag, Dhaka\nVisiting Hour: 6pm to 11pm (Everyday)\nAppointment: +8801852740233\nCall Now",
+      "info": "KGN Homeo Hall Address: 72/Ka-2, Kadamtola, (Behind KPB School & College), Bashaboo, Sobujbag, Dhaka Visiting Hour: 6pm to 11pm (Everyday) Appointment: +8801852740233 Call Now",
       "chamber": {
         "hospital": "KGN Homeo Hall",
         "address": "Shop No-4, Ground Floor, Hosaf Shopping Complex, Malibag More, Dhaka",
         "visitingTime": "12pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801915868590"
-      },
-      "id": "1b58d81b-ea42-469a-baa8-05626b501b8d"
+        "appointmentNumber": "+8801915868590Call Now"
+      }
     }
   ]
 }

@@ -1,48 +1,61 @@
 {
   "doctor": [
     {
+      "id": "805ac581-f24a-4354-a967-21533e797097",
+      "departmentId": "7167f28a-8635-4742-8c1e-adddd4d14066",
+      "link": "https://www.doctorbangladesh.com/dr-md-shirajul-islam-khan/",
+      "imageId": "04668db9-3483-42ba-9a42-41851bf9a42e",
       "name": "Brigadier General Prof. Dr. Md. Shirajul Islam Khan",
       "degree": "MBBS, FCPS (SKIN & SEX), MCPS, DDV, FRCP (UK), MACP (USA)",
       "specialty": "Skin, Allergy, Cosmetic, Laser & Sexual Diseases Specialist",
       "workplace": "Combined Military Hospital (CMH), Dhaka,Armed Forces Medical College (AFMC), Dhaka",
-      "info": "Aalok Healthcare & Hospital, Mirpur 10\nAddress: House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka\nVisiting Hour: 4pm to 6pm (Sun, Tue & Thu), 9am to 12pm (Friday)\nAppointment: +8801769040824\nCall Now",
+      "info": "Aalok Healthcare & Hospital, Mirpur 10 Address: House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka Visiting Hour: 4pm to 6pm (Sun, Tue & Thu), 9am to 12pm (Friday) Appointment: +8801769040824 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "Room # 603, Building # 6, House # 16, Road # 2, Dhanmondi R/A, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801769040824"
-      },
-      "id": "542bce9e-fc2f-4c99-9bae-705b5a5b10e9"
+        "appointmentNumber": "+8801769040824Call Now"
+      }
     },
     {
+      "id": "c8082edc-c67f-489d-affa-8a4f609f38b7",
+      "departmentId": "7167f28a-8635-4742-8c1e-adddd4d14066",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-n-huda/",
+      "imageId": "d9b31229-7640-459a-be19-5e03cbd0ec16",
       "name": "Prof. Dr. M.N. Huda",
       "degree": "MBBS (DMC), DDV (DU), FCPS (Skin & Sex)",
       "specialty": "Expert Dermatologist, Sexologist & Venereologist",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Banglamotor Chamber\nAddress: Nurjahan Tower, 2 Link Road, Banglamotor, Dhaka\nVisiting Hour: 4pm to 10pm (Sat, Mon & Wed)\nAppointment: +8801915848333\nCall Now",
+      "info": "Banglamotor Chamber Address: Nurjahan Tower, 2 Link Road, Banglamotor, Dhaka Visiting Hour: 4pm to 10pm (Sat, Mon & Wed) Appointment: +8801915848333 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
         "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
         "visitingTime": "9am to 12pm & 4.30pm to 10pm (Sun & Tue)",
-        "appointmentNumber": "+8809666787805"
-      },
-      "id": "25b6fb75-91d4-4a82-b220-c1eedd4012a2"
+        "appointmentNumber": "+8809666787805Call Now"
+      }
     },
     {
+      "id": "c1064fbd-72fb-49dc-903d-1c5620f82543",
+      "departmentId": "7167f28a-8635-4742-8c1e-adddd4d14066",
+      "link": "https://www.doctorbangladesh.com/prof-lt-col-dr-md-abdul-wahab/",
+      "imageId": "e026473a-2945-450e-9a92-885dc372f99f",
       "name": "Prof. Lt. Col. Dr. Md. Abdul Wahab",
       "degree": "MBBS, DDV, MCPS, FACP (USA), FCPS (Dermatology), FRCP (UK), Higher Training (Thailand)",
       "specialty": "Skin, Allergy, Leprosy & Sexual Diseases Specialist",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Aalok Healthcare & Hospital, Mirpur 10\nAddress: House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka\nVisiting Hour: 4pm to 6pm (Sat, Mon & Wed)\nAppointment: +8801915448491\nCall Now",
+      "info": "Aalok Healthcare & Hospital, Mirpur 10 Address: House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka Visiting Hour: 4pm to 6pm (Sat, Mon & Wed) Appointment: +8801915448491 Call Now",
       "chamber": {
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "3.30pm to 8.30pm (Sun, Tue & Thu)",
-        "appointmentNumber": "10606"
-      },
-      "id": "9c0bdc3c-3830-4f96-a815-ea19b20ffe40"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "52b47993-5975-4f65-944d-516288ccb91c",
+      "departmentId": "7167f28a-8635-4742-8c1e-adddd4d14066",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-u-kabir-chowdhury/",
+      "imageId": "0d6450b5-a984-40da-bef4-d6e8eacda65b",
       "name": "Prof. Dr. M. U. Kabir Chowdhury",
       "degree": "MBBS, DDV (Vienna), AFICA (USA), FRCP (Glasgow)",
       "specialty": "Skin, Allergy & Sexual Diseases Specialist",
@@ -52,11 +65,14 @@
         "hospital": "National Skin Center, Dhaka",
         "address": "57/E (Near Samorita Hospital), Panthapath, Dhaka",
         "visitingTime": "8am to 8pm (Everyday)",
-        "appointmentNumber": "+88029103130"
-      },
-      "id": "12c7c320-66cc-4183-a841-c1fe98a4fcc1"
+        "appointmentNumber": "+88029103130Call Now"
+      }
     },
     {
+      "id": "07af5dc1-468d-465e-924a-1daf3cfbdc41",
+      "departmentId": "7167f28a-8635-4742-8c1e-adddd4d14066",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-mujibul-hoque/",
+      "imageId": "11fd1e7d-eb0a-42a1-8721-f321b1829c02",
       "name": "Prof. Dr. M Mujibul Hoque",
       "degree": "MBBS, FCPS, FRCP, DDV (DU), DDV (Austria)",
       "specialty": "Skin, Allergy, Leprosy, Hair & Sexual Diseases Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "b280d16e-7d9c-4f0b-9e53-29beea46859a"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "4d0b3abf-6b9b-4556-a12a-ec7742cdea05",
+      "departmentId": "7167f28a-8635-4742-8c1e-adddd4d14066",
+      "link": "https://www.doctorbangladesh.com/prof-dr-yasmin-joardar/",
+      "imageId": "79aa8e3e-e4f9-4649-b7e8-2eba478885a3",
       "name": "Dr. Yasmin Joardar",
       "degree": "MBBS (DU), DDV (DMC)",
       "specialty": "Skin, Allergy, Leprosy, Hair, Sex & Child Skin Diseases Specialist",
@@ -80,25 +99,31 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "3.30pm to 5.30pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "c66eb994-cc1e-42d5-b63b-28f32551437b"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "40c6d928-050e-4f1e-947e-ec370a8f30b1",
+      "departmentId": "7167f28a-8635-4742-8c1e-adddd4d14066",
+      "link": "https://www.doctorbangladesh.com/dr-abm-khalekuzzaman-shipon/",
+      "imageId": "c8ad2aa8-586b-4ef0-aef0-74db095e8f5a",
       "name": "Dr. ABM Khalekuzzaman Shipon",
       "degree": "MBBS, PGT (SKIN & VD), FRSH (London), Training (Dermato & Cosmetic Surgery)",
       "specialty": "Skin, Sexual Diseases, Allergy, Hair Specialist & Cosmetic Surgeon",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Pabna Shishu Hospital & Mattriseba\nAddress: Meril Bypass Road, Shalgaria, Pabna – 6600\nVisiting Hour: 9am to 3pm (Only Friday)\nAppointment: +8801777939898\nCall Now",
+      "info": "Pabna Shishu Hospital & Mattriseba Address: Meril Bypass Road, Shalgaria, Pabna – 6600 Visiting Hour: 9am to 3pm (Only Friday) Appointment: +8801777939898 Call Now",
       "chamber": {
         "hospital": "Laser Chain & Skin Center",
         "address": "Hussain Plaza, House # 01, Road # 15, Mirpur Road, Dhanmondi, Dhaka",
         "visitingTime": "4pm to 7pm (Saturday, Monday & Wednesday)",
-        "appointmentNumber": "+8801777939898"
-      },
-      "id": "5a5a0b58-a8c5-4616-b2b2-db7629cb64dd"
+        "appointmentNumber": "+8801777939898Call Now"
+      }
     },
     {
+      "id": "75c25092-b1a6-4121-8074-0f0f1883a91a",
+      "departmentId": "7167f28a-8635-4742-8c1e-adddd4d14066",
+      "link": "https://www.doctorbangladesh.com/prof-dr-mir-nazrul-islam/",
+      "imageId": "8627a762-5aca-4442-a2c3-3100a05ecdb2",
       "name": "Prof. Dr. Mir Nazrul Islam",
       "degree": "MBBS, DDS (Wels), MSC (UK), FRCP (Glasgow), FRCP (Edin)",
       "specialty": "Skin, Allergy, Leprosy, Sexual Diseases Specialist & Laser Surgeon",
@@ -108,11 +133,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "e0001c4e-0145-45b4-9497-28ed7d017283"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "f2f766bc-828d-48f5-8ab9-de1543b3ab6e",
+      "departmentId": "7167f28a-8635-4742-8c1e-adddd4d14066",
+      "link": "https://www.doctorbangladesh.com/dr-md-saiful-islam-bhuiyan/",
+      "imageId": "55da7afb-918b-4bb0-b6ea-9e3b4ec24dde",
       "name": "Dr. Md. Saiful Islam Bhuiyan",
       "degree": "MBBS, MD (Dermatology)",
       "specialty": "Skin, Allergy, Leprosy & Sex Diseases Specialist",
@@ -122,11 +150,14 @@
         "hospital": "Popular Diagnostic Center, Shantinagar",
         "address": "Unit # 02, House # 15, Shantinagar, Motijheel, Dhaka",
         "visitingTime": "3:30pm to 7pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787803"
-      },
-      "id": "4deebe56-2aa5-4435-a625-3bf86e3f42e2"
+        "appointmentNumber": "+8809666787803Call Now"
+      }
     },
     {
+      "id": "d73d1042-d7cb-4522-8a16-d767ee937e1f",
+      "departmentId": "7167f28a-8635-4742-8c1e-adddd4d14066",
+      "link": "https://www.doctorbangladesh.com/dr-isabela-kabir/",
+      "imageId": "9537767e-3078-4ec7-a3db-708dbb54574e",
       "name": "Dr. Isabela Kabir",
       "degree": "MBBS, MCPS, FCPS (Skin & VD)",
       "specialty": "Skin, Allergy, Leprosy, Sexual Diseases Specialist",
@@ -136,25 +167,31 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "9am to 6pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "3b17d74e-8007-452c-9ea3-3e8e2a2ed0cc"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "815f57cb-b317-4989-8512-72c1f4565cca",
+      "departmentId": "7167f28a-8635-4742-8c1e-adddd4d14066",
+      "link": "https://www.doctorbangladesh.com/dr-lubna-khondker/",
+      "imageId": "7d0d9ada-11ab-4d2f-a3ce-703dcfbaac23",
       "name": "Dr. Lubna Khondker",
       "degree": "MBBS, MPH, DDV (BSMMU), MCPS, FCPS (Dermatology & Venereology)",
       "specialty": "Skin, Hair, Nail, STDs, Cosmetology, Dermatosurgery & Laser Treatment Specialist",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Aalok Healthcare & Hospital, Mirpur 10\nAddress: House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka\nVisiting Hour: 5.30pm to 7.30pm (Closed: Friday)\nAppointment: +8801919224895\nCall Now",
+      "info": "Aalok Healthcare & Hospital, Mirpur 10 Address: House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka Visiting Hour: 5.30pm to 7.30pm (Closed: Friday) Appointment: +8801919224895 Call Now",
       "chamber": {
         "hospital": "Labaid Diagnostic, Mirpur",
         "address": "Plot # 9, House # 06, Block # B, Section # 01, Mirpur 1, Dhaka",
         "visitingTime": "8pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662888"
-      },
-      "id": "f22d5414-3b5d-452f-9ab0-62924b87274f"
+        "appointmentNumber": "+8801766662888Call Now"
+      }
     },
     {
+      "id": "2afeb2ed-5208-48f7-9186-85fd1dcc8794",
+      "departmentId": "7167f28a-8635-4742-8c1e-adddd4d14066",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-moazzem-hossain/",
+      "imageId": "2d3dde09-98f3-4692-81ba-282ed1bcbcdb",
       "name": "Prof. Dr. Md. Moazzem Hossain",
       "degree": "MBBS, DDV (DU), Fellow (WHO), FRSH (UK)",
       "specialty": "Skin, Allergy, Hair, Nail, Sexual Diseases Specialist & Surgeon",
@@ -164,11 +201,14 @@
         "hospital": "Japan Bangladesh Friendship Hospital",
         "address": "55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi - 1209",
         "visitingTime": "4pm to 6pm (Sat to Thu), 9am to 11am (Fri)",
-        "appointmentNumber": "+8801791-652450"
-      },
-      "id": "b5608529-2ae0-4bbd-830d-8b057e96dfb4"
+        "appointmentNumber": "+8801791-652450Call Now"
+      }
     },
     {
+      "id": "b89ca7cc-7bbb-4fd5-a6ee-79bb6a7869b6",
+      "departmentId": "7167f28a-8635-4742-8c1e-adddd4d14066",
+      "link": "https://www.doctorbangladesh.com/prof-dr-col-md-obaidur-rahman-shah/",
+      "imageId": "a384885b-ee4e-46eb-bc34-683920c4b656",
       "name": "Prof. Dr. Col. Md. Obaidur Rahman Shah",
       "degree": "MBBS, DDV, FCPS (Skin & Sex), FRCP (UK), Laser Training (USA)",
       "specialty": "Skin & Sexual Diseases Specialist",
@@ -178,11 +218,14 @@
         "hospital": "Popular Diagnostic Center, Mirpur",
         "address": "Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka",
         "visitingTime": "6pm to 10pm (Everyday)",
-        "appointmentNumber": "+8809666787807"
-      },
-      "id": "17453203-4820-4146-af0f-be1ccd21cb6a"
+        "appointmentNumber": "+8809666787807Call Now"
+      }
     },
     {
+      "id": "3bc07e13-8fde-4a46-882d-e33c9e556eb6",
+      "departmentId": "7167f28a-8635-4742-8c1e-adddd4d14066",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-jamal-uddin/",
+      "imageId": "fec4acfd-4622-4c46-923c-30ffecbfd054",
       "name": "Dr. Mohammad Jamal Uddin",
       "degree": "MBBS, MD (Dermatology)",
       "specialty": "Skin, Leprosy, Allergy & Sexual Diseases Specialist",
@@ -192,11 +235,14 @@
         "hospital": "Labaid Diagnostic, Uttara (Unit 01)",
         "address": "House # 15, Road # 12, Sector # 06, Uttara, Dhaka",
         "visitingTime": "5pm to 8.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662606"
-      },
-      "id": "99339ee9-c509-4df6-b80d-12d8feb75470"
+        "appointmentNumber": "+8801766662606Call Now"
+      }
     },
     {
+      "id": "d943357e-bbe7-4074-a8e8-2367ad891e8a",
+      "departmentId": "7167f28a-8635-4742-8c1e-adddd4d14066",
+      "link": "https://www.doctorbangladesh.com/dr-fahmida-zebin/",
+      "imageId": "52d61b2e-40b3-414b-ac9d-9fb77d377d70",
       "name": "Dr. Fahmida Zebin",
       "degree": "MBBS, BCS (Health)",
       "specialty": "Skin, Allergy, Leprosy, Hair & Sexual Diseases Specialist",
@@ -206,11 +252,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Savar",
         "address": "31/6 Jaleshwar, Aricha Road, Savar, Dhaka - 1340",
         "visitingTime": "4pm to 7pm (Sun, Tue & Wed) & 10am to 1pm (Fri)",
-        "appointmentNumber": "+88 09610009613"
-      },
-      "id": "faf2b635-3bd3-48ca-b5c2-74d9fad31df5"
+        "appointmentNumber": "+88 09610009613Call Now"
+      }
     },
     {
+      "id": "a0f5ee22-7734-4c71-a0b2-613e216c6906",
+      "departmentId": "7167f28a-8635-4742-8c1e-adddd4d14066",
+      "link": "https://www.doctorbangladesh.com/prof-dr-col-quazi-salim-yazdi/",
+      "imageId": "3eb5e133-347a-4e7f-ada4-cc5a8c7255eb",
       "name": "Prof. Dr. (Col) Quazi Salim Yazdi",
       "degree": "MBBS, DDV, MCPS, FCPS",
       "specialty": "Skin, Allergy, Leprosy & Sexual Diseases Specialist",
@@ -220,11 +269,14 @@
         "hospital": "Popular Diagnostic Center, Mirpur",
         "address": "Unit 02, House # 02, Block # A, Section # 10, Mirpur, Dhaka",
         "visitingTime": "4:30pm to 10pm (Everyday)",
-        "appointmentNumber": "+8809666-787807"
-      },
-      "id": "632847b4-06d6-47d0-b0e1-74c0f9c9fe5f"
+        "appointmentNumber": "+8809666-787807Call Now"
+      }
     },
     {
+      "id": "7dc5dee5-27cc-4428-ab7e-f554120042e5",
+      "departmentId": "7167f28a-8635-4742-8c1e-adddd4d14066",
+      "link": "https://www.doctorbangladesh.com/dr-mosharraf-ahmed-khasru/",
+      "imageId": "6c26bdc8-0fb7-4cef-ac3a-b8482a41c69e",
       "name": "Dr. Mosharraf Ahmed Khasru",
       "degree": "MBBS, Diploma in Dermatology (Thailand & Japan)",
       "specialty": "Skin, Sex Diseases & Allergy Specialist",
@@ -234,11 +286,14 @@
         "hospital": "Asgar Ali Hospital, Dhaka",
         "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
         "visitingTime": "9.30am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801787683333"
-      },
-      "id": "2d936c0e-cd67-4222-ae72-a3803cdca775"
+        "appointmentNumber": "+8801787683333Call Now"
+      }
     },
     {
+      "id": "725c01bb-62e8-4d6d-a249-006d509b4676",
+      "departmentId": "7167f28a-8635-4742-8c1e-adddd4d14066",
+      "link": "https://www.doctorbangladesh.com/brig-gen-prof-dr-nurul-amin/",
+      "imageId": "d83efc4f-6645-4c10-89d9-c72f9fc18a67",
       "name": "Brig. Gen. Prof. Dr. Nurul Amin",
       "degree": "MBBS, MD (Dermatology), FCPS, FRCP (Glasgow), FAAD (USA), DDV (DU), DD (Thailand)",
       "specialty": "Skin & STD, Leprosy & Cosmotology Specialist",
@@ -248,11 +303,14 @@
         "hospital": "Islami Bank Hospital, Mirpur",
         "address": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
         "visitingTime": "10.30am to 12.30pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801992346632"
-      },
-      "id": "be4f00fc-7dad-4f40-b995-8409ed799199"
+        "appointmentNumber": "+8801992346632Call Now"
+      }
     },
     {
+      "id": "2f9006b6-2a3a-4f94-bdd4-1865b0584398",
+      "departmentId": "7167f28a-8635-4742-8c1e-adddd4d14066",
+      "link": "https://www.doctorbangladesh.com/dr-yasmin-joarder/",
+      "imageId": "c07d31ad-debf-45c6-a125-3f1396a82395",
       "name": "Dr. Yasmin Joarder",
       "degree": "MBBS, DDV (DMC)",
       "specialty": "Skin, Allergy, Hair, Nail & Sexual Diseases Specialist",
@@ -262,11 +320,14 @@
         "hospital": "Islami Bank Central Hospital, Kakrail",
         "address": "30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000",
         "visitingTime": "3pm to 4pm (Closed: Friday)",
-        "appointmentNumber": "+8801810000116"
-      },
-      "id": "50c1b7f7-6bf3-471e-ae9f-2089414d71bc"
+        "appointmentNumber": "+8801810000116Call Now"
+      }
     },
     {
+      "id": "6547e98b-afe8-42ce-8745-2da8a69fafb1",
+      "departmentId": "7167f28a-8635-4742-8c1e-adddd4d14066",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-rokon-uddin/",
+      "imageId": "bf156685-ce53-4672-868b-93e366508cd6",
       "name": "Prof. Dr. Md. Rokon Uddin",
       "degree": "MBBS (DMC), DDV (BSMMU)",
       "specialty": "Allergy, Skin & Sexual Medicine Specialist",
@@ -276,11 +337,14 @@
         "hospital": "Bangladesh Specialized Hospital",
         "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666700100"
-      },
-      "id": "1f58e4e2-2687-4c37-87ad-0eabf973112e"
+        "appointmentNumber": "+8809666700100Call Now"
+      }
     },
     {
+      "id": "68e1bbdc-73f5-4a12-bb5e-3fbb27d7bd79",
+      "departmentId": "7167f28a-8635-4742-8c1e-adddd4d14066",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdal-miah/",
+      "imageId": "520d7e16-14a8-44aa-8bc9-06ec805b6fa4",
       "name": "Dr. Md. Abdal Miah",
       "degree": "MBBS, DDV, MD (Skin & Sex), MMEd, Gold Medalist",
       "specialty": "Skin & Sexual Diseases Specialist",
@@ -290,11 +354,14 @@
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "6pm to 9pm (Sat, Sun, Mon & Wednesday)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "214a86c4-71c6-4c6c-88e6-b54fbdf4fea0"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
+      "id": "6d517c96-ec82-4937-adc4-889d66eb1bfd",
+      "departmentId": "7167f28a-8635-4742-8c1e-adddd4d14066",
+      "link": "https://www.doctorbangladesh.com/dr-monira-yeasmin/",
+      "imageId": "93727a76-b65f-4ca3-9d05-fcafbcc3ce19",
       "name": "Dr. Monira Yeasmin",
       "degree": "MBBS, FCPS (Dermatology & Venereology)",
       "specialty": "Skin & Sexual Diseases Specialist",
@@ -304,11 +371,14 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+88"
-      },
-      "id": "8ce8a024-5e8f-4699-8872-554d9273414b"
+        "appointmentNumber": "+88Call Now"
+      }
     },
     {
+      "id": "e7f81f1e-9658-4004-9d06-0d5967ce8b61",
+      "departmentId": "7167f28a-8635-4742-8c1e-adddd4d14066",
+      "link": "https://www.doctorbangladesh.com/dr-md-nurul-alam-sumon/",
+      "imageId": "38e5962e-6127-471c-96fe-fb472d6085c2",
       "name": "Dr. Md. Nurul Alam (Sumon)",
       "degree": "MBBS (DMC), FCPS (SKIN & VD), MCPS (Skin & VD)",
       "specialty": "Skin, Sexual Diseases Specialist, Clinical & Interventional Dermatologist",
@@ -318,11 +388,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "6.30pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "bca68534-bb33-4f11-bbcd-730f0d6fdbd1"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "2eaa9fe3-62bd-4582-aab9-054a66dc26fa",
+      "departmentId": "7167f28a-8635-4742-8c1e-adddd4d14066",
+      "link": "https://www.doctorbangladesh.com/dr-rehnuma-nasim/",
+      "imageId": "94f04b85-d8ca-4fed-bb15-b3dd6343cb69",
       "name": "Dr. Rehnuma Nasim",
       "degree": "MBBS, BCS (Health), MD (Dermatology, BSMMU)",
       "specialty": "Skin, Allergy & Sexual Disease Specialist",
@@ -332,11 +405,14 @@
         "hospital": "Islami Bank Specialized & General Hospital, Nayapaltan",
         "address": "71-72, VIP Road, Nayapaltan, Dhaka",
         "visitingTime": "6pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801977552283"
-      },
-      "id": "b37d971b-072d-4448-ab4c-ddd0521c2ef7"
+        "appointmentNumber": "+8801977552283Call Now"
+      }
     },
     {
+      "id": "6a72d94c-adc6-4e04-abdd-727fc30f6a56",
+      "departmentId": "7167f28a-8635-4742-8c1e-adddd4d14066",
+      "link": "https://www.doctorbangladesh.com/dr-md-nazmul-haque-sarker/",
+      "imageId": "f46dac33-c06e-4784-909c-efe425b4cf2b",
       "name": "Dr. Md. Nazmul Haque Sarker",
       "degree": "MBBS, DDV, MCPS (Skin & STD)",
       "specialty": "Skin & Sexual Diseases Specialist",
@@ -346,11 +422,14 @@
         "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
         "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787805"
-      },
-      "id": "2925d3d8-fe8f-4ff0-84b5-47be004ef956"
+        "appointmentNumber": "+8809666787805Call Now"
+      }
     },
     {
+      "id": "c65087ae-d9cc-4100-8cc9-17a3ab6ff07e",
+      "departmentId": "7167f28a-8635-4742-8c1e-adddd4d14066",
+      "link": "https://www.doctorbangladesh.com/dr-mahmud-chowdhury/",
+      "imageId": "75757165-af3f-48fe-98ea-e011a68563ef",
       "name": "Dr. Mahmud Chowdhury",
       "degree": "MBBS, DDV, MCPS (Dermatology & Venereology), FCPS (Skin & Sex)",
       "specialty": "Skin, Allergy, Sex & Laser Surgery Specialist",
@@ -360,11 +439,14 @@
         "hospital": "Bangladesh Specialized Hospital",
         "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8809666700100"
-      },
-      "id": "88a7a49a-7c42-4fca-bbab-3e59e6221554"
+        "appointmentNumber": "+8809666700100Call Now"
+      }
     },
     {
+      "id": "e90a4007-5cd2-4880-9b07-cd8616bb13cc",
+      "departmentId": "7167f28a-8635-4742-8c1e-adddd4d14066",
+      "link": "https://www.doctorbangladesh.com/dr-md-nasiruddin-molla-bulbul/",
+      "imageId": "933c68cb-48bd-4284-9e9b-db2ced59520d",
       "name": "Dr. Md. Nasiruddin Molla Bulbul",
       "degree": "MBBS (DU), MCPS (Dermatology), DDV (BSMMU)",
       "specialty": "Skin, Hair & Sexual Diseases Specialist",
@@ -374,11 +456,14 @@
         "hospital": "Islami Bank Hospital, Mugda",
         "address": "1/24/B, Kamalapur Manda Road, South Mugdapara, Dhaka",
         "visitingTime": "10am to 12.30pm & 6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801724008677"
-      },
-      "id": "e36049b8-c1b3-49fd-a387-3750a1b90faf"
+        "appointmentNumber": "+8801724008677Call Now"
+      }
     },
     {
+      "id": "b00f5fed-249b-4bd6-aa6f-edf4461d1e42",
+      "departmentId": "7167f28a-8635-4742-8c1e-adddd4d14066",
+      "link": "https://www.doctorbangladesh.com/dr-akm-zayedul-haque/",
+      "imageId": "386bd4e0-15d2-45fc-a72d-0c0a52b6e9df",
       "name": "Dr. AKM Zayedul Haque",
       "degree": "MBBS, MD (DERMATOLOGY), CCD (BIRDEM)",
       "specialty": "Skin & Sexual Diseases Specialist",
@@ -388,11 +473,14 @@
         "hospital": "Savar Prime Hospital",
         "address": "A-89, Thana Road, Talbagh, Savar, Dhaka - 1340",
         "visitingTime": "4pm to 7pm (Sun, Tue, Thu & Fri)",
-        "appointmentNumber": "+8801752561542"
-      },
-      "id": "d8bfaa16-7431-4193-9635-155af4946b0c"
+        "appointmentNumber": "+8801752561542Call Now"
+      }
     },
     {
+      "id": "48b989f5-04f7-4ab3-9ea4-7ab618444028",
+      "departmentId": "7167f28a-8635-4742-8c1e-adddd4d14066",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahinur-rahman/",
+      "imageId": "04af49e3-8a0d-4bee-ac9b-97ffaa93f6de",
       "name": "Dr. Md. Shahinur Rahman",
       "degree": "MBBS, DDV",
       "specialty": "Skin, Allergy & Sexual Diseases Specialist",
@@ -402,9 +490,8 @@
         "hospital": "Al-Manar Hospital Limited",
         "address": "Plot # Umo, Block # Rossoi, Satmosjid Road, Dhaka",
         "visitingTime": "11am to 1pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801550020885"
-      },
-      "id": "bca4d3c9-14d9-41ca-813e-14ee53afef8e"
+        "appointmentNumber": "+8801550020885Call Now"
+      }
     }
   ]
 }

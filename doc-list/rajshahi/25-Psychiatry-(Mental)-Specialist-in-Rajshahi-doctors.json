@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "617617a7-daa5-4d2a-bb96-aa1f40095e29",
+      "departmentId": "44b2cb03-c610-4b78-9e0b-69a24b8f104e",
+      "link": "https://www.doctorbangladesh.com/dr-md-mamun-hussain/",
+      "imageId": "ba6c89b1-c2a7-40b0-a383-6475353c9bd0",
       "name": "Prof. Dr. Abdullah Al Mamun Hussain",
       "degree": "MBBS, M.Phil, PhD, FCPS (Psychiatry)",
       "specialty": "Mental Diseases, Brain Disorder & Drug Addiction Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Medipath Diagnostic Complex, Rajshahi",
         "address": "Shuvecca View, Greater Road, Laxmipur, Kajihata, Rajshahi",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801712685297"
-      },
-      "id": "56d76d22-3bde-4c8c-9b0a-b176568a31a7"
+        "appointmentNumber": "+8801712685297Call Now"
+      }
     },
     {
+      "id": "60e52159-3f72-4e0a-8a29-e99ebc779816",
+      "departmentId": "44b2cb03-c610-4b78-9e0b-69a24b8f104e",
+      "link": "https://www.doctorbangladesh.com/dr-mostafa-alim/",
+      "imageId": "cd8a9d37-c7f1-4272-b734-7a34d6438ddc",
       "name": "Dr. Mostafa Alim",
       "degree": "MBBS, BCS (Health), MD (Psychiatry)",
       "specialty": "Mental Diseases, Drug Addiction Specialist & Psychiatrist",
@@ -24,11 +31,14 @@
         "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
         "address": "Laxmipur Mor, Rajshahi",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801762685090"
-      },
-      "id": "b8bb5536-1368-41a3-980d-9a97570afeda"
+        "appointmentNumber": "+8801762685090Call Now"
+      }
     },
     {
+      "id": "e4036a5a-f2a1-4f70-85f2-2e3694949956",
+      "departmentId": "44b2cb03-c610-4b78-9e0b-69a24b8f104e",
+      "link": "https://www.doctorbangladesh.com/dr-rakibuzzaman-chowdhury/",
+      "imageId": "550ef54c-514b-4a52-b499-f4eb0599dbfa",
       "name": "Dr. Rakibuzzaman Chowdhury",
       "degree": "MBBS, BCS (Health), MCPS (Psychiatry), PhD (Fellow)",
       "specialty": "Psychiatry (Brain, Mental Diseases, Drug Addiction) Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Zaman Pathology, Rajshahi",
         "address": "23, Greater Road, Laxmipur Mor, Rajshahi",
         "visitingTime": "3pm to 10pm (Closed: Tuesday)",
-        "appointmentNumber": "+8801723300778"
-      },
-      "id": "8856fdde-daee-4ee7-910b-e674b659af69"
+        "appointmentNumber": "+8801723300778Call Now"
+      }
     },
     {
+      "id": "9853f4bd-ddbd-40b3-8e77-037b9dd10b09",
+      "departmentId": "44b2cb03-c610-4b78-9e0b-69a24b8f104e",
+      "link": "https://www.doctorbangladesh.com/dr-md-jasim-uddin/",
+      "imageId": "dac7ad8c-8476-41f1-883b-9a55aa45ba0a",
       "name": "Dr. Md. Jasim Uddin",
       "degree": "MBBS, BCS (Health), MD (Psychiatry)",
       "specialty": "Mental Diseases, Brain Disorder & Drug Addiction Specialist",
@@ -52,37 +65,42 @@
         "hospital": "Micropath Diagnostic Center, Rajshahi",
         "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
         "visitingTime": "3pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801734286181"
-      },
-      "id": "ac345da9-d3b1-4507-b518-d070dcaf3c6c"
+        "appointmentNumber": "+8801734286181Call Now"
+      }
     },
     {
+      "id": "300ac805-553b-4d4b-8438-e01cd5eaf231",
+      "departmentId": "44b2cb03-c610-4b78-9e0b-69a24b8f104e",
+      "link": "https://www.doctorbangladesh.com/dr-md-shohedul-alam/",
+      "imageId": "a3c67834-e9d3-46b6-b373-34326a8b9445",
       "name": "Dr. Md. Shohedul Alam",
       "degree": "MBBS, MD (Psychiatry)",
       "specialty": "Psychiatry (Brain Disorder, Mental Diseases) Specialist",
       "workplace": "Barind Medical College & Hospital",
-      "info": "Silk City Diagnostic Center, Rajshahi\nAddress: Doctors Tower, In front of Medical College Gate, Laxmipur, Rajshahi\nVisiting Hour: 6pm to 8pm (Closed: Friday)\nAppointment: +8801711340582\nCall Now",
+      "info": "Silk City Diagnostic Center, Rajshahi Address: Doctors Tower, In front of Medical College Gate, Laxmipur, Rajshahi Visiting Hour: 6pm to 8pm (Closed: Friday) Appointment: +8801711340582 Call Now",
       "chamber": {
         "hospital": "Islami Bank Hospital, Rajshahi",
         "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
         "visitingTime": "2pm to 5.30pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801711340582"
-      },
-      "id": "2e22b8c9-cc6a-4303-8346-f28fa1c05830"
+        "appointmentNumber": "+8801711340582Call Now"
+      }
     },
     {
+      "id": "6f4dabc2-d720-435c-b852-23765e1ea2a5",
+      "departmentId": "44b2cb03-c610-4b78-9e0b-69a24b8f104e",
+      "link": "https://www.doctorbangladesh.com/dr-mdabdullah-al-mamun/",
+      "imageId": "53bc467d-8d31-4eec-8516-7be6367ae589",
       "name": "Dr. Md. Abdullah Al Mamun",
       "degree": "MBBS, BCS (Health), MD (Psychiatry)",
       "specialty": "Psychiatry (Mental Diseases) Specialist & Psychotherapist",
       "workplace": "National Institute of Mental Health & Hospital",
-      "info": "Popular Diagnostic Center, Rajshahi\nAddress: House # 474, Chowdhury Tower, Laxmipur, Rajshahi\nVisiting Hour: 2pm to 9pm (Closed: Friday)\nAppointment: +8809666787811\nCall Now",
+      "info": "Popular Diagnostic Center, Rajshahi Address: House # 474, Chowdhury Tower, Laxmipur, Rajshahi Visiting Hour: 2pm to 9pm (Closed: Friday) Appointment: +8809666787811 Call Now",
       "chamber": {
         "hospital": "Bangladesh Psychiatric Care",
         "address": "Shimanto Shambhar Shopping Complex (6th Floor), Dhanmondi, Dhaka",
         "visitingTime": "4pm to 7pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809604604604"
-      },
-      "id": "3e0d4bd4-6f62-4149-a207-855efc112637"
+        "appointmentNumber": "+8809604604604Call Now"
+      }
     }
   ]
 }

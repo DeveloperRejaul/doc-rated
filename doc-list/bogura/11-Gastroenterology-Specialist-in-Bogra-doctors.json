@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "83b17154-8906-4436-8b30-57b8cd6e1fb3",
+      "departmentId": "a2a65f45-7474-42c3-862e-98914b1c3d74",
+      "link": "https://www.doctorbangladesh.com/dr-md-makhsudul-alam/",
+      "imageId": "4e09bc38-6afe-4008-ba3f-f739418a5144",
       "name": "Dr. Md. Makhsudul Alam",
       "degree": "MBBS, MD (Gastroenterology), Fellow Liver Diseases (UK)",
       "specialty": "Gastroenterology & Liver Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "2.30pm to 9pm (Sun, Mon & Thu) & 11am to 9pm (Wed & Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "bb2267c1-5db0-452e-a90a-92cc4dfe6941"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "9abcb634-b507-4263-8763-94163f02a0c1",
+      "departmentId": "a2a65f45-7474-42c3-862e-98914b1c3d74",
+      "link": "https://www.doctorbangladesh.com/dr-md-naimul-hasan/",
+      "imageId": "42baacb0-d44d-4520-b78a-4ecf42c127b9",
       "name": "Dr. Md. Naymul Hasan",
       "degree": "MBBS, MD (Gastroenterology), CCD (BIRDEM), MACG (USA), Training (Endoscopy)",
       "specialty": "Gastroenterology, Pancreas & Liver Specialist",
@@ -24,37 +31,42 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "3pm to 10pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "11ec8aea-817e-456a-8087-74b87f3bb69f"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "e5aeda75-24b3-4065-accc-89d56a3b6cf2",
+      "departmentId": "a2a65f45-7474-42c3-862e-98914b1c3d74",
+      "link": "https://www.doctorbangladesh.com/dr-jm-ariful-islam/",
+      "imageId": "6f2b79ff-076d-4b62-b356-46888394ffdd",
       "name": "Dr. J.M. Ariful Islam",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Liver, Gastroenterology & Medicine Specialist",
       "workplace": "Kurmitola General Hospital, Dhaka",
-      "info": "Ibn Sina Diagnostic & Consultation Center, Bogra\nAddress: House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800\nVisiting Hour: 7pm to 9pm (Thu) & 8am to 8pm (Fri)\nAppointment: +8801701560011\nCall Now",
+      "info": "Ibn Sina Diagnostic & Consultation Center, Bogra Address: House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800 Visiting Hour: 7pm to 9pm (Thu) & 8am to 8pm (Fri) Appointment: +8801701560011 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Malibagh",
         "address": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801844141717"
-      },
-      "id": "aa3c3a52-1fdf-44a8-b2b4-78697cd43844"
+        "appointmentNumber": "+8801844141717Call Now"
+      }
     },
     {
+      "id": "8b5fb396-3afb-48e6-b175-d4021558d6d8",
+      "departmentId": "a2a65f45-7474-42c3-862e-98914b1c3d74",
+      "link": "https://www.doctorbangladesh.com/dr-al-mahmood-appolo/",
+      "imageId": "4bf75c4f-a86c-4f6d-bd97-4f5dc137e952",
       "name": "Dr. Al Mahmood Appolo",
       "degree": "MBBS, BCS (Health), MD (Gastroenterology)",
       "specialty": "Gastroenterology, Liver & Pancreatic Diseases Specialist",
       "workplace": "National Gastroliver Institute & Hospital",
-      "info": "Popular Diagnostic Center, Mirpur\nAddress: Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka\nVisiting Hour: 4pm to 6:30pm (Closed: Friday)\nAppointment: +8809666787807\nCall Now",
+      "info": "Popular Diagnostic Center, Mirpur Address: Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka Visiting Hour: 4pm to 6:30pm (Closed: Friday) Appointment: +8809666787807 Call Now",
       "chamber": {
         "hospital": "Aalok Health Care, Pallabi",
         "address": "2/6 Begum Rokeya Avenue, Pallabi, Mirpur 11.5, Dhaka",
         "visitingTime": "8.30pm to 9:30pm (Closed: Friday)",
-        "appointmentNumber": "+8801307267402"
-      },
-      "id": "d28a7874-130c-4de7-b381-856a597064aa"
+        "appointmentNumber": "+8801307267402Call Now"
+      }
     }
   ]
 }

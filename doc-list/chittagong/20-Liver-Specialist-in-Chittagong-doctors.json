@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "3639fade-77bd-43c4-a5ef-89e6c233f783",
+      "departmentId": "97aa2cb2-08ea-47de-ba85-852967dc0cf4",
+      "link": "https://www.doctorbangladesh.com/dr-s-m-ali-haider/",
+      "imageId": "4d60a5be-4b7c-4a57-83d7-b1a3255340f2",
       "name": "Dr. Salahuddin Mohammed Ali Haider",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology), FRCP (Glasg)",
       "specialty": "Gastroenterology & Liver Diseases Specialist",
@@ -10,39 +14,48 @@
         "hospital": "Popular Diagnostic Center, Chittagong",
         "address": "Room 504, 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787810, +8801797526762"
-      },
-      "id": "a9e4baf5-ea3b-4807-86b5-279fe99dc7e2"
+        "appointmentNumber": "+8809666787810, +8801797526762Call Now"
+      }
     },
     {
+      "id": "96c6aad3-65b1-4f55-a61a-a8aa3c9946c7",
+      "departmentId": "97aa2cb2-08ea-47de-ba85-852967dc0cf4",
+      "link": "https://www.doctorbangladesh.com/dr-shamim-boksha/",
+      "imageId": "90170aa5-a95f-4844-b502-ce0d63f207e1",
       "name": "Dr. Shamim Boksha",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Gastroenterology, Medicine & Liver Diseases Specialist",
       "workplace": "National Hospital, Chittagong",
-      "info": "CSCR Hospital, Chittagong\nAddress: CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram\nVisiting Hour: 2pm to 8pm (Tue & Wed)\nAppointment: +8801887656565\nCall Now",
+      "info": "CSCR Hospital, Chittagong Address: CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram Visiting Hour: 2pm to 8pm (Tue & Wed) Appointment: +8801887656565 Call Now",
       "chamber": {
         "hospital": "National Hospital, Chittagong",
         "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
         "visitingTime": "2pm to 8pm (Sat, Sun & Mon)",
-        "appointmentNumber": "+8801826691155"
-      },
-      "id": "8e177fa3-bf73-4f10-b61a-fb847adb4ea1"
+        "appointmentNumber": "+8801826691155Call Now"
+      }
     },
     {
+      "id": "f6becade-d5d2-422a-877b-29cc06cea295",
+      "departmentId": "97aa2cb2-08ea-47de-ba85-852967dc0cf4",
+      "link": "https://www.doctorbangladesh.com/dr-mushfiqul-abrar/",
+      "imageId": "337121f2-189e-40a2-a52f-023eaa336487",
       "name": "Dr. Mushfiqul Abrar",
       "degree": "MBBS, MD (Hepatology)",
       "specialty": "Liver Diseases, Gastrointestine Specialist & Endoscopist",
       "workplace": "Evercare Hospital, Chattogram",
-      "info": "National Hospital, Chittagong\nAddress: 14/15, Dampara Lane, Mehedibag, Chattogram\nVisiting Hour: 8pm to 10pm (Sat to Tue)\nAppointment: +8801861057889\nCall Now",
+      "info": "National Hospital, Chittagong Address: 14/15, Dampara Lane, Mehedibag, Chattogram Visiting Hour: 8pm to 10pm (Sat to Tue) Appointment: +8801861057889 Call Now",
       "chamber": {
         "hospital": "Evercare Hospital, Chattogram",
         "address": "H1, Ananna R/A, CDA, Hathazari, Chattogram",
         "visitingTime": "10am to 2pm (Sat to Wednesday)",
-        "appointmentNumber": "+8809610810663"
-      },
-      "id": "c8e14238-7346-4049-918d-e52b18e3a139"
+        "appointmentNumber": "+8809610810663Call Now"
+      }
     },
     {
+      "id": "b5535bdb-206d-41c3-adcd-6490a4d86b70",
+      "departmentId": "97aa2cb2-08ea-47de-ba85-852967dc0cf4",
+      "link": "https://www.doctorbangladesh.com/dr-abdullah-al-mahmood/",
+      "imageId": "5cf01bf2-4ba4-4795-92b3-7c1fffc29a7c",
       "name": "Dr. Abdullah Al Mahmood",
       "degree": "MBBS, MD (Hepatology)",
       "specialty": "Liver, Gallbladder & Pancreas Diseases Specialist",
@@ -52,11 +65,14 @@
         "hospital": "CSCR Hospital, Chittagong",
         "address": "Room 227, Block B, 1675/A, O.R. Nizam Road, Chattogram",
         "visitingTime": "6pm to 10pm (Sun, Tue & Thursday)",
-        "appointmentNumber": "+8801719550279"
-      },
-      "id": "5318dc82-4f9c-4516-b1df-9672c87c2915"
+        "appointmentNumber": "+8801719550279Call Now"
+      }
     },
     {
+      "id": "843ddb7e-e704-4a2a-b1c1-0738955f6241",
+      "departmentId": "97aa2cb2-08ea-47de-ba85-852967dc0cf4",
+      "link": "https://www.doctorbangladesh.com/dr-alok-kumar-raha/",
+      "imageId": "15c67dc2-a700-404c-92fe-9859ab3f35c2",
       "name": "Dr. Aloke Kumar Raha",
       "degree": "MBBS (Dhaka), MCPS (Medicine), MD (Hepatology)",
       "specialty": "Liver Diseases Specialist",
@@ -66,23 +82,25 @@
         "hospital": "Metro Diagnostic Center, Chittagong",
         "address": "Metro Tower, Goal Pahar Mor, Mehedibag, Chattogram",
         "visitingTime": "6pm to 9pm (Everyday)",
-        "appointmentNumber": "+8801754635455"
-      },
-      "id": "319baaf4-4074-4246-90b9-efe27e244d5e"
+        "appointmentNumber": "+8801754635455Call Now"
+      }
     },
     {
+      "id": "5ba1e69d-93df-4ff8-a226-f2ca4acdad0c",
+      "departmentId": "97aa2cb2-08ea-47de-ba85-852967dc0cf4",
+      "link": "https://www.doctorbangladesh.com/dr-md-salahuddin-shahed-chowdhury/",
+      "imageId": "b84ad325-6db8-4ede-9d35-670a0d59cbf6",
       "name": "Dr. Md. Salahuddin Shahed Chowdhury",
       "degree": "MBBS, BCS (Health), MD (Hepatology)",
       "specialty": "Liver & Endoscopy Specialist",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Chevron Clinical Laboratory, Chittagong\nAddress: 12/12, O.R Nizam Road, Panchlaish, Chattogram\nVisiting Hour: 4pm to 7pm (Closed: Friday)\nAppointment: +8801755666969\nCall Now",
+      "info": "Chevron Clinical Laboratory, Chittagong Address: 12/12, O.R Nizam Road, Panchlaish, Chattogram Visiting Hour: 4pm to 7pm (Closed: Friday) Appointment: +8801755666969 Call Now",
       "chamber": {
         "hospital": "Epic Healthcare, Chittagong",
         "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "6.30pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801984499600"
-      },
-      "id": "8fa4b65d-708c-473d-9bbf-15686be780d3"
+        "appointmentNumber": "+8801984499600Call Now"
+      }
     }
   ]
 }

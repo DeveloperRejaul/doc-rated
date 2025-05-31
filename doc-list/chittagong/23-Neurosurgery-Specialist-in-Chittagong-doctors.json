@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "2333d195-d25d-4001-b8c7-9ba248c13a02",
+      "departmentId": "6b05d918-d215-4015-abd3-40f20287b5c6",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-kamal-uddin/",
+      "imageId": "46e05dc3-9588-4cf2-910a-521bcb05b6e6",
       "name": "Prof. Dr. M. Kamal Uddin",
       "degree": "MBBS, MS (Neurosurgery)",
       "specialty": "Brain, Nerve & Spinal Cord Specialist Surgeon",
@@ -10,39 +14,48 @@
         "hospital": "CSCR Hospital, Chittagong",
         "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
         "visitingTime": "6pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801887656565"
-      },
-      "id": "de8a38b8-d60a-4716-ad6d-2354dbc8bcbb"
+        "appointmentNumber": "+8801887656565Call Now"
+      }
     },
     {
+      "id": "05ed0bc3-501b-4f2c-970b-7ca2ff6bf607",
+      "departmentId": "6b05d918-d215-4015-abd3-40f20287b5c6",
+      "link": "https://www.doctorbangladesh.com/dr-md-anisul-islam-khan/",
+      "imageId": "d306f91a-1c20-4de5-8900-92ea7302f573",
       "name": "Dr. Md. Anisul Islam Khan",
       "degree": "MBBS, MS (Neurosurgery)",
       "specialty": "Brain, Nerve, Spine & Neurosurgery Specialist",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Evercare Hospital, Chattogram\nAddress: H1, Ananna R/A, CDA, Hathazari, Chattogram\nVisiting Hour: 9am to 5pm (Closed: Friday)\nAppointment: +8809610810663\nCall Now",
+      "info": "Evercare Hospital, Chattogram Address: H1, Ananna R/A, CDA, Hathazari, Chattogram Visiting Hour: 9am to 5pm (Closed: Friday) Appointment: +8809610810663 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Chittagong",
         "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "8pm to 10pm (Sat, Mon & Wednesday)",
-        "appointmentNumber": "+8809666787810"
-      },
-      "id": "92577753-5c24-495a-b9f5-86a412827208"
+        "appointmentNumber": "+8809666787810Call Now"
+      }
     },
     {
+      "id": "b42e1195-016d-4352-9793-b5b531636556",
+      "departmentId": "6b05d918-d215-4015-abd3-40f20287b5c6",
+      "link": "https://www.doctorbangladesh.com/dr-md-sanaullah-shamim/",
+      "imageId": "892fe3ed-5019-4095-8045-4c01f2f8ee37",
       "name": "Dr. Md. Sanaullah Shamim",
       "degree": "MBBS, BCS (Health), MS (Neurosurgery), FACS (USA)",
       "specialty": "Neurosurgery (Brain, Spine, Nerve, Stroke) Specialist & Surgeon",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Chevron Clinical Laboratory, Halishahar\nAddress: 993/2121, Agrabad Access Road, Halishahar, Chattogram\nVisiting Hour: 7.30pm to 10pm (Only Friday)\nAppointment: +8801701229090\nCall Now",
+      "info": "Chevron Clinical Laboratory, Halishahar Address: 993/2121, Agrabad Access Road, Halishahar, Chattogram Visiting Hour: 7.30pm to 10pm (Only Friday) Appointment: +8801701229090 Call Now",
       "chamber": {
         "hospital": "Chevron Clinical Laboratory, Chittagong",
         "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "4pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801755666969"
-      },
-      "id": "5992f009-8d9a-483f-b968-9754b65f20f1"
+        "appointmentNumber": "+8801755666969Call Now"
+      }
     },
     {
+      "id": "5132fc26-4f3c-4290-9bae-7db253876e01",
+      "departmentId": "6b05d918-d215-4015-abd3-40f20287b5c6",
+      "link": "https://www.doctorbangladesh.com/dr-s-m-noman-khaled-chowdhury/",
+      "imageId": "55f3fc78-ad7c-41e9-bc6c-f6c5a4893b07",
       "name": "Prof. Dr. S.M. Noman Khaled Chowdhury",
       "degree": "MBBS, MS (Neurosurgery)",
       "specialty": "Neurosurgery (Brain, Spine, Nerve Surgery) Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Chevron Clinical Laboratory, Chittagong",
         "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "7pm to 10pm (Everyday)",
-        "appointmentNumber": "+8801755666969"
-      },
-      "id": "7a42f930-c4c6-461f-b038-55bb7a5b6951"
+        "appointmentNumber": "+8801755666969Call Now"
+      }
     },
     {
+      "id": "644b5b02-fc38-4f19-8ce3-4f8dedbfbcc4",
+      "departmentId": "6b05d918-d215-4015-abd3-40f20287b5c6",
+      "link": "https://www.doctorbangladesh.com/dr-mdnasiruddin/",
+      "imageId": "4d52e543-6f8e-4988-be61-19b0e55d0535",
       "name": "Dr. Md. Nasir Uddin",
       "degree": "MBBS, MS (Neurosurgery)",
       "specialty": "Microscopic & Endoscopic Brain & Spine Surgeon",
@@ -66,11 +82,14 @@
         "hospital": "Evercare Hospital, Chattogram",
         "address": "H1, Ananna R/A, Oxygen - Kuwaish Rd, Hathazari, Chattogram",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8809610810663"
-      },
-      "id": "852d6e60-23e9-4be5-a471-c116039c5f32"
+        "appointmentNumber": "+8809610810663Call Now"
+      }
     },
     {
+      "id": "9f02929e-37d2-457a-b459-5a0f04147d71",
+      "departmentId": "6b05d918-d215-4015-abd3-40f20287b5c6",
+      "link": "https://www.doctorbangladesh.com/prof-dr-syed-m-moinuddin/",
+      "imageId": "b6ba6764-973c-46c0-8439-80dd259a6240",
       "name": "Prof. Dr. Syed M. Moinuddin",
       "degree": "MBBS, MS (Neurosurgery), PhD (Japan), FUAMS (USA), Post Doc (USA)",
       "specialty": "Neuro-Spinal Surgeon & Stroke Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Labaid Specialized Hospital, Chattogram",
         "address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
         "visitingTime": "6pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662828"
-      },
-      "id": "73c38784-aa39-4488-829c-0ec81e50252f"
+        "appointmentNumber": "+8801766662828Call Now"
+      }
     },
     {
+      "id": "577516d7-0274-4c17-a27e-0d7935b4adb7",
+      "departmentId": "6b05d918-d215-4015-abd3-40f20287b5c6",
+      "link": "https://www.doctorbangladesh.com/dr-md-rabiul-karim/",
+      "imageId": "22ff8d26-656e-4ee6-abcd-d4a765b05425",
       "name": "Dr. Md. Rabiul Karim",
       "degree": "MBBS, MS (Neurosurgery), Fellow Neurosurgery (India, Japan)",
       "specialty": "Neurosurgery Specialist",
@@ -94,25 +116,31 @@
         "hospital": "Medical Centre Hospital, Chittagong",
         "address": "953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801860008441"
-      },
-      "id": "26dae38f-5b5a-4b17-80ea-b140282ebade"
+        "appointmentNumber": "+8801860008441Call Now"
+      }
     },
     {
+      "id": "a8af7c80-3cec-4775-ac49-39b32bc01949",
+      "departmentId": "6b05d918-d215-4015-abd3-40f20287b5c6",
+      "link": "https://www.doctorbangladesh.com/dr-md-ismail-hossain/",
+      "imageId": "4d936dc8-7379-4462-84c7-0e4045b2ad43",
       "name": "Dr. Md. Ismail Hossain",
       "degree": "MBBS, MS (Neurosurgery), Fellow- Skullbase (Bangalore, India)",
       "specialty": "Neurosurgery (Brain, Nerve & Stroke Surgery) Specialist",
       "workplace": "National Institute of Neurosciences & Hospital",
-      "info": "Parkview Hospital, Chittagong\nAddress: 94/103, Katalganj Road, Panchlaish, Chattogram\nVisiting Hour: 7am to 10pm (Thursday) & 10am to 12pm (Friday)\nAppointment: +8801976113412\nCall Now",
+      "info": "Parkview Hospital, Chittagong Address: 94/103, Katalganj Road, Panchlaish, Chattogram Visiting Hour: 7am to 10pm (Thursday) & 10am to 12pm (Friday) Appointment: +8801976113412 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
         "address": "1/1 B, Kallyanpur, Dhaka",
         "visitingTime": "4.30pm to 6.30pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801976113412"
-      },
-      "id": "5c5c92e9-7e64-4b86-b050-24068a5bf649"
+        "appointmentNumber": "+8801976113412Call Now"
+      }
     },
     {
+      "id": "75aae6a8-da74-43ab-b30c-a3440e258468",
+      "departmentId": "6b05d918-d215-4015-abd3-40f20287b5c6",
+      "link": "https://www.doctorbangladesh.com/dr-md-monzurul-islam/",
+      "imageId": "cc80fba8-b56f-466a-82aa-8f2e708c5cb6",
       "name": "Dr. Md. Monzurul Islam",
       "degree": "MBBS, MS (Neurosurgery)",
       "specialty": "Neurosurgery (Brain, Nerve, Spine, Stroke Surgery) Specialist",
@@ -122,11 +150,14 @@
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "5pm to 9pm (Thu) & 9am to 12pm (Fri)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "1feb7a58-5d29-4dfe-b845-5eb8d99cd170"
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "e8abe863-3d6d-4b38-b8a6-85e672452b29",
+      "departmentId": "6b05d918-d215-4015-abd3-40f20287b5c6",
+      "link": "https://www.doctorbangladesh.com/dr-mahfujul-quader/",
+      "imageId": "a5269e2a-0841-4e6d-ab2b-cbd13da6870f",
       "name": "Dr. Mahfujul Quader",
       "degree": "MBBS, BCS (Health), MS (Neurosurgery)",
       "specialty": "Spinesurgeon & Neurosurgeon",
@@ -136,11 +167,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Chittagong",
         "address": "House # 12/A, Road # 02, Katalgonj, Panchlaish, Chattogram",
         "visitingTime": "7.30pm to 9pm (Closed: Friday & Saturday)",
-        "appointmentNumber": "+8801854-092936"
-      },
-      "id": "5ddccf34-51e4-46b0-8787-1efe09d3583a"
+        "appointmentNumber": "+8801854-092936Call Now"
+      }
     },
     {
+      "id": "2bbec09c-b711-44a0-bf05-d69588475b9c",
+      "departmentId": "6b05d918-d215-4015-abd3-40f20287b5c6",
+      "link": "https://www.doctorbangladesh.com/dr-aminur-rahman-azad/",
+      "imageId": "b89f6cc0-372a-4ec0-bcbc-09591927bf1b",
       "name": "Dr. Aminur Rahman Azad",
       "degree": "MBBS, MS (Neurosurgery)",
       "specialty": "Neurosurgery (Brain, Stroke, Spine Surgery) Specialist",
@@ -150,11 +184,14 @@
         "hospital": "Max Hospital & Diagnostic, Chittagong",
         "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801713998199"
-      },
-      "id": "64c4a073-8d30-4e78-a63a-73b395d0d0f5"
+        "appointmentNumber": "+8801713998199Call Now"
+      }
     },
     {
+      "id": "7597aab6-40ed-48b6-8869-e833c2e16b72",
+      "departmentId": "6b05d918-d215-4015-abd3-40f20287b5c6",
+      "link": "https://www.doctorbangladesh.com/dr-md-saiful-alam/",
+      "imageId": "5250c39d-d6db-48dd-8123-7923f6396020",
       "name": "Dr. Md. Saiful Alam",
       "degree": "MBBS, BCS (Health), MS (Neurosurgery)",
       "specialty": "Neurosurgery (Brain, Stroke, Spine Surgery) Specialist",
@@ -164,11 +201,14 @@
         "hospital": "Green Life Diagnostic & Research Center",
         "address": "2nd Floor, Nur Shopping Complex, Bandartila, Chattogram",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801819-635144"
-      },
-      "id": "266a81ab-3886-46ee-97ea-fd50bd87970b"
+        "appointmentNumber": "+8801819-635144Call Now"
+      }
     },
     {
+      "id": "b5263e07-9ffe-4664-8218-06ed40e9cf69",
+      "departmentId": "6b05d918-d215-4015-abd3-40f20287b5c6",
+      "link": "https://www.doctorbangladesh.com/dr-moinuddin-m-illius/",
+      "imageId": "debf1a39-79bd-4dae-b868-690a1701b4ed",
       "name": "Dr. Moinuddin M. Illius",
       "degree": "MBBS, MS (NEUROSURGERY)",
       "specialty": "Neurosurgery (Brain, Stroke, Injury, Spine, Nerve Surgery) Specialist",
@@ -178,9 +218,8 @@
         "hospital": "Popular Diagnostic Center, Chittagong",
         "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "4pm to 5pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787810"
-      },
-      "id": "c91d2421-7551-4739-a4da-789a3f269d3d"
+        "appointmentNumber": "+8809666787810Call Now"
+      }
     }
   ]
 }

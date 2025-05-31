@@ -1,20 +1,27 @@
 {
   "doctor": [
     {
+      "id": "c0e93062-e816-4d99-a4f1-9d11386efc0d",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-sk-md-afzal-uddin/",
+      "imageId": "45f5deca-a8bd-485d-86b1-35dbb52b285a",
       "name": "Dr. SK Md. Afzal Uddin",
       "degree": "MBBS, BCS (Health), MD (Internal Medicine)",
       "specialty": "Medicine Specialist",
       "workplace": "Rajshahi Medical College & Hospital (EX)Associate Professor & Head of Department (Medicine)Jashore Medical College (EX)",
-      "info": "Islami Bank Hospital, Rajshahi\nAddress: Building- 2 Room 132, Medical Mor, Laxmipur, Rajshahi – 6000\nVisiting Hour: 10am to 10pm (Sat to Thu). 10am to 8pm (Friday)\nAppointment: +8801777242536\nCall Now",
+      "info": "Islami Bank Hospital, Rajshahi Address: Building- 2 Room 132, Medical Mor, Laxmipur, Rajshahi – 6000 Visiting Hour: 10am to 10pm (Sat to Thu). 10am to 8pm (Friday) Appointment: +8801777242536 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "Building-1, Room-524. Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "12pm to 2pm & 3.30pm to 4pm",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "9b3e7c1d-7b78-4d06-a98d-2accc1b16baa"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "452e49ac-e896-4a93-b9c6-5eef5bc0291f",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-md-azizul-haque-azad/",
+      "imageId": "cb50446c-0fce-4f06-9acf-105827be6ecf",
       "name": "Prof. Dr. Md. Azizul Haque Azad",
       "degree": "MBBS, FCPS (Medicine), FRCP (Edinburgh), MRCP (UK)",
       "specialty": "Medicine & Rheumatology Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Micropath Diagnostic Center, Rajshahi",
         "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
         "visitingTime": "4pm to 11pm (Everyday)",
-        "appointmentNumber": "+8801724550544"
-      },
-      "id": "7b748e5e-0b37-4621-9d08-b718e2469c4e"
+        "appointmentNumber": "+8801724550544Call Now"
+      }
     },
     {
+      "id": "5159ace2-881f-4f5a-8ed0-d747ee3d577b",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-md-motiur-rahman/",
+      "imageId": "a73fe47b-5cfc-42d4-9a87-9a3b1a37f337",
       "name": "Dr. Md. Motiur Rahman",
       "degree": "MBBS, FCPS (Medicine), DEM (BIRDEM)",
       "specialty": "Medicine, Diabetes, Thyroid & Hormone Specialist",
@@ -38,25 +48,31 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "4:30pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "d83fd6c0-5caf-4e22-8880-273b48013059"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "233a3ac8-c849-41cd-9ccf-4ad2d329f981",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-md-nure-alam-siddiqui/",
+      "imageId": "b3cbb393-7103-4b6c-b73b-6c90c4073cdf",
       "name": "Dr. Md. Nure Alam Siddiqui",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Internal Medicine)",
       "specialty": "Medicine Specialist",
       "workplace": "Rajshahi Medical College & Hospital",
-      "info": "Islami Bank Hospital, Rajshahi\nAddress: Medical Mor, Laxmipur, Rajshahi – 6000\nVisiting Hour: 7pm to 9pm (Closed: Friday)\nAppointment: +8801777242536\nCall Now",
+      "info": "Islami Bank Hospital, Rajshahi Address: Medical Mor, Laxmipur, Rajshahi – 6000 Visiting Hour: 7pm to 9pm (Closed: Friday) Appointment: +8801777242536 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "3pm to 7pm (Friday: 10am to 12pm)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "88f4295b-ded1-40ae-9658-322bf8a81adb"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "d466b5b6-c55b-4fa2-bb63-0531c202b8e1",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-probir-mohan-basak/",
+      "imageId": "6adc7b9b-42b7-418c-b98e-5e62f6bd65ea",
       "name": "Dr. Prabir Mohan Basak",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MRCP (UK), FRCP (EDIN), FACP (USA)",
       "specialty": "Medicine & Rheumatology Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "3pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "3a098628-d95d-4a5b-9582-7b0700eb035c"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "f03d2562-d79f-445f-8d54-6d81f12baa2b",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-khalilur-rahman/",
+      "imageId": "8e6de246-04d0-412a-8587-c89345e06812",
       "name": "Prof. Dr. Md. Khalilur Rahman",
       "degree": "MBBS, FCPS (Medicine), MACP (USA)",
       "specialty": "Medicine Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "4pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "0ae3bb4a-7d95-40cb-b6b1-9ad9d3d37694"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "98ff5970-8c16-4859-b8ff-b22e590b6bb3",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/prof-dr-mohammad-hasan-tarik/",
+      "imageId": "bfd229b1-dcec-43a4-a370-557aa2ac717b",
       "name": "Prof. Dr. Mohammad Hasan Tarik",
       "degree": "MBBS, FCPS (Medicine)",
       "specialty": "Medicine, Diabetes & Chest Diseases Specialist",
@@ -94,11 +116,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "2:30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "596a1c23-8ee7-4e2c-8428-f7cf46ff8af8"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "815e2bab-5012-4227-8617-50a3e458e3cd",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-azizul-haque-med/",
+      "imageId": "9c0ae5fc-97af-47c1-ba2c-e0940f76c288",
       "name": "Prof. Dr. Md. Azizul Haque",
       "degree": "MBBS, MD (Medicine)",
       "specialty": "Medicine (All Diseases of Adults) Specialist",
@@ -108,11 +133,14 @@
         "hospital": "Islami Bank Hospital, Rajshahi",
         "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
         "visitingTime": "11am to 4pm (Closed: Friday)",
-        "appointmentNumber": "+8801777242536"
-      },
-      "id": "a607e0b3-2dd7-4423-9ff3-cfbda6d14203"
+        "appointmentNumber": "+8801777242536Call Now"
+      }
     },
     {
+      "id": "c8321206-38a4-473a-b3bc-28f726985550",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-abdullah-al-kafi/",
+      "imageId": "731e8232-a66f-4973-a88f-cfac868d450b",
       "name": "Dr. Md. Abdullah Al Kafi",
       "degree": "MBBS (Gold Medalist), MRCP (UK)",
       "specialty": "Medicine Specialist",
@@ -122,11 +150,14 @@
         "hospital": "Zamzam Islami Hospital, Rajshahi",
         "address": "Greater Road, Kazihata, Laxmipur, Rajshahi",
         "visitingTime": "3pm to 5pm & 8pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801711192600"
-      },
-      "id": "98d04981-9ec0-42b0-bfe2-c15cc3fd1b6a"
+        "appointmentNumber": "+8801711192600Call Now"
+      }
     },
     {
+      "id": "85ee8500-72cf-4fd0-8b6e-c203117379a6",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-bolai-chandra-sarker/",
+      "imageId": "de47b98b-1d3d-4f5b-8b83-d29aa4e028c0",
       "name": "Prof. Dr. Bolai Chandra Sarker",
       "degree": "MBBS (DMC), MCPS (Medicine), FCPS (Medicine)",
       "specialty": "Medicine Specialist",
@@ -136,11 +167,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "1pm to 4pm (Friday: 10am to 12:30pm) & 7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "c47d8e70-0fcc-496b-9f17-b7e4b06dcfff"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "3687061f-3d9e-4c3d-9e68-9d0a91750e1f",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-md-zahirul-haque/",
+      "imageId": "648632ab-9f45-4a56-ae9d-5568c02b89e4",
       "name": "Dr. Md. Zahirul Haque",
       "degree": "MBBS (DMC), FCPS (Medicine)",
       "specialty": "Medicine Specialist",
@@ -150,11 +184,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "5pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "86194c42-e981-4bf3-ae3c-144c761fe325"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "2c959dfc-27de-4092-a1e6-c63e36db1513",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-mahbubur-rahman-khan/",
+      "imageId": "ae01e47a-8dbf-4fe8-a6e6-2734c5ada042",
       "name": "Prof. Dr. Md. Mahbubur Rahman Khan",
       "degree": "MBBS, MCPS (Medicine), MD (Internal Medicine) BSMMU",
       "specialty": "Medicine Specialist",
@@ -164,11 +201,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "3pm to 10pm (Sat, Sun & Wed)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "9e3385ae-b4a4-4d24-aaf1-58f48182249a"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "f310dbfc-b211-45e5-9e42-4d2ee4e64d9a",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-md-azizul-haque-abdullah/",
+      "imageId": "967bbf56-b26b-42b2-a14c-c01f19d66ede",
       "name": "Dr. Md. Azizul Haque (Abdullah)",
       "degree": "MBBS, MD (Internal Medicine), FACP (USA)",
       "specialty": "Medicine (All Diseases of Adults) Specialist & Rheumatologist",
@@ -178,25 +218,31 @@
         "hospital": "Zamzam Islami Hospital, Rajshahi",
         "address": "Greater Road, Kazihata, Laxmipur, Rajshahi",
         "visitingTime": "11am to 5pm (Closed: Tue & Friday)",
-        "appointmentNumber": "+8801711192600"
-      },
-      "id": "e8e391c6-4d65-41bc-93ec-74dc2ced6f25"
+        "appointmentNumber": "+8801711192600Call Now"
+      }
     },
     {
+      "id": "3c1a880c-358f-4b4e-998e-2709919459b4",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-syed-mahbub-alam/",
+      "imageId": "21e05586-b808-4aba-957b-775a014da317",
       "name": "Dr. Syed Mahbub Alam (Liton)",
       "degree": "MBBS, BCS (Health), MD (Internal Medicine)",
       "specialty": "Medicine Specialist",
       "workplace": "Rajshahi Medical College & Hospital",
-      "info": "Rajshahi Royal Hospital & Diagnostic Center\nAddress: Laxmipur Mor, Rajshahi\nVisiting Hour: 4.30pm to 7.30pm (Closed: Friday)\nAppointment: +8801762685090\nCall Now",
+      "info": "Rajshahi Royal Hospital & Diagnostic Center Address: Laxmipur Mor, Rajshahi Visiting Hour: 4.30pm to 7.30pm (Closed: Friday) Appointment: +8801762685090 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "2:30pm to 7:00 (Closed: Tue & Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "fdb91cb4-9501-47a0-9a66-3138c16751cb"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "e61c060b-547c-44a5-b4be-f2628615de3c",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-motiur-rahman/",
+      "imageId": "71c1a6a9-4f45-4258-9644-6a5529dca2f0",
       "name": "Prof. Dr. Md. Motiur Rahman",
       "degree": "MBBS, FCPS (Medicine)",
       "specialty": "Medicine, Diabetes & Hormonal Diseases Specialist",
@@ -206,11 +252,14 @@
         "hospital": "Islami Bank Medical College & Hospital",
         "address": "Nowdapara, Rajshahi",
         "visitingTime": "10m to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801810000120"
-      },
-      "id": "6edacd75-c612-4959-b309-2d0ed950b948"
+        "appointmentNumber": "+8801810000120Call Now"
+      }
     },
     {
+      "id": "6b3ed11a-23c1-465d-a71b-1a8c7fe623f7",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-md-mohaimanul-haque-atique/",
+      "imageId": "4eaf9379-566c-42d6-95bd-c9c106c11453",
       "name": "Dr. Md. Mohaimanul Haque Atique",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MACP (America)",
       "specialty": "Medicine Specialist",
@@ -220,11 +269,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "3:30pm to 10pm (Friday: 10am to 1pm)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "f76a3436-013d-4af1-9f27-3b8caa7b1392"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "9e9480c2-ef97-403c-8044-d7b5903f12f1",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahbubur-rahman-khan-badshah/",
+      "imageId": "8550bcc5-9958-44ad-95e7-81f341b1350d",
       "name": "Dr. Md. Mahbubur Rahman Khan Badshah",
       "degree": "MBBS, MCPS, MD, FACP (USA), PhD",
       "specialty": "Internal Medicine Specialist",
@@ -234,11 +286,14 @@
         "hospital": "Medipath Diagnostic Complex, Rajshahi",
         "address": "Shuvecca View, Greater Road, Laxmipur, Kajihata, Rajshahi",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801712685297"
-      },
-      "id": "f87c780a-4aaa-4cf4-b794-22a21124c523"
+        "appointmentNumber": "+8801712685297Call Now"
+      }
     },
     {
+      "id": "ee9897cf-dd95-4564-a501-9095d3e63eea",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-nazmul-huda-sumon/",
+      "imageId": "2db2e000-ac2b-4d3a-b087-41ec71bfbae2",
       "name": "Dr. Nazmul Huda Sumon",
       "degree": "MBBS, FCPS (Medicine), MD (Internal Medicine), PhD, FACP (USA)",
       "specialty": "Medicine Specialist",
@@ -248,11 +303,14 @@
         "hospital": "Rajshahi Central Hospital",
         "address": "Mehedi Plaza, Greater Road, Laxmipur Mor, Rajshahi",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801997383940"
-      },
-      "id": "79d018d0-8115-42d0-902a-5708ecc7df0b"
+        "appointmentNumber": "+8801997383940Call Now"
+      }
     },
     {
+      "id": "d5646e8c-aa24-488a-8d74-ed0349f20968",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-abu-shahin-medicine/",
+      "imageId": "d5ab04c3-8766-4b5f-97d0-6d5a9c02a959",
       "name": "Dr. Abu Shahin",
       "degree": "MBBS, FCPS (Medicine), FACP (USA), MRCP (UK)",
       "specialty": "Medicine Specialist",
@@ -262,11 +320,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "4pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "c0bac93c-1159-41c3-aea4-5d67d8044a6d"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "b47e2e54-9cb6-4452-a75b-373ce74ebea1",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-ashoke-sorkar/",
+      "imageId": "3ab9a9e6-f7f9-4923-9d28-f49c800e5670",
       "name": "Dr. Ashoke Sorkar",
       "degree": "MBBS, BCS (Health), MD (Internal Medicine)",
       "specialty": "Medicine Specialist",
@@ -276,11 +337,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "3:30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "dad11c97-ce0f-4d79-b043-2b2beb8ed0cc"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "b4d00a5f-433d-46ca-be2a-5ede430b6bbc",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-partho-moni-bhattacharyya/",
+      "imageId": "287661de-a7e9-4545-9796-518ae4d7dd72",
       "name": "Dr. Partho Moni Bhattacharyya",
       "degree": "MBBS, MD (Medicine)",
       "specialty": "Medicine Specialist",
@@ -290,11 +354,14 @@
         "hospital": "Rajshahi Metropolitan Hospital",
         "address": "C&B Mor, Laxmipur, Kazihata, Rajshahi",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766865711"
-      },
-      "id": "2fa32a2c-e455-49b7-ae76-5717ad9daac2"
+        "appointmentNumber": "+8801766865711Call Now"
+      }
     },
     {
+      "id": "5b5bcf5d-d68e-4e73-a3db-b3e73ade4644",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdul-baset/",
+      "imageId": "29e17578-774c-4450-8d05-b66657e31b1f",
       "name": "Dr. Md. Abdul Baset",
       "degree": "MBBS, FCPS (Medicine)",
       "specialty": "Medicine, Diabetes & Chest Diseases Specialist",
@@ -304,11 +371,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "4pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "78611dec-2d03-4899-8268-1c557d134614"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "b7f2bcbf-fee9-46bc-8255-1e32f908a71a",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-md-amzad-hossain-sardar/",
+      "imageId": "a4d86bff-15e3-463d-8836-4aada1a9597c",
       "name": "Dr. Md. Amzad Hossain Sardar",
       "degree": "MBBS, MD (Medicine), MACP (USA)",
       "specialty": "Medicine Specialist",
@@ -318,11 +388,14 @@
         "hospital": "Rajshahi Model Hospital",
         "address": "United Plaza, Laxmipur Mor, Rajshahi",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801773844844"
-      },
-      "id": "30309449-49e8-4c52-bc57-016b3109bd79"
+        "appointmentNumber": "+8801773844844Call Now"
+      }
     },
     {
+      "id": "7d7c4c9b-84d6-4e71-8f80-fd2b03c9e150",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-umme-habiba-joti/",
+      "imageId": "98414ff1-f91b-4cd5-b866-3acb426f42be",
       "name": "Dr. Umme Habiba Joti",
       "degree": "MBBS, BCS (Health), FCPS (Medicine)",
       "specialty": "Medicine Specialist",
@@ -332,11 +405,14 @@
         "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
         "address": "Laxmipur Mor, Rajshahi",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801762685090"
-      },
-      "id": "25886b96-ed32-49bd-b45c-9f48e18d2b49"
+        "appointmentNumber": "+8801762685090Call Now"
+      }
     },
     {
+      "id": "8ad471ff-5352-4df1-8645-c18a991fa7da",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahidul-islam-med/",
+      "imageId": "81222638-f4a4-4589-9e78-f4997cdf358b",
       "name": "Dr. Md. Shahidul Islam",
       "degree": "MBBS, MD (Internal Medicine)",
       "specialty": "Medicine Specialist",
@@ -346,11 +422,14 @@
         "hospital": "Islami Bank Hospital, Rajshahi",
         "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
         "visitingTime": "2.30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801777242536"
-      },
-      "id": "23dbee12-04ee-4c56-97d6-84a23be811a9"
+        "appointmentNumber": "+8801777242536Call Now"
+      }
     },
     {
+      "id": "9a1aade7-01fd-4baf-aa97-fcca2a9ab5a7",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-md-toufiqul-islam-helal/",
+      "imageId": "b3723952-6d7f-47bd-a6b9-957fad33370b",
       "name": "Dr. Md. Towfiqul Islam (Helal)",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MACP (USA)",
       "specialty": "Medicine, Diabetes & Rheumatology Specialist",
@@ -360,11 +439,14 @@
         "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
         "address": "Laxmipur Mor, Rajshahi",
         "visitingTime": "3pm to 9pm (Sat, Sun, Tue & Wed)",
-        "appointmentNumber": "+8801965738191"
-      },
-      "id": "23965cc8-4447-4508-b86c-319d4d64ffc8"
+        "appointmentNumber": "+8801965738191Call Now"
+      }
     },
     {
+      "id": "965b208f-cd93-4168-a341-56c7130d59d0",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-md-mohidul-alam/",
+      "imageId": "f0ddb34d-e3b0-4170-89e8-76d3ca8cb3f0",
       "name": "Dr. Md. Mohidul Alam",
       "degree": "MBBS, BCS (Health), FCPS (Medicine)",
       "specialty": "Medicine Specialist",
@@ -374,11 +456,14 @@
         "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
         "address": "Laxmipur Mor, Rajshahi",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801762685090"
-      },
-      "id": "4cc8c97e-dab6-486f-b490-91ab32a3d903"
+        "appointmentNumber": "+8801762685090Call Now"
+      }
     },
     {
+      "id": "c0e39573-e61f-442e-96e5-8b974e407bb8",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-md-aminul-islam-cotton/",
+      "imageId": "e1c780c7-06fb-419b-9bfd-f71c2ed66f41",
       "name": "Dr. Md. Aminul Islam (Cotton)",
       "degree": "MBBS, BCS (Health), MCPS (Medicine), FCPS (Medicine)",
       "specialty": "Medicine Specialist",
@@ -388,11 +473,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "3pm to 9pm (Friday: 6pm to 8pm)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "bb3aee8e-56ae-45f1-81bb-c1815917a20a"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "6840311d-e529-43ae-a46e-159f91a64702",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-wahida-pervin-rani/",
+      "imageId": "73aadcdb-b7f7-4a08-a1e9-e7437c839174",
       "name": "Dr. Wahida Pervin Rani",
       "degree": "MBBS, FCPS (Medicine)",
       "specialty": "Medicine (All Diseases of Adults) Specialist",
@@ -402,11 +490,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "7e25c8e1-e4ab-4ca0-8a0b-2372900c3db7"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "8620e1c2-f275-46c1-97c5-f9c652bbcbc4",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-sheikh-md-abdullah-al-mamun/",
+      "imageId": "fa076b1b-ad2a-4fe3-bb9b-4bc9e82c4325",
       "name": "Dr. Sheikh Md. Abdullah Al Mamun",
       "degree": "MBBS, MD (Medicine), MACP (USA)",
       "specialty": "Medicine Specialist",
@@ -416,11 +507,14 @@
         "hospital": "Labaid Diagnostic, Rajshahi",
         "address": "House # 621, Shershah Road, Rajpara, Laxmipur, Rajshahi - 6000",
         "visitingTime": "3.30pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801766661144"
-      },
-      "id": "935e8bea-1848-4b93-ba88-94fa9a0caebd"
+        "appointmentNumber": "+8801766661144Call Now"
+      }
     },
     {
+      "id": "0d537bb3-2378-4930-96ef-8ff64584b27a",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-md-akhtarul-islam/",
+      "imageId": "80e70ffa-4e69-483a-ae02-473fd51a9784",
       "name": "Dr. Md. Akhtarul Islam",
       "degree": "MBBS, MD (Internal Medicine)",
       "specialty": "Medicine Specialist",
@@ -430,11 +524,14 @@
         "hospital": "Islami Bank Hospital, Rajshahi",
         "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
         "visitingTime": "3pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801777242536"
-      },
-      "id": "81608a0f-6b5b-4016-9c1c-834d1ece2841"
+        "appointmentNumber": "+8801777242536Call Now"
+      }
     },
     {
+      "id": "9106c212-9ba5-433c-a556-f9f1fcdf7c43",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-sheikh-md-afzal-uddin/",
+      "imageId": "f9758222-3929-4036-bd57-8803fc4b6a65",
       "name": "Dr. Sheikh. Md. Afzal Uddin",
       "degree": "MBBS, BCS (Health), MD (Internal Medicine)",
       "specialty": "Internal Medicine Specialist",
@@ -444,11 +541,14 @@
         "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
         "address": "Laxmipur Mor, Rajshahi",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801762685090"
-      },
-      "id": "ae621ee1-0180-4fb4-9876-55d6d633746a"
+        "appointmentNumber": "+8801762685090Call Now"
+      }
     },
     {
+      "id": "a7f1f64a-4ebe-40be-8df0-2c366fc261b9",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdur-razzaque/",
+      "imageId": "66f5ab3a-913f-4e32-9cd5-7559220ff520",
       "name": "Dr. Md. Abdur Razzaque",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MACP (USA)",
       "specialty": "Medicine Specialist",
@@ -458,11 +558,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "3pm to 9pm (Closed: Mon & Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "8ac38f24-2524-436a-a16e-396eee3f22ef"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "f41d5adb-df37-4893-9e0a-2873ec084146",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-farhana-yasmin/",
+      "imageId": "9c6d0aad-298b-465b-94f8-d3c1b42dde4b",
       "name": "Dr. Farhana Yasmin",
       "degree": "MBBS, MPH, MPhil, PhD Fellow",
       "specialty": "Public Health (Community Medicine) Specialist",
@@ -472,11 +575,14 @@
         "hospital": "Famous Diagnostic Center, Rajshahi",
         "address": "B-267, Greater Road, Kazihata, Laxmipur, Rajshahi",
         "visitingTime": "5pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801753713857"
-      },
-      "id": "5f992f24-45c4-44b5-82c4-5141fdbeb2ac"
+        "appointmentNumber": "+8801753713857Call Now"
+      }
     },
     {
+      "id": "19cc52b9-7916-499d-a7d9-04c1a78f9176",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-md-shamsul-alam-mukta/",
+      "imageId": "54b09cee-0faf-4d47-8d7d-0fdb77d5b007",
       "name": "Dr. Md. Shamsul Alam (Mukta)",
       "degree": "MBBS (RMC), MRCP (UK)",
       "specialty": "Medicine (All Diseases of Adults) Specialist",
@@ -486,25 +592,14 @@
         "hospital": "Al Arafa Clinic & Diagnostic Center, Rajshahi",
         "address": "Bornali Mor, Rajshahi",
         "visitingTime": "2pm to 4pm (Closed: Friday)",
-        "appointmentNumber": "+8801711359480"
-      },
-      "id": "05ce1097-fb5e-4220-86b3-22208b2ddc10"
+        "appointmentNumber": "+8801711359480Call Now"
+      }
     },
     {
-      "name": "Dr. Rifat Farzina Mithila",
-      "degree": "MBBS, MRCP (Edinburgh, UK)",
-      "specialty": "Medicine Specialist",
-      "workplace": "Apollo Hospital, Dhaka",
-      "info": "Dr. Rifat Farzina Mithila is a Medicine Specialist in Rajshahi. Her qualification is MBBS, MRCP (Edinburgh, UK). She is working as a Medicine Specialist doctor in Apollo Hospital, Dhaka. She regularly provides treatment to her patients at Metro Diagnostic Center, Rajshahi. Practicing hour of Dr. Rifat Farzina Mithila at Metro Diagnostic Center, Rajshahi is 5pm to 6pm (Closed: Friday).",
-      "chamber": {
-        "hospital": "Metro Diagnostic Center, Rajshahi",
-        "address": "Ghoshpara Mor, Sipaipara, Rajshahi",
-        "visitingTime": "5pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801911024385"
-      },
-      "id": "4114fcc9-fac4-4cda-a862-4ab9278425ce"
-    },
-    {
+      "id": "5352d586-01c2-458f-8fc9-98c75ff2e657",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-zillur-rahman/",
+      "imageId": "df766501-378a-4548-9e9a-543c5edc6e3a",
       "name": "Dr. Zillur Rahman",
       "degree": "MBBS, FCPS (Medicine)",
       "specialty": "Medicine Specialist",
@@ -514,11 +609,31 @@
         "hospital": "Islami Bank Hospital, Rajshahi",
         "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
         "visitingTime": "11am to 3pm (Closed: Friday)",
-        "appointmentNumber": "+8801777242536"
-      },
-      "id": "3aa9d01e-d4b4-46f7-818d-c1312855150e"
+        "appointmentNumber": "+8801777242536Call Now"
+      }
     },
     {
+      "id": "2a123201-7022-4b8f-8c33-4e6dc0505fc5",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-rifat-farzina-mithila/",
+      "imageId": "136c180c-83a8-47d3-b007-4c63818b897a",
+      "name": "Dr. Rifat Farzina Mithila",
+      "degree": "MBBS, MRCP (Edinburgh, UK)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Apollo Hospital, Dhaka",
+      "info": "Dr. Rifat Farzina Mithila is a Medicine Specialist in Rajshahi. Her qualification is MBBS, MRCP (Edinburgh, UK). She is working as a Medicine Specialist doctor in Apollo Hospital, Dhaka. She regularly provides treatment to her patients at Metro Diagnostic Center, Rajshahi. Practicing hour of Dr. Rifat Farzina Mithila at Metro Diagnostic Center, Rajshahi is 5pm to 6pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Metro Diagnostic Center, Rajshahi",
+        "address": "Ghoshpara Mor, Sipaipara, Rajshahi",
+        "visitingTime": "5pm to 6pm (Closed: Friday)",
+        "appointmentNumber": "+8801911024385Call Now"
+      }
+    },
+    {
+      "id": "738d7cd5-d5b2-4ced-89e1-3e9352493348",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-md-asif-hossain/",
+      "imageId": "ba0f21f8-f50e-4035-b76b-4373a897a1fd",
       "name": "Dr. Md. Asif Hossain",
       "degree": "MBBS (DMC), BCS (Health), MRCP (UK), MRCP (London), SCE (Neurology, UK), FCPS (Medicine)",
       "specialty": "Internal Medicine Specialist",
@@ -528,11 +643,14 @@
         "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
         "address": "Room-205, First Floor, Laxmipur, Rajshahi",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+88 01712240340"
-      },
-      "id": "ed28db4e-2120-43cb-b33f-7dbd1f2eb7b5"
+        "appointmentNumber": "+88 01712240340Call Now"
+      }
     },
     {
+      "id": "acf0dc0c-9a42-49ac-b4d5-594cd4acf24d",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-elora-parveen/",
+      "imageId": "34f846c4-c63a-4dc4-8045-a399ceec4773",
       "name": "Dr. Elora Parveen",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Internal Medicine), CCD (BIRDEM)",
       "specialty": "Medicine Specialist",
@@ -542,39 +660,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "9d4463cf-80f7-43ba-85ce-4914d3b1ac00"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
-      "name": "Dr. Md. Mamun-Or-Roshid",
-      "degree": "MBBS, BCS (Health), FCPS (Medicine), MCPS, MD (Gastroenterology), FACP (USA)",
-      "specialty": "Medicine & Gastroenterology Specialist",
-      "workplace": "Rajshahi Medical College & Hospital",
-      "info": "Dr. Md. Mamun-Or-Roshid is a Medicine Specialist and Gastroenterologist in Rajshahi. His qualification is MBBS, BCS (Health), FCPS (Medicine), MCPS, MD (Gastroenterology), FACP (USA). He is a Consultant (Medicine) at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Md. Mamun-Or-Roshid at Popular Diagnostic Center, Rajshahi is 3pm to 9pm (Closed: Friday).",
-      "chamber": {
-        "hospital": "Popular Diagnostic Center, Rajshahi",
-        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
-        "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "6a360262-5d30-43b1-9dc5-18900375f1c1"
-    },
-    {
-      "name": "Dr. Shah Md. Roushan Kobir Choudhury",
-      "degree": "MBBS, BCS (Health), FCPS (Medicine), MACP (America)",
-      "specialty": "Medicine Specialist",
-      "workplace": "Rajshahi Medical College & Hospital",
-      "info": "Dr. Shah Md. Roushan Kobir Choudhury is a Medicine Specialist in Rajshahi. His qualification is MBBS, BCS (Health), FCPS (Medicine), MACP (America). He is a Consultant (Medicine) at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Shah Md. Roushan Kobir Choudhury at Popular Diagnostic Center, Rajshahi is 3.30pm to 9.30pm (Closed: Friday).",
-      "chamber": {
-        "hospital": "Popular Diagnostic Center, Rajshahi",
-        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
-        "visitingTime": "3.30pm to 9.30pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "fa57e1f8-2dda-4099-85a0-f561bc5337ca"
-    },
-    {
+      "id": "2eb43034-6fd1-484d-909f-c940ba0e2187",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-md-ariful-hasan/",
+      "imageId": "a6c8be84-48b0-4f8f-8e90-d7af6ab19d97",
       "name": "Dr. Md. Ariful Hasan",
       "degree": "MBBS (DMC), BCS (Health), MD (Internal Medicine) BSMMU, MACP (USA)",
       "specialty": "Medicine Specialist",
@@ -584,9 +677,42 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "4pm to 7pm (Everyday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "50f2975f-b478-46fa-b286-3743dc5abf21"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
+    },
+    {
+      "id": "6a6a4e1b-843a-4485-8d0a-4609a96e57f6",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-md-mamun-or-roshid/",
+      "imageId": "b11119db-868a-4611-a6b7-28d7101f481d",
+      "name": "Dr. Md. Mamun-Or-Roshid",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), MCPS, MD (Gastroenterology), FACP (USA)",
+      "specialty": "Medicine & Gastroenterology Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Md. Mamun-Or-Roshid is a Medicine Specialist and Gastroenterologist in Rajshahi. His qualification is MBBS, BCS (Health), FCPS (Medicine), MCPS, MD (Gastroenterology), FACP (USA). He is a Consultant (Medicine) at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Md. Mamun-Or-Roshid at Popular Diagnostic Center, Rajshahi is 3pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "3pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787811Call Now"
+      }
+    },
+    {
+      "id": "dd4c97bd-76e9-494c-840d-d82ace08eb32",
+      "departmentId": "d62f265f-2239-47f1-bbc1-86c1f4bc8f97",
+      "link": "https://www.doctorbangladesh.com/dr-shah-md-roushan-kobir-choudhury/",
+      "imageId": "548ea7d0-9bd7-4188-bd2d-dfa0bee8ce4f",
+      "name": "Dr. Shah Md. Roushan Kobir Choudhury",
+      "degree": "MBBS, BCS (Health), FCPS (Medicine), MACP (America)",
+      "specialty": "Medicine Specialist",
+      "workplace": "Rajshahi Medical College & Hospital",
+      "info": "Dr. Shah Md. Roushan Kobir Choudhury is a Medicine Specialist in Rajshahi. His qualification is MBBS, BCS (Health), FCPS (Medicine), MACP (America). He is a Consultant (Medicine) at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Shah Md. Roushan Kobir Choudhury at Popular Diagnostic Center, Rajshahi is 3.30pm to 9.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Rajshahi",
+        "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
+        "visitingTime": "3.30pm to 9.30pm (Closed: Friday)",
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     }
   ]
 }

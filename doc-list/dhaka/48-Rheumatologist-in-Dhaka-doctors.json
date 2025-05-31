@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "c04341a8-91af-42e0-a392-ea6f36836f1b",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-syed-atiqul-haq/",
+      "imageId": "411031d1-5ffa-4079-a1ed-777642367990",
       "name": "Prof. Dr. Syed Atiqul Haq",
       "degree": "MBBS, FCPS (Medicine), FRCP, MD (Rheumatology)",
       "specialty": "Rheumatology & Medicine Specialist",
@@ -10,39 +14,48 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "4pm to 11:55pm (Closed: Friday & Saturday)",
-        "appointmentNumber": "+8801916267769"
-      },
-      "id": "797a57cd-fd3f-4ae0-8505-f2f3a37d909c"
+        "appointmentNumber": "+8801916267769Call Now"
+      }
     },
     {
+      "id": "e684df5e-dd69-4b73-8609-53835a4969e3",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/dr-habib-imtiaz-ahmed/",
+      "imageId": "e996fd7b-8940-4fcc-984e-d8f1ee8610d8",
       "name": "Asso. Prof. Dr. Habib Imtiaz Ahmed",
       "degree": "MBBS (Dhaka), MRCP(UK), MD (Rheumatology-BSMMU)",
       "specialty": "Rheumatology (Arthritis, Osteoarthritis, Gout & Pain) Specialist",
       "workplace": "Enam Medical College & Hospital",
-      "info": "Enam Medical College & Hospital\nAddress: 9/3 Parboti Nagar, Thana Road, Savar, Dhaka\nVisiting Hour: 9am to 5pm (Closed: Friday)\nAppointment: +8801701777782\nCall Now",
+      "info": "Enam Medical College & Hospital Address: 9/3 Parboti Nagar, Thana Road, Savar, Dhaka Visiting Hour: 9am to 5pm (Closed: Friday) Appointment: +8801701777782 Call Now",
       "chamber": {
         "hospital": "BRB Hospital, Dhaka",
         "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801701777782"
-      },
-      "id": "6d59dc46-a1a4-43f5-832a-8643ccfca0fa"
+        "appointmentNumber": "+8801701777782Call Now"
+      }
     },
     {
+      "id": "4f128098-efde-4fea-80f4-ab665236ce26",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/dr-md-kamrul-hasan-sajib/",
+      "imageId": "ffff4583-fc86-467a-9e15-86d814742513",
       "name": "Dr. Md. Kamrul Hasan Sajib",
       "degree": "MBBS, BCS (Health), MD (Rheumatology), ECRD (Switzerland), Fellow Member, ACR (USA)",
       "specialty": "Rheumatology, Arthritis & Pain Specialist",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Ibn Sina Diagnostic Center, Comilla\nAddress: House # 29, Kotbari Road, Tomsom Bridge, Cumilla\nVisiting Hour: 10am to 5pm (Every Friday)\nAppointment: +8801841212275\nCall Now",
+      "info": "Ibn Sina Diagnostic Center, Comilla Address: House # 29, Kotbari Road, Tomsom Bridge, Cumilla Visiting Hour: 10am to 5pm (Every Friday) Appointment: +8801841212275 Call Now",
       "chamber": {
         "hospital": "Japan Bangladesh Friendship Hospital",
         "address": "55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi",
         "visitingTime": "7.30pm to 10pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801711-647877"
-      },
-      "id": "d3e6a5fc-e442-4623-9808-352ccb5f2b6a"
+        "appointmentNumber": "+8801711-647877Call Now"
+      }
     },
     {
+      "id": "6841c4db-7cc6-416c-903a-05df4c0d21ea",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/dr-m-s-alam-utsha/",
+      "imageId": "dc45b204-4f76-4a91-a5ab-ffa772c961c2",
       "name": "Dr. M S Alam (Utsha)",
       "degree": "MBBS, FCPS (Medicine), FCPS ( Gastroenterology, Thesis), CCD (BIRDEM), EDC (BIRDEM), C-CARD",
       "specialty": "Medicine, Gastroliver, Rheumatology, Hormone & Diabetes Specialist",
@@ -52,25 +65,31 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "Room 505, House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "4pm to 9pm (Sat to Thu) & 7:30pm to 10pm (Friday)",
-        "appointmentNumber": "+8801872777770"
-      },
-      "id": "05ac6d2d-0586-426c-b501-6c41f688bc52"
+        "appointmentNumber": "+8801872777770Call Now"
+      }
     },
     {
+      "id": "9f1781ea-804e-47aa-a927-d6faee3d2040",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/dr-nabil-amin-khan/",
+      "imageId": "2348edc6-937e-4b20-9280-1a0c79a5da80",
       "name": "Dr. Nabil Amin Khan",
       "degree": "MBBS, BCS (Health), MD (Rheumatology), ECRD (Switzerland)",
       "specialty": "Rheumatology (Arthritis, Gout, Lupus, Pain) & Medicine Specialist",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Micare Health\nAddress: Shyamoli Cinema Hall Building Complex3rd Floor (Lift-3), Ring Road, Shyamoli, Dhaka\nVisiting Hour: 4pm to 6pm (Saturday to Wednesday)\nAppointment: +8801898803000\nCall Now",
+      "info": "Micare Health Address: Shyamoli Cinema Hall Building Complex3rd Floor (Lift-3), Ring Road, Shyamoli, Dhaka Visiting Hour: 4pm to 6pm (Saturday to Wednesday) Appointment: +8801898803000 Call Now",
       "chamber": {
         "hospital": "Islami Bank Central Hospital, Kakrail",
         "address": "30, Anjuman Mofidul Islam Road, Kakrail, Dhaka",
         "visitingTime": "7.30pm to 10pm (Saturday to Wednesday)",
-        "appointmentNumber": "+8801810000116, +8801915728266"
-      },
-      "id": "0b2f473d-b0c4-45e4-a7f9-5d06c20c4f36"
+        "appointmentNumber": "+8801810000116, +8801915728266Call Now"
+      }
     },
     {
+      "id": "70468593-977d-423e-b1a2-366129acd024",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-golam-kibria-khan/",
+      "imageId": "04843f02-9e8b-4d02-830e-95875641770d",
       "name": "Prof. Dr. Md. Golam Kibria Khan",
       "degree": "MBBS, FCPS (Medicine), MACP (USA), FACP (USA) , Fellow Rheumatology (USA)",
       "specialty": "Rheumatology, Arthritis & Medicine Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "6pm to 11pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "35d9e3b4-99c6-474c-a503-783802b5d991"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "09a6dd4f-2326-46a3-b5c5-217705e7a8ec",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/dr-md-shoaib-momen-majumder/",
+      "imageId": "98c394b3-63b2-419f-ab51-182f78d72fbe",
       "name": "Dr. Muhammad Shoaib Momen Majumder",
       "degree": "MBBS, FCPS (Medicine), MACP (USA), MD (Rheumatology)",
       "specialty": "Rheumatology & Medicine Specialist",
@@ -94,11 +116,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "5.30pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "4caebf12-145c-4e37-960e-56903c25e614"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "53364aa8-f64f-4032-80fe-cf78ff5f928e",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-minhaj-rahim-choudhury/",
+      "imageId": "ed4f1e04-e58e-4444-88e2-7f7a18b3ab11",
       "name": "Prof. Dr. Minhaj Rahim Choudhury",
       "degree": "MBBS FCPS, MD, DTCD, FACR (USA), Fellow (Rheumatology, UK)",
       "specialty": "Rheumatology, Chest & Medicine Specialist",
@@ -108,11 +133,14 @@
         "hospital": "Japan Bangladesh Friendship Hospital",
         "address": "55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi",
         "visitingTime": "6pm to 10pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+88029672277"
-      },
-      "id": "a51ceeea-f159-4e46-a5b8-592340f784ac"
+        "appointmentNumber": "+88029672277Call Now"
+      }
     },
     {
+      "id": "822f99e0-f327-42ce-86f3-cf43a24c6fca",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-syed-mozaffar-ahmed/",
+      "imageId": "c6371c42-1b07-48eb-a346-83adef114468",
       "name": "Prof. Dr. Syed Mozaffar Ahmed",
       "degree": "MBBS, FCPS (Physical Medicine), PhD (Rheumatology), MACP (USA)",
       "specialty": "Physical Medicine & Rheumatology Specialist",
@@ -122,25 +150,31 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "5pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "ce9703a5-49ac-44bd-9f62-d33ee621f1c8"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "6f4d222b-b446-47fc-a6a0-583140d4dfbe",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-a-k-ahmedullah/",
+      "imageId": "c11ea22e-052e-4432-bbe4-9a4dbdeaece3",
       "name": "Prof. Dr. A. K. Ahmedullah",
       "degree": "MBBS, MD (Internal Medicine), MD (Rheumatology)",
       "specialty": "Medicine & Rheumatology Specialist",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Comfort Diagnostic Center, Dhanmondi\nAddress: 167/B, Green Road, Dhanmondi, Dhaka – 1205\nVisiting Hour: 2pm to 3pm (Closed: Thursday & Friday)\nAppointment: +8801731956033\nCall Now",
+      "info": "Comfort Diagnostic Center, Dhanmondi Address: 167/B, Green Road, Dhanmondi, Dhaka – 1205 Visiting Hour: 2pm to 3pm (Closed: Thursday & Friday) Appointment: +8801731956033 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "3pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "8fae55fe-56bb-4999-9e22-f9b2b24301b2"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "196b931f-4bdf-4101-a4e0-e49451ff2be4",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-nazrul-islam-medicine/",
+      "imageId": "49000730-3d6a-488b-8aff-44225c881a51",
       "name": "Prof. Dr. Md. Nazrul Islam",
       "degree": "MBBS, FCPS (Medicine), MD (Internal Medicine), Rheumatology Fellowship (Australia)",
       "specialty": "Rheumatology & Medicine Specialist",
@@ -150,11 +184,14 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801912475009"
-      },
-      "id": "87523f0f-5fc0-403a-946b-0df232d773c4"
+        "appointmentNumber": "+8801912475009Call Now"
+      }
     },
     {
+      "id": "1d45e9fe-2ec8-413b-b263-e25a1c063d19",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/dr-rowsan-ara-swapna/",
+      "imageId": "cc70c948-f701-435f-a988-7cd6cc1a098b",
       "name": "Dr. Rowsan Ara Swapna",
       "degree": "MBBS, FCPS (Medicine), MD (Rheumatology), Fellow in Rheumatology (APLAR)",
       "specialty": "Rheumatology, Arthritis & Medicine Specialist",
@@ -164,25 +201,31 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "4pm to 8pm (Sat, Sun, Mon & Wed)",
-        "appointmentNumber": "+8801828642722"
-      },
-      "id": "74950f13-3259-4669-b2df-5a61accf7a7f"
+        "appointmentNumber": "+8801828642722Call Now"
+      }
     },
     {
+      "id": "419eeabd-d662-4ade-b52b-8f614a8f2af3",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-abul-kalam-azad/",
+      "imageId": "fa2e8ac8-a2c9-49b1-8905-71def1a1b489",
       "name": "Dr. Mohammad Abul Kalam Azad",
       "degree": "MBBS, FCPS (Medicine), MD (Rheumatology)",
       "specialty": "Arthritis, Pain, Paralysis, Rheumatology & Medicine Specialist",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Japan Bangladesh Friendship Hospital\nAddress: 55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi\nVisiting Hour: 3pm to 6pm (Closed: Tuesday & Friday)\nAppointment: +88029672277\nCall Now",
+      "info": "Japan Bangladesh Friendship Hospital Address: 55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi Visiting Hour: 3pm to 6pm (Closed: Tuesday & Friday) Appointment: +88029672277 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "7pm to 9.30pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "5a62bc98-26a8-4ac9-9d56-15e58498ae1d"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
+      "id": "9474aecc-db83-4974-8078-3db1a8723d66",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/dr-abu-shahin/",
+      "imageId": "a87e9fe1-228b-4881-815b-ba4d7ab7a5c9",
       "name": "Prof. Dr. Md. Abu Shahin",
       "degree": "MBBS, FCPS (Medicine), MD (Rheumatology), Fellow-Rheumatology (Singapore)",
       "specialty": "Rheumatology (Arthritis, Gout, Lupus, Pain) & Medicine Specialist",
@@ -192,25 +235,31 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 01, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "6pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801755553666"
-      },
-      "id": "33a053d4-cc19-40ad-b65a-c9378f8ab9ed"
+        "appointmentNumber": "+8801755553666Call Now"
+      }
     },
     {
+      "id": "c67057b5-4400-4751-9190-9e13bab120cc",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/dr-tarek-mahmood/",
+      "imageId": "fc0a8320-c12c-4463-8025-9f48d804698d",
       "name": "Prof. Dr. Tarek Mahmood",
       "degree": "MBBS, FCPS (Medicine), MD (Rheumatology)",
       "specialty": "Arthritis, Osteoarthritis, Gout, Medicine & Rheumatology Specialist",
       "workplace": "Ad-Din Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, B.B. Road, Chashara, Narayanganj – 1400\nVisiting Hour: 2pm to 6pm (Sat, Mon & Wed)\nAppointment: +8809666787804\nCall Now",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, B.B. Road, Chashara, Narayanganj – 1400 Visiting Hour: 2pm to 6pm (Sat, Mon & Wed) Appointment: +8809666787804 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "5pm to 7pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "bc6322e7-26d7-4e6a-9044-d15a52c2e1ee"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "2e6319b1-d2b4-4d18-b354-41237f10158e",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-matiur-rahman/",
+      "imageId": "b20b85c1-d909-4285-b00b-05763bd3d2da",
       "name": "Prof. Dr. Md. Matiur Rahman",
       "degree": "MBBS, MD (Internal Medicine), FCPS, FACR (USA)",
       "specialty": "Rheumatology Medicine Specialist",
@@ -220,25 +269,31 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "10am to 1pm & 4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801913597059"
-      },
-      "id": "d7fae387-9870-4d70-bf5b-65f9a313c518"
+        "appointmentNumber": "+8801913597059Call Now"
+      }
     },
     {
+      "id": "b0a3f527-1bfe-4bd3-a64d-64805a7ba234",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-akm-motiur-rahman-bhuiyan/",
+      "imageId": "10d27679-5fb5-4266-82af-7466ba7af299",
       "name": "Prof. Dr. AKM Motiur Rahman Bhuiyan",
       "degree": "MBBS, MPH, MD (MEDICINE)",
       "specialty": "Medicine & Rheumatology Specialist",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Popular Diagnostic Center, Dhanmondi\nAddress: House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205\nVisiting Hour: 5:30pm to 7pm (Closed: Tuesday & Friday)\nAppointment: +8809666787801\nCall Now",
+      "info": "Popular Diagnostic Center, Dhanmondi Address: House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205 Visiting Hour: 5:30pm to 7pm (Closed: Tuesday & Friday) Appointment: +8809666787801 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Mirpur",
         "address": "Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka",
         "visitingTime": "9pm to 11pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787807"
-      },
-      "id": "bb593612-d43d-40ac-bb2e-788d8cb5aad9"
+        "appointmentNumber": "+8809666787807Call Now"
+      }
     },
     {
+      "id": "dbbbe1e4-ead7-42cf-ae6a-0b20bb73e613",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/dr-md-zahid-amin/",
+      "imageId": "bd0024d2-3dc7-4a0a-905f-05f7af31d520",
       "name": "Dr. Md. Zahid Amin",
       "degree": "MBBS (DMC), MCPS (Medicine), FCPS (Medicine), MACP (USA), MD (Rheumatology)",
       "specialty": "Medicine, Arthritis & Rheumatology Specialist",
@@ -248,11 +303,14 @@
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "df435f8e-af60-4fd7-a6bd-cd2c384121dd"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
+      "id": "cdf8a7d4-0307-4718-b9eb-99377a0bafcf",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/major-dr-syed-jamil-abdal-retd/",
+      "imageId": "4d35bdce-e064-4217-88c8-53ce4785b62c",
       "name": "Major Dr. Syed Jamil Abdal",
       "degree": "MBBS, FCPS (Medicine), FCPS (Rheumatology)",
       "specialty": "Medicine & Rheumatology Specialist",
@@ -262,11 +320,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "Room 206, 32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "4pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801777162580"
-      },
-      "id": "29b5882a-3604-4c3c-b731-f6b69fc8cd56"
+        "appointmentNumber": "+8801777162580Call Now"
+      }
     },
     {
+      "id": "fc3328c2-cf97-4836-a486-4ad0a667335b",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/dr-md-nahiduzzaman-shazzad/",
+      "imageId": "dd5104ad-90c6-4666-ab90-ac1a26dc1b68",
       "name": "Dr. Md. Nahiduzzamane Shazzad",
       "degree": "MBBS, FCPS (Medicine), MD (Rheumatology), MACP (USA)",
       "specialty": "Medicine specialist & Rheumatologist",
@@ -276,11 +337,14 @@
         "hospital": "Aurora Specialized Hospital",
         "address": "19/01, Kakrail, Dhaka (Opposite of Karnaphuli Garden City)",
         "visitingTime": "5pm to 9pm (Everyday)",
-        "appointmentNumber": "+8801404450400"
-      },
-      "id": "f28acf24-f22e-460b-a20c-fb717cf1b2fc"
+        "appointmentNumber": "+8801404450400Call Now"
+      }
     },
     {
+      "id": "c3a15286-31bc-4651-b9d1-80ec8d55384c",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-rajibul-alam/",
+      "imageId": "5fd06adb-e63d-4745-8757-fa76d920e2db",
       "name": "Prof. Dr. Rajibul Alam",
       "degree": "MBBS, FCPS (Medicine), MD (Rheumatology), MACP (USA)",
       "specialty": "Medicine & Rheumatology Specialist",
@@ -290,11 +354,14 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "11.30pm to 1.30pm & 6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801780315319"
-      },
-      "id": "9326606a-ede0-4ad7-a8d0-699c44d506ad"
+        "appointmentNumber": "+8801780315319Call Now"
+      }
     },
     {
+      "id": "9af3f673-ade9-4629-aff1-fab1f67eb332",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/dr-khondokar-mahabub-uz-zaman/",
+      "imageId": "9d192958-dbd9-4c7f-aac9-3834904ddc81",
       "name": "Dr. Khondokar Mahabub Uz Zaman",
       "degree": "MBBS, BCS (Health), MD",
       "specialty": "Rheumatology Medicine Specialist",
@@ -304,11 +371,14 @@
         "hospital": "Popular Diagnostic Center, Badda",
         "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka - 1212",
         "visitingTime": "7pm to 8:30pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809666787809"
-      },
-      "id": "77184eb0-9297-4ed4-8899-9bbd69d9128d"
+        "appointmentNumber": "+8809666787809Call Now"
+      }
     },
     {
+      "id": "d736aa82-0d17-419b-a96a-aac8b26ce678",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/dr-nadia-sultana/",
+      "imageId": "a9daa046-5daa-429a-ac79-c372ca5fb3eb",
       "name": "Dr. Nadia Sultana",
       "degree": "MBBS, MD (Rheumatology )",
       "specialty": "Rheumatology (Pain, Arthritis, Joint, Soft Tissue Problems) Specialist",
@@ -318,11 +388,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "5.30pm to 7.30pm (Closed: Wed & Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "c819559d-4300-4996-97bc-14ccf235b0d9"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "d745e529-9c1e-4555-83ff-1c38f133e7f2",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/dr-md-ariful-islam-rheumatologist/",
+      "imageId": "7cebbca0-665d-4635-8e86-a8dbff3692e4",
       "name": "Dr. Md. Ariful Islam",
       "degree": "MBBS, FCPS (Medicine), MD (Rheumatology)",
       "specialty": "Rheumatology (Arthritis, Pain, Musculoskeletal Ultrasound) Specialist",
@@ -332,11 +405,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "5pm to 10pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801921396137"
-      },
-      "id": "4682b96c-7d62-4c09-92ac-0e714acd5a2f"
+        "appointmentNumber": "+8801921396137Call Now"
+      }
     },
     {
+      "id": "3caa655a-0fbb-43b2-9760-5cae07b350f0",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/dr-tajkia-haque/",
+      "imageId": "c560fc00-7ef5-4aa2-8071-f3cb11dee1e8",
       "name": "Dr. Tajkia Haque",
       "degree": "MBBS (DMC), BCS (Health), MD (Rheumatology)",
       "specialty": "Rheumatology (Pain, Arthritis, Rheumatoid Arthritis, Gout, Lupus) Specialist",
@@ -346,11 +422,14 @@
         "hospital": "Central Hospital, Dhanmondi",
         "address": "House # 02, Road # 05, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "4pm to 6pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801321213964"
-      },
-      "id": "0a28dda5-18ab-4903-8fd6-fd71ef9e9a36"
+        "appointmentNumber": "+8801321213964Call Now"
+      }
     },
     {
+      "id": "be14fcb5-cb78-4a54-bf92-4086ed048b05",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/dr-md-ziaul-haider/",
+      "imageId": "c83c5269-1afe-445b-8c3d-db5ddb0e6359",
       "name": "Dr. Md. Ziaul Haider",
       "degree": "MBBS, BCS (Health), MD (Rheumatology), ECRD",
       "specialty": "Rheumatology (Pain, Arthritis) Specialist",
@@ -360,39 +439,48 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "bfb0984a-111f-4f2d-8851-edd5eff37fa6"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "6bc9f4f4-909a-49e7-9f93-942f9da288a9",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/dr-md-ekramul-islam/",
+      "imageId": "1443c549-3e39-4e1e-beee-e20ba1db80f4",
       "name": "Dr. Md. Ekramul Islam",
       "degree": "MBBS, BCS (Health), MD (Rheumatology)",
       "specialty": "Pain, Arthritis, Osteoarthritis, Gout & Rheumatology Specialist",
       "workplace": "Shaheed Suhrawardy Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, B.B. Road, Chashara, Narayanganj – 1400\nVisiting Hour: 10am to 4pm (Only Friday)\nAppointment: +8809666787804\nCall Now",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, B.B. Road, Chashara, Narayanganj – 1400 Visiting Hour: 10am to 4pm (Only Friday) Appointment: +8809666787804 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Doyagonj",
         "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
         "visitingTime": "3pm to 6pm (Sun, Tue & Thu), 10am to 1pm (Friday)",
-        "appointmentNumber": "+8801878115751"
-      },
-      "id": "8f75785e-9d32-4e90-bf80-dc62de91b014"
+        "appointmentNumber": "+8801878115751Call Now"
+      }
     },
     {
+      "id": "55ec0d61-6aae-4965-b9e8-6d2abb161853",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/dr-mohammed-yakub-ali/",
+      "imageId": "afb271c1-d0a3-4719-9afb-4bd8f72f96c8",
       "name": "Dr. Mohammed Yakub Ali",
       "degree": "MBBS, MPhil, MSc (Rheumatology), PhD (Rheumatology),",
       "specialty": "Rheumatologist & Laser Surgery Specialist",
       "workplace": "Anwer Khan Modern Medical College & Hospital",
-      "info": "Institute Of Laser Surgery & Hospital\nAddress: 5 New Eskaton Road, Gaous Nagor, Dhaka – 1000\nVisiting Hour: 7pm to 10pm (Fri, Sat & Mon)\nAppointment: +8801771259720\nCall Now",
+      "info": "Institute Of Laser Surgery & Hospital Address: 5 New Eskaton Road, Gaous Nagor, Dhaka – 1000 Visiting Hour: 7pm to 10pm (Fri, Sat & Mon) Appointment: +8801771259720 Call Now",
       "chamber": {
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "7pm to 10pm (Sun, Tue & Thursday)",
-        "appointmentNumber": "+8801771259720"
-      },
-      "id": "925bb997-2d51-4ca8-9bec-9273da693412"
+        "appointmentNumber": "+8801771259720Call Now"
+      }
     },
     {
+      "id": "30bba50b-e8c8-48ae-be2b-4810a7df0a90",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/dr-asif-hasan-khan/",
+      "imageId": "f12a415c-8a59-4c90-b9b4-789d3272182b",
       "name": "Dr. Asif Hasan Khan",
       "degree": "MBBS, BCS (Health), MD (Rheumatology)",
       "specialty": "Rheumatology Specialist",
@@ -402,11 +490,14 @@
         "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
         "address": "1/1 B, Kallyanpur, Dhaka",
         "visitingTime": "3pm to 5pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801703725590"
-      },
-      "id": "17b1e5dd-2dc7-48b2-ba4e-2106870f648e"
+        "appointmentNumber": "+8801703725590Call Now"
+      }
     },
     {
+      "id": "e282a99d-926b-4923-9f5c-54bab29002c6",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/dr-alamgir-mustak-ahamed/",
+      "imageId": "b49ac71f-c80f-4f8f-933c-b9834ac00d6d",
       "name": "Dr. Alamgir Mustak Ahamed",
       "degree": "MBBS, FCPS (Medicine), MD (Rheumatology)",
       "specialty": "Rheumatology & Medicine Specialist",
@@ -416,11 +507,14 @@
         "hospital": "Farazy Hospital, Banasree",
         "address": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
         "visitingTime": "7pm to 10pm (Sat & Thu)",
-        "appointmentNumber": "+8801882084414"
-      },
-      "id": "3e3305da-74b4-47d5-bd2e-5237fd8e0479"
+        "appointmentNumber": "+8801882084414Call Now"
+      }
     },
     {
+      "id": "3ae41b50-2309-4273-ade3-cc85ac151934",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/dr-a-t-m-tanveer-hasan/",
+      "imageId": "52619352-32e8-48f7-abbc-e3ee22856fb4",
       "name": "Dr. A.T.M. Tanveer Hasan",
       "degree": "MBBS, MD (Rheumatology, BSMMU)",
       "specialty": "Rheumatology (Pain, Arthritis, Musculoskeletal Ultrasound) Specialist",
@@ -430,11 +524,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "4pm to 10pm (Sat, Tue, Wed & Thu)",
-        "appointmentNumber": "+8801980536178"
-      },
-      "id": "32a40652-f340-4661-b887-79700fe11cbb"
+        "appointmentNumber": "+8801980536178Call Now"
+      }
     },
     {
+      "id": "e312f009-d5a9-40f3-9d17-a982dfe8b65d",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/prof-maj-gen-dr-md-shameem-haidar/",
+      "imageId": "6015f3dd-98a2-47f3-bb9c-1f09e635c640",
       "name": "Prof. Maj Gen. Dr. Md Shameem Haidar",
       "degree": "MBBS, FCPS (Internal Medicine)",
       "specialty": "Rheumatology & Medicine Specialist",
@@ -444,11 +541,14 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8809610010616"
-      },
-      "id": "a1c48093-c137-4213-b966-69cc518747f4"
+        "appointmentNumber": "+8809610010616Call Now"
+      }
     },
     {
+      "id": "fee61e66-42e4-44ba-bcbb-f632a54c9605",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/dr-nira-ferdous/",
+      "imageId": "91d64cb5-38e6-403b-91cd-2e6ad3fcdfff",
       "name": "Dr. Nira Ferdous",
       "degree": "MBBS, FCPS (Medicine), Member (APLAR)",
       "specialty": "Medicine, Rheumatology & Diabetes Specialist",
@@ -458,11 +558,14 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "2pm to 4pm (Closed: Friday)",
-        "appointmentNumber": "+880177326403"
-      },
-      "id": "bee031eb-ac19-4b87-b670-cb6c7c99808b"
+        "appointmentNumber": "+880177326403Call Now"
+      }
     },
     {
+      "id": "e547f133-dbb1-4940-bacc-3d5202fb5e5d",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/dr-md-masudul-hassan/",
+      "imageId": "37c6f830-bd4d-49fe-90aa-eb534dce5a29",
       "name": "Dr. Md. Masudul Hassan",
       "degree": "MBBS, MD (Internal Medicine), FCPS (Medicine), FCPS (Rheumatology)",
       "specialty": "Medicine & Rheumatology Specialist",
@@ -472,11 +575,14 @@
         "hospital": "Islami Bank Hospital, Motijheel",
         "address": "24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka",
         "visitingTime": "5pm to 7.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801727666741"
-      },
-      "id": "0f583ea0-9a26-4f6a-83c1-6bd5e41f60e6"
+        "appointmentNumber": "+8801727666741Call Now"
+      }
     },
     {
+      "id": "cdd78505-1112-410f-9e5c-1cc551520ce0",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-jahangir-ul-alam-sohel/",
+      "imageId": "3357b74b-7252-45a4-9a11-1fe076e5a449",
       "name": "Dr. Mohammad Jahangir Ul Alam Sohel",
       "degree": "MBBS, FCPS (Medicine), MD (Rheumatology)",
       "specialty": "Medicine & Rheumatology Specialist",
@@ -486,11 +592,14 @@
         "hospital": "Islami Bank Hospital, Motijheel",
         "address": "24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka",
         "visitingTime": "5.30pm to 8.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801727666741"
-      },
-      "id": "45ff3161-62c1-41aa-a4a8-7dae8d8bfc2a"
+        "appointmentNumber": "+8801727666741Call Now"
+      }
     },
     {
+      "id": "296d2ba5-ac86-4981-a9f4-9b7c107c7e3b",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/dr-sumon-kanti-mojumdar/",
+      "imageId": "78ac7149-a7b9-4e5c-8bac-081d96298f30",
       "name": "Dr. Sumon Kanti Mojumdar",
       "degree": "MBBS (Dhaka), MACP (America), MD-Rheumatology (BSMMU), FIPM (India), ECRD (Switzerland)",
       "specialty": "Rheumatologist & Medicine Specialist",
@@ -500,11 +609,14 @@
         "hospital": "BIRDEM Specialized Chamber Complex",
         "address": "Room - 28/A, Ground Floor, 122, Kazi Nazrul Islam Avenue, Shahbagh, Dhaka",
         "visitingTime": "2.30pm to 6.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801675485624"
-      },
-      "id": "73bc6233-3ef7-49ba-b870-007a4d0c8922"
+        "appointmentNumber": "+8801675485624Call Now"
+      }
     },
     {
+      "id": "bee55ddb-eeef-4775-8b96-c358ad09053c",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/dr-dewan-khairul-alam/",
+      "imageId": "14aeb9d1-f298-4646-a135-a8a68dd2270c",
       "name": "Dr. Dewan Khairul Alam",
       "degree": "MBBS, PGT (Medicine), MD (Medicine)",
       "specialty": "Pain, Arthritis, Rheumatology & Medicine Specialist",
@@ -514,11 +626,14 @@
         "hospital": "Medinova Medical Services, Dhanmondi",
         "address": "House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "10658"
-      },
-      "id": "fd725da4-a28e-4559-bb43-1906185ad837"
+        "appointmentNumber": "10658Call Now"
+      }
     },
     {
+      "id": "3f638277-7f89-4532-8edc-3cdf29bbe256",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/dr-shahin-mahmud/",
+      "imageId": "449ff1f5-4bd8-434f-97f3-26f411297e8a",
       "name": "Dr. Shahin Mahmud",
       "degree": "MBBS, BCS (Health), MD (Rheumatology), ECRD (Switzerland)",
       "specialty": "Rheumatology Specialist",
@@ -528,11 +643,14 @@
         "hospital": "Ibn Sina Medical Imaging Center, Zigatola",
         "address": "House # 58, Road # 2A, Zigatola Bus Stand, Dhaka - 1209",
         "visitingTime": "3pm to 4pm (Sat & Tue)",
-        "appointmentNumber": "+8801711625173"
-      },
-      "id": "8d57ef55-a0b3-4a4c-ad04-6c2e4db1f5c2"
+        "appointmentNumber": "+8801711625173Call Now"
+      }
     },
     {
+      "id": "5f8cdaa6-2bb0-4cae-9291-84a001643494",
+      "departmentId": "02d45fdc-06ab-424f-99df-e58202b12f2a",
+      "link": "https://www.doctorbangladesh.com/dr-sabrina-yesmin/",
+      "imageId": "eaefebf9-cde5-4378-bd94-8beed94caf75",
       "name": "Dr. Sabrina Yesmin",
       "degree": "MBBS, FCPS (Medicine), MD (Rheumatology)",
       "specialty": "Rheumatologist & Medicine Specialist",
@@ -542,9 +660,8 @@
         "hospital": "BIRDEM Specialized Chamber Complex",
         "address": "Main Building, 122, Kazi Nazrul Islam Avenue, Shahbag, Dhaka",
         "visitingTime": "4pm to 7pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801928870491"
-      },
-      "id": "a211a327-53dc-458a-a981-d1d268d5dbbe"
+        "appointmentNumber": "+8801928870491Call Now"
+      }
     }
   ]
 }

@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "f2a1d50c-ea8f-40c5-979a-9cc07b46b4d5",
+      "departmentId": "7a6c5561-02f3-4282-81b9-4faa8d15ba8a",
+      "link": "https://www.doctorbangladesh.com/dr-ayesha-akter/",
+      "imageId": "1e6d3d19-a7a9-4629-842c-a8979b87c875",
       "name": "Dr. Ayesha Akter",
       "degree": "MBBS, BCS (Health), (Skin & VD)",
       "specialty": "Skin, Allergy, Leprosy, Sexual Diseases Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "4pm to 9pm (Sat to Thu) & 5pm to 8pm (Fri)",
-        "appointmentNumber": "+8801861497997"
-      },
-      "id": "603de6d8-51bb-4ea3-bd8f-e4a2ed53b167"
+        "appointmentNumber": "+8801861497997Call Now"
+      }
     },
     {
+      "id": "833b84ed-2076-4217-9093-7127fbd21ac8",
+      "departmentId": "7a6c5561-02f3-4282-81b9-4faa8d15ba8a",
+      "link": "https://www.doctorbangladesh.com/dr-zahir-uddin-mohammad-babar/",
+      "imageId": "9d8707be-e13a-4bee-94a9-80a254835b53",
       "name": "Dr. Zahir Uddin Mohammad Babar",
       "degree": "MBBS, BCS (Health), FCPS (Skin & VD)",
       "specialty": "Skin, Allergy, Hair, Sexual Health Specialist & Dermato Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "Maa Moni Hospital, Comilla",
         "address": "Telikona Chowmuhuni, Chakbazar, Cumilla",
         "visitingTime": "2.30pm to 5.30pmpm (Sunday to Thursday)",
-        "appointmentNumber": "+8801787656539"
-      },
-      "id": "1641b35b-22a1-4642-b2aa-76cda023f5a7"
+        "appointmentNumber": "+8801787656539Call Now"
+      }
     },
     {
+      "id": "07e12276-3bfd-4da1-92d5-fd048ee202a6",
+      "departmentId": "7a6c5561-02f3-4282-81b9-4faa8d15ba8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-abu-ahmed/",
+      "imageId": "42deb728-de00-475b-974b-f0a4ae646bf5",
       "name": "Prof. Dr. Abu Ahmed",
       "degree": "MBBS, DD (Thailand), Fellow Laser Surgery (Bangkok)",
       "specialty": "Skin, Allergy, Leprosy, Sexual Diseases Specialist & Laser Surgeon",
@@ -38,25 +48,31 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "10am to 2pm & 4pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801711144786"
-      },
-      "id": "895cdd1e-32a1-4048-9fd8-181a7cc62eef"
+        "appointmentNumber": "+8801711144786Call Now"
+      }
     },
     {
+      "id": "3a3e1f6e-6fac-4c4b-a1e3-4fc1d66407ec",
+      "departmentId": "7a6c5561-02f3-4282-81b9-4faa8d15ba8a",
+      "link": "https://www.doctorbangladesh.com/dr-taslima-sultana/",
+      "imageId": "86cc929f-6d72-42aa-b145-7e179a582efa",
       "name": "Dr. Taslima Sultana",
       "degree": "MBBS, BCS (Health), DDV (Skin & Sex)",
       "specialty": "Skin, Sex Diseases, Allergy & Leprosy Specialist",
       "workplace": "General Hospital, Cumilla",
-      "info": "Modern Hospital, Comilla\nAddress: Laksam Road, Shaktola, Cumilla – 3500\nVisiting Hour: 4pm to 5pm (Closed: Friday)\nAppointment: +8801711785199\nCall Now",
+      "info": "Modern Hospital, Comilla Address: Laksam Road, Shaktola, Cumilla – 3500 Visiting Hour: 4pm to 5pm (Closed: Friday) Appointment: +8801711785199 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Comilla",
         "address": "House # 29, Kotbari Road, Tomsom Bridge, Cumilla",
         "visitingTime": "5pm to 7pm (Mon, Tue & Wed)",
-        "appointmentNumber": "+8801841212275"
-      },
-      "id": "720f90ed-be22-42d7-9e73-a79a6c76056a"
+        "appointmentNumber": "+8801841212275Call Now"
+      }
     },
     {
+      "id": "8fc7facb-0245-40c6-96d3-50ffedd041a8",
+      "departmentId": "7a6c5561-02f3-4282-81b9-4faa8d15ba8a",
+      "link": "https://www.doctorbangladesh.com/dr-nurjahan-begum/",
+      "imageId": "3675a7c3-b4ee-41cb-af77-97cf6973b2ba",
       "name": "Dr. Nurjahan Begum",
       "degree": "MBBS, DDV (DU), MCPS (Dermatology)",
       "specialty": "Skin, Allergy, Leprosy, Sex Diseases Specialist & Dermato Surgeon",
@@ -66,11 +82,14 @@
         "hospital": "Comilla Mission Hospital",
         "address": "Shasongacha, Railgate, Cumilla – 3500",
         "visitingTime": "2pm to 6pm (Everyday)",
-        "appointmentNumber": "+8801739142170"
-      },
-      "id": "2462dce7-2698-49d3-97e4-8bac7149637c"
+        "appointmentNumber": "+8801739142170Call Now"
+      }
     },
     {
+      "id": "64ff6a11-decb-4e67-877c-f8603356d910",
+      "departmentId": "7a6c5561-02f3-4282-81b9-4faa8d15ba8a",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-kamal-hossain-miazi/",
+      "imageId": "cec08651-40d3-497f-b7fe-fbd970fe9a6e",
       "name": "Dr. Mohammad Kamal Hossain Miazi",
       "degree": "MBBS, BCS (Health), MD (Dermatology)",
       "specialty": "Dermatologist, Sexologist & Dermatosurgeon",
@@ -80,9 +99,8 @@
         "hospital": "Comilla Trauma Center",
         "address": "511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla",
         "visitingTime": "4pm to 7pm (Monday & Wednesday)",
-        "appointmentNumber": "+8801735274020"
-      },
-      "id": "fbfcc146-a0b5-416c-976d-463ca73859fa"
+        "appointmentNumber": "+8801735274020Call Now"
+      }
     }
   ]
 }

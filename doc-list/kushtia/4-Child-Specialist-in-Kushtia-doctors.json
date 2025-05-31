@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "bcc0545c-7c0a-4ce6-bd57-060326ed4164",
+      "departmentId": "40f85737-079e-4c53-86bb-74dd40f39383",
+      "link": "https://www.doctorbangladesh.com/dr-md-abu-bakar-siddique/",
+      "imageId": "c886efac-04e6-446a-b2d2-74e0ca603a3e",
       "name": "Dr. Md. Abu Bakar Siddique",
       "degree": "MBBS, DCH, FCPS (CHILD)",
       "specialty": "Newborn, Adolescent & Child Diseases Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Sono Diagnostic Center, Kushtia",
         "address": "Sono Tower, College Mor, Court Para, Kushtia",
         "visitingTime": "3pm to 7pm (Sat to Thu), 8am to 2pm (Fri)",
-        "appointmentNumber": "+8801711352859"
-      },
-      "id": "178bc9a4-b3fd-42a9-83aa-e186e8e9b4e0"
+        "appointmentNumber": "+8801711352859Call Now"
+      }
     },
     {
+      "id": "5c2ed149-23a2-47b6-937c-20aa3360ce0d",
+      "departmentId": "40f85737-079e-4c53-86bb-74dd40f39383",
+      "link": "https://www.doctorbangladesh.com/dr-md-firoz-ahmed/",
+      "imageId": "eeb32554-3b15-4cd1-ba46-8d7c6dab37ac",
       "name": "Dr. Md. Firoz Ahmed",
       "degree": "MBBS, MD (CHILD)",
       "specialty": "Newborn & Child Diseases Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Amin Diagnostic & Medical Services, Kushtia",
         "address": "Ram Chandra Ray Chowdhury Road, College Mor, Court Para, Kushtia",
         "visitingTime": "4pm to 8pm (Sat to Thu), 10am to 12pm (Fri)",
-        "appointmentNumber": "+8801712243514"
-      },
-      "id": "45277e69-2243-47bc-97c3-5b93c4b7bdaa"
+        "appointmentNumber": "+8801712243514Call Now"
+      }
     },
     {
+      "id": "a2d3dff1-3885-4376-b067-c81a3d30d233",
+      "departmentId": "40f85737-079e-4c53-86bb-74dd40f39383",
+      "link": "https://www.doctorbangladesh.com/dr-h-s-kollol/",
+      "imageId": "1ef45db0-db0a-453e-9ab8-50e296dc9787",
       "name": "Dr. H.S. Kollol",
       "degree": "MBBS, DCH, FCPS (CHILD-FP)",
       "specialty": "Newborn, Adolescent & Child Diseases Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Sono Diagnostic Center, Kushtia",
         "address": "Sono Tower, College Mor, Court Para, Kushtia",
         "visitingTime": "8am to 9am & 4pm to 7pm (Sat to Thu), 9am to 12pm (Fri)",
-        "appointmentNumber": "+8801747273628"
-      },
-      "id": "5743db41-5271-4b79-a8a5-6ae0695dad8a"
+        "appointmentNumber": "+8801747273628Call Now"
+      }
     },
     {
+      "id": "7b69f79b-04eb-4ff0-afbf-ba6536e2c6a4",
+      "departmentId": "40f85737-079e-4c53-86bb-74dd40f39383",
+      "link": "https://www.doctorbangladesh.com/dr-md-jamir-uddin/",
+      "imageId": "57516d30-ebb2-4f30-8de6-9e4ec9e28b9a",
       "name": "Dr. Md. Jamir Uddin",
       "degree": "MBBS, BCS, MPH, DCH",
       "specialty": "Newborn, Adolescent & Child Diseases Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Popular Diagnostic Centre, Kushtia",
         "address": "City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia",
         "visitingTime": "4pm to 7pm (Everyday)",
-        "appointmentNumber": "+8809666787817"
-      },
-      "id": "3ba4402c-dc13-4106-b88d-32da9aa6d9af"
+        "appointmentNumber": "+8809666787817Call Now"
+      }
     },
     {
+      "id": "1bc13024-e80b-4e0a-af94-06a55d7c81bb",
+      "departmentId": "40f85737-079e-4c53-86bb-74dd40f39383",
+      "link": "https://www.doctorbangladesh.com/dr-md-saiful-arefin/",
+      "imageId": "1b56d2ec-1fd0-48f8-be0d-d06db9e57b0b",
       "name": "Dr. Md. Saiful Arefin",
       "degree": "MBBS, BCS (Health), FCPS (CHILD)",
       "specialty": "Newborn, Adolescent & Child Diseases Specialist",
@@ -66,25 +82,31 @@
         "hospital": "Sono Consultation Center, Kushtia",
         "address": "Sono Tower 2, Court Para, Kushtia, Bangladesh",
         "visitingTime": "4pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801782702998"
-      },
-      "id": "47b03999-98c3-498c-981a-9613334a1049"
+        "appointmentNumber": "+8801782702998Call Now"
+      }
     },
     {
+      "id": "3c89f23e-a6c6-4cd3-b09a-ac0c6f448f83",
+      "departmentId": "40f85737-079e-4c53-86bb-74dd40f39383",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahin-akter-sumon/",
+      "imageId": "b83d665c-d181-47fa-b428-e53679061bd4",
       "name": "Dr. Md. Shahin Akter Sumon",
       "degree": "MBBS, BCS, MD (CHILD), FCPS (FP)",
       "specialty": "Child, Newborn & Adolescent Diseases Specialist",
       "workplace": "Kushtia Medical College & Hospital",
-      "info": "Popular Diagnostic Centre, Kushtia\nAddress: City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia\nVisiting Hour: 3pm to 8pm (Sun, Tue & Thursday)\nAppointment: +8809666787817\nCall Now",
+      "info": "Popular Diagnostic Centre, Kushtia Address: City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia Visiting Hour: 3pm to 8pm (Sun, Tue & Thursday) Appointment: +8809666787817 Call Now",
       "chamber": {
         "hospital": "Amin Diagnostic & Medical Services, Kushtia",
         "address": "Ram Chandra Ray Chowdhury Road, College Mor, Court Para, Kushtia",
         "visitingTime": "3pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801712243514"
-      },
-      "id": "76fa62ff-af5e-46c5-8f1b-1109738e1277"
+        "appointmentNumber": "+8801712243514Call Now"
+      }
     },
     {
+      "id": "3f89c5b5-868c-4d8a-afbb-87c393695d28",
+      "departmentId": "40f85737-079e-4c53-86bb-74dd40f39383",
+      "link": "https://www.doctorbangladesh.com/dr-sabiha-akter/",
+      "imageId": "784b5108-e63b-4c73-ad37-51964ce1ba4d",
       "name": "Dr. Sabiha Akter",
       "degree": "MBBS, BCS (Health), FCPS (CHILD)",
       "specialty": "Newborn, Adolescent & Child Diseases Specialist",
@@ -94,11 +116,14 @@
         "hospital": "Amin Diagnostic & Medical Services, Kushtia",
         "address": "Ram Chandra Ray Chowdhury Road, College Mor, Court Para, Kushtia",
         "visitingTime": "4pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801712243514"
-      },
-      "id": "70716da4-d1fb-4e4b-9aba-c8c46d03bbf0"
+        "appointmentNumber": "+8801712243514Call Now"
+      }
     },
     {
+      "id": "0fbbc9c4-b7ec-4572-9774-cd0a1aec7d77",
+      "departmentId": "40f85737-079e-4c53-86bb-74dd40f39383",
+      "link": "https://www.doctorbangladesh.com/dr-farhana-rahman-child/",
+      "imageId": "b8320ee6-9aa1-4e80-b8f9-cb7e18c1e8d1",
       "name": "Dr. Farhana Rahman",
       "degree": "MBBS, BCS (Health), MD (Pediatrics)",
       "specialty": "Neonatal, Adolescent & Child Diseases Specialist",
@@ -108,11 +133,14 @@
         "hospital": "Popular Diagnostic Centre, Kushtia",
         "address": "City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia",
         "visitingTime": "4pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787817"
-      },
-      "id": "2fab670a-c5dd-4a2d-99de-a0c13e1323a0"
+        "appointmentNumber": "+8809666787817Call Now"
+      }
     },
     {
+      "id": "8635df2e-d22f-4407-85bc-597fd097fea1",
+      "departmentId": "40f85737-079e-4c53-86bb-74dd40f39383",
+      "link": "https://www.doctorbangladesh.com/dr-naima-sultana-tania/",
+      "imageId": "99c400cc-178c-499a-b536-f51d2a00d6d6",
       "name": "Dr. Naima Sultana (Tania)",
       "degree": "MBBS, BCS (Health), FCPS (CHILD)",
       "specialty": "Newborn, Adolescent & Child Diseases Specialist",
@@ -122,11 +150,14 @@
         "hospital": "Sono Consultation Center, Kushtia",
         "address": "Sono Tower 2, Court Para, Kushtia, Bangladesh",
         "visitingTime": "3pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801743245569"
-      },
-      "id": "fedde93f-25c5-497e-b8b1-460f37fdbfd7"
+        "appointmentNumber": "+8801743245569Call Now"
+      }
     },
     {
+      "id": "a4f323fa-08b0-41e9-b21c-74ded29d3813",
+      "departmentId": "40f85737-079e-4c53-86bb-74dd40f39383",
+      "link": "https://www.doctorbangladesh.com/dr-md-ayub-ali-kushtia/",
+      "imageId": "52afaaca-98a3-4e70-9ffd-4d9d0b3f74ec",
       "name": "Dr. Md. Ayub Ali",
       "degree": "MBBS, BCS (Health), DCH, MSC",
       "specialty": "Newborn, Adolescent & Child Diseases Specialist",
@@ -136,9 +167,8 @@
         "hospital": "Amin Diagnostic & Medical Services, Kushtia",
         "address": "Ram Chandra Ray Chowdhury Road, College Mor, Court Para, Kushtia",
         "visitingTime": "9am to 1pm & 4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801712243514"
-      },
-      "id": "013d8e15-6ef8-481d-a50d-2c12a71deca6"
+        "appointmentNumber": "+8801712243514Call Now"
+      }
     }
   ]
 }

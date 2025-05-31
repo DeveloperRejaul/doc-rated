@@ -1,20 +1,27 @@
 {
   "doctor": [
     {
+      "id": "e68a571b-fb79-4be4-bd8d-bb9dc31c188c",
+      "departmentId": "c8afbe37-1cef-40fe-90ff-e6702af5d906",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-a-salam-psychiatry/",
+      "imageId": "6b0c4d7a-f3df-44e6-9a60-60947bfc2cfb",
       "name": "Prof. Dr. Md. Abdus Salam",
       "degree": "MBBS, DPM (DU), MCPS (Psychiatry)",
       "specialty": "Psychiatry (Brain, Mind, Depression, Drug Addiction) Specialist & Psychotherapist",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Moon Hospital, Comilla\nAddress: Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla\nVisiting Hour: 8am to 5pm (Only Friday)\nAppointment: +8801717294611\nCall Now",
+      "info": "Moon Hospital, Comilla Address: Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla Visiting Hour: 8am to 5pm (Only Friday) Appointment: +8801717294611 Call Now",
       "chamber": {
         "hospital": "Bangladesh Psychiatric Care",
         "address": "Suit # 6020, Shimanto Shambhar (6th Floor), Dhanmondi, Dhaka",
         "visitingTime": "10am to 2pm (Closed: Sat & Friday)",
-        "appointmentNumber": "+8801872863002"
-      },
-      "id": "90bb743a-c38f-4f49-885d-d087d773ff89"
+        "appointmentNumber": "+8801872863002Call Now"
+      }
     },
     {
+      "id": "0b93e496-3a0c-44b3-bf2a-0ced9159508a",
+      "departmentId": "c8afbe37-1cef-40fe-90ff-e6702af5d906",
+      "link": "https://www.doctorbangladesh.com/dr-md-harun-ur-rashid-psychiatry/",
+      "imageId": "5974a439-308b-426a-bfa3-56848dd9347c",
       "name": "Prof. Dr. Md. Harun Ar Rashid",
       "degree": "MBBS (DMC), BCS (Health), MPhil (Psychiatry), Fellow WHO (India)",
       "specialty": "Psychiatry (Mental Diseases, Drug Addiction) Specialist",
@@ -24,11 +31,14 @@
         "hospital": "CD Path & Hospital Pvt. Ltd.",
         "address": "Shishu Monagal Road, Badurtoal, Cumilla – 3500",
         "visitingTime": "3pm to 7.30pm (Friday: 9am to 12pm only with prior appointment)",
-        "appointmentNumber": "+8801760692346"
-      },
-      "id": "bfd39a91-df78-4a99-8df0-19bc6f3a444e"
+        "appointmentNumber": "+8801760692346Call Now"
+      }
     },
     {
+      "id": "55132c2e-17ed-45c5-91ef-805263aef52f",
+      "departmentId": "c8afbe37-1cef-40fe-90ff-e6702af5d906",
+      "link": "https://www.doctorbangladesh.com/dr-md-belayet-hossain-bhuiyan/",
+      "imageId": "edcd2ed6-490f-4ce0-affd-f3c4372dcbfa",
       "name": "Dr. Md. Belayet Hossain Bhuiyan",
       "degree": "MBBS (DMC), MD (Psychiatry)",
       "specialty": "Psychiatry (Brain, Mind, Mental Diseases, Depression) Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "4pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801711144786"
-      },
-      "id": "fbd222db-e51e-4a09-8fb5-2b245f60bc1f"
+        "appointmentNumber": "+8801711144786Call Now"
+      }
     },
     {
+      "id": "4630f852-667d-4e14-b7dc-ea9f816a9cd0",
+      "departmentId": "c8afbe37-1cef-40fe-90ff-e6702af5d906",
+      "link": "https://www.doctorbangladesh.com/dr-md-saiful-islam-bhuiyan-psychiatry/",
+      "imageId": "bfb14138-c7c2-466c-abc0-4163ceabcd32",
       "name": "Dr. Md. Saiful Islam Bhuiyan",
       "degree": "MBBS, MPhil (Psychiatry) (BSMMU)",
       "specialty": "Psychiatrist, Mental Health & Drug Addiction Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Moon Hospital, Comilla",
         "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
         "visitingTime": "2pm to 9pm (Sat to Thu) & 8am to 8pm (Fri)",
-        "appointmentNumber": "+8801620807269"
-      },
-      "id": "00a06d15-aae7-4a12-b573-d733205945f0"
+        "appointmentNumber": "+8801620807269Call Now"
+      }
     },
     {
+      "id": "1929897e-cd06-4072-a60f-f71c21dd0b7a",
+      "departmentId": "c8afbe37-1cef-40fe-90ff-e6702af5d906",
+      "link": "https://www.doctorbangladesh.com/dr-md-azizur-rahman/",
+      "imageId": "f0a9c507-e366-4a9b-a3b8-e0421e7624d3",
       "name": "Dr. Md. Azizur Rahman",
       "degree": "MBBS, M.Phil (Psychiatry), FRSH (London), PGT (Medicine)",
       "specialty": "Psychiatry Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Medinova Medical Services, Comilla",
         "address": "Laksam Road, Cumilla",
         "visitingTime": "12pm to 3pm & 6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801917179434"
-      },
-      "id": "312b48f2-a7d6-484d-b8a8-d7f0a93cbe32"
+        "appointmentNumber": "+8801917179434Call Now"
+      }
     },
     {
+      "id": "1fd35b0f-ec92-4d88-b7a5-b44d6a441851",
+      "departmentId": "c8afbe37-1cef-40fe-90ff-e6702af5d906",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahedul-islam/",
+      "imageId": "952ec2e5-0328-4125-907b-17d56fee0b35",
       "name": "Dr. Md. Shahedul Islam",
       "degree": "MBBS, BCS (Health), FRCP (UK), FCPS (Psychiatry), MCPS (Psychiatry)",
       "specialty": "Mental Diseases & Drug Addiction Specialist",
@@ -80,23 +99,25 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801714-306390"
-      },
-      "id": "a9c1e08a-6380-4f68-8a2b-41f3b0f665b9"
+        "appointmentNumber": "+8801714-306390Call Now"
+      }
     },
     {
+      "id": "955637dd-8422-4064-ac08-a89cbe81ae52",
+      "departmentId": "c8afbe37-1cef-40fe-90ff-e6702af5d906",
+      "link": "https://www.doctorbangladesh.com/asst-prof-dr-bijoy-kumar-dutta/",
+      "imageId": "6f7f96e3-8d2d-4b77-91d5-e201b5401723",
       "name": "Asst. Prof. Dr. Bijoy Kumar Dutta",
       "degree": "MBBS, BCS (Health), MD (Psychiatry)",
       "specialty": "Mental Diseases, Autism, Drug Addiction, Sex Medicine Specialist & Psychologist",
       "workplace": "Cumilla Medical College & Hospital",
-      "info": "Labaid Diagnostic, Cumilla\nAddress: Tomsom Bridge, Laksam Road, Cumilla\nVisiting Hour: 4.30pm to 8.30pm (Saturday to Wednesday)\nAppointment: +8801835094283\nCall Now",
+      "info": "Labaid Diagnostic, Cumilla Address: Tomsom Bridge, Laksam Road, Cumilla Visiting Hour: 4.30pm to 8.30pm (Saturday to Wednesday) Appointment: +8801835094283 Call Now",
       "chamber": {
         "hospital": "Human Diagnostic Center & Hospital, Comilla",
         "address": "Racecourse (Beside Mukti Hospital), Cumilla",
         "visitingTime": "2.30pm to 4.30pm (Saturday to Wednesday)",
-        "appointmentNumber": "+8801846421550"
-      },
-      "id": "d3e608e7-29c0-4193-b208-1358a8bb0bd1"
+        "appointmentNumber": "+8801846421550Call Now"
+      }
     }
   ]
 }

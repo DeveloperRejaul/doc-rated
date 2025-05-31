@@ -1,20 +1,27 @@
 {
   "doctor": [
     {
+      "id": "94c76154-58b0-43fc-a4be-de01bce9b52b",
+      "departmentId": "a778240e-6431-4ea5-a462-f75a024af6b5",
+      "link": "https://www.doctorbangladesh.com/dr-suzon-al-hasan/",
+      "imageId": "03372e0c-83aa-41e3-b6b7-8dae0a4536cc",
       "name": "Prof. Dr. Suzon Al Hasan",
       "degree": "MBBS, FCPS (Physical Medicine), Training (Madras)",
       "specialty": "Physical Medicine, Paralysis, Sport Injury & Arthritis Specialist",
       "workplace": "Rajshahi Medical College & Hospital",
-      "info": "Labaid Specialized Hospital, Chattogram\nAddress: 3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram\nVisiting Hour: 10am to 10pm (Thu & Friday)\nAppointment: +8801717746650\nCall Now",
+      "info": "Labaid Specialized Hospital, Chattogram Address: 3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram Visiting Hour: 10am to 10pm (Thu & Friday) Appointment: +8801717746650 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "4pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "cbfca8d0-579f-4f9c-8462-69837097474a"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "7e0a8925-7420-470b-8139-1739c9c324db",
+      "departmentId": "a778240e-6431-4ea5-a462-f75a024af6b5",
+      "link": "https://www.doctorbangladesh.com/dr-md-tarikul-islam-khan-tarek/",
+      "imageId": "34d5796d-ad7f-4641-8fcd-a47f792677bc",
       "name": "Dr. Md. Tariqul Islam Khan",
       "degree": "MBBS, BCS (Health), FCPS (Physical Medicine)",
       "specialty": "Physical Medicine (Pain, Arthritis, Paralysis, Stroke) Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Medipath Diagnostic Complex, Rajshahi",
         "address": "Shuvecca View, Greater Road, Laxmipur, Kajihata, Rajshahi",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801712685297"
-      },
-      "id": "cbd58460-d156-40b5-ad6d-d52b909d7c95"
+        "appointmentNumber": "+8801712685297Call Now"
+      }
     },
     {
+      "id": "51f7e78a-4c2f-40bd-a0fc-0516c6e0a380",
+      "departmentId": "a778240e-6431-4ea5-a462-f75a024af6b5",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdus-sabur/",
+      "imageId": "6014a79c-b199-4ec0-b259-18b7fb2b6ab5",
       "name": "Dr. Md. Abdus Sabur",
       "degree": "MBBS, BCS (Health), FCPS (Physical Medicine)",
       "specialty": "Physical Medicine (Pain, Arthritis, Paralysis) & Rehabilitation Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "Building: 1, 7th Floor, Room No: 722, Laxmipur, Rajshahi",
         "visitingTime": "4pm to 8pm (Closed: Wed & Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "62cfee30-51ed-43a3-84f9-5c5046fffc04"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "113cbbf3-064b-47e8-94fd-b126f13a1d2a",
+      "departmentId": "a778240e-6431-4ea5-a462-f75a024af6b5",
+      "link": "https://www.doctorbangladesh.com/dr-md-tamjid-ali/",
+      "imageId": "83ffcdd3-9da3-431f-8c29-ccbcda7890a5",
       "name": "Dr. Md. Tamjid Ali",
       "degree": "MBBS, BCS (Health), MACP (USA), MD (Physical Medicine)",
       "specialty": "Physical Medicine (Pain, Arthritis, Stroke, Paralysis, Sports Injury) Specialist",
@@ -52,9 +65,8 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "3.30pm to 9.30pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "28c255c5-222d-4c4c-ba98-ef5a0c09497f"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     }
   ]
 }

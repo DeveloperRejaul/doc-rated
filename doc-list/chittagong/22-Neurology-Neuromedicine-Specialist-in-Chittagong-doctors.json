@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "231c7ef5-5e4f-405b-a26e-452b44022471",
+      "departmentId": "043d08c6-ef3b-40ef-bf7c-387befcf7446",
+      "link": "https://www.doctorbangladesh.com/dr-mdhumayunkabir/",
+      "imageId": "45a5e225-f33d-4189-a8ff-a2c0153a6bf3",
       "name": "Dr. Mohammad Humayun Kabir",
       "degree": "MBBS, BCS (Health), MD (Neurology)",
       "specialty": "Neurology (Brain, Nerve, Spine, Stroke, Migraine, Headache) Specialist",
@@ -10,25 +14,31 @@
         "hospital": "Asperia Health Care Ltd, Chittagong",
         "address": "Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram",
         "visitingTime": "4pm to 7pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801810004550"
-      },
-      "id": "3895652d-0e28-4d4c-a3fd-22c0ca7949de"
+        "appointmentNumber": "+8801810004550Call Now"
+      }
     },
     {
+      "id": "31a9cb9d-ba90-43d4-a9ee-e22443872f88",
+      "departmentId": "043d08c6-ef3b-40ef-bf7c-387befcf7446",
+      "link": "https://www.doctorbangladesh.com/dr-samee-m-adnan/",
+      "imageId": "9b61b613-9146-43da-ba47-c8f6dba307df",
       "name": "Dr. Samee M Adnan",
       "degree": "MBBS, BCS (Health), MD (Neurology)",
       "specialty": "Neurology (Brain, Nerve, Spine, Headache, Stroke) Specialist",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Shajinaz Hospital Ltd.\nAddress: Arefin Nagar, Bayezid Link Road, Bayezid Bostami, Chattogram\nVisiting Hour: 3pm to 5pm (Sun, Tue & Thu)\nAppointment: +8801886-338811\nCall Now",
+      "info": "Shajinaz Hospital Ltd. Address: Arefin Nagar, Bayezid Link Road, Bayezid Bostami, Chattogram Visiting Hour: 3pm to 5pm (Sun, Tue & Thu) Appointment: +8801886-338811 Call Now",
       "chamber": {
         "hospital": "Epic Healthcare, Chittagong",
         "address": "Room 511, 19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "6.30pm to 10pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801897-848814"
-      },
-      "id": "5e4bdb0a-28a4-445b-80c9-a4ddd9ee83df"
+        "appointmentNumber": "+8801897-848814Call Now"
+      }
     },
     {
+      "id": "7634f59f-721f-46e8-b5a4-f5f11e3f2acf",
+      "departmentId": "043d08c6-ef3b-40ef-bf7c-387befcf7446",
+      "link": "https://www.doctorbangladesh.com/dr-md-hasanuzzaman-neuro/",
+      "imageId": "5230deef-ea9c-4db1-a157-70401cf48641",
       "name": "Prof. Dr. Md. Hasanuzzaman",
       "degree": "MBBS, FCPS (Medicine), MD (Neurology)",
       "specialty": "Brain, Stroke, Nerve, Medicine & Neurology Specialist",
@@ -38,11 +48,14 @@
         "hospital": "CSCR Hospital, Chittagong",
         "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
         "visitingTime": "6pm to 10pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801738413600"
-      },
-      "id": "b88f03a9-e9a0-4cfc-8103-b45eaa87512c"
+        "appointmentNumber": "+8801738413600Call Now"
+      }
     },
     {
+      "id": "ed88916c-bfe2-4dd3-b230-76b438076a62",
+      "departmentId": "043d08c6-ef3b-40ef-bf7c-387befcf7446",
+      "link": "https://www.doctorbangladesh.com/dr-shiuly-majumdar/",
+      "imageId": "5de410c3-3500-48ac-b4f2-5d1cd8227833",
       "name": "Dr. Shiuly Majumdar",
       "degree": "MBBS, FCPS (Medicine), MD (Neurology)",
       "specialty": "Neurology (Brain, Nerve, Spine, Headache) & Medicine Specialist",
@@ -52,67 +65,82 @@
         "hospital": "Metro Diagnostic Center, Chittagong",
         "address": "Metro Tower, Goal Pahar Mor, Mehedibag, Chattogram",
         "visitingTime": "8am to 9am (Closed: Tuesday & Friday)",
-        "appointmentNumber": "+8801814985619"
-      },
-      "id": "07b4def3-6202-443c-b0d9-2f58b50250d7"
+        "appointmentNumber": "+8801814985619Call Now"
+      }
     },
     {
+      "id": "a782f521-3b52-4916-b6a2-433b452c12d8",
+      "departmentId": "043d08c6-ef3b-40ef-bf7c-387befcf7446",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahabubul-alam-khandker/",
+      "imageId": "481de444-8336-4f61-b156-e4f1915c02a2",
       "name": "Dr. Md. Mahabubul Alam Khandker",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Neurology)",
       "specialty": "Neurology (Brain, Nerve, Spine, Headache, Backpain) & Medicine Specialist",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Chevron Clinical Laboratory, Chittagong\nAddress: 12/12, O.R Nizam Road, Panchlaish, Chattogram\nVisiting Hour: 5pm to 8pm (Sat, Mon & Wed)\nAppointment: +8801755666969\nCall Now",
+      "info": "Chevron Clinical Laboratory, Chittagong Address: 12/12, O.R Nizam Road, Panchlaish, Chattogram Visiting Hour: 5pm to 8pm (Sat, Mon & Wed) Appointment: +8801755666969 Call Now",
       "chamber": {
         "hospital": "Epic Healthcare, Chittagong",
         "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "4pm to 7pm (Tue, Wed & Thu)",
-        "appointmentNumber": "+8801984499600"
-      },
-      "id": "9d9ab407-fb6d-43a9-ada8-9b69dbb04d9e"
+        "appointmentNumber": "+8801984499600Call Now"
+      }
     },
     {
+      "id": "8e996d12-0c26-4bc9-8091-21c838a99dc2",
+      "departmentId": "043d08c6-ef3b-40ef-bf7c-387befcf7446",
+      "link": "https://www.doctorbangladesh.com/dr-pradip-kumar-kayasthagir/",
+      "imageId": "7a9afcd1-e45e-41d7-8292-9afd10df51af",
       "name": "Dr. Pradip Kumar Kayasthagir",
       "degree": "MBBS, MD (Neuromedicine)",
       "specialty": "Brain, Stroke, Nerve, Medicine & Neuromedicine Specialist",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Chevron Clinical Laboratory, Chittagong\nAddress: 12/12, O.R Nizam Road, Panchlaish, Chattogram\nVisiting Hour: 7pm to 10pm (Closed: Friday)\nAppointment: +8801755666969\nCall Now",
+      "info": "Chevron Clinical Laboratory, Chittagong Address: 12/12, O.R Nizam Road, Panchlaish, Chattogram Visiting Hour: 7pm to 10pm (Closed: Friday) Appointment: +8801755666969 Call Now",
       "chamber": {
         "hospital": "Epic Healthcare, Chittagong",
         "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801984499600"
-      },
-      "id": "deaf546e-0d0f-41bf-adfc-fc4e3584376a"
+        "appointmentNumber": "+8801984499600Call Now"
+      }
     },
     {
+      "id": "aefeecb3-e6bd-424b-8215-9f3865e96e84",
+      "departmentId": "043d08c6-ef3b-40ef-bf7c-387befcf7446",
+      "link": "https://www.doctorbangladesh.com/dr-masihuzzaman-alpha/",
+      "imageId": "0ab1d95a-cff8-4c6e-96fa-16b270606454",
       "name": "Dr. Masihuzzaman Alpha",
       "degree": "MBBS, MCPS (Medicine), MD (Neurology)",
       "specialty": "Neurology (Brain, Nerve, Stroke, Headache) & Medicine Specialist",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Chittagong\nAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 4pm to 4:30pm (Closed: Friday)\nAppointment: +8809666787810\nCall Now",
+      "info": "Popular Diagnostic Center, Chittagong Address: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram Visiting Hour: 4pm to 4:30pm (Closed: Friday) Appointment: +8809666787810 Call Now",
       "chamber": {
         "hospital": "Epic Healthcare Ltd. (East Gate Branch)",
         "address": "Room 603, 36, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801984499700"
-      },
-      "id": "d808774e-95c3-4180-b67f-f4598135b8ba"
+        "appointmentNumber": "+8801984499700Call Now"
+      }
     },
     {
+      "id": "68cd06b7-fe63-4a56-892d-a85ab3773fb0",
+      "departmentId": "043d08c6-ef3b-40ef-bf7c-387befcf7446",
+      "link": "https://www.doctorbangladesh.com/dr-somen-chowdhury/",
+      "imageId": "8546fe2c-e5be-4b35-87af-a143c7dfc151",
       "name": "Dr. Somen Chowdhury",
       "degree": "MBBS, MD (Neurology)",
       "specialty": "Neurology (Brain, Stroke, Epilepsy, Headache, Back Pain) Specialist",
       "workplace": "Evercare Hospital, Chattogram",
-      "info": "Popular Diagnostic Center, Chittagong\nAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 4pm to 5:45pm (Sat, Mon & Wednesday)\nAppointment: +8809666787810\nCall Now",
+      "info": "Popular Diagnostic Center, Chittagong Address: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram Visiting Hour: 4pm to 5:45pm (Sat, Mon & Wednesday) Appointment: +8809666787810 Call Now",
       "chamber": {
         "hospital": "Evercare Hospital, Chattogram",
         "address": "H1, Ananna R/A, CDA, Hathazari, Chattogram",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8809610810663"
-      },
-      "id": "abe87c8b-289a-41d6-8862-d23044faa27f"
+        "appointmentNumber": "+8809610810663Call Now"
+      }
     },
     {
+      "id": "72005d41-1b63-4497-817f-f1464e5948b8",
+      "departmentId": "043d08c6-ef3b-40ef-bf7c-387befcf7446",
+      "link": "https://www.doctorbangladesh.com/prof-dr-khokan-kanti-das/",
+      "imageId": "7c7cbd2d-9a7c-4dd8-8c66-f3ea10e12c1f",
       "name": "Prof. Dr. Khokan Kanti Das",
       "degree": "MBBS, FCCP (USA), FCPS (BD), FRCP (UK), FRCP (Glasgow), Post-Doctoral Fellow (USA)",
       "specialty": "Neuromedicine (Brain, Stroke, Nerve) Specialist",
@@ -122,39 +150,48 @@
         "hospital": "Labaid Specialized Hospital, Chattogram",
         "address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
         "visitingTime": "10am to 1pm & 6pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662828"
-      },
-      "id": "cad20038-4df8-4a03-b60a-00219245dd01"
+        "appointmentNumber": "+8801766662828Call Now"
+      }
     },
     {
+      "id": "0e700a29-a274-4bb9-bd9a-79f6f4d02757",
+      "departmentId": "043d08c6-ef3b-40ef-bf7c-387befcf7446",
+      "link": "https://www.doctorbangladesh.com/dr-a-m-shafayet-hossain/",
+      "imageId": "5f90495d-eba2-49f9-bc73-80d1160a8012",
       "name": "Dr. A. M. Shafayet Hossain Patwari",
       "degree": "MBBS, BCS (Health), MD (Neurology)",
       "specialty": "Neurology (Brain, Stroke, Headache, Epilepsy, Movement Disorder) Specialist",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Evercare Hospital, Chattogram\nAddress: H1, Ananna R/A, CDA, Hathazari, Chattogram\nVisiting Hour: 2.30pm to 6.30pm (Closed: Friday)\nAppointment: +8809610810663\nCall Now",
+      "info": "Evercare Hospital, Chattogram Address: H1, Ananna R/A, CDA, Hathazari, Chattogram Visiting Hour: 2.30pm to 6.30pm (Closed: Friday) Appointment: +8809610810663 Call Now",
       "chamber": {
         "hospital": "Chattogram Metropolitan Hospital",
         "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "8pm to 10.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801841726565"
-      },
-      "id": "3f69141f-6316-4c1e-81fc-e91078bd0f44"
+        "appointmentNumber": "+8801841726565Call Now"
+      }
     },
     {
+      "id": "4b9d8afe-f45a-4616-b2cd-980abca436b3",
+      "departmentId": "043d08c6-ef3b-40ef-bf7c-387befcf7446",
+      "link": "https://www.doctorbangladesh.com/dr-tawhidur-rahman/",
+      "imageId": "79885871-cd94-4b9f-af6b-79cc3653f91a",
       "name": "Dr. Tawhidur Rahman",
       "degree": "MBBS, BCS (Health), MD (Neurology)",
       "specialty": "Neurology (Brain, Stroke, Headache & Migraine) Specialist",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "National Hospital, Chittagong\nAddress: 14/15, Dampara Lane, Mehedibag, Chattogram\nVisiting Hour: 3.30pm to 6pm (Sat, Mon & Wed)\nAppointment: +8801822685066\nCall Now",
+      "info": "National Hospital, Chittagong Address: 14/15, Dampara Lane, Mehedibag, Chattogram Visiting Hour: 3.30pm to 6pm (Sat, Mon & Wed) Appointment: +8801822685066 Call Now",
       "chamber": {
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "8pm to 10pm (Tue & Wed)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "631f4224-d70a-438f-bca2-9544c4cbc244"
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "da11aee6-1a23-42f9-b8da-a1705cac4ff6",
+      "departmentId": "043d08c6-ef3b-40ef-bf7c-387befcf7446",
+      "link": "https://www.doctorbangladesh.com/dr-md-anwarul-kibria/",
+      "imageId": "1db7e958-693a-45a7-82d9-da73b03869b3",
       "name": "Dr. Md. Anwarul Kibria",
       "degree": "MBBS, BCS (Health), MD (Neurology)",
       "specialty": "Brain, Stroke, Nerve, Headache & Neurology Specialist",
@@ -164,11 +201,14 @@
         "hospital": "Medical Centre Hospital, Chittagong",
         "address": "953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+88031658501"
-      },
-      "id": "5309320f-2d63-45b4-948b-6ceeaf6a9354"
+        "appointmentNumber": "+88031658501Call Now"
+      }
     },
     {
+      "id": "f7c11676-1e64-4e4e-b466-d5787f4dda84",
+      "departmentId": "043d08c6-ef3b-40ef-bf7c-387befcf7446",
+      "link": "https://www.doctorbangladesh.com/dr-ishtiaq-ahmad/",
+      "imageId": "7011a324-3fc6-42c8-95d6-b7b6ec95af55",
       "name": "Dr. Ishtiaq Ahmad",
       "degree": "MBBS, PhD (Japan), MD (Neurology, USA)",
       "specialty": "Brain, Stroke, Nerve, Medicine & Neuromedicine Specialist",
@@ -178,39 +218,48 @@
         "hospital": "Apollo Imperial Hospital, Chittagong",
         "address": "Zakir Hossain Road, Pahartali, Chattogram",
         "visitingTime": "9am to 1pm & 4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809612247247"
-      },
-      "id": "5deb9376-8359-49aa-8eac-f78d2a67564f"
+        "appointmentNumber": "+8809612247247Call Now"
+      }
     },
     {
+      "id": "ad34a65b-72bb-4ead-bbe4-600b74082c7c",
+      "departmentId": "043d08c6-ef3b-40ef-bf7c-387befcf7446",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-taiyeb/",
+      "imageId": "93dda2e0-84b6-4dfc-a6fd-8117d71b372b",
       "name": "Dr. Muhammad Taiyeb",
       "degree": "MBBS, BCS (Health), MD (Neuro Medicine)",
       "specialty": "Brain, Nerve, Headache, Migraine & Neuromedicine Specialist",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "National Hospital, Chittagong\nAddress: 14/15, Dampara Lane, Mehedibag, Chattogram\nVisiting Hour: 3pm to 5pm (Sat, Mon & Wed)\nAppointment: +8801822685066\nCall Now",
+      "info": "National Hospital, Chittagong Address: 14/15, Dampara Lane, Mehedibag, Chattogram Visiting Hour: 3pm to 5pm (Sat, Mon & Wed) Appointment: +8801822685066 Call Now",
       "chamber": {
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "5pm to 7pm (Sat, Sun, Tue & Thu)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "94097d36-19f2-493c-9502-0548ffaafeb3"
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "57b85fd7-fdbf-47d2-9ad1-eec4709dab74",
+      "departmentId": "043d08c6-ef3b-40ef-bf7c-387befcf7446",
+      "link": "https://www.doctorbangladesh.com/dr-zaman-ahammed/",
+      "imageId": "782a6915-16c3-41aa-9b4c-daadbab345d2",
       "name": "Dr. Zaman Ahammed",
       "degree": "MBBS, BCS (Health), MD (Neurology)",
       "specialty": "Neuromedicine (Brain, Stroke, Nerve & Medicine) Specialist",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Islami Bank Hospital, Chittagong\nAddress: 3, Sheikh Mujib Road, Agrabad, Chittagong\nVisiting Hour: 5pm to 7pm (Closed: Friday)\nAppointment: +8801731253990\nCall Now",
+      "info": "Islami Bank Hospital, Chittagong Address: 3, Sheikh Mujib Road, Agrabad, Chittagong Visiting Hour: 5pm to 7pm (Closed: Friday) Appointment: +8801731253990 Call Now",
       "chamber": {
         "hospital": "Epic Healthcare, Chittagong",
         "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801984499600"
-      },
-      "id": "75e93a69-1fc8-4d89-83d0-7245273c0dd5"
+        "appointmentNumber": "+8801984499600Call Now"
+      }
     },
     {
+      "id": "b7c034a1-c0eb-49de-8f13-dba2182988c2",
+      "departmentId": "043d08c6-ef3b-40ef-bf7c-387befcf7446",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-salah-uddin/",
+      "imageId": "97256061-f25a-4c02-b30b-d899089cdaad",
       "name": "Dr. Mohammad Salahuddin",
       "degree": "MBBS, BCP, MD (Neurology)",
       "specialty": "Brain, Stroke, Nerve & Neurology Specialist",
@@ -220,25 +269,31 @@
         "hospital": "CSCR Hospital, Chittagong",
         "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
         "visitingTime": "6pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801910849630"
-      },
-      "id": "780f961a-8ae6-41eb-a832-3e8bc38e35b2"
+        "appointmentNumber": "+8801910849630Call Now"
+      }
     },
     {
+      "id": "e322320a-a989-4dae-92ea-ed7206a33725",
+      "departmentId": "043d08c6-ef3b-40ef-bf7c-387befcf7446",
+      "link": "https://www.doctorbangladesh.com/dr-nayema-masrura/",
+      "imageId": "82309564-cd82-48e1-a729-490d02e6a13c",
       "name": "Dr. Nayema Masrura",
       "degree": "MBBS, BCS (Health), MD (Neurology)",
       "specialty": "Neurology (Brain, Stroke, Nerve, Paralysis, Headache) Specialist",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Epic Health Care Ltd, East Gate Branch\nAddress: Room 808, 36 K.B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 5pm to 7pm (Closed: Friday)\nAppointment: +8801984499700, +8801894763260\nCall Now",
+      "info": "Epic Health Care Ltd, East Gate Branch Address: Room 808, 36 K.B. Fazlul Kader Road, Panchlaish, Chattogram Visiting Hour: 5pm to 7pm (Closed: Friday) Appointment: +8801984499700, +8801894763260 Call Now",
       "chamber": {
         "hospital": "Labaid Specialized Hospital, Chattogram",
         "address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662828, +8801894763260"
-      },
-      "id": "5478c2e2-09c6-42ca-bc7e-ad863379d4d0"
+        "appointmentNumber": "+8801766662828, +8801894763260Call Now"
+      }
     },
     {
+      "id": "20edb030-0b89-4ef6-8ac0-824e48b0f858",
+      "departmentId": "043d08c6-ef3b-40ef-bf7c-387befcf7446",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-najim-uddin/",
+      "imageId": "024650f6-c6e5-412b-83a3-c188d7c97bdc",
       "name": "Dr. Mohammad Najim Uddin",
       "degree": "MBBS (CMC), MCPS (Medicine), MD (Neurology)",
       "specialty": "Neurology (Brain, Nerve, Stroke, Epilepsy) & Medicine Specialist",
@@ -248,11 +303,14 @@
         "hospital": "Evercare Hospital, Chattogram",
         "address": "H1, Ananna R/A, CDA, Hathazari, Chattogram",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809610810663"
-      },
-      "id": "aa98ba22-c7e1-45fa-8e0b-397ec0990362"
+        "appointmentNumber": "+8809610810663Call Now"
+      }
     },
     {
+      "id": "1554f34c-c5b6-4ef2-9dfd-4182ba7f40ab",
+      "departmentId": "043d08c6-ef3b-40ef-bf7c-387befcf7446",
+      "link": "https://www.doctorbangladesh.com/dr-shemanta-waddadar/",
+      "imageId": "b5c568ca-6c27-4540-a0de-a79e75c15103",
       "name": "Dr. Shemanta Waddadar",
       "degree": "MBBS (CMC), BCS (Health), MD (Neurology)",
       "specialty": "Neurology (Brain, Nerve, Spine, Stroke, Headache) Specialist",
@@ -262,11 +320,14 @@
         "hospital": "Epic Healthcare, Chittagong",
         "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801984499600"
-      },
-      "id": "d8be7d88-8ca2-44f9-a693-c081566f079c"
+        "appointmentNumber": "+8801984499600Call Now"
+      }
     },
     {
+      "id": "7bc57aad-d8d6-47f8-879e-fed6c393f1ca",
+      "departmentId": "043d08c6-ef3b-40ef-bf7c-387befcf7446",
+      "link": "https://www.doctorbangladesh.com/dr-rizwan-ahmad/",
+      "imageId": "86e42ef1-d0ea-44ad-b892-4bb7f506f8d7",
       "name": "Dr. Rizwan Ahmad",
       "degree": "MBBS, MD (Neurology)",
       "specialty": "Neurology (Brain, Nerve, Stroke, Epilepsy, Headache) Specialist",
@@ -276,25 +337,31 @@
         "hospital": "Ibn Sina Diagnostic Center, Chittagong",
         "address": "House # 12/A, Road # 02, Katalgonj, Panchlaish, Chattogram",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801886610115"
-      },
-      "id": "28b56364-8304-4eef-b458-f518ee387b1f"
+        "appointmentNumber": "+8801886610115Call Now"
+      }
     },
     {
+      "id": "79b0c6e5-1391-42bb-937b-457d3c7afed8",
+      "departmentId": "043d08c6-ef3b-40ef-bf7c-387befcf7446",
+      "link": "https://www.doctorbangladesh.com/dr-md-shawkat-emran/",
+      "imageId": "00c5025c-a98e-4180-9da0-729c874ce7ff",
       "name": "Dr. Md. Shawkat Emran",
       "degree": "MBBS, BCS (Health), MD (Neurology)",
       "specialty": "Neurology (Brain, Stroke, Headache, Epilepsy, Migraine, Neck & Back Pain) Specialist",
       "workplace": "Parkview Hospital, Chittagong",
-      "info": "Chattogram Metropolitan Diagnostic Centre\nAddress: Room – 415, Forum Central, Gol Pahar Mor, Chittagong\nVisiting Hour: 7pm to 10pm (Closed: Friday)\nAppointment: +8801602839032\nCall Now",
+      "info": "Chattogram Metropolitan Diagnostic Centre Address: Room – 415, Forum Central, Gol Pahar Mor, Chittagong Visiting Hour: 7pm to 10pm (Closed: Friday) Appointment: +8801602839032 Call Now",
       "chamber": {
         "hospital": "Parkview Hospital, Chittagong",
         "address": "Room - 317, Katalganj Road, Panchlaish, Chittagong",
         "visitingTime": "3pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801716384419"
-      },
-      "id": "d08a9ec8-2873-4141-933a-d4d2c76eb540"
+        "appointmentNumber": "+8801716384419Call Now"
+      }
     },
     {
+      "id": "b3a3a6d9-e97b-4900-b9a1-f22dced23fb7",
+      "departmentId": "043d08c6-ef3b-40ef-bf7c-387befcf7446",
+      "link": "https://www.doctorbangladesh.com/dr-hamidul-haque/",
+      "imageId": "f77da1e8-f1e5-4fb4-9243-802b5aa1c18e",
       "name": "Dr. Hamidul Haque",
       "degree": "MBBS (DMC), MRCP (UK), FRCP (UK), MSc (Stroke Medicine)",
       "specialty": "Brain Injury, Epilepsy, Headache, Spinal Injury, Spasticity & Movement Disorders Specialist",
@@ -304,11 +371,14 @@
         "hospital": "Evercare Hospital, Chattogram",
         "address": "H1, Ananna R/A, CDA, Hathazari, Chattogram",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8809610810663"
-      },
-      "id": "b3a32bdc-e404-4385-abf7-57f859b3f9ed"
+        "appointmentNumber": "+8809610810663Call Now"
+      }
     },
     {
+      "id": "0bfdcd5f-3a1c-493c-ae10-6362cc9f81f7",
+      "departmentId": "043d08c6-ef3b-40ef-bf7c-387befcf7446",
+      "link": "https://www.doctorbangladesh.com/dr-sakhawat-ahmad-nasir/",
+      "imageId": "04f652ab-1a39-4adf-be99-ef3eb74d68b2",
       "name": "Dr. Sakhawat Ahmad Nasir",
       "degree": "MBBS, BCS (Health), MD (Neurology)",
       "specialty": "Neurology (Brain, Nerve, Stroke, Epilepsy, Headache) Specialist",
@@ -318,39 +388,48 @@
         "hospital": "Popular Diagnostic Center, Chittagong",
         "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "2pm to 4pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787810"
-      },
-      "id": "49fc8604-e292-4e90-b4a4-e198122a49b0"
+        "appointmentNumber": "+8809666787810Call Now"
+      }
     },
     {
+      "id": "4a4c3c3b-7ebb-4864-8e31-c722004990d1",
+      "departmentId": "043d08c6-ef3b-40ef-bf7c-387befcf7446",
+      "link": "https://www.doctorbangladesh.com/dr-priyotosh-das/",
+      "imageId": "0cf82a48-4866-470f-a782-0967766169f6",
       "name": "Dr. Priyotosh Das",
       "degree": "MBBS, BCS (Health), MD (Neurology)",
       "specialty": "Neurology (Brain, Nerve, Spine, Stroke, Migraine, Headache) Specialist",
       "workplace": "Chittagong Medical College & HospitalAppointment: 01810-004550",
-      "info": "Chittagong Square Clinical Laboratory\nAddress: 195, Plot # 20, Road # 11, KB Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 3pm to 5pm (Everyday)\nAppointment: +8801865587555\nCall Now",
+      "info": "Chittagong Square Clinical Laboratory Address: 195, Plot # 20, Road # 11, KB Fazlul Kader Road, Panchlaish, Chattogram Visiting Hour: 3pm to 5pm (Everyday) Appointment: +8801865587555 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Chittagong",
         "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "9pm to 9.30pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787810"
-      },
-      "id": "1accbeaf-f764-4104-941f-651ac77c987b"
+        "appointmentNumber": "+8809666787810Call Now"
+      }
     },
     {
+      "id": "2da7d178-e4b0-4a31-ac92-4edc940d311b",
+      "departmentId": "043d08c6-ef3b-40ef-bf7c-387befcf7446",
+      "link": "https://www.doctorbangladesh.com/dr-ahmed-tanjimul-islam/",
+      "imageId": "010474bd-8594-4f92-998b-5ae224d18372",
       "name": "Dr. Ahmed Tanjimul Islam",
       "degree": "MBBS, BCS (Health), MSc (Leeds, England), MD (Neuromedicine)",
       "specialty": "Neuromedicine (Brain, Nerve, Stroke) Specialist",
       "workplace": "Chittagong 250 Bed General Hospital",
-      "info": "Dr. Ahmed Tanjimul Islam is a Neuromedicine Specialist in Chittagong. His qualification is MBBS, BCS (Health), MSc (Leeds, England), MD (Neuromedicine). He is a Consultant, Neuromedicine at  Chittagong 250 Bed General Hospital. He regularly provides treatment to his patients at All Care Hospital & Green Diagnostic. Practicing hour of Dr. Ahmed Tanjimul Islam at All Care Hospital & Green Diagnostic is 2pm to 6pm (Closed: Friday).",
+      "info": "Dr. Ahmed Tanjimul Islam is a Neuromedicine Specialist in Chittagong. His qualification is MBBS, BCS (Health), MSc (Leeds, England), MD (Neuromedicine). He is a Consultant, Neuromedicine at Chittagong 250 Bed General Hospital. He regularly provides treatment to his patients at All Care Hospital & Green Diagnostic. Practicing hour of Dr. Ahmed Tanjimul Islam at All Care Hospital & Green Diagnostic is 2pm to 6pm (Closed: Friday).",
       "chamber": {
         "hospital": "All Care Hospital & Green Diagnostic",
         "address": "Chittagong",
         "visitingTime": "2pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801554333026"
-      },
-      "id": "b79f5389-3d3a-4470-99cb-a4f390d19413"
+        "appointmentNumber": "+8801554333026Call Now"
+      }
     },
     {
+      "id": "0468c39d-bb0c-4ddc-84ca-73d41ebd9ec1",
+      "departmentId": "043d08c6-ef3b-40ef-bf7c-387befcf7446",
+      "link": "https://www.doctorbangladesh.com/dr-md-shamsul-alam/",
+      "imageId": "bf53db48-63f5-47ad-9327-78307f124488",
       "name": "Dr. Md. Shamsul Alam",
       "degree": "MBBS, BCS (Health), MD (Neurology)",
       "specialty": "Neurology (Stroke, Headache, Epilepsy, Paralysis) Specialist",
@@ -360,23 +439,25 @@
         "hospital": "Chattogram Metropolitan Hospital",
         "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801810030999"
-      },
-      "id": "503161bf-5c93-47f3-b2d9-b540a397b2db"
+        "appointmentNumber": "+8801810030999Call Now"
+      }
     },
     {
+      "id": "22ef6d85-7693-489b-acc2-48513e6e436a",
+      "departmentId": "043d08c6-ef3b-40ef-bf7c-387befcf7446",
+      "link": "https://www.doctorbangladesh.com/dr-kamrul-hassan/",
+      "imageId": "f0758925-9303-439a-9a4c-d3fbf5596783",
       "name": "Dr. Kamrul Hassan",
       "degree": "MBBS (CMC), BCS (Health), MD (Neurology)",
       "specialty": "Neuromedicine (Brain, Stroke, Nerve, Spine) Specialist",
       "workplace": "Chattogram Medical College Hospital",
-      "info": "Popular Diagnostic Center, Chittagong\nAddress: Room 506, K. B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 5pm to 7pm (Closed: Friday)\nAppointment: +8801607517820\nCall Now",
+      "info": "Popular Diagnostic Center, Chittagong Address: Room 506, K. B. Fazlul Kader Road, Panchlaish, Chattogram Visiting Hour: 5pm to 7pm (Closed: Friday) Appointment: +8801607517820 Call Now",
       "chamber": {
         "hospital": "Labaid Specialized Hospital, Chattogram",
         "address": "Room 313, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801607517820"
-      },
-      "id": "5fc6a08b-df1f-428e-8fbb-a8ce20fb61bc"
+        "appointmentNumber": "+8801607517820Call Now"
+      }
     }
   ]
 }

@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "e1e427dd-84ab-4a2a-bca2-7c9bb1cc4c0b",
+      "departmentId": "edf230e3-649c-4018-83e6-b76c1c0880ee",
+      "link": "https://www.doctorbangladesh.com/lt-col-dr-md-shahjahan-siraj/",
+      "imageId": "ceae1502-ebe6-48bb-8fae-323333264347",
       "name": "Lt. Col. Dr. Md. Shahjahan Siraj",
       "degree": "MBBS, MCPS, DVD, FCPS (Dermatology)",
       "specialty": "Skin, Allergy, Sexual Diseases Specialist & Laser Surgeon",
@@ -10,11 +14,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "Room 802 (New Building), Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "4pm to 9pm (Sat to Wed), 10am to 3pm (Fri)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "d7a42f91-de6c-4df5-9cf6-134b99e4200a"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "fcc011ab-935a-415a-89a3-4978215439ba",
+      "departmentId": "edf230e3-649c-4018-83e6-b76c1c0880ee",
+      "link": "https://www.doctorbangladesh.com/dr-rozina-afroz/",
+      "imageId": "9e396938-af3a-4967-a29e-c18af20ac89d",
       "name": "Dr. Rozina Afroz",
       "degree": "MBBS, BCS (Health), FCPS (Dermatology & Venereology)",
       "specialty": "Skin, Allergy & Sexual Diseases Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "4pm to 7pm (Sat to Thu), 10am to 1pm (Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "d37e2967-acf9-4879-b87c-ab37d91f730d"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "af38ffbd-4d69-4498-a156-a217ad515830",
+      "departmentId": "edf230e3-649c-4018-83e6-b76c1c0880ee",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-rashidul-islam/",
+      "imageId": "9c4f56df-9652-4224-9a69-c64ab6441c0b",
       "name": "Prof. Dr. Md. Rashidul Islam",
       "degree": "MBBS (Dhaka), DD (Thailand)",
       "specialty": "Skin, Allergy & Sexual Diseases Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Bogura Skin Care",
         "address": "Nahar Villa, Mofiz Paglar Mor, Sherpur Road, Bogura",
         "visitingTime": "11am to 3pm & 7.30pm to 10pm (Everyday)",
-        "appointmentNumber": "+8801714004466"
-      },
-      "id": "b7d2e2b5-dc3a-417a-b381-4e7456535f27"
+        "appointmentNumber": "+8801714004466Call Now"
+      }
     },
     {
+      "id": "445a04fc-51f4-4954-a46e-8743e650c9ab",
+      "departmentId": "edf230e3-649c-4018-83e6-b76c1c0880ee",
+      "link": "https://www.doctorbangladesh.com/dr-md-khorshed-alam-mondal/",
+      "imageId": "de311e18-e861-42cc-ad9a-159b6043fbd9",
       "name": "Dr. Md. Khorshed Alam Mondal",
       "degree": "MBBS (RMC), BCS (Health), DDV (Dhaka), FMD (Dhaka), DDOC (Austria)",
       "specialty": "Skin, Allergy & Sexual Diseases Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
         "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
         "visitingTime": "3pm to 9pm (Sat to Thu) & 10am to 1pm (Fri)",
-        "appointmentNumber": "+8801701560011"
-      },
-      "id": "d6a77ba5-ab27-4b97-9a22-43fc3a16fa8a"
+        "appointmentNumber": "+8801701560011Call Now"
+      }
     },
     {
+      "id": "ba56e2a2-5d13-4a0f-adb5-64daa9e46d9c",
+      "departmentId": "edf230e3-649c-4018-83e6-b76c1c0880ee",
+      "link": "https://www.doctorbangladesh.com/dr-farah-safa-huq/",
+      "imageId": "4fa5a14e-dde5-4df8-b954-a3e012295a50",
       "name": "Dr. Farah Safa Huq",
       "degree": "MBBS, BCS (Health), MD (Dermatology)",
       "specialty": "Skin, Hair, Nail, Allergy, PRP Therapy & Sex Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "4pm to 7pm (Closed: Wednesday), 11am to 1pm (Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "d201de95-030f-48ad-823e-39a070df5721"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "b79a3959-eb75-4bc1-b3f7-a5fd15f35c78",
+      "departmentId": "edf230e3-649c-4018-83e6-b76c1c0880ee",
+      "link": "https://www.doctorbangladesh.com/dr-tazmeri-sultana/",
+      "imageId": "1fe436c0-1220-4d0e-a2b4-a066319c23b3",
       "name": "Dr. Mst. Tazmeri Sultana",
       "degree": "MBBS, BCS (Health), DDV (BSMMU), MCPS (Skin & Sex)",
       "specialty": "Skin, Allergy & Sexual Diseases Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "2pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "37e2ed38-42fd-41d2-b243-07d1f0bcc160"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "8f208d88-6f78-43d3-9a17-ba004147d526",
+      "departmentId": "edf230e3-649c-4018-83e6-b76c1c0880ee",
+      "link": "https://www.doctorbangladesh.com/dr-m-r-siddiqui-mamun/",
+      "imageId": "8a252711-3086-4856-8811-663b312de9ad",
       "name": "Dr. M. R. Siddiqui Mamun",
       "degree": "MBBS, BCS (Health), DDV (BSMMU), FCPS (Skin & Sex)",
       "specialty": "Skin, Allergy & Sexual Diseases Specialist",
@@ -94,11 +116,14 @@
         "hospital": "Saic General Hospital, Bogura",
         "address": "Bhai Pagla Mazar Lane, Thanthania, Bogura",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801936005870"
-      },
-      "id": "056509f1-d29f-4b08-b939-cf28eb686254"
+        "appointmentNumber": "+8801936005870Call Now"
+      }
     },
     {
+      "id": "04e5afc3-03c8-4b71-b071-5668f97acb2c",
+      "departmentId": "edf230e3-649c-4018-83e6-b76c1c0880ee",
+      "link": "https://www.doctorbangladesh.com/dr-renu-gupta-joyaa/",
+      "imageId": "07f4e183-8715-439c-913b-e9d952a13eed",
       "name": "Dr. Renu Gupta Joyaa",
       "degree": "MBBS, DDV (BSMMU)",
       "specialty": "Skin, Allergy, Sex Specialist & Dermatosurgeon",
@@ -108,11 +133,14 @@
         "hospital": "Doctors Clinic, Bogura",
         "address": "Unit 2, Thanthania, Sherpur Road, Bogura",
         "visitingTime": "4pm to 10pm (Sat to Thu) & 11am to 12pm (Fri)",
-        "appointmentNumber": "+8801726328109"
-      },
-      "id": "386e8d1a-d18b-4956-9ac7-8e4e7d612f27"
+        "appointmentNumber": "+8801726328109Call Now"
+      }
     },
     {
+      "id": "bb1e74f4-5826-41b0-9328-f168f42d9ba4",
+      "departmentId": "edf230e3-649c-4018-83e6-b76c1c0880ee",
+      "link": "https://www.doctorbangladesh.com/dr-sifat-e-jahan-antora/",
+      "imageId": "9eda3902-0a76-47e2-a6e4-3a03db65c9d3",
       "name": "Dr. Sifat-E-Jahan Antora",
       "degree": "MBBS, BCS (Health), DDV (Dermatology)",
       "specialty": "Skin, Allergy & Sex Specialist",
@@ -122,9 +150,8 @@
         "hospital": "Labaid Diagnostic, Bogura",
         "address": "House # 1872, Sherpur Road, Colony, Bogura",
         "visitingTime": "4pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801766662777"
-      },
-      "id": "84ef00d0-3e98-46db-861d-f4edc45e61a3"
+        "appointmentNumber": "+8801766662777Call Now"
+      }
     }
   ]
 }

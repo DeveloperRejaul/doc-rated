@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "0c41ba20-7e1e-45cb-a53a-083328df1b12",
+      "departmentId": "d1ff9066-060e-4d49-9da6-7b6d2c46846e",
+      "link": "https://www.doctorbangladesh.com/dr-shams-ul-islam-zakaria/",
+      "imageId": "a979e938-89c8-47df-9efa-f17866415781",
       "name": "Dr. Shams ul Islam (Zakaria)",
       "degree": "BDS, PGT, DDC",
       "specialty": "Oral and Dental Surgeon",
@@ -10,11 +14,14 @@
         "hospital": "Namira Oro-Dental Care, Bogura",
         "address": "Sherpur Road, Colony, Bogura (Fuldighi Road, District Education Office Road)",
         "visitingTime": "9am to 12pm & 4pm to 8pm",
-        "appointmentNumber": "+8801713631312"
-      },
-      "id": "6c2bce22-91c2-42ff-afa1-119f48c4afa4"
+        "appointmentNumber": "+8801713631312Call Now"
+      }
     },
     {
+      "id": "ee2138b8-c9aa-47c9-b47b-ef7befa3eae2",
+      "departmentId": "d1ff9066-060e-4d49-9da6-7b6d2c46846e",
+      "link": "https://www.doctorbangladesh.com/dr-a-r-khan/",
+      "imageId": "f9ab0377-4076-4c67-bc0b-4ad5778c87c1",
       "name": "Dr. A. R. Khan",
       "degree": "BDS, PGT (OMS)",
       "specialty": "Oral & Dental Diseases Specialist & Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "Maleka Nursing Home, Bogura",
         "address": "Sherpur Road, Sutrapur, Bogura - 5800",
         "visitingTime": "9am to 2pm & 4pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801718881897"
-      },
-      "id": "dde42882-f89c-4d68-9d27-f5536ad6b799"
+        "appointmentNumber": "+8801718881897Call Now"
+      }
     },
     {
+      "id": "f9ed9e8e-ca77-4dcb-96ec-4870a6a0e5d1",
+      "departmentId": "d1ff9066-060e-4d49-9da6-7b6d2c46846e",
+      "link": "https://www.doctorbangladesh.com/dr-md-ali-kawsar/",
+      "imageId": "88dc293a-d877-4d69-b72e-abe4114e1596",
       "name": "Dr. Md. Ali Kawsar",
       "degree": "BDS, MS (Orthodontics)",
       "specialty": "Orthodontics (Braces, Bite Problem, Jaw Problem) Specialist & Dental Surgeon",
@@ -38,11 +48,14 @@
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
         "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
         "visitingTime": "3pm to 8pm (Sun & Mon)",
-        "appointmentNumber": "+8801701560011"
-      },
-      "id": "74587a9e-46e8-4218-b39a-e125d72bcf42"
+        "appointmentNumber": "+8801701560011Call Now"
+      }
     },
     {
+      "id": "008ef00d-7410-45cf-a84b-7cfeb7327921",
+      "departmentId": "d1ff9066-060e-4d49-9da6-7b6d2c46846e",
+      "link": "https://www.doctorbangladesh.com/dr-mostofa-md-ekramul-hasan/",
+      "imageId": "797c2424-5d94-4439-8fe5-cfae716b0916",
       "name": "Dr. Mostofa Md. Ekramul Hasan",
       "degree": "BDS, MS (Prosthodontics)",
       "specialty": "General Dentistry & Prosthetic Dentistry Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
         "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
         "visitingTime": "4pm to 8pm (Sat, Tue & Thu)",
-        "appointmentNumber": "+8801701560011"
-      },
-      "id": "3f2f641e-ee29-48ce-a303-333d31d76919"
+        "appointmentNumber": "+8801701560011Call Now"
+      }
     },
     {
+      "id": "1aac2bb5-7220-42b7-b5bb-22190840e66f",
+      "departmentId": "d1ff9066-060e-4d49-9da6-7b6d2c46846e",
+      "link": "https://www.doctorbangladesh.com/dr-jahan-sadia-afroz/",
+      "imageId": "6658ce3a-6696-41d6-95b8-b998fa1b826d",
       "name": "Dr. Jahan Sadia Afroz",
       "degree": "BDS, BCS (Health)",
       "specialty": "Oral & Dental Diseases Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Pacific Dental, Maxillofacial & Implant Centre",
         "address": "Mofiz Paglar Mor, Sherpur Road, Bogura Sadar, Bogura",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801722941353"
-      },
-      "id": "9b27be1e-8ae1-41d0-a93b-675b24115b0a"
+        "appointmentNumber": "+8801722941353Call Now"
+      }
     },
     {
+      "id": "d6343e9a-ce1c-45a6-9742-f00ec3c2a2b1",
+      "departmentId": "d1ff9066-060e-4d49-9da6-7b6d2c46846e",
+      "link": "https://www.doctorbangladesh.com/dr-shaikh-ahmed-rinku/",
+      "imageId": "2ba435cd-e5d1-4e25-a019-b48e0bab46fa",
       "name": "Dr. Shaikh Ahmed Rinku",
       "degree": "FCPS (OMS), BDS (CMC)",
       "specialty": "Dental, Oral & Maxillofacial Surgery Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Pacific Dental, Maxillofacial & Implant Centre",
         "address": "Mofiz Paglar Mor, Sherpur Road, Bogura Sadar, Bogura",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801722941353"
-      },
-      "id": "50fd9cc7-0ac4-43e6-8447-073757e70eaf"
+        "appointmentNumber": "+8801722941353Call Now"
+      }
     },
     {
+      "id": "78accff1-bdd4-4d3d-a268-3c1555fd1dad",
+      "departmentId": "d1ff9066-060e-4d49-9da6-7b6d2c46846e",
+      "link": "https://www.doctorbangladesh.com/dr-faria-hossen-shanta/",
+      "imageId": "40ab880d-a89c-4c22-b6e4-26d826ecd404",
       "name": "Dr. Faria Hossen Shanta",
       "degree": "BDS, PGT (Dentistry)",
       "specialty": "Dental Specialist & Oral Surgeon",
@@ -94,11 +116,14 @@
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
         "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
         "visitingTime": "10am to 1pm (Closed: Friday)",
-        "appointmentNumber": "+8801701560011"
-      },
-      "id": "22733173-f69c-4b78-834c-b23188d9810b"
+        "appointmentNumber": "+8801701560011Call Now"
+      }
     },
     {
+      "id": "f3e64b6f-6728-4dfc-b85e-83573f40dd2f",
+      "departmentId": "d1ff9066-060e-4d49-9da6-7b6d2c46846e",
+      "link": "https://www.doctorbangladesh.com/dr-md-azizar-rahman-razu/",
+      "imageId": "cafdc7eb-7915-4a6c-a563-9ea80d0d7f95",
       "name": "Dr. Md. Azizar Rahman (Razu)",
       "degree": "BDS (DDC), MPH (Community Dentistry)",
       "specialty": "Oral & Dental Surgeon",
@@ -108,11 +133,14 @@
         "hospital": "Oro-Dental Care, Bogra",
         "address": "Mofiz Paglar Mor, Sherpur Road, Bogura",
         "visitingTime": "4pm to 9pm (Sat to Thu), 9.30am to 12.30pm (Friday)",
-        "appointmentNumber": "+8801714512771"
-      },
-      "id": "c22081c9-e3dd-47c5-b293-f97896f39487"
+        "appointmentNumber": "+8801714512771Call Now"
+      }
     },
     {
+      "id": "8646923c-e4b4-464d-9ff7-b7ee6bf21195",
+      "departmentId": "d1ff9066-060e-4d49-9da6-7b6d2c46846e",
+      "link": "https://www.doctorbangladesh.com/dr-abdullah-al-razi-rumman/",
+      "imageId": "3ef24004-14b8-482f-97be-ebaa90f14bac",
       "name": "Dr. Abdullah Al Razi Rumman",
       "degree": "BDS (RAJSHAHI)",
       "specialty": "Oral & Dental Surgeon",
@@ -122,11 +150,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "5pm to 8pm (Everyday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "6336ce22-ce37-4a8f-9c93-c562e3c80cf4"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "b5b81b95-d422-4ee8-874f-3c7b9853f6a9",
+      "departmentId": "d1ff9066-060e-4d49-9da6-7b6d2c46846e",
+      "link": "https://www.doctorbangladesh.com/dr-md-nur-islam-talukder-lemon/",
+      "imageId": "0f694fef-844c-45b3-bcf4-622d3b17aba5",
       "name": "Dr. Md. Nur Islam Talukder Lemon",
       "degree": "BDS, PGT (Dental)",
       "specialty": "Oral & Dental Diseases Specialist & Surgeon",
@@ -136,11 +167,14 @@
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
         "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
         "visitingTime": "10am to 1pm (Closed: Friday)",
-        "appointmentNumber": "+8801701560011"
-      },
-      "id": "3da428aa-068a-489a-9af0-b15e7c1c36f4"
+        "appointmentNumber": "+8801701560011Call Now"
+      }
     },
     {
+      "id": "f7fd4486-70c7-44bc-8463-b05e48cd0cfe",
+      "departmentId": "d1ff9066-060e-4d49-9da6-7b6d2c46846e",
+      "link": "https://www.doctorbangladesh.com/dr-md-humayun-kabir-sakib/",
+      "imageId": "a4220b98-3b95-4cf7-9e0d-0ea7f19fd936",
       "name": "Dr. Md. Humayun Kabir (Sakib)",
       "degree": "BDS",
       "specialty": "Oral & Dental Surgeon",
@@ -150,9 +184,8 @@
         "hospital": "Sakib's Dental Solutions & Oro-Surgery, Bogura",
         "address": "Kanuchgari (East side of Purto bhaban), Sherpur Road, Bogura",
         "visitingTime": "3.3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801777902718"
-      },
-      "id": "e038de0a-30f5-447f-a1d5-80640965d901"
+        "appointmentNumber": "+8801777902718Call Now"
+      }
     }
   ]
 }

@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "a6da51fa-1780-4b0a-b0f3-13691f606efa",
+      "departmentId": "2bf2d5d5-30dd-4107-bb62-82448d4e5e9f",
+      "link": "https://www.doctorbangladesh.com/dr-pallab-kumar-sen/",
+      "imageId": "06d05b91-5ee2-4707-b66f-d7e002180da4",
       "name": "Dr. Pallab Kumar Sen",
       "degree": "MBBS, BCS (Health), MS (EYE), Fellowship Glaucoma (LVPEI)",
       "specialty": "Eye Diseases Specialist & Surgeon",
@@ -10,11 +14,14 @@
         "hospital": "Shamsun Nahar Clinic, Bogura",
         "address": "Sherpur Road, South Thanthania, Bogura",
         "visitingTime": "4pm to 10pm (Everyday)",
-        "appointmentNumber": "+8801784909040"
-      },
-      "id": "3de072e9-4b51-45de-9a95-e3a639130bd6"
+        "appointmentNumber": "+8801784909040Call Now"
+      }
     },
     {
+      "id": "1748478d-477f-48ab-aa50-373412c8a388",
+      "departmentId": "2bf2d5d5-30dd-4107-bb62-82448d4e5e9f",
+      "link": "https://www.doctorbangladesh.com/dr-md-sahin/",
+      "imageId": "c2981db6-83a8-4979-bc55-80b4879d1e17",
       "name": "Dr. Md. Shahin",
       "degree": "MBBS, MCPS (EYE), MS (EYE)",
       "specialty": "Eye Diseases Specialist & Phaco Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "2:30pm to 4pm (Closed: Tue & Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "dd00fe91-3e45-4567-a07f-cb1126fe35b5"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "cd33c9e4-b90e-490b-9baa-0e2d31ce60e2",
+      "departmentId": "2bf2d5d5-30dd-4107-bb62-82448d4e5e9f",
+      "link": "https://www.doctorbangladesh.com/dr-md-abul-kalam-azad-eye/",
+      "imageId": "224d4bf4-505b-4a4b-9530-a0df106c97a0",
       "name": "Dr. Md. Abul Kalam Azad",
       "degree": "MBBS, DO, FCPS (EYE)",
       "specialty": "Eye Diseases Specialist & Phaco Surgeon",
@@ -38,11 +48,14 @@
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
         "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801701560011"
-      },
-      "id": "b556dbca-05f4-4f4e-b615-e4da1946146a"
+        "appointmentNumber": "+8801701560011Call Now"
+      }
     },
     {
+      "id": "37554504-8ff0-4d91-aaf0-e00d30b56c62",
+      "departmentId": "2bf2d5d5-30dd-4107-bb62-82448d4e5e9f",
+      "link": "https://www.doctorbangladesh.com/dr-ezaj-ahmed/",
+      "imageId": "bdb442b7-feff-4b2c-8d41-6e379b689213",
       "name": "Dr. Ezaj Ahmed",
       "degree": "MBBS, BCS (Health), DO (DU)",
       "specialty": "Eye Diseases Specialist & Phaco Surgeon",
@@ -52,11 +65,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "3:30pm to 7:30pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "70106b0d-8a82-45a3-847b-9825b888d08c"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "6367972f-c5c3-4745-a478-c6327d0a6b83",
+      "departmentId": "2bf2d5d5-30dd-4107-bb62-82448d4e5e9f",
+      "link": "https://www.doctorbangladesh.com/dr-md-ibrahim-khalilullah/",
+      "imageId": "0c624ff9-4e11-485c-ab82-83389fedbb56",
       "name": "Dr. Md. Ibrahim Khalilullah",
       "degree": "MBBS, BCS (Health), FCPS (EYE)",
       "specialty": "Eye Diseases Specialist, Cataract & Phaco Surgeon",
@@ -66,11 +82,14 @@
         "hospital": "Dr. Ibrahim Eye Care Center, Bogra",
         "address": "300 feet West from PTI Mor, Bogra - 5800",
         "visitingTime": "5pm to 7pm (Everyday)",
-        "appointmentNumber": "+8801737576816"
-      },
-      "id": "9d87d7d7-7583-4e77-8ae6-a594c32938ab"
+        "appointmentNumber": "+8801737576816Call Now"
+      }
     },
     {
+      "id": "9645e73a-57ad-473d-b998-0e54c6fb8b91",
+      "departmentId": "2bf2d5d5-30dd-4107-bb62-82448d4e5e9f",
+      "link": "https://www.doctorbangladesh.com/dr-partha-s-barai/",
+      "imageId": "0eeaccae-a47a-4160-9737-165985f3d2fe",
       "name": "Dr. Partha S. Barai",
       "degree": "MBBS, MS (EYE)",
       "specialty": "Eye Specialist & Surgeon",
@@ -80,11 +99,14 @@
         "hospital": "Netraloy Eye Care Centre, Bogura",
         "address": "Thanthania, Sherpur Road (Opposite to Fire Service), Bogura",
         "visitingTime": "10am to 2pm & 6.30pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801711141737"
-      },
-      "id": "02893d8c-45a7-4ac9-9a04-c80925920e94"
+        "appointmentNumber": "+8801711141737Call Now"
+      }
     },
     {
+      "id": "31770468-5d9b-4350-8ff8-9d378c9eb10a",
+      "departmentId": "2bf2d5d5-30dd-4107-bb62-82448d4e5e9f",
+      "link": "https://www.doctorbangladesh.com/dr-shamima-sultana-eye/",
+      "imageId": "a20bde0b-f5c1-40ab-ba8f-47cd33c148cb",
       "name": "Dr. Shamima Sultana",
       "degree": "MBBS (Dhaka), BCS (Health), FCPS (EYE)",
       "specialty": "Eye Specialist & Surgeon",
@@ -94,11 +116,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "Building 4, House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "4pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801766335147"
-      },
-      "id": "31e31e3b-0b68-4049-b4e6-7979ecf38d6b"
+        "appointmentNumber": "+8801766335147Call Now"
+      }
     },
     {
+      "id": "f219d8ce-a4d5-43a2-807b-6fc3bec126d6",
+      "departmentId": "2bf2d5d5-30dd-4107-bb62-82448d4e5e9f",
+      "link": "https://www.doctorbangladesh.com/dr-md-tajmilur-rahman/",
+      "imageId": "04188b4a-e9a9-482c-bdf3-f87629ea5c3f",
       "name": "Dr. Md. Tajmilur Rahman",
       "degree": "MBBS (RMC), MS (OPHTHALMOLOGY), FELLOWSHIP IN GLAUCOMA",
       "specialty": "Eye Specialist",
@@ -108,23 +133,25 @@
         "hospital": "Health City Specialized Hospital",
         "address": "Health City, Sherpur Road, Colony, Bogura",
         "visitingTime": "11am to 9pm (Tue, Wed & Thursday)",
-        "appointmentNumber": "+8801762373636"
-      },
-      "id": "16ead690-1424-419e-88dc-c9d1b8ff8b03"
+        "appointmentNumber": "+8801762373636Call Now"
+      }
     },
     {
+      "id": "ea34ccfd-d040-4ae0-8b6f-c421abf1ace5",
+      "departmentId": "2bf2d5d5-30dd-4107-bb62-82448d4e5e9f",
+      "link": "https://www.doctorbangladesh.com/dr-akshay-kumar-ray/",
+      "imageId": "6e0777a1-7552-4231-963b-5c23124dc7c2",
       "name": "Dr. Akshay Kumar Ray",
       "degree": "MBBS, MS (EYE)",
       "specialty": "Eye Specialist & Phaco Surgeon",
       "workplace": "250 Bedded Mohammad Ali Hospital, Bogra",
-      "info": "Shah Sultan Lions Eye Hospital, Bogura\nAddress: Kanachgari, Bogura (200 Meter ahead of Bangladesh Bank)\nVisiting Hour: 3pm to 6pm (Closed: Friday)\nAppointment: +8801765425981\nCall Now",
+      "info": "Shah Sultan Lions Eye Hospital, Bogura Address: Kanachgari, Bogura (200 Meter ahead of Bangladesh Bank) Visiting Hour: 3pm to 6pm (Closed: Friday) Appointment: +8801765425981 Call Now",
       "chamber": {
         "hospital": "Uttarbanga Specialized Hospita",
         "address": "Mofiz Paglar Mor, Jolesworitola, Bogura",
         "visitingTime": "6pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801711290593"
-      },
-      "id": "20c38a55-765d-449f-b8ca-eee27c63ef54"
+        "appointmentNumber": "+8801711290593Call Now"
+      }
     }
   ]
 }

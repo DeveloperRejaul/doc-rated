@@ -1,34 +1,44 @@
 {
   "doctor": [
     {
+      "id": "e2d3cbb4-3116-4a03-8e04-fff9dea3af0a",
+      "departmentId": "75c5ed71-1722-4f12-9bdb-a1b232533a71",
+      "link": "https://www.doctorbangladesh.com/dr-md-shuktarul-islam-tamim/",
+      "imageId": "71b97fe6-6a67-4855-9b87-1a871ed0435b",
       "name": "Dr. Md. Shuktarul Islam (Tamim)",
       "degree": "MBBS, MD (Neurology), CCD (BIRDEM)",
       "specialty": "Neurology (Brain, Nerve, Spine, Headache, Epilepsy, Paralysis, Stroke) Specialist",
       "workplace": "National Institute of Neurosciences & Hospital",
-      "info": "Ibn Sina Diagnostic & Consultation Center, Malibagh\nAddress: House # 479 (Building 1), DIT Road, Malibagh, Dhaka\nVisiting Hour: 4pm to 6pm (Sat, Mon & Wed)\nAppointment: +8809610009611\nCall Now",
+      "info": "Ibn Sina Diagnostic & Consultation Center, Malibagh Address: House # 479 (Building 1), DIT Road, Malibagh, Dhaka Visiting Hour: 4pm to 6pm (Sat, Mon & Wed) Appointment: +8809610009611 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Jatrabari",
         "address": "House # 79/1E, Demra Road, Bibir Bagicha, Uttar Jatrabari, Dhaka",
         "visitingTime": "6pm to 10pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809610009626"
-      },
-      "id": "5c7db813-6eb7-4a9b-ae94-b9452a6b2a26"
+        "appointmentNumber": "+8809610009626Call Now"
+      }
     },
     {
+      "id": "e9227c65-1d61-47c6-80a0-3ad2b8ddf444",
+      "departmentId": "75c5ed71-1722-4f12-9bdb-a1b232533a71",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-rafiqul-islam-neuro/",
+      "imageId": "9fdc9c3e-634c-4a4a-bbe5-a32745b823f4",
       "name": "Prof. Dr. Md. Rafiqul Islam",
       "degree": "MBBS, FCPS (Medicine)",
       "specialty": "Neurology & Medicine Specialist",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Popular Diagnostic Center, Dhanmondi\nAddress: House # 16, Road # 2, Dhanmondi, Dhaka – 1205\nVisiting Hour: 10am to 1pm (Closed: Friday)\nAppointment: +8809666787801\nCall Now",
+      "info": "Popular Diagnostic Center, Dhanmondi Address: House # 16, Road # 2, Dhanmondi, Dhaka – 1205 Visiting Hour: 10am to 1pm (Closed: Friday) Appointment: +8809666787801 Call Now",
       "chamber": {
         "hospital": "Medinova Medical Services, Dhanmondi",
         "address": "House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801750557722"
-      },
-      "id": "9072378b-fc08-45d2-89ed-f6ff16d2bdf7"
+        "appointmentNumber": "+8801750557722Call Now"
+      }
     },
     {
+      "id": "493454f7-bdc4-482c-b044-cbabdbc0fda3",
+      "departmentId": "75c5ed71-1722-4f12-9bdb-a1b232533a71",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-nazmul-hasan-chowdhury/",
+      "imageId": "c10556c6-d97a-4fc4-be54-e12d5d7a90c9",
       "name": "Prof. Dr. Md. Nazmul Hasan Chowdhury",
       "degree": "MBBS, MCPS (Medicine), MD (Neurology)",
       "specialty": "Neurology (Brain, Stroke, Nerve & Medicine) Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Gomati Hospital, Comilla",
         "address": "Nazrul Avenue, Kandirpar, Cumilla - 3500",
         "visitingTime": "4pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801711798083"
-      },
-      "id": "b538b19d-992e-4787-acf2-7706accbc7e5"
+        "appointmentNumber": "+8801711798083Call Now"
+      }
     },
     {
+      "id": "4aa9b1e6-9d29-40eb-b4ba-2749135433ae",
+      "departmentId": "75c5ed71-1722-4f12-9bdb-a1b232533a71",
+      "link": "https://www.doctorbangladesh.com/dr-panchanan-das/",
+      "imageId": "4c8bfffa-91a5-4af6-8ec7-4d6968de148f",
       "name": "Dr. Panchanan Das",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Neurology)",
       "specialty": "Brain, Stroke, Nerve, Paralysis, Headache & Medicine Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Mukti Hospital, Comilla",
         "address": "Race Course, Sasongacha, Cumilla - 3500",
         "visitingTime": "4pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801834220141"
-      },
-      "id": "0b1992cc-f2b2-4c9c-a568-2da9d356d403"
+        "appointmentNumber": "+8801834220141Call Now"
+      }
     },
     {
+      "id": "8cfc208b-af07-4a13-89e1-e9c2970f8a96",
+      "departmentId": "75c5ed71-1722-4f12-9bdb-a1b232533a71",
+      "link": "https://www.doctorbangladesh.com/dr-abdullah-al-hasan/",
+      "imageId": "14d29263-b471-4a7e-9ed0-db96135440aa",
       "name": "Dr. Md Abdullah Al Hasan",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Neurology)",
       "specialty": "Neuromedicine (Barin, Stroke, Nerve, Spine, Headache, Migraine) Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Moon Hospital, Comilla",
         "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801842365430"
-      },
-      "id": "c90db404-03ae-4920-9a73-bc8e66334017"
+        "appointmentNumber": "+8801842365430Call Now"
+      }
     },
     {
+      "id": "6a081f54-06cd-4c25-bd23-a659fb29bfdd",
+      "departmentId": "75c5ed71-1722-4f12-9bdb-a1b232533a71",
+      "link": "https://www.doctorbangladesh.com/dr-m-masum-imran/",
+      "imageId": "ea0df125-000d-4a3b-9a9d-47b8a26b6317",
       "name": "Dr. M. Masum Imran",
       "degree": "MBBS, BCS (Health), MD (Neurology)",
       "specialty": "Neurology (Brain, Nerve, Headache, Migraine, Stroke) Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "4pm to 10pm (Everyday)",
-        "appointmentNumber": "+8801726-731290"
-      },
-      "id": "11abbadd-97e4-4a55-8b5f-1927954336b4"
+        "appointmentNumber": "+8801726-731290Call Now"
+      }
     },
     {
+      "id": "9b9ebb5d-0d50-405f-9946-e0a13c0ff86f",
+      "departmentId": "75c5ed71-1722-4f12-9bdb-a1b232533a71",
+      "link": "https://www.doctorbangladesh.com/dr-nur-uddin-mohammad-yousuf/",
+      "imageId": "ecb674e5-33b5-461a-ae5e-b65af052fdb6",
       "name": "Dr. Nur Uddin Mohammad Yousuf",
       "degree": "MBBS (DMC), MD (Neurology)",
       "specialty": "Brain, Stroke, Nerve, Medicine & Neurology Specialist",
@@ -94,11 +116,14 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "10am to 8pm (Thursday & Friday)",
-        "appointmentNumber": "+8801711144786"
-      },
-      "id": "c093fd82-1fe4-4d41-be29-2d42c32c13a1"
+        "appointmentNumber": "+8801711144786Call Now"
+      }
     },
     {
+      "id": "ce420aa7-1063-4d85-9cc0-91ad55628f0c",
+      "departmentId": "75c5ed71-1722-4f12-9bdb-a1b232533a71",
+      "link": "https://www.doctorbangladesh.com/dr-humayun-kabir-sarkar/",
+      "imageId": "222ce700-b3d8-4927-bc1e-35aa6e830961",
       "name": "Dr. Humayun Kabir Sarker",
       "degree": "MBBS, BCS (Health), MD (Neurology), FCPS (Medicine)",
       "specialty": "Neurology (Brain, Stroke, Nerve, Migraine, Headache) & Medicine Specialist",
@@ -108,11 +133,14 @@
         "hospital": "CD Path & Hospital Pvt. Ltd.",
         "address": "Shishu Monagal Road, Badurtoal, Cumilla – 3500",
         "visitingTime": "2pm to 10pm (Only Thursday)",
-        "appointmentNumber": "+8801321180930"
-      },
-      "id": "8a5e3ddf-ef48-4537-a6d2-c04d13bd08d1"
+        "appointmentNumber": "+8801321180930Call Now"
+      }
     },
     {
+      "id": "d2fb880b-989c-4829-892b-454e24d3c675",
+      "departmentId": "75c5ed71-1722-4f12-9bdb-a1b232533a71",
+      "link": "https://www.doctorbangladesh.com/dr-md-kamal-uddin-neurology/",
+      "imageId": "0899bf93-f71b-460b-8e79-fdfdba84b939",
       "name": "Dr. Md. Kamal Uddin",
       "degree": "MBBS, BCS (Health), MD (Neurology)",
       "specialty": "Brain, Stroke, Paralysis, Headache & Neurology Specialist",
@@ -122,11 +150,14 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801300405790"
-      },
-      "id": "aa7d4055-0ba6-4adc-8e36-6f9577b17602"
+        "appointmentNumber": "+8801300405790Call Now"
+      }
     },
     {
+      "id": "8cd7c2cc-fab4-4431-9de0-6125ac8235cb",
+      "departmentId": "75c5ed71-1722-4f12-9bdb-a1b232533a71",
+      "link": "https://www.doctorbangladesh.com/dr-soumitra-das/",
+      "imageId": "34ee87db-bebe-49a8-a8c1-b5678c268da5",
       "name": "Dr. Soumitra Das",
       "degree": "MBBS, MD (Neurology)",
       "specialty": "Brain, Stroke, Nerve & Neurology Specialist",
@@ -136,23 +167,25 @@
         "hospital": "Comilla Trauma Center",
         "address": "511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla",
         "visitingTime": "3pm to 8pm (Everyday)",
-        "appointmentNumber": "+8809612808182"
-      },
-      "id": "95640668-a612-4d59-9a1d-11df59ce091c"
+        "appointmentNumber": "+8809612808182Call Now"
+      }
     },
     {
+      "id": "916c89ce-cc5a-4369-a357-d44d6a7fecbc",
+      "departmentId": "75c5ed71-1722-4f12-9bdb-a1b232533a71",
+      "link": "https://www.doctorbangladesh.com/dr-mazharul-islam/",
+      "imageId": "5a97d70f-7d84-4266-8d21-885a6827edb5",
       "name": "Dr. Md. Mazharul Islam",
       "degree": "MBBS, BCS (Health), MD (Neurology), MRCP (Paces), CCD (BIRDEM)",
       "specialty": "Neurology (Brain, Nerve, Spine, Stroke, Migraine, Headache) Specialist",
       "workplace": "National Institute of Neurosciences & Hospital (NINS), Dhaka",
-      "info": "Mukti Hospital, Comilla\nAddress: Race Course, Sasongacha, Cumilla – 3500\nVisiting Hour: Evening (Only Tuesday)\nAppointment: +8801834220141\nCall Now",
+      "info": "Mukti Hospital, Comilla Address: Race Course, Sasongacha, Cumilla – 3500 Visiting Hour: Evening (Only Tuesday) Appointment: +8801834220141 Call Now",
       "chamber": {
         "hospital": "Universal Medical College Hospital",
         "address": "74G/75, Pea-cock Square, New Airport Road, Dhaka 1215",
         "visitingTime": "5pm to 9pm (Closed: Tue & Friday)",
-        "appointmentNumber": "10667"
-      },
-      "id": "f932fac8-da36-46a9-93a2-56373e8b55cc"
+        "appointmentNumber": "10667Call Now"
+      }
     }
   ]
 }

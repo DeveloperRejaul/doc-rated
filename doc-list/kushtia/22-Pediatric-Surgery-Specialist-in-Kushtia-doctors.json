@@ -1,20 +1,10 @@
 {
   "doctor": [
     {
-      "name": "Dr. Md. Moniruzzaman (Tipu)",
-      "degree": "MBBS, MS (Pediatric Surgery)",
-      "specialty": "Pediatric Surgeon",
-      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
-      "info": "Kushtia Trauma Center & Specialized Hospital\nAddress: Wasi Tower, 97/5, Ram Chandra Ray Chowdhury Road, Courtpara, Kushtia\nVisiting Hour: Thursday (2.30pm to 8pm), Friday ( 9.00am to 5.00pm)\nAppointment: +8801407984249\nCall Now",
-      "chamber": {
-        "hospital": "Maleka Nursing Home, Bogura",
-        "address": "Yakubia mor, Sherpur Road, Sutrapur, Bogura - 5800",
-        "visitingTime": "4pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801407984249"
-      },
-      "id": "3cddc352-05df-42ca-bfab-8e797c480722"
-    },
-    {
+      "id": "d785ef5d-1a52-4603-af78-6d15836ef1ea",
+      "departmentId": "f229a935-e3dc-44ad-b924-a258f8d1d11b",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahbubul-alam-biplob/",
+      "imageId": "3ab9d068-40fa-4b4c-bca2-82cefaa457e6",
       "name": "Dr. Md. Mahbubul Alam (Biplob)",
       "degree": "MBBS (DMC), BCS (Health), MS (Pediatric Surgery), FACS (USA)",
       "specialty": "Pediatric Surgery Specialist",
@@ -24,11 +14,31 @@
         "hospital": "Sono Diagnostic Center, Kushtia",
         "address": "Sono Tower, College Mor, Court Para, Kushtia",
         "visitingTime": "2.30pm to 4.30pm (Only Tuesday)",
-        "appointmentNumber": "+8801712048507"
-      },
-      "id": "ec347fc5-1175-48ac-8dd9-399fe780bf49"
+        "appointmentNumber": "+8801712048507Call Now"
+      }
     },
     {
+      "id": "b0d647d8-d2cc-46e3-a0ca-1631ccd45b6c",
+      "departmentId": "f229a935-e3dc-44ad-b924-a258f8d1d11b",
+      "link": "https://www.doctorbangladesh.com/dr-md-moniruzzaman-tipu/",
+      "imageId": "65d40c59-bf03-4786-a4aa-94bf93b58bfa",
+      "name": "Dr. Md. Moniruzzaman (Tipu)",
+      "degree": "MBBS, MS (Pediatric Surgery)",
+      "specialty": "Pediatric Surgeon",
+      "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
+      "info": "Kushtia Trauma Center & Specialized Hospital Address: Wasi Tower, 97/5, Ram Chandra Ray Chowdhury Road, Courtpara, Kushtia Visiting Hour: Thursday (2.30pm to 8pm), Friday ( 9.00am to 5.00pm) Appointment: +8801407984249 Call Now",
+      "chamber": {
+        "hospital": "Maleka Nursing Home, Bogura",
+        "address": "Yakubia mor, Sherpur Road, Sutrapur, Bogura - 5800",
+        "visitingTime": "4pm to 8pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801407984249Call Now"
+      }
+    },
+    {
+      "id": "61126a02-0de6-47b1-9f89-cdc7facb3e6c",
+      "departmentId": "f229a935-e3dc-44ad-b924-a258f8d1d11b",
+      "link": "https://www.doctorbangladesh.com/dr-md-samiul-huq-shimon/",
+      "imageId": "ff8dfce8-ed0c-4b23-9972-900095f10e88",
       "name": "Dr. Md. Samiul Huq Shimon",
       "degree": "MBBS, BCS (Health), MS (Pediatric Surgery)",
       "specialty": "Pediatric Surgeon",
@@ -38,9 +48,8 @@
         "hospital": "Sono Consultation Center, Kushtia",
         "address": "Sono Tower 2, Roo: 403, Court Para, Kushtia, Bangladesh",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801302890199"
-      },
-      "id": "4ea36f24-02f0-4b06-b74d-d1c62d7fa523"
+        "appointmentNumber": "+8801302890199Call Now"
+      }
     }
   ]
 }

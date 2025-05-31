@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "71f6240b-581d-4133-b33a-87c108583017",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-md-imran-hossain-dentist/",
+      "imageId": "36ec6850-d16a-492f-ad75-258de409b60b",
       "name": "Dr. Md. Imran Hossain",
       "degree": "BDS (DU), PhD (Dental Surgery) France, MSS (Clinical) DU, MPH (USA), PGT (Orthodontic)",
       "specialty": "Dental Implant, Invisalign, Dental Braces, Smile Design, TM Joint Disorder, Tooth Whitening, Perfect Root Canal, Cancer Operation, Tooth Whitening, Dental Jewelry, Cleft Lip & Palate Surgery Specialist",
@@ -10,25 +14,31 @@
         "hospital": "Dental View Orthodontics & Implant Center",
         "address": "House No # 67/C, Road # 11, Block # E, Banani, Dhaka-1213",
         "visitingTime": "10am to 9.30pm (Everyday)",
-        "appointmentNumber": "+8801789280929"
-      },
-      "id": "b71497b2-9583-4491-8d9d-dacfb10a6b81"
+        "appointmentNumber": "+8801789280929Call Now"
+      }
     },
     {
+      "id": "2e4b18bc-a99a-42dd-8bad-c587a5ec9a52",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/prof-dr-b-a-k-azad/",
+      "imageId": "7d44517c-0cd6-41a2-8a41-6998532bf50a",
       "name": "Prof. Dr. B.A.K Azad",
       "degree": "BDS, DDS, MCPS, MDS (London), FICP (America)",
-      "specialty": "Root Canal Treatment, Orthodontic Braces, Aesthetic Filling, Painless Scaling, Dental Implant & Crown Bridge",
+      "specialty": "Root Canal Treatment, Orthodontic Braces, Aesthetic Filling,Painless Scaling, Dental Implant & Crown Bridge",
       "workplace": "Former Head of Orthodontics Department, Dhaka Dental College, DhakaEx-Principal- Dhaka Dental College, DhakaEx-Director- DG Health, Mohakhali, DhakaResident Dental Sugeron (Ex)University College Hospital, London, UKFocal Point (Dentistry)World Health Organization, South East Asia RegionPresident-Bangladesh Dental Research Foundation",
       "info": "Prof.Dr B.A.K Azad is one of the most renowned Dentist in Bangladesh. He passed Bachelor of Dental surgery (BDS) from Dhaka Dental College in 1984. Then he took Diploma in Dental Surgery (DDS) from the University of Dhaka in 1988. After that Dr. Azad completed his MCPS from Bangladesh College of Physicians and Surgeons. Then in 1998, he took his MDS (Master in Dental Surgery) in prosthetic dentistry from the University of London. He is also a fellow of International college of Ptosthodontists (FICP), America. In Bangladesh Dr. Azad started his professional career by joining Bangladesh Civil Service Health Cadre in 1985. After serving in the different levels he became a professor & head of Orhtodontics of Dhaka Dental College and hospital. Dr. Azad also served as a postgraduate trainee in Eastman Dental Hospital, London, UK. He also served as a Principal of Dhaka Dental College, the only government owned Dental College in Bangladesh and also served as a Director, (Dental) at Directorate General of Health Services (DGHS), Ministry of health and family welfare. Now he is serving as a Focal Point (Consultant) in World Health Organization (WHO).",
       "chamber": {
         "hospital": "Professor’s Dental Surgery",
         "address": "House # 18/A, Road # 6, Dhanmondi Plaza (2nd Floor), Opposite to Gonoshasthaya Nagar Hospital, Mirpur Road, Dhanmondi",
-        "visitingTime": "10am to 1pm & 4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801715157722"
-      },
-      "id": "ef13f47a-73ac-45df-badd-360ca2368600"
+        "visitingTime": "10am to 1pm & 4pm to 9pm (Friday On Appointment)",
+        "appointmentNumber": "+8801715157722Call Now"
+      }
     },
     {
+      "id": "d7d3d900-5898-4734-85aa-3b71652802a7",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-md-haider-ali-khan/",
+      "imageId": "088602c7-a262-426a-b0c2-0df8d7642e00",
       "name": "Dr. Md. Haider Ali Khan",
       "degree": "BDS (Dhaka), MPH (BSMMU), MPhil (BSMMU), BCS (Health), TCTP (Sri Lanka)",
       "specialty": "Orthodontic, Dental Implant & General Dentistry Specialist",
@@ -38,39 +48,48 @@
         "hospital": "Cosmodent Dental Care",
         "address": "21/1, Zigatola Bus Stand, Dhanmondi, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801611957515"
-      },
-      "id": "540b2ea3-16e0-4604-9d71-5bc21083b7c7"
+        "appointmentNumber": "+8801611957515Call Now"
+      }
     },
     {
+      "id": "c5dc16e3-9819-407f-81b4-b2bf17dc593f",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/assoc-prof-dr-aslam-almehdi/",
+      "imageId": "98c40db6-ec2e-45d1-8e69-59a39aa6544a",
       "name": "Assoc. Prof. Dr. Aslam Almehdi",
       "degree": "Ph.D (Tokyo), MS (Korea), BDS (DU), FIAOO (UK), FICD (USA), Postdoc (Australia)",
       "specialty": "Dental Implant, Dental & Orofacial Pain, Oral Cancer, Cleft Lip & Palate Surgery, Periodontal Plastic Surgery, Oral & Maxillofacial Surgery, Periodontal Plastic & Maxillofacial Surgeon",
       "workplace": "Delta Medical College & Hospital",
-      "info": "York Hospital Ltd. Banani\nAddress: House # 12 & 13, Road # 22, Block # K, Banani, Dhaka-1213\nVisiting Hour: 10am to 2pm (Closed: Friday)\nAppointment: +8801711780957\nCall Now",
+      "info": "York Hospital Ltd. Banani Address: House # 12 & 13, Road # 22, Block # K, Banani, Dhaka-1213 Visiting Hour: 10am to 2pm (Closed: Friday) Appointment: +8801711780957 Call Now",
       "chamber": {
         "hospital": "Royal Dental & Maxillofacial Surgery",
         "address": "House # 78/E, Road # 12, Banani, Dhaka-1213",
         "visitingTime": "10am to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801311129952"
-      },
-      "id": "caa0c1a4-6824-4f4f-9170-9f0e823ece7d"
+        "appointmentNumber": "+8801311129952Call Now"
+      }
     },
     {
+      "id": "c8fde26e-067d-4dbd-9256-7ba645600bd6",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-ruhul-amin-dentist/",
+      "imageId": "b8c2c337-1d8f-44c9-9c18-b65a60192acd",
       "name": "Prof. Dr. Md. Ruhul Amin",
       "degree": "BDS, DAND, DDS, MS",
       "specialty": "Dental, Oral & Maxillofacial Surgery Specialist",
       "workplace": "Dhaka Dental College & Hospital",
-      "info": "The Dental Centre, Rampura\nAddress: 17/A, DIT Road (1st Floor), East Rampura, Dhaka\nVisiting Hour: 5pm to 9pm (Sun, Tue & Thu)\nAppointment: +8801758898742\nCall Now",
+      "info": "The Dental Centre, Rampura Address: 17/A, DIT Road (1st Floor), East Rampura, Dhaka Visiting Hour: 5pm to 9pm (Sun, Tue & Thu) Appointment: +8801758898742 Call Now",
       "chamber": {
         "hospital": "The Dental Centre, Dhanmondi",
         "address": "Room # 3/3 (Level 4), House # 50, Road # 9/A, Satmasjid Road, Dhanmandi, Dhaka",
         "visitingTime": "5pm to 9pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801817541005"
-      },
-      "id": "fcbb0241-f494-437d-a5c6-5a257fa44859"
+        "appointmentNumber": "+8801817541005Call Now"
+      }
     },
     {
+      "id": "08eb8bf3-1df8-42dd-b839-724d22b5cb2d",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-sk-nazrul-islam/",
+      "imageId": "204e00d9-452f-44f5-b86a-8183f1030b38",
       "name": "Dr. Sk. Nazrul Islam",
       "degree": "BDS (DU), PGT (BK), FAES (USA), MCPS (BD)",
       "specialty": "Root Canal, Dental Implant, Orthodontic Bracing & Beauty Dentistry Specialist",
@@ -80,25 +99,31 @@
         "hospital": "Endo Dental",
         "address": "Anannya Shopping Complex (3rd Floor), DOHS Baridhara, Gulshan, Dhaka",
         "visitingTime": "10am to 8pm (Closed: Wednesday)",
-        "appointmentNumber": "+8801711528345"
-      },
-      "id": "b84002f8-618a-4794-83ec-caba1734b72f"
+        "appointmentNumber": "+8801711528345Call Now"
+      }
     },
     {
+      "id": "7be4f3c7-52ac-4eaf-9071-ad6567592ba5",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/prof-dr-motiur-rahman-molla/",
+      "imageId": "64e214a3-c0b4-4564-8048-706c9f1bbb49",
       "name": "Prof. Dr. Motiur Rahman Molla",
       "degree": "BDS, FCPS (Hons), PhD (OMS-Japan), FDS, RCPS (Glasgow, UK)",
       "specialty": "Oral, Dental & Maxillofacial Surgery Specialist",
       "workplace": "Evercare Hospital, Dhaka",
-      "info": "Anwer Khan Modern Medical College Hospital\nAddress: House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205\nVisiting Hour: 11am to 2pm (Closed: Thursday & Friday)\nAppointment: +8801912920712\nCall Now",
+      "info": "Anwer Khan Modern Medical College Hospital Address: House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205 Visiting Hour: 11am to 2pm (Closed: Thursday & Friday) Appointment: +8801912920712 Call Now",
       "chamber": {
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10678"
-      },
-      "id": "39fe2254-f009-4ab8-9884-bf4b3445db7b"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "71e988d4-dafd-4087-9305-66cf46cddc1a",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/prof-dr-nurul-amin/",
+      "imageId": "dbb6baae-844b-4483-a7a8-0126cdecab87",
       "name": "Prof. Dr. Nurul Amin",
       "degree": "BDS (Dhaka), PhD (Japan)",
       "specialty": "Dental, Oral & Maxillofacial Surgery Specialist",
@@ -108,11 +133,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "7pm to 9pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "6159b8cb-4e37-4340-a32a-d17024804016"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "99fdbc0d-e51e-47df-949c-b9340be766e2",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-s-m-anwar-sadat/",
+      "imageId": "98154406-d243-4399-9cd6-fc24f8721e1c",
       "name": "Dr. S. M. Anwar Sadat",
       "degree": "BDS, MCPS, FCPS (Oral & Maxillofacial Surgery), MS (OMS), FDSRCPS (UK)",
       "specialty": "Dental, Oral & Maxillofacial Surgery Specialist",
@@ -122,11 +150,14 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "f95641a1-bbde-400f-a2a1-91b8c8e9cc36"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "9957398b-c0e0-4085-b67f-488233d83db7",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/prof-dr-kamrun-nahar-sumi/",
+      "imageId": "7e2372d2-9484-42dc-9010-4d0134455dce",
       "name": "Dr. Kamrun Nahar Sumi",
       "degree": "BDS, BCS (Health), MS (CD)",
       "specialty": "Oral, Dental & Maxillofacial Specialist Surgeon",
@@ -136,11 +167,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Tues, Thurs & Friday)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "7c528bbf-f830-4024-8a40-aee0e87e55d6"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "57c284e6-c946-4b79-9b97-b041b041039b",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/prof-dr-mohammad-shafi-ullah/",
+      "imageId": "a75a9029-3270-4fd7-be46-af44625516e8",
       "name": "Prof. Dr. Mohammad Shafi Ullah",
       "degree": "BDS, MSc (Norway), DDS (BSMMU), PGT, MCPS. FICD (USA)",
       "specialty": "Root Canal Specialist & Dental Cosmetic Surgeon",
@@ -150,11 +184,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "6pm to 9pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "c7061ecf-053e-4696-abf7-fb4902c77cd4"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "c62d03e6-8e92-487e-bbb2-aa114099f161",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-abdullah-al-masud/",
+      "imageId": "372bded3-53e6-42b0-bd75-47cb5dba55ff",
       "name": "Dr. Abdullah Al Masud",
       "degree": "BDS, FCPS (Oral & Maxilofacial Surgery)",
       "specialty": "Oral, Dental, Oral Cancer & Maxillofacial Surgery Specialist",
@@ -164,11 +201,14 @@
         "hospital": "Labaid Cancer Hospital & Super Speciality Center",
         "address": "26, Green Road, Dhaka",
         "visitingTime": "4pm to 6pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809666710001"
-      },
-      "id": "0062100c-28bf-4cac-be28-8bc4a8ec4e8e"
+        "appointmentNumber": "+8809666710001Call Now"
+      }
     },
     {
+      "id": "1a56b5e4-b3e7-48a5-aacf-71d2dd035a6e",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/prof-dr-quazi-billur-rahman/",
+      "imageId": "768bd096-6140-48f1-a3cf-ebbe16cfd636",
       "name": "Prof. Dr. Quazi Billur Rahman",
       "degree": "MD (Stomatology), PGD (OMFS), PhD (OMFS)",
       "specialty": "Dental, Oral & Maxillofacial Surgeon",
@@ -178,11 +218,14 @@
         "hospital": "Health and Hope Hospital",
         "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809611996699"
-      },
-      "id": "5c868f79-2b46-4f51-a472-937ed8ffadbf"
+        "appointmentNumber": "+8809611996699Call Now"
+      }
     },
     {
+      "id": "1d9a0606-df93-4288-9ff0-18b8d1c2ffb3",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-wares-uddin/",
+      "imageId": "770f853e-a4d4-43ed-b365-f08cabea8199",
       "name": "Prof. Dr. Md. Wares Uddin",
       "degree": "BDS, BCS (Health), MS (OMS)",
       "specialty": "Oral, Dental & Maxillofacial Surgery Specialist",
@@ -192,11 +235,14 @@
         "hospital": "Labaid Cancer Hospital & Super Speciality Center",
         "address": "26, Green Road, Dhaka",
         "visitingTime": "6pm to 9pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8809666710001"
-      },
-      "id": "a221c60a-50dd-45cd-9855-a284d3df37c3"
+        "appointmentNumber": "+8809666710001Call Now"
+      }
     },
     {
+      "id": "c59902ff-3464-4110-b01e-99f37e4b6651",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/brig-gen-dr-golam-mohiuddin-chowdhury/",
+      "imageId": "4d6cb436-6df9-4d9b-bd81-b1e420fd6e0a",
       "name": "Brig. Gen. Dr. Golam Mohiuddin Chowdhury",
       "degree": "BDS, PGC, FCPS",
       "specialty": "Dental, Oral & Maxillofacial Surgery Specialist",
@@ -206,11 +252,14 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "10678"
-      },
-      "id": "fe32579b-c2b5-4ec7-aa70-6644722dabba"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "7caf741b-f6d5-4d5b-8f63-c2353ec559b3",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-roksana-begum/",
+      "imageId": "8caa6b78-590e-4531-adc8-0f6f65bbd397",
       "name": "Dr. Roksana Begum",
       "degree": "BDS (DDC), PGT (MOHKSA)",
       "specialty": "General Dentistry (Fillings, Root Canals, Extractions) Specialist",
@@ -220,11 +269,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "5pm to 9pm (Closed: Thursday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "8089f939-f4e8-4271-8ef4-88b8f9c4a071"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "cd1f4d78-0fa9-4722-9fc2-cab904b6d135",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-ullah/",
+      "imageId": "df66d2d4-89db-4693-9a87-0f1ad012e494",
       "name": "Dr. Mohammad Ullah",
       "degree": "BDS, FCPS (OMS)",
       "specialty": "Dental, Oral & Maxillofacial Specialist Surgeon",
@@ -234,11 +286,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "2f5e0503-3601-489f-830a-18a072852f41"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "5f9d196f-6a31-4175-81c4-0a650a9a4455",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/prof-dr-nasir-uddin/",
+      "imageId": "c7d2faeb-cbe6-4bec-a003-2e3b8d706c54",
       "name": "Prof. Dr. Nasir Uddin",
       "degree": "BDS, MS (OMS), Advance Training (Japan)",
       "specialty": "Dental, Oral & Maxillofacial Surgeon",
@@ -248,11 +303,14 @@
         "hospital": "Avenue Dental Care",
         "address": "3/1, West Dhanmondi, Satmosjid Road, Dhaka - 1207",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801611606095"
-      },
-      "id": "f0e91b8a-7b4a-460b-8625-e8e03e1d080a"
+        "appointmentNumber": "+8801611606095Call Now"
+      }
     },
     {
+      "id": "058410f0-c71f-4396-b008-6bb283b38b24",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-md-wazed-ali/",
+      "imageId": "5b788598-788d-40db-baa0-62cfd9e9dce4",
       "name": "Dr. Md. Wazed Ali",
       "degree": "BDS, DDS (BSMMU), FCPS (Orthodontics)",
       "specialty": "Orthodontics (Braces, Bite Problem, Jaw Problem) Specialist & Surgeon",
@@ -262,11 +320,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "4pm to 6pm (Saturday & Tuesday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "7d8f73d6-5457-4647-8ea3-51605c9784ad"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "5edd0ebe-da24-4de8-a809-013c28929110",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-uday-kumar-goswami/",
+      "imageId": "97cef13d-34ec-4e0d-ad09-c2ae89d2b9ba",
       "name": "Dr. Uday Kumar Goswami",
       "degree": "BDS, FCPS ( Oral & Maxillofacial Surgery)",
       "specialty": "Oral & Maxillofacial Surgeon",
@@ -276,11 +337,14 @@
         "hospital": "Kalyani Diagnostic Center",
         "address": "346, Elephant Road (Opposite to Eastern Mollika Market), Dhaka",
         "visitingTime": "5pm to 8pm (Sun, Tue & Thursday)",
-        "appointmentNumber": "+8801754135153"
-      },
-      "id": "9af5e32c-f948-470e-bff3-85d6a183c05b"
+        "appointmentNumber": "+8801754135153Call Now"
+      }
     },
     {
+      "id": "e148ca94-2ebd-48a5-838d-3891773e2a54",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-wahidul-islam-prince/",
+      "imageId": "8a5d9073-dde2-4ae3-8862-4d58007fcf48",
       "name": "Dr. Mohammad Wahidul Islam Prince",
       "degree": "BDS, FCPS (OMFS)",
       "specialty": "Oral & Maxillofacial Surgeon",
@@ -290,11 +354,14 @@
         "hospital": "Your Dentist",
         "address": "House # 39/A, Road # 8, Dhanmondi, Dhaka - 1205",
         "visitingTime": "5pm to 10pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801711152706"
-      },
-      "id": "0afdeffa-800a-4a20-b696-0083ece97c51"
+        "appointmentNumber": "+8801711152706Call Now"
+      }
     },
     {
+      "id": "834e085b-b6f2-4fbb-940c-13b762b56fc5",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/prof-dr-farzana-anar/",
+      "imageId": "8b19e9ac-d906-4b28-a8da-fc8abf188e2e",
       "name": "Dr. Farzana Anar",
       "degree": "BDS, FCPS",
       "specialty": "Conservative Dentistry & Endodotics Specialist",
@@ -304,11 +371,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "2pm to 6pm (Mon, Tue & Thu)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "00eecf2b-c968-478a-88bb-55db2006225e"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "024106ad-e8bd-4b88-94c8-75c331c0148b",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-md-tariqul-islam-rabin/",
+      "imageId": "cc1d7b47-8445-4b7d-9d45-831f602a66cb",
       "name": "Dr. Md. Tariqul Islam Rabin",
       "degree": "BDS (DU), PGT (Dental)",
       "specialty": "Dental Specialist & Surgeon",
@@ -318,11 +388,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Savar",
         "address": "31/6 Jaleshwar, Aricha Road, Savar, Dhaka - 1340",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+88 09610009613"
-      },
-      "id": "deb2d70b-7033-4e7b-b453-0a0e321c6f83"
+        "appointmentNumber": "+88 09610009613Call Now"
+      }
     },
     {
+      "id": "d3fdcdea-ef02-40e9-9bcf-ebde2f61256a",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-sultana-parveen-lipa/",
+      "imageId": "0f7be480-20fd-4ba6-b61a-6825e1a8c35e",
       "name": "Dr. Sultana Parveen Lipa",
       "degree": "BDS, FCPS",
       "specialty": "Consultant & Dental Surgeon",
@@ -332,11 +405,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "5pm to 9pm (Closed: Sunday & Friday)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "7bb4b982-c3e6-4cfb-8b92-ebf475e3041f"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
+      "id": "a0396657-eede-4952-8314-b8462698e283",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-md-nadimul-hasan/",
+      "imageId": "c0369ebf-8987-467a-ad71-56debf0ae253",
       "name": "Dr. Md. Nadimul Hasan",
       "degree": "BDS, MS (Maxillofacial Surgery), Training (AU), JICA Fellow (Cancer Surgery)",
       "specialty": "Oral & Maxillofacial Surgery Specialist",
@@ -346,11 +422,14 @@
         "hospital": "Bangladesh Specialized Hospital",
         "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8809666700100"
-      },
-      "id": "bc0e1e41-cd33-4dc8-a651-36da8b52188e"
+        "appointmentNumber": "+8809666700100Call Now"
+      }
     },
     {
+      "id": "b217bd7f-d64d-42f3-9eaa-301ebcb29a19",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-towhid-tofail/",
+      "imageId": "afeb7b6b-93f8-4c21-b444-7d9a48f9adfd",
       "name": "Dr. Towhid Tofail",
       "degree": "BDS, MCPS, FCPS (Prosthodontics), MFD (RCS Ireland)",
       "specialty": "Prosthodontics (Dental Implants, Crowns, Bridges, Dentures) Specialist",
@@ -360,11 +439,14 @@
         "hospital": "Brushboy's Dental Care",
         "address": "11/1 (2nd Floor), Jigatola, Road # 4/A, Dhanmondi, Dhaka",
         "visitingTime": "6pm to 9pm (Saturday, Monday & Wednesday)",
-        "appointmentNumber": "+8801916437350"
-      },
-      "id": "6df3b3ad-353f-4996-8d8f-996567d2a69f"
+        "appointmentNumber": "+8801916437350Call Now"
+      }
     },
     {
+      "id": "c25ff8b9-5ace-41e9-abd7-9582ec7c2398",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-md-mubashirul-haque/",
+      "imageId": "fc6e3d8d-58da-482d-b860-4d821b6d3f50",
       "name": "Dr. Md. Mubashirul Haque",
       "degree": "BDS (DU), MS (Oral & Maxillofacial Surgeon)",
       "specialty": "Oral & Maxillofacial Surgeon",
@@ -374,11 +456,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "6pm to 9pm (Sun,Tue & Thursday)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "3786e750-7dff-4528-abfe-f039c008c292"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
+      "id": "823538b7-6ef9-47b6-999f-b400d54f0215",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-sufia-nasrin-rita/",
+      "imageId": "0a918fa9-ca88-42bb-af1e-6dbd1e31d3d7",
       "name": "Prof. Dr. Sufia Nasrin Rita",
       "degree": "BDS, FCPS (Orthodontics)",
       "specialty": "Orthodontics (Braces, Bite Problem, Jaw Problem) Specialist & Surgeon",
@@ -388,11 +473,14 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "56176b16-f840-40a1-99af-4fc6733d0eee"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "6d681ea9-94d7-426f-9e11-309ea2a7eb6e",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-shamim-al-mamun/",
+      "imageId": "597b78f3-0f67-47d7-9e5b-cd5a2e29020c",
       "name": "Dr. Mohammad Shamim Al Mamun",
       "degree": "BDS (DDC), FCPS (Orthodontics)",
       "specialty": "Oral, Dental Surgeon, Orthodontics & Dentofacial Orthopedics Specialist",
@@ -402,11 +490,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "10606"
-      },
-      "id": "e4c51cde-dc39-425d-85d0-84068c2a92b1"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "5afdcda6-b1af-4b0b-bcc3-dc30b9281cb4",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-fakrul-hassan-rony/",
+      "imageId": "9071be7a-e3f1-4e07-b9da-8727a15bcb1c",
       "name": "Dr. Fakrul Hassan Rony",
       "degree": "BDS, FCPS (OMS)",
       "specialty": "Dental, Oral & Maxillofacial Specialist Surgeon",
@@ -416,11 +507,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "3e80b801-92d0-41fe-8b4e-aa37cfaeaed4"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "79a986eb-f2ba-4fb5-9e8c-71a520222fab",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-sayeedul-islam-sohel/",
+      "imageId": "0c786bcc-398f-40d0-93c1-8fa70dd58044",
       "name": "Dr. Md. Sayeedul Islam (Sohel)",
       "degree": "BDS, FCPS (Orthodontics), PGT",
       "specialty": "Orthodontics & Dentofacial Orthopedics Specialist",
@@ -430,11 +524,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "3.30pm to 5pm (Wednesday & Thursday)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "ff01c868-4994-4d36-bb39-f228ded7315b"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "08c38085-a40f-40f5-bb88-ca58b21ef443",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-fouad-al-hasanat/",
+      "imageId": "c7bae48a-a930-4f99-b193-a0aeed88fb24",
       "name": "Dr. Fouad Al Hasanat",
       "degree": "BDS, DDC, MSc (UK)",
       "specialty": "Implantologist, Oral Pathology & General Dentistry Specialist",
@@ -444,11 +541,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "73f940d6-219d-4b17-b1f8-f0e6b595b3af"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "29ee9bc4-41df-4f93-a921-147f153e1e45",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-ishrat-jahan-liza/",
+      "imageId": "ffb83ff0-6d28-4200-ade8-fa77519784ee",
       "name": "Dr. Ishrat Jahan Liza",
       "degree": "BDS (DU)",
       "specialty": "Oral & Dental Surgery Specialist",
@@ -458,11 +558,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "10am to 1pm (Closed: Monday)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "851f5036-fa4e-48a2-b8f3-31bb256c4b2a"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "675f2889-e14e-4522-ad14-78c721621fea",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-priyanka-debnath/",
+      "imageId": "cdf31dc9-d872-48a9-9225-ea70de95a810",
       "name": "Dr. Priyanka Debnath",
       "degree": "BDS (DU), PGT (BSMMU)",
       "specialty": "General Dentist",
@@ -472,25 +575,31 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "8am to 1pm (Closed: Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "b1e2c89e-2d1a-4a67-a1eb-ee4453feeef8"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "2c00f722-5f06-413c-b831-f9cca8dd35b7",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-mm-mustak/",
+      "imageId": "6c9b6dae-a563-493a-bb37-c90f3bfe4eb4",
       "name": "Dr. M M Mustak",
       "degree": "BDS (DU), PGT, MPH (NSU)",
       "specialty": "Oral, Dental & Maxillofacial Surgery Specialist",
       "workplace": "Ibn Sina Dental Lab, Uttara",
-      "info": "Odontika Dental Solution, Uttara\nAddress: House # 84, Sector # 13, Gausul Azam Avenue, Uttara, Dhaka\nVisiting Hour: 5pm to 10pm (Closed: Friday)\nAppointment: +8801711170932\nCall Now",
+      "info": "Odontika Dental Solution, Uttara Address: House # 84, Sector # 13, Gausul Azam Avenue, Uttara, Dhaka Visiting Hour: 5pm to 10pm (Closed: Friday) Appointment: +8801711170932 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "10am to 12pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "5a871fdf-3d52-4d37-b680-c7081019039e"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "dbbf96c5-b908-45c3-83eb-09e7ca752dfe",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-md-faridul-islam/",
+      "imageId": "704ce8dd-423e-42c6-9226-16e59053692a",
       "name": "Dr. Md. Faridul Islam",
       "degree": "BDS (Dhaka), PGT (BSMMU)",
       "specialty": "Consultant & Dental Surgeon",
@@ -500,11 +609,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "8e6b538a-5c93-4fd7-8e1c-933f9a8129f0"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
+      "id": "9c12f20a-d021-400c-b43d-8d291863c62e",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/prof-dr-brig-gen-md-liakat-ali-hyder/",
+      "imageId": "66dd9e8b-5465-41be-9e32-b24fc6bf2779",
       "name": "Prof. Dr. Brig. Gen. Md. Liakat Ali Hyder",
       "degree": "BDS, FCPS (Orthodontics)",
       "specialty": "Orthodontics (Braces, Bite Problem, Jaw Problem) Specialist & Surgeon",
@@ -514,11 +626,14 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "27631aff-6fdd-4c9f-9b10-51b9c5ba166c"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "07afbd7c-b8fc-4955-a76f-e552a783ce1f",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-fazana-iffat-majumder/",
+      "imageId": "b4caece0-401c-4c01-85fd-2b13af3e5a6f",
       "name": "Dr. Fazana Iffat Majumder",
       "degree": "BDS (DDC), PGT (Conservative Dentistry & OMS)",
       "specialty": "Oral & Dental Surgeon",
@@ -528,11 +643,14 @@
         "hospital": "Islami Bank Hospital, Mirpur",
         "address": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
         "visitingTime": "3pm to 10pm (Sat, Mon & Wed) & 8am to 3pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801992346632"
-      },
-      "id": "2d204671-9235-43f3-8478-1345d5424464"
+        "appointmentNumber": "+8801992346632Call Now"
+      }
     },
     {
+      "id": "9aa2a310-d76d-412a-8961-95bb26683696",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-shahnaz-sultana-beauty/",
+      "imageId": "8fe7a8c0-3e4c-4487-91d4-d8fcb62f5ba7",
       "name": "Dr. Shahnaz Sultana Beauty",
       "degree": "BDS (DDC), FCPS (Conservative Dentistry & Endodontics)",
       "specialty": "Dental Cosmetic Filling & Root Canal Specialist",
@@ -542,11 +660,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "9am to 1pm (Closed: Friday)",
-        "appointmentNumber": "10653"
-      },
-      "id": "c90a6ac9-b243-4b3b-b33b-0d0ea805a8eb"
+        "appointmentNumber": "10653Call Now"
+      }
     },
     {
+      "id": "d14fbaeb-e668-49f4-bc90-4ef9e7a31111",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-subrata-kumar-barai/",
+      "imageId": "08968179-075a-4de0-b07e-27f65f06f372",
       "name": "Dr. Subrata Kumar Barai",
       "degree": "BDS, PGT (OMS)",
       "specialty": "Oral, Dental & Maxillofacial Surgery Specialist",
@@ -556,11 +677,14 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "ca946253-90ca-4933-8f6b-6100bbb2c048"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "702337de-2fd7-4438-a056-1ff433bf9286",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-afsana-iqbal/",
+      "imageId": "7bdc0d63-396d-42b8-ab9b-10e7ff9430ec",
       "name": "Dr. Afsana Iqbal",
       "degree": "BDS (Raj), PGT (BSMMU)",
       "specialty": "Consultant & Dental Surgeon",
@@ -570,11 +694,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "ac0a95c0-df2b-4aa8-a538-52a7ba327056"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
+      "id": "2f8a0a12-9755-46d7-bc32-8686b66b51d9",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-k-n-zaman-komol/",
+      "imageId": "562c19e6-d26e-4c44-ba45-ed6e5fc569d5",
       "name": "Dr. Khandakar Nuruzzaman Komol",
       "degree": "MSc (Thailand), BDS (Dhaka), PGT (BSMMU), FMCC (QSNICH, Bangkok)",
       "specialty": "Dental Surgeon & Pediatric Dentist",
@@ -584,11 +711,14 @@
         "hospital": "Modern Dental Care",
         "address": "31, Green Road, MAK Khan Tower (1st Floor), Besides Green Life Hospital, Dhanmondi, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801913171524"
-      },
-      "id": "60703dc3-0a75-44d3-a330-20348f2f23ab"
+        "appointmentNumber": "+8801913171524Call Now"
+      }
     },
     {
+      "id": "5724f32e-e9d6-4cdd-bc9f-8c161fdd86c0",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-kazi-rabeya-naznin/",
+      "imageId": "825f2de2-41af-4e26-8460-a58233d6f591",
       "name": "Dr. Kazi Rabeya Naznin",
       "degree": "BDS, MPH, PGT (Dental)",
       "specialty": "Dental Surgeon",
@@ -598,11 +728,14 @@
         "hospital": "Ibn Sina Medical Imaging Center, Zigatola",
         "address": "House # 58, Road # 2A, Zigatola Bus Stand, Dhaka - 1209",
         "visitingTime": "5pm to 8:30pm (Closed: Friday)",
-        "appointmentNumber": "+8801711625173"
-      },
-      "id": "dcfa4d47-3f2a-4814-94fc-3c711a44ee86"
+        "appointmentNumber": "+8801711625173Call Now"
+      }
     },
     {
+      "id": "38446dbf-4c7c-44fb-90cc-9b7e83512b4b",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-uttom-kumar-shet/",
+      "imageId": "02dbf130-4246-42cb-813c-6c9cbf506eab",
       "name": "Dr. Uttom Kumar Shet",
       "degree": "PhD (South Korea), MSD (South Korea), BDS (Dhaka Dental College), Special training on Implant (USA)",
       "specialty": "Dental Implant Specialist and Course Director (Osstem Implant), Maxillofacial Surgery",
@@ -610,13 +743,16 @@
       "info": "Dr. Uttom Kumar Shet is a Dentist in Dhaka. His qualification is PhD (South Korea), MSD (South Korea), BDS (Dhaka Dental College), Special training on Implant (USA). He is a Assistant Professor, Oral and Maxillofacial Surgery Department at Sapporo Dental College & Hospital, Uttara. He regularly provides treatment to his patients at The Dental Excellence. Practicing hour of Dr. Uttom Kumar Shet at The Dental Excellence is 5pm to 9pm (Everyday).",
       "chamber": {
         "hospital": "The Dental Excellence",
-        "address": "ABC Northridge,  House # 51, Road # 15, Rabindra Sarani, Sector # 3, Uttara, Dhaka",
+        "address": "ABC Northridge, House # 51, Road # 15, Rabindra Sarani, Sector # 3, Uttara, Dhaka",
         "visitingTime": "5pm to 9pm (Everyday)",
-        "appointmentNumber": "+8801960932832"
-      },
-      "id": "03a71721-e90f-4f46-a8e1-4cde1600cbac"
+        "appointmentNumber": "+8801960932832Call Now"
+      }
     },
     {
+      "id": "9115a42f-156f-4284-97b7-ea3ce6b3ec44",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-abdullah-al-faruq/",
+      "imageId": "1ea0bb7b-ccab-4a56-9ec2-d00daa649a66",
       "name": "Dr. Abdullah-Al-Faruq",
       "degree": "BDS, FCPS (Oral & Maxillofacial Surgery), MCPS (Dental Surgery)",
       "specialty": "Dental, Oral & Maxillofacial Specialist Surgeon",
@@ -626,11 +762,14 @@
         "hospital": "Enam Medical College & Hospital",
         "address": "9/3 Parboti Nagar, Thana Road, Savar, Dhaka",
         "visitingTime": "8am to 2.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801716358146"
-      },
-      "id": "29def1a6-bdf8-4027-98d4-532667dfe646"
+        "appointmentNumber": "+8801716358146Call Now"
+      }
     },
     {
+      "id": "12309606-937d-4e31-8c0e-513ebd183209",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-nusrat-jahan-daisy/",
+      "imageId": "98e047a8-c3a1-4bfd-acd2-7ef243c1d93e",
       "name": "Dr. Nusrat Jahan Daisy",
       "degree": "BDS (DU), PGT (OMS)",
       "specialty": "Dental, Oral & Maxillofacial Surgery Specialist",
@@ -640,11 +779,14 @@
         "hospital": "Farazy Hospital, Banasree",
         "address": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
         "visitingTime": "4.30pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801882084414"
-      },
-      "id": "37db8014-269b-4622-a2a1-435466d3770b"
+        "appointmentNumber": "+8801882084414Call Now"
+      }
     },
     {
+      "id": "e593b5e6-0b64-4ea9-b9cb-ee81c4df059a",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-m-ahmed-hossain-robin/",
+      "imageId": "b74c8349-802d-4383-aeed-91986b49ac9b",
       "name": "Dr. M. Ahmed Hossain Robin",
       "degree": "BDS, FCPS",
       "specialty": "Oral, Dental & Maxillofacial Specialist Surgeon",
@@ -654,11 +796,14 @@
         "hospital": "Ahsania Mission Cancer & General Hospital",
         "address": "Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka",
         "visitingTime": "3pm to 4pm (Closed: Friday)",
-        "appointmentNumber": "10617"
-      },
-      "id": "a02c2cf7-cb68-49d4-afee-e4452c94a2db"
+        "appointmentNumber": "10617Call Now"
+      }
     },
     {
+      "id": "59831723-e894-42af-b9a1-e697941627a1",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-naser-md-kamrul-hasan/",
+      "imageId": "149b7565-33ef-47c6-9eef-15e7bc8fbb97",
       "name": "Dr. Naser Md. Kamrul Hasan (Riad)",
       "degree": "BDS (DDC), PGT (OMS-DDCH)",
       "specialty": "Oral & Dental Surgeon, Root Canal Treatment Specialist & Cosmetic Dentist",
@@ -668,11 +813,14 @@
         "hospital": "Dr. Riad's Dental Solution",
         "address": "2nd Floor, Happy Arcade Shopping Mall, House #3, Road #3, Dhanmondi , Dhaka",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801716055020"
-      },
-      "id": "2c33a2de-a770-44d6-80c9-0b6e0181993b"
+        "appointmentNumber": "+8801716055020Call Now"
+      }
     },
     {
+      "id": "2bcff9cf-3816-43d4-9c48-de4c35cf9e61",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-abdullah-mohammad-shibli/",
+      "imageId": "07a1035f-184b-4998-b083-3b61b1a8adad",
       "name": "Dr. Abdullah Mohammad Shibly",
       "degree": "BDS (DDC), PGT (Conservative Dentistry & Endodontics)",
       "specialty": "Oral & Dental Surgeon",
@@ -682,11 +830,14 @@
         "hospital": "Islami Bank Hospital, Mirpur",
         "address": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
         "visitingTime": "3pm to 10pm (Sun, Tue & Thu) & 8am to 3pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801992346632"
-      },
-      "id": "23aa356e-c37b-4495-a2b1-d46ea13566ea"
+        "appointmentNumber": "+8801992346632Call Now"
+      }
     },
     {
+      "id": "d0fe7d1c-f251-4283-869d-d1ed5ab70a15",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-priyanka-suma/",
+      "imageId": "3f931bba-4e68-4b1e-9a8b-aa9c4aefbd7a",
       "name": "Dr. Priyanka Suma",
       "degree": "BDS (DU), PGT (ShSMC)",
       "specialty": "Dental Surgeon",
@@ -696,11 +847,14 @@
         "hospital": "Dr. Priyanka's Dental Clinic",
         "address": "House 766/E, Ground Floor, Road 7, Baitul Aman Housing, Shekhertek 14 No Road, Mohammadpur, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801629331999"
-      },
-      "id": "c46f4b50-95ed-435e-b985-5046a4750a65"
+        "appointmentNumber": "+8801629331999Call Now"
+      }
     },
     {
+      "id": "997bb43d-8808-4227-a37b-868d40ff4b2b",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-md-golam-rubby/",
+      "imageId": "bf1210bc-3a31-48d5-8348-36d4eebea753",
       "name": "Dr. Md. Golam Rubby",
       "degree": "BDS, FCPS (Orthodontics & Dentofacial Orthopedics)",
       "specialty": "Oral, Dental Surgeon, Orthodontics & Dentofacial Orthopedics Specialist",
@@ -710,11 +864,14 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "10678"
-      },
-      "id": "2d26b5db-8e8e-4422-9117-38d8509e32eb"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "fa048e39-506d-40c9-b2a4-185792a8dad9",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/prof-dr-kazi-hasinur-rahman/",
+      "imageId": "0e50ce98-54fd-4639-9185-3185326bf293",
       "name": "Prof. Dr. Kazi Hasinur Rahman",
       "degree": "BDS, MS (Prosthodontics)",
       "specialty": "Oral, Dental Surgeon & Prosthodontist",
@@ -724,11 +881,14 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "10678"
-      },
-      "id": "9c405e41-072e-4973-b3bb-8e9f4b39a1cd"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "6cc099f6-cdb6-4207-be2e-8cd6e56ab7ad",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-mosharof-hossain/",
+      "imageId": "3634eace-4d0d-4942-ac56-ccf1fb6c7283",
       "name": "Dr. Mosharof Hossain",
       "degree": "BDS, MPH, PGT",
       "specialty": "Oral & Dental Surgeon",
@@ -738,11 +898,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "9am to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "dad05694-da42-4f53-bf06-ead487117048"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "d68eb217-901b-4b0b-bdc2-ffe46680bbea",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-israt-sarah/",
+      "imageId": "631f4feb-d253-4cca-98d2-f8772cdb41c3",
       "name": "Dr. Israt Sarah",
       "degree": "BDS, PGT (DDC), MPH (Preventive Dentistry)",
       "specialty": "Consultant & Dental Surgeon",
@@ -752,11 +915,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "10am to 1pm (Sat, Sun & Wed)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "d08bd72b-fce3-41b2-950f-7b4808ebe173"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
+      "id": "ded1414b-0c71-4eaf-9636-0479abd70e3f",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-fahmida-ferdousi/",
+      "imageId": "f85b6cff-ba31-40a3-9180-2f96cb381799",
       "name": "Dr. Fahmida Ferdousi",
       "degree": "BDS, MS (OMFS)",
       "specialty": "Oral, Dental & Maxillofacial Surgery Specialist",
@@ -766,11 +932,14 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10678"
-      },
-      "id": "ff7ffb8f-79c8-4f48-a5a9-2a13e46d4556"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "9062ea4b-ca58-4996-8e14-389fccbd5f49",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-neelima-sharmin-noor/",
+      "imageId": "d8c85885-c515-4c25-8f6a-f34007936f29",
       "name": "Dr. Neelima Sharmin Noor",
       "degree": "BDS, PGT (Oral & Maxillofacial Surgery), DDS",
       "specialty": "Oral & Maxillofacial Surgeon",
@@ -780,11 +949,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Lalbagh",
         "address": "27/4 Dhakeshwori Road, Lalbagh, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801783356048"
-      },
-      "id": "21b46489-cbfa-4d21-a66a-ce58f312630e"
+        "appointmentNumber": "+8801783356048Call Now"
+      }
     },
     {
+      "id": "36b874a2-17ca-46d6-b47b-2eeadb54445f",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-sayeda-shahan/",
+      "imageId": "df703190-3045-4b54-9944-8d88234a17f7",
       "name": "Dr. Sayeda Shahan",
       "degree": "BDS, MPH, MSS",
       "specialty": "Dental Surgeon",
@@ -794,11 +966,14 @@
         "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
         "address": "1/1 B, Kallyanpur, Dhaka",
         "visitingTime": "9am to 1pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801703725590"
-      },
-      "id": "e116d89c-d2b3-4c8c-a73b-7c23e4dc6796"
+        "appointmentNumber": "+8801703725590Call Now"
+      }
     },
     {
+      "id": "e40f8489-bf9e-4d12-90bf-fe267c0b1f0e",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-masruba-sonia/",
+      "imageId": "3d0aa998-e5c6-4156-8145-8bd27dda3f5b",
       "name": "Dr. Masruba Sonia",
       "degree": "BDS (DDC), PGT, Trained in Orthodontics & Aesthetic Dentistry (Dhaka)",
       "specialty": "Conservative Dentistry & Endodontics Specialist",
@@ -808,11 +983,14 @@
         "hospital": "Odontika Dental Solution, Uttara",
         "address": "House # 84, Sector # 13, Gausul Azam Avenue, Uttara, Dhaka",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801711170932"
-      },
-      "id": "bfeb1155-b935-4f5c-a599-93b4f6177ce0"
+        "appointmentNumber": "+8801711170932Call Now"
+      }
     },
     {
+      "id": "e8b731d4-c8a7-4934-9a7c-dd2e2522a77e",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-wahiduzzaman-masud/",
+      "imageId": "0cd7cf82-c6af-4e5b-bcba-1c3b062deffe",
       "name": "Dr. Wahiduzzaman Masud",
       "degree": "BDS (DU), PGT (OMS), Training (Endodontics)",
       "specialty": "Oral, Dental, Maxillofacial & Root Canal Specialist Surgeon",
@@ -822,11 +1000,14 @@
         "hospital": "Ahsania Mission Cancer & General Hospital",
         "address": "Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10617"
-      },
-      "id": "c794caa4-e024-41b8-83cb-9b64a3583f59"
+        "appointmentNumber": "10617Call Now"
+      }
     },
     {
+      "id": "202d929d-0c98-48c1-99ab-8204d7eda53c",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-najran-kader-chowdhari/",
+      "imageId": "9d32b745-b471-40ae-8acc-270e73b13e46",
       "name": "Dr. Najran Kader Chowdhari",
       "degree": "BDS (DU), PGT (General Dentistry)",
       "specialty": "Dental Specialist",
@@ -836,11 +1017,14 @@
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "9am to 1pm (Closed: Friday)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "6d92491a-6bc0-4275-92b1-cf5316a341c5"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
+      "id": "03d80709-9a7a-4f0d-af9d-2c9b988e2fd9",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-md-rezaul-islam/",
+      "imageId": "6ebff38f-a146-4a6f-b543-d5eaf9f73ed9",
       "name": "Dr. Md. Rezaul Islam",
       "degree": "BDS, MS ( Oral & Maxillofacial Surgery)",
       "specialty": "Oral & Maxillofacial Surgeon",
@@ -850,11 +1034,14 @@
         "hospital": "Kazipara Dental Care",
         "address": "769/1, West Kazipara, Mirpur, Dhaka",
         "visitingTime": "5pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801712514767"
-      },
-      "id": "1ca69493-bafe-41ad-b3f0-55b2b1e807b9"
+        "appointmentNumber": "+8801712514767Call Now"
+      }
     },
     {
+      "id": "ced8f357-5579-4b4c-8531-4740ce98b852",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-md-minhaz-ul-islam-nijami/",
+      "imageId": "7719bbc5-5836-4f0b-8ac1-c2d0a7b67e12",
       "name": "Dr. Md. Minhaz-ul-Islam Nijami",
       "degree": "BDS (DU), MSc (Maxillofacial Prosthetics), Clinical Fellowship (Malaysia)",
       "specialty": "Oral, Dental & Maxillofacial Surgeon",
@@ -864,11 +1051,14 @@
         "hospital": "Ahsania Mission Cancer & General Hospital",
         "address": "Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka",
         "visitingTime": "11am to 2.30pm (Sun & Tue)",
-        "appointmentNumber": "10617"
-      },
-      "id": "3e414648-6504-4d09-8433-f4421010542a"
+        "appointmentNumber": "10617Call Now"
+      }
     },
     {
+      "id": "1c2f10f3-3a02-4f64-9db1-25aecdd10790",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-md-safiqur-rahman-khan/",
+      "imageId": "8a9ccea5-0b95-4cf7-9616-27cfc8a57851",
       "name": "Dr. Md. Safiqur Rahman Khan",
       "degree": "BDS, FCPS (OMS)",
       "specialty": "Oral & Maxillofacial Surgeon",
@@ -878,11 +1068,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "5pm to 9pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "a8a7ba27-4799-4bc0-898c-fc8a0a213f62"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "a5e6d2e2-a5a3-4664-b0e3-78907582d293",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-shuvashis-barua/",
+      "imageId": "cae99b68-506e-4610-903c-528b49cf7670",
       "name": "Dr. Shuvashis Barua",
       "degree": "BDS, PGT (BSMMU), Special Training (Head Neck Radiology Imaging)",
       "specialty": "Oral & Dental Diseases Specialist Surgeon",
@@ -892,11 +1085,14 @@
         "hospital": "Enam Medical College & Hospital",
         "address": "9/3 Parboti Nagar, Thana Road, Savar, Dhaka",
         "visitingTime": "8am to 2.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801716358146"
-      },
-      "id": "03fa79e5-6dc0-480c-a050-d8511a3dd0a6"
+        "appointmentNumber": "+8801716358146Call Now"
+      }
     },
     {
+      "id": "3d5da78b-6e71-4532-81ae-e1c459f4b1f6",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-kazi-rumana-sharmin-rummee/",
+      "imageId": "628bf55f-22c7-4584-8bf0-f09890eab3fb",
       "name": "Dr. Kazi Rumana Sharmin Rummee",
       "degree": "BDS (DU), PGT (OMS)",
       "specialty": "Oral & Dental Surgeon",
@@ -906,11 +1102,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "2pm to 8.30pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "378b3856-0dc0-4e2a-a0f3-6b19c52acd1a"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "e4658e28-2c80-44ce-b62a-3970da7ecbc1",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-nirmal-sharma/",
+      "imageId": "3ecd3edf-728a-4683-a2ff-10534db8b621",
       "name": "Dr. Nirmal Sharma",
       "degree": "BDS (RMC), DDS (BSMMU)",
       "specialty": "Dental Specialist",
@@ -920,11 +1119,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 1, Road # 4, Dhanmondi , Dhaka - 1205",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "0c194e50-11d0-41ee-b13f-cfec78934e22"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "7f5b8225-8ff2-4a7e-baec-f08b98e20f12",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-md-sanowar-hossain/",
+      "imageId": "d924baf9-bd85-4bc0-b10c-402b7f5a66dd",
       "name": "Dr. Md. Sanowar Hossain",
       "degree": "BDS (RMC)",
       "specialty": "Dentist",
@@ -934,11 +1136,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "2pm to 8.30pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "f250e6a1-7b6f-4e58-910c-a3180bccd1ed"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "555ec019-f796-4885-aaa2-6a67644d16e5",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-nargis-salahuddin/",
+      "imageId": "65be3153-afd6-4b7b-a12a-8a674e8c724d",
       "name": "Dr. Nargis Salahuddin",
       "degree": "BDS (Dhaka)",
       "specialty": "Dentist",
@@ -948,11 +1153,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "8am to 2pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "0bfcc1ba-69c7-4238-913d-a5500deb9946"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "9740cab3-570b-4910-9a68-f2de1cdfd4a4",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdul-gaffer-saurav/",
+      "imageId": "6b5b2762-a077-4182-ad43-878d47b799fa",
       "name": "Dr. Md. Abdul Gaffer Saurav",
       "degree": "BDS, DDS, MCPS (Dental Surgery)",
       "specialty": "Dental Surgery Specialist",
@@ -962,11 +1170,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Lalbagh",
         "address": "27/4 Dhakeshwori Road, Lalbagh, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801783356048"
-      },
-      "id": "09a552d2-df1c-4cd1-b501-02b8c2938633"
+        "appointmentNumber": "+8801783356048Call Now"
+      }
     },
     {
+      "id": "7499c410-a2e6-4b0e-9680-8f65a697232b",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-mahmudul-hasan-mithun/",
+      "imageId": "31138b3e-6264-4e09-8905-ea9891bdf7c8",
       "name": "Dr. Mahmudul Hasan Mithun",
       "degree": "BDS (DDC), MS (OMFS), FCPS (FINAL), EX-BCS (HEALTH)",
       "specialty": "Oral, Maxillofacial, Head Neck Trauma & Oral Onco-Surgeon",
@@ -976,11 +1187,14 @@
         "hospital": "La Aesthetica (Dental, Maxillofacial Care & Implant Center)",
         "address": "12/1 (Babel Corporation Building), Monipuripara, 4no Gate, Sangsad Avenue, Dhaka",
         "visitingTime": "6pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801612999192"
-      },
-      "id": "9fb22641-fb64-4eac-b66e-db9c838d5de9"
+        "appointmentNumber": "+8801612999192Call Now"
+      }
     },
     {
+      "id": "af33e2f6-1b97-4104-91b5-66339edc595e",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-mezbah-ara/",
+      "imageId": "5568c38e-fa47-4427-a727-5e1dd336e040",
       "name": "Dr. Mezbah Ara",
       "degree": "BDS (DU), MPH (NSU), PGT (Conservative Dentistry & Endodontics)",
       "specialty": "Oral & Maxillofacial Surgeon (Dental Surgeon)",
@@ -990,25 +1204,14 @@
         "hospital": "Labaid Diagnostic, Uttara (Unit 02)",
         "address": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
         "visitingTime": "5.30pm to 7.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662050"
-      },
-      "id": "b53d8f86-a9ae-4c9c-8033-3ba37e5b5d62"
+        "appointmentNumber": "+8801766662050Call Now"
+      }
     },
     {
-      "name": "Dr. Rehnuma Zabin Rakhi",
-      "degree": "BDS, MPH, PGT",
-      "specialty": "Oral and Maxillofacial Surgeon (Dental Surgeon)",
-      "workplace": "Labaid Limited Diagnostic, Uttara (Unit 02)",
-      "info": "Dr. Rehnuma Zabin Rakhi is a Dentist in Dhaka. Her qualification is BDS, MPH, PGT. She is a Dental Specialist & Surgeon at Labaid Limited Diagnostic, Uttara (Unit 02). She regularly provides treatment to her patients at Labaid Diagnostic, Uttara (Unit 02). Practicing hour of Dr. Rehnuma Zabin Rakhi at Labaid Diagnostic, Uttara (Unit 02) is 8pm to 9.30pm (Closed: Friday).",
-      "chamber": {
-        "hospital": "Labaid Diagnostic, Uttara (Unit 02)",
-        "address": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
-        "visitingTime": "8pm to 9.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662050"
-      },
-      "id": "ae15e8e9-1580-4566-8d6f-8e170704aef5"
-    },
-    {
+      "id": "52ba383c-4f6c-457e-be83-16b622d6c538",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-md-naim-hasan/",
+      "imageId": "f4204a2a-57d3-43fc-8ede-00a3aa26e4c5",
       "name": "Dr. Md. Naim Hasan",
       "degree": "BDS",
       "specialty": "Oral & Dental Specialist and Surgeon",
@@ -1018,11 +1221,31 @@
         "hospital": "Sheba Dental Care",
         "address": "Position No. 275, 2 No. Electric Supermarket, Kawranbazar, Dhaka",
         "visitingTime": "11am to 9pm (Closed: Tuesday)",
-        "appointmentNumber": "+8801777661385"
-      },
-      "id": "5f6a1f0f-52a7-40e4-be98-f9a86004c9e2"
+        "appointmentNumber": "+8801777661385Call Now"
+      }
     },
     {
+      "id": "ca2b7cb9-9761-4d24-916b-93542ee26847",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-rehnuma-zabin-rakhi/",
+      "imageId": "1a9f3285-b42d-4923-b43d-2f51fee2a8bc",
+      "name": "Dr. Rehnuma Zabin Rakhi",
+      "degree": "BDS, MPH, PGT",
+      "specialty": "Oral and Maxillofacial Surgeon (Dental Surgeon)",
+      "workplace": "Labaid Limited Diagnostic, Uttara (Unit 02)",
+      "info": "Dr. Rehnuma Zabin Rakhi is a Dentist in Dhaka. Her qualification is BDS, MPH, PGT. She is a Dental Specialist & Surgeon at Labaid Limited Diagnostic, Uttara (Unit 02). She regularly provides treatment to her patients at Labaid Diagnostic, Uttara (Unit 02). Practicing hour of Dr. Rehnuma Zabin Rakhi at Labaid Diagnostic, Uttara (Unit 02) is 8pm to 9.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Uttara (Unit 02)",
+        "address": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
+        "visitingTime": "8pm to 9.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662050Call Now"
+      }
+    },
+    {
+      "id": "e6561298-d583-4ca5-ac52-81e9d87f659a",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-wahida-parveen/",
+      "imageId": "f5bc6494-b371-428a-8c5d-1b69d9994d00",
       "name": "Dr. Wahida Parveen",
       "degree": "BDS (DU), PGT (DDCH) , MPH (DIU)",
       "specialty": "Dental & Maxillofacial Surgery Specialist",
@@ -1032,25 +1255,14 @@
         "hospital": "Asgar Ali Hospital, Dhaka",
         "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801787683333"
-      },
-      "id": "b67e6b09-c539-4de2-b923-e01e44892cfc"
+        "appointmentNumber": "+8801787683333Call Now"
+      }
     },
     {
-      "name": "Dr. N.A.K. Mujahidul Islam Nafis",
-      "degree": "BDS (DU), MPH",
-      "specialty": "Oral & Dental Specialist Surgeon",
-      "workplace": "Islami Bank Hospital, Mugda",
-      "info": "Dr. N.A.K. Mujahidul Islam Nafis is a Dental Surgeon in Dhaka. His qualification is BDS (DU), MPH. He is a Consultant, Dental at Islami Bank Hospital, Mugda. He regularly provides treatment to his patients at Islami Bank Hospital, Mugda. Practicing hour of Dr. N.A.K. Mujahidul Islam Nafis at Islami Bank Hospital, Mugda is 9am to 3pm (Sat, Sun, Tue & Wed) & 3pm to 9pm (Mon & Thu).",
-      "chamber": {
-        "hospital": "Islami Bank Hospital, Mugda",
-        "address": "1/24/B, Kamalapur Manda Road, South Mugdapara, Dhaka",
-        "visitingTime": "9am to 3pm (Sat, Sun, Tue & Wed) & 3pm to 9pm (Mon & Thu)",
-        "appointmentNumber": "+8801724008677"
-      },
-      "id": "75a53ce9-686d-4c4c-8e72-02da593de94b"
-    },
-    {
+      "id": "a5082c49-066f-46f6-a9ff-ef913ae8b3d1",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-naznin-pervin/",
+      "imageId": "8acbbbfd-36ac-44c4-8ff9-dbb82c50eeef",
       "name": "Dr. Naznin Pervin",
       "degree": "BDS (CMC), PGT (SSMC), MPH (USA)",
       "specialty": "Dental & Maxillofacial Surgery Specialist",
@@ -1060,11 +1272,31 @@
         "hospital": "Asgar Ali Hospital, Dhaka",
         "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801787683333"
-      },
-      "id": "1e631114-b3a6-478e-869e-fc9c256ce39e"
+        "appointmentNumber": "+8801787683333Call Now"
+      }
     },
     {
+      "id": "4b9858f6-915d-4591-9a59-65b9f25e40e2",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-n-a-k-mujahidul-islam-nafis/",
+      "imageId": "f6bb1d46-bc96-4173-9791-a341fc1da08c",
+      "name": "Dr. N.A.K. Mujahidul Islam Nafis",
+      "degree": "BDS (DU), MPH",
+      "specialty": "Oral & Dental Specialist Surgeon",
+      "workplace": "Islami Bank Hospital, Mugda",
+      "info": "Dr. N.A.K. Mujahidul Islam Nafis is a Dental Surgeon in Dhaka. His qualification is BDS (DU), MPH. He is a Consultant, Dental at Islami Bank Hospital, Mugda. He regularly provides treatment to his patients at Islami Bank Hospital, Mugda. Practicing hour of Dr. N.A.K. Mujahidul Islam Nafis at Islami Bank Hospital, Mugda is 9am to 3pm (Sat, Sun, Tue & Wed) & 3pm to 9pm (Mon & Thu).",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Mugda",
+        "address": "1/24/B, Kamalapur Manda Road, South Mugdapara, Dhaka",
+        "visitingTime": "9am to 3pm (Sat, Sun, Tue & Wed) & 3pm to 9pm (Mon & Thu)",
+        "appointmentNumber": "+8801724008677Call Now"
+      }
+    },
+    {
+      "id": "dbcaa04c-d06c-44d6-b30f-20528c864e5f",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-md-istiaque-hossain/",
+      "imageId": "7eb0f3cc-7f7e-4cfc-b70d-76840fca6550",
       "name": "Dr. Md. Istiaque Hossain",
       "degree": "BDS (DU), PGT (Oral Surgery)",
       "specialty": "Oral & Dental Surgeon",
@@ -1074,25 +1306,31 @@
         "hospital": "Shin Shin Japan Hospital, Uttara",
         "address": "17, Garib E Nawaz Ave, Sector # 11, Uttara, Dhaka",
         "visitingTime": "6pm to 9pm (Everyday)",
-        "appointmentNumber": "+8801929478565"
-      },
-      "id": "3bea8e26-63a1-4f0f-8668-75a703691513"
+        "appointmentNumber": "+8801929478565Call Now"
+      }
     },
     {
+      "id": "1cf0bd3a-39f6-48bd-88dc-d4a8611a0f3a",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-himel-chakma/",
+      "imageId": "8b9dde60-bf7b-4081-ab66-d60a1b68d869",
       "name": "Dr. Himel Chakma",
       "degree": "BDS, MS (Orthodontics & Dentofacial Orthopedics), MCPS (Dental Surgery)",
       "specialty": "Orthodontics & Dentofacial Orthopedics Specialist",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "AVE Dental Surgery & Orthodontics\nAddress: 102, Panchlaish R/A (Opposite to Probartak School), Chattogram\nVisiting Hour: 4pm to 9pm (Thursday), 9am to 1pm & 4pm t0 9pm (Friday)\nAppointment: +8801860753635\nCall Now",
+      "info": "AVE Dental Surgery & Orthodontics Address: 102, Panchlaish R/A (Opposite to Probartak School), Chattogram Visiting Hour: 4pm to 9pm (Thursday), 9am to 1pm & 4pm t0 9pm (Friday) Appointment: +8801860753635 Call Now",
       "chamber": {
         "hospital": "Triodent Dental BD",
         "address": "21/4/A (2nd Floor), Zigatola Road, Dhanmondi, Dhaka",
         "visitingTime": "5pm to 9pm (Saturday to Wednesday)",
-        "appointmentNumber": "+8801819352939"
-      },
-      "id": "2e99c724-3776-47a4-8fce-c2670a48b34b"
+        "appointmentNumber": "+8801819352939Call Now"
+      }
     },
     {
+      "id": "9417171d-12b2-4df0-a528-e7d1b89d0445",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-md-rezwanur-rahman/",
+      "imageId": "bdbecf3e-4abb-4eba-af1f-81ca465db20f",
       "name": "Dr. Md. Rezwanur Rahman",
       "degree": "BDS (DU)",
       "specialty": "Oral & Dental Surgeon",
@@ -1102,11 +1340,14 @@
         "hospital": "Unity Aid Hospital Limited",
         "address": "House # 1-2, Block # D, Main Road, South Banasree, Khilgaon, Dhaka",
         "visitingTime": "5pm to 8pm (Sat, Tue & Thu)",
-        "appointmentNumber": "+8801997421112"
-      },
-      "id": "615d1ed0-d7a6-4919-aef3-95aab3417fcf"
+        "appointmentNumber": "+8801997421112Call Now"
+      }
     },
     {
+      "id": "ed0e4052-eceb-4a64-824a-dba2a1da82df",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-pritam-sarker-ratul/",
+      "imageId": "b4d2693a-c790-485a-8bca-bcc8e366732d",
       "name": "Dr. Pritam Sarker Ratul",
       "degree": "BDS, PGT (Oral & Maxillofacial Surgery)",
       "specialty": "Oral & Dental Surgeon",
@@ -1116,25 +1357,31 @@
         "hospital": "Tooth Cure Dental Orthodontics & Implant Center",
         "address": "1/1E, Block C, Lalmatia, Dhaka (Behind Genetic Plaza, Dhanmondi 27)",
         "visitingTime": "4pm to 10pm",
-        "appointmentNumber": "+8801324571177"
-      },
-      "id": "a0663bc7-7a52-4ffa-aca4-8589c7881ce1"
+        "appointmentNumber": "+8801324571177Call Now"
+      }
     },
     {
+      "id": "463189f9-381d-47f3-9538-463425cf0f1c",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-mir-abu-naim-pavel/",
+      "imageId": "5818e09c-3daa-442a-9f2e-b36ab19e7571",
       "name": "Dr. Mir Abu Naim (Pavel)",
       "degree": "BDS (RMC), FCPS (Orthodontics & Dentofacial Orthopedics)",
       "specialty": "Orthodontist",
       "workplace": "Udayan Dental College, Rajshahi",
-      "info": "Rasel’s Dental Centre\nAddress: Sepaipara, Infront of Rajshahi Medical College\nVisiting Hour: রাজশাহীতে মাসে ৩ দিন রোগী দেখেন\nAppointment: +8801740004004\nCall Now",
+      "info": "Rasel’s Dental Centre Address: Sepaipara, Infront of Rajshahi Medical College Visiting Hour: রাজশাহীতে মাসে ৩ দিন রোগী দেখেন Appointment: +8801740004004 Call Now",
       "chamber": {
         "hospital": "Anika Dental Care",
         "address": "26/3, Zigatola Puran Kacha Bazar (1st floor), Dhanmondi, Dhaka",
         "visitingTime": "5pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801977359445"
-      },
-      "id": "913eaa63-ac5e-4507-86bc-adba4cd75025"
+        "appointmentNumber": "+8801977359445Call Now"
+      }
     },
     {
+      "id": "d663382c-b8d8-40f1-b91e-11adf41004a4",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/drsaifulislam/",
+      "imageId": "af0ae319-49e9-415d-8256-3e1007fee480",
       "name": "Dr. Saiful Islam",
       "degree": "MS, MPH, BCS, BDS",
       "specialty": "Prosthodontist (Crown, Bridge and Denture Specialist)",
@@ -1144,11 +1391,14 @@
         "hospital": "Saiful's DENTAL Care",
         "address": "House -24,25, Road -6, Senpara - Parbota, Mirpur-10",
         "visitingTime": "5.30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801819-290354"
-      },
-      "id": "4317c8a4-932d-42e6-8420-7ac538f69ea0"
+        "appointmentNumber": "+8801819-290354Call Now"
+      }
     },
     {
+      "id": "01f1232b-4d5f-498c-9f04-87e778ecc78b",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-sanzida-khan/",
+      "imageId": "464edc3e-ed45-4a44-82ef-99fad2ce4796",
       "name": "Dr. Sanzida Khan",
       "degree": "BDS, PGT (Conservative Dentistry & Endodontics), PGT (Oral & Maxillofacial Surgery)",
       "specialty": "Oral Surgery, Root canal, Conservative, Orthodontics, Pediatric Dentistry",
@@ -1158,11 +1408,14 @@
         "hospital": "Sporsho Dental Care, Mirpur",
         "address": "1st Floor, Ramzannesa Super Market (Metro Rail Pillar 165), Mirpur 12, Dhaka",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801676347526"
-      },
-      "id": "978cd615-6b58-42a9-94b2-263f75540f76"
+        "appointmentNumber": "+8801676347526Call Now"
+      }
     },
     {
+      "id": "b7f7c38c-c934-409c-8c84-13a815124d58",
+      "departmentId": "d454390c-6e54-4fc8-a3ac-7e7f92aae768",
+      "link": "https://www.doctorbangladesh.com/dr-subodh-chandra-chakraborty/",
+      "imageId": "67a8bae9-cea0-4c33-8d4b-998fe4e5d922",
       "name": "Dr. Subodh Chandra Chakraborty",
       "degree": "BDS, FCPS (Orthodontics)",
       "specialty": "Orthodontics (Braces, Bite Problem, Jaw Problem) Specialist & Surgeon",
@@ -1172,9 +1425,8 @@
         "hospital": "Dentotal Dental Centre, Banani",
         "address": "House # 54, Road # 11, Block # F, Banani, Dhaka",
         "visitingTime": "5pm to 9pm (Every Tuesday)",
-        "appointmentNumber": "+8801936888999"
-      },
-      "id": "72a7fa2b-e7e5-426d-87f0-4b9c1c0d5c17"
+        "appointmentNumber": "+8801936888999Call Now"
+      }
     }
   ]
 }

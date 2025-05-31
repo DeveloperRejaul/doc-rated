@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "4b3ee9b0-a272-43a4-a2c9-c7fffa494d2b",
+      "departmentId": "0ab3e4fb-60f1-4563-ba91-ff59225cb786",
+      "link": "https://www.doctorbangladesh.com/prof-dr-noor-islam/",
+      "imageId": "abf63f65-cc8f-4a89-af35-253cfeeb6560",
       "name": "Prof. Dr. Noor Islam",
       "degree": "MBBS, FCPS (Medicine), FACP (USA), MD (Gastroenterology)",
       "specialty": "Gastroenterology & Liver Diseases Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Popular Diagnostic Center, Rangpur",
         "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
         "visitingTime": "7pm to 10pm (Closed: Tuesday & Friday)",
-        "appointmentNumber": "+8809666787813"
-      },
-      "id": "abe2ba93-7cfb-456e-b865-17c809be2142"
+        "appointmentNumber": "+8809666787813Call Now"
+      }
     },
     {
+      "id": "73359250-11a9-4e79-aec3-a7175fd8c399",
+      "departmentId": "0ab3e4fb-60f1-4563-ba91-ff59225cb786",
+      "link": "https://www.doctorbangladesh.com/dr-jimma-hossain/",
+      "imageId": "f0d6c93b-668b-49b2-858c-fd74d660fea8",
       "name": "Dr. Jimma Hossain",
       "degree": "MBBS, MD (Gastroenterology), Fellow (India)",
       "specialty": "Gastroenterology, Liver Diseases & Pancreas Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Popular Diagnostic Center, Rangpur",
         "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
         "visitingTime": "4pm to 9pm (Sat to Thu) & 10am to 12pm (Fri)",
-        "appointmentNumber": "+8809666787813"
-      },
-      "id": "857f8e53-db46-4228-9cae-3995e92c5fbd"
+        "appointmentNumber": "+8809666787813Call Now"
+      }
     },
     {
+      "id": "e1d26802-bd3f-4cb0-97ab-5d7d65803678",
+      "departmentId": "0ab3e4fb-60f1-4563-ba91-ff59225cb786",
+      "link": "https://www.doctorbangladesh.com/dr-md-nowshad-ali/",
+      "imageId": "c443af55-bd8d-4040-9559-a3025c293d02",
       "name": "Dr. Md. Naushad Ali",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Gastroenterology, Liver Diseases & Medicine Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Labaid Diagnostic, Rangpur",
         "address": "House # 69, Dhap, Jail Road, Rangpur",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801766663099"
-      },
-      "id": "d798e84d-9b86-4a99-9bfe-2c036a68d10e"
+        "appointmentNumber": "+8801766663099Call Now"
+      }
     },
     {
+      "id": "86ed85b0-b65f-4a78-a11f-a6dbb09667bd",
+      "departmentId": "0ab3e4fb-60f1-4563-ba91-ff59225cb786",
+      "link": "https://www.doctorbangladesh.com/dr-md-shakhawat-hossain-gastro/",
+      "imageId": "833a912d-1df0-4b91-bfec-59a623acc446",
       "name": "Dr. Md. Shakhawat Hossain",
       "degree": "MBBS, MD (Gastroenterology), MACP (USA), MACG (USA), Advanced Endoscopy Training (AIG)",
       "specialty": "Gastroenterology (Gastroliver, Pancreas & ERCP) Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Popular Diagnostic Center, Rangpur",
         "address": "Unit - 02, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
         "visitingTime": "3pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787813"
-      },
-      "id": "b1b1751e-aff2-4f46-899f-919c1110dcce"
+        "appointmentNumber": "+8809666787813Call Now"
+      }
     },
     {
+      "id": "1090c4c2-f566-458e-9a82-4c43e9ddfdd7",
+      "departmentId": "0ab3e4fb-60f1-4563-ba91-ff59225cb786",
+      "link": "https://www.doctorbangladesh.com/dr-miah-mohammad-rubel/",
+      "imageId": "567e80cc-3f2e-47f9-b328-ec46f1625d02",
       "name": "Dr. Miah Mohammad Rubel",
       "degree": "MBBS (DMC), BCS (Health), FCPS (Medicine), MCPS (Medicine), MACP (USA), MD (Gastroenterology)",
       "specialty": "Medicine, Gastroenterology & Liver Diseases Specialist",
@@ -66,11 +82,14 @@
         "hospital": "LabZone Diagnostic, Rangpur",
         "address": "Dhap, Jail Road (Opposite to 8 Tola Mosque), Rangpur",
         "visitingTime": "3pm to 9pm (Closed: Sat, Tue & Friday)",
-        "appointmentNumber": "+8801727769514"
-      },
-      "id": "302516af-f49b-4bc9-924c-94811fd6634e"
+        "appointmentNumber": "+8801727769514Call Now"
+      }
     },
     {
+      "id": "968d784d-e486-4219-8e5f-1f6c2bb071cf",
+      "departmentId": "0ab3e4fb-60f1-4563-ba91-ff59225cb786",
+      "link": "https://www.doctorbangladesh.com/dr-khondoker-monirul-alam-russel/",
+      "imageId": "08fd6bb6-10b2-497c-828b-e5bbf6c0c3ce",
       "name": "Dr. Khondoker Monirul Alam Russel",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), FCPS (Gastroenterology)",
       "specialty": "Medicine Specialist & Gastro Liver Specialist",
@@ -80,9 +99,8 @@
         "hospital": "Ideal Health City, Rangpur",
         "address": "6/7, Treatment Tower, Dhap, Jail Road, Rangpur",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801876986778"
-      },
-      "id": "7225f8ef-409d-49b1-bf56-b5f8b27b514d"
+        "appointmentNumber": "+8801876986778Call Now"
+      }
     }
   ]
 }

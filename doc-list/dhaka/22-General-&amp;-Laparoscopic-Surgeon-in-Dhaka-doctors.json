@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "5e277b18-5343-4760-a2df-21446849e1be",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-s-m-g-kibria-general/",
+      "imageId": "f0899907-3f04-4491-bb97-6f7332beed68",
       "name": "Prof. Dr. S.M.G. Kibria",
       "degree": "FRCS (England), FRCS (Glasgow), FRCS (Edinburgh), FRCS (General), MSc (Leeds), MBBS (DMC)",
       "specialty": "Piles, Fistula, Fissure, Breast Cancer, Bowel Surgery, Stomach Surgery SpecialistGallbladder, Laparoscopic Hernia Repair, Laparoscopic Appendectomy, Diagnostic Laparoscopy, Laparoscopic Adhesiolysis",
@@ -10,11 +14,14 @@
         "hospital": "Lake View Clinic, Gulshan",
         "address": "House - 05, Road No - 79, Gulshan 2, Dhaka - 1212",
         "visitingTime": "8am to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801799336622"
-      },
-      "id": "58c55d19-b981-4d5c-8eb9-7bed1cdb7a70"
+        "appointmentNumber": "+8801799336622Call Now"
+      }
     },
     {
+      "id": "5de50ef6-2c13-4c25-a888-296555e1ac4d",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-col-dr-md-nasir-uddin/",
+      "imageId": "ece87b24-d93d-4bdd-9a4d-70daff03a84c",
       "name": "Prof. Col. Dr. Md. Nasir Uddin (Mahmud)",
       "degree": "MBBS, FCPS (Surgery), FACS (USA), FMAS (India)Gold Medalist in FCPS (Surgery)",
       "specialty": "General, Colorectal & Laparoscopic Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "Room 283, House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "6pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "a5693a15-a409-4a4b-bf4c-85311fbf0778"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "16cd996a-b063-4060-97ec-b7fd7e8aab6a",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-salma-yesmin-choudhury/",
+      "imageId": "79fcdf85-0bd5-480d-a0d1-3429a8f3fba5",
       "name": "Prof. Dr. Salma Yesmin Choudhury",
       "degree": "MBBS, BCS (Health), MS, FCPS (Surgery), FRCS (Edinburgh)",
       "specialty": "General & Laparoscopic SurgeonBreast Cancer, Stomach Surgery, Gallbladder, Laparoscopic Hernia Repair, Laparoscopic Appendectomy, Diagnostic Laparoscopy, Laparoscopic Adhesiolysis",
@@ -38,11 +48,14 @@
         "hospital": "Islami Bank Central Hospital, Kakrail",
         "address": "30, Anjuman Mofidul Islam Road, Kakrail, Dhaka",
         "visitingTime": "3pm to 5.30pm (Closed: Thursday)",
-        "appointmentNumber": "+8801918-358461"
-      },
-      "id": "ade0e12c-b037-4243-a06a-ef663062e90d"
+        "appointmentNumber": "+8801918-358461Call Now"
+      }
     },
     {
+      "id": "40051a36-384f-41b3-9593-244770fb4b1b",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-rashidul-hoq/",
+      "imageId": "f38174c3-cd1d-4a22-ba50-733e20271b27",
       "name": "Dr. Md. Rashidul Hoq",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Endo-Laparoscopic / Specialist Hermia & AWR Surgeon / Trained Cancer Surgeon",
@@ -52,11 +65,14 @@
         "hospital": "Dhaka Cancer & General Hospital",
         "address": "House 71/1, Road 15/A, Shankar Bus Stand, Satmasjid Road, Dhaka",
         "visitingTime": "5pm to 7pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801797619959"
-      },
-      "id": "ebde9697-fb2f-4466-98ef-dddb03a4b8f6"
+        "appointmentNumber": "+8801797619959Call Now"
+      }
     },
     {
+      "id": "457ec0df-a603-4216-a0ba-1da73fd59830",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-ahmed-sami-al-hasan/",
+      "imageId": "56d79149-a79c-44fd-9f95-bff35c263a90",
       "name": "Dr. Ahmed Sami-Al-Hasan",
       "degree": "MBBS (DMC), BCS (Health), FCPS (Surgery), MS (Surgical Oncology), MRCS (UK)",
       "specialty": "Cancer, General & Laparoscopic Surgeon",
@@ -66,11 +82,14 @@
         "hospital": "Medinova Medical Services, Malibagh",
         "address": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
         "visitingTime": "4pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801790118855"
-      },
-      "id": "7dd383aa-8b0e-413d-a90b-14687846d35d"
+        "appointmentNumber": "+8801790118855Call Now"
+      }
     },
     {
+      "id": "5638410c-e6c5-4719-83b1-5db48c985a83",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-samia-mubin/",
+      "imageId": "fb233289-03bf-465d-a3c5-12adcbc9d045",
       "name": "Prof. Dr. Samia Mubin",
       "degree": "MBBS (DMC), FCPS (Surgery), MRCS (UK)",
       "specialty": "General, Laparoscopic & Breast Cancer Specialist Surgeon",
@@ -80,53 +99,65 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "3pm to 5pm (Sat, Sun, Tue & Thu)",
-        "appointmentNumber": "+8801714991475"
-      },
-      "id": "ed6292a9-2076-4823-afd4-cdada2c583a0"
+        "appointmentNumber": "+8801714991475Call Now"
+      }
     },
     {
+      "id": "14175ab3-eb16-4264-8ae9-2cef240517a3",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-zahidul-haq/",
+      "imageId": "ea391311-e948-4aa3-821d-7ea29fe229d3",
       "name": "Prof. Dr. Zahidul Haq",
       "degree": "MBBS, FCPS (Surgery), FRCS (Glasgow), MS (Surgery), FICS, Fellow Colorectal Surgery (Singapore)",
       "specialty": "Colorectal, Laparoscopic & General Surgeon",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Bangladesh Specialized Hospital\nAddress: 21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8809666700100\nCall Now",
+      "info": "Bangladesh Specialized Hospital Address: 21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh Visiting Hour: Unknown. Please call to know visiting hour Appointment: +8809666700100 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "8pm to 10pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "82a04c43-24a9-48c3-a5b5-264e1bfe066b"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "76e934d2-1d31-461f-af3a-9de299817c7a",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-salma-sultana/",
+      "imageId": "ebd45799-b62b-426e-9f90-30ab8795872b",
       "name": "Prof. Dr. Salma Sultana",
       "degree": "MBBS, FCPS (Surgery), MS (Surgery)",
       "specialty": "Breast, Colorectal & Laparoscopic Surgery Specialist",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Ibn Sina Medical Imaging Center, Zigatola\nAddress: House # 58, Road # 2A, Zigatola Bus Stand, Dhaka – 1209\nVisiting Hour: 4:30pm to 9pm (Saturday)\nAppointment: +8801711625173\nCall Now",
+      "info": "Ibn Sina Medical Imaging Center, Zigatola Address: House # 58, Road # 2A, Zigatola Bus Stand, Dhaka – 1209 Visiting Hour: 4:30pm to 9pm (Saturday) Appointment: +8801711625173 Call Now",
       "chamber": {
         "hospital": "Central Hospital, Dhanmondi",
         "address": "House # 02, Road # 05, Green Road, Dhanmondi, Dhaka – 1205",
         "visitingTime": "4pm to 9pm (Closed: Friday & Saturday)",
-        "appointmentNumber": "+8802-41060800"
-      },
-      "id": "5620a887-42d2-487d-afab-11ab60235df8"
+        "appointmentNumber": "+8802-41060800Call Now"
+      }
     },
     {
+      "id": "30068cac-f667-4db5-aa77-de62729df61e",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-jesmen-nahar-runi/",
+      "imageId": "6c056423-f0e6-4330-bdd4-c683f261163b",
       "name": "Dr. Jesmen Nahar Runi",
       "degree": "MBBS, BCS (Health), MCPS (Surgery), FCPS (Surgery)",
       "specialty": "General, Breast & Colorectal Surgeon",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Central Hospital, Dhanmondi\nAddress: House # 02, Road # 05, Green Road, Dhanmondi, Dhaka – 1205\nVisiting Hour: 3pm to 5pm (Closed: Friday & Sunday)\nAppointment: +8802-41060800\nCall Now",
+      "info": "Central Hospital, Dhanmondi Address: House # 02, Road # 05, Green Road, Dhanmondi, Dhaka – 1205 Visiting Hour: 3pm to 5pm (Closed: Friday & Sunday) Appointment: +8802-41060800 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
         "address": "1/1 B, Kallyanpur, Dhaka",
         "visitingTime": "6:30pm to 8pm (Sun, Tue & Thursday)",
-        "appointmentNumber": "+8801703725590"
-      },
-      "id": "6551911f-17b9-45f0-8a7f-ceefcd757e96"
+        "appointmentNumber": "+8801703725590Call Now"
+      }
     },
     {
+      "id": "3f84f062-43f1-4c32-b344-21f00cec57e9",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-nishat-begum/",
+      "imageId": "18b4c74e-34af-42d2-8747-12c4d687ce4a",
       "name": "Prof. Dr. Nishat Begum",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Breast & Colorectal Specialist Surgeon",
@@ -136,11 +167,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "11am to 2pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801912463111"
-      },
-      "id": "4165c2c6-1e09-46d8-8d93-33fdcfa1544d"
+        "appointmentNumber": "+8801912463111Call Now"
+      }
     },
     {
+      "id": "101cc7be-ddd0-4903-824a-86c55c233d18",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdus-salam/",
+      "imageId": "191321c1-5f95-465e-9619-0cc0ef055fb0",
       "name": "Dr. Md. Abdus Salam",
       "degree": "MBBS, BCS (Health), FCPS (Surgery), MRCS (Edin, UK), MS (Urology)",
       "specialty": "Urologist, General & Laparoscopic Surgeon",
@@ -150,67 +184,82 @@
         "hospital": "Ibn Sina Medical Imaging Center, Zigatola",
         "address": "House # 58, Road # 2A, Zigatola Bus Stand, Dhaka - 1209",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801711625173"
-      },
-      "id": "05a93f92-81e7-4895-a4e1-b7b99045f72d"
+        "appointmentNumber": "+8801711625173Call Now"
+      }
     },
     {
+      "id": "2554b13e-3d48-4859-b907-80b8056c17a7",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-nur-hossain-bhuiyan-shahin/",
+      "imageId": "1b3dcb86-dceb-42b2-b85b-834c1a9b62ae",
       "name": "Prof. Dr. Md. Nur Hossain Bhuiyan",
       "degree": "MBBS, FCPS (Surgery), FMAS (India), FACS (USA), FRCS (UK)",
       "specialty": "General, Colorectal, Endo-Laparoscopic & Laser Surgeon",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Medical Centre Hospital, Chittagong\nAddress: 953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram\nVisiting Hour: 6pm to 9pm (Thursday & Friday)\nAppointment: +88031658501\nCall Now",
+      "info": "Medical Centre Hospital, Chittagong Address: 953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram Visiting Hour: 6pm to 9pm (Thursday & Friday) Appointment: +88031658501 Call Now",
       "chamber": {
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "3pm to 6pm (Sun, Mon & Tue)",
-        "appointmentNumber": "+8801753291984"
-      },
-      "id": "97f3d2e6-b439-43d0-8f85-a890a8d3ebfb"
+        "appointmentNumber": "+8801753291984Call Now"
+      }
     },
     {
+      "id": "be0f871c-12de-4524-b09b-f75f94de77fd",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-sadia-armin-khan/",
+      "imageId": "52b68617-b3d0-4067-853c-3eb160aa33cd",
       "name": "Dr. Sadia Armin Khan",
       "degree": "MBBS, FCPS (Surgery), FMAS (India)",
       "specialty": "Breast, Laparoscopic & Colorectal Surgery Specialist",
       "workplace": "Ad-Din Medical College & Hospital",
-      "info": "Islami Bank Central Hospital, Kakrail\nAddress: 30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000\nVisiting Hour: 1pm to 4pm (Closed: Friday)\nAppointment: +8801810000116\nCall Now",
+      "info": "Islami Bank Central Hospital, Kakrail Address: 30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000 Visiting Hour: 1pm to 4pm (Closed: Friday) Appointment: +8801810000116 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "6151e0f0-5919-48f0-8c95-2336fec2b2d6"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "3f290a61-1e19-470d-92b1-23987458ff57",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-mohmmad-mohibul-aziz/",
+      "imageId": "8235aedd-9c12-4350-8c3f-2189fffd162e",
       "name": "Prof. Dr. Mohmmad Mohibul Aziz",
       "degree": "MBBS, FCPS (Surgery), FRCS (Edinburgh), FRCS (Glasgow)",
       "specialty": "General, Laparoscopic & Colorectal Surgeon",
       "workplace": "Ibn Sina Medical College & Hospital",
-      "info": "Ibn Sina Medical College Hospital, Kallyanpur\nAddress: 1/1 B, Kallyanpur, Dhaka\nVisiting Hour: 10am to 1pm (Sat, Mon & Wed)\nAppointment: +8801703725590\nCall Now",
+      "info": "Ibn Sina Medical College Hospital, Kallyanpur Address: 1/1 B, Kallyanpur, Dhaka Visiting Hour: 10am to 1pm (Sat, Mon & Wed) Appointment: +8801703725590 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "6:30pm to 8:30pm (Closed: Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "72fea7ac-78c2-452e-9ed2-58a46ba0f7b2"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "6099b785-f6b8-4f14-9e11-44426ff672cd",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-ali-nafisa/",
+      "imageId": "7840d8b1-9a0e-4d0b-89a3-fa535c121b52",
       "name": "Dr. Ali Nafisa",
       "degree": "MBBS (RMC), FCPS (Surgery)",
       "specialty": "General & Oncoplastic Breast Surgeon",
       "workplace": "Anwer Khan Modern Medical College & Hospital",
-      "info": "Labaid Cancer Hospital & Super Speciality Center\nAddress: 26, Green Road, Dhaka\nVisiting Hour: 7pm to 9pm (Closed: Friday)\nAppointment: +8809666710001\nCall Now",
+      "info": "Labaid Cancer Hospital & Super Speciality Center Address: 26, Green Road, Dhaka Visiting Hour: 7pm to 9pm (Closed: Friday) Appointment: +8809666710001 Call Now",
       "chamber": {
         "hospital": "BRB Hospital, Dhaka",
         "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
         "visitingTime": "6pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801910734568"
-      },
-      "id": "c5b8673e-7239-4223-bd23-e7ec7a07602c"
+        "appointmentNumber": "+8801910734568Call Now"
+      }
     },
     {
+      "id": "6112de7e-65fd-48dc-8678-67e289a48cc3",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-towhidul-alam/",
+      "imageId": "73268f56-47d1-4157-b9d5-09079f18cf2b",
       "name": "Prof. Dr. A.H.M. Towhidul Alam",
       "degree": "MBBS, FCPS (Surgery), FRCS (Glasgow), FACS (USA)",
       "specialty": "Gastrointestinal, Pancreato-Biliary, Endoscopic & Laparoscopic Surgeon",
@@ -220,11 +269,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "12pm to 2pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801720143448"
-      },
-      "id": "0ae7362f-c06e-4270-a60e-59f187b3cc00"
+        "appointmentNumber": "+8801720143448Call Now"
+      }
     },
     {
+      "id": "2dba24bf-ff31-4836-b72c-5d0f2c7b910d",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-ayesha-rahman/",
+      "imageId": "03b6ebe0-d86f-4f26-b611-bddd7da91e07",
       "name": "Dr. Ayesha Rahman",
       "degree": "MBBS, BCS (Health), MCPS (Surgery), FCPS (Surgery)",
       "specialty": "General, Colorectal & Breast Surgeon",
@@ -234,11 +286,14 @@
         "hospital": "Popular Diagnostic Center, Mirpur",
         "address": "Unit 02, House # 02, Block # A, Section # 10, Mirpur, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Monday & Friday)",
-        "appointmentNumber": "+8809666787807"
-      },
-      "id": "f2ab51fb-54aa-4950-9d39-3b71cb8a0c67"
+        "appointmentNumber": "+8809666787807Call Now"
+      }
     },
     {
+      "id": "395c3c7a-3de1-4dd2-ab22-c5662b256c81",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-nazmul-hoque-masum/",
+      "imageId": "edb4458e-b601-4a81-9fe3-ba5bf606c92f",
       "name": "Dr. Md. Nazmul Hoque Masum",
       "degree": "MBBS (DMC), FCPS (Surgery), FACS, FICS (USA), Member (ASCRS), Fellow (ISUCRS)",
       "specialty": "General & Colorectal Surgery Specialist",
@@ -248,11 +303,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "Unit 2, House # 05, Road # 2, Dhanmondi, Dhaka - 1205",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801407062502"
-      },
-      "id": "ac40a851-d9e9-4c0c-8f18-b0318a4ac286"
+        "appointmentNumber": "+8801407062502Call Now"
+      }
     },
     {
+      "id": "5c947506-20ca-41f4-bd43-bee7a4fa741b",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-shahadot-hossain-sheikh/",
+      "imageId": "f00c4f44-68b6-4704-acb5-2892f0459306",
       "name": "Prof. Dr. Shahadot Hossain Sheikh",
       "degree": "MBBS, FCPS (Surgery), MRCS (EDIN), FRCS (GLAS)",
       "specialty": "General & Colorectal Surgeon",
@@ -262,11 +320,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "7.30pm to 9.30pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "90fe8704-6b21-4d90-b1b4-5e622f00dd7c"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "d085bb3b-b705-4c69-9b63-3e8be7457cc9",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-shamima-jahan/",
+      "imageId": "f9f2632a-72e7-4820-834e-7fd72906b794",
       "name": "Prof. Dr. Shamima Jahan",
       "degree": "MBBS, FCPS (Surgery), Training (Colorectal & Breast Surgery)",
       "specialty": "General, Laparoscopic, Breast & Colorectal Surgeon",
@@ -276,11 +337,14 @@
         "hospital": "Islami Bank Central Hospital, Kakrail",
         "address": "30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000",
         "visitingTime": "5pm to 8pm (Closed: Mon & Friday)",
-        "appointmentNumber": "+8801810000116"
-      },
-      "id": "a2e28158-482e-4401-b3bc-5d5aef3c4e29"
+        "appointmentNumber": "+8801810000116Call Now"
+      }
     },
     {
+      "id": "b5881eb4-a03b-4293-a4ab-8fbb957a67be",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-mohammad-ali/",
+      "imageId": "d20e7d5a-db3c-4ee8-80d6-a95abb07e945",
       "name": "Prof. Dr. Mohammad Ali",
       "degree": "MBBS, FCPS (Surgery), FRCS (UK), FACS (USA)",
       "specialty": "Hepato-Biliary, Pancreatic Surgery & Liver Transplant Specialist",
@@ -290,25 +354,31 @@
         "hospital": "BRB Hospital, Dhaka",
         "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
         "visitingTime": "6pm to 9pm (Sat, Mon & Wednesday)",
-        "appointmentNumber": "+8801777764800"
-      },
-      "id": "71e49d8f-55ac-4712-a52c-f411bee8fc76"
+        "appointmentNumber": "+8801777764800Call Now"
+      }
     },
     {
+      "id": "e7abf0ef-303e-4aba-9671-858714096696",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-mazibar-rahman/",
+      "imageId": "95c29e2a-b026-472d-99fa-c23d3bd3abf6",
       "name": "Prof. Dr. Md. Mazibar Rahman",
       "degree": "MBBS, FCPS (Surgery), FICS (USA), FACS (USA), FRCS (Glasgow), FWHO (Urology)",
       "specialty": "General, Laparoscopic, Urological & Colorectal Surgeon",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Sayem Diagno Complex & Hospital, Mymensingh\nAddress: 30/A/1, Dengu Bepari Road, Sehora, Mymensingh – 2200\nVisiting Hour: 11am to 6pm (Only Friday)\nAppointment: +8801725516141\nCall Now",
+      "info": "Sayem Diagno Complex & Hospital, Mymensingh Address: 30/A/1, Dengu Bepari Road, Sehora, Mymensingh – 2200 Visiting Hour: 11am to 6pm (Only Friday) Appointment: +8801725516141 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "d328faae-a05d-4cb7-a4a0-53f4246341d1"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "1d038663-9f6f-4af9-b8f8-ce46a577a9e9",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-bidhan-c-das/",
+      "imageId": "1b20667e-2788-4324-aed4-263538e7a3a8",
       "name": "Prof. Dr. Bidhan Chandra Das",
       "degree": "MBBS, FCPS (Surgery), PhD, Fellow Liver Transplant Surgery (India & Japan)",
       "specialty": "Hepatobiliary, Pancreatic & Liver Transplant Surgeon",
@@ -318,11 +388,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801703341589"
-      },
-      "id": "819876a7-195e-41b5-b6ab-28267d0778d2"
+        "appointmentNumber": "+8801703341589Call Now"
+      }
     },
     {
+      "id": "35455d4e-3f31-4ffa-8c37-bce2c0f6a07d",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-nilufar-shabnam/",
+      "imageId": "0ff5e8ea-2541-4605-8333-056af2bc6313",
       "name": "Dr. Nilufar Shabnam",
       "degree": "MBBS, FCPS (Surgery), MRCS (Edinburgh), MRCPS (Glasgow), CCD (BIRDEM)",
       "specialty": "General, Breast & Colorectal Surgeon",
@@ -332,11 +405,14 @@
         "hospital": "Al-Manar Hospital Limited",
         "address": "Plot # Umo, Block # Rossoi, Satmosjid Road, Dhaka",
         "visitingTime": "5pm to 7pm (Sun, Mon, Thu & Friday)",
-        "appointmentNumber": "+8801550020885"
-      },
-      "id": "02a6f67c-9cca-4b39-b8b3-5233a04a282b"
+        "appointmentNumber": "+8801550020885Call Now"
+      }
     },
     {
+      "id": "10febc65-5f5f-49ce-b331-8d0af53a5a4b",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdullah-al-mamun-colorectal/",
+      "imageId": "da37736e-d1bf-4abf-b836-1a9c3a7246c3",
       "name": "Dr. Md. Abdullah Al Mamun",
       "degree": "MBBS, FCPS (Surgery), MRCS (UK), FMAS, FACRSI",
       "specialty": "Colorectal & Laparoscopic Surgeon",
@@ -346,39 +422,48 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "3.30pm to 7.30pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "e5e80699-250b-411f-afb0-6df40e53ba8a"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "5cca7f14-9afe-49d8-9c8a-05c39ea2cdbf",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-mustafizur-rahman/",
+      "imageId": "1bcfad7a-e311-4e32-a2de-41d1d93e8cbf",
       "name": "Dr. Mustafizur Rahman",
       "degree": "MBBS, BCS (Health), FCPS (Surgery), MS (Hepatobiliary & Pancreatic Surgery)",
       "specialty": "Liver, Gallbladder, Pancreas Specialist & Laparoscopic Surgeon",
       "workplace": "Directorate General of Health Services",
-      "info": "Farazy Hospital, Banasree\nAddress: House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka\nVisiting Hour: 7pm to 9pm (Closed: Friday)\nAppointment: +8801766111137\nCall Now",
+      "info": "Farazy Hospital, Banasree Address: House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka Visiting Hour: 7pm to 9pm (Closed: Friday) Appointment: +8801766111137 Call Now",
       "chamber": {
         "hospital": "AMZ Hospital, Badda",
         "address": "Cha - 80/3, Progati Sarani, Uttar Badda, Dhaka",
         "visitingTime": "4pm to 6.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801792439440"
-      },
-      "id": "ff5f4f64-f727-4c03-9868-56413eee8b30"
+        "appointmentNumber": "+8801792439440Call Now"
+      }
     },
     {
+      "id": "e40bf931-806b-4689-b5f7-3391e1ec588e",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-leea-amin/",
+      "imageId": "608689a8-680e-4c5c-92f8-c1ab262a0127",
       "name": "Dr. Leea Amin",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Laparoscopic, Breast, Cancer & Colorectal Surgeon",
       "workplace": "Eastern Medical College & Hospital",
-      "info": "Ahsania Mission Cancer & General Hospital\nAddress: Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka\nVisiting Hour: 11am to 3pm (Closed: Tuesday & Friday)\nContact Number: 10617\nCall Now",
+      "info": "Ahsania Mission Cancer & General Hospital Address: Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka Visiting Hour: 11am to 3pm (Closed: Tuesday & Friday) Contact Number: 10617 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
         "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
         "visitingTime": "4pm to 6pm (Sat, Sun & Mon)",
-        "appointmentNumber": "+8809666787805"
-      },
-      "id": "8c129273-e010-4b14-8b79-c8d9b4147d52"
+        "appointmentNumber": "+8809666787805Call Now"
+      }
     },
     {
+      "id": "1558d749-0ed9-4b15-b341-1d9196503851",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-sharmin-islam/",
+      "imageId": "36242494-d211-4067-93c6-691fa7105b57",
       "name": "Dr. Sharmin Islam",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Laparoscopic, Breast & Colorectal Surgeon",
@@ -388,39 +473,48 @@
         "hospital": "Health and Hope Hospital",
         "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
         "visitingTime": "6pm to 8pm (Saturday & Tuesday)",
-        "appointmentNumber": "+8801611216232"
-      },
-      "id": "eb86d124-f15a-4ec2-a024-a05355a8b950"
+        "appointmentNumber": "+8801611216232Call Now"
+      }
     },
     {
+      "id": "71b0b458-6884-45f1-8ac4-11ab10e5c0f8",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-nazmul-hakim-shahin/",
+      "imageId": "90384231-2fe9-4c3a-a70f-424b84a93cb3",
       "name": "Dr. Nazmul Hakim Shaheen",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "Hepatobilliary, Pancreatic & Liver Transplant Surgeon",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Health and Hope Hospital\nAddress: 152/2/G, Green Road, Panthapath, Dhaka – 1205\nVisiting Hour: 3pm to 7pm (Closed: Friday)\nAppointment: +8801311205586\nCall Now",
+      "info": "Health and Hope Hospital Address: 152/2/G, Green Road, Panthapath, Dhaka – 1205 Visiting Hour: 3pm to 7pm (Closed: Friday) Appointment: +8801311205586 Call Now",
       "chamber": {
         "hospital": "BRB Hospital, Dhaka",
         "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801972598407"
-      },
-      "id": "bdc85d11-e6cc-4f46-927f-ac91bfc6822c"
+        "appointmentNumber": "+8801972598407Call Now"
+      }
     },
     {
+      "id": "778991e0-c9be-41c0-88b2-6316c022f6af",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-setabur-rahman/",
+      "imageId": "6ebc552c-707a-4043-83b9-5a034ae852aa",
       "name": "Prof. Dr. Md. Setabur Rahman",
       "degree": "MBBS, MS (Surgery)",
       "specialty": "General, Laparoscopic, Breast & Cancer Specialist Surgeon",
       "workplace": "National Institute of Cancer Research & Hospital",
-      "info": "Super Medical Hospital, Savar\nAddress: Near Razzak Plaza, B-119/3, Jaleshwar, Savar, Dhaka\nVisiting Hour: 5pm to 8pm (Saturday)\nAppointment: +8801711266169\nCall Now",
+      "info": "Super Medical Hospital, Savar Address: Near Razzak Plaza, B-119/3, Jaleshwar, Savar, Dhaka Visiting Hour: 5pm to 8pm (Saturday) Appointment: +8801711266169 Call Now",
       "chamber": {
         "hospital": "Delta Hospital, Mirpur",
         "address": "26/2, Principal Abul Kashem Road, Mirpur - 1, Dhaka - 1216",
         "visitingTime": "5pm to 7pm (Sat, Mon & Tuesday)",
-        "appointmentNumber": "+8801301254924"
-      },
-      "id": "c5e3ddb8-a919-4634-85f8-532d1b4b7dda"
+        "appointmentNumber": "+8801301254924Call Now"
+      }
     },
     {
+      "id": "624f9c11-03d2-404c-bbec-fd136fe6ef54",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-atiar-rahman/",
+      "imageId": "b47770ab-0df3-4fc1-a34b-1b6bc3b8de5e",
       "name": "Prof. Dr. Md. Atiar Rahman",
       "degree": "MBBS, FCPS (Surgery), MRCS (EDIN), FRCS (GLASG)",
       "specialty": "Colorectal, General, Laparoscopic, Breast & Hepatobiliary Surgeon",
@@ -430,11 +524,14 @@
         "hospital": "Popular Diagnostic Center, Mirpur",
         "address": "Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka",
         "visitingTime": "8pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787807"
-      },
-      "id": "8e6a6381-a2c4-4201-a00e-282496ab7bd6"
+        "appointmentNumber": "+8809666787807Call Now"
+      }
     },
     {
+      "id": "fe99b53f-f405-438a-a9c8-19ffb18cd5dc",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-motior-rahman/",
+      "imageId": "d68085c1-9975-46ef-ada2-d64db9a3a7c7",
       "name": "Prof. Dr. Motior Rahman",
       "degree": "MBBS, FRCS (UK), FACS (USA), FICS (USA), DIP, MIS",
       "specialty": "General & Laparoscopic Surgeon",
@@ -444,11 +541,14 @@
         "hospital": "Central Hospital, Dhanmondi",
         "address": "House # 02, Road # 05, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "1pm to 4pm (Closed: Friday)",
-        "appointmentNumber": "+8802-41060800"
-      },
-      "id": "63a63039-5d07-40a0-9c1f-f1efc209b22b"
+        "appointmentNumber": "+8802-41060800Call Now"
+      }
     },
     {
+      "id": "6a335cd7-ed8e-4d8b-9c9c-9c5aaa5bc7fa",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-saif-uddin-ahmed/",
+      "imageId": "7d756ea6-34e9-4129-b90e-5fc3ed97c19f",
       "name": "Prof. Saif Uddin Ahmed",
       "degree": "MBBS, FCPS (Surgery), FRCS (Glasgow), FACS (USA)",
       "specialty": "Laparoscopy, Breast, Gastrointestinal, Tumor, & Cancer Surgery Specialist",
@@ -458,11 +558,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "6pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "10653"
-      },
-      "id": "29ec7f9d-d56e-4e07-9eb8-04320957cfd0"
+        "appointmentNumber": "10653Call Now"
+      }
     },
     {
+      "id": "7518a852-5ed6-43fe-b1ee-5bc94e92e989",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-afrin-sultana/",
+      "imageId": "c641a93f-d879-4b8c-9306-a274b88ec49a",
       "name": "Dr. Afrin Sultana",
       "degree": "MBBS (DMC), FCPS (Surgery), MRCS (UK)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -472,11 +575,14 @@
         "hospital": "City Hospital Limited, Dhaka",
         "address": "1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka – 1207",
         "visitingTime": "8pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801558220134"
-      },
-      "id": "9fb9f2c3-b756-429c-9d98-bf8bdad2879c"
+        "appointmentNumber": "+8801558220134Call Now"
+      }
     },
     {
+      "id": "900a1a90-4400-4cd3-9ee4-413d8e764b3f",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-khadija-rahman-sonia/",
+      "imageId": "7f0bb159-7394-40fa-b701-509051078941",
       "name": "Dr. Khadija Rahman (Sonia)",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "Breast, Colorectal & General Surgeon",
@@ -486,11 +592,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Malibagh",
         "address": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
         "visitingTime": "5pm to 7pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801844141717"
-      },
-      "id": "4f6428cb-6bf1-45db-a7ee-8c0781acc61b"
+        "appointmentNumber": "+8801844141717Call Now"
+      }
     },
     {
+      "id": "9f923151-40ab-49b7-8698-d34cf4656ecc",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-shahidur-rahman/",
+      "imageId": "99ca294f-4f4f-4372-97c5-aac6a71d4b90",
       "name": "Prof. Dr. Md. Shahidur Rahman",
       "degree": "MBBS, FCPS (Surgery), FICS (USA), FISS (USA)",
       "specialty": "Hepatobiliary, Pancreatic & Liver Transplant Specialist Surgeon",
@@ -500,11 +609,14 @@
         "hospital": "Savar Prime Hospital",
         "address": "A-89, Thana Road, Talbagh, Savar, Dhaka - 1340",
         "visitingTime": "4pm to 7pm (Sun & Wed)",
-        "appointmentNumber": "+8801752561542"
-      },
-      "id": "410a260f-009a-4a7a-950c-0d70a728e65b"
+        "appointmentNumber": "+8801752561542Call Now"
+      }
     },
     {
+      "id": "a70bad22-f6e7-4398-ae50-2be2274248a5",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-mohammed-mostafizur-rahman/",
+      "imageId": "e62a02f5-8e0d-4b3d-9569-3cddcddd836e",
       "name": "Prof. Dr. Mohammed Mostafizur Rahman",
       "degree": "MBBS (DMC), FRCS (Edinburgh)",
       "specialty": "Breast, Colorectal, Endocrine & Laparoscopic Surgery Specialist",
@@ -514,11 +626,14 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801713001346"
-      },
-      "id": "fcc35e1c-2e24-4491-83c5-4d3c48b06d3d"
+        "appointmentNumber": "+8801713001346Call Now"
+      }
     },
     {
+      "id": "8c504aba-1bba-4580-96f6-a7020b5e1e97",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-jowhar-lal-sing/",
+      "imageId": "d21fdb29-28c6-4b56-b4b2-f7bb63f948ac",
       "name": "Dr. Jawhar Lal Singha",
       "degree": "MBBS, MS (Surgery), FACS (USA), FASCRS, Colorectal Fellow (USA)",
       "specialty": "Rectal, Colon, Piles Specialist & Colorectal Surgeon",
@@ -528,11 +643,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "5pm to 8pm (Sun, Mon, Tue & Thu)",
-        "appointmentNumber": "+8801724563481"
-      },
-      "id": "c3e53fce-4f8a-414e-9a48-bee0b22de742"
+        "appointmentNumber": "+8801724563481Call Now"
+      }
     },
     {
+      "id": "c8d4df6d-e1c2-4cfb-b516-afa80c7811ec",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/brig-gen-prof-md-saidur-rahman/",
+      "imageId": "bb61cc38-876e-4870-9add-4a6e7d75353c",
       "name": "Brig. Gen. Prof. Dr. Md. Saidur Rahman",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General & Laparoscopic Surgery Specialist",
@@ -542,11 +660,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "6pm to 8pm (Sat, Mon, Tue, Thu)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "ab929879-4388-4a41-aef0-301ae0af2b45"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "861f884d-bad4-4a47-9c10-6299f49a4db3",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/professor-dr-ruksana-parvin/",
+      "imageId": "00a8e05f-9363-4421-b34e-087e374657f8",
       "name": "Professor Dr. Ruksana Parvin",
       "degree": "MBBS, FCPS (Surgery), FACS (USA)",
       "specialty": "Breast Diseases, Breast Cancer, Piles, Fissure, Fistula, Colorectal & Laparoscopic Surgery Specialist",
@@ -556,39 +677,48 @@
         "hospital": "Ibn Sina Diagnostic Center, Malibagh",
         "address": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
         "visitingTime": "5pm to 8pm (Sun, Tue & Wed)",
-        "appointmentNumber": "+8809610009611"
-      },
-      "id": "b79022aa-f902-49b8-919c-8e65850b3359"
+        "appointmentNumber": "+8809610009611Call Now"
+      }
     },
     {
+      "id": "15f1966d-2194-4751-a129-0a8d5db9cac7",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-mahamud-riyad-foysal/",
+      "imageId": "8003ec4f-c45b-42f9-9c52-b40cce9532a1",
       "name": "Dr. Mahamud Riyad Foysal",
       "degree": "MBBS (SSMC), FCPS (Surgery), MRCS (UK)",
       "specialty": "General, Laparoscopic & Colorectal Specialist Surgeon",
       "workplace": "Popular Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Savar\nAddress: E/22, Talbagh, Anandapur, Savar, Dhaka\nVisiting Hour: 7pm to 9pm (Closed; Friday)\nAppointment: +8809666787808\nCall Now",
+      "info": "Popular Diagnostic Center, Savar Address: E/22, Talbagh, Anandapur, Savar, Dhaka Visiting Hour: 7pm to 9pm (Closed; Friday) Appointment: +8809666787808 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "59813cf6-861b-40b9-80ba-e4d02b27c5fe"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "37449ef9-53eb-4da2-8a48-811165bb1264",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-sadia-sajmin-siddiqua/",
+      "imageId": "af86990f-39cf-438c-8565-2a144e16aaf7",
       "name": "Dr. Sadia Sajmin Siddiqua",
       "degree": "MBBS (DMC), FCPS (Surgery)",
       "specialty": "General, Colorectal. Laparoscopic & Breast Surgeon",
       "workplace": "Sarkari Karmachari Hospital",
-      "info": "Khidmah Hospital, Dhaka\nAddress: C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka\nVisiting Hour: 4pm to 7pm (Sat, Sun & Monday)\nAppointment: +8809606063030\nCall Now",
+      "info": "Khidmah Hospital, Dhaka Address: C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka Visiting Hour: 4pm to 7pm (Sat, Sun & Monday) Appointment: +8809606063030 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
         "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
         "visitingTime": "4pm to 6pm (Mon, Tue & Wednesday)",
-        "appointmentNumber": "+8809666787805"
-      },
-      "id": "63792cdf-fc8e-4412-9d56-80be4b926755"
+        "appointmentNumber": "+8809666787805Call Now"
+      }
     },
     {
+      "id": "266fb649-b008-4de4-8ad1-6f0be15dc370",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-omar-ali/",
+      "imageId": "cb75ec9d-7b8e-40ca-a1f1-7aeba90a2839",
       "name": "Prof. Dr. Md. Omar Ali",
       "degree": "MBBS, FCPS, FICS (USA)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -598,39 +728,48 @@
         "hospital": "United Hospital Ltd, Dhaka",
         "address": "Plot # 15, Road # 71, Gulshan, Dhaka",
         "visitingTime": "9am to 6pm (Closed: Friday)",
-        "appointmentNumber": "10666"
-      },
-      "id": "4e020d40-0901-444e-8a45-ad21eea08f4d"
+        "appointmentNumber": "10666Call Now"
+      }
     },
     {
+      "id": "eb3ccc3a-6ab7-4d9f-8d2e-5640f7104266",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-sonia-akter/",
+      "imageId": "b41d1f83-4b95-48b7-804d-1900628e2cc6",
       "name": "Dr. Sonia Akter",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Laparoscopic, Breast & Colorectal Surgeon",
       "workplace": "Enam Medical College & Hospital",
-      "info": "Farazy Hospital, Banasree\nAddress: House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka\nVisiting Hour: 4pm to 6pm (Sat, Mon & Wed)\nAppointment: +8801766111137\nCall Now",
+      "info": "Farazy Hospital, Banasree Address: House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka Visiting Hour: 4pm to 6pm (Sat, Mon & Wed) Appointment: +8801766111137 Call Now",
       "chamber": {
         "hospital": "Enam Medical College & Hospital",
         "address": "9/3 Parboti Nagar, Thana Road, Savar, Dhaka",
         "visitingTime": "8am to 2.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801716358146"
-      },
-      "id": "4636f84d-51b8-42ce-b3e6-7660237b1c24"
+        "appointmentNumber": "+8801716358146Call Now"
+      }
     },
     {
+      "id": "278077f6-15da-4179-905c-6919fe9d5fb7",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-saifullah/",
+      "imageId": "cbc76ea6-bbe7-4f1a-9225-5a60c5b4e8c9",
       "name": "Dr. Md. Saifullah",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Laparoscopic, Colorectal & Cancer Specialist Surgeon",
       "workplace": "Sir Salimullah Medical College & Mitford Hospital",
-      "info": "Labaid Cancer Hospital & Super Speciality Center\nAddress: 26, Green Road, Dhaka\nVisiting Hour: 4pm to 5pm (Sun, Tue & Thu)\nAppointment: +8809666710001\nCall Now",
+      "info": "Labaid Cancer Hospital & Super Speciality Center Address: 26, Green Road, Dhaka Visiting Hour: 4pm to 5pm (Sun, Tue & Thu) Appointment: +8809666710001 Call Now",
       "chamber": {
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "9a7dc387-dfc6-4163-b8ef-5f16d38ef5e8"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "056838ba-3fa0-4661-b0ef-432d516d9b8d",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-shahriar-faisal/",
+      "imageId": "0f34f5e3-1583-443b-b51f-f9d161645a8b",
       "name": "Dr. Mohammad Shahriar Faisal",
       "degree": "MBBS, FCPS (Surgery), FACS (USA), Fellow (Colorectal Surgery)",
       "specialty": "General & Colorectal Surgery Specialist",
@@ -640,11 +779,14 @@
         "hospital": "Bangladesh Specialized Hospital",
         "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8809666700100"
-      },
-      "id": "05a4caa9-cecc-4379-9eb8-4c32528bf1fc"
+        "appointmentNumber": "+8809666700100Call Now"
+      }
     },
     {
+      "id": "a8dd378e-dd8a-4290-99b8-d90eb064ce4b",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-sarder-a-nayeem/",
+      "imageId": "bd0adef3-d956-4d27-b0b2-8d50c1a80b49",
       "name": "Prof. Dr. Sarder A. Nayeem",
       "degree": "MBBS (DMC), PhD (Tokyo), FACS (USA)",
       "specialty": "Pioneer Laparoscopic Surgeon",
@@ -654,11 +796,14 @@
         "hospital": "Japan Bangladesh Friendship Hospital",
         "address": "55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+88029672277"
-      },
-      "id": "46e4b5e1-7926-46b8-9821-b848010854fc"
+        "appointmentNumber": "+88029672277Call Now"
+      }
     },
     {
+      "id": "f577d77e-ae72-4e03-8ba8-cb28b8fcc3f2",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-tamanna-narmeen/",
+      "imageId": "ef0e7245-ab9f-40dd-8324-2748bf3b7c91",
       "name": "Dr. Tamanna Narmeen",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Breast & Laparoscopic Surgeon",
@@ -668,11 +813,14 @@
         "hospital": "Birdem Mohila O Shishu Hospital",
         "address": "1/A, Segun Bagicha Road, Dhaka – 1000",
         "visitingTime": "3pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801921876704"
-      },
-      "id": "347c5496-f694-4b78-b6d3-34244713f41e"
+        "appointmentNumber": "+8801921876704Call Now"
+      }
     },
     {
+      "id": "f8d80d45-5783-4af5-b7de-426a2e260dc7",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-dm-mohiduzzaman-tony/",
+      "imageId": "8fe489ff-0d39-4cc9-ace0-9d94cd80a4ec",
       "name": "Dr. DM Mohiduzzaman Tony",
       "degree": "MBBS, FCPS (Surgery), MS (Surgery), CCD",
       "specialty": "General, Laparoscopic, Colorectal & Oncological Surgeon",
@@ -682,11 +830,14 @@
         "hospital": "Ahsania Mission Cancer & General Hospital",
         "address": "Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka",
         "visitingTime": "4pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "10617"
-      },
-      "id": "3921d64d-352f-4540-8c80-a4bde7080df3"
+        "appointmentNumber": "10617Call Now"
+      }
     },
     {
+      "id": "9139923b-71b5-48d7-bb7b-46e6cd504014",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-khademul-islam/",
+      "imageId": "2feaaa52-eec5-44ec-8953-4b8cde4c6ddb",
       "name": "Prof. Dr. M Khademul Islam",
       "degree": "MBBS, FCPS, Dip.Med (UK), FRCS (Glasgow), FICS, FACS",
       "specialty": "General Surgeon",
@@ -696,11 +847,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "10am to 6pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "f7e75658-ab0a-488e-a6e2-192024585214"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "a7fb73c1-dfff-4c38-81a8-7320c26a3810",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-farhana-yesmin/",
+      "imageId": "84f4b77b-a129-4fe5-8c6d-305c61a91b73",
       "name": "Dr. Farhana Yesmin",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "Breast, Colorectal, Laparoscopic & General Surgeon",
@@ -710,25 +864,31 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "4.30pm to 7.30pm (Closed: Wed, Thu & Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "f983ade2-b27a-4fa5-be44-6fde5c1f4b10"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "7426f78b-e88e-4edd-984d-3a430ad20cb8",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-emrul-hasan-khan/",
+      "imageId": "64b28264-0594-4de9-bcc2-447efc2ec0e1",
       "name": "Dr. Mohammad Emrul Hasan Khan",
       "degree": "MBBS, BCS (Health), FCPS (Surgery), MS (Hepatobiliary Surgery)",
       "specialty": "General, Liver, Biliary & Pancreatic Surgeon",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Super Medical Hospital, Savar\nAddress: Near Razzak Plaza, B-119/3, Jaleshwar, Savar, Dhaka\nVisiting Hour: 5pm to 8pm (Sun & Thu)\nAppointment: +8801711266169\nCall Now",
+      "info": "Super Medical Hospital, Savar Address: Near Razzak Plaza, B-119/3, Jaleshwar, Savar, Dhaka Visiting Hour: 5pm to 8pm (Sun & Thu) Appointment: +8801711266169 Call Now",
       "chamber": {
         "hospital": "Bangladesh Specialized Hospital",
         "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8809666700100"
-      },
-      "id": "f0aeaa28-feea-4b08-b7a7-b2588f825559"
+        "appointmentNumber": "+8809666700100Call Now"
+      }
     },
     {
+      "id": "b80ee6e5-4b59-42bb-9360-90759ca8c535",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-amreen-faruq/",
+      "imageId": "47a4619e-3627-41ea-9b35-2446c98ed3bf",
       "name": "Asso. Prof. Dr. Amreen Faruq",
       "degree": "MBBS, MS (Surgery), FACS (USA)",
       "specialty": "General, Laparoscopic, Breast, Hernia & Diabetic Foot Surgeon",
@@ -738,11 +898,14 @@
         "hospital": "BIRDEM Specialized Chamber Complex",
         "address": "Main Building, 122, Kazi Nazrul Islam Avenue, Shahbag, Dhaka",
         "visitingTime": "2pm to 5pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801746816722"
-      },
-      "id": "9aec62cd-c3c6-47a1-9ec9-1323e057f5ef"
+        "appointmentNumber": "+8801746816722Call Now"
+      }
     },
     {
+      "id": "4b69a6d3-2b0a-47b5-aea0-0c1c8800489e",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-abul-kalam-chowdhury/",
+      "imageId": "8d56eb04-995a-4397-b976-ea6403d592b4",
       "name": "Dr. Md. Abul Kalam Chowdhury",
       "degree": "MBBS, MS (Surgery), Special Training in Laparoscopy & Bariatric Surgery (India)",
       "specialty": "Colorectal & Laparoscopic Surgery Specialist",
@@ -752,11 +915,14 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "6pm to 9pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801974971074"
-      },
-      "id": "ff46b044-8ea3-4d2a-bbe7-b9873e6e1417"
+        "appointmentNumber": "+8801974971074Call Now"
+      }
     },
     {
+      "id": "1d67e41b-45fe-4ffd-92fe-3f041de09a8d",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-zulfiqur-rahman-khan/",
+      "imageId": "d6e78c64-67b9-46e0-950f-73c80bf18707",
       "name": "Prof. Dr. Zulfiqur Rahman Khan",
       "degree": "MBBS, FCPS (Surgery), FRCA (UK), FICS (USA)",
       "specialty": "General & Pancreatic Surgeon",
@@ -766,11 +932,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "6.30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "df93c433-3e17-4472-b8e7-50f4d6b6175d"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "1eade8c5-b45d-43e6-9367-ef6f74ec270e",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-deb-prasad-pal/",
+      "imageId": "a57dbd6d-a1ef-4e11-bba8-aa36b208b370",
       "name": "Prof. Dr. Deb Prasad Pal",
       "degree": "MBBS, FCPS (Surgery), FMAS (India), Trained in Urology (NIKDU)",
       "specialty": "General & Urological Surgeon",
@@ -780,11 +949,14 @@
         "hospital": "Enam Medical College & Hospital",
         "address": "9/3 Parboti Nagar, Thana Road, Savar, Dhaka",
         "visitingTime": "8am to 2.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801716358146"
-      },
-      "id": "216c2c09-5bdd-4603-bb78-c336e9a56d10"
+        "appointmentNumber": "+8801716358146Call Now"
+      }
     },
     {
+      "id": "444b8f71-f848-4395-bdeb-a82cb2be97d1",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-farid-hossain/",
+      "imageId": "edb171c0-3393-4d93-b6b5-7d4a684e5f04",
       "name": "Dr. Mohammad Farid Hossain",
       "degree": "MBBS, MS (PGIMER)",
       "specialty": "General, Laparoscopic, Colorectal & Cancer Surgeon",
@@ -794,25 +966,31 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10678"
-      },
-      "id": "786a505e-f8d0-408d-a418-e8a0f8b0d109"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "26f73dac-f0ad-4add-9d2d-5faca32f0e50",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-jahangir-hossain-bhuiyan/",
+      "imageId": "b61dd0b7-e3ea-499e-bb8f-eaa34dd5ebb8",
       "name": "Prof. Dr. Md. Jahangir Hossain Bhuiyan",
       "degree": "MBBS, MS (Surgery), FACS (USA), FACRSI (India)",
       "specialty": "General, Laparoscopic & Colorectal Surgeon",
       "workplace": "Ibn Sina Medical College & Hospital",
-      "info": "Islami Bank Hospital, Mirpur\nAddress: Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216\nVisiting Hour: 6pm to 9pm (Closed: Friday)\nAppointment: +8801992346632\nCall Now",
+      "info": "Islami Bank Hospital, Mirpur Address: Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216 Visiting Hour: 6pm to 9pm (Closed: Friday) Appointment: +8801992346632 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
         "address": "1/1 B, Kallyanpur, Dhaka",
         "visitingTime": "9am to 1pm (Closed: Friday)",
-        "appointmentNumber": "+8801703725590"
-      },
-      "id": "b6ae8391-20c2-4a71-95eb-938f253f1267"
+        "appointmentNumber": "+8801703725590Call Now"
+      }
     },
     {
+      "id": "0d188b1e-234e-4939-9d62-04e65701e636",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-amsm-sharfuzzaman-rubel/",
+      "imageId": "057d1a46-f1ed-40b0-b93c-d9a248c53b99",
       "name": "Prof. Dr. A.M.S.M. Sharfuzzaman Rubel",
       "degree": "MBBS, FCPS (Surgery), MRCS (UK)",
       "specialty": "General & Laparoscopic Surgery Specialist",
@@ -822,11 +1000,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "a62af587-d0ed-4109-8710-8ad3878f3f2c"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "231ff5ee-36a0-48f7-81f3-a4a502662292",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-ranjit-kumar-mallick/",
+      "imageId": "9c13294b-6617-4eec-8859-3a7e9ed02c06",
       "name": "Prof. Dr. Ranjit Kumar Mallick",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General & Laparoscopic Surgery Specialist",
@@ -836,11 +1017,14 @@
         "hospital": "Labaid Diagnostic, Uttara (Unit 01)",
         "address": "House # 15, Road # 12, Sector # 06, Uttara, Dhaka",
         "visitingTime": "2pm to 4pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801766662606"
-      },
-      "id": "4ffd8f61-59a5-4502-9441-3d5c8c6c1c47"
+        "appointmentNumber": "+8801766662606Call Now"
+      }
     },
     {
+      "id": "e77dfe1a-b32b-4725-9dbb-e0f3e1637900",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-burhan-uddin-khan/",
+      "imageId": "c7607108-ca74-4352-9ec4-7f963131343c",
       "name": "Prof. Dr. Md. Burhan Uddin Khan",
       "degree": "MBBS, FCPS (Surgery), MRCS (Edinburgh), MRCS (​UK), FMAS",
       "specialty": "General & Laparoscopic Surgeon",
@@ -850,11 +1034,14 @@
         "hospital": "Central Hospital, Dhanmondi",
         "address": "House # 02, Road # 05, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "5pm to 10pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8802-41060800"
-      },
-      "id": "54ce433c-79da-4166-a91c-fc4e981902df"
+        "appointmentNumber": "+8802-41060800Call Now"
+      }
     },
     {
+      "id": "0fffc3ce-e228-43d7-89ad-e6b4b14aceeb",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-p-k-saha/",
+      "imageId": "4e2a59ad-950b-45ec-8504-a608ef22fff4",
       "name": "Prof Dr. P.K. Saha",
       "degree": "MBBS, MS, FRCS, FACS, DMIS (FRANCE)",
       "specialty": "General & Advance Laparoscopic Surgery Specialist",
@@ -864,11 +1051,14 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10678"
-      },
-      "id": "505db8f9-732b-4f23-b4fc-36b8ca8f7626"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "8ee7b0e8-2371-4d66-83e1-6780c007bfc4",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-shamima-nasrin/",
+      "imageId": "b75cd15e-9516-4332-a59a-b975a1d5bdd8",
       "name": "Dr. Shamima Nasrin",
       "degree": "MBBS (DMC) FCPS (Surgery), FMAS (India)",
       "specialty": "General, Breast & Colorectal Surgeon",
@@ -878,11 +1068,14 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "7pm to 9pm (Sat, Mon, Tue & Wed)",
-        "appointmentNumber": "+8801819167948"
-      },
-      "id": "ba97f113-7049-445e-a66f-da7d6c6b1bf6"
+        "appointmentNumber": "+8801819167948Call Now"
+      }
     },
     {
+      "id": "8c9f9673-aad8-46d9-9b5d-887ddc5b0667",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-manir-hossain-khan/",
+      "imageId": "10cbd771-475b-49a1-bc61-a2483484cf47",
       "name": "Dr. Md. Manir Hossain Khan",
       "degree": "MBBS (DMC), MCPS, FCPS, MRCS (UK), FACRSI, FMAS",
       "specialty": "General, Laparoscopic, Hepatobiliary, Colorectal & GI Surgeon",
@@ -892,25 +1085,31 @@
         "hospital": "Uttara Crescent Diagnostic & Consultation Center",
         "address": "House # 16, Sector # 7, Rabindra Sarani, Uttara, Dhaka – 1230",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666710665"
-      },
-      "id": "acc4c8a5-d81f-47a7-a36d-26eb259849e6"
+        "appointmentNumber": "+8809666710665Call Now"
+      }
     },
     {
+      "id": "ad219a99-980e-4d77-8c0a-58452a92e0bf",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-abdullah-al-amin/",
+      "imageId": "5efbc014-71b2-4db7-961c-d5a17c19972a",
       "name": "Prof. Dr. Md. Abdullah-Al-Amin",
       "degree": "MBBS, MCPS (Surgery), FCPS (Surgery), FRCS (​Glasgow), FACS (USA)",
       "specialty": "General, Advanced Laparoscopic, Large Intestine & Colorectal Surgery Specialist",
       "workplace": "Birdem General Hospital & Ibrahim Medical College",
-      "info": "Islami Bank Hospital, Motijheel\nAddress: 24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka\nVisiting Hour: 7pm to 8.30pm (Closed: Friday)\nAppointment: +8801727666741\nCall Now",
+      "info": "Islami Bank Hospital, Motijheel Address: 24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka Visiting Hour: 7pm to 8.30pm (Closed: Friday) Appointment: +8801727666741 Call Now",
       "chamber": {
         "hospital": "Central Hospital, Dhanmondi",
         "address": "House # 02, Road # 05, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "9pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8802-41060800"
-      },
-      "id": "0b9d5087-6b55-4c4f-b6d6-672c0a1353f1"
+        "appointmentNumber": "+8802-41060800Call Now"
+      }
     },
     {
+      "id": "28393a89-0c92-4797-8391-51ae86ce98c3",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-nasim-e-tasnim-tanu/",
+      "imageId": "860fd0b5-fad9-448a-9473-3a0a0bffbaa0",
       "name": "Dr. Nasim-E-Tasnim Tanu",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Colorectal & Breast Surgeon",
@@ -920,25 +1119,31 @@
         "hospital": "Islami Bank Hospital, Mugda",
         "address": "1/24/B, Kamalapur Manda Road, South Mugdapara, Dhaka",
         "visitingTime": "7pm to 9.30pm (Sat, Mon, Tue & Thu)",
-        "appointmentNumber": "+8801724008677"
-      },
-      "id": "ab31beac-0ee0-42b2-a61e-ba4a4634b302"
+        "appointmentNumber": "+8801724008677Call Now"
+      }
     },
     {
+      "id": "9cdcd3a4-bc76-4af2-ae93-c4220bac65d9",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-shayda-ali/",
+      "imageId": "c41601fd-a705-408f-aec6-5320c5c793fe",
       "name": "Dr. Shayda Ali",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "Breast, Colorectal, General & Laparoscopic Surgery Specialist",
       "workplace": "Delta Medical College & Hospital",
-      "info": "Ibn Sina Specialized Hospital, Dhanmondi\nAddress: House # 68, Road # 15/A, Dhanmondi, Dhaka – 1209\nVisiting Hour: 7pm to 9pm (Closed: Friday)\nAppointment: +8801823039800\nCall Now",
+      "info": "Ibn Sina Specialized Hospital, Dhanmondi Address: House # 68, Road # 15/A, Dhanmondi, Dhaka – 1209 Visiting Hour: 7pm to 9pm (Closed: Friday) Appointment: +8801823039800 Call Now",
       "chamber": {
         "hospital": "Delta Hospital, Mirpur",
         "address": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka - 1216",
         "visitingTime": "8.30am to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8801301254924"
-      },
-      "id": "586932ae-6c5d-4031-82f6-9747f9f5fec3"
+        "appointmentNumber": "+8801301254924Call Now"
+      }
     },
     {
+      "id": "89f7bd80-845c-4fc3-80d6-1c5a549aa5d4",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-tapan-kumar-saha/",
+      "imageId": "dbe79240-ed81-4c9f-b41c-6d9a1222621e",
       "name": "Prof. Dr. Tapan Kumar Saha",
       "degree": "MBBS, FCPS (Surgery), Fellow (MIS)",
       "specialty": "General & Laparoscopic Surgery Specialist",
@@ -948,11 +1153,14 @@
         "hospital": "Bangladesh Specialized Hospital",
         "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8809666700100"
-      },
-      "id": "8006ae19-1271-4db4-9cde-cf7320553409"
+        "appointmentNumber": "+8809666700100Call Now"
+      }
     },
     {
+      "id": "06ced5c8-322b-4b90-af48-87019bc4da6e",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-abm-khurshid-alam/",
+      "imageId": "7100876f-7c53-4032-8c6b-adef9d203dc1",
       "name": "Prof. Dr. ABM Khurshid Alam",
       "degree": "MBBS, FCPS (Surgery), MS (Ortho), FRCS (UK)",
       "specialty": "General & Orthopedic Surgeon",
@@ -962,11 +1170,14 @@
         "hospital": "Health and Hope Hospital",
         "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
         "visitingTime": "6pm to 9pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8809611996699"
-      },
-      "id": "87334e8d-5069-48d5-bfd0-b1bc04df2a9a"
+        "appointmentNumber": "+8809611996699Call Now"
+      }
     },
     {
+      "id": "12986d0b-e0b1-461e-87cf-94103e17a6d0",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-abdus-salam-arif/",
+      "imageId": "b60814af-03bd-429d-a822-a45838aaf6fa",
       "name": "Prof. Dr. Abdus Salam Arif",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Laparoscopic & Breast Surgeon",
@@ -976,11 +1187,14 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "9am to 2pm & 7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+88029670295"
-      },
-      "id": "b1ab6e23-afd7-4fa9-a4c2-cf0dd0db5b22"
+        "appointmentNumber": "+88029670295Call Now"
+      }
     },
     {
+      "id": "502537cb-5555-4d02-acd0-fd1e3cfb2c4a",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-karina-rahman/",
+      "imageId": "bb52030a-afd9-4c7b-976c-86523bd944e4",
       "name": "Dr. Karina Rahman",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Laparoscopic, Breast & Colorectal Surgeon",
@@ -990,11 +1204,14 @@
         "hospital": "Enam Medical College & Hospital",
         "address": "9/3 Parboti Nagar, Thana Road, Savar, Dhaka",
         "visitingTime": "8am to 2.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801716358146"
-      },
-      "id": "00a4d136-b378-4188-a3b8-e1e50963629e"
+        "appointmentNumber": "+8801716358146Call Now"
+      }
     },
     {
+      "id": "67f109fe-6a82-442a-898b-f808115046b8",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-rafiqus-salehin/",
+      "imageId": "a41ac9f3-c100-4883-9d8d-015a60e90c21",
       "name": "Prof. Dr. Rafiqus Salehin",
       "degree": "MBBS, FCPS (Surgery), FRCS, Training (UK, SG, HK, IN)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -1004,11 +1221,14 @@
         "hospital": "United Hospital Ltd, Dhaka",
         "address": "Plot # 15, Road # 71, Gulshan, Dhaka",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "10666"
-      },
-      "id": "98b4f2ca-e9df-40da-88f2-56654e5d92f6"
+        "appointmentNumber": "10666Call Now"
+      }
     },
     {
+      "id": "8405a292-e20e-4bc0-9b98-825ecf919350",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-humayun-kabir-chowdhury/",
+      "imageId": "57de509a-1182-466c-98a6-e0ce2fee3649",
       "name": "Prof. Dr. Humayun Kabir Chowdhury",
       "degree": "MBBS, FCPS (Surgery), FICS (USA), FACS (USA)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -1018,11 +1238,14 @@
         "hospital": "Medinova Medical Services, Dhanmondi",
         "address": "House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka",
         "visitingTime": "7pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "10658"
-      },
-      "id": "48c4f7d6-dc0e-48f3-b80e-22393703a552"
+        "appointmentNumber": "10658Call Now"
+      }
     },
     {
+      "id": "dec908a1-e4a1-4f32-940c-a5c3a7bad9db",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdus-salam-surgery/",
+      "imageId": "21a265de-0622-4e0b-b6ea-bb60af3a5cd5",
       "name": "Dr. Md. Abdus Salam",
       "degree": "MBBS, MS (Surgery), PGT (Plastic & Reconstructive Surgery)",
       "specialty": "General, Laparoscopic, Hernia, Tumor, Breast, Large Intestine & Colorectal Surgeon",
@@ -1032,25 +1255,31 @@
         "hospital": "Islami Bank Hospital, Motijheel",
         "address": "24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801727666741"
-      },
-      "id": "8d1f8e84-be65-45a9-826a-6c551d2a38ce"
+        "appointmentNumber": "+8801727666741Call Now"
+      }
     },
     {
+      "id": "abddc839-b6e6-44c8-8e94-a9daa7b81f11",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-debasish-das/",
+      "imageId": "72339833-b608-43a6-9d5f-8a1b28b78297",
       "name": "Prof. Dr. Debasish Das",
       "degree": "MBBS, FCPS (Surgery), Training in Laparoscopic Surgery (Germany)",
       "specialty": "General, Laparoscopic, Breast & Colorectal Surgeon",
       "workplace": "Enam Medical College & Hospital",
-      "info": "Labaid Diagnostic, Uttara (Unit 02)\nAddress: House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka\nVisiting Hour: 6pm to 7pm (Closed: Mon & Friday)\nAppointment: +8801766662050\nCall Now",
+      "info": "Labaid Diagnostic, Uttara (Unit 02) Address: House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka Visiting Hour: 6pm to 7pm (Closed: Mon & Friday) Appointment: +8801766662050 Call Now",
       "chamber": {
         "hospital": "Enam Medical College & Hospital",
         "address": "9/3 Parboti Nagar, Thana Road, Savar, Dhaka",
         "visitingTime": "8am to 2.30pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801716358146"
-      },
-      "id": "bf6aca42-a86e-4f4a-a97d-e8c4bb9a339e"
+        "appointmentNumber": "+8801716358146Call Now"
+      }
     },
     {
+      "id": "81a73cab-0ad7-42d3-97fe-283acc88e50c",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-abm-jamal/",
+      "imageId": "2c3d45ef-e730-410a-a54c-6c675e84241d",
       "name": "Prof. Dr. ABM Jamal",
       "degree": "MBBS, FCPS (Surgery), FRCS (Edin)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -1060,11 +1289,14 @@
         "hospital": "Health and Hope Hospital",
         "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
         "visitingTime": "8.30pm to 9.30pm (Closed: Friday)",
-        "appointmentNumber": "+8809611996699"
-      },
-      "id": "d968360b-0ef2-4eaa-aead-fa42dbe9913c"
+        "appointmentNumber": "+8809611996699Call Now"
+      }
     },
     {
+      "id": "87668c61-045d-4e72-882d-600975684a19",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-mamunur-rashid-surgeon/",
+      "imageId": "0a3b408f-2469-4525-b637-63266eff189e",
       "name": "Dr. Md. Mamunur Rashid",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Hepato-Biliary & Liver Transplant Surgery Specialist",
@@ -1074,11 +1306,14 @@
         "hospital": "Ibn Sina Specialized Hospital, Dhanmondi",
         "address": "House # 68, Road # 15/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "2pm to 4pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801823039800"
-      },
-      "id": "8d6555c0-d8dd-476a-8134-4e989da2bcbb"
+        "appointmentNumber": "+8801823039800Call Now"
+      }
     },
     {
+      "id": "7726bc1e-afa1-4f3a-b49d-c8434769d3fa",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-mahbuba-begum/",
+      "imageId": "dac0b379-bd0d-445f-8314-6b98e4436a12",
       "name": "Dr. Mahbuba Begum",
       "degree": "MBBS (DMC), FCPS (Surgery)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -1088,11 +1323,14 @@
         "hospital": "Aichi Hospital Limited, Uttara",
         "address": "Plot # 35 & 37, Sector # 08, Abdullahpur, Uttara, Dhaka",
         "visitingTime": "5pm to 7pm (Sat, Mon, Tues & Thurs)",
-        "appointmentNumber": "+8801689956599"
-      },
-      "id": "20229d26-c631-4b09-bedc-48e8376701e2"
+        "appointmentNumber": "+8801689956599Call Now"
+      }
     },
     {
+      "id": "37a0b394-533a-4c11-922c-586f1adcce76",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-aminul-islam-joarder/",
+      "imageId": "1c8a4a68-381b-4e6b-9212-aa93575e5b3a",
       "name": "Dr. Md. Aminul Islam Joarder",
       "degree": "MBBS, MS (Surgery)",
       "specialty": "General Surgery Specialist",
@@ -1102,11 +1340,14 @@
         "hospital": "Asgar Ali Hospital, Dhaka",
         "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801787683333"
-      },
-      "id": "8d594e24-bbb6-472e-a793-78067508b3d6"
+        "appointmentNumber": "+8801787683333Call Now"
+      }
     },
     {
+      "id": "2c5b05bd-6707-4d18-9137-d25a397c6fe3",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-nabila-khanduker/",
+      "imageId": "97a444de-1b9c-41a1-b985-be8cb223eaf8",
       "name": "Dr. Nabila Khanduker",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Laparoscopic & Breast Cancer Surgeon",
@@ -1116,11 +1357,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "6pm to 8pm (Saturday & Monday)",
-        "appointmentNumber": "+8801868504100"
-      },
-      "id": "84dacf0a-499c-44d4-a440-c336b814a13d"
+        "appointmentNumber": "+8801868504100Call Now"
+      }
     },
     {
+      "id": "552c11c5-5bb5-4527-b0bf-154b1ea4d72e",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-mab-siddique/",
+      "imageId": "4e9cee58-5645-4bd0-a479-e38b9c8ffd76",
       "name": "Dr. M A B Siddique",
       "degree": "MBBS, BCS (Health), FCPS (Surgery), MS (Surgery)",
       "specialty": "General, Colorectal, Breast, Endolaparoscopic & Cancer Surgeon",
@@ -1130,11 +1374,14 @@
         "hospital": "Labaid Diagnostic, Uttara (Unit 01)",
         "address": "House # 15, Road # 12, Sector # 06, Uttara, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Tuesday & Friday)",
-        "appointmentNumber": "+8801766662606"
-      },
-      "id": "4a8fb168-3487-486d-bb96-20f199151a5c"
+        "appointmentNumber": "+8801766662606Call Now"
+      }
     },
     {
+      "id": "a6a20fb8-24ee-4f37-9560-5c98dabbf14c",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-farzana-haque-shumi/",
+      "imageId": "ea6ffec1-e7ec-432b-afaf-1bc36ae74e04",
       "name": "Dr. Farjana Haque Shumi",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Laparoscopic & Breast Specialist Surgeon",
@@ -1144,11 +1391,14 @@
         "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
         "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
         "visitingTime": "Everyday (Time Unknown)",
-        "appointmentNumber": "+8809666787805"
-      },
-      "id": "56074cce-9e0b-4cd5-9654-4edc8e242f17"
+        "appointmentNumber": "+8809666787805Call Now"
+      }
     },
     {
+      "id": "eec3d097-0bff-4581-9249-78d07f2c00d9",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-ishtiaq-alam/",
+      "imageId": "762551cf-8da1-4cec-8c74-96547ae1cf98",
       "name": "Dr. Ishtiaq Alam",
       "degree": "MBBS, BCS (Health), FCPS (Surgery), MS (Colorectal Surgery), FACS (USA)",
       "specialty": "General, Laparoscopic & Colorectal Surgery SpecialistPiles, Fissure, Fistula, Abscess, Hydrocele, Hernia & Gallstones Specialist Surgeon",
@@ -1158,11 +1408,14 @@
         "hospital": "Shin Shin Japan Hospital, Uttara",
         "address": "17, Garib E Nawaz Ave, Sector # 11, Uttara, Dhaka",
         "visitingTime": "6pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801929478565"
-      },
-      "id": "5c6373c4-6445-44d6-a7b9-6f95424ac9e3"
+        "appointmentNumber": "+8801929478565Call Now"
+      }
     },
     {
+      "id": "1e5f7880-1edb-4189-aeb2-ee5048c34114",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-bidyut-chandra-debnath/",
+      "imageId": "822c8e23-02a0-48b3-a193-b4ba75ca76c0",
       "name": "Dr. Bidyut Chandra Debnath",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "Breast, Endocrine, General & Laparoscopic Surgery Specialist",
@@ -1172,11 +1425,14 @@
         "hospital": "Aalok Healthcare & Hospital, Mirpur 10",
         "address": "House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka",
         "visitingTime": "8pm to 10pm (Closed: Monday)",
-        "appointmentNumber": "+8801915448491"
-      },
-      "id": "b931aa4c-7d07-437b-8464-23b386646ed8"
+        "appointmentNumber": "+8801915448491Call Now"
+      }
     },
     {
+      "id": "bbef2c87-4faa-40f8-9ff6-5a94d4b92e52",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-syed-serajul-karim/",
+      "imageId": "87b9c253-eaac-40ab-b66b-d7eeaa6a95c5",
       "name": "Prof. Dr. Syed Serajul Karim",
       "degree": "MBBS, FCPS (Surgery), FICS (USA)",
       "specialty": "General, Thyroid, Breast, Endocrine, Laparoscopic Specialist Surgeon",
@@ -1186,11 +1442,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "5pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "c9ad198e-880c-4604-aada-bae8c24c0842"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "6d660db5-23ea-4d99-b444-3d58a2e8460d",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/lt-col-dr-md-maksud-rahman/",
+      "imageId": "8ec03faa-d34e-4991-808f-b3a76c2bcb21",
       "name": "Lt. Col. Dr. Md. Maksud Rahman",
       "degree": "MBBS (AFMC), MPH (EP, HM), FCPS (Surgery), FACP (USA)",
       "specialty": "Colorectal, Laparoscopic & General Surgeon",
@@ -1200,11 +1459,14 @@
         "hospital": "Marks Medical College & Hospital",
         "address": "A/3, Main Road, Mirpur 14, Dhaka - 1216",
         "visitingTime": "7.30pm to 9.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801615008730"
-      },
-      "id": "92e007da-401d-42e2-be4d-41146ec594ff"
+        "appointmentNumber": "+8801615008730Call Now"
+      }
     },
     {
+      "id": "83c20e57-201e-4c58-a73f-2fb295f101b1",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-saief-uddin/",
+      "imageId": "e9026fe4-e26c-4c97-8151-de4107468408",
       "name": "Dr. Mohammad Saief Uddin",
       "degree": "MBBS, FCPS (Surgery), MRCS (EDIN), MRCPS (GLASG)",
       "specialty": "General, Hepatobiliary, Pancreatic & Liver Transplant Specialist Surgeon",
@@ -1214,11 +1476,14 @@
         "hospital": "Al-Manar Hospital Limited",
         "address": "Plot # Umo, Block # Rossoi, Satmosjid Road, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801550020885"
-      },
-      "id": "a0682108-2b39-4f51-aaf4-417b883a002b"
+        "appointmentNumber": "+8801550020885Call Now"
+      }
     },
     {
+      "id": "24876458-f2e6-45ff-bb6e-d0f2a1addb49",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-a-z-m-mostaque-hossain/",
+      "imageId": "06661e7c-245b-4aa2-853d-7124ad103a85",
       "name": "Prof. Dr. A.Z.M. Mostaque Hossain Tuhin",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Laparoscopic & Breast Surgeon",
@@ -1228,11 +1493,14 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801715049580"
-      },
-      "id": "48f504c4-c695-4951-957c-90ec58f34bb3"
+        "appointmentNumber": "+8801715049580Call Now"
+      }
     },
     {
+      "id": "10613ab5-8b61-408d-9de6-957c1bfb3d63",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-asm-zahidur-rahman/",
+      "imageId": "6c3dba77-7dd3-4238-b137-b33ca80a9144",
       "name": "Prof. Dr. ASM Zahidur Rahman",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General & Laparoscopic Surgery SpecialistHernia, Piles, Fissure, Fistula, Abscess, Pilonidal Sinus & Gallstones Surgeon",
@@ -1242,25 +1510,31 @@
         "hospital": "Lubana General Hospital, Uttara",
         "address": "09, Garib-e-Newaz Avenue, Sector-13, Uttara, Dhaka-1230",
         "visitingTime": "4pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801615888808"
-      },
-      "id": "d098775e-b260-4cb7-a632-43537af91580"
+        "appointmentNumber": "+8801615888808Call Now"
+      }
     },
     {
+      "id": "1dc4cc88-3803-4745-a032-466212bb2c96",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-sarwar-ahmed-sobhan/",
+      "imageId": "48a05be3-bf44-4459-abe0-65875b457a3b",
       "name": "Dr. Sarwar Ahmed Sobhan",
       "degree": "MBBS (DMC), FCPS (Surgery), MS (Hepatobiliary Surgery)",
       "specialty": "General, Laparoscopic, Hepatobiliary & Pancreatic Surgery Specialist",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Update Diagnostic, Rangpur\nAddress: Dhap, Jail Road, Rangpur\nVisiting Hour: 10am to 5pm (Only Friday)\nAppointment: +8801971555555\nCall Now",
+      "info": "Update Diagnostic, Rangpur Address: Dhap, Jail Road, Rangpur Visiting Hour: 10am to 5pm (Only Friday) Appointment: +8801971555555 Call Now",
       "chamber": {
         "hospital": "Al-Raji Hospital, Farmgate",
         "address": "12, Farmgate (Concord Building), Tejgaon, Dhaka - 1215",
         "visitingTime": "7pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801766118855"
-      },
-      "id": "4f9d604f-573b-43bd-aef9-ccc1f84e4721"
+        "appointmentNumber": "+8801766118855Call Now"
+      }
     },
     {
+      "id": "6aa73fdc-564a-4809-9686-9518e5b07292",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-hafiz-ahmed-nazmul-hakim/",
+      "imageId": "2403a847-f174-4006-81b4-27cb3a8d50ee",
       "name": "Dr. Hafiz Ahmed Nazmul Hakim",
       "degree": "MBBS, FCPS (Surgery), FACS (USA)",
       "specialty": "Hepatobiliary, Pancreatic & Liver Transplant Surgeon",
@@ -1270,11 +1544,14 @@
         "hospital": "Health and Hope Hospital",
         "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801311205586"
-      },
-      "id": "0b23cffa-4bdb-48e4-bd44-f10c1d473c10"
+        "appointmentNumber": "+8801311205586Call Now"
+      }
     },
     {
+      "id": "21c4c794-d35c-4c25-93c4-52cebfdf3f77",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-shaon-shahriar/",
+      "imageId": "c95cc98a-a17d-4573-9359-472a445cb88f",
       "name": "Dr. Shaon Shahriar",
       "degree": "MBBS, FCPS (Surgery), MS (Hepatobiliary Surgery - BSMMU), FACS (USA)",
       "specialty": "General, Laparoscopic, Hepato-Biliary & Pancreatic Surgeon",
@@ -1284,11 +1561,14 @@
         "hospital": "Aalok Healthcare & Hospital, Mirpur 10",
         "address": "House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Fri & Sat)",
-        "appointmentNumber": "+8801919224895"
-      },
-      "id": "89542de9-c1ed-4dbf-b6cf-72934879bb7f"
+        "appointmentNumber": "+8801919224895Call Now"
+      }
     },
     {
+      "id": "1b431e24-47c4-4c25-957a-beb7582a6343",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-sanawar-hossain/",
+      "imageId": "91ead02c-9165-4790-9603-65ad488be4eb",
       "name": "Prof. Dr. Md. Sanawar Hossain",
       "degree": "MBBS, MD, FCPS, FAMASI",
       "specialty": "General, Laparoscopic, Hepatobiliary & Cancer Surgeon",
@@ -1298,11 +1578,14 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "10am to 1pm & 5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "a0f521ba-bde4-4864-b6a7-887903afc97f"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "660c251d-7bb0-4eea-841c-5b8f63300c37",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-asaduzzaman-nur/",
+      "imageId": "8d53da42-46f9-4bad-89e5-4ebd3f82e50e",
       "name": "Dr. Md. Asaduzzaman Nur",
       "degree": "MBBS, MRCSED (Edinburgh), MRCS (UK), MS (MS (Hepatobiliary Surgery))",
       "specialty": "Hepatobiliary, Pancreatic & Liver Transplant Surgeon",
@@ -1312,11 +1595,14 @@
         "hospital": "Enam Medical College & Hospital",
         "address": "9/3 Parboti Nagar, Thana Road, Savar, Dhaka",
         "visitingTime": "8am to 2.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801716358146"
-      },
-      "id": "9ff99dc1-5109-4fa1-ae83-f93f343164fc"
+        "appointmentNumber": "+8801716358146Call Now"
+      }
     },
     {
+      "id": "6abe89ca-3c40-48f6-9dd4-59bd7f7b6f99",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-tanny-tarafder/",
+      "imageId": "7d5824bc-decc-4954-98ca-1c063a34fd73",
       "name": "Dr. Tanny Tarafder",
       "degree": "MBBS, FCPS (Surgery), MRCS (UK)",
       "specialty": "General, Breast, Laparoscopic & Colorectal Surgeon",
@@ -1326,11 +1612,14 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "11am to 6pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "2dbfa5f7-0256-4540-a8ab-82d3a5dee529"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "ca514ea4-a2b7-4c45-a516-05e72b8e74ac",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-munshi-md-mujibur-rahman/",
+      "imageId": "67f04879-ae79-4f35-b5c4-a1943cf6b983",
       "name": "Prof. Dr. Munshi Md. Mujibur Rahman",
       "degree": "MBBS, FCPS (Surgery), MCPS (Surgery), FICS (USA)",
       "specialty": "General & Cardiac Surgeon",
@@ -1340,11 +1629,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "11am to 2pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801911404275"
-      },
-      "id": "3dd4fb33-33d6-454f-bfab-27a8f30ddd76"
+        "appointmentNumber": "+8801911404275Call Now"
+      }
     },
     {
+      "id": "49e6b87d-8441-4431-b5a2-bfc2f7047b9a",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-mohammad-ali-surgery/",
+      "imageId": "c49fbb02-32a1-4003-a606-5baea7943458",
       "name": "Prof. Dr. Mohammad Ali",
       "degree": "MBBS, MCPS, FCPS (Surgery)",
       "specialty": "General Surgeon",
@@ -1354,11 +1646,14 @@
         "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
         "address": "1/1 B, Kallyanpur, Dhaka",
         "visitingTime": "10am to 1pm & 6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801703725590"
-      },
-      "id": "0787f372-bb68-4e59-b5cd-5a1d0a9780e0"
+        "appointmentNumber": "+8801703725590Call Now"
+      }
     },
     {
+      "id": "9576e5c2-fe94-4994-8733-37d537235a92",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-akram-hossain/",
+      "imageId": "3576c75e-48d8-4248-80b7-1f984abec4ba",
       "name": "Prof. Dr. Akram Hossain",
       "degree": "MBBS, FCPS (Surgery), FRCS (Edin)",
       "specialty": "General & Laparoscopic Surgery Specialist",
@@ -1368,11 +1663,14 @@
         "hospital": "BRB Hospital, Dhaka",
         "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
         "visitingTime": "9am to 2pm & 6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801777764800"
-      },
-      "id": "97d407c2-ca71-4b03-9e24-cde919a3d716"
+        "appointmentNumber": "+8801777764800Call Now"
+      }
     },
     {
+      "id": "5e222959-b4b9-4e71-942f-7e4d07885019",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-sadia-afrin-tani/",
+      "imageId": "42505fdc-3d97-4dd0-b8cc-55ab161dfa72",
       "name": "Dr. Sadia Afrin Tani",
       "degree": "MBBS, BCS (Health), MS (Genaral Surgery), FCPS (Surgery), FAECS",
       "specialty": "General, Laparoscopic, Breast & Colorectal Surgeon",
@@ -1382,11 +1680,14 @@
         "hospital": "Upasham Health Point (Pvt.) Ltd",
         "address": "House-14, Road-2/B, Block-J, Natun Bazar, Baridhara, Dhaka-1212",
         "visitingTime": "7pm to 8pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801932200200"
-      },
-      "id": "e3a7aff1-7870-4732-adea-b4bff3741017"
+        "appointmentNumber": "+8801932200200Call Now"
+      }
     },
     {
+      "id": "1c0fc57c-8972-4ab5-ae38-5792540ef1d9",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-nadia-farzana-islam/",
+      "imageId": "31c945a5-4529-4efc-99e1-062d9077b134",
       "name": "Dr. Nadia Farzana Islam",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General, Laparoscopic, Breast & Colorectal Surgery Specialist",
@@ -1396,25 +1697,31 @@
         "hospital": "Uttara Crescent Diagnostic & Consultation Center",
         "address": "House # 16, Sector # 7, Rabindra Sarani, Uttara, Dhaka – 1230",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801707704150"
-      },
-      "id": "09eb0e34-672f-406c-80b0-b1047e03f964"
+        "appointmentNumber": "+8801707704150Call Now"
+      }
     },
     {
+      "id": "0e713231-d0f6-41c1-8f29-4c514d695419",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-omar-faruk-surgeon/",
+      "imageId": "492f2d61-9a42-4319-b704-cb115855d8e4",
       "name": "Dr. Md. Omar Faruk",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Laparoscopic & Colorectal Surgeon",
       "workplace": "Ibn Sina Medical College & Hospital",
-      "info": "Islami Bank Central Hospital, Kakrail\nAddress: 30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000\nVisiting Hour: 5pm to 8.30pm (Everyday)\nAppointment: +8801810000116\nCall Now",
+      "info": "Islami Bank Central Hospital, Kakrail Address: 30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000 Visiting Hour: 5pm to 8.30pm (Everyday) Appointment: +8801810000116 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
         "address": "1/1 B, Kallyanpur, Dhaka",
         "visitingTime": "11am to 1pm (Friday: 5:30pm to 6:30pm) & 4pm to 6pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801703725590"
-      },
-      "id": "4ad1a9a7-6bfd-4f5b-82be-5cd613d65265"
+        "appointmentNumber": "+8801703725590Call Now"
+      }
     },
     {
+      "id": "dda452dd-a710-4ced-b3d5-894242dfeb63",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-ruhul-hassan-joarder/",
+      "imageId": "2bcc7779-8b6e-4dd1-a19e-10c7c47ef302",
       "name": "Dr. Ruhul Hassan Joarder",
       "degree": "MBBS (DMC), FCPS (Surgery), FRCS (Edinburg)",
       "specialty": "General, Laparoscopic, Breast & Colorectal Surgeon",
@@ -1424,11 +1731,14 @@
         "hospital": "Asgar Ali Hospital, Dhaka",
         "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801787683333"
-      },
-      "id": "832cf362-0b39-49b6-90b8-2f7c6652a504"
+        "appointmentNumber": "+8801787683333Call Now"
+      }
     },
     {
+      "id": "d9ae304d-d23b-4de4-88ca-ea7582c1cb1a",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-ishrat-jahan/",
+      "imageId": "5bc21127-5d59-4ab4-9d95-06af20a18b82",
       "name": "Prof. Dr. Ishrat Jahan",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Laparoscopic & Breast Surgeon",
@@ -1438,11 +1748,14 @@
         "hospital": "BRB Hospital, Dhaka",
         "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "10647"
-      },
-      "id": "e7d2e5f5-f8ee-4ae0-ab6e-c45e3134ce65"
+        "appointmentNumber": "10647Call Now"
+      }
     },
     {
+      "id": "716f8ad2-fb1f-43c6-86f2-68fca575610a",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-mozammel-hoque/",
+      "imageId": "718b2655-ef12-410d-986c-0ab19eb6de2a",
       "name": "Dr. Md. Mozammel Hoque",
       "degree": "MBBS, MS (General Surgery)",
       "specialty": "General Surgeon",
@@ -1452,11 +1765,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Malibagh",
         "address": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
         "visitingTime": "8pm to 10pm (Everyday)",
-        "appointmentNumber": "+8801844141717"
-      },
-      "id": "43d3218d-a4eb-4daa-8a01-2499a8491160"
+        "appointmentNumber": "+8801844141717Call Now"
+      }
     },
     {
+      "id": "294a6c3f-2900-48a3-a30b-130f43851248",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-yasin-chowdhury/",
+      "imageId": "18d27348-03c7-4af9-bf64-63d7fffc026f",
       "name": "Dr. Mohammad Yasin Chowdhury",
       "degree": "MBBS, FCPS (Surgery), MS, FMAS (India), FACS (USA)",
       "specialty": "General, Laparoscopy, Colorectal, Hernia, Breast, Thoracic & Cancer Surgeon",
@@ -1466,11 +1782,14 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "10am to 1pm & 5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "af8e2caf-2702-49df-b163-bdaa3138b52e"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "21d2ab77-0057-49a1-8000-0ff14b15b9fe",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-faruk-ahmad/",
+      "imageId": "204a70b3-1d89-491a-b389-792a0edffa59",
       "name": "Prof. Dr. Faruk Ahmad",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Laparoscopic & Colorectal Specialist Surgeon",
@@ -1480,11 +1799,14 @@
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "5pm to 7pm (Sun to Thu)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "dda9ee6b-d71b-43fd-b3ef-e04a82d83f02"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
+      "id": "1f9d8eb6-de66-482a-94aa-df448084aed2",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-kazi-saiful-islam-shakil/",
+      "imageId": "026d524f-acd1-48f4-80fc-be9c4cc80e93",
       "name": "Dr. Kazi Saiful Islam Shakil",
       "degree": "MBBS, MS (Thoracic Surgery)",
       "specialty": "Thoracic (Chest, Lung) Surgery Specialist",
@@ -1494,25 +1816,31 @@
         "hospital": "BRB Hospital, Dhaka",
         "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
         "visitingTime": "8pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801777764800"
-      },
-      "id": "56a95453-9f00-4047-80c7-1b6a5c893033"
+        "appointmentNumber": "+8801777764800Call Now"
+      }
     },
     {
+      "id": "f3ca98c8-6f70-45f4-be4e-d696dd58fff8",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-hasan-shahriar-kallol/",
+      "imageId": "cfec231d-4e19-4047-a48f-2ab24d06a178",
       "name": "Dr. Hasan Shahriar Kallol",
       "degree": "MBBS (DMC), FCPS (Surgery) MS (Surgical Oncology)",
       "specialty": "General, Laparoscopic & Oncological Surgeon",
       "workplace": "National Institute of Cancer Research & Hospital",
-      "info": "Labaid Cancer Hospital & Super Speciality Center\nAddress: 26, Green Road, Dhaka\nVisiting Hour: 2.30pm to 4.30pm (Sat, Mon & Wednesday)\nAppointment: +8809666710001\nCall Now",
+      "info": "Labaid Cancer Hospital & Super Speciality Center Address: 26, Green Road, Dhaka Visiting Hour: 2.30pm to 4.30pm (Sat, Mon & Wednesday) Appointment: +8809666710001 Call Now",
       "chamber": {
         "hospital": "Ahsania Mission Cancer & General Hospital",
         "address": "Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka",
         "visitingTime": "2.30pm to 4.30pm (Sun, Tues & Thursday)",
-        "appointmentNumber": "10617"
-      },
-      "id": "3360a6d0-86fb-4ae8-bc99-105fdf9a52a5"
+        "appointmentNumber": "10617Call Now"
+      }
     },
     {
+      "id": "5be45c16-e96d-4838-b12c-3a1dc8c2352e",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-shariful-alam/",
+      "imageId": "948a3d6c-329f-4a9e-a218-7350d289dea6",
       "name": "Dr. Md. Shariful Alam",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -1522,11 +1850,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Doyagonj",
         "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
         "visitingTime": "5pm to 7pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801878115751"
-      },
-      "id": "ac61a626-cc47-4cd0-b6c9-79502cdab9e4"
+        "appointmentNumber": "+8801878115751Call Now"
+      }
     },
     {
+      "id": "81808a9b-e09f-4c91-8f2c-34f65093114f",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdul-zalil/",
+      "imageId": "5f4c3100-04be-430e-b11e-0fa910532483",
       "name": "Dr. Md. Abdul Jalil",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Laparoscopic & Colorectal Surgeon",
@@ -1536,11 +1867,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Savar",
         "address": "31/6 Jaleshwar, Aricha Road, Savar, Dhaka - 1340",
         "visitingTime": "4pm to 7pm (Closed: Sun, Tue & Thu)",
-        "appointmentNumber": "+88 09610009613"
-      },
-      "id": "09bcd573-6e75-49b1-8406-800a0a34adf9"
+        "appointmentNumber": "+88 09610009613Call Now"
+      }
     },
     {
+      "id": "db2c07d4-eb2d-4531-a3da-78f20a0a3991",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-feroze-quader/",
+      "imageId": "29acffa4-6c25-4c6f-b63e-fd6daa52d9d9",
       "name": "Prof. Dr. Feroze Quader",
       "degree": "MBBS, FCPS (Surgery), FICS",
       "specialty": "General, Laparoscopic, Breast & Thyroid Surgery Specialist",
@@ -1550,11 +1884,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "6pm to 8pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "17a32ec3-1faf-4c9a-b223-0d5f720484ed"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "1a52a131-fb74-4200-ae10-0c63dc7ab5a0",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/lt-gen-dr-zafarullah-siddiq/",
+      "imageId": "b1537b74-a412-43a1-b7f3-4762a7e6501e",
       "name": "Lt. Gen. Dr. Zafarullah Siddiq",
       "degree": "MBBS, FRCS (Surgery)",
       "specialty": "General, Laparoscopic, Endocrine & Breast Surgeon",
@@ -1564,11 +1901,14 @@
         "hospital": "Ibn Sina Specialized Hospital, Dhanmondi",
         "address": "House # 68, Road # 15/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "10am to 1pm (Closed: Friday)",
-        "appointmentNumber": "+8801823039800"
-      },
-      "id": "86c2843d-c058-44c8-bf22-ca80b073b42b"
+        "appointmentNumber": "+8801823039800Call Now"
+      }
     },
     {
+      "id": "ea4f47d3-bcaa-4699-a782-11a037b867a4",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-m-mafizur-rahman/",
+      "imageId": "9775ff6a-dc33-4d37-928b-a167c660b2cb",
       "name": "Prof. Dr. M. M. Mafizur Rahman",
       "degree": "MBBS, PhD, MD, MS",
       "specialty": "Hepabilliary, Esophageal Cancer, Pancreatic & Laparoscopic Surgeon",
@@ -1578,25 +1918,31 @@
         "hospital": "City Hospital Limited, Dhaka",
         "address": "1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka – 1207",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801558220134"
-      },
-      "id": "127b0d1e-26ae-4772-90bf-d5f57673e7e6"
+        "appointmentNumber": "+8801558220134Call Now"
+      }
     },
     {
+      "id": "9ad48fa1-13f9-4077-a206-6fe82e585c30",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-gazi-md-zakir-hossain/",
+      "imageId": "4c680dae-6b54-4c3b-954c-514a9f1326cd",
       "name": "Dr. Gazi Md. Zakir Hossain",
       "degree": "MBBS, MS (Surgery), MS (Thoracic Surgery)",
       "specialty": "General & Thoracic Surgeon",
       "workplace": "Bashundhara Ad-din Medical College, Keraniganj",
-      "info": "Islami Bank Hospital, Motijheel\nAddress: 24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka\nVisiting Hour: 6pm to 7.30pm (Closed: Friday)\nAppointment: +8801727666741\nCall Now",
+      "info": "Islami Bank Hospital, Motijheel Address: 24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka Visiting Hour: 6pm to 7.30pm (Closed: Friday) Appointment: +8801727666741 Call Now",
       "chamber": {
         "hospital": "Islami Bank Central Hospital, Kakrail",
         "address": "30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000",
         "visitingTime": "3pm to 4pm (Closed: Friday)",
-        "appointmentNumber": "+8801810000116"
-      },
-      "id": "2f1b725c-1df8-45c6-a0bd-7b165318a775"
+        "appointmentNumber": "+8801810000116Call Now"
+      }
     },
     {
+      "id": "a04f9de8-d1ef-4171-bb18-373773dc0083",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-kamruzzaman-khan/",
+      "imageId": "1db8ddd9-504b-4492-a794-600b6c754cda",
       "name": "Prof. Dr. Md. Kamruzzaman Khan",
       "degree": "MBBS, FCPS (Surgery), MS (Surgery), FACS (USA), SAGES (USA)",
       "specialty": "General, Colorectal & Laparoscopic Surgeon",
@@ -1606,11 +1952,14 @@
         "hospital": "Central Hospital, Dhanmondi",
         "address": "House # 02, Road # 05, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "9am to 1pm & 7.30pm to 9.30pm (Closed: Friday)",
-        "appointmentNumber": "+8802-41060800"
-      },
-      "id": "c66965ef-909e-464e-92ff-037ce12cb3b1"
+        "appointmentNumber": "+8802-41060800Call Now"
+      }
     },
     {
+      "id": "b4cb8348-22e7-473a-81c8-b6cf9425b0e0",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-sheikh-md-abu-zafar/",
+      "imageId": "f5f8442f-685b-483c-8bcb-182af470990f",
       "name": "Prof. Dr. Sheikh Md. Abu Zafar",
       "degree": "MBBS, FRCS",
       "specialty": "General, Laparoscopic, Obesity, Metabolic Surgery Specialist",
@@ -1620,11 +1969,14 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10678"
-      },
-      "id": "3d7ce559-669f-4a4f-b860-e864f0eba406"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "c9f49f72-76e4-4f84-b86e-88a11dd604f4",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-m-mamun-surgery/",
+      "imageId": "68ff9465-1320-4a7e-b158-10ab87b3aa4b",
       "name": "Dr. M. Mamun",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General, Laparoscopic & Colorectal Surgeon",
@@ -1634,11 +1986,14 @@
         "hospital": "Savar Prime Hospital",
         "address": "A-89, Thana Road, Talbagh, Savar, Dhaka - 1340",
         "visitingTime": "4pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801752561542"
-      },
-      "id": "90993254-0c16-47c4-b982-47ef08cc7b81"
+        "appointmentNumber": "+8801752561542Call Now"
+      }
     },
     {
+      "id": "e1a68415-fb9f-478c-b4b6-d2c22228c710",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-mustafa-kamal-ratan/",
+      "imageId": "9323fb3c-cd08-4464-8c00-1fd325b20f8e",
       "name": "Dr. Md. Mustafa Kamal Ratan",
       "degree": "MBBS, FCPS (Surgery), MRCS, MS (Plastic Surgery)",
       "specialty": "General, Laparoscopic & Plastic Surgeon",
@@ -1648,11 +2003,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Doyagonj",
         "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
         "visitingTime": "6pm to 8pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801878115751"
-      },
-      "id": "b8a08b7a-9ac5-43a2-9ec9-67bcf1fcba80"
+        "appointmentNumber": "+8801878115751Call Now"
+      }
     },
     {
+      "id": "41c8ada7-b2fb-45c5-b4a7-33f6e696aed1",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-ajoy-kumar-sarker/",
+      "imageId": "9e7d6fc7-4af8-4566-986b-f1a6fff99a50",
       "name": "Dr. Ajoy Kumar Sarker",
       "degree": "MBBS, BCS (Health), FCPS (Surgery), Fellowship in Laparoscopic Surgery (India)",
       "specialty": "General & Laparoscopic Surgery Specialist",
@@ -1662,11 +2020,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "3pm to 6pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "38507c8a-03eb-45f3-b144-2ff1c34b7fe9"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "81d55833-e755-4066-948c-52ca26d30602",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-muhammad-rakib-uddin/",
+      "imageId": "9bd32965-8d47-474c-a52e-cb5718a0cab5",
       "name": "Prof. Dr. Muhammad Rakib Uddin",
       "degree": "MBBS, FCPS (Surgery), FRCS (Ireland), FRCS (Edin), FRCS (Glasgow)",
       "specialty": "General & Laparoscopic Surgery Specialist",
@@ -1676,11 +2037,14 @@
         "hospital": "Asgar Ali Hospital, Dhaka",
         "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801787683333"
-      },
-      "id": "0ee9c63e-427f-4979-b94c-2ca4ffdc6dde"
+        "appointmentNumber": "+8801787683333Call Now"
+      }
     },
     {
+      "id": "27920d40-1734-4dc7-bd3f-476608873847",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-anwarul-azim/",
+      "imageId": "ef691ea1-12cc-418c-be78-12ed804ab497",
       "name": "Prof. Dr. Anwarul Azim",
       "degree": "MBBS, FCPS (Surgery), FICS",
       "specialty": "General & Laparoscopic Surgery Specialist",
@@ -1690,11 +2054,14 @@
         "hospital": "Comfort Diagnostic Center, Dhanmondi",
         "address": "167/B, Green Road, Dhanmondi, Dhaka – 1205",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801731956033"
-      },
-      "id": "eda4b0f1-48bc-431f-becd-2e69dc095e2a"
+        "appointmentNumber": "+8801731956033Call Now"
+      }
     },
     {
+      "id": "2426371a-fcf7-4e9e-b791-f0f68f15e152",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-s-e-kabir/",
+      "imageId": "22b8a639-e663-43ef-a88e-44bbf71be464",
       "name": "Asso. Prof. Dr. S.E. Kabir",
       "degree": "MBBS (DMC), MCPS (Surgery)",
       "specialty": "General Surgeon",
@@ -1704,11 +2071,14 @@
         "hospital": "Popular Diagnostic Center, Shantinagar",
         "address": "Unit # 01, House # 11, Shantinagar, Motijheel, Dhaka",
         "visitingTime": "10am to 12pm (Sat, Mon & Thursday)",
-        "appointmentNumber": "+8809666787803"
-      },
-      "id": "349be6cc-f189-4252-b8ff-7678488c44fa"
+        "appointmentNumber": "+8809666787803Call Now"
+      }
     },
     {
+      "id": "0ea4f164-8192-4bbb-b833-e9fdf2c64b04",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-hafizur-rahman/",
+      "imageId": "522f1e1e-24ee-4ac1-abca-7c7f691dec59",
       "name": "Dr. Md. Hafizur Rahman",
       "degree": "MBBS (DMC), MCPS (Surgery), MBA (HM)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -1718,11 +2088,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "10am to 12pm (Everyday)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "34476495-1e8d-4cf7-afe1-ac6c750eda88"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "8dd5ef60-5bdc-4542-bf79-bcd78beeaa40",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-shaikh-adnan-rakib/",
+      "imageId": "d63849f1-8643-4f40-9295-a54ed217669f",
       "name": "Dr. Shaikh Adnan Rakib",
       "degree": "MBBS, MS (Surgery)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -1732,25 +2105,31 @@
         "hospital": "Al-Manar Hospital Limited",
         "address": "Plot # Umo, Block # Rossoi, Satmosjid Road, Dhaka",
         "visitingTime": "4pm to 6pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801550020885"
-      },
-      "id": "4676e1ee-2539-4b6c-b10b-a90e23b21b66"
+        "appointmentNumber": "+8801550020885Call Now"
+      }
     },
     {
+      "id": "51aa0ab8-aea3-4e8f-ab2a-7b1d12ddc613",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-a-mottalab-hossain/",
+      "imageId": "46a89826-ecca-448b-8746-5ee2fdb335a1",
       "name": "Prof. Dr. Md. A. Mottalab Hossain",
       "degree": "MBBS, FCPS (Surgery), FRCP (Glasgow)",
       "specialty": "Laparoscopic, General & Colorectal Specialist Surgeon",
       "workplace": "Sir Salimullah Medical College & Mitford Hospital",
-      "info": "Green Life Hospital, Dhaka\nAddress: Room 206, 32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka\nVisiting Hour: 3pm to 6pm (Closed: Thursday & Friday)\nAppointment: +8801784631754\nCall Now",
+      "info": "Green Life Hospital, Dhaka Address: Room 206, 32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka Visiting Hour: 3pm to 6pm (Closed: Thursday & Friday) Appointment: +8801784631754 Call Now",
       "chamber": {
         "hospital": "Comfort Diagnostic Center, Dhanmondi",
         "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801784631754"
-      },
-      "id": "2523f3da-d190-4146-85fa-966f1f5f7e90"
+        "appointmentNumber": "+8801784631754Call Now"
+      }
     },
     {
+      "id": "185b0bde-6334-4816-88fb-4032ccc0adf8",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-rajibul-haque-talukder/",
+      "imageId": "fbbe0b85-5ec2-4353-9ccd-1744261f58ea",
       "name": "Dr. Mohammad Rajibul Haque Talukder",
       "degree": "MBBS, FCPS (Surgery), CCD (BIRDEM)",
       "specialty": "General, Laparoscopic, Colorectal & Diabetic Foot Surgery Specialist",
@@ -1760,11 +2139,14 @@
         "hospital": "Islami Bank Hospital, Mugda",
         "address": "1/24/B, Kamalapur Manda Road, South Mugdapara, Dhaka",
         "visitingTime": "4pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801724008677"
-      },
-      "id": "90bda23f-a6de-4254-a950-06c0fd226867"
+        "appointmentNumber": "+8801724008677Call Now"
+      }
     },
     {
+      "id": "1e05a930-cf8d-4336-a72b-5216bea70e9a",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-ferdous-alam/",
+      "imageId": "aeafcc48-1cf0-4ed1-91a4-ad0ebffaa22a",
       "name": "Dr. Ferdous Alam",
       "degree": "MBBS, FCPS (Surgery ), MRCS",
       "specialty": "General & Laparoscopic Surgeon",
@@ -1774,25 +2156,31 @@
         "hospital": "Ibn Sina Diagnostic Center, Lalbagh",
         "address": "27/4 Dhakeshwori Road, Lalbagh, Dhaka",
         "visitingTime": "5.30pm to 7.30pm (Closed: Tuesday & Friday)",
-        "appointmentNumber": "+8801783356048"
-      },
-      "id": "5c0eeb5b-6f32-45de-a67e-bd89a4485b41"
+        "appointmentNumber": "+8801783356048Call Now"
+      }
     },
     {
+      "id": "42440279-4d6e-46d3-aad7-44f82eb3898d",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-quazi-mehranuddin-ahmed/",
+      "imageId": "800f0e3c-270b-49f8-9df3-5e0ef2b411be",
       "name": "Dr. Quazi Mehranuddin Ahmed",
       "degree": "MBBS, BCS (Health), MCPS (Surgery), FCPS (Surgery)",
       "specialty": "General & Laparoscopic Specialist Surgeon",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Padma General Hospital\nAddress: House No. 290, Sonargaon Road, Dhaka 1205, Bangladesh\nVisiting Hour: 7pm to 10pm (Closed: Friday)\nAppointment: +8801778267553\nCall Now",
+      "info": "Padma General Hospital Address: House No. 290, Sonargaon Road, Dhaka 1205, Bangladesh Visiting Hour: 7pm to 10pm (Closed: Friday) Appointment: +8801778267553 Call Now",
       "chamber": {
         "hospital": "Super Specialized Hospital Ltd.",
         "address": "79, Satmosjid Road, Dhanmondi Dhaka (Beside Bangladesh Eye Hospital)",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801734500605"
-      },
-      "id": "05d94e7c-04a3-48c9-8bb2-94f29306f576"
+        "appointmentNumber": "+8801734500605Call Now"
+      }
     },
     {
+      "id": "429fce45-fe06-4081-a5a9-8fbc12dba8c8",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-tuhin-talukder/",
+      "imageId": "e962c944-96ba-45c4-ae10-64a6c618dd27",
       "name": "Dr. Md. Tuhin Talukder",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Laparoscopic, Hepatobiliary & Pancreatic Surgery Specialist",
@@ -1802,11 +2190,14 @@
         "hospital": "Delta Hospital, Mirpur",
         "address": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka – 1216",
         "visitingTime": "7pm to 9pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801795699147"
-      },
-      "id": "9dcb1cb9-bc56-49f5-ace6-055d5dfe5edf"
+        "appointmentNumber": "+8801795699147Call Now"
+      }
     },
     {
+      "id": "de8e554e-cf70-4928-a456-52639ee4d209",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-a-k-mostaque/",
+      "imageId": "f8e77276-c19f-438d-9123-37b030252fd1",
       "name": "Prof. Dr. A. K. Mostaque",
       "degree": "MBBS, FCPS (Surgery), MS (Pediatrics Surgery)",
       "specialty": "Cancer (Breast, Gastrointestinal, Colorectal, Thyroid, Tongue) & Pediatric Surgeon",
@@ -1816,11 +2207,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "8.30pm to 10.30pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "1b18d9b2-9213-4dbe-9830-64fab911d237"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "9cc314b9-e470-40bd-a6b7-5a95e55b0e71",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-mir-rasekh-alam-ovi/",
+      "imageId": "edc5dbd4-09ed-4be2-b713-f0cc2753367b",
       "name": "Dr. Mir Rasekh Alam Ovi",
       "degree": "MBBS (DMC), BCS (Health), FCPS (Surgery), FMAS (India), MASCRS (USA)",
       "specialty": "General, Laparoscopic & Colorectal Surgeon",
@@ -1830,11 +2224,14 @@
         "hospital": "Bangladesh Colorectal & Gastroenterology Centre",
         "address": "Rupayan Prime, Level: 08, Plot: 08, Road: 07, Green Road, Dhaka",
         "visitingTime": "7pm to 10pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801614077044"
-      },
-      "id": "36fc6d7b-9048-456a-8f89-8ba9e8a009c8"
+        "appointmentNumber": "+8801614077044Call Now"
+      }
     },
     {
+      "id": "3a85869f-5894-4029-abbd-962252573d98",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-ekramul-haque/",
+      "imageId": "0a78180e-91c6-4201-a03d-e20cec925486",
       "name": "Dr. Md. Ekramul Haque",
       "degree": "MBBS, BCS (Health), FCPS (Surgery), MRCS (UK)",
       "specialty": "General, Laparoscopic & Colorectal Surgery Specialist",
@@ -1844,11 +2241,14 @@
         "hospital": "Islami Bank Specialized & General Hospital, Nayapaltan",
         "address": "71-72, VIP Road, Nayapaltan, Dhaka",
         "visitingTime": "8pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801977552283"
-      },
-      "id": "8cbeeeb6-66f7-46ad-ab74-967e405c68b6"
+        "appointmentNumber": "+8801977552283Call Now"
+      }
     },
     {
+      "id": "af015013-c40a-42e9-97fc-873dffd16626",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-rezaur-rahman-talukder/",
+      "imageId": "97bfa6f1-dda6-4164-a1a9-18f810f7e5cb",
       "name": "Prof. Dr. Rezaur Rahman Talukder",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General & Laparoscopic Specialist Surgeon",
@@ -1858,11 +2258,14 @@
         "hospital": "City Hospital Limited, Dhaka",
         "address": "1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka – 1207",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801558220134"
-      },
-      "id": "bbc9a256-7a86-44ce-989a-acc5c10f9632"
+        "appointmentNumber": "+8801558220134Call Now"
+      }
     },
     {
+      "id": "0a867fb4-6c03-487c-bc87-8e22a27a71be",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-a-k-m-fazle-rabbi-khan/",
+      "imageId": "0be94499-a5e8-49a5-89df-2addc5ded5df",
       "name": "Dr. A.K.M. Fazle Rabbi Khan",
       "degree": "MBBS (DMC), BCS (Health), FCPS (Surgery)",
       "specialty": "General, Colorectal & Laparoscopic Surgery Specialist",
@@ -1872,25 +2275,31 @@
         "hospital": "Farazy Hospital, Banasree",
         "address": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
         "visitingTime": "5pm to 7pm (Everyday)",
-        "appointmentNumber": "+8801882084414"
-      },
-      "id": "3d043a5c-8397-4826-ac06-f11d2969b224"
+        "appointmentNumber": "+8801882084414Call Now"
+      }
     },
     {
+      "id": "8f44b5cd-7633-4b19-826a-912b34884e4d",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-abu-sayem/",
+      "imageId": "cffba438-a27b-45a6-b6c0-8d4ff4979838",
       "name": "Dr. Md. Abu Sayem",
       "degree": "MBBS (Dhaka), BCS (Health), FCPS (Surgery), FACS (America)",
       "specialty": "General, Laparoscopic, Colorectal & Cancer Surgeon",
       "workplace": "National Institute of Cancer Research & Hospital",
-      "info": "Popular Diagnostic Centre, Kushtia\nAddress: City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia\nVisiting Hour: 9am to 5pm (Friday)\nAppointment: +8809666787817\nCall Now",
+      "info": "Popular Diagnostic Centre, Kushtia Address: City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia Visiting Hour: 9am to 5pm (Friday) Appointment: +8809666787817 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "9am to 3pm (Friday), 3pm to 7pm (Thursday)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "22e25eca-a93c-48d6-a672-a06883c50d68"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
+      "id": "5c605898-f36b-45ee-824d-3b95c076bccd",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-anisur-rahman-surgeon/",
+      "imageId": "55158a88-72cd-4f8f-b130-25ea8d3711a4",
       "name": "Prof. Dr. Anisur Rahman",
       "degree": "MBBS (DMC), MSc (Canada), FCPS (Surgery), FRCS (Glasgow, UK)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -1900,11 +2309,14 @@
         "hospital": "United Hospital Ltd, Dhaka",
         "address": "Plot # 15, Road # 71, Gulshan, Dhaka",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "10666"
-      },
-      "id": "a09eb059-9782-47a0-b90b-a8e27498e29d"
+        "appointmentNumber": "10666Call Now"
+      }
     },
     {
+      "id": "e1299879-c65a-43d1-bdc8-995782ad9060",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-akm-ruhul-amin/",
+      "imageId": "ab3d5acd-ab90-4e1d-bc0d-8d3605475aa0",
       "name": "Dr. AKM Ruhul Amin",
       "degree": "MBBS, MS (General Surgery)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -1914,11 +2326,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Malibagh",
         "address": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
         "visitingTime": "4pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801844141717"
-      },
-      "id": "2cfe355c-cdc4-4f15-b636-8c4d116facda"
+        "appointmentNumber": "+8801844141717Call Now"
+      }
     },
     {
+      "id": "bd38e78d-5545-4e26-80e5-38da350384bf",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-jamal-abu-nasser/",
+      "imageId": "83a5ad1c-1a81-4cc3-8810-875cb5680676",
       "name": "Prof. Dr. Md. Jamal Abu Nasser",
       "degree": "MBBS, FCPS ( Surgery), FMAS (India)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -1928,11 +2343,14 @@
         "hospital": "AMZ Hospital, Badda",
         "address": "Cha - 80/3, Progati Sarani, Uttar Badda, Dhaka",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801847331018"
-      },
-      "id": "78dbfd2c-8f8b-4520-9bcf-1c9d779fcb67"
+        "appointmentNumber": "+8801847331018Call Now"
+      }
     },
     {
+      "id": "d729e14f-8a5f-42cb-abe7-2aba3de1e7f5",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-abm-abdul-matin/",
+      "imageId": "b0e13ecc-a972-4c02-a52d-8e2cf4c20727",
       "name": "Dr. ABM Abdul Matin",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "Surgical Gastroenterology Specialist",
@@ -1942,11 +2360,14 @@
         "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
         "address": "1/1 B, Kallyanpur, Dhaka",
         "visitingTime": "6pm to 9.30pm (Sat, Sun, Wed & Thursday)",
-        "appointmentNumber": "+8801703725590"
-      },
-      "id": "ec40385f-82a4-4812-8ba5-140ba0a751a4"
+        "appointmentNumber": "+8801703725590Call Now"
+      }
     },
     {
+      "id": "49cc1c06-564e-4fb9-a179-e49f277beee8",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-azizur-rahman-muaz/",
+      "imageId": "a53c81d7-e90b-4265-ac79-a28149d087a6",
       "name": "Dr. Md. Azizur Rahman Muaz",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -1956,11 +2377,14 @@
         "hospital": "Health and Hope Hospital",
         "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
         "visitingTime": "6pm to 8pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809611996699"
-      },
-      "id": "a9acfea5-d85a-4b86-8388-53255d8a3695"
+        "appointmentNumber": "+8809611996699Call Now"
+      }
     },
     {
+      "id": "bb01d7be-d6a7-4fc0-a70e-b28ad18bd9bb",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-anharur-rahman/",
+      "imageId": "9bbb6996-484b-4d0b-abf2-4b4936b0af95",
       "name": "Dr. Anharur Rahman",
       "degree": "MBBS, FCPS (Surgery), FMAS (India), Fellow GI Surgery & Liver Transplant (India)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -1970,11 +2394,14 @@
         "hospital": "Al-Manar Hospital Limited",
         "address": "Plot # Umo, Block # Rossoi, Satmosjid Road, Dhaka",
         "visitingTime": "3pm to 5pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801550020885"
-      },
-      "id": "051ee4c6-3ea9-4907-ac10-34e9befd78b4"
+        "appointmentNumber": "+8801550020885Call Now"
+      }
     },
     {
+      "id": "90ffaa91-1e67-4ab5-9754-88b740617b21",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-muntasir-faisel/",
+      "imageId": "e13227fb-101a-436c-a696-158ab5daa182",
       "name": "Dr. Muntasir Faisel",
       "degree": "MBBS, MRCS (UK), FCPS (Surgery), Fellow in Laparoscopic Surgery (India)",
       "specialty": "General & Laparoscopic Specialist Surgeon",
@@ -1984,25 +2411,31 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "4pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "a3683adc-655b-487e-9010-213fbb4f9f75"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "66fccc07-45fb-4811-97ca-fc5f0dbf4bf6",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-arif-hossain/",
+      "imageId": "9de4479b-86d9-4995-bb6e-8c560546f489",
       "name": "Dr. Md. Arif Hossain",
       "degree": "MBBS (DMC), BCS (Health), FCPS (Surgery), FACS (USA), FMAS (India), EFIAGES (India)",
       "specialty": "General, Laparoscopic & Colorectal Surgeon",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "General Hospital Cox’s Bazar\nAddress: Hospital Road, Cox’s Bazar\nVisiting Hour: 3pm to 9pm (Thursday & Friday)\nAppointment: 01818650463, 01818650464\nCall Now",
+      "info": "General Hospital Cox’s Bazar Address: Hospital Road, Cox’s Bazar Visiting Hour: 3pm to 9pm (Thursday & Friday) Appointment: 01818650463, 01818650464 Call Now",
       "chamber": {
         "hospital": "Labaid Diagnostic, Malibagh",
         "address": "House # B-65, Chowdhury Para, Malibagh, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801766660208, 01818650463"
-      },
-      "id": "3606fedc-fd61-4b06-bed3-bdee9de21e16"
+        "appointmentNumber": "+8801766660208, 01818650463Call Now"
+      }
     },
     {
+      "id": "b787ba1e-e01a-4278-8f61-20cfa68a9847",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-hanif-emon/",
+      "imageId": "73b5a799-06bc-4bab-b1ee-eb51c721acf3",
       "name": "Dr. Md. Hanif (Emon)",
       "degree": "MBBS (DU), FCPS (Surgery)",
       "specialty": "General, Laparoscopic, Colorectal & Breast Surgery Specialist",
@@ -2012,11 +2445,14 @@
         "hospital": "Marine Health Care, Khilkhet",
         "address": "KA-196/1/B, Marine Tower, Tatultola, Khilkhet, Dhaka-1229",
         "visitingTime": "6pm to 8pm (Tue, Wed & Thursday)",
-        "appointmentNumber": "+8801711948261"
-      },
-      "id": "1567733d-5373-4e26-8d42-d015cb632dd8"
+        "appointmentNumber": "+8801711948261Call Now"
+      }
     },
     {
+      "id": "46d45c37-9bd1-48f0-a263-018748dcb4a7",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-hasina-alam/",
+      "imageId": "b1d2156e-1ddd-4d8a-adf0-dc7261fb5690",
       "name": "Dr. Hasina Alam",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Laparoscopic & Hepatobiliary Specialist Surgeon",
@@ -2026,11 +2462,14 @@
         "hospital": "Delta Hospital, Mirpur",
         "address": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka - 1216",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801301254924"
-      },
-      "id": "bc7526be-1df6-45e8-b173-80227c6e4df9"
+        "appointmentNumber": "+8801301254924Call Now"
+      }
     },
     {
+      "id": "e8029201-9842-4605-b022-5b44157fcf1f",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-mahmud-ekram-ullah/",
+      "imageId": "4e875ba9-e763-4c2e-8272-3032aaff6f2e",
       "name": "Dr. Mahmud Ekram Ullah",
       "degree": "MBBS, MRCS (Edinburgh), FCPS (Surgery)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -2040,25 +2479,14 @@
         "hospital": "Islami Bank Hospital, Mugda",
         "address": "1/24/B, Kamalapur Manda Road, South Mugdapara, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Monday & Friday)",
-        "appointmentNumber": "+8801724008677"
-      },
-      "id": "ea62c9f1-ba98-450d-9c2b-001d3316a750"
+        "appointmentNumber": "+8801724008677Call Now"
+      }
     },
     {
-      "name": "Dr. Anup Kumar",
-      "degree": "MBBS, MPH, PhD (Surgery), FRSH (UK)",
-      "specialty": "General & Laparoscopic Specialist Surgeon",
-      "workplace": "Farazy Hospital Limited",
-      "info": "Dr. Anup Kumar is a General Surgeon in Dhaka. His qualification is MBBS, MPH, PhD (Surgery), FRSH (UK). He is a Consultant, Dept of Surgery at Farazy Hospital Limited. He regularly provides treatment to his patients at Farazy Hospital, Banasree. Practicing hour of Dr. Anup Kumar at Farazy Hospital, Banasree is 10am to 2pm & 7.30pm to 10pm (Everyday).",
-      "chamber": {
-        "hospital": "Farazy Hospital, Banasree",
-        "address": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
-        "visitingTime": "10am to 2pm & 7.30pm to 10pm (Everyday)",
-        "appointmentNumber": "+8801766111137"
-      },
-      "id": "47f0e733-994f-43a4-85f1-e9abfcd92b2e"
-    },
-    {
+      "id": "7129fad5-5cde-4fff-b9b3-90689b43a8b8",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-a-t-m-asaduzzaman/",
+      "imageId": "0b80d8a4-ea3a-481b-bf07-0a4b1c742027",
       "name": "Dr. A.T.M. Asaduzzaman",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "Laparoscopic & General Surgery Specialist",
@@ -2068,11 +2496,31 @@
         "hospital": "Comfort Diagnostic Center, Dhanmondi",
         "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "7.30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801731956033"
-      },
-      "id": "44b20b14-7616-4e66-91fd-f1bc36f45b37"
+        "appointmentNumber": "+8801731956033Call Now"
+      }
     },
     {
+      "id": "4847bbdf-6745-45cf-8d72-9cebdd8be50c",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-anup-kumar/",
+      "imageId": "c2e20a5f-8ada-42b3-9716-7808d6b69e38",
+      "name": "Dr. Anup Kumar",
+      "degree": "MBBS, MPH, PhD (Surgery), FRSH (UK)",
+      "specialty": "General & Laparoscopic Specialist Surgeon",
+      "workplace": "Farazy Hospital Limited",
+      "info": "Dr. Anup Kumar is a General Surgeon in Dhaka. His qualification is MBBS, MPH, PhD (Surgery), FRSH (UK). He is a Consultant, Dept of Surgery at Farazy Hospital Limited. He regularly provides treatment to his patients at Farazy Hospital, Banasree. Practicing hour of Dr. Anup Kumar at Farazy Hospital, Banasree is 10am to 2pm & 7.30pm to 10pm (Everyday).",
+      "chamber": {
+        "hospital": "Farazy Hospital, Banasree",
+        "address": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
+        "visitingTime": "10am to 2pm & 7.30pm to 10pm (Everyday)",
+        "appointmentNumber": "+8801766111137Call Now"
+      }
+    },
+    {
+      "id": "2732007c-e17b-4457-b795-f5560dd60bad",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-abdullah-al-tarique/",
+      "imageId": "b7deb868-0165-4a1b-88cb-e20207b8b6e2",
       "name": "Prof. Dr. Abdullah Al Tarique",
       "degree": "MBBS, FCPS (Surgery), MS (Plastic Surgery)",
       "specialty": "General, Laparoscopic & Plastic Surgeon",
@@ -2082,11 +2530,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "4pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801714496994"
-      },
-      "id": "c3bc304d-3246-48aa-9145-59565b5d23c4"
+        "appointmentNumber": "+8801714496994Call Now"
+      }
     },
     {
+      "id": "aefbb3da-c618-4e7c-8d6e-3ebf68fbbadb",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-nuruzzaman/",
+      "imageId": "23bae8c8-505f-469e-a2c1-337b340d8406",
       "name": "Dr. Muhammad Nuruzzaman",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General Surgeon",
@@ -2096,11 +2547,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "5.30pm to 7.30pm (Sun, Tues & Thu)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "9d7a9e7e-a4b9-4ea9-a542-7c5171744b4f"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
+      "id": "8f51e36b-7dcc-4dcd-b7a0-a3b719c3cf6c",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-abm-ali-akbar-biswas/",
+      "imageId": "3623c26d-32b8-4478-a234-cc9e800f8742",
       "name": "Prof. Dr. ABM Ali Akbar Biswas",
       "degree": "MBBS, FCPS (Sugery), FICS (USA)",
       "specialty": "General Surgeon",
@@ -2110,11 +2564,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "10am to 12pm (Sun, Tue & Thursday)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "9387f7d3-407b-47b7-99f8-03025b7f8e7a"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
+      "id": "0111f4f8-42cd-4332-96d3-f74b3f88a5e9",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-mostafizur-rahman-surgery/",
+      "imageId": "dfc98cc4-5a2c-4268-83a2-00689584c3c4",
       "name": "Dr. Md. Mostafizur Rahman",
       "degree": "MBBS, MS (Surgery), Training (Laparoscopic Surgery)",
       "specialty": "General & Laparoscopic Specialist Surgeon",
@@ -2124,11 +2581,14 @@
         "hospital": "Delta Hospital, Mirpur",
         "address": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka - 1216",
         "visitingTime": "8.30am to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8801301254924, +8801795699147"
-      },
-      "id": "e0744eb9-2843-4a66-93ab-80b83b9d13b3"
+        "appointmentNumber": "+8801301254924, +8801795699147Call Now"
+      }
     },
     {
+      "id": "59bbb9c8-b698-4b43-a99d-fec0db96793e",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-m-fardil-hossain-faisal/",
+      "imageId": "2930b5c4-2ddc-4705-9e3f-e133a16965d3",
       "name": "Dr. M Fardil Hossain Faisal",
       "degree": "MBBS, MCPS, MS, FACS",
       "specialty": "Laparoscopic, Laser Procto-Surgery & General Surgeon",
@@ -2138,11 +2598,14 @@
         "hospital": "York Hospital, Banani",
         "address": "House #12 & 13, Road # 22, Block # K, Banani, Dhaka-1213",
         "visitingTime": "8.30pm to 9.30pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801719183307"
-      },
-      "id": "c1aa2280-6d04-41f0-85e7-9ed9272f1dd4"
+        "appointmentNumber": "+8801719183307Call Now"
+      }
     },
     {
+      "id": "d900e25c-176e-4cb7-8dd9-50e07ff56e4f",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahfuzul-momen/",
+      "imageId": "e00bb7f1-7cda-4051-8b7d-c7617addae94",
       "name": "Dr. Md. Mahfuzul Momen",
       "degree": "MBBS, FCPS (Surgery), DMAS (Laparoscopy)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -2152,11 +2615,14 @@
         "hospital": "Shin Shin Japan Hospital, Uttara",
         "address": "17, Garib E Nawaz Ave, Sector # 11, Uttara, Dhaka",
         "visitingTime": "1pm to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8801929478565"
-      },
-      "id": "32bedf81-8c7c-4a1e-93c9-8c781c44e789"
+        "appointmentNumber": "+8801929478565Call Now"
+      }
     },
     {
+      "id": "d171d1e8-c327-4b4a-aab9-909caabfc31c",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-wasih-uddin-ahmed-sohan/",
+      "imageId": "7bccbf9c-2e36-40fc-afc6-bbb3d51c9aa4",
       "name": "Dr. Wasih Uddin Ahmed Sohan",
       "degree": "MBBS, BCS (Health), FCPS (Surgery), CCD (BIRDEM)",
       "specialty": "General Surgery Specialist",
@@ -2166,11 +2632,14 @@
         "hospital": "Unity Aid Hospital Limited",
         "address": "House # 1-2, Block # D, Main Road, South Banasree, Khilgaon, Dhaka",
         "visitingTime": "5pm to 8pm (Sun, Mon, Tue & Wed)",
-        "appointmentNumber": "+8801872661375"
-      },
-      "id": "9bdbe064-69a4-4e3e-aed6-b0fff67594f3"
+        "appointmentNumber": "+8801872661375Call Now"
+      }
     },
     {
+      "id": "9ac46638-ab5c-4510-a81d-210be0beb9eb",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-a-a-ashraf-ali/",
+      "imageId": "26364097-8ead-4bce-9842-38a007f6ebe7",
       "name": "Prof. Dr. A. A. Ashraf Ali",
       "degree": "MBBS, FCPS (Surgery), FICS, FCPS (PK)",
       "specialty": "General Surgery Specialist",
@@ -2180,11 +2649,14 @@
         "hospital": "Comfort Diagnostic Center, Dhanmondi",
         "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801731956033"
-      },
-      "id": "f7b519fb-c78b-4457-96bb-3bae650e9953"
+        "appointmentNumber": "+8801731956033Call Now"
+      }
     },
     {
+      "id": "722f8242-935c-4389-98d8-4980e4b46141",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-abdul-mobin-choudhury/",
+      "imageId": "829e1afd-3928-494a-8bdd-c042d2380ecb",
       "name": "Prof. Dr. Md. Abdul Mobin Choudhury",
       "degree": "MBBS, MCPS (Surgery), FCPS (Surgery)",
       "specialty": "General, Laparoscopic & Cancer Specialist Surgeon",
@@ -2194,11 +2666,14 @@
         "hospital": "Ahsania Mission Cancer & General Hospital",
         "address": "Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka",
         "visitingTime": "9am to 4pm (Closed: Friday)",
-        "appointmentNumber": "10617"
-      },
-      "id": "a32ae831-d94a-4246-b119-34ed75664ee9"
+        "appointmentNumber": "10617Call Now"
+      }
     },
     {
+      "id": "fd4041c6-82c9-470d-bb96-9539b14cbb2e",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-osman-gani/",
+      "imageId": "b89ef9b8-0c8b-4b0d-acb6-f48c0c6509bc",
       "name": "Dr. Md. Osman Gani",
       "degree": "MBBS, BCS (Health), FCPS (Surgery), MS (TS)",
       "specialty": "General & Thoracic Surgeon",
@@ -2208,11 +2683,14 @@
         "hospital": "Upasham Health Point (Pvt.) Ltd",
         "address": "House-14, Road-2/B, Block-J, Natun Bazar, Baridhara, Dhaka-1212",
         "visitingTime": "9pm to 10pm (Closed: Monday & Friday)",
-        "appointmentNumber": "+8801932200200"
-      },
-      "id": "11b7deed-373a-4b84-be31-88ff76459c37"
+        "appointmentNumber": "+8801932200200Call Now"
+      }
     },
     {
+      "id": "68f4bf1d-8ce0-4b8c-b6dc-cd7406547351",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-fouzia-sultana/",
+      "imageId": "4473683e-c6e2-4cc5-a499-db3e74eebc8e",
       "name": "Dr. Fouzia Sultana",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General & Laparoscopic Specialist Surgeon",
@@ -2222,11 +2700,14 @@
         "hospital": "Delta Hospital, Mirpur",
         "address": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka - 1216",
         "visitingTime": "8.30am to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8801301254924, +8801795699147"
-      },
-      "id": "60c0ae4e-4aad-4db3-bf47-62341707b3a6"
+        "appointmentNumber": "+8801301254924, +8801795699147Call Now"
+      }
     },
     {
+      "id": "9419bfca-6680-4295-8e5f-e31387441bbd",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-israt-faisal/",
+      "imageId": "c485d608-4fa1-472a-8669-8ce4fc62d8df",
       "name": "Dr. Mohammad Israt Faisal",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Laparoscopic & Cancer Surgery Specialist",
@@ -2236,11 +2717,14 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "10am to 1pm & 4pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "2559f192-5066-477f-92e2-aa0589ba6a80"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "5d942ecd-f5d2-4c66-915d-c4dcbdf0d4c9",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-masum/",
+      "imageId": "4a9f04e1-5fe8-4eb9-b46d-98e0101f9a19",
       "name": "Dr. Mohammad Masum",
       "degree": "MBBS (DMC), FCPS (Surgery)",
       "specialty": "General & Laparoscopic Specialist Surgeon",
@@ -2250,11 +2734,14 @@
         "hospital": "Islami Bank Hospital, Mugda",
         "address": "1/24/B, Kamalapur Manda Road, South Mugdapara, Dhaka",
         "visitingTime": "5pm to 7pm (Sat to Thu) & 7pm to 9pm (Fri)",
-        "appointmentNumber": "+8801724008677"
-      },
-      "id": "da1e7839-8d7a-49cc-b026-b8b704b69020"
+        "appointmentNumber": "+8801724008677Call Now"
+      }
     },
     {
+      "id": "ec88aced-9961-47d7-809c-9a6d7fd3318d",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-sayem-al-monsur-faizi/",
+      "imageId": "a2d4be67-fd33-4a16-9402-cc0fb2db4f17",
       "name": "Dr. Sayem Al Monsur Faizi",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General Surgery Specialist",
@@ -2264,11 +2751,14 @@
         "hospital": "Comfort Diagnostic Center, Dhanmondi",
         "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "3pm to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801731956033"
-      },
-      "id": "3f4b50c5-ff3e-4d03-8553-82d46c65002a"
+        "appointmentNumber": "+8801731956033Call Now"
+      }
     },
     {
+      "id": "29ce3a72-2113-430c-af06-a764a0c48c7c",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-chitta-ranjan-das/",
+      "imageId": "c951364b-efbc-46de-84b0-08a62fa1f7c2",
       "name": "Dr. Chitta Ranjan Das",
       "degree": "MBBS, MS (Surgery)",
       "specialty": "General Surgery Specialist",
@@ -2278,11 +2768,14 @@
         "hospital": "Comfort Diagnostic Center, Dhanmondi",
         "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801731956033"
-      },
-      "id": "5678251b-3ff1-419d-b277-ddff2c31e090"
+        "appointmentNumber": "+8801731956033Call Now"
+      }
     },
     {
+      "id": "0a3ed817-f0fc-4ed8-8799-774274236286",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-a-z-m-mahfuzur-rahman/",
+      "imageId": "33b9fd6e-6b56-46ca-96f7-42c326289f38",
       "name": "Dr. A.Z.M. Mahfuzur Rahman",
       "degree": "MBBS, MS (Surgery)",
       "specialty": "General Surgery Specialist",
@@ -2292,11 +2785,14 @@
         "hospital": "Comfort Diagnostic Center, Dhanmondi",
         "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "6.30pm to 9.30pm (Closed: Friday & Saturday)",
-        "appointmentNumber": "+8801731956033"
-      },
-      "id": "6dab3635-49a5-46e0-b95c-b947196b8e7e"
+        "appointmentNumber": "+8801731956033Call Now"
+      }
     },
     {
+      "id": "e7935eb9-92e3-4126-b31b-d534ae0c4136",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-sanjoy-saha/",
+      "imageId": "2cd085f4-4159-454c-9b46-c822d14541a9",
       "name": "Dr. Sanjoy Saha",
       "degree": "MBBS, FCPS, FACS (USA)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -2306,11 +2802,14 @@
         "hospital": "Aims Hospital, Badda",
         "address": "House # 04, Road # 11, Progati Saroni, Merul Badda, Dhaka",
         "visitingTime": "8pm to 10pm (Everyday)",
-        "appointmentNumber": "+8801716313646"
-      },
-      "id": "259fa301-01e9-4d48-b533-f0c0edb7010c"
+        "appointmentNumber": "+8801716313646Call Now"
+      }
     },
     {
+      "id": "a8b1b60f-d4a5-4934-b9b9-a24776d9d871",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-hasan-md-abdur-rouf/",
+      "imageId": "8be8f6f2-d655-4850-8d23-c3141db3ddc2",
       "name": "Prof. Hasan Md. Abdur Rouf",
       "degree": "MBBS (DMC), FCPS (SURGERY)",
       "specialty": "General, Laparoscopic, Cancer Surgery & Diabetic Foot Surgeon",
@@ -2320,11 +2819,14 @@
         "hospital": "Delta Hospital, Mirpur",
         "address": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka - 1216",
         "visitingTime": "11am to 2pm & 6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801301254924"
-      },
-      "id": "9d75c222-6dab-41a6-bc27-ba858281d68a"
+        "appointmentNumber": "+8801301254924Call Now"
+      }
     },
     {
+      "id": "b9546f84-c18f-44af-9a91-3d46f31cbbdc",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-sardar-shahnabi-jafran/",
+      "imageId": "4151230e-42a4-43c9-b7fc-e7de4f70211d",
       "name": "Dr. Sardar Shahnabi Jafran",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "Breast, Tumor, Cancer Surgeon",
@@ -2334,11 +2836,14 @@
         "hospital": "Ibn Sina Medical Imaging Center, Zigatola",
         "address": "House # 58, Road # 2A, Zigatola Bus Stand, Dhaka - 1209",
         "visitingTime": "5pm to 7.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801711625173"
-      },
-      "id": "d886f946-78dd-4203-8835-3d1c816420ee"
+        "appointmentNumber": "+8801711625173Call Now"
+      }
     },
     {
+      "id": "8ebaa832-6042-497d-a392-6e35e9e8ab7d",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-i-m-nasim-sobhani-khondker/",
+      "imageId": "08169879-4a9d-40fe-b027-823762e5f3af",
       "name": "Prof. Dr. M.I.M. Nasim Sobhani Khondker",
       "degree": "MBBS, FCPS (Surgery), FRCS (UK)",
       "specialty": "General & Laparoscopic Surgery Specialist",
@@ -2348,11 +2853,14 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "9am to 2pm & 6.30pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801757138421"
-      },
-      "id": "f296202c-5ea4-40f0-8c18-47c8d2bd3116"
+        "appointmentNumber": "+8801757138421Call Now"
+      }
     },
     {
+      "id": "4b94b4bd-2a9f-4fdc-b642-c5ef4d251f5e",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-abdullah-al-mamun-surgeon/",
+      "imageId": "e8133ddc-65e0-4804-9a0a-da0ad5b3bac9",
       "name": "Dr. Abdullah Al Mamun",
       "degree": "MBBS (DU), BCS (Health), FCPS (Surgery)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -2362,11 +2870,14 @@
         "hospital": "Aichi Hospital Limited, Uttara",
         "address": "Plot # 35 & 37, Sector # 08, Abdullahpur, Uttara, Dhaka",
         "visitingTime": "7pm to 8pm (Closed: Thurs & Friday)",
-        "appointmentNumber": "+8801689956599"
-      },
-      "id": "4a428461-a6da-4c18-a8ae-2a065a308b56"
+        "appointmentNumber": "+8801689956599Call Now"
+      }
     },
     {
+      "id": "5eb51a25-8121-468a-9567-e6f24f75ac29",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-manjur-alam/",
+      "imageId": "0f7e95e0-a1b8-4c1c-9d54-3230911fa80a",
       "name": "Prof. Dr. Md. Manjur Alam",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Gastro-Intestinal & Breast Surgery Specialist",
@@ -2376,11 +2887,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801749519346"
-      },
-      "id": "ff5b0f8d-0ee8-4212-92df-3f27c34bb49b"
+        "appointmentNumber": "+8801749519346Call Now"
+      }
     },
     {
+      "id": "45cb0b75-2fd7-4200-a224-4026e98a53ec",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-rafiqul-hassan/",
+      "imageId": "e97d8529-5728-4722-80fd-43a32f1e9cdb",
       "name": "Dr. Muhammad Rafiqul Hassan",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Laparoscopic, Hepato-Biliary & Pancreatic Surgeon",
@@ -2390,11 +2904,14 @@
         "hospital": "Advance Hospital, Banasree",
         "address": "House # 1, Main Road, Block # F, Banasree, Dhaka",
         "visitingTime": "9pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801999242424"
-      },
-      "id": "07fb2861-0cef-41d3-bbdd-b814760cd24a"
+        "appointmentNumber": "+8801999242424Call Now"
+      }
     },
     {
+      "id": "a1706522-f052-46f1-84e5-7e85cb21f69c",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahbub-elahi/",
+      "imageId": "75583505-e233-4406-b449-bd19f4124742",
       "name": "Dr. Md. Mahbub Elahi",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -2404,11 +2921,14 @@
         "hospital": "Health and Hope Hospital",
         "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
         "visitingTime": "5pm to 6pm (Sat & Mon) & 8pm to 9pm (Sun & Tue)",
-        "appointmentNumber": "+8809611996699"
-      },
-      "id": "57c52b64-f3a3-4f76-a5c9-e1db138533ab"
+        "appointmentNumber": "+8809611996699Call Now"
+      }
     },
     {
+      "id": "d40fb307-e4c1-4ea2-b6fa-1b607984b7ad",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-tamjeed-alam/",
+      "imageId": "b82e9d03-d41c-455a-8a54-48b10903c96e",
       "name": "Dr. Tamjeed Alam",
       "degree": "MBBS, MRCS (UK), FCPS (Surgery)",
       "specialty": "General, Colorectal & Advanced Laparoscopic Surgeon",
@@ -2418,39 +2938,48 @@
         "hospital": "Al-Manar Hospital Limited",
         "address": "Plot # Umo, Block # Rossoi, Satmosjid Road, Dhaka",
         "visitingTime": "3pm to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801550020885"
-      },
-      "id": "7bf4d844-ef7b-4c47-bcfa-05d50e1169d5"
+        "appointmentNumber": "+8801550020885Call Now"
+      }
     },
     {
+      "id": "f6e97e85-8ff5-4c28-9cd7-e80326f113d2",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-sami-ahmad/",
+      "imageId": "bcb4194f-6ebc-4af7-a67a-e1a2c324af6d",
       "name": "Prof. Dr. Sami Ahmad",
       "degree": "MBBS, FCPS, FACS",
       "specialty": "General & Laparoscopic Specialist Surgeon",
       "workplace": "Shaheed Suhrawardy Medical College & Hospital",
-      "info": "Al-Manar Hospital Limited\nAddress: Plot # Umo, Block # Rossoi, Satmosjid Road, Dhaka\nVisiting Hour: 11.30am to 1.30pm (Closed: Friday)\nAppointment: +8801711600447\nCall Now",
+      "info": "Al-Manar Hospital Limited Address: Plot # Umo, Block # Rossoi, Satmosjid Road, Dhaka Visiting Hour: 11.30am to 1.30pm (Closed: Friday) Appointment: +8801711600447 Call Now",
       "chamber": {
         "hospital": "Mirpur Holy Crescent Hospital",
         "address": "South Bishil, Opposite Shah Ali Women,s College, Mirpur-1, Dhaka",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+88 01716496677"
-      },
-      "id": "2823ca38-21ff-452e-8e71-0f0eaac091f6"
+        "appointmentNumber": "+88 01716496677Call Now"
+      }
     },
     {
+      "id": "30a3f500-1349-4af0-9667-954d0fdb8266",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-fayem-chowdhury-sony/",
+      "imageId": "cd95c82c-a5b8-4d5f-8b10-5737791ca32a",
       "name": "Dr. Fayem Chowdhury (Sony)",
       "degree": "MBBS. BCS (Health), FCPS (Surgery), FACS (USA), MS (Colorectal Surgery)",
       "specialty": "Colorectal (Piles, Fistula, Rectum, Colon) & Laser Surgeon",
       "workplace": "Shaheed Suhrawardy Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Mymensingh\nAddress: 171, Charpara, Medical College Gate, Mymensingh – 2200\nVisiting Hour: 2pm to 4pm (Only Thursday)\nAppointment: +8809666787814\nCall Now",
+      "info": "Popular Diagnostic Center, Mymensingh Address: 171, Charpara, Medical College Gate, Mymensingh – 2200 Visiting Hour: 2pm to 4pm (Only Thursday) Appointment: +8809666787814 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Shyamoli",
         "address": "Opposite to Shyamoli Shishu Mela, Babor Road, Mohammadpur, Dhaka",
         "visitingTime": "2pm to 5pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787806"
-      },
-      "id": "fc4e177d-b55d-47fe-a593-72c518dbf711"
+        "appointmentNumber": "+8809666787806Call Now"
+      }
     },
     {
+      "id": "83a8b0d5-0c5a-454f-a0c6-2eac8cedd15e",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/asso-prof-dr-abdur-rabban-talukder/",
+      "imageId": "5653869f-54f2-4536-81aa-645db5ae4780",
       "name": "Asso. Prof. Dr. Abdur Rabban Talukder",
       "degree": "MBBS, FCPS (Surgery), FMS (India)",
       "specialty": "General & Laparoscopic Specialist Surgeon",
@@ -2460,11 +2989,14 @@
         "hospital": "Labaid Diagnostic, Uttara (Unit 02)",
         "address": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662050"
-      },
-      "id": "8d3b4481-5797-49e8-87b7-1ea81690bbfe"
+        "appointmentNumber": "+8801766662050Call Now"
+      }
     },
     {
+      "id": "47bfa7dc-5d98-4629-8405-d656dffa4d56",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-imtiaz-faruk/",
+      "imageId": "f9c1c94f-c6e4-4fb2-9d0d-863d1d3a19cc",
       "name": "Prof. Dr. Imtiaz Faruk",
       "degree": "MBBS, FCPS (Surgery), FRCS (Glasgow)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -2474,11 +3006,14 @@
         "hospital": "Samorita Hospital Ltd, Panthapath",
         "address": "89/1, Panthapath, Dhaka - 1215, Bangladesh",
         "visitingTime": "6pm to 8pm (Everyday)",
-        "appointmentNumber": "10674"
-      },
-      "id": "cc3f0950-262a-4a46-be33-f9ba68974de1"
+        "appointmentNumber": "10674Call Now"
+      }
     },
     {
+      "id": "4bbe927c-8ec7-4214-ac9c-11c5f912f181",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-gc-pal/",
+      "imageId": "1b6f345d-b9b3-49b4-99c0-0f00ca9586dd",
       "name": "Dr. GC Pal",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General Surgery Specialist",
@@ -2488,11 +3023,14 @@
         "hospital": "Authentic Diagnostic & Consultation Center",
         "address": "House # 71/4, Hoseni Dalan Road, Chankharpul, Dhaka",
         "visitingTime": "2.30pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801760455722"
-      },
-      "id": "fcbc5981-44e6-4320-867f-5c6ebebc2688"
+        "appointmentNumber": "+8801760455722Call Now"
+      }
     },
     {
+      "id": "2825dd5e-b8bc-4b07-8da4-bb4f9ba49aed",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-hafizur-rahman-dipu/",
+      "imageId": "d61ca77f-02a6-4249-8d80-c4fd124cf08e",
       "name": "Dr. Md. Hafizur Rahman (Dipu)",
       "degree": "MBBS (DMC), FCPS (Surgery)",
       "specialty": "General, Endo-laparoscopic, Breast, Colorectal, Cancer Surgery Specialist",
@@ -2502,11 +3040,14 @@
         "hospital": "Proshanti Hospital & Diagnostic Ltd",
         "address": "6, Proshanti Goli (Opposite to Police Line School), Malibagh, Dhaka",
         "visitingTime": "3pm to 9pm (Sat, Mon, Wed & Thu)",
-        "appointmentNumber": "+8801724926114"
-      },
-      "id": "f0bcb81a-9055-4cae-8e5d-34557b30281e"
+        "appointmentNumber": "+8801724926114Call Now"
+      }
     },
     {
+      "id": "117a8fc0-02af-488c-bf84-aa36234b4d42",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-nazrul-islam/",
+      "imageId": "7e877ec3-49c0-4529-b4b6-29b5eea813a7",
       "name": "Dr. Muhammad Nazrul Islam",
       "degree": "MBBS, BCS (Health), FCPS (Surgery), MS (Colorectal Surgery), FACS (America)",
       "specialty": "Colorectal (Piles, Fissure, Fistula), General & Laparoscopic Surgeon",
@@ -2516,11 +3057,14 @@
         "hospital": "Farazy Hospital, Banasree",
         "address": "House#15-19, Block-E, Banasree Main Road, Rampura, Dhaka",
         "visitingTime": "5.30pm to 8.00pm (Sat, Sun, Mon & Wed)",
-        "appointmentNumber": "+8809606990000"
-      },
-      "id": "1fd86f77-6352-4a3e-ab0b-305369a0d503"
+        "appointmentNumber": "+8809606990000Call Now"
+      }
     },
     {
+      "id": "fe133637-190e-4086-b4e4-bb0fb08af23f",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-nelema-jahan/",
+      "imageId": "a7451df6-d812-4848-8c34-332565b6717a",
       "name": "Dr. Nelema Jahan",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Laparoscopic, Breast & Colorectal Surgeon",
@@ -2530,11 +3074,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "5pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "49076197-269f-41cc-ae6a-d06089232710"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "de5f61cd-54ea-4a07-b3be-883c28324aaa",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-r-a-chowdhury-pervez/",
+      "imageId": "99eb7792-4044-4563-9883-4fdffa574282",
       "name": "Prof. Dr. R. A. Chowdhury Pervez",
       "degree": "MBBS (DMC), FCPS (Surgery)",
       "specialty": "General & Laparoscopic Specialist Surgeon",
@@ -2544,11 +3091,14 @@
         "hospital": "Samorita Hospital Ltd, Panthapath",
         "address": "89/1, Panthapath, Dhaka - 1215, Bangladesh",
         "visitingTime": "3pm to 5pm (Closed: Friday)",
-        "appointmentNumber": "10674"
-      },
-      "id": "d6e63a34-5cbb-4810-91d0-e70eb2bc494a"
+        "appointmentNumber": "10674Call Now"
+      }
     },
     {
+      "id": "a1dc433c-2fcf-41d4-9e68-c21add0d0da0",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-nasir-uddin/",
+      "imageId": "1f9e3528-92a1-4a3d-adef-4bb482180f50",
       "name": "Prof. Dr. Md. Nasir Uddin",
       "degree": "MBBS, FCPS (Surgery), PhD (USA)",
       "specialty": "General, Laparoscopic, & Hepatobiliary Surgeon",
@@ -2558,11 +3108,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "10am to 2pm (Sat to Thu), 3.30pm to 6.30pm (Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "98718fbb-2b06-4541-ba29-2d32c234e437"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "09c54243-c8fa-4f93-92d4-d34ed6e2f15e",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-jannatul-islam-jinnah/",
+      "imageId": "cd0c523c-687a-4c3d-864c-cb5bc9a8bce0",
       "name": "Prof. Dr. Jannatul Islam Jinnah",
       "degree": "MBBS, FCPS (Surgery), FICS (USA)",
       "specialty": "General, Laparoscopic, Colorectal & Breast Surgeon",
@@ -2572,25 +3125,31 @@
         "hospital": "Samorita Hospital Ltd, Panthapath",
         "address": "89/1, Panthapath, Dhaka - 1215, Bangladesh",
         "visitingTime": "10am to 1pm(Closed: Friday)",
-        "appointmentNumber": "10674"
-      },
-      "id": "76615d29-664f-45ab-9c50-a91766eeb62c"
+        "appointmentNumber": "10674Call Now"
+      }
     },
     {
+      "id": "e67b4fc4-48ad-4794-8d67-b0758a655c0f",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-russel-ahmed-khan-lodi/",
+      "imageId": "c6bd5fd6-abb8-4f59-9e6a-3336a09cbafb",
       "name": "Dr. Russel Ahmed Khan Lodi",
       "degree": "MBBS, MCPS, FCPS",
       "specialty": "General, Laparoscopic, Colorectal & Diabetic Foot Surgeon",
       "workplace": "Delta Medical College & Hospital",
-      "info": "Japan Bangladesh Friendship Hospital\nAddress: 55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi\nVisiting Hour: 7pm to 9pm (Sat, Wed & Thursday)\nAppointment: +8801756166010\nCall Now",
+      "info": "Japan Bangladesh Friendship Hospital Address: 55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi Visiting Hour: 7pm to 9pm (Sat, Wed & Thursday) Appointment: +8801756166010 Call Now",
       "chamber": {
         "hospital": "Labaid Diagnostic, Mirpur",
         "address": "Plot # 09, Block # B, Section # 01, Mirpur, Dhaka",
         "visitingTime": "7pm to 9pm (Sun, Mon & Tuesday)",
-        "appointmentNumber": "+8801756166010"
-      },
-      "id": "1916328e-d133-4d55-97d3-688890d341ff"
+        "appointmentNumber": "+8801756166010Call Now"
+      }
     },
     {
+      "id": "a0e31a66-9152-49b9-a252-7f2a1e5b1787",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-morsalin-rahaman/",
+      "imageId": "12cc95cd-a31d-405f-b7fa-52981ccfc103",
       "name": "Dr. Morsalin Rahaman",
       "degree": "MBBS, MS (Surgery)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -2600,11 +3159,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "4pm to 7pm (Everyday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "3312629c-467e-4f29-a98d-4176c4ae353d"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "4b1e1fae-45a0-4e4a-a391-3ba604db3ae0",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-margub-hossain/",
+      "imageId": "85259fba-07d9-40ce-be2f-1499ea24f594",
       "name": "Prof. Dr. Md. Margub Hossain",
       "degree": "MBBS (DMC), FCPS (Surgery), MHPEd (University of New South Wales, Sydney)",
       "specialty": "General & Laparoscopic Specialist Surgeon",
@@ -2614,11 +3176,14 @@
         "hospital": "Samorita Hospital Ltd, Panthapath",
         "address": "89/1, Panthapath, Dhaka - 1215, Bangladesh",
         "visitingTime": "6pm to 8pm (Sat, Sun & Wed)",
-        "appointmentNumber": "10674"
-      },
-      "id": "bd218137-0320-4385-adfb-3e08fcd7933c"
+        "appointmentNumber": "10674Call Now"
+      }
     },
     {
+      "id": "ba7b5865-1472-4e84-87ce-cac48c09c407",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-nazrulislam/",
+      "imageId": "d3a8615d-b5ce-498f-8faa-6b893f00986d",
       "name": "Dr. Muhammad Nazrul Islam",
       "degree": "MBBS, FCPS (Surgery), MS (Colorectal Surgery), FACS (USA)",
       "specialty": "Colorectal & General Surgeon",
@@ -2628,25 +3193,31 @@
         "hospital": "Farazy Hospital, Banasree",
         "address": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
         "visitingTime": "5.30pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809606990000"
-      },
-      "id": "77ea0d6b-36cf-4806-aa19-8569867f7b3d"
+        "appointmentNumber": "+8809606990000Call Now"
+      }
     },
     {
+      "id": "f96fe4aa-301d-4742-985d-bcdad1566e92",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-md-nahid-sikder/",
+      "imageId": "87bae23e-be53-4e5e-866a-541d45b9c18b",
       "name": "Dr. Md. Nahid Sikder",
       "degree": "MBBS (Dhaka), BCS (Health), FCPS (Surgery)",
       "specialty": "General, Laparoscopic, Breast & Colorectal Surgeon",
       "workplace": "Kuwait Bangladesh Friendship Govt. Hospital, Uttara, Dhaka",
-      "info": "Shin Shin Japan Hospital, Uttara\nAddress: 17, Garib E Nawaz Ave, Sector # 11, Uttara, Dhaka\nVisiting Hour: 6.30pm to 8pm (Sat, Mon, Tue & Wed)\nAppointment: +8801723760904\nCall Now",
+      "info": "Shin Shin Japan Hospital, Uttara Address: 17, Garib E Nawaz Ave, Sector # 11, Uttara, Dhaka Visiting Hour: 6.30pm to 8pm (Sat, Mon, Tue & Wed) Appointment: +8801723760904 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
         "address": "Room 406, House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
         "visitingTime": "4pm to 6pm (Sat, Mon, Tue & Wed)",
-        "appointmentNumber": "+8809666787805"
-      },
-      "id": "92094283-0c92-437d-a6bb-24f0a2daa4cb"
+        "appointmentNumber": "+8809666787805Call Now"
+      }
     },
     {
+      "id": "08f8d344-eac4-454d-9d83-af7b4b00894e",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-sohel-uzzaman/",
+      "imageId": "f7c96976-ee27-4eac-9568-473b25e8d7bc",
       "name": "Dr. Mohammad Sohel-Uzzaman",
       "degree": "MBBS (SBMC), BCS (Health), FCPS (Surgery), F-MAS, Fellowship in GI Endoscopy (Delhi)",
       "specialty": "General & Endo-Laparoscopic Surgeon",
@@ -2656,11 +3227,14 @@
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "4pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801758403494"
-      },
-      "id": "9a90ae1b-9430-4230-868e-846c9d5ead0e"
+        "appointmentNumber": "+8801758403494Call Now"
+      }
     },
     {
+      "id": "73d224af-5ca3-4aa3-9f44-c311f8cfd8b1",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-tapash-kumar-maitra/",
+      "imageId": "36b783cd-e7fb-4ba9-83c6-35d4efc41170",
       "name": "Prof. Dr. Tapash Kumar Maitra",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General and Laparoscopic Surgery Specialist",
@@ -2670,11 +3244,14 @@
         "hospital": "BIRDEM Specialized Chamber Complex",
         "address": "Main Building, 122, Kazi Nazrul Islam Avenue, Shahbag, Dhaka",
         "visitingTime": "2pm to 4pm (Closed: Friday)",
-        "appointmentNumber": "+8801847259770"
-      },
-      "id": "a041b278-57d6-418c-8116-94a8e8248b82"
+        "appointmentNumber": "+8801847259770Call Now"
+      }
     },
     {
+      "id": "81397da4-f326-44e8-828b-b2c051101d9a",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-samiron/",
+      "imageId": "103742b7-38b7-49e8-a3e3-da64555b28cd",
       "name": "Prof. Dr. Samiron",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General & Advanced Laparoscopic Surgeon",
@@ -2684,11 +3261,14 @@
         "hospital": "BIRDEM Specialized Chamber Complex",
         "address": "Main Building, 122, Kazi Nazrul Islam Avenue, Shahbag, Dhaka",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8802-9661551"
-      },
-      "id": "3eb26601-3c8d-46b2-b075-537dd2bda5fe"
+        "appointmentNumber": "+8802-9661551Call Now"
+      }
     },
     {
+      "id": "5f892da1-067b-4a31-b885-116a38a43a59",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/dr-bakhtiar-ahmed/",
+      "imageId": "68e1c86d-2e3d-4731-aae0-22a55183213a",
       "name": "Dr. Bakhtiar Ahmed",
       "degree": "MBBS, MPH, FCPS (Surgery)",
       "specialty": "General & Laparoscopic Specialist Surgeon",
@@ -2698,11 +3278,14 @@
         "hospital": "BIRDEM Specialized Chamber Complex",
         "address": "Main Building, 122, Kazi Nazrul Islam Avenue, Shahbag, Dhaka",
         "visitingTime": "2pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801711235595"
-      },
-      "id": "60b3bcc4-795a-4edb-a306-b7738406bd1c"
+        "appointmentNumber": "+8801711235595Call Now"
+      }
     },
     {
+      "id": "a4fcac17-41b3-4086-99bc-d24ee8908a2f",
+      "departmentId": "970aae23-760a-4f8b-bfeb-c92761eb3e8a",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-ezharul-haque/",
+      "imageId": "981b27db-94a8-46db-9e66-7a711d0a36cf",
       "name": "Prof. Dr. Md. Ezharul Haque",
       "degree": "MBBS, C.Med, MS (Surgery)",
       "specialty": "General & Advanced Laparoscopic Surgeon",
@@ -2712,9 +3295,8 @@
         "hospital": "BIRDEM Specialized Chamber Complex",
         "address": "Main Building, 122, Kazi Nazrul Islam Avenue, Shahbag, Dhaka",
         "visitingTime": "4pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801671828876"
-      },
-      "id": "15e86259-e49e-4478-91b8-5879ebab2956"
+        "appointmentNumber": "+8801671828876Call Now"
+      }
     }
   ]
 }

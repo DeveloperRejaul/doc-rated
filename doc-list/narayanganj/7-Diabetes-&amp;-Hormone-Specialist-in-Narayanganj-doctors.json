@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "d394b553-09e4-460c-9ab9-837120ede435",
+      "departmentId": "d2c61a9b-08c8-42f0-86ca-68797af9a222",
+      "link": "https://www.doctorbangladesh.com/dr-anjana-saha/",
+      "imageId": "c9751533-8d15-4e1a-be4e-a1f7207a3811",
       "name": "Dr. Anjana Saha",
       "degree": "MBBS, BCS (Health), MD (Endocrinology)",
       "specialty": "Diabetes, Thyroid & Hormonal Diseases Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "4pm to 8pm (Sun & Tue) & 9am to 1:30pm (Friday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "7832399b-b941-4700-8f5d-262a8b68579c"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "f5b162ef-fd05-40ad-bbe0-9747b4fa8b7a",
+      "departmentId": "d2c61a9b-08c8-42f0-86ca-68797af9a222",
+      "link": "https://www.doctorbangladesh.com/dr-md-kazi-ashraful-alam/",
+      "imageId": "57831e2b-3b20-492a-9da8-3109d1ce5430",
       "name": "Dr. Md. Kazi Ashraful Alam",
       "degree": "MBBS, MD (Endocrinology)",
       "specialty": "Diabetes, Thyroid & Hormone Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "efb809a1-ba0a-446d-8965-4fe3265e0c56"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "b56e4032-7816-43ba-b114-ed70baa92349",
+      "departmentId": "d2c61a9b-08c8-42f0-86ca-68797af9a222",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-shakhawat-hossain/",
+      "imageId": "47cac639-6dd1-4833-b685-85ed52a86168",
       "name": "Dr. Muhammad Shakhawat Hossain",
       "degree": "MBBS, DEM (BIRDEM)",
       "specialty": "Diabetes, Thyroid & Hormone Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "5pm to 8pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "6550a014-b59d-4d26-8ded-048f1fabb5d4"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "096ad135-a7ac-4abb-9ec7-f4a4d51a523e",
+      "departmentId": "d2c61a9b-08c8-42f0-86ca-68797af9a222",
+      "link": "https://www.doctorbangladesh.com/dr-md-nurul-amin-dipu/",
+      "imageId": "bfa3116f-bd32-4874-beee-7276f3659cd0",
       "name": "Dr. Md. Nurul Amin Dipu",
       "degree": "MBBS, DEM (BIRDEM)",
       "specialty": "Diabetes, Thyroid & Hormone Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "69e6018a-b0b5-412b-b184-ad75e83c57d8"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "667fad3c-0e08-4fdb-8150-3d8a8be99731",
+      "departmentId": "d2c61a9b-08c8-42f0-86ca-68797af9a222",
+      "link": "https://www.doctorbangladesh.com/dr-alamgir-hossain/",
+      "imageId": "582f109a-4650-438f-a994-ef09c9f5732d",
       "name": "Dr. Alamgir Hossain",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), DEM, MRCP (UK)",
       "specialty": "Medicine, Hormone & Diabetes Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "7.30pm to 9pm (Mon & Wed) & 4pm to 8pm (Friday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "14550677-dbda-47f3-8b75-fc897c588351"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "e6f2a5b6-cc36-43ab-b79b-c5751d06863e",
+      "departmentId": "d2c61a9b-08c8-42f0-86ca-68797af9a222",
+      "link": "https://www.doctorbangladesh.com/dr-rezwana-laboni/",
+      "imageId": "19f3bc7a-9940-4c4c-a356-a3ed21061460",
       "name": "Dr. Rezwana Laboni",
       "degree": "MBBS, BCS (Health), MD (Endocrinology)",
       "specialty": "Endocrinology (Diabetes, Thyroid & Hormone) Specialist",
@@ -80,9 +99,8 @@
         "hospital": "Modern Diagnostic Center, Narayanganj",
         "address": "BJA Babhan, Bangabandhu Road, Chashara, Narayanganj",
         "visitingTime": "2pm to 6pm (Every Monday)",
-        "appointmentNumber": "+8801820842293"
-      },
-      "id": "d393019a-222e-4bd1-adb5-a7563554bea5"
+        "appointmentNumber": "+8801820842293Call Now"
+      }
     }
   ]
 }

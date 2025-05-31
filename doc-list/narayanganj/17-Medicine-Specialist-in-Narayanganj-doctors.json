@@ -1,20 +1,27 @@
 {
   "doctor": [
     {
+      "id": "16812def-a1d9-46b1-aaa2-e94ea31c05d1",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-mostafizur-rahman/",
+      "imageId": "852b4222-6866-44ff-864f-756d746ff895",
       "name": "Prof. Dr. Md. Mostafizur Rahman",
       "degree": "MBBS, FCPS (Medicine), FRCP (UK), FCCP (USA)",
       "specialty": "Medicine Specialist",
       "workplace": "Anwer Khan Modern Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, Bangabandhu Road, Chashara, Narayanganj – 1400\nVisiting Hour: 9am to 5pm (Closed: Thu & Fri)\nAppointment: +8809666787804\nCall Now",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, Bangabandhu Road, Chashara, Narayanganj – 1400 Visiting Hour: 9am to 5pm (Closed: Thu & Fri) Appointment: +8809666787804 Call Now",
       "chamber": {
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "9am to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801757138425"
-      },
-      "id": "043ba314-e1b3-4fe2-ba14-0ca3b778d797"
+        "appointmentNumber": "+8801757138425Call Now"
+      }
     },
     {
+      "id": "467d6754-adf2-4cd2-a7fd-6351ae42b70f",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/prof-dr-sk-md-abu-zafar/",
+      "imageId": "08188acb-fc83-4c7b-976b-8298b6d95c88",
       "name": "Prof. Dr. Sk. Md. Abu Zafar",
       "degree": "MBBS, FCPS (Medicine), FCCP, FACP (USA)",
       "specialty": "Medicine Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "10am to 12pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "2cc9de32-b6db-4ee3-bcc4-14822eac812f"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "94504f35-a855-4e6f-9c5e-0b8723d0de36",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/prof-dr-sanjoy-kumar-saha/",
+      "imageId": "1163f90c-4e01-4f85-b0a5-d95f53ccfd50",
       "name": "Prof. Dr. Sanjoy Kumar Saha",
       "degree": "MBBS, FCPS (Medicine)",
       "specialty": "Medicine (All Diseases) Specialist",
@@ -38,25 +48,31 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "10am to 12:30pm (Mon, Wed & Friday), 7pm to 9pm (Everyday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "8ee0db92-95df-427c-ab83-c1c26e2d5f25"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "0cbb292d-ef07-4ba2-893f-b6420b8082af",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-akm-humayun-kabir/",
+      "imageId": "e95c2ede-e3d2-4cd1-aec8-73b4f2254528",
       "name": "Dr. AKM Humayun Kabir",
       "degree": "MBBS (DMC), MCPS (Medicine), FCPS (Medicine)",
       "specialty": "Medicine Specialist",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, B.B. Road, Chashara, Narayanganj – 1400\nVisiting Hour: 3pm to 10pm (Sat, Mon & Wed)\nAppointment: +8809666787804\nCall Now",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, B.B. Road, Chashara, Narayanganj – 1400 Visiting Hour: 3pm to 10pm (Sat, Mon & Wed) Appointment: +8809666787804 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Shantinagar",
         "address": "Unit # 01, House # 11, Shantinagar, Motijheel, Dhaka",
         "visitingTime": "6pm to 9pm (Sun, Tue, Thu & Fri)",
-        "appointmentNumber": "+8809666787803"
-      },
-      "id": "ae506e02-69ea-41f8-8595-99ae224b7804"
+        "appointmentNumber": "+8809666787803Call Now"
+      }
     },
     {
+      "id": "835b489c-6e00-47d4-ac49-5c1fb4e93240",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-anwarul-bari/",
+      "imageId": "8701834e-cb88-48c1-adb0-642f1cfe2014",
       "name": "Dr. Mohammad Anwarul Bari",
       "degree": "MBBS (DMC), FCPS (Medicine), FACP (USA)",
       "specialty": "Medicine Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Medinova Medical Services, Narayanganj",
         "address": "145, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801913119989"
-      },
-      "id": "bddab183-0f5d-451c-9dae-9e3fac4ac550"
+        "appointmentNumber": "+8801913119989Call Now"
+      }
     },
     {
+      "id": "48c29688-06aa-4ff5-b366-18fd2235ef42",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-ariful-islam/",
+      "imageId": "597f59c0-7eb4-4c22-84f1-329d9c5e6557",
       "name": "Dr. Mohammad Ariful Islam",
       "degree": "MBBS (DMC), FCPS (Medicine), MD (Internal Medicine)",
       "specialty": "Internal Medicine Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "2pm to 9pm (Closed: Sunday), 10am to 9pm (Friday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "bcdf2105-e500-4ee2-9992-a44818fc0121"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "3172987a-676e-42fe-ba2c-1f25e6f827c0",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-sheikh-samsuzzaman/",
+      "imageId": "96fad766-240b-48e4-a3c5-1512709c8f89",
       "name": "Dr. Sheikh Samsuzzaman",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Cardiology)",
       "specialty": "Cardiology, Hypertension, Rheumatic Fever & Medicine Specialist",
@@ -94,11 +116,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "3:30pm to 8pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "8f06393d-6b7d-4f56-a2b1-948febf52c22"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "099d05d1-8500-4dfc-9569-0904e7a1ce04",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-a-h-m-waliur-rahman-sumon/",
+      "imageId": "bb6a2c99-a21a-4cb2-84aa-30f943372cb8",
       "name": "Dr. A.H.M. Waliur Rahman Sumon",
       "degree": "MBBS, BCS (Health), FCPS (Medicine)",
       "specialty": "Medicine Specialist",
@@ -108,11 +133,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "4pm to 9pm (Sat to Thu), 10am to 12:30pm (Friday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "1c172a48-aac0-456f-9f2a-ae4cc1412050"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "20d1d8f6-accf-4fb4-97a6-7c376149efff",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-a-k-m-humayan-kabir/",
+      "imageId": "9b585057-e23b-4079-9e6b-73a8e507c6c0",
       "name": "Dr. A.K.M Humayan Kabir",
       "degree": "MBBS (DMC), MCPS (Medicine), FCPS (Medicine)",
       "specialty": "Medicine Specialist",
@@ -122,11 +150,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "3pm to 9pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "068c4221-e60b-499e-870b-3b8b1340228c"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "1be9e2b7-1333-48bb-b0f6-34beb958b92d",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-dilruba-alam/",
+      "imageId": "3efd168f-a9d9-4cd1-b71f-ed79cc26f3b4",
       "name": "Dr. Dilruba Alam",
       "degree": "MBBS, FCPS (Medicine), CCD (BIRDEM)",
       "specialty": "Medicine & Diabetes Specialist",
@@ -136,11 +167,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "5pm to 8pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "3364d700-57ee-41df-808f-f8f40b821be5"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "4a5ec857-d9f0-4d55-a6bb-80468a403893",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-m-a-mannan-medicine/",
+      "imageId": "37ae0445-de72-412c-9842-d12e1b697fe2",
       "name": "Dr. M. A. Mannan",
       "degree": "MBBS, FCPS (Medicine)",
       "specialty": "Medicine & Rheumatic Fever Specialist",
@@ -150,11 +184,14 @@
         "hospital": "Modern Diagnostic Center, Narayanganj",
         "address": "207, Bangabandhu Road, Chashara, Narayanganj - 1400",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801820842293"
-      },
-      "id": "0f370350-bdb9-4b28-b918-875598817ffe"
+        "appointmentNumber": "+8801820842293Call Now"
+      }
     },
     {
+      "id": "96a15bb6-1f55-44ff-bf6c-b7d85a99fa1e",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-pk-datta-pankaj/",
+      "imageId": "db9943a4-d85e-4fe5-8ee7-2b286bed0db7",
       "name": "Dr. PK Datta (Pankaj)",
       "degree": "MBBS (DMC), BCS (Health), FCPS (Medicine)",
       "specialty": "Medicine Specialist",
@@ -164,11 +201,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "4pm to 8pm (Sun, Tue & Thu), 11am to 8pm (Friday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "9cb6ba4e-1930-47c0-a044-06227210baa5"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "861c7bd7-8795-4733-b0c6-312a1827d28c",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-alamgir-hossain/",
+      "imageId": "6396dcde-f15f-4d0a-96d7-089819706ff7",
       "name": "Dr. Alamgir Hossain",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), DEM, MRCP (UK)",
       "specialty": "Medicine, Hormone & Diabetes Specialist",
@@ -178,11 +218,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "7.30pm to 9pm (Mon & Wed) & 4pm to 8pm (Friday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "13167b45-e276-4228-9f89-109ea9d77607"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "00c85b69-f588-4506-9f8e-02ae160401a4",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-mahbub-hossain/",
+      "imageId": "f26e6663-7790-4941-8d5e-7663dd0d66eb",
       "name": "Dr. Muhammad Mahbub Hossain",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MACP (USA)",
       "specialty": "Medicine Specialist",
@@ -192,11 +235,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "2pm to 7pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "43e8f860-9648-4e30-bdcf-8e23d083be04"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "43176686-3c55-4292-96ff-11a044293647",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-sudip-kumar-das/",
+      "imageId": "37854827-af0c-4885-bfdd-6082f648b4d3",
       "name": "Dr. Sudip Kumar Das",
       "degree": "MBBS, MCPS (Internal Medicine), MD (Critical Care Medicine), MRCP (UK)",
       "specialty": "Internal & Critical Care Medicine Specialist",
@@ -206,11 +252,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "10am to 2pm (Everyday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "e1d96782-471b-41fb-b52a-b786004609ef"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "5969e004-f42c-4c14-b61c-b41334ebe77b",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-shayekh-abdullah/",
+      "imageId": "827931df-2e74-4724-a77e-412d033bd73e",
       "name": "Dr. Mohammad Shayekh Abdullah",
       "degree": "MBBS, BCS (Health), FCPS (Medicine)",
       "specialty": "Medicine Specialist",
@@ -220,11 +269,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "4:30pm to 10pm (Closed: Thursday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "61ef1740-3d65-4d9e-94d5-0202a2a55bdb"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "0051864d-d5e0-496b-9759-b236efcb6309",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-sayed-ullah/",
+      "imageId": "9d64bb51-c3ee-49c1-ac1c-c46ca583d767",
       "name": "Dr. Sayed Ullah",
       "degree": "MBBS, FCPS (Medicine), CCD (BIRDEM), D-CARD, MRCP (UK)",
       "specialty": "Medicine, Cardiology & Diabetes Specialist",
@@ -234,11 +286,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "8pm to 10pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "733d8512-bb8f-4ef1-87d5-52916da6bc74"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "6309a2d5-c3d3-4b98-982d-f07b1f0ab73e",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-a-m-k-saifullah/",
+      "imageId": "2d869b16-8b29-4817-941b-96ee66f4b2b8",
       "name": "Dr. A. M. K. Saifullah",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), FCPS (Pulmonology) (Thesis)",
       "specialty": "Medicine & Chest Diseases Specialist",
@@ -248,11 +303,14 @@
         "hospital": "Medinova Medical Services, Narayanganj",
         "address": "145, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "7pm to 9.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801913119989"
-      },
-      "id": "5008b8c2-9734-48d7-be8d-9f134d103d52"
+        "appointmentNumber": "+8801913119989Call Now"
+      }
     },
     {
+      "id": "30c18ac9-ad9e-4c56-adfc-6eaa74e6e779",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-sharmin-sultana-setu/",
+      "imageId": "b4006ef2-1cd2-444c-b5b4-de59e1842a4c",
       "name": "Dr. Sharmin Sultana Setu",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MACP (USA), CCEBDM (India), CCD (BIRDEM)",
       "specialty": "Medicine & Diabetes Specialist",
@@ -262,11 +320,14 @@
         "hospital": "Medinova Medical Services, Narayanganj",
         "address": "145, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "4pm to 6pm (Only Thursday)",
-        "appointmentNumber": "+8801913119989"
-      },
-      "id": "a0eae3d5-da7d-4e0d-8687-12e3d24dc17c"
+        "appointmentNumber": "+8801913119989Call Now"
+      }
     },
     {
+      "id": "c8e5f598-8bb9-44bc-b5f0-8751941a4f44",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-krishna-pada-banik/",
+      "imageId": "537a08d3-6e86-4ed3-97b1-1d35ea7666ad",
       "name": "Dr. Krishna Pada Banik",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), CCD (BIRDEM)",
       "specialty": "Medicine & Diabetes Specialist",
@@ -276,11 +337,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "4pm to 9pm (Sun, Tue & Thu) & 10am to 1pm (Friday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "c53c04a9-03f3-4d41-8d42-7bc2501135dd"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "282ae2be-f93c-424c-9c93-5a9638445cae",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-md-al-amin/",
+      "imageId": "f465a6b6-08f4-4ca4-b16a-e0431e2e7b5a",
       "name": "Dr. Md. Al-Amin",
       "degree": "MBBS, BCS (Health), FCPS (Medicine)",
       "specialty": "Medicine Specialist",
@@ -290,11 +354,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "5pm to 8pm (Mon, Thu & Friday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "32edc703-7d5b-4ebf-b39f-fa501c9a53c8"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "f1b9c975-a108-4456-a549-daaddab60a31",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-kazi-shihab-uddin-ibrahim/",
+      "imageId": "25c6b65a-f3e7-4291-9ef7-51d05a6841a1",
       "name": "Dr. Quazi Shihab Uddin Ibrahim",
       "degree": "MBBS, FCPS (Medicine)",
       "specialty": "Medicine (All Diseases) Specialist",
@@ -304,11 +371,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "5pm to 8pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "8faa0193-bb4f-4cb1-901f-d3a9c1cf9235"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "feac0946-4818-496c-a6a0-caf5b2b8c6d1",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-marshia-rahman-mitu/",
+      "imageId": "159194b4-dc73-4c18-a596-d524884553f8",
       "name": "Dr. Marshia Rahman Mitu",
       "degree": "MBBS (DMC), BCS (Health), FCPS (Medicine)",
       "specialty": "Medicine Specialist",
@@ -318,11 +388,14 @@
         "hospital": "Medinova Medical Services, Narayanganj",
         "address": "145, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "5pm to 8pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801913119989"
-      },
-      "id": "e63e41e9-f0b2-400a-86c2-523f22dc67b2"
+        "appointmentNumber": "+8801913119989Call Now"
+      }
     },
     {
+      "id": "da82af68-2027-4d4e-9f76-a1fbbd828d13",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-shamsuddoha-sarkar-sanchoy/",
+      "imageId": "c7f62c5a-e48c-468b-b69a-73b2f630a5d1",
       "name": "Dr. Shamsuddoha Sarkar Sanchoy",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MACP (USA), CCD (BIRDEM)",
       "specialty": "Medicine, Chest Diseases & Diabetes Specialist",
@@ -332,11 +405,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "6pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "2b151606-1180-491d-b362-6d17caca3659"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "93ff8eb6-6f46-4333-a1d3-8df8b25b809f",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-khandaker-anwar-kadir-darpan/",
+      "imageId": "d6c64f71-2c22-4e8a-8e67-922813469c08",
       "name": "Dr. Khandaker Anwar Kadir (Darpan)",
       "degree": "MBBS (Dhaka), CCD (BIRDEM), BCS (Health), FCGP (Medicine), MD (BSMMU)",
       "specialty": "Medicine & Diabetes Specialist",
@@ -346,11 +422,14 @@
         "hospital": "Modern Diagnostic Center, Narayanganj",
         "address": "207, Bangabandhu Road, Chashara, Narayanganj - 1400",
         "visitingTime": "11am to 1pm & 5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801820842293"
-      },
-      "id": "2f9098c3-597b-4b9f-a8de-adf916b891ef"
+        "appointmentNumber": "+8801820842293Call Now"
+      }
     },
     {
+      "id": "b6a8a8df-79d4-4cc0-a4ea-acb0181a3fe1",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-wasif-chisty/",
+      "imageId": "82007185-adf4-4251-ab82-d903ab6f8374",
       "name": "Dr. Wasif Chisty",
       "degree": "MBBS, BCS (Health), MCPS (Medicine), MD (Pulmonology - Phase B)",
       "specialty": "Medicine Specialist & Pulmonologist",
@@ -360,11 +439,14 @@
         "hospital": "Medinova Medical Services, Narayanganj",
         "address": "Room 426 (Lift 3), 145, Bangabandhu Road, Chashara, Narayanganj",
         "visitingTime": "6pm to 9pm (Sun, Mon & Wednesday)",
-        "appointmentNumber": "+8801687417873"
-      },
-      "id": "8ba20471-4e4a-4410-a784-1c05b047561b"
+        "appointmentNumber": "+8801687417873Call Now"
+      }
     },
     {
+      "id": "22f2c44d-20af-4e9c-a966-efedb1047d4b",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-nur-faysal-ahmmed/",
+      "imageId": "be9d0271-b809-4a03-a360-a0f3f4545663",
       "name": "Dr. Nur Faysal Ahmmed",
       "degree": "MBBS, FCPS (Medicine)",
       "specialty": "Medicine Specialist",
@@ -374,11 +456,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Balur Math, Chashara, Narayanganj",
         "visitingTime": "3pm to 11pm (Sat to Thu), 9am to 5pm (Fri)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "96b195df-6cde-4b67-87d6-487872067028"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "d044679d-379c-4bd4-a32c-657540e595bb",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-debabrata-das/",
+      "imageId": "d6989c26-3bb9-49dc-a6c6-92fda8c30579",
       "name": "Dr. Debabrata Das",
       "degree": "MBBS (MMC), BCS (Health), MCPS (Medicine), MD (Medicine)",
       "specialty": "Medicine Specialist",
@@ -388,11 +473,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Balur Math, Chashara, Narayanganj",
         "visitingTime": "3pm to 9pm (Saturday & Wednesday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "3f40c1c2-6e48-48f2-9135-c99966ec0b7a"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "3a4b7548-be0c-4812-b04a-65fde22be55c",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-sultan-mahmud-sumon/",
+      "imageId": "937e5956-fd42-455d-b76c-5b52eea5402a",
       "name": "Dr. Sultan Mahmud Sumon",
       "degree": "MBBS, BCS (Health), FCPS (Medicine)",
       "specialty": "Medicine Specialist",
@@ -402,11 +490,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Balur Math, Chashara, Narayanganj",
         "visitingTime": "2pm to 6pm (Sat, Mon, Wed & Fri)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "8ffb9f71-fe7f-45c7-abb4-83456a84c04a"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "39c2661e-57de-4a01-91ad-a4384d75deab",
+      "departmentId": "ca1c1a24-884c-4555-96c4-19a0f471f42f",
+      "link": "https://www.doctorbangladesh.com/dr-mahbub-hasan-babu/",
+      "imageId": "faac7dca-cbdb-470f-8f07-97107893eb2d",
       "name": "Dr. Mahbub Hasan (Babu)",
       "degree": "MBBS, BCS (Health), FCPS (Medicine)",
       "specialty": "Medicine Specialist",
@@ -416,9 +507,8 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Balur Math, Chashara, Narayanganj",
         "visitingTime": "2.30pm to 6.30pm (Sun, Tue, Thu & Fri)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "8513634f-d781-40fe-b031-a8e785d6758b"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     }
   ]
 }

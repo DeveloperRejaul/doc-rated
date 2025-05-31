@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "2b23c319-484e-4917-bdbf-74b40ad40de6",
+      "departmentId": "82eb633a-16b0-45c7-a501-4a1a19a42136",
+      "link": "https://www.doctorbangladesh.com/prof-dr-n-k-sinha/",
+      "imageId": "1eb731b9-719e-4429-8e84-b602eb036cd7",
       "name": "Prof. Dr. N. K. Sinha",
       "degree": "MBBS, FCPS (ENT), MS (ENT), DLO",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -10,11 +14,14 @@
         "hospital": "Labaid Diagnostic Limited, Sylhet",
         "address": "House # 362-363, New Medical Road, Kajol Shah, Sylhet",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662727"
-      },
-      "id": "a9583c74-afae-4064-943b-3abb39b17cc5"
+        "appointmentNumber": "+8801766662727Call Now"
+      }
     },
     {
+      "id": "e6f51991-b144-4fbc-b154-27b122903d8d",
+      "departmentId": "82eb633a-16b0-45c7-a501-4a1a19a42136",
+      "link": "https://www.doctorbangladesh.com/dr-nurul-huda-naeem/",
+      "imageId": "36e07fb7-d7dd-4d29-8216-fd8ff6b3cda3",
       "name": "Dr. Nurul Huda Nayeem",
       "degree": "MBBS, BCS (Health), FCPS (ENT), MCPS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Laser Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "NJL ENT Centre",
         "address": "15, Kajolshah (Opposite to Labaid Sylhet), Sylhet",
         "visitingTime": "4pm to 12am (Closed: Friday)",
-        "appointmentNumber": "+8801767228844Ticket: 01743437555"
-      },
-      "id": "cf5287dd-a792-4262-aaff-512c68656673"
+        "appointmentNumber": "+8801767228844Ticket: 01743437555Call Now"
+      }
     },
     {
+      "id": "0a0bb87e-d7b1-44eb-aa55-f3d7f2826813",
+      "departmentId": "82eb633a-16b0-45c7-a501-4a1a19a42136",
+      "link": "https://www.doctorbangladesh.com/dr-hritu-raj-deb/",
+      "imageId": "2e794d31-6015-4125-8515-7f3b2926430c",
       "name": "Dr. Hritu Raj Deb",
       "degree": "MBBS, DLO (BSMMU)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -38,11 +48,14 @@
         "hospital": "Trust Medical Services, Sylhet",
         "address": "16, Modhushahid, New Medical Road, Sylhet - 3100",
         "visitingTime": "4pm to 9pm(Closed: Friday)",
-        "appointmentNumber": "+8801725365240"
-      },
-      "id": "f48c240b-0348-490c-a331-8df4eddb112c"
+        "appointmentNumber": "+8801725365240Call Now"
+      }
     },
     {
+      "id": "8c77987b-8e08-485e-805c-6148565b74b1",
+      "departmentId": "82eb633a-16b0-45c7-a501-4a1a19a42136",
+      "link": "https://www.doctorbangladesh.com/prof-dr-s-s-a-al-mahmud-sadi/",
+      "imageId": "eb535027-29bf-4b42-9d8e-0f4c8855c4ef",
       "name": "Prof. Dr. S.S.A Al-Mahmud Sadi",
       "degree": "MBBS, FCPS (ENT), MS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -52,25 +65,31 @@
         "hospital": "Ibn Sina Hospital, Sylhet",
         "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
         "visitingTime": "Evening (Closed: Friday)",
-        "appointmentNumber": "+8809610009640"
-      },
-      "id": "e407f65d-a1ab-4340-88cf-c83b8732c301"
+        "appointmentNumber": "+8809610009640Call Now"
+      }
     },
     {
+      "id": "2778659d-cf69-4af3-afde-33b9f6be353a",
+      "departmentId": "82eb633a-16b0-45c7-a501-4a1a19a42136",
+      "link": "https://www.doctorbangladesh.com/dr-md-azizul-hoque-manik/",
+      "imageId": "17968657-991c-4f5a-956e-86355d4a5965",
       "name": "Dr. Md. Azizul Hoque Manik",
       "degree": "MBBS, BCS (Health), DLO, MCPS, FCPS (ENT), Fellowship Trainee (Head Neck Surgery)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Popular Medical Center & Hospital, Sylhet\nAddress: Subhanighat, Sylhet\nVisiting Hour: 6.30pm to 8pm (Only Wednesday)\nAppointment: +8801773035138\nCall Now",
+      "info": "Popular Medical Center & Hospital, Sylhet Address: Subhanighat, Sylhet Visiting Hour: 6.30pm to 8pm (Only Wednesday) Appointment: +8801773035138 Call Now",
       "chamber": {
         "hospital": "SIBL Foundation Hospital & Diagnostic Center",
         "address": "Fattah Plaza, 70, Green Road, Panthapath, Dhaka - 1205",
         "visitingTime": "4pm to 6pm (Saturday to Tuesday)",
-        "appointmentNumber": "+8801750-905927"
-      },
-      "id": "120f966c-6050-4b9a-8134-2dc1c56ae779"
+        "appointmentNumber": "+8801750-905927Call Now"
+      }
     },
     {
+      "id": "024eb459-17c2-4bd0-a646-a0dc1682cce3",
+      "departmentId": "82eb633a-16b0-45c7-a501-4a1a19a42136",
+      "link": "https://www.doctorbangladesh.com/dr-md-mofakkarul-islam/",
+      "imageId": "c6170bc8-dd34-4cdf-bc9e-d985862b2562",
       "name": "Dr. Md. Mofakkarul Islam",
       "degree": "MBBS, DLO (DMC), MCPS (ENT), Fellowship in Clinical Otology (Pune, India)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -80,11 +99,14 @@
         "hospital": "Oasis Hospital, Sylhet",
         "address": "Bishwa Road, Subhanighat, Sylhet Sadar, Sylhet - 3100",
         "visitingTime": "5pm to 10pm (Everyday)",
-        "appointmentNumber": "+8801763990044"
-      },
-      "id": "56f06264-eaa7-4c82-8481-6b4fa8e9b51e"
+        "appointmentNumber": "+8801763990044Call Now"
+      }
     },
     {
+      "id": "f9f9aa69-e092-4e75-8822-9d435fdfaad0",
+      "departmentId": "82eb633a-16b0-45c7-a501-4a1a19a42136",
+      "link": "https://www.doctorbangladesh.com/dr-md-mozammel-haque-faruk/",
+      "imageId": "5cb02b68-ee6d-4759-9178-e38e3eb95ae4",
       "name": "Prof. Dr. Md. Mozammel Haque (Faruk)",
       "degree": "MBBS, FCPS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -94,11 +116,14 @@
         "hospital": "Ibn Sina Hospital, Sylhet",
         "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009640"
-      },
-      "id": "248e182f-2100-4c76-b9e2-5528c0d7c7c4"
+        "appointmentNumber": "+8809610009640Call Now"
+      }
     },
     {
+      "id": "1f37f0de-7063-4394-9e0b-27de5cf41e69",
+      "departmentId": "82eb633a-16b0-45c7-a501-4a1a19a42136",
+      "link": "https://www.doctorbangladesh.com/dr-krishna-kanta-bhowmik/",
+      "imageId": "f278637a-5cd9-45d1-a172-3e36783d5ed4",
       "name": "Dr. Krishna Kanta Bhowmik",
       "degree": "MBBS, BCS (Health), FCPS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -108,11 +133,14 @@
         "hospital": "Labaid Diagnostic Limited, Sylhet",
         "address": "House # 362-363, New Medical Road, Kajol Shah, Sylhet",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662727"
-      },
-      "id": "01f943ee-c464-43d4-bd8a-39c7edb7dc67"
+        "appointmentNumber": "+8801766662727Call Now"
+      }
     },
     {
+      "id": "2fad7b51-191d-4a34-a233-9dd5c5dcbcd4",
+      "departmentId": "82eb633a-16b0-45c7-a501-4a1a19a42136",
+      "link": "https://www.doctorbangladesh.com/dr-m-a-quayum-ansari/",
+      "imageId": "3c769b36-a913-46d3-89c3-0c85989fc7de",
       "name": "Dr. M. A. Quayum Ansari",
       "degree": "MBBS, BCS (Health), DLO (BSMMU), FCPS (ENT)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -122,11 +150,14 @@
         "hospital": "Al Haramain Hospital, Sylhet",
         "address": "Samato-30, Chali Bandar, Bishwa Road, Subhani Ghat, Sylhet",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801931225555"
-      },
-      "id": "2b6f0df7-e0eb-4211-98de-9ad25aae9210"
+        "appointmentNumber": "+8801931225555Call Now"
+      }
     },
     {
+      "id": "751d22d5-16e7-44fe-96f3-dfbef1729b68",
+      "departmentId": "82eb633a-16b0-45c7-a501-4a1a19a42136",
+      "link": "https://www.doctorbangladesh.com/prof-dr-shameem-anwarul-hoque/",
+      "imageId": "834f7d58-8257-4006-a72d-5ee137b78f0b",
       "name": "Prof. Dr. Shameem Anwarul Hoque",
       "degree": "MBBS, FCPS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -136,25 +167,31 @@
         "hospital": "Popular Medical Center, Sylhet",
         "address": "New Medical Road, Kajolshah, Sylhet - 3100",
         "visitingTime": "4pm to 9pm (Monday & Tuesday) & 9am to 12pm (Wednesday)",
-        "appointmentNumber": "+8801715084078"
-      },
-      "id": "9147a106-8571-4e47-bd68-f7c40c726678"
+        "appointmentNumber": "+8801715084078Call Now"
+      }
     },
     {
+      "id": "a5a9cddb-35a0-45e1-8f1e-fbacacd01743",
+      "departmentId": "82eb633a-16b0-45c7-a501-4a1a19a42136",
+      "link": "https://www.doctorbangladesh.com/prof-dr-kazi-aktar-uddin/",
+      "imageId": "6d0871b2-cc0f-4191-84cd-61250181d1af",
       "name": "Prof. Dr. Kazi Aktar Uddin",
       "degree": "MBBS, DLO (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
       "workplace": "North East Medical College & Hospital",
-      "info": "North East Medical College & Hospital\nAddress: Gohorpur Road, South Surma, Sylhet – 3100\nVisiting Hour: 10am to 1.30pm (Closed: Friday)\nAppointment: +8801715944733\nCall Now",
+      "info": "North East Medical College & Hospital Address: Gohorpur Road, South Surma, Sylhet – 3100 Visiting Hour: 10am to 1.30pm (Closed: Friday) Appointment: +8801715944733 Call Now",
       "chamber": {
         "hospital": "Stadium Market, Sylhet",
         "address": "Stadium Market, Lamabazar Road, Rikabi Bazar, Sylhet",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801716295682"
-      },
-      "id": "e2abb478-4de0-4e06-8602-bca32d5a695d"
+        "appointmentNumber": "+8801716295682Call Now"
+      }
     },
     {
+      "id": "242c36ce-ea3f-4dbe-bcc9-11aa118d80cf",
+      "departmentId": "82eb633a-16b0-45c7-a501-4a1a19a42136",
+      "link": "https://www.doctorbangladesh.com/dr-mukhlesur-rahman-shamim/",
+      "imageId": "3676ed31-a99c-498c-a391-156bfa4b2cfb",
       "name": "Dr. Mukhlesur Rahman Shamim",
       "degree": "MBBS (Dhaka), BCS (Health), DLO (BSMMU), FCPS (ENT)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -164,11 +201,14 @@
         "hospital": "Popular Medical Center, Sylhet",
         "address": "New Medical Road, Kajolshah, Sylhet - 3100",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801733674127"
-      },
-      "id": "76be220a-e26f-474c-9bb8-ea280f9b9da4"
+        "appointmentNumber": "+8801733674127Call Now"
+      }
     },
     {
+      "id": "15fa565c-e417-47bd-a751-b99e55924da5",
+      "departmentId": "82eb633a-16b0-45c7-a501-4a1a19a42136",
+      "link": "https://www.doctorbangladesh.com/dr-m-s-rahman-shameem/",
+      "imageId": "e4cfd460-c27d-4611-a74b-e2a56fdb53f5",
       "name": "Dr. M.S. Rahman Shameem",
       "degree": "MBBS, DLO, FCPS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -178,11 +218,14 @@
         "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
         "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
         "visitingTime": "5:30pm to 8:30pm (Sat, Sun, Mon & Wednesday)",
-        "appointmentNumber": "+8801724455152"
-      },
-      "id": "d2bcdf2b-5a95-48d1-9a9c-3c6c5d446065"
+        "appointmentNumber": "+8801724455152Call Now"
+      }
     },
     {
+      "id": "201d3814-df22-4b13-bc1f-a1fea2646164",
+      "departmentId": "82eb633a-16b0-45c7-a501-4a1a19a42136",
+      "link": "https://www.doctorbangladesh.com/dr-sushanta-singha/",
+      "imageId": "122bb37e-fe98-4e9c-a1e5-5b3d7f93ed3f",
       "name": "Dr. Sushanta Singha",
       "degree": "MBBS, BCS (Health), FCPS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -192,11 +235,14 @@
         "hospital": "Comfort Medical Services, Sylhet",
         "address": "17, New Medical Road, Kajolshah, Sylhet - 3100",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801730585050"
-      },
-      "id": "d10a1ae5-2256-4fd0-b174-3aa127d02834"
+        "appointmentNumber": "+8801730585050Call Now"
+      }
     },
     {
+      "id": "32e621af-8a6e-4332-8715-957d17edd137",
+      "departmentId": "82eb633a-16b0-45c7-a501-4a1a19a42136",
+      "link": "https://www.doctorbangladesh.com/dr-md-shah-kamal/",
+      "imageId": "4e39bba2-eb7b-4ca9-81be-0c3004a92e8b",
       "name": "Dr. Md. Shah Kamal",
       "degree": "MBBS (Dhaka), BCS (Health), DLO (BSMMU), FCPS (ENT)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
@@ -206,11 +252,14 @@
         "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
         "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801706151852"
-      },
-      "id": "75a24762-09af-4b1c-bdf0-44df0865e191"
+        "appointmentNumber": "+8801706151852Call Now"
+      }
     },
     {
+      "id": "5c2ec04a-b603-4dfd-939e-4fa2c54955d1",
+      "departmentId": "82eb633a-16b0-45c7-a501-4a1a19a42136",
+      "link": "https://www.doctorbangladesh.com/dr-syed-nafi-mahdee/",
+      "imageId": "f9580797-d1fa-494b-945b-bcbe3780fbe7",
       "name": "Dr. Syed Nafi Mahdee",
       "degree": "MBBS, BCS (Health), FCPS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -220,11 +269,14 @@
         "hospital": "Mount Adora Hospital, Nayasarak, Sylhet",
         "address": "Nayasarak Road, Mirboxtula, Nayasarak, Sylhet - 3100",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801761666768"
-      },
-      "id": "d64073c6-b2d7-4e2b-90ef-0286e8608923"
+        "appointmentNumber": "+8801761666768Call Now"
+      }
     },
     {
+      "id": "f591f3e6-b7a1-4cd3-89eb-bfff6d937a8e",
+      "departmentId": "82eb633a-16b0-45c7-a501-4a1a19a42136",
+      "link": "https://www.doctorbangladesh.com/dr-rafiul-azam-ghoree/",
+      "imageId": "de14ac3e-c702-401a-bc23-8bf0f71d4c82",
       "name": "Dr. Rafiul Azam Ghoree",
       "degree": "MBBS, BCS (Health), DLO (DMC)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -234,11 +286,14 @@
         "hospital": "Ideal Computerized Diagnostic Center",
         "address": "Madan Mohan College Road, Rikabi Bazar, Sylhet",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801747298867"
-      },
-      "id": "831a031c-7be4-4676-87f1-e99430307017"
+        "appointmentNumber": "+8801747298867Call Now"
+      }
     },
     {
+      "id": "5a29b7b0-689c-45e6-9ec0-5e48e4aa929a",
+      "departmentId": "82eb633a-16b0-45c7-a501-4a1a19a42136",
+      "link": "https://www.doctorbangladesh.com/dr-bichitra-kumar-dey/",
+      "imageId": "79ed2f98-af8c-44ec-900c-c51b365cc652",
       "name": "Dr. Bicithra Kumar Dey",
       "degree": "MBBS, FCPS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Surgeon",
@@ -248,11 +303,14 @@
         "hospital": "Labaid Diagnostic Limited, Sylhet",
         "address": "House # 362-363, New Medical Road, Kajol Shah, Sylhet",
         "visitingTime": "5pm to 9pm (Sat, Sun & Tue)",
-        "appointmentNumber": "+8801766662727"
-      },
-      "id": "69733163-00bd-4570-bd90-dadfe10cd69a"
+        "appointmentNumber": "+8801766662727Call Now"
+      }
     },
     {
+      "id": "360bf043-64f0-4245-8d8a-8f16902f1a5c",
+      "departmentId": "82eb633a-16b0-45c7-a501-4a1a19a42136",
+      "link": "https://www.doctorbangladesh.com/dr-md-azadur-rahman/",
+      "imageId": "e70b17cf-4e8d-403c-a2b4-cd682815a5f0",
       "name": "Dr. Md. Azadur Rahman",
       "degree": "MBBS, DLO (BSMMU), Higher Training (UK)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -262,25 +320,31 @@
         "hospital": "Medi-Aid Diagnostic & Consultation Center",
         "address": "Medical College Road, Modhushohid, Rikabi Bazar, Sylhet - 3100",
         "visitingTime": "6pm to 8.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801711275902"
-      },
-      "id": "1909b214-a1b7-4916-bf7b-331445a91daf"
+        "appointmentNumber": "+8801711275902Call Now"
+      }
     },
     {
+      "id": "a4379b46-d8d7-470b-aba5-d3eec59adea2",
+      "departmentId": "82eb633a-16b0-45c7-a501-4a1a19a42136",
+      "link": "https://www.doctorbangladesh.com/dr-debashis-basu/",
+      "imageId": "7d208f1b-7c85-4983-9a2e-630e5c2bc902",
       "name": "Dr. Debashis Basu",
       "degree": "MBBS, BCS (Health), DLO (BSMMU), MS (ENT, BSMMU)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
       "workplace": "Sylhet MAG Osmani Medical College & Hospital",
-      "info": "Queen’s Hospital, Sylhet\nAddress: Subid Bazar, Sylhet\nVisiting Hour: 4pm to 5pm (Closed: Friday)\nAppointment: +8801730700898\nCall Now",
+      "info": "Queen’s Hospital, Sylhet Address: Subid Bazar, Sylhet Visiting Hour: 4pm to 5pm (Closed: Friday) Appointment: +8801730700898 Call Now",
       "chamber": {
         "hospital": "ABC Diagnostic Center",
         "address": "Chowhatta, Sylhet",
         "visitingTime": "1.50pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801776002888"
-      },
-      "id": "58840d70-006f-4bc9-8ad1-bd05f92b2ae3"
+        "appointmentNumber": "+8801776002888Call Now"
+      }
     },
     {
+      "id": "70ba2f8d-152c-430c-9520-c8c9c65accf5",
+      "departmentId": "82eb633a-16b0-45c7-a501-4a1a19a42136",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-harunur-rashid/",
+      "imageId": "bf72d9e7-5665-4835-af42-a11558918c9b",
       "name": "Prof. Dr. Md. Harunur Rashid",
       "degree": "MBBS, DLO",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -290,9 +354,8 @@
         "hospital": "Harunur Rashid Chamber",
         "address": "51, Stadium Market (1st Floor, East Side), Sylhet",
         "visitingTime": "5pm to 7.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801715018791"
-      },
-      "id": "080a2943-b953-4c9a-a8f4-543ece4e9904"
+        "appointmentNumber": "+8801715018791Call Now"
+      }
     }
   ]
 }

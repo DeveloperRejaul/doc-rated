@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "4a35a77d-787d-4d15-9c2d-9a8291485b9d",
+      "departmentId": "852fd6f8-5bdd-4c90-9c7c-a78e9f43960c",
+      "link": "https://www.doctorbangladesh.com/prof-col-dr-md-nasir-uddin-mahmud/",
+      "imageId": "394a1e18-5ede-4ffa-9e5d-bb2d13bf7f67",
       "name": "Prof. Col. Dr. Md. Nasir Uddin (Mahmud)",
       "degree": "MBBS, FCPS (Surgery), FACS (USA), FMAS (India)Gold Medalist in FCPS (Surgery)",
       "specialty": "Surgical Oncologist & Oncoplastic Breast Surgeonটিউমার এবং ক্যান্সার সার্জারি বিশেষজ্ঞ",
@@ -10,11 +14,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "Room 283, House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "6pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "e92eef14-4110-4a04-85c6-03b15dc67595"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "a0e9ae9a-e2fa-4dca-988c-7f1e1287f4cb",
+      "departmentId": "852fd6f8-5bdd-4c90-9c7c-a78e9f43960c",
+      "link": "https://www.doctorbangladesh.com/dr-md-rashidul-hoq/",
+      "imageId": "8194a846-f601-497f-82f7-dce9b893683c",
       "name": "Dr. Md. Rashidul Hoq",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Endo-Laparoscopic / Specialist Hermia & AWR Surgeon / Trained Cancer Surgeon",
@@ -24,39 +31,48 @@
         "hospital": "Dhaka Cancer & General Hospital",
         "address": "House 71/1, Road 15/A, Shankar Bus Stand, Satmasjid Road, Dhaka",
         "visitingTime": "5pm to 7pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801797619959"
-      },
-      "id": "8f546fcc-b8d7-4a03-b8b2-1ed88a5afc33"
+        "appointmentNumber": "+8801797619959Call Now"
+      }
     },
     {
+      "id": "a365e56c-d6f7-4201-bd7e-bf114564271e",
+      "departmentId": "852fd6f8-5bdd-4c90-9c7c-a78e9f43960c",
+      "link": "https://www.doctorbangladesh.com/dr-kallol-dey/",
+      "imageId": "62d3e145-1c21-45c0-b770-893aa7b5cd6e",
       "name": "Dr. Kallol Dey",
       "degree": "MBBS, BCS (Health), FCPS (Surgery), MS (Surgical Oncology)",
       "specialty": "Surgical Oncologist (Cancer Surgeon), Laparoscopic & General Surgeon",
       "workplace": "National Institute of Cancer Research & Hospital, Mohakhali, Dhaka",
-      "info": "Medinet Medical Services, Mirpur\nAddress: Plot No. 1,2,3, BNSB Bhobon, Kalwalapara, Mirpur-1, Dhaka\nVisiting Hour: 7pm to 9pm (Sun, Tue & Thu)\nAppointment: +8801828552400\nCall Now",
+      "info": "Medinet Medical Services, Mirpur Address: Plot No. 1,2,3, BNSB Bhobon, Kalwalapara, Mirpur-1, Dhaka Visiting Hour: 7pm to 9pm (Sun, Tue & Thu) Appointment: +8801828552400 Call Now",
       "chamber": {
         "hospital": "Delta Hospital, Mirpur",
         "address": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka – 1216",
         "visitingTime": "5pm to 7pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801828552400"
-      },
-      "id": "7b25a139-18cd-4323-b4cd-843e61d916ac"
+        "appointmentNumber": "+8801828552400Call Now"
+      }
     },
     {
+      "id": "d098a757-88f5-46e0-ab46-856b44e75c6c",
+      "departmentId": "852fd6f8-5bdd-4c90-9c7c-a78e9f43960c",
+      "link": "https://www.doctorbangladesh.com/dr-md-ekramul-haque-joarder/",
+      "imageId": "f493f9b4-ee9c-4873-b87e-c32690249703",
       "name": "Dr. Md. Ekramul Haque Joarder",
       "degree": "MBBS, BCS (Health), MS (Surgical Oncology)",
       "specialty": "Cancer Surgery, General & Laparoscopic Surgery Specialist",
       "workplace": "National Institute of Cancer Research & Hospital",
-      "info": "Health Aid Medical Center\nAddress: Hospital Road, Chuadanga\nVisiting Hour: 8am to 6pm (Only Friday)\nAppointment: +8801326881696\nCall Now",
+      "info": "Health Aid Medical Center Address: Hospital Road, Chuadanga Visiting Hour: 8am to 6pm (Only Friday) Appointment: +8801326881696 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Shyamoli",
         "address": "Opposite to Shyamoli Shishu Mela, Babor Road, Mohammadpur, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787806"
-      },
-      "id": "ce4b114d-b7a5-480d-acfa-33dc11691af2"
+        "appointmentNumber": "+8809666787806Call Now"
+      }
     },
     {
+      "id": "fcca5251-a541-4884-8ff5-ce7a40bf6993",
+      "departmentId": "852fd6f8-5bdd-4c90-9c7c-a78e9f43960c",
+      "link": "https://www.doctorbangladesh.com/dr-md-jahangir-kabir-surgeon/",
+      "imageId": "8556e502-deb5-44cf-a36b-9b983f6341ae",
       "name": "Dr. Md. Jahangir Kabir",
       "degree": "MBBS (DMC), FCPS (Surgery), MRCS (UK), MS (Surgical Oncology)",
       "specialty": "General, Laparoscopic & Cancer Surgeon",
@@ -66,25 +82,31 @@
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "6pm to 9pm (Everyday)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "c852100f-caff-453d-946b-2c92d7b67291"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
+      "id": "4ae0bffb-786b-42ec-82f5-672b5e3abef6",
+      "departmentId": "852fd6f8-5bdd-4c90-9c7c-a78e9f43960c",
+      "link": "https://www.doctorbangladesh.com/dr-sonia-rahman/",
+      "imageId": "106d438c-e061-4091-9362-7ad1baa68567",
       "name": "Dr. Sonia Rahman",
       "degree": "MBBS, MCPS (Surgery), FCPS (Surgery), MRCS (UK), MS (Surgical Oncology)",
       "specialty": "General, Laparoscopic, Colorectal & Cancer Surgeon",
       "workplace": "National Institute of Cancer Research & Hospital",
-      "info": "Advance Hospital, Banasree\nAddress: House # 1, Main Road, Block # F, Banasree, Dhaka\nVisiting Hour: 6pm to 7pm (Sun, Tue & Thu)\nAppointment: +8801999242424\nCall Now",
+      "info": "Advance Hospital, Banasree Address: House # 1, Main Road, Block # F, Banasree, Dhaka Visiting Hour: 6pm to 7pm (Sun, Tue & Thu) Appointment: +8801999242424 Call Now",
       "chamber": {
         "hospital": "Islami Bank Specialized & General Hospital, Nayapaltan",
         "address": "71-72, VIP Road, Nayapaltan, Dhaka",
         "visitingTime": "6pm to 7pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801977552283"
-      },
-      "id": "45c383a5-9adf-4e24-aa96-9d9b45dc287a"
+        "appointmentNumber": "+8801977552283Call Now"
+      }
     },
     {
+      "id": "827b5ce6-4e5e-44e0-8195-2e816778ffa9",
+      "departmentId": "852fd6f8-5bdd-4c90-9c7c-a78e9f43960c",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-mizanur-rahman/",
+      "imageId": "132e3789-e0da-4180-b1bf-edbbfb9ac362",
       "name": "Prof. Dr. Md. Mizanur Rahman",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "Surgical Oncologist (Cancer Surgeon), Breast Surgeon",
@@ -94,11 +116,14 @@
         "hospital": "Medi Aid Hospital Ltd, Dhaka",
         "address": "70/C, Lake Circus, Kalabagan, Dolphin Goli, Dhaka",
         "visitingTime": "11am to 1pm (Closed: Friday)",
-        "appointmentNumber": "+8802222240873, +8801715982456"
-      },
-      "id": "834d0323-bf11-49e7-bd1f-abc8d3cd1682"
+        "appointmentNumber": "+8802222240873, +8801715982456Call Now"
+      }
     },
     {
+      "id": "c778276a-af51-4f0f-8edf-e1b277a54476",
+      "departmentId": "852fd6f8-5bdd-4c90-9c7c-a78e9f43960c",
+      "link": "https://www.doctorbangladesh.com/prof-dr-tapesh-kumar-paul/",
+      "imageId": "4aca73a2-b2e8-41fd-a4f3-3ea53bcfeb92",
       "name": "Prof. Dr. Tapesh Kumar Paul",
       "degree": "MBBS, FCPS (Surgery), MS (Surgical Oncology)",
       "specialty": "General, Laparoscopic. Breast, Colorectal Tumor & Cancer Surgeon",
@@ -108,25 +133,31 @@
         "hospital": "Delta Hospital, Mirpur",
         "address": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+880258050663"
-      },
-      "id": "9bb51ffc-6383-49f6-b866-3bce000b36f5"
+        "appointmentNumber": "+880258050663Call Now"
+      }
     },
     {
+      "id": "d4b9a1c7-cffd-47df-b020-6f7e948b32c8",
+      "departmentId": "852fd6f8-5bdd-4c90-9c7c-a78e9f43960c",
+      "link": "https://www.doctorbangladesh.com/prof-dr-afm-anwar-hossain/",
+      "imageId": "b9ff6d8b-222b-4b81-aa93-844b69a01a6e",
       "name": "Prof. Dr. AFM Anwar Hossain",
       "degree": "MBBS, FCPS (Surgical Oncology)",
       "specialty": "Cancer Surgeon",
       "workplace": "National Institute of Cancer Research & Hospital",
-      "info": "Labaid Cancer Hospital & Super Speciality Center\nAddress: 26, Green Road, Dhaka\nVisiting Hour: 6pm to 8pm (Sun, Tue & Thu)\nAppointment: +8809666710001\nCall Now",
+      "info": "Labaid Cancer Hospital & Super Speciality Center Address: 26, Green Road, Dhaka Visiting Hour: 6pm to 8pm (Sun, Tue & Thu) Appointment: +8809666710001 Call Now",
       "chamber": {
         "hospital": "Ahsania Mission Cancer & General Hospital",
         "address": "Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka",
         "visitingTime": "9am to 3pm (Sat, Mon & Wednesday)",
-        "appointmentNumber": "10617"
-      },
-      "id": "a67edf1c-6888-41fc-9991-9d846f2cf10d"
+        "appointmentNumber": "10617Call Now"
+      }
     },
     {
+      "id": "e59b1b64-11c1-4428-94a2-4101b9b3a68a",
+      "departmentId": "852fd6f8-5bdd-4c90-9c7c-a78e9f43960c",
+      "link": "https://www.doctorbangladesh.com/dr-khandaker-abm-abdullah-al-hasan/",
+      "imageId": "05cdd0e1-5f18-451f-b9f8-d98fbf677bb1",
       "name": "Dr. Khandaker ABM Abdullah Al Hasan",
       "degree": "MBBS, BCS (Health), FCPS (Surgery), MS (Surgical Oncology), FMAS (India)",
       "specialty": "Cancer & Laparoscopic Surgery Specialist",
@@ -136,25 +167,31 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "Room - 309, House # 08, Road # 02, Dhanmondi, Dhaka - 1205",
         "visitingTime": "8pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "1504bddb-7818-4701-8481-3592b09bd5a9"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "615a76f2-c031-4d57-b06a-c40c3ea8de57",
+      "departmentId": "852fd6f8-5bdd-4c90-9c7c-a78e9f43960c",
+      "link": "https://www.doctorbangladesh.com/dr-hasan-shahriar-kallol/",
+      "imageId": "dab35370-79f2-42d2-b1e0-d1570c8b1284",
       "name": "Dr. Hasan Shahriar Kallol",
       "degree": "MBBS (DMC), FCPS (Surgery) MS (Surgical Oncology)",
       "specialty": "General, Laparoscopic & Oncological Surgeon",
       "workplace": "National Institute of Cancer Research & Hospital",
-      "info": "Labaid Cancer Hospital & Super Speciality Center\nAddress: 26, Green Road, Dhaka\nVisiting Hour: 2.30pm to 4.30pm (Sat, Mon & Wednesday)\nAppointment: +8809666710001\nCall Now",
+      "info": "Labaid Cancer Hospital & Super Speciality Center Address: 26, Green Road, Dhaka Visiting Hour: 2.30pm to 4.30pm (Sat, Mon & Wednesday) Appointment: +8809666710001 Call Now",
       "chamber": {
         "hospital": "Ahsania Mission Cancer & General Hospital",
         "address": "Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka",
         "visitingTime": "2.30pm to 4.30pm (Sun, Tues & Thursday)",
-        "appointmentNumber": "10617"
-      },
-      "id": "be236e02-ead4-4f9c-bb6c-647a331aa8bb"
+        "appointmentNumber": "10617Call Now"
+      }
     },
     {
+      "id": "0e86a5a8-98fb-424b-8d4f-b4daeb9c9139",
+      "departmentId": "852fd6f8-5bdd-4c90-9c7c-a78e9f43960c",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-sahajadul-alam/",
+      "imageId": "adc195b6-a42f-4582-83bc-f13420777594",
       "name": "Dr. Mohammad Sahajadul Alam",
       "degree": "MBBS (CMC), BCS (Health), FCPS (Surgery), MS (Surgical Oncology)",
       "specialty": "General & Cancer Surgery Specialist",
@@ -164,11 +201,14 @@
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "4pm to 7pm (Everyday)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "5a013fad-84d1-4a34-94eb-9a65784ab7dd"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
+      "id": "48c05256-3d7c-4f58-a905-16eb7e879374",
+      "departmentId": "852fd6f8-5bdd-4c90-9c7c-a78e9f43960c",
+      "link": "https://www.doctorbangladesh.com/dr-md-ashikur-rahman/",
+      "imageId": "8bda846a-20b3-44a2-ada7-bce39f63ebf9",
       "name": "Dr. Md. Ashikur Rahman",
       "degree": "MBBS, FCPS (Surgery), MS (Surgical Oncology)",
       "specialty": "General & Cancer Surgery Specialist",
@@ -178,11 +218,14 @@
         "hospital": "Labaid Cancer Hospital & Super Speciality Center",
         "address": "26, Green Road, Dhaka",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666710001"
-      },
-      "id": "bf043fb2-8ff4-4102-aeec-67f7920386cb"
+        "appointmentNumber": "+8809666710001Call Now"
+      }
     },
     {
+      "id": "89e07ee2-881c-4136-abcc-3fd03869bba7",
+      "departmentId": "852fd6f8-5bdd-4c90-9c7c-a78e9f43960c",
+      "link": "https://www.doctorbangladesh.com/dr-md-nurujjaman-sarkar/",
+      "imageId": "8bd16429-4d53-4475-a292-b5c9da50aa8c",
       "name": "Dr. Md. Nurujjaman Sarker",
       "degree": "MBBS, FMAS, FCPS (Surgery), MS (Surgical Oncology)",
       "specialty": "Cancer & Oncoplastic Surgeon",
@@ -192,11 +235,14 @@
         "hospital": "Ahsania Mission Cancer & General Hospital",
         "address": "Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka",
         "visitingTime": "3pm to 6pm (Sat, Mon & Wed)",
-        "appointmentNumber": "10617"
-      },
-      "id": "f9eaca39-f604-46a1-8167-8d5ad7ce3560"
+        "appointmentNumber": "10617Call Now"
+      }
     },
     {
+      "id": "d1bdbe35-ccba-49d0-b09f-50f29a8e5010",
+      "departmentId": "852fd6f8-5bdd-4c90-9c7c-a78e9f43960c",
+      "link": "https://www.doctorbangladesh.com/dr-md-abu-kawsar-sarkar/",
+      "imageId": "832f46b2-addd-47f9-9512-28ffcf3b3cf9",
       "name": "Dr. Md. Abu Kawsar Sarker",
       "degree": "MBBS, FCPS (Surgery), MS (Surgical Oncology), CCD (BIRDEM), MRCS (UK)",
       "specialty": "General, Cancer, Laparoscopic & Oncoplastic Breast Surgeon",
@@ -206,11 +252,14 @@
         "hospital": "Aichi Hospital Limited, Uttara",
         "address": "Plot # 35 & 37, Sector # 08, Abdullahpur, Uttara, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801689956599"
-      },
-      "id": "829b0472-0395-42db-8b7e-8e16b6641a74"
+        "appointmentNumber": "+8801689956599Call Now"
+      }
     },
     {
+      "id": "77ff0133-40ff-4c1c-894a-8f2c3a3ea63d",
+      "departmentId": "852fd6f8-5bdd-4c90-9c7c-a78e9f43960c",
+      "link": "https://www.doctorbangladesh.com/dr-minhaj-bhuiyan/",
+      "imageId": "e6f03328-55fc-4f2c-a38d-199aee24ff55",
       "name": "Dr. AKM Minhaj Uddin Bhuiyan",
       "degree": "MBBS, FCPS (Surgery), MRCS (Edin), MS (Surgical Oncology)",
       "specialty": "Cancer & General Surgeon",
@@ -220,11 +269,14 @@
         "hospital": "Japan Bangladesh Friendship Hospital",
         "address": "55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+88029672277"
-      },
-      "id": "8133e11c-17cf-457f-8291-6e8949612945"
+        "appointmentNumber": "+88029672277Call Now"
+      }
     },
     {
+      "id": "6b19d8cf-4b00-41f6-b658-1d442820a297",
+      "departmentId": "852fd6f8-5bdd-4c90-9c7c-a78e9f43960c",
+      "link": "https://www.doctorbangladesh.com/dr-ahmed-mizanur-rahman/",
+      "imageId": "ea8d7b86-545c-4221-9a0e-edde4eb0381e",
       "name": "Dr. Ahmed Mizanur Rahman",
       "degree": "MBBS, FCPS (Surgery), MS ( Surgical Oncology), FAMS (SG)",
       "specialty": "Cancer & General Surgeon",
@@ -234,25 +286,31 @@
         "hospital": "Ahsania Mission Cancer & General Hospital",
         "address": "Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka",
         "visitingTime": "3pm to 6pm (Sun, Tues & Thursday)",
-        "appointmentNumber": "10617"
-      },
-      "id": "e4999f38-f6e1-42db-a1d0-c64d0b1725ef"
+        "appointmentNumber": "10617Call Now"
+      }
     },
     {
+      "id": "f6b6d585-1898-4bdd-a234-98071e2c10c1",
+      "departmentId": "852fd6f8-5bdd-4c90-9c7c-a78e9f43960c",
+      "link": "https://www.doctorbangladesh.com/dr-anindita-paul/",
+      "imageId": "3cd5e5a2-6965-4e59-80fd-58f56d86cc67",
       "name": "Major Dr. Anindita Paul",
       "degree": "MBBS, MS (Surgical Oncology)",
       "specialty": "Surgical Oncologist, Oncoplastic & Reconstructive Breast Surgeon",
       "workplace": "Combined Military Hospital (CMH), Dhaka",
-      "info": "Delta Health Care, Mirpur\nAddress: Plot-4 & 5, Section-07, Pallabi, Mirpur, Dhaka\nVisiting Hour: 7pm to 9pm (Sunday & Tuesday)\nAppointment: +8801617858171\nCall Now",
+      "info": "Delta Health Care, Mirpur Address: Plot-4 & 5, Section-07, Pallabi, Mirpur, Dhaka Visiting Hour: 7pm to 9pm (Sunday & Tuesday) Appointment: +8801617858171 Call Now",
       "chamber": {
         "hospital": "Impulse Hospital, Dhaka",
         "address": "304/E, Bir Uttam Mir Shawkat Sarak, Tejgaon, Dhaka",
         "visitingTime": "7pm to 9pm (Saturday & Wednesday)",
-        "appointmentNumber": "+8801700538243"
-      },
-      "id": "a1e2cb47-f5ee-42ea-b15d-84fba50d9ad3"
+        "appointmentNumber": "+8801700538243Call Now"
+      }
     },
     {
+      "id": "d33311e0-04ac-4c68-8d40-cfb8989db9d9",
+      "departmentId": "852fd6f8-5bdd-4c90-9c7c-a78e9f43960c",
+      "link": "https://www.doctorbangladesh.com/dr-tangera-akter/",
+      "imageId": "53b2c7b9-6c3b-464a-9cf8-e57b3deaf846",
       "name": "Dr. Tangera Akter",
       "degree": "MBBS, MS (Surgical Oncology)",
       "specialty": "Cancer, General, Laparoscopic Surgeon & Surgical Oncologist",
@@ -262,25 +320,31 @@
         "hospital": "Delta Hospital, Mirpur",
         "address": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka - 1216",
         "visitingTime": "8am to 2pm & 7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801301254924"
-      },
-      "id": "c39e93ad-01c6-4488-a4d8-49856b1c42de"
+        "appointmentNumber": "+8801301254924Call Now"
+      }
     },
     {
+      "id": "01e2eccd-b051-452d-87ed-735dfdb0467d",
+      "departmentId": "852fd6f8-5bdd-4c90-9c7c-a78e9f43960c",
+      "link": "https://www.doctorbangladesh.com/dr-k-m-reaz-morshed/",
+      "imageId": "089c6356-46a0-4b16-a4cf-871867d72071",
       "name": "Dr. K M Reaz Morshed",
       "degree": "MBBS, FCPS (Surgery), MS (Surgical Oncology)",
       "specialty": "General, Laparoscopic & Cancer Surgery Specialist (Surgical Oncologist)",
       "workplace": "National Institute of Cancer Research & Hospital",
-      "info": "Upasham Health Point (Pvt.) Ltd\nAddress: House-14, Road-2/B, Block-J, Natun Bazar, Baridhara, Dhaka-1212\nVisiting Hour: 7pm to 9pm (Sat, Mon & Wed)\nAppointment: +8801932200200\nCall Now",
+      "info": "Upasham Health Point (Pvt.) Ltd Address: House-14, Road-2/B, Block-J, Natun Bazar, Baridhara, Dhaka-1212 Visiting Hour: 7pm to 9pm (Sat, Mon & Wed) Appointment: +8801932200200 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Badda",
         "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka",
         "visitingTime": "7:30pm to 9pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8809666787809"
-      },
-      "id": "f5a18fc7-7316-4af5-bed2-548205fbe5a3"
+        "appointmentNumber": "+8809666787809Call Now"
+      }
     },
     {
+      "id": "8afe70aa-2bc1-4c19-be54-330f57e27b07",
+      "departmentId": "852fd6f8-5bdd-4c90-9c7c-a78e9f43960c",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdul-munim-sarkar/",
+      "imageId": "32102aca-4a36-4198-ab57-57ca6eb041be",
       "name": "Dr. Md. Abdul Munim Sarkar",
       "degree": "MBBS, BCS (Health), FCPS (Surgery), MS (Surgical Oncology)",
       "specialty": "General & Cancer Surgery Specialist",
@@ -290,23 +354,25 @@
         "hospital": "Insaf Barakah Kidney & General Hospital",
         "address": "11, Shaheed Tajuddin Ahmed Sarani, Mogbazar, Dhaka",
         "visitingTime": "4pm to 6pm (Sat, Tue & Wed)",
-        "appointmentNumber": "+8801978098088"
-      },
-      "id": "24743c8b-8518-4469-b9b9-bc27e6f8302c"
+        "appointmentNumber": "+8801978098088Call Now"
+      }
     },
     {
+      "id": "6d4d4e4f-7999-4972-9d52-cd9a0544c468",
+      "departmentId": "852fd6f8-5bdd-4c90-9c7c-a78e9f43960c",
+      "link": "https://www.doctorbangladesh.com/dr-mithun-kumar-mallick/",
+      "imageId": "8f6dfa00-8451-4bef-86fd-b98f6036eacd",
       "name": "Dr. Mithun Kumar Mallick",
       "degree": "MBBS, MS (Surgical Oncology)",
       "specialty": "Cancer Surgery Specialist/Surgical Oncologist",
       "workplace": "National Institute of Cancer Research & Hospital",
-      "info": "Platinum Hospital Limited, Panthapath\nAddress: 69/M/1, Panthapath, Opposite to Bashundhara Shopping Complex, Dhaka\nVisiting Hour: 6pm to 8pm (Sunday to Wednesday)\nAppointment: +8801987851647\nCall Now",
+      "info": "Platinum Hospital Limited, Panthapath Address: 69/M/1, Panthapath, Opposite to Bashundhara Shopping Complex, Dhaka Visiting Hour: 6pm to 8pm (Sunday to Wednesday) Appointment: +8801987851647 Call Now",
       "chamber": {
         "hospital": "Health and Hope Hospital",
         "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
         "visitingTime": "4pm to 6pm (Sat, Mon & Wednesday)",
-        "appointmentNumber": "+8801915875700"
-      },
-      "id": "a30d5816-8c0d-4c65-b2b7-ddeb2418849c"
+        "appointmentNumber": "+8801915875700Call Now"
+      }
     }
   ]
 }

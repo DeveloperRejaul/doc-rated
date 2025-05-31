@@ -1,20 +1,27 @@
 {
   "doctor": [
     {
+      "id": "8e67e2e5-9181-4154-985f-b58725e70c66",
+      "departmentId": "4d157838-f6a2-41b8-af57-d698cba8072e",
+      "link": "https://www.doctorbangladesh.com/dr-mosammat-mira-pervin/",
+      "imageId": "c487e853-3e9b-400d-b467-fcf881f0cbdc",
       "name": "Dr. Mosammat Mira Pervin",
       "degree": "MBBS, FCPS (Surgery), MRCS (UK)",
       "specialty": "Laparoscopic, Breast & Laser Piles Surgeon",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Insaf Barakah Kidney & General Hospital\nAddress: 11, Shahid Tazuddin Ahmed Shoroni, Mogbazar, Dhaka – 1217\nVisiting Hour: 5pm to 6pm (Sun, Tue & Wed)\nAppointment: +8801913669218\nCall Now",
+      "info": "Insaf Barakah Kidney & General Hospital Address: 11, Shahid Tazuddin Ahmed Shoroni, Mogbazar, Dhaka – 1217 Visiting Hour: 5pm to 6pm (Sun, Tue & Wed) Appointment: +8801913669218 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "4pm to 10pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "63a2a3fa-3cc4-4126-93da-59faf4f5b544"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "f30636e4-267a-474d-8a42-b78322629847",
+      "departmentId": "4d157838-f6a2-41b8-af57-d698cba8072e",
+      "link": "https://www.doctorbangladesh.com/dr-a-k-m-shafiul-alam-ferdous/",
+      "imageId": "7b9b9789-9b1b-4c88-8e79-528bbf0484ee",
       "name": "Dr. A.K.M Shafiul Alam Ferdous",
       "degree": "MBBS, MCPS, MS (Surgery)",
       "specialty": "General, Laparoscopic & Colorectal Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "11am to 2pm (Sat, Mon & Wed) & 5pm to 8pm (Sun & Thu)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "770c1bb8-6514-4751-a369-9622f59cbb76"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "49c062b5-e9c9-490c-9690-826a04864f7c",
+      "departmentId": "4d157838-f6a2-41b8-af57-d698cba8072e",
+      "link": "https://www.doctorbangladesh.com/dr-gazi-muhammad-salahuddin/",
+      "imageId": "92dac6a8-f13a-4fce-919a-0900186d8597",
       "name": "Dr. Gazi Muhammad Salahuddin",
       "degree": "MBBS (DMC), BCS (Health), FCPS (Surgery), MCPS (Surgery), FMAS (India), FACS (USA)",
       "specialty": "General, Colorectal & Laparoscopic Surgeon",
@@ -38,11 +48,14 @@
         "hospital": "Medinova Medical Services, Narayanganj",
         "address": "145, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "4pm to 7pm (Closed: Tue & Friday)",
-        "appointmentNumber": "+8801913119989"
-      },
-      "id": "8453a2ec-660d-476c-a178-c94eb4a8cdac"
+        "appointmentNumber": "+8801913119989Call Now"
+      }
     },
     {
+      "id": "9fdf80a4-4c79-407c-a07e-f1fabeee377b",
+      "departmentId": "4d157838-f6a2-41b8-af57-d698cba8072e",
+      "link": "https://www.doctorbangladesh.com/dr-md-mejbahul-bahar/",
+      "imageId": "10721bf0-d27f-4ab7-8026-1f759d9da58d",
       "name": "Dr. Md. Mejbahul Bahar",
       "degree": "MBBS, FCPS (Surgery), MRCS (UK)",
       "specialty": "General, Laparoscopic, Breast & Laser Piles Surgeon",
@@ -52,9 +65,8 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "8pm to 9:30pm (Mon, Tue & Thu)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "40401979-9f3c-42f7-a50c-c2e2ac640fe0"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     }
   ]
 }

@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "d800fd59-26fc-4bb6-9bd7-1e36a287a643",
+      "departmentId": "8162b418-072d-4470-94b6-dc5c0a70ae7a",
+      "link": "https://www.doctorbangladesh.com/dr-nahida-islam-nipa/",
+      "imageId": "4f473463-249b-425b-9a31-1074550a636d",
       "name": "Dr. Nahida Islam Nipa",
       "degree": "MBBS (DU), DDV (DU), FRCP (Glasgow), MACP (USA)",
       "specialty": "Skin, Allergy, Hair, Nail, Sexual Diseases Specialist & Dermato Surgeon",
@@ -10,11 +14,14 @@
         "hospital": "Delta Health Care, Mymensingh",
         "address": "55/5, Medical College Gate, Charpara, Mymensingh",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801847158301"
-      },
-      "id": "46e1bcff-2679-4fe1-8c28-2f389b52efcb"
+        "appointmentNumber": "+8801847158301Call Now"
+      }
     },
     {
+      "id": "2cfff692-afa2-409c-85d5-3c5b612e7d88",
+      "departmentId": "8162b418-072d-4470-94b6-dc5c0a70ae7a",
+      "link": "https://www.doctorbangladesh.com/dr-md-nazrul-islam-skin/",
+      "imageId": "4a8d065e-7f9c-4a9a-a756-e9d3262da2d5",
       "name": "Dr. Md. Nazrul Islam",
       "degree": "MBBS (Dhaka), DDV (BSMMU), FCPS (Skin & Sex), MCPS (Skin & Sex)",
       "specialty": "Skin, Allergy, Leprosy & Sexual Diseases Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Pranto Specialized Hospital, Mymensingh",
         "address": "67, Charpara, Mymensingh",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801788222000"
-      },
-      "id": "1ff9e4ec-adfe-4bd9-b626-031ef6fb2506"
+        "appointmentNumber": "+8801788222000Call Now"
+      }
     },
     {
+      "id": "d540f8b6-5815-469e-897c-a8af07322499",
+      "departmentId": "8162b418-072d-4470-94b6-dc5c0a70ae7a",
+      "link": "https://www.doctorbangladesh.com/dr-md-fashiur-rahman/",
+      "imageId": "d0d89eef-10bb-4344-974f-6a64de74bc5b",
       "name": "Dr. Md. Fashiur Rahman",
       "degree": "MBBS, MCPS, DDV, MD",
       "specialty": "Skin, Allergy & Sexual Diseases Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Popular Diagnostic Center, Mymensingh",
         "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
         "visitingTime": "12pm to 8pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8809666787814"
-      },
-      "id": "dbb560d6-2979-4962-81b6-9b868452280d"
+        "appointmentNumber": "+8809666787814Call Now"
+      }
     },
     {
+      "id": "14330408-4be3-445e-9081-1733a12f01b7",
+      "departmentId": "8162b418-072d-4470-94b6-dc5c0a70ae7a",
+      "link": "https://www.doctorbangladesh.com/dr-susthir-sarker-apu/",
+      "imageId": "771c28d0-a20c-427e-802d-dca348f18a17",
       "name": "Dr. Susthir Sarker Apu",
       "degree": "MBBS, DDV (DU), FCPS (Skin & Sex), CCD (BIRDEM)",
       "specialty": "Skin & Sexual Diseases Specialist & Cosmetic Dermatosurgeon",
@@ -52,9 +65,8 @@
         "hospital": "Sayem Diagno Complex & Hospital, Mymensingh",
         "address": "30/A/1, Dengu Bepari Road, Sehora, Mymensingh – 2200",
         "visitingTime": "4pm to 8pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801725516141"
-      },
-      "id": "fc711e44-97db-45ee-81c9-3b2123e319c6"
+        "appointmentNumber": "+8801725516141Call Now"
+      }
     }
   ]
 }

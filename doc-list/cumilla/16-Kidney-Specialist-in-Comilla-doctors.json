@@ -1,20 +1,27 @@
 {
   "doctor": [
     {
+      "id": "af3dde7f-6f1d-401f-a559-18b055f2d3fa",
+      "departmentId": "dcab2f32-2480-4481-9509-e8aabc3145e8",
+      "link": "https://www.doctorbangladesh.com/prof-dr-dilip-kumar-roy/",
+      "imageId": "1a5ac37f-cdae-4a1d-b586-cad23adf9d33",
       "name": "Prof. Dr. Dilip Kumar Roy",
       "degree": "MBBS, FCPS (Medicine), MD (Nephrology), Senior Fellowship in Nephrology ( Singapore)",
       "specialty": "Kidney Diseases & Medicine Specialist",
       "workplace": "National Institute of Kidney Diseases & Urology",
-      "info": "Moon Hospital, Comilla\nAddress: Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla\nVisiting Hour: 2pm to 8pm (Thu) & 7am to 8pm (Fri)\nAppointment: +8801714473231\nCall Now",
+      "info": "Moon Hospital, Comilla Address: Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla Visiting Hour: 2pm to 8pm (Thu) & 7am to 8pm (Fri) Appointment: +8801714473231 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Shantinagar",
         "address": "Unit # 01, House # 11, Shantinagar, Motijheel, Dhaka",
         "visitingTime": "5.30pm to 8.30pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787803"
-      },
-      "id": "e159b16d-d2d2-4dea-adcb-2df2a5a12a16"
+        "appointmentNumber": "+8809666787803Call Now"
+      }
     },
     {
+      "id": "a35cd70a-39ae-487d-a6e7-edf6f9ca552b",
+      "departmentId": "dcab2f32-2480-4481-9509-e8aabc3145e8",
+      "link": "https://www.doctorbangladesh.com/dr-bablu-kumar-paul/",
+      "imageId": "b875f5ed-2d27-4439-8eab-f946045ff0c0",
       "name": "Dr. Bablu Kumar Paul",
       "degree": "MBBS, BCS (Health), MD (Nephrology)",
       "specialty": "Kidney Specialist",
@@ -24,39 +31,48 @@
         "hospital": "Moon Hospital, Comilla",
         "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
         "visitingTime": "2pmto 8pm (Sat to Thu) & 10am to 1pm (Fri)",
-        "appointmentNumber": "+8801722316208"
-      },
-      "id": "965696c3-ab87-44cd-b1fc-0a05f2a08100"
+        "appointmentNumber": "+8801722316208Call Now"
+      }
     },
     {
+      "id": "dcb4cc5e-835f-4824-b258-e69b98951f87",
+      "departmentId": "dcab2f32-2480-4481-9509-e8aabc3145e8",
+      "link": "https://www.doctorbangladesh.com/dr-golam-mahbub-sikder/",
+      "imageId": "77bf6bb5-b428-4fda-9bcb-2a9958312a5f",
       "name": "Dr. Golam Mahabub Sikder",
       "degree": "MBBS, BCS (Health), MD (Nephrology), CCD (BIRDEM), MACP (USA)",
       "specialty": "Kidney, Medicine, Diabetes & Hypertension Specialist",
       "workplace": "Cumilla Medical College & Hospital",
-      "info": "Sikder Diagnostic & Consultation Center\nAddress: Gouripur Bazar, South Side of Bulirpar Bridge, Daudkandi Cumilla\nVisiting Hour: 3pm to 7pm (Sat, Sun, Tue & Wed), 10am to 7pm (Friday)\nAppointment: +8801818455101\nCall Now",
+      "info": "Sikder Diagnostic & Consultation Center Address: Gouripur Bazar, South Side of Bulirpar Bridge, Daudkandi Cumilla Visiting Hour: 3pm to 7pm (Sat, Sun, Tue & Wed), 10am to 7pm (Friday) Appointment: +8801818455101 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Comilla",
         "address": "House # 29, Kotbari Road, Tomsom Bridge, Cumilla",
         "visitingTime": "3pm to 8pm (Sun, Tue & Thu) & 7pm to 9pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801841212275"
-      },
-      "id": "c45ca249-fa0c-4050-a0ff-c72d89553cff"
+        "appointmentNumber": "+8801841212275Call Now"
+      }
     },
     {
+      "id": "3966bec7-8205-490f-a2e9-bf13a5a5b4ac",
+      "departmentId": "dcab2f32-2480-4481-9509-e8aabc3145e8",
+      "link": "https://www.doctorbangladesh.com/dr-ripon-chandra-mazumder/",
+      "imageId": "5e90dd62-6198-4da6-a4b8-e6553eaf9a84",
       "name": "Dr. Ripon Chandra Mazumder",
       "degree": "MBBS (Dhaka), MD (Nephrology), MACP (USA)",
       "specialty": "Kidney Diseases & Medicine Specialist",
       "workplace": "Central Medical College & Hospital, Comilla",
-      "info": "Moon Hospital, Comilla\nAddress: Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla\nVisiting Hour: 4pm to 9pm (Everyday)\nAppointment: +8801787-790198\nCall Now",
+      "info": "Moon Hospital, Comilla Address: Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla Visiting Hour: 4pm to 9pm (Everyday) Appointment: +8801787-790198 Call Now",
       "chamber": {
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "4.30pm to 7.30pm (Everyday)",
-        "appointmentNumber": "+8801312-108518"
-      },
-      "id": "98f72caa-846d-4f13-9be7-bc1f4105c758"
+        "appointmentNumber": "+8801312-108518Call Now"
+      }
     },
     {
+      "id": "2b9c79b0-ae23-41ec-8485-1cdfe8093ac7",
+      "departmentId": "dcab2f32-2480-4481-9509-e8aabc3145e8",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-zahir-uddin/",
+      "imageId": "6b5ec690-8982-43dd-993a-b09150611131",
       "name": "Dr. Mohammad Zahir Uddin",
       "degree": "MBBS, BCS (Health), MD (Nephrology)",
       "specialty": "Kidney Diseases, Dialysis & Transplant Specialist",
@@ -66,11 +82,14 @@
         "hospital": "CD Path & Hospital Pvt. Ltd.",
         "address": "Shishu Monagal Road, Badurtoal, Cumilla – 3500",
         "visitingTime": "2.30pm to 3.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801721503971"
-      },
-      "id": "9a9cdbb6-b3e8-4d5a-8275-aa4b4dbc226f"
+        "appointmentNumber": "+8801721503971Call Now"
+      }
     },
     {
+      "id": "912c94e4-bc77-4f48-8c1d-ecfba147846a",
+      "departmentId": "dcab2f32-2480-4481-9509-e8aabc3145e8",
+      "link": "https://www.doctorbangladesh.com/dr-md-maksud-ullah/",
+      "imageId": "de97d741-1523-40ac-88b0-33019fc9168b",
       "name": "Dr. Md. Maksud Ullah",
       "degree": "MBBS (SSMC), MD (Nephrology), MACP (USA)",
       "specialty": "Kidney Diseases, Dialysis, Transplant & Medicine Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "2.45pm to 8.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801300483768"
-      },
-      "id": "16ca4aff-0045-4bb2-bf9c-a84db2f921d2"
+        "appointmentNumber": "+8801300483768Call Now"
+      }
     },
     {
+      "id": "0ea47ec5-024a-43be-8d17-6f346485acc8",
+      "departmentId": "dcab2f32-2480-4481-9509-e8aabc3145e8",
+      "link": "https://www.doctorbangladesh.com/dr-sourav-saha/",
+      "imageId": "fd9eef0c-8c51-4e1a-b933-8b1f7acb4a52",
       "name": "Dr. Sourav Saha",
       "degree": "MBBS, MD (Nephrology)",
       "specialty": "Kidney Diseases, Dialysis & Transplant Specialist",
@@ -94,9 +116,8 @@
         "hospital": "Labaid Diagnostic, Cumilla",
         "address": "Tomsom Bridge, Laksam Road, Cumilla",
         "visitingTime": "3pm to 7pm (Closed: Friday & Saturday)",
-        "appointmentNumber": "+8801766661133"
-      },
-      "id": "3a71e553-681e-43e9-80cd-1fd814776dd0"
+        "appointmentNumber": "+8801766661133Call Now"
+      }
     }
   ]
 }

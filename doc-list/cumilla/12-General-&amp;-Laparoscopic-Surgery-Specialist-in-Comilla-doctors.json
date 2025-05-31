@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "8ed430f7-5816-4c87-9529-b083ff285618",
+      "departmentId": "4eccd45c-6543-47da-9aa9-40c0377f4d04",
+      "link": "https://www.doctorbangladesh.com/dr-md-abuzaffor-md-shaleh/",
+      "imageId": "c45bccdf-7e56-4096-84e1-52a05f5b62f8",
       "name": "Dr. Abuzaffor Md. Shaleh",
       "degree": "MBBS (SSMC), BCS (Health)FCPS (Surgery), MRCS (England)",
       "specialty": "General, Laparoscopic, Laser, Colorectal & Cancer SurgeonSpecially in Piles and Fistula Surgery",
@@ -10,11 +14,14 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Room: 658 (5th Floor), New BuildingLaksam Road, Kandirpar, Cumilla",
         "visitingTime": "2.30pm to 8.00pm (Everyday)Email: zaffor@yahoo.com",
-        "appointmentNumber": "+8801897-915652"
-      },
-      "id": "a80cb027-7306-408b-9d2f-5ddbb915d69b"
+        "appointmentNumber": "+8801897-915652Call Now"
+      }
     },
     {
+      "id": "1d6a9cac-fb55-47d7-8861-1eb80943ecf0",
+      "departmentId": "4eccd45c-6543-47da-9aa9-40c0377f4d04",
+      "link": "https://www.doctorbangladesh.com/dr-kazi-israt-jahan/",
+      "imageId": "c1671699-c42a-461e-a6ec-9860048cbcd3",
       "name": "Dr. Kazi Israt Jahan",
       "degree": "MBBS, BCS (Health), FCPS (Surgery), Special Training (Breast & Piles Surgery)",
       "specialty": "General, Laparoscopic, Breast & Piles Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "Moon Hospital, Comilla",
         "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801778077590"
-      },
-      "id": "7224c0f8-c144-4300-8232-3a13492d5565"
+        "appointmentNumber": "+8801778077590Call Now"
+      }
     },
     {
+      "id": "128283b9-d057-44f3-bd91-cdbabb016116",
+      "departmentId": "4eccd45c-6543-47da-9aa9-40c0377f4d04",
+      "link": "https://www.doctorbangladesh.com/dr-m-a-awal-sohail/",
+      "imageId": "bb70716a-0df1-46c4-a264-df7328a074ed",
       "name": "Dr. M.A. Awal Sohail",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General, Laparoscopic & Colorectal Surgeon",
@@ -38,11 +48,14 @@
         "hospital": "Moon Hospital, Comilla",
         "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
         "visitingTime": "2pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801861408828"
-      },
-      "id": "aece8be5-1ad3-4354-b048-4bf321851bc5"
+        "appointmentNumber": "+8801861408828Call Now"
+      }
     },
     {
+      "id": "7de35476-8291-48bd-9056-ece5dda308e1",
+      "departmentId": "4eccd45c-6543-47da-9aa9-40c0377f4d04",
+      "link": "https://www.doctorbangladesh.com/dr-md-aminul-islam-surgery/",
+      "imageId": "0e437be5-fb00-46a3-a3fa-888da7cc797c",
       "name": "Dr. Md. Aminul Islam",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General & Laparoscopic Specialist Surgeon",
@@ -52,11 +65,14 @@
         "hospital": "Moon Hospital, Comilla",
         "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
         "visitingTime": "3pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801766556655"
-      },
-      "id": "8e3b1cc1-3faa-4d1d-9983-e1c0a8e69c11"
+        "appointmentNumber": "+8801766556655Call Now"
+      }
     },
     {
+      "id": "b4678d86-a674-4486-a8ba-75b6e98d9331",
+      "departmentId": "4eccd45c-6543-47da-9aa9-40c0377f4d04",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdul-momin/",
+      "imageId": "b2438937-4c4f-49e4-a97e-b8697d5a4290",
       "name": "Dr. Md. Abdul Momin",
       "degree": "MBBS, FCPS (Surgery), FMAS (India)",
       "specialty": "General, Laparoscopic & Colorectal Surgeon",
@@ -66,11 +82,14 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "2pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801830910092"
-      },
-      "id": "a9769c82-dd4f-4493-a9c0-2380a4d309be"
+        "appointmentNumber": "+8801830910092Call Now"
+      }
     },
     {
+      "id": "d3951b76-cad6-48b0-a6b5-243ca124eb02",
+      "departmentId": "4eccd45c-6543-47da-9aa9-40c0377f4d04",
+      "link": "https://www.doctorbangladesh.com/dr-mahbub-ibn-momen-jony/",
+      "imageId": "0c2b05ba-5fe3-4e55-bcd9-1d343cd017f5",
       "name": "Dr. Mahbub Ibn Momen (Jony)",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General, Laparoscopic & Colorectal Surgeon",
@@ -80,25 +99,31 @@
         "hospital": "Ibn Sina Diagnostic Center, Comilla",
         "address": "House # 29, Kotbari Road, Tomsom Bridge, Cumilla",
         "visitingTime": "4pm to 7pm (Closed: Mon & Friday)",
-        "appointmentNumber": "+8801841212275"
-      },
-      "id": "71c98408-59d7-4bcd-a4ba-aceb1b80fd91"
+        "appointmentNumber": "+8801841212275Call Now"
+      }
     },
     {
+      "id": "52779874-43d0-4956-88a9-f986a52b22a5",
+      "departmentId": "4eccd45c-6543-47da-9aa9-40c0377f4d04",
+      "link": "https://www.doctorbangladesh.com/dr-afroza-e-alam/",
+      "imageId": "e20b4108-6cc0-4a25-99f6-a3773e107d68",
       "name": "Dr. Afroza-E-Alam",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General, Colorectal & Laparoscopic Surgery Specialist",
       "workplace": "Cumilla Medical College & Hospital",
-      "info": "Modern Hospital, Comilla\nAddress: Laksam Road, Shaktola, Cumilla – 3500\nVisiting Hour: From 3pm (Closed: Friday)\nAppointment: +8801711785199\nCall Now",
+      "info": "Modern Hospital, Comilla Address: Laksam Road, Shaktola, Cumilla – 3500 Visiting Hour: From 3pm (Closed: Friday) Appointment: +8801711785199 Call Now",
       "chamber": {
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "3pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801711144786"
-      },
-      "id": "3da2d33c-bb94-43fa-a08d-15bcd5b1f5c5"
+        "appointmentNumber": "+8801711144786Call Now"
+      }
     },
     {
+      "id": "189b0783-76ed-4698-b2ba-7d9588c8dca3",
+      "departmentId": "4eccd45c-6543-47da-9aa9-40c0377f4d04",
+      "link": "https://www.doctorbangladesh.com/dr-zubayer-ahmad/",
+      "imageId": "226c7a38-0e83-4f99-8498-0f6358156275",
       "name": "Dr. Zubayer Ahmad",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General & Laparoscopic Specialist Surgeon",
@@ -108,25 +133,31 @@
         "hospital": "Comilla Mission Hospital",
         "address": "Shasongacha, Railgate, Cumilla – 3500",
         "visitingTime": "2pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801739142170"
-      },
-      "id": "93fffeda-f630-48b7-8b6e-3fcb20317bd7"
+        "appointmentNumber": "+8801739142170Call Now"
+      }
     },
     {
+      "id": "76c5e73b-5677-4e55-b8bb-4baeb43ccfec",
+      "departmentId": "4eccd45c-6543-47da-9aa9-40c0377f4d04",
+      "link": "https://www.doctorbangladesh.com/prof-dr-nasir-uddin-mahmud-surgeon/",
+      "imageId": "6171d050-56b9-4e51-97ee-26323964df6d",
       "name": "Prof. Dr. Nasir Uddin Mahmud",
       "degree": "MBBS, FCPS (Surgery), FRCS (Glasgow), Post Fellowship Training (Laparoscopic Surgery)",
       "specialty": "General, Laparoscopic & Endoscopic Surgeon",
       "workplace": "Central Medical College & Hospital, Comilla",
-      "info": "Comilla Mission Hospital\nAddress: Shasongacha, Railgate, Cumilla – 3500\nVisiting Hour: 2pm to 4pm (Closed: Friday)\nAppointment: +8801739142170\nCall Now",
+      "info": "Comilla Mission Hospital Address: Shasongacha, Railgate, Cumilla – 3500 Visiting Hour: 2pm to 4pm (Closed: Friday) Appointment: +8801739142170 Call Now",
       "chamber": {
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "4pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801711144786"
-      },
-      "id": "360ba01d-5eca-4868-8a09-02785e59235c"
+        "appointmentNumber": "+8801711144786Call Now"
+      }
     },
     {
+      "id": "4d1717d2-654d-43d7-bbcc-4847cb038353",
+      "departmentId": "4eccd45c-6543-47da-9aa9-40c0377f4d04",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-ali-surgery/",
+      "imageId": "44bd0c20-543d-460d-aaad-83fbea0ccb7a",
       "name": "Dr. Mohammad Ali",
       "degree": "MBBS (DMC), FCPS (Surgery), FACS (America)",
       "specialty": "General, Laparoscopic & Colorectal Surgery Specialist",
@@ -136,11 +167,14 @@
         "hospital": "Moon Hospital, Comilla",
         "address": "Room - 611, Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
         "visitingTime": "3pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801786848800"
-      },
-      "id": "c64b6b6b-c03d-4246-b5df-c6ef82ee3ce5"
+        "appointmentNumber": "+8801786848800Call Now"
+      }
     },
     {
+      "id": "f71641b4-89e5-4509-8011-4201985deb60",
+      "departmentId": "4eccd45c-6543-47da-9aa9-40c0377f4d04",
+      "link": "https://www.doctorbangladesh.com/dr-safiul-azam-chowdhury/",
+      "imageId": "c26454bf-953b-42cb-ae22-015f2d3827f2",
       "name": "Dr. Safiul Azam Chowdhury",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General & Laparoscopic Surgery Specialist",
@@ -150,11 +184,14 @@
         "hospital": "Comilla Trauma Center",
         "address": "511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla",
         "visitingTime": "3pm to 8pm (Everyday)",
-        "appointmentNumber": "+8809612808182"
-      },
-      "id": "7b30e758-2045-4064-91ce-76ad0258c376"
+        "appointmentNumber": "+8809612808182Call Now"
+      }
     },
     {
+      "id": "1d643f35-6803-4e4a-a663-d2fbac843e7e",
+      "departmentId": "4eccd45c-6543-47da-9aa9-40c0377f4d04",
+      "link": "https://www.doctorbangladesh.com/dr-mohammed-shafayet-ullah/",
+      "imageId": "7619d809-6695-441a-bebe-d0109834726c",
       "name": "Dr. Mohammed Shafayet Ullah",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General & Laparoscopic Specialist Surgeon",
@@ -164,25 +201,31 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801747427694"
-      },
-      "id": "bb4fdfe2-9992-4dc3-8d97-abb67feb39aa"
+        "appointmentNumber": "+8801747427694Call Now"
+      }
     },
     {
+      "id": "e132ae92-a2fa-477e-8cdd-7ff1f7995d07",
+      "departmentId": "4eccd45c-6543-47da-9aa9-40c0377f4d04",
+      "link": "https://www.doctorbangladesh.com/dr-sifat-e-rabbani/",
+      "imageId": "2b0ec1ad-b04e-4c27-98e3-6555b335dd3c",
       "name": "Dr. Sifat-E-Rabbani",
       "degree": "MBBS, BCS, MS, FCPS",
       "specialty": "General, Breast, Colorectal, Laparoscopic and Vascular Surgeon",
       "workplace": "National Institute of Cardiovascular Diseases & Hospital, Dhaka",
-      "info": "Royal Hospital, Comilla\nAddress: 1134, Saleha Complex (Beside Grameenphone), Jhawtola, Comilla\nVisiting Hour: 2pm to 6pm (Every Friday)\nAppointment: +88017669996685\nCall Now",
+      "info": "Royal Hospital, Comilla Address: 1134, Saleha Complex (Beside Grameenphone), Jhawtola, Comilla Visiting Hour: 2pm to 6pm (Every Friday) Appointment: +88017669996685 Call Now",
       "chamber": {
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "8am to 5pm (Every Friday)",
-        "appointmentNumber": "+8801770247194"
-      },
-      "id": "2d12a55f-39d3-45b9-be8b-afe3f6ed90e6"
+        "appointmentNumber": "+8801770247194Call Now"
+      }
     },
     {
+      "id": "626052bf-2524-4e1d-8ebc-23be103b43d7",
+      "departmentId": "4eccd45c-6543-47da-9aa9-40c0377f4d04",
+      "link": "https://www.doctorbangladesh.com/dr-abu-bakar-siddique-foysal/",
+      "imageId": "45f2e331-0ce1-4406-9eaa-a22d49ab5a0b",
       "name": "Dr. Md. Abu Bakar Siddiq Faysal",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General & Laparoscopic, Colorectal & Breast Surgeon",
@@ -192,11 +235,14 @@
         "hospital": "Gomati Hospital, Comilla",
         "address": "Nazrul Avenue, Kandirpar, Cumilla - 3500",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801711798083"
-      },
-      "id": "0f9e6df8-6762-4112-904f-caf7cf0bf3bf"
+        "appointmentNumber": "+8801711798083Call Now"
+      }
     },
     {
+      "id": "91abc955-f2a9-45f6-b862-652784d000b5",
+      "departmentId": "4eccd45c-6543-47da-9aa9-40c0377f4d04",
+      "link": "https://www.doctorbangladesh.com/dr-md-rashed-uz-zaman-razib/",
+      "imageId": "99116474-4209-4d66-88d7-8506237f2427",
       "name": "Dr. Md. Rashed Uz Zaman Razib",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General, Laparoscopic & Colorectal Surgeon",
@@ -206,11 +252,14 @@
         "hospital": "Modern Hospital, Comilla",
         "address": "Laksam Road, Shaktola, Cumilla – 3500",
         "visitingTime": "From 3pm (Closed: Friday)",
-        "appointmentNumber": "+8801711785199"
-      },
-      "id": "8cd3e89f-f046-4d17-abfc-7e1c2625b74b"
+        "appointmentNumber": "+8801711785199Call Now"
+      }
     },
     {
+      "id": "5cfaae35-01bd-448c-a753-38a32c4a7f83",
+      "departmentId": "4eccd45c-6543-47da-9aa9-40c0377f4d04",
+      "link": "https://www.doctorbangladesh.com/dr-sujit-kumar-saha/",
+      "imageId": "acc95954-b7ce-484f-985b-6b4457342a35",
       "name": "Dr. Sujit Kumar Saha",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General & Laparoscopic Specialist Surgeon",
@@ -220,11 +269,14 @@
         "hospital": "Midland Hospital, Comilla",
         "address": "Laksam Road, Ramghat, Kandirpar, Cumilla",
         "visitingTime": "3pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801711795740"
-      },
-      "id": "79b4ed81-de61-47ff-8920-96e28558d64b"
+        "appointmentNumber": "+8801711795740Call Now"
+      }
     },
     {
+      "id": "74784e5c-d01e-4f76-a4c9-5c55a4b57493",
+      "departmentId": "4eccd45c-6543-47da-9aa9-40c0377f4d04",
+      "link": "https://www.doctorbangladesh.com/dr-biplob-kumar-barman/",
+      "imageId": "cb1a5141-19b7-464c-8cc8-96c9a789082d",
       "name": "Dr. Biplob Kumar Barman",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General & Laparoscopic Specialist Surgeon",
@@ -234,25 +286,14 @@
         "hospital": "Labaid Diagnostic, Cumilla",
         "address": "Tomsom Bridge, Laksam Road, Cumilla",
         "visitingTime": "3pm to 8pm (Sun, Tue & Wed)",
-        "appointmentNumber": "+8801766661133"
-      },
-      "id": "590ec248-6cac-48cf-8420-38829c8ccb2d"
+        "appointmentNumber": "+8801766661133Call Now"
+      }
     },
     {
-      "name": "Dr. Md. Saidul Anwar",
-      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
-      "specialty": "General & Laparoscopic Specialist Surgeon",
-      "workplace": "Cumilla Medical College & Hospital",
-      "info": "Dr. Md. Saidul Anwar is a General Surgeon in Comilla. His qualification is MBBS, BCS (Health), FCPS (Surgery). He is a Resident Surgeon, Surgery at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Cumilla Medical Center Pvt. Ltd. (Tower Hospital). Practicing hour of Dr. Md. Saidul Anwar at Cumilla Medical Center Pvt. Ltd. (Tower Hospital) is 3pm to 8pm (Closed: Friday).",
-      "chamber": {
-        "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
-        "address": "Comilla Tower (Room - 659), Laksam Road, Kandirpar, Cumilla",
-        "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801740918797"
-      },
-      "id": "cefd26e6-ac94-43e8-a2fd-2e89e9f58b25"
-    },
-    {
+      "id": "6838ebef-c349-42bc-96e4-10a1b61a5421",
+      "departmentId": "4eccd45c-6543-47da-9aa9-40c0377f4d04",
+      "link": "https://www.doctorbangladesh.com/dr-md-sazzad-hossain/",
+      "imageId": "9ea585d0-de4d-4627-a4df-b4ee90bb4e1f",
       "name": "Dr. Md. Sazzad Hossain",
       "degree": "MBBS, BCS (Health), FCPS (Surgery), FMAS (India)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -262,11 +303,31 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801711144786"
-      },
-      "id": "dfc4d4d8-77c9-4e0a-a598-858f3628ec40"
+        "appointmentNumber": "+8801711144786Call Now"
+      }
     },
     {
+      "id": "9f4b9396-690a-4e16-b391-e225038a2aad",
+      "departmentId": "4eccd45c-6543-47da-9aa9-40c0377f4d04",
+      "link": "https://www.doctorbangladesh.com/dr-md-saidul-anwar/",
+      "imageId": "b65b44f0-8805-4a62-8a22-3f93f6eec6f2",
+      "name": "Dr. Md. Saidul Anwar",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery)",
+      "specialty": "General & Laparoscopic Specialist Surgeon",
+      "workplace": "Cumilla Medical College & Hospital",
+      "info": "Dr. Md. Saidul Anwar is a General Surgeon in Comilla. His qualification is MBBS, BCS (Health), FCPS (Surgery). He is a Resident Surgeon, Surgery at Cumilla Medical College & Hospital. He regularly provides treatment to his patients at Cumilla Medical Center Pvt. Ltd. (Tower Hospital). Practicing hour of Dr. Md. Saidul Anwar at Cumilla Medical Center Pvt. Ltd. (Tower Hospital) is 3pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
+        "address": "Comilla Tower (Room - 659), Laksam Road, Kandirpar, Cumilla",
+        "visitingTime": "3pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801740918797Call Now"
+      }
+    },
+    {
+      "id": "7095ceaa-368c-41a1-84d1-07249ae413e4",
+      "departmentId": "4eccd45c-6543-47da-9aa9-40c0377f4d04",
+      "link": "https://www.doctorbangladesh.com/dr-s-m-mahfuzur-rahman-shohag/",
+      "imageId": "7064fb91-a59e-453d-8dba-fcb92f83a8f8",
       "name": "Dr. S.M. Mahfuzur Rahman (Shohag)",
       "degree": "MBBS, FCPS (Surgery), FMAS (India)",
       "specialty": "General, Laparoscopic, Colorectal & Breast Surgeon",
@@ -276,9 +337,8 @@
         "hospital": "Laksam Doctor's Clinic & Hospital",
         "address": "HK Tower, Opposite Tisha Bus Counter, Bypass, Laksam, Cumilla",
         "visitingTime": "3pm to 8pm (Closed: Sunday)",
-        "appointmentNumber": "+8801404028511"
-      },
-      "id": "48fb4a1c-cb55-4be0-bf3c-30fde9ba0bc4"
+        "appointmentNumber": "+8801404028511Call Now"
+      }
     }
   ]
 }

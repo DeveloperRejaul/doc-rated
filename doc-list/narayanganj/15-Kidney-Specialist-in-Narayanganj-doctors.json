@@ -1,48 +1,61 @@
 {
   "doctor": [
     {
+      "id": "525378e4-8d95-4445-80ad-c6d41de5d140",
+      "departmentId": "5adc1226-eeb4-4bd7-a869-ddd234d3a2b1",
+      "link": "https://www.doctorbangladesh.com/dr-kazi-shahnoor-alam/",
+      "imageId": "7115b3de-01df-47b2-a185-d6054a41ebd8",
       "name": "Prof. Dr. Kazi Shahnoor Alam",
       "degree": "MBBS, FCPS (Medicine), MD (Nephrology)",
       "specialty": "Kidney & Medicine Specialist",
       "workplace": "National Institute of Kidney Diseases & Urology",
-      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, B.B. Road, Chashara, Narayanganj – 1400\nVisiting Hour: 8am to 12pm (Only Friday)\nAppointment: +8809666787804\nCall Now",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, B.B. Road, Chashara, Narayanganj – 1400 Visiting Hour: 8am to 12pm (Only Friday) Appointment: +8809666787804 Call Now",
       "chamber": {
         "hospital": "Comfort Diagnostic Center, Dhanmondi",
         "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "7pm to 10pm (Sat, Mon, Wed & Thu)",
-        "appointmentNumber": "+8801731956033"
-      },
-      "id": "59c30aac-c066-4154-aa6c-5c351e632a98"
+        "appointmentNumber": "+8801731956033Call Now"
+      }
     },
     {
+      "id": "0c2d172c-959a-4074-9881-7f929232e7d6",
+      "departmentId": "5adc1226-eeb4-4bd7-a869-ddd234d3a2b1",
+      "link": "https://www.doctorbangladesh.com/dr-rafi-nazrul-islam/",
+      "imageId": "920281a3-ea33-4124-92e9-57afdcbe37fd",
       "name": "Dr. Rafi Nazrul Islam",
       "degree": "MBBS, MD (Nephrology)",
       "specialty": "Diabetes, Medicine & Kidney Disease Specialist",
       "workplace": "Birdem General Hospital & Ibrahim Medical College",
-      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, B.B. Road, Chashara, Narayanganj – 1400\nVisiting Hour: 10am to 1pm (Sat, Mon & Wed)\nAppointment: +8809666787804\nCall Now",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, B.B. Road, Chashara, Narayanganj – 1400 Visiting Hour: 10am to 1pm (Sat, Mon & Wed) Appointment: +8809666787804 Call Now",
       "chamber": {
         "hospital": "Islami Bank Central Hospital, Kakrail",
         "address": "30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000",
         "visitingTime": "7pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8802222225802"
-      },
-      "id": "ab6c8929-5ec1-4225-8798-d7fab77f8fd8"
+        "appointmentNumber": "+8802222225802Call Now"
+      }
     },
     {
+      "id": "65b64031-cb98-41da-bcfd-d0a1d6d713d6",
+      "departmentId": "5adc1226-eeb4-4bd7-a869-ddd234d3a2b1",
+      "link": "https://www.doctorbangladesh.com/dr-asm-tanim-anwar/",
+      "imageId": "d24b38f4-1f63-41a0-917b-703bbab6c0ce",
       "name": "Dr. A.S.M. Tanim Anwar",
       "degree": "MBBS (DMC), MD (Nephrology), MPH (UK), CCD (BIRDEM)",
       "specialty": "Kidney Diseases & Transplant Specialist",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, B.B. Road, Chashara, Narayanganj – 1400\nVisiting Hour: 4pm to 11pm (Sat, Mon, Wed) & 11am to 5pm (Friday)\nAppointment: +8809666787804\nCall Now",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, B.B. Road, Chashara, Narayanganj – 1400 Visiting Hour: 4pm to 11pm (Sat, Mon, Wed) & 11am to 5pm (Friday) Appointment: +8809666787804 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "8pm to 10pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "a937bc18-f6ab-4cfa-830a-9a3a352009d1"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "4f1666d7-d246-4481-a7b2-5f983a207a11",
+      "departmentId": "5adc1226-eeb4-4bd7-a869-ddd234d3a2b1",
+      "link": "https://www.doctorbangladesh.com/dr-md-rezaul-alam-kidney/",
+      "imageId": "28c7f2ad-d983-4abd-8450-92ca2dd1bfbf",
       "name": "Dr. Md. Rezaul Alam",
       "degree": "MBBS, MCPS (Medicine), MD (Nephrology)",
       "specialty": "Kidney Diseases Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "5pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "73f6690f-b9c6-43dc-922c-86f47a2179ad"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "2eb9dd8a-0b3f-44ac-a39c-b28f47009c57",
+      "departmentId": "5adc1226-eeb4-4bd7-a869-ddd234d3a2b1",
+      "link": "https://www.doctorbangladesh.com/dr-ariful-islam-majumder/",
+      "imageId": "8e022cb5-22c4-4bc5-b0c3-8b2bec68a00e",
       "name": "Dr. Ariful Islam Majumder",
       "degree": "MBBS, BCS (Health), MD (Nephrology)",
       "specialty": "Kidney & Medicine Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Modern Diagnostic Center, Narayanganj",
         "address": "207, Bangabandhu Road, Chashara, Narayanganj - 1400",
         "visitingTime": "6pm to 10pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801820842293"
-      },
-      "id": "a3b8f989-b10c-4a41-a4e6-ed83537f2e31"
+        "appointmentNumber": "+8801820842293Call Now"
+      }
     },
     {
+      "id": "a9fd205c-6f07-4f0d-8e98-6897406406f2",
+      "departmentId": "5adc1226-eeb4-4bd7-a869-ddd234d3a2b1",
+      "link": "https://www.doctorbangladesh.com/dr-samina-masud-santa/",
+      "imageId": "b3e12a30-976d-4050-9ded-8dee4c75756a",
       "name": "Dr. Samina Masud Santa",
       "degree": "MBBS, MD (Pediatric Nephrology)",
       "specialty": "Neonatal & Child Kidney Diseases Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "4pm to 8pm (Sat, Wed & Fri)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "092c41d1-65da-48d5-b18f-3f4b0dcd723f"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "13ca76b8-4254-4f7f-83b8-78234034703d",
+      "departmentId": "5adc1226-eeb4-4bd7-a869-ddd234d3a2b1",
+      "link": "https://www.doctorbangladesh.com/dr-md-zakir-hossain-kidney/",
+      "imageId": "922045b5-cd7a-4a4f-9f11-8696fefb1900",
       "name": "Dr. Md. Zakir Hossain",
       "degree": "MBBS, MD (Nephrology)",
       "specialty": "Kidney Diseases & Dialysis Specialist",
@@ -94,11 +116,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "3pm to 6pm (Closed: Wed & Friday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "263fda7a-bbb7-436b-9187-914f4774bf99"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "94ba88ea-413a-4898-a7c5-4750485a5c58",
+      "departmentId": "5adc1226-eeb4-4bd7-a869-ddd234d3a2b1",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-ashikur-rahman-khan/",
+      "imageId": "f54f4148-accd-4831-8a92-6e375c5f7ebf",
       "name": "Dr. Mohammad Ashikur Rahman Khan",
       "degree": "MBBS, FCPS (Medicine), MD (Nephrology), CCD (BIRDEM)",
       "specialty": "KIdney, Medicine & Diabetes Specialist",
@@ -108,11 +133,14 @@
         "hospital": "Medinova Medical Services, Narayanganj",
         "address": "145, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "Sunday, Monday, Wednesday & Friday",
-        "appointmentNumber": "+8801913119989"
-      },
-      "id": "ce003371-c91f-4571-9a76-e3b9d7fc9942"
+        "appointmentNumber": "+8801913119989Call Now"
+      }
     },
     {
+      "id": "bf8862e2-7970-45d9-83eb-7c5c828f7858",
+      "departmentId": "5adc1226-eeb4-4bd7-a869-ddd234d3a2b1",
+      "link": "https://www.doctorbangladesh.com/dr-samawat-naiyer-shahid/",
+      "imageId": "d24acc14-783d-4b5c-a588-a61c7cdba23b",
       "name": "Dr. Samawat Naiyer Shahid",
       "degree": "MBBS, MD (Nephrology), CCD (BIRDEM)",
       "specialty": "Kidney & Diabetes Specialist",
@@ -122,9 +150,8 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "10am to 1pm (Tuesday & Thursday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "1ddab4b9-70d6-4aea-9397-7e9a26eb7c91"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     }
   ]
 }

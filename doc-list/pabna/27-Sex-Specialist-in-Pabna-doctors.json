@@ -1,34 +1,44 @@
 {
   "doctor": [
     {
+      "id": "35971b9a-3494-44bf-b500-e8e4b78d4017",
+      "departmentId": "db317dc0-d4c7-4f39-92fd-ce4cfbc2b14e",
+      "link": "https://www.doctorbangladesh.com/dr-abm-khalekuzzaman-shipon/",
+      "imageId": "f0dc793c-e9cb-4a6b-a8ca-2864b71745f5",
       "name": "Dr. ABM Khalekuzzaman Shipon",
       "degree": "MBBS, PGT (SKIN & VD), FRSH (London), Training (Dermato & Cosmetic Surgery)",
       "specialty": "Skin, Sexual Diseases, Allergy, Hair Specialist & Cosmetic Surgeon",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Pabna Shishu Hospital & Mattriseba\nAddress: Meril Bypass Road, Shalgaria, Pabna – 6600\nVisiting Hour: 9am to 3pm (Only Friday)\nAppointment: +8801777939898\nCall Now",
+      "info": "Pabna Shishu Hospital & Mattriseba Address: Meril Bypass Road, Shalgaria, Pabna – 6600 Visiting Hour: 9am to 3pm (Only Friday) Appointment: +8801777939898 Call Now",
       "chamber": {
         "hospital": "Laser Chain & Skin Center",
         "address": "Hussain Plaza, House # 01, Road # 15, Mirpur Road, Dhanmondi, Dhaka",
         "visitingTime": "4pm to 7pm (Saturday, Monday & Wednesday)",
-        "appointmentNumber": "+8801777939898"
-      },
-      "id": "77bde835-eac4-492f-905d-83d384bd1a6e"
+        "appointmentNumber": "+8801777939898Call Now"
+      }
     },
     {
+      "id": "3db0aff8-853f-4c01-bb03-4c0cf0dd5ccd",
+      "departmentId": "db317dc0-d4c7-4f39-92fd-ce4cfbc2b14e",
+      "link": "https://www.doctorbangladesh.com/dr-md-ektedar-rahman-shawon/",
+      "imageId": "18f66b55-1fdb-4a22-9a7d-d3cad9908e06",
       "name": "Dr. Md. Iktedar Rahman (Shawon)",
       "degree": "MBBS, BCS (Health), DDV (BSMMU)",
       "specialty": "Skin, Allergy, Leprosy, Hair, Nail & Sexual Diseases Specialist",
       "workplace": "250 Bedded General Hospital, Pabna",
-      "info": "City Diagnostic Center, Pabna\nAddress: Beside Pabna TB Hospital, Hospital Road, Shalgaria, Pabna\nVisiting Hour: 2pm to 5pm (Closed: Friday)\nAppointment: +8801757204642\nCall Now",
+      "info": "City Diagnostic Center, Pabna Address: Beside Pabna TB Hospital, Hospital Road, Shalgaria, Pabna Visiting Hour: 2pm to 5pm (Closed: Friday) Appointment: +8801757204642 Call Now",
       "chamber": {
         "hospital": "Labaid Diagnostic, Pabna",
         "address": "Beside Joy Kali Bari, Thana Road, Shalgaria, Pabna",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766661901"
-      },
-      "id": "a49efd2b-8ab3-4ff8-8baf-ef5c366e2fb2"
+        "appointmentNumber": "+8801766661901Call Now"
+      }
     },
     {
+      "id": "4a0d012e-6310-479d-b93b-ced358903cf7",
+      "departmentId": "db317dc0-d4c7-4f39-92fd-ce4cfbc2b14e",
+      "link": "https://www.doctorbangladesh.com/dr-a-s-m-rowshon-newaz/",
+      "imageId": "0f5a4768-2635-4230-a78e-11a4e2a9bd88",
       "name": "Dr. A.S.M Rowshon Newaz",
       "degree": "MBBS, BCS (Health), MPhil (Physio), PGT (Skin & Sex)",
       "specialty": "Skin, Allergy & Sexual Diseases Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Shafique Hospital, Pabna",
         "address": "Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna",
         "visitingTime": "4pm to 9pm (Thursday & Friday)",
-        "appointmentNumber": "+8801701654390"
-      },
-      "id": "4e56a93d-ce96-4007-b981-bc16d579a5cd"
+        "appointmentNumber": "+8801701654390Call Now"
+      }
     },
     {
+      "id": "08956018-5800-47c6-afac-078294d7e689",
+      "departmentId": "db317dc0-d4c7-4f39-92fd-ce4cfbc2b14e",
+      "link": "https://www.doctorbangladesh.com/dr-akhterul-alam-azad/",
+      "imageId": "14b22d33-dd61-4fa4-8390-1340c444950d",
       "name": "Dr. Akhterul Alam Azad",
       "degree": "MBBS, BCS (Health), DDV (BSMMU), DMU, CCD (BIRDEM)",
       "specialty": "Dermatology (Skin, Allergy, Leprosy, Hair) & Sexual Medicine Specialist",
@@ -52,23 +65,25 @@
         "hospital": "Jalal Memorial Hospital, Pabna",
         "address": "Godaun Mor, Hospital Road, Shalgaria, Pabna - 6600",
         "visitingTime": "3pm to 8pm (Sunday & Tuesday)",
-        "appointmentNumber": "+8801743708079"
-      },
-      "id": "fec3777b-c383-403a-836c-da27a12d6f0c"
+        "appointmentNumber": "+8801743708079Call Now"
+      }
     },
     {
+      "id": "209b6a14-4446-446f-aedc-e3c35f2be990",
+      "departmentId": "db317dc0-d4c7-4f39-92fd-ce4cfbc2b14e",
+      "link": "https://www.doctorbangladesh.com/dr-shahanaj-akter/",
+      "imageId": "256dd2aa-c9a6-4c20-9c68-e57a0b51c4bc",
       "name": "Dr. Shahanaj Akter",
       "degree": "MBBS, BCS (Health), DOC (SKIN & VD), PGT (SKIN & VD)",
       "specialty": "Skin, Allergy & Sexual Diseases Specialist",
       "workplace": "250 Bedded General Hospital, Pabna",
-      "info": "Dr. Shahanaj Akter’s Home\nAddress: 175/1, Road # 05, Block # Ga, Monurabad R/A, Pabna\nVisiting Hour: 7pm to 9pm (Everyday), 10am to 1pm (Friday)\nAppointment: +8801710800665\nCall Now",
+      "info": "Dr. Shahanaj Akter’s Home Address: 175/1, Road # 05, Block # Ga, Monurabad R/A, Pabna Visiting Hour: 7pm to 9pm (Everyday), 10am to 1pm (Friday) Appointment: +8801710800665 Call Now",
       "chamber": {
         "hospital": "Pabna Medical Consultation Center",
         "address": "Thana Road (In front of Joy Kalibari), Shalgaria, Pabna",
         "visitingTime": "4pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801710800665"
-      },
-      "id": "a2e9bccb-7ee0-46d5-b7a0-32636598bc96"
+        "appointmentNumber": "+8801710800665Call Now"
+      }
     }
   ]
 }

@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "b770fc11-bd69-4659-87cc-f4ffc20335cf",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/prof-dr-rayhana-awwal-sumi/",
+      "imageId": "679290f8-3a11-4591-a728-3264630b01b2",
       "name": "Prof. Dr. Rayhana Awwal Sumi",
       "degree": "MBBS, FCPS (Surgery), FRCS (Edinburgh), MS (Plastic Surgery)",
       "specialty": "Burn, Cosmetic & Plastic Surgery Specialist",
@@ -10,25 +14,31 @@
         "hospital": "Ibn Sina Medical Imaging Center, Zigatola",
         "address": "House # 58, Road # 2A, Zigatola Bus Stand, Dhaka - 1209",
         "visitingTime": "4pm to 10pm (Monday & Thursday)",
-        "appointmentNumber": "+8801711625173"
-      },
-      "id": "7f3ee3de-2beb-42c0-8f6a-c17ac5990563"
+        "appointmentNumber": "+8801711625173Call Now"
+      }
     },
     {
+      "id": "b75140ac-24e8-4053-a2a4-330538d33075",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-tahmina-sattar/",
+      "imageId": "9ba44b52-d8fe-4a7f-942f-ad561a775cbb",
       "name": "Dr. Tahmina Satter",
       "degree": "MBBS, FCPS (Surgery), MS (Plastic Surgery)",
       "specialty": "General, Burn, Cosmetic & Plastic Surgery Specialist",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Trust Medical Services, Sylhet\nAddress: 16, Modhushahid, New Medical Road, Sylhet – 3100\nVisiting Hour: 4pm to 10pm (Thursday) & 8am to 12.30pm (Friday)\nAppointment: +880821728930\nCall Now",
+      "info": "Trust Medical Services, Sylhet Address: 16, Modhushahid, New Medical Road, Sylhet – 3100 Visiting Hour: 4pm to 10pm (Thursday) & 8am to 12.30pm (Friday) Appointment: +880821728930 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "4.30pm to 9pm (Sat, Sun, Tue & Wed)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "0c0fa972-4f30-4b6f-9ae5-22ff7ec967dc"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "8c7833a6-d99e-4c84-93ea-aba65ebaf418",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-sharmin-akter-sumi/",
+      "imageId": "12c3348c-0015-4dce-819d-ef492bf74704",
       "name": "Dr. Sharmin Akter Sumi",
       "degree": "MBBS, FCPS (Surgery), MS (Plastic Surgery)",
       "specialty": "Burn, Plastic, Cosmetic, Breast, Abdominoplasty & Reconstructive Surgeon",
@@ -38,25 +48,31 @@
         "hospital": "Popular Diagnostic Center, Shantinagar",
         "address": "Unit # 02, House # 15, Shantinagar, Motijheel, Dhaka",
         "visitingTime": "7pm to 8:30pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801914713713"
-      },
-      "id": "82ba1420-9481-4ea2-a83b-f2d2a4124717"
+        "appointmentNumber": "+8801914713713Call Now"
+      }
     },
     {
+      "id": "634f28ba-2e29-4b8c-bc0b-348348ba42ba",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-ayub-ali/",
+      "imageId": "e580e95a-a789-4240-aeec-8e390615fd9d",
       "name": "Prof. Dr. Md. Ayub Ali",
       "degree": "MBBS , FCPS, MS (Plastic Surgery), FACS (USA), PhD (UK)",
       "specialty": "Plastic, Burn & Cosmetic Surgery Specialist",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "CSCR Hospital, Chittagong\nAddress: CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram\nVisiting Hour: (Only Thursday & Friday)\nAppointment: +8801834256725\nCall Now",
+      "info": "CSCR Hospital, Chittagong Address: CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram Visiting Hour: (Only Thursday & Friday) Appointment: +8801834256725 Call Now",
       "chamber": {
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "6pm to 8.30pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801749519346"
-      },
-      "id": "ff021ad3-e06d-4800-98b5-08529d785a81"
+        "appointmentNumber": "+8801749519346Call Now"
+      }
     },
     {
+      "id": "43340ab7-74de-4dc9-b7d4-5a3c574b6dcb",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/prof-dr-shafquat-hussain-khundkar/",
+      "imageId": "db4bfcc9-d443-4886-8d1d-f6986bd74e00",
       "name": "Prof. Dr. Shafquat Hussain Khundkar",
       "degree": "MBBS, FCPS (Surgery), Trained in Plastic Surgery (Australia)",
       "specialty": "Burn, Plastic, Cosmetic, Breast, Abdominoplasty & Reconstructive Surgery Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "10am to 1pm & 4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "87b5356f-d1d0-4d7f-ab17-eba5ba8e7d2d"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "354f7b8f-cb14-499a-b1e4-8fd159304c80",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-nurunnahar-happy/",
+      "imageId": "a7ed0ada-d394-41a6-8589-c05759eab77c",
       "name": "Dr. Nurunnahar Happy",
       "degree": "MBBS, FCPS",
       "specialty": "Breast & Plastic Surgery",
@@ -80,25 +99,31 @@
         "hospital": "Ibn Sina Diagnostic Center, Lalbagh",
         "address": "27/4 Dhakeshwori Road, Lalbagh, Dhaka",
         "visitingTime": "5pm to 8pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801783356048"
-      },
-      "id": "17ff55b3-0057-4d3a-b6f2-f12c14fcd1d8"
+        "appointmentNumber": "+8801783356048Call Now"
+      }
     },
     {
+      "id": "3f70ef89-7948-407c-a874-bcfab6929f89",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/brig-gen-prof-dr-md-enamul-kabir/",
+      "imageId": "e7ac1820-0a01-4a24-b4cb-f6eaa38c8c90",
       "name": "Brig. Gen. Prof. Dr. Md. Enamul Kabir",
       "degree": "MBBS, FCPS (Surgery), FACS (USA), FICS (USA), Diploma in Burns & Plastic Surgery (China)",
       "specialty": "Plastic, Burn, Aesthetic Plastic (Cosmetic) & Breast Surgeon",
       "workplace": "Marks Medical College & Hospital",
-      "info": "Marks Medical College & Hospital\nAddress: Room 118, Main Road, Mirpur 14, Dhaka 1216, Bangladesh\nVisiting Hour: 7pm to 9pm (Closed: Friday)\nAppointment: +8801965457570\nCall Now",
+      "info": "Marks Medical College & Hospital Address: Room 118, Main Road, Mirpur 14, Dhaka 1216, Bangladesh Visiting Hour: 7pm to 9pm (Closed: Friday) Appointment: +8801965457570 Call Now",
       "chamber": {
         "hospital": "Siraj-Khaleda Memorial Cantonment Board General Hospital",
         "address": "Dhaka Cantonment (Over Main Road Opposite of Central Post Office & Sonali Bank), Dhaka",
         "visitingTime": "1pm to 3pm & 5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801965457570, +8801302897580, +8801769053199"
-      },
-      "id": "ffbf96a8-ffa2-4f72-8d7c-2b0b9acf141a"
+        "appointmentNumber": "+8801965457570, +8801302897580, +8801769053199Call Now"
+      }
     },
     {
+      "id": "7707f745-0e58-48b7-a26a-aad252e0d824",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-md-shariful-islam-sharif/",
+      "imageId": "7596cf76-a81e-40a9-9297-0db64e16e2b1",
       "name": "Dr. Md. Shariful Islam Sharif",
       "degree": "MBBS, BCS (Health), FCPS (Plastic Surgery), MS (Thesis), MRCS (UK)",
       "specialty": "Plastic, Oncoplastic, Cosmetic & Aesthetic Surgeon",
@@ -108,11 +133,14 @@
         "hospital": "Cosmetic Surgery Center",
         "address": "Nizam Shankar Plaza, Shankar Bus Stop, Dhanmondi, Dhaka-1207",
         "visitingTime": "4pm to 6pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801712002891"
-      },
-      "id": "07acf15b-fce8-4f9a-b91e-a3ef97d9f5f1"
+        "appointmentNumber": "+8801712002891Call Now"
+      }
     },
     {
+      "id": "dbff12f0-38dc-4299-90fb-89a344fafc64",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/prof-dr-syed-shamsuddin-ahmed/",
+      "imageId": "22d19744-1974-4db6-acdd-688d57b07f02",
       "name": "Prof. Dr. Syed Shamsuddin Ahmed",
       "degree": "MBBS, DTM, PhD (Plastic Surgery)",
       "specialty": "Plastic, Burn, Hand, Reconstructive & Cosmetic Surgery Specialist",
@@ -122,11 +150,14 @@
         "hospital": "Bangladesh Multicare Hospital",
         "address": "382, DIT Road, West Rampura, Dhaka - 1219",
         "visitingTime": "10am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801814793091"
-      },
-      "id": "078862ff-151c-41b4-b0b0-12abf3919306"
+        "appointmentNumber": "+8801814793091Call Now"
+      }
     },
     {
+      "id": "9e0ce47d-f3b5-4dc4-a3c5-10a1ccfd3278",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-munny-momotaz/",
+      "imageId": "a09d5d64-9976-41d1-b8cb-9a3df92c8b5f",
       "name": "Dr. Munny Momotaz",
       "degree": "MBBS, FCPS (Surgery), MS (Plastic Surgery)",
       "specialty": "General, Breast, Plastic, Reconstructive & Cosmetic Surgery Specialist",
@@ -136,25 +167,31 @@
         "hospital": "Medinova Medical Services, Malibagh",
         "address": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
         "visitingTime": "6pm to 8pm (Sun, Mon, Tue & Thu)",
-        "appointmentNumber": "+8801790118855"
-      },
-      "id": "7a151ba4-e801-4d92-8d79-ab77da041f27"
+        "appointmentNumber": "+8801790118855Call Now"
+      }
     },
     {
+      "id": "f055c0d6-81cc-4415-af50-d80e30098c79",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-p-c-das/",
+      "imageId": "330aadc5-ce33-4614-9598-9583e8bf9458",
       "name": "Dr. PC Das",
       "degree": "MBBS, FCPS (Plastic Surgery)",
       "specialty": "Burn, Plastic, Cosmetic & Micro Reconstructive Surgeon",
       "workplace": "Sheikh Hasina National Institute of Burn & Plastic Surgery",
-      "info": "Popular Diagnostic Center, Mymensingh\nAddress: 171, Charpara, Medical College Gate, Mymensingh – 2200\nVisiting Hour: 10am to 12pm (Only Friday)\nAppointment: +8809666787814\nCall Now",
+      "info": "Popular Diagnostic Center, Mymensingh Address: 171, Charpara, Medical College Gate, Mymensingh – 2200 Visiting Hour: 10am to 12pm (Only Friday) Appointment: +8809666787814 Call Now",
       "chamber": {
         "hospital": "Health and Hope Hospital",
         "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
         "visitingTime": "5pm to 7pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8809611996699"
-      },
-      "id": "eac72483-4832-4477-862b-eeb1c7c0d36b"
+        "appointmentNumber": "+8809611996699Call Now"
+      }
     },
     {
+      "id": "6d7c7fd3-a95a-4196-b456-bd338d67394e",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-hedayet-ali-khan/",
+      "imageId": "cffe0687-4c03-4ba6-a256-f5d2e3038c34",
       "name": "Dr. Md. Hedayet Ali Khan",
       "degree": "MBBS, BCS (Health), FCPS (Plastic & Reconstructive Surgery)",
       "specialty": "Burn, Plastic, Hand, Micro & Cosmetic Surgeon",
@@ -164,11 +201,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801711980697"
-      },
-      "id": "2ae70bed-f4e6-46d4-b72d-a52399e256ee"
+        "appointmentNumber": "+8801711980697Call Now"
+      }
     },
     {
+      "id": "534c15c2-907c-4eca-8072-65ffdb297ef1",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-nashir-uddin/",
+      "imageId": "df62fe16-c359-47df-beac-80c165c40bbd",
       "name": "Dr. Mohammad Nashir Uddin",
       "degree": "MBBS, FCPS (Surgery), MS (Plastic Surgery), FACS (USA)",
       "specialty": "Burn, Plastic & Breast Surgery Specialist",
@@ -178,25 +218,31 @@
         "hospital": "AMZ Hospital, Badda",
         "address": "Cha - 80/3, Progati Sarani, Uttar Badda, Dhaka",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801711-837187"
-      },
-      "id": "0590571e-b041-4f30-bf2b-d078bf86b437"
+        "appointmentNumber": "+8801711-837187Call Now"
+      }
     },
     {
+      "id": "701abe4a-fdea-458c-88eb-d26b6f51b3e5",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/prof-dr-sayeed-ahmed-siddiky/",
+      "imageId": "357d8d59-d737-4989-8bf0-ed7af0459475",
       "name": "Prof. Dr. Sayeed Ahmed Siddiky",
       "degree": "MBBS (DMC), FCPS (Surgery), FRCS (UK), FICS, FACS (USA)",
       "specialty": "Plastic & Cosmetic Surgeon",
       "workplace": "Cosmetic Surgery Centre Ltd, Dhanmondi",
-      "info": "Cosmetic Surgery Centre Ltd, Dhanmondi\nAddress: Shankar Plaza, 72, Satmasjid Road, Dhanmondi R/A, Dhaka\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8801711043435\nCall Now",
+      "info": "Cosmetic Surgery Centre Ltd, Dhanmondi Address: Shankar Plaza, 72, Satmasjid Road, Dhanmondi R/A, Dhaka Visiting Hour: Unknown. Please call to know visiting hour Appointment: +8801711043435 Call Now",
       "chamber": {
         "hospital": "Bangladesh Specialized Hospital",
         "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8809666700100"
-      },
-      "id": "ef18a2dc-7779-41b4-b0d2-b07bbb3ab061"
+        "appointmentNumber": "+8809666700100Call Now"
+      }
     },
     {
+      "id": "71a226ec-ee46-486f-94fc-2d6ad49ac35d",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-tanveer-ahmed/",
+      "imageId": "58359d1b-ebd4-47d9-a5b9-76dfc0620904",
       "name": "Dr. Tanveer Ahmed",
       "degree": "MBBS, FCPS (Plastic Surgery), FACS (USA), CMEd",
       "specialty": "Plastic, Aesthetic & Oncoplastic Surgeon",
@@ -206,11 +252,14 @@
         "hospital": "Labaid Cancer Hospital & Super Speciality Center",
         "address": "26, Green Road, Dhaka",
         "visitingTime": "5pm to 8pm (Sun, Tue & Wed)",
-        "appointmentNumber": "+8809666710001"
-      },
-      "id": "e9442a27-cd30-4d28-aef8-047419a8f7d2"
+        "appointmentNumber": "+8809666710001Call Now"
+      }
     },
     {
+      "id": "a095f1f6-7042-4da6-beac-f3d90ac7b7bf",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/lt-col-dr-syeda-asmema-shashi/",
+      "imageId": "c8db518c-ff77-4f40-8cd5-38b003452318",
       "name": "Lt. Col. Dr. Syeda Asmema Shashi",
       "degree": "MBBS, FCPS (Surgery), MS (Plastic Surgery)",
       "specialty": "Burn, Plastic, Reconstructive, Cosmetic & Breast Surgery Specialist",
@@ -220,11 +269,14 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "10678"
-      },
-      "id": "dc56b1db-e6b0-4bb9-96e8-eed1264983dc"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "56fbf1b4-f222-41e4-aa9a-b8d66c838172",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-md-obaidul-islam-sobuj/",
+      "imageId": "336aa762-074d-4c56-affc-ae39836b5533",
       "name": "Dr. Md. Obaidul Islam Sobuj",
       "degree": "MBBS (DMC), FCPS (Surgery), FCPS (Plastic & Reconstructive Surgery)",
       "specialty": "Plastic, Cosmetic & Reconstructive Surgeon",
@@ -234,11 +286,14 @@
         "hospital": "SIBL Foundation Hospital & Diagnostic Center",
         "address": "Fattah Plaza, 70, Green Road, Panthapath Mor, Dhaka - 1205",
         "visitingTime": "8pm to 10pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801717179321"
-      },
-      "id": "add327c4-da50-45be-b95c-21468f8d393d"
+        "appointmentNumber": "+8801717179321Call Now"
+      }
     },
     {
+      "id": "2cd4a8c8-5956-4ded-993c-13ae8bbad799",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-taslima-sultana-plastic/",
+      "imageId": "f3c6719c-e7f3-4b42-9675-202e71a28ad7",
       "name": "Dr. Taslima Sultana",
       "degree": "MBBS, MS (Plastic Surgery)",
       "specialty": "Plastic, Breast, Aesthetic & Cosmetic Surgery Specialist",
@@ -248,25 +303,31 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "4pm to 6pm (Everyday)",
-        "appointmentNumber": "+8801741620140"
-      },
-      "id": "acd6ef25-dd95-4aa5-95aa-3f0bb67e21a3"
+        "appointmentNumber": "+8801741620140Call Now"
+      }
     },
     {
+      "id": "63679053-ef07-42a7-b1e4-dc4108220ef1",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/brigadier-general-dr-masroor-hasan/",
+      "imageId": "fcbae993-2337-47eb-b8d9-0186e8c73373",
       "name": "Brigadier General (Dr.) Masroor Hasan",
       "degree": "MBBS (SSMC), FCPS (Surgery), MS (Plastic Surgery), MRCS (Eng)",
       "specialty": "Plastic, Reconstructive & Aesthetic Surgery Specialist",
       "workplace": "Combined Military Hospital (CMH), Dhaka",
-      "info": "Brigadier General (Dr.) Masroor Hasan is a Plastic Surgeon in Dhaka. His qualification is MBBS (SSMC), FCPS (Surgery), MS (Plastic Surgery), MRCS (Eng). He is an Advisor Specialist & HOD, Burn & Plastic Surgery of  at Combined Military Hospital (CMH), Dhaka . He regularly provides treatment to his patients at Siraj-Khaleda Memorial Cantonment Board General Hospital. Practicing hour of Brigadier General (Dr.) Masroor Hasan at Siraj-Khaleda Memorial Cantonment Board General Hospital is 4.30pm to 7pm (Closed: Friday).",
+      "info": "Brigadier General (Dr.) Masroor Hasan is a Plastic Surgeon in Dhaka. His qualification is MBBS (SSMC), FCPS (Surgery), MS (Plastic Surgery), MRCS (Eng). He is an Advisor Specialist & HOD, Burn & Plastic Surgery of at Combined Military Hospital (CMH), Dhaka . He regularly provides treatment to his patients at Siraj-Khaleda Memorial Cantonment Board General Hospital. Practicing hour of Brigadier General (Dr.) Masroor Hasan at Siraj-Khaleda Memorial Cantonment Board General Hospital is 4.30pm to 7pm (Closed: Friday).",
       "chamber": {
         "hospital": "Siraj-Khaleda Memorial Cantonment Board General Hospital",
         "address": "Dhaka Cantonment (Over Main Road Opposite of Central Post Office & Sonali Bank), Dhaka",
         "visitingTime": "4.30pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801715042039"
-      },
-      "id": "b13003da-7651-46fd-b192-a21b12b4698f"
+        "appointmentNumber": "+8801715042039Call Now"
+      }
     },
     {
+      "id": "f971dbb4-50e7-4f56-96bc-d899d9e5cffa",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-md-shakhawat-hossain/",
+      "imageId": "6abd9ae0-08ae-44dc-8ced-f52206dfd993",
       "name": "Dr. Md. Shakhawat Hossain",
       "degree": "MBBS, BCS (Health), MS (Plastic Surgery)",
       "specialty": "Burn & Plastic Surgery Specialist",
@@ -276,11 +337,14 @@
         "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
         "address": "1/1 B, Kallyanpur, Dhaka",
         "visitingTime": "4pm to 6.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801703725590"
-      },
-      "id": "881a8fbb-d7a2-4c85-9ea6-411c18b69223"
+        "appointmentNumber": "+8801703725590Call Now"
+      }
     },
     {
+      "id": "20efe2a7-753a-4cda-9294-6dddf8151795",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-mahbub-hasan/",
+      "imageId": "2b797972-6cfb-4e7f-baa7-549721f922a7",
       "name": "Dr. Mahbub Hasan",
       "degree": "MBBS, FCPS (Surgery), FCPS (Plastic Surgery), MRCS (EDIN)",
       "specialty": "Burn, Plastic, Cosmetic & Aesthetic Surgeon",
@@ -290,11 +354,14 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "0ec565b5-1254-4af1-9305-b2f6d190ec12"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "1d4eb9ec-91aa-4e0c-b4a3-37a507178403",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-shahidul-bari/",
+      "imageId": "336f0d84-0091-41fc-ba24-6ca3d0681ada",
       "name": "Prof. Dr. Md. Shahidul Bari",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "Burn, Plastic & Cosmetic Surgeon",
@@ -304,25 +371,31 @@
         "hospital": "City Hospital Limited, Dhaka",
         "address": "1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka – 1207",
         "visitingTime": "10am to 1pm (Closed: Friday)",
-        "appointmentNumber": "+8801732196738"
-      },
-      "id": "ab0e126d-2674-4652-8900-fdfd05963e54"
+        "appointmentNumber": "+8801732196738Call Now"
+      }
     },
     {
+      "id": "5469e191-17aa-4f20-aa77-7f486ed19786",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-tamanna-ahmed/",
+      "imageId": "0c2d3783-a2d0-44e2-84ee-94d7b2a3abc3",
       "name": "Dr. Tamanna Ahmed",
       "degree": "MBBS, MS (Plastic Surgery)",
       "specialty": "Plastic, Aesthetic, Breast, Hand, Burn & Cosmetic Surgery Specialist",
       "workplace": "Sheikh Hasina National Institute of Burn & Plastic Surgery",
-      "info": "Laser Chain & Skin Center\nAddress: (Beside Sobhanbagh Mosque) Dhanmondi 28, Dhaka – 1205\nVisiting Hour: 4pm to 6pm (Tue & Thu)\nAppointment: +8801720601503\nCall Now",
+      "info": "Laser Chain & Skin Center Address: (Beside Sobhanbagh Mosque) Dhanmondi 28, Dhaka – 1205 Visiting Hour: 4pm to 6pm (Tue & Thu) Appointment: +8801720601503 Call Now",
       "chamber": {
         "hospital": "Super Specialized Hospital",
         "address": "(Beside Bangladesh Eye Hospital) Dhanmondi 27, Dhaka - 1205",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801720601503"
-      },
-      "id": "f24a98ed-5c65-4fff-a0fb-97576595faad"
+        "appointmentNumber": "+8801720601503Call Now"
+      }
     },
     {
+      "id": "f442da7d-aeff-414b-9385-d079852514b3",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-shamim-hassan/",
+      "imageId": "354d98ec-9a18-4fbe-9914-afe772a70c24",
       "name": "Dr. Shamim Hassan",
       "degree": "MBBS (DMC), FCPS (Surgery), MS (Plastic Surgery), Fellowship (India)",
       "specialty": "Plastic Surgery Specialist",
@@ -332,11 +405,14 @@
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "3pm to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "5c6aaae8-8f6f-4abb-a9da-f9ab0a2c43c0"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
+      "id": "3051f254-1c03-43bd-a90c-0bd92e45c522",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-zaman-ummay-humayra/",
+      "imageId": "e4ce2721-ba7a-4cb4-a419-574f6dd51d5d",
       "name": "Dr. Zaman Ummay Humayra",
       "degree": "MBBS, FCPS (Plastic Surgery)",
       "specialty": "Plastic & Reconstructive Surgeon",
@@ -346,11 +422,14 @@
         "hospital": "Ahsania Mission Cancer & General Hospital",
         "address": "Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka",
         "visitingTime": "3pm to 5pm (Sun, Tue & Thursday)",
-        "appointmentNumber": "10617"
-      },
-      "id": "ce2de429-9278-465e-949f-aa916b5fb937"
+        "appointmentNumber": "10617Call Now"
+      }
     },
     {
+      "id": "5c3aa959-f3f6-4238-9c91-2f25d10fe3a3",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-hasib-rahman/",
+      "imageId": "c4a35802-1ce9-4604-88bc-6dc7bc39db29",
       "name": "Dr. Hasib Rahman",
       "degree": "MBBS, FCPS (Surgery), MS (Plastic Surgery)",
       "specialty": "Plastic & Reconstructive Surgeon",
@@ -360,11 +439,14 @@
         "hospital": "Bangladesh Specialized Hospital",
         "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8809666700100"
-      },
-      "id": "cd0b0156-0df4-44dd-a291-693244e9111c"
+        "appointmentNumber": "+8809666700100Call Now"
+      }
     },
     {
+      "id": "5d4755ef-7fe2-4264-ba7c-f78d2b87f7e4",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-ahmad-seraji/",
+      "imageId": "cdcd4e56-181b-489d-b0a4-62112a2aa69e",
       "name": "Dr. Ahmad Seraji",
       "degree": "MBBS, FCPS (Surgery), MCPS, MS (Surgery), MS (Plastic Surgery), MRCS (UK)",
       "specialty": "General, Plastic & Reconstructive Surgeon",
@@ -374,11 +456,14 @@
         "hospital": "Al-Manar Hospital Limited",
         "address": "Plot # Umo, Block # Rossoi, Satmosjid Road, Dhaka",
         "visitingTime": "3pm to 7pm (Sun, Tue & Thursday)",
-        "appointmentNumber": "+8801550020885"
-      },
-      "id": "ec5ae2b9-fc21-450a-a4e4-d126b09383f9"
+        "appointmentNumber": "+8801550020885Call Now"
+      }
     },
     {
+      "id": "b8331846-092c-481a-9c3b-4798dc3a77d2",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/prof-dr-abdullah-al-tarique/",
+      "imageId": "d66d6cf3-6b79-4100-a8c2-84b28966c48f",
       "name": "Prof. Dr. Abdullah Al Tarique",
       "degree": "MBBS, FCPS (Surgery), MS (Plastic Surgery)",
       "specialty": "General, Laparoscopic & Plastic Surgeon",
@@ -388,25 +473,31 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "4pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801714496994"
-      },
-      "id": "db6328f9-f01d-4671-86f0-97c6a93bb507"
+        "appointmentNumber": "+8801714496994Call Now"
+      }
     },
     {
+      "id": "c36f1df9-168a-4751-83b2-1a2c777c8a6e",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-tanmoy-prakash-ghosh/",
+      "imageId": "e8237115-542e-4ee8-bad4-d5b68350282d",
       "name": "Dr. Tanmoy Prakash Ghosh",
       "degree": "MBBS (SSMC), MS (Plastic Surgery)",
       "specialty": "Plastic, Burn, Hand, Breast, Aesthetic & Cosmetic Surgery Specialist",
       "workplace": "Sheikh Hasina National Institute of Burn & Plastic Surgery",
-      "info": "New Dhaka Modern Clinic\nAddress: 4 DC Roy Lane, Mitford Road, Dhaka – 1100\nVisiting Hour: 6pm to 8pm (Sun, Mon, Tue & Wed)\nAppointment: +8801723929007\nCall Now",
+      "info": "New Dhaka Modern Clinic Address: 4 DC Roy Lane, Mitford Road, Dhaka – 1100 Visiting Hour: 6pm to 8pm (Sun, Mon, Tue & Wed) Appointment: +8801723929007 Call Now",
       "chamber": {
         "hospital": "Al Helal Specialized Hospital",
         "address": "150, Begum Rokeya Sarani, Senpara-Parbata, Mirpur-10, Dhaka",
         "visitingTime": "6pm to 8pm (Sat & Thu)",
-        "appointmentNumber": "+8801723929007"
-      },
-      "id": "daa0e81c-488f-4ff7-bbb6-0cd3cbffa65a"
+        "appointmentNumber": "+8801723929007Call Now"
+      }
     },
     {
+      "id": "89125065-1eb0-4565-98e2-898d37c4bd80",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-maruf-alam-chowdhury/",
+      "imageId": "8e5dca20-fffb-415e-a6ac-2aa53aef41df",
       "name": "Dr. Maruf Alam Chowdhury",
       "degree": "MBBS, FCPS (Surgery), FCPS (Plastic & Reconstructive Surgery)",
       "specialty": "Plastic & Reconstructive Surgeon",
@@ -416,11 +507,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "5pm to 7pm (Sunday, Tuesday & Thursday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "0bda14c0-041b-4e99-98c7-de4681750280"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "9f8eeb5b-1911-4fb1-b184-994624dc9a0f",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-faora-tasnim/",
+      "imageId": "61c98f07-eae9-4d87-b890-6030075bd192",
       "name": "Dr. Faora Tasnim",
       "degree": "MBBS (DMC), MS (Plastic Surgery)",
       "specialty": "Burn & Plastic Surgery Specialist",
@@ -430,11 +524,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "4pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "7290276e-6026-4de3-a8e2-1aee4c83a6be"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "49cb4fd8-e3f6-446d-b5c2-993c1f331be8",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-ahmedul-kabir-chowdhury/",
+      "imageId": "4744e2e0-8bb8-48cf-8966-9956e8fcda98",
       "name": "Dr. Ahmedul Kabir Chowdhury",
       "degree": "MBBS, MS (Plastic Surgery), FACS",
       "specialty": "Burn, Plastic, Reconstructive & Craniofacial Clefts Surgery Specialist",
@@ -444,11 +541,14 @@
         "hospital": "Bangladesh Specialized Hospital",
         "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8809666700100"
-      },
-      "id": "9d55c346-a957-47f8-b916-1f3cbdbe77c9"
+        "appointmentNumber": "+8809666700100Call Now"
+      }
     },
     {
+      "id": "ee2947fb-0ca7-4d1c-a603-e1615ced15b2",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-mustafa-kamal/",
+      "imageId": "8fd51ddc-0f66-452c-8332-104d9493b71e",
       "name": "Dr. Mohammad Mustafa Kamal",
       "degree": "MBBS (DMC), MRCS (UK), FCPS (Surgery), MS (Plastic Surgery)",
       "specialty": "Burn, Plastic & General Surgery Specialist",
@@ -458,11 +558,14 @@
         "hospital": "Asgar Ali Hospital, Dhaka",
         "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801787683333"
-      },
-      "id": "24d3dc57-99b7-4045-b4f4-d25131086a82"
+        "appointmentNumber": "+8801787683333Call Now"
+      }
     },
     {
+      "id": "8b3ddd09-575c-4dad-9a63-74b7786def4d",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahbubur-rahman-masum/",
+      "imageId": "1056f80d-9f7d-4dfb-a5cc-6f1b8f5dd8da",
       "name": "Dr. Md. Mahbubur Rahman Masum",
       "degree": "MBBS, FCPS (Plastic Surgery), Higher Training (England)",
       "specialty": "Plastic & Reconstructive Surgery Specialist",
@@ -472,11 +575,14 @@
         "hospital": "Central Hospital, Dhanmondi",
         "address": "House # 02, Road # 05, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "6pm to 9.30pm (Closed: Friday)",
-        "appointmentNumber": "+8802-41060800"
-      },
-      "id": "56026622-ccf0-4704-81be-bd526eb45e05"
+        "appointmentNumber": "+8802-41060800Call Now"
+      }
     },
     {
+      "id": "32cfc581-bc3f-4a40-8a25-b242f17cf16b",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-romana-parvin/",
+      "imageId": "0dcef231-7dcf-4bdf-839a-a4e23314c1dd",
       "name": "Dr. Romana Parvin",
       "degree": "MBBS, MS (Plastic Surgery)",
       "specialty": "Burn, Plastic & Reconstructive Specialist Surgeon",
@@ -486,11 +592,14 @@
         "hospital": "Enam Medical College & Hospital",
         "address": "9/3 Parboti Nagar, Thana Road, Savar, Dhaka",
         "visitingTime": "8am to 2.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801716358146"
-      },
-      "id": "e4f2d7fa-6f80-4334-84b6-70b15e243006"
+        "appointmentNumber": "+8801716358146Call Now"
+      }
     },
     {
+      "id": "6b1b785c-aa0f-4171-a388-b34bbbc446fe",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-md-fazle-rabbi/",
+      "imageId": "850ccf56-c225-4dfc-868e-a387d1f96627",
       "name": "Dr. Md. Fazle Rabbi",
       "degree": "MBBS (DMC), MS (Plastic Surgery)",
       "specialty": "Burn, Plastic & Reconstructive Surgery Specialist",
@@ -500,11 +609,14 @@
         "hospital": "Enam Medical College & Hospital",
         "address": "9/3 Parboti Nagar, Thana Road, Savar, Dhaka",
         "visitingTime": "8am to 2.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801716358146"
-      },
-      "id": "423ff296-d3f7-4ab2-b3d9-1cd407e15f9e"
+        "appointmentNumber": "+8801716358146Call Now"
+      }
     },
     {
+      "id": "aabf5a37-fc90-4381-9415-0ff531c5c3ff",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-saniyat-jahan-khan/",
+      "imageId": "d29a1f68-7535-418d-9274-b87bd4790639",
       "name": "Dr. Mohammad Saniyat Jahan Khan",
       "degree": "MBBS, BCS (Health), FCPS (Plastic Surgery), Fellow (JBMA)",
       "specialty": "Burn, Plastic & Cosmetic Specialist Surgeon",
@@ -514,11 +626,14 @@
         "hospital": "Aichi Hospital Limited, Uttara",
         "address": "Plot # 35 & 37, Sector # 08, Abdullahpur, Uttara, Dhaka",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801689956599"
-      },
-      "id": "86442d04-efe4-4214-b13f-861312fd7a5f"
+        "appointmentNumber": "+8801689956599Call Now"
+      }
     },
     {
+      "id": "111a1acd-bb52-4699-8277-891197f3ca50",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-talukder-zakaria-jubery/",
+      "imageId": "707a7d60-419f-4f35-a47c-5fafc67e7af9",
       "name": "Dr. Talukder Zakaria Jubery",
       "degree": "MBBS, BCS (Health), FCPS (Plastic & Reconstructive Surgery)",
       "specialty": "Burn, Plastic, Cosmetic & Reconstructive Surgery Specialist",
@@ -528,11 +643,14 @@
         "hospital": "Rushmono Specialized Hospital",
         "address": "209, Outer Circular Road, Moghbazar, Dhaka - 1217",
         "visitingTime": "3pm to 5.30pm (Closed: Friday)",
-        "appointmentNumber": "+880248312358"
-      },
-      "id": "81399071-5490-476e-9fd3-c24e7cbf73c1"
+        "appointmentNumber": "+880248312358Call Now"
+      }
     },
     {
+      "id": "e06c0d39-854a-4b6f-93e5-ed0b11fe0a0e",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-abul-kalam/",
+      "imageId": "e97ba2b8-df42-40ae-9152-78f1a43dd9a2",
       "name": "Prof. Dr. Md. Abul Kalam",
       "degree": "MBBS (Dhaka), FCPS (Surgery), FRCS (Edin), FACS (USA)",
       "specialty": "Plastic & Reconstructive Surgeon",
@@ -542,11 +660,14 @@
         "hospital": "Samorita Hospital Ltd, Panthapath",
         "address": "89/1, Panthapath, Dhaka - 1215, Bangladesh",
         "visitingTime": "8pm to 9pm (Sat, Mon & Wed)",
-        "appointmentNumber": "10674"
-      },
-      "id": "703a9aff-0cd1-44c8-830a-604d59f900d3"
+        "appointmentNumber": "10674Call Now"
+      }
     },
     {
+      "id": "8a537a0d-f004-436e-9d39-54454d5f4c82",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-iftekhar-ibne-mannan/",
+      "imageId": "26464e00-522d-4824-a29a-770aabcfa4fb",
       "name": "Dr. Iftekhar Ibne Mannan",
       "degree": "MBBS, FCPS (Plastic Surgery)",
       "specialty": "Burn, Plastic, Cosmetic & Reconstructive Surgeon",
@@ -556,25 +677,31 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "3d4785f2-b859-46ef-b5ec-52cfbef8bc35"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "4ebb89e8-c344-43a0-863d-95f22ee767b7",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-a-f-m-ariful-islam-nabin/",
+      "imageId": "4f34a5d0-b9f4-45ad-b12a-f418df23f4eb",
       "name": "Dr. A.F.M. Ariful Islam Nobin",
       "degree": "MBBS, FCPS (Plastic & Reconstructive Surgery), FCPS (Surgery)",
       "specialty": "Plastic & Aesthetic Surgeon",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Gazipur\nAddress: Unit 01, Shibbari Mor, Joydebpur, Gazipur\nVisiting Hour: 2pm to 4pm (Sun, Tue & Thu)\nAppointment: +8809666787816, +8809666787816\nCall Now",
+      "info": "Popular Diagnostic Center, Gazipur Address: Unit 01, Shibbari Mor, Joydebpur, Gazipur Visiting Hour: 2pm to 4pm (Sun, Tue & Thu) Appointment: +8809666787816, +8809666787816 Call Now",
       "chamber": {
         "hospital": "Comfort Diagnostic Center, Dhanmondi",
         "address": "165/166, Green Road (3rd Floor), Dhanmondi, Dhaka – 1205",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801683775539"
-      },
-      "id": "04664c29-1cdd-451c-ad33-78e7d06c8159"
+        "appointmentNumber": "+8801683775539Call Now"
+      }
     },
     {
+      "id": "a705148b-c5d4-4650-895b-90556e221687",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-akm-fazlul-haque/",
+      "imageId": "afa70db8-e476-4c96-8d79-be197409c794",
       "name": "Dr. AKM Fazlul Haque",
       "degree": "MBBS (Dhaka), FRCS (Edinburgh)",
       "specialty": "Plastic, Reconstructive & Cosmetic Surgery Specialist",
@@ -584,11 +711,14 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10678"
-      },
-      "id": "d7a89f9a-767f-42b4-a2f7-ebb64dd9801a"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "a9a06143-0a62-4aea-994c-4e40b15f9e25",
+      "departmentId": "b91587c9-d7b1-4b75-b8cf-1f0584c63d5c",
+      "link": "https://www.doctorbangladesh.com/dr-raihan-anwar/",
+      "imageId": "8cfebc16-6ade-49dc-b22e-c967f356d0ca",
       "name": "Dr. Raihan Anwar",
       "degree": "MBBS, MS (Plastic Surgery)",
       "specialty": "Plastic, Reconstructive & Aesthetic Surgeon",
@@ -598,9 +728,8 @@
         "hospital": "BIRDEM Specialized Chamber Complex",
         "address": "Main Building, 122, Kazi Nazrul Islam Avenue, Shahbag, Dhaka",
         "visitingTime": "3pm to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801819465206"
-      },
-      "id": "f58ac84b-b592-43f2-aca2-3daf12f087e9"
+        "appointmentNumber": "+8801819465206Call Now"
+      }
     }
   ]
 }

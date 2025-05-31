@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "c7fd2bd4-171c-41bd-a931-de7f4762f4ab",
+      "departmentId": "5686a77d-7159-45e4-9bee-a3db346dc783",
+      "link": "https://www.doctorbangladesh.com/col-dr-md-mahbub-ali/",
+      "imageId": "b14d3ad4-fd8c-48b9-9605-f71b5110e094",
       "name": "Professor Dr. (Colonel) Md. Mahbub Ali",
       "degree": "MBBS, MS (Ortho Surgery) (NITOR)",
       "specialty": "Orthopaedics, Trauma, Arthroscopy, Arthroplasty & Spine Surgeon",
@@ -10,11 +14,14 @@
         "hospital": "Mirpur General Hospital & Diagnostic Center",
         "address": "Plot - 10, Road - 4/5, Section - 12, Kalshi Road, Mirpur, Dhaka",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801610964966"
-      },
-      "id": "53dd3ee2-9de7-4089-ac77-35df4ab08cce"
+        "appointmentNumber": "+8801610964966Call Now"
+      }
     },
     {
+      "id": "3b20372a-4340-4244-b3cf-c36603b261c7",
+      "departmentId": "5686a77d-7159-45e4-9bee-a3db346dc783",
+      "link": "https://www.doctorbangladesh.com/dr-md-kamrul-ahsan/",
+      "imageId": "d70cd51c-33b4-41c6-b6fc-2f4318b11696",
       "name": "Prof. Dr. Md. Kamrul Ahsan",
       "degree": "MBBS, D-ORTHO (DU), MS (ORTHO), FRCS (Glasgow), FACS (USA), FICS (USA)",
       "specialty": "Orthopedics (Bone, Joint, Arthritis, Trauma) Specialist & Spine Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House #47, Road # 9/A, Satmasjid Road, Dhanmondi, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801711659709"
-      },
-      "id": "8381b6b3-a16b-4e47-b715-ac47b2425d01"
+        "appointmentNumber": "+8801711659709Call Now"
+      }
     },
     {
+      "id": "40731e8b-981d-47f4-8de1-92915219522c",
+      "departmentId": "5686a77d-7159-45e4-9bee-a3db346dc783",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-shah-alam-ortho/",
+      "imageId": "0c3c2339-c4e4-4d44-b845-f0105341b0c5",
       "name": "Prof. Dr. Md. Shah Alam",
       "degree": "MBBS, MS (Ortho), FCPS (Surgery), FRCS (Ortho), FRCS (Edin), FRCS (Glasgow)",
       "specialty": "Orthopedics (Bone, Joint, Trauma) Specialist & Spine Surgeon",
@@ -38,11 +48,14 @@
         "hospital": "Bangladesh Spine & Orthopedic Hospital",
         "address": "10, Main Road, Kallayanpur (Bus Stand), Dhaka - 1216",
         "visitingTime": "2pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801977063412"
-      },
-      "id": "cdfb758f-3e71-42aa-9f2f-3b9bab65e2b8"
+        "appointmentNumber": "+8801977063412Call Now"
+      }
     },
     {
+      "id": "0ce3455a-4b56-4e5f-9b40-cc7f5780562b",
+      "departmentId": "5686a77d-7159-45e4-9bee-a3db346dc783",
+      "link": "https://www.doctorbangladesh.com/prof-dr-mohammad-hossain/",
+      "imageId": "5a491b14-e9eb-4e2b-8522-076036c0da97",
       "name": "Prof. Dr. Mohammad Hossain",
       "degree": "MBBS, MS (Neurosurgery), FICS (Neurosurgery)",
       "specialty": "Neurosurgeon & Spinal Surgeon",
@@ -52,25 +65,31 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "d5409484-2045-4147-afc7-0912d55bd27f"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "c2727ce3-7a16-41f4-9e4c-4554850b68b2",
+      "departmentId": "5686a77d-7159-45e4-9bee-a3db346dc783",
+      "link": "https://www.doctorbangladesh.com/brig-gen-dr-md-shahidullah/",
+      "imageId": "c9db56fb-3523-4943-a212-8c76debf50b7",
       "name": "Prof. Brig. Gen. Dr. Md. Shahidullah",
       "degree": "MBBS, MS (ORTHO), AO Basic Spine Surgery (Singapore)",
       "specialty": "Orthopedic, Trauma and Spine Specialist Surgeon",
       "workplace": "Armed Forces Medical College, Dhaka",
-      "info": "Popular Diagnostic Center, Mirpur\nAddress: Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka\nVisiting Hour: 10am to 12pm (Closed: Friday)\nAppointment: +8809666787807\nCall Now",
+      "info": "Popular Diagnostic Center, Mirpur Address: Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka Visiting Hour: 10am to 12pm (Closed: Friday) Appointment: +8809666787807 Call Now",
       "chamber": {
         "hospital": "Aalok Health Care, Kachukhet",
         "address": "Rajanigandha Tower (4th & 5th Floor), Kachukhet, Dhaka",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801725694669"
-      },
-      "id": "356a6577-e244-4d7a-a53b-8399cb5b8992"
+        "appointmentNumber": "+8801725694669Call Now"
+      }
     },
     {
+      "id": "f6c8b66a-fb70-4831-acab-62f2e7ca39f8",
+      "departmentId": "5686a77d-7159-45e4-9bee-a3db346dc783",
+      "link": "https://www.doctorbangladesh.com/prof-dr-sharif-ahmed-jonayed/",
+      "imageId": "06a688a3-cfe2-4419-96f2-68cc6c6dccd9",
       "name": "Dr. Sharif Ahmed Jonayed",
       "degree": "MBBS, FCPS (Ortho Surgery), MS (Ortho Surgery)",
       "specialty": "Orthopedic & Spine Surgeon",
@@ -80,11 +99,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "2c1ea089-6c91-4724-b9ab-e6ac12eca70e"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "e8229dba-5a9b-4bf6-a670-67a4aa0705e7",
+      "departmentId": "5686a77d-7159-45e4-9bee-a3db346dc783",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-abdur-rob/",
+      "imageId": "22afdb49-5c1a-4044-b822-83998cc3390b",
       "name": "Prof. Dr. Md. Abdur Rob",
       "degree": "MBBS, MS (ORTHO), Fellow, Spine Surgery (USA)",
       "specialty": "Orthopedics (Bone, Joint, Injury, Accident Trauma) Specialist & Spine Surgeon",
@@ -94,11 +116,14 @@
         "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
         "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
         "visitingTime": "6pm to 10pm (Everyday)",
-        "appointmentNumber": "+8809666787805"
-      },
-      "id": "9635ed27-83a1-47aa-bd42-5980984ffd76"
+        "appointmentNumber": "+8809666787805Call Now"
+      }
     },
     {
+      "id": "1f416d5b-965e-4480-ad7d-8291ac3b5ba9",
+      "departmentId": "5686a77d-7159-45e4-9bee-a3db346dc783",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahidul-islam-akon/",
+      "imageId": "27de3f71-a7d8-42c8-8946-4980f2be1d94",
       "name": "Dr. Md. Shahidul Islam Akon",
       "degree": "MBBS, BCS (Health), MS (Orthopedics), AOSpine Fellow (India & Singapore)",
       "specialty": "Consultant Spine Surgeon",
@@ -108,11 +133,14 @@
         "hospital": "Al-Manar Hospital Limited",
         "address": "Plot # Umo, Block # Rossoi, Satmosjid Road, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Tue & Friday)",
-        "appointmentNumber": "+8801550020885"
-      },
-      "id": "b3e72e44-f625-460d-875f-e695a5c51f09"
+        "appointmentNumber": "+8801550020885Call Now"
+      }
     },
     {
+      "id": "60b7be42-6fbe-4c3e-a051-354de7bd3b5f",
+      "departmentId": "5686a77d-7159-45e4-9bee-a3db346dc783",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-zahidur-rahman/",
+      "imageId": "d292eff4-62c9-445d-832a-d3ae089f35c9",
       "name": "Prof. Dr. Md. Zahidur Rahman",
       "degree": "MBBS , D-ORTHO, MS (ORTHO) , Fellowship (Spine Surgery) , AO Basic (Spine Surgery)",
       "specialty": "Orthopedics, Arthroplasty, Trauma & Spine Surgeon",
@@ -122,11 +150,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801775051124"
-      },
-      "id": "2ffb25f3-c6fc-4c75-ae82-bac90f119c43"
+        "appointmentNumber": "+8801775051124Call Now"
+      }
     },
     {
+      "id": "6ef6e854-76d0-4d56-b1d1-cdad1f0fe6bf",
+      "departmentId": "5686a77d-7159-45e4-9bee-a3db346dc783",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-r-karim-reza/",
+      "imageId": "d8a7030b-dd53-4d81-b873-cf588f8badfa",
       "name": "Prof. Dr. M R Karim (Reza)",
       "degree": "MBBS, BCS (Health), MS (Ortho), FACS (USA)",
       "specialty": "Spine & Orthopedic Specialist and Surgeon",
@@ -136,9 +167,8 @@
         "hospital": "Popular Diagnostic Center, Shyamoli",
         "address": "Opposite to Shyamoli Shishu Mela, Babor Road, Mohammadpur, Dhaka",
         "visitingTime": "2.30pm to 4pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787806"
-      },
-      "id": "dda7041b-750a-465f-b458-0f72231b80ff"
+        "appointmentNumber": "+8809666787806Call Now"
+      }
     }
   ]
 }

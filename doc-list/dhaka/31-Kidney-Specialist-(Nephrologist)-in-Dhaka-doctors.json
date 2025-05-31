@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "ed310920-d3f5-4d1b-9f6c-317ebd33ad88",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-masud-iqbal/",
+      "imageId": "0c9eb59c-b0bc-4893-abdc-e3989e1fddff",
       "name": "Prof. Dr. Masud Iqbal",
       "degree": "MBBS, MD (Nephrology)",
       "specialty": "Nephrology (Kidney Diseases) Specialist",
@@ -10,25 +14,31 @@
         "hospital": "Medinova Medical Services, Malibagh",
         "address": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
         "visitingTime": "4pm to 6pm (Sat, Sun, Tue & Thu)",
-        "appointmentNumber": "+8801716410062, +8801790118855"
-      },
-      "id": "f085a182-1fd2-41d1-bb77-ec3c42fc39fe"
+        "appointmentNumber": "+8801716410062, +8801790118855Call Now"
+      }
     },
     {
+      "id": "39fbc0be-016c-4471-a63a-877fb65e9e49",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-abdur-razzak/",
+      "imageId": "0d556088-ce59-4001-b38d-ccccd0a1481a",
       "name": "Dr. Muhammad Abdur Razzak",
       "degree": "MBBS (AFMC), MD (Nephrology), FASN (USA)",
       "specialty": "Kidney Medicine Specialist & Transplant Nephrologist",
       "workplace": "Ministry of Health and Family Welfare (MoHFW)",
-      "info": "Popular Diagnostic Center, Savar\nAddress: E/22, Talbagh, Anandapur, Savar, Dhaka\nVisiting Hour: 3pm to 6pm (Sun & Tue), 9am to 8pm (Friday)\nAppointment: +8801604707090, +8801793666000\nCall Now",
+      "info": "Popular Diagnostic Center, Savar Address: E/22, Talbagh, Anandapur, Savar, Dhaka Visiting Hour: 3pm to 6pm (Sun & Tue), 9am to 8pm (Friday) Appointment: +8801604707090, +8801793666000 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "Room 509, Building 6, Road # 2, Dhanmondi R/A, Dhaka",
         "visitingTime": "5pm to 9pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801604707090, +8801793666000"
-      },
-      "id": "9ab91816-62b8-4af9-8034-e887ac14ce26"
+        "appointmentNumber": "+8801604707090, +8801793666000Call Now"
+      }
     },
     {
+      "id": "4b138f86-96ac-4d1b-9d94-9705222141b3",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-shahidul-islam-selim/",
+      "imageId": "aeaaeef8-327d-4e12-b59e-d51cc8f590b4",
       "name": "Prof. Dr. Md. Shahidul Islam Selim",
       "degree": "MBBS, MCPS (Medicine), MD (Nephrology), FACP, FASN (USA), FRCP (UK)",
       "specialty": "Kidney Diseases & Medicine Specialist",
@@ -38,25 +48,31 @@
         "hospital": "Medinova Medical Services, Dhanmondi",
         "address": "House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "10658"
-      },
-      "id": "3ff32590-81c0-4d6e-8938-5eb93884b6ff"
+        "appointmentNumber": "10658Call Now"
+      }
     },
     {
+      "id": "4ca27422-bbf1-4c28-a149-a015b40bbd42",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/prof-dr-harun-ur-rashid/",
+      "imageId": "083a2ee7-297b-4f98-929f-dfe1900524f1",
       "name": "Prof. Dr. Harun-Ur-Rashid",
       "degree": "MBBS, FCPS, FRCP, MD, PhD",
       "specialty": "Kidney Diseases & Medicine Specialist (Nephrologist)",
       "workplace": "Kidney Foundation Hospital & Research Institute",
-      "info": "Dr. Harun Ur Rashid, Ph.D, FCPS, FRCP is now working as  Professor and Chief Consultant in Nephrology of Kidney Foundation Hospital and research Institute since 2009. He began his career in Nephrology in 1981 after return from United Kingdom following his postgraduate  training in nephrology and obtaining PhD degree from University of Newcastle Upon Tyne, U.K .and  joined as  specialist teacher in Nephrology   in the Institute of Postgraduate Medicine and Research (IPGMR),Dhaka, Bangladesh in 1981 with research background.",
+      "info": "Dr. Harun Ur Rashid, Ph.D, FCPS, FRCP is now working as Professor and Chief Consultant in Nephrology of Kidney Foundation Hospital and research Institute since 2009. He began his career in Nephrology in 1981 after return from United Kingdom following his postgraduate training in nephrology and obtaining PhD degree from University of Newcastle Upon Tyne, U.K .and joined as specialist teacher in Nephrology in the Institute of Postgraduate Medicine and Research (IPGMR),Dhaka, Bangladesh in 1981 with research background.",
       "chamber": {
         "hospital": "Kidney Foundation Hospital & Research Institute",
         "address": "Plot - 5/2, Road - 1 (Main Road), Section 2, Mirpur, Dhaka",
         "visitingTime": "3.30pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801623324850"
-      },
-      "id": "5df902ad-bb37-4751-ab30-0e3c84a2a890"
+        "appointmentNumber": "+8801623324850Call Now"
+      }
     },
     {
+      "id": "e71a1749-7288-46b9-baa4-e021de9cbbec",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/prof-dr-shamim-ahmed/",
+      "imageId": "492aee27-48b0-46b7-ab53-80f3d291fac8",
       "name": "Prof. Dr. Shamim Ahmed",
       "degree": "MBBS, FCPS (Medicine), FRCP (Edin), FRCP (Glasg), FACP (USA), FWHO (Nephrology)",
       "specialty": "Kidney Diseases & Medicine Specialist",
@@ -66,25 +82,31 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "4:30pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "2889071d-4739-4b78-929a-39b8eeb3ecd4"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "1a0f8212-698e-4528-84d1-27237ee4b11f",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/prof-dr-dilip-kumar-roy/",
+      "imageId": "6c3d9f2d-d969-42e8-b372-c56c8c887edf",
       "name": "Prof. Dr. Dilip Kumar Roy",
       "degree": "MBBS, FCPS (Medicine), MD (Nephrology), Senior Fellowship in Nephrology ( Singapore)",
       "specialty": "Kidney Diseases & Medicine Specialist",
       "workplace": "National Institute of Kidney Diseases & Urology",
-      "info": "Moon Hospital, Comilla\nAddress: Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla\nVisiting Hour: 2pm to 8pm (Thu) & 7am to 8pm (Fri)\nAppointment: +8801714473231\nCall Now",
+      "info": "Moon Hospital, Comilla Address: Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla Visiting Hour: 2pm to 8pm (Thu) & 7am to 8pm (Fri) Appointment: +8801714473231 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Shantinagar",
         "address": "Unit # 01, House # 11, Shantinagar, Motijheel, Dhaka",
         "visitingTime": "5.30pm to 8.30pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787803"
-      },
-      "id": "d96d801c-7a31-435c-aa31-3de6e3cbdccc"
+        "appointmentNumber": "+8809666787803Call Now"
+      }
     },
     {
+      "id": "f0668532-7faa-44ee-827d-8cf6740f0496",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-muhibur-rahman/",
+      "imageId": "94dc249e-c299-432f-8763-a04ef4137a96",
       "name": "Prof. Dr. M. Muhibur Rahman",
       "degree": "MBBS, FCPS (Medicine), MRCP (UK), PhD (Nephrology-UK), FISN (UK)",
       "specialty": "Kidney Diseases & Medicine Specialist",
@@ -94,11 +116,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "0fabd655-9bbd-4644-9fa5-1958714e3fac"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "da23e686-8c0e-4021-8814-839723689f8f",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-habibur-rahman/",
+      "imageId": "2356e732-d427-4800-88a6-2347137d3ea1",
       "name": "Prof. Dr. Md. Habibur Rahman",
       "degree": "MBBS, FCPS, MSc (UK), FRCP (UK)",
       "specialty": "Kidney Diseases & Medicine Specialist",
@@ -108,11 +133,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "12:30pm to 2:30pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "343a67bc-6ca6-42cf-b5d7-e13b026427ee"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "84843dcd-30e1-4515-a576-e11ea400ac3a",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/prof-dr-nizamuddin-chowdhury/",
+      "imageId": "6d16f5db-36ee-4907-b75a-235f61459b93",
       "name": "Prof. Dr. Md. Nizamuddin Chowdhury",
       "degree": "MBBS, MD (Nephrology), MCPS (Medicine), FRCP (Glasgow), FASN, FISN (Canada)",
       "specialty": "Kidney Diseases, Transplant & Medicine Specialist",
@@ -122,25 +150,31 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "8f683a0a-de37-46f5-ad45-2000671f32f3"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "06ee4127-fc87-461a-923c-72f0a5fa4fd6",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-kazi-shahnoor-alam/",
+      "imageId": "0a958c9d-abcb-4342-9d00-1911db94173f",
       "name": "Prof. Dr. Kazi Shahnoor Alam",
       "degree": "MBBS, FCPS (Medicine), MD (Nephrology)",
       "specialty": "Kidney & Medicine Specialist",
       "workplace": "National Institute of Kidney Diseases & Urology",
-      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, B.B. Road, Chashara, Narayanganj – 1400\nVisiting Hour: 8am to 12pm (Only Friday)\nAppointment: +8809666787804\nCall Now",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, B.B. Road, Chashara, Narayanganj – 1400 Visiting Hour: 8am to 12pm (Only Friday) Appointment: +8809666787804 Call Now",
       "chamber": {
         "hospital": "Comfort Diagnostic Center, Dhanmondi",
         "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "7pm to 10pm (Sat, Mon, Wed & Thu)",
-        "appointmentNumber": "+8801731956033"
-      },
-      "id": "ac2805ca-544a-4b58-a5d0-7f62d43aa6ae"
+        "appointmentNumber": "+8801731956033Call Now"
+      }
     },
     {
+      "id": "e5fef51b-2b85-4710-9f14-c9d38d57e758",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-a-samad/",
+      "imageId": "d19e6b71-6937-4fc0-b464-15f1bc2f5e4c",
       "name": "Prof. Dr. M. A. Samad",
       "degree": "MBBS, MD (Nephrology), FCPS (Medicine), FRCP (UK)",
       "specialty": "Kidney & Medicine Specialist",
@@ -150,11 +184,14 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "10am to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801720344994"
-      },
-      "id": "132321f9-1474-41ee-972b-359452900c3b"
+        "appointmentNumber": "+8801720344994Call Now"
+      }
     },
     {
+      "id": "24eeac18-0a76-4080-8602-7009b1147887",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/prof-dr-muhammad-nazrul-islam/",
+      "imageId": "5a94223e-25fe-4058-bc2f-091189d4138e",
       "name": "Prof. Dr. Muhammad Nazrul Islam",
       "degree": "MBBS, FCPS (Medicine), MD (Nephrology)",
       "specialty": "Kidney & Medicine Specialist",
@@ -164,11 +201,14 @@
         "hospital": "Ibn Sina Medical Imaging Center, Zigatola",
         "address": "House # 58, Road # 2A, Zigatola Bus Stand, Dhaka - 1209",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801711625173"
-      },
-      "id": "1f7e6e1c-44cc-4fd2-b105-ce8a777b7b4f"
+        "appointmentNumber": "+8801711625173Call Now"
+      }
     },
     {
+      "id": "7b47a467-9fa2-42c2-aa76-ae495596f188",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-eusha-a-f-ansary/",
+      "imageId": "9e0fe325-7ec4-409f-8000-2601f1862ed7",
       "name": "Dr. Eusha A. F. Ansary",
       "degree": "MBBS, MD (Nephrology), Research Fellow (BIRDEM)",
       "specialty": "Kidney Diseases Specialist",
@@ -178,11 +218,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "5pm to 7pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "91191b5c-0e46-4230-af34-f96b1dd0b61a"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "3d1b950a-ec62-4877-8c25-0d7043e98302",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-mujibul-haque-mollah/",
+      "imageId": "a2e0a2c8-3300-46e0-9c69-e3f63c0a1938",
       "name": "Prof. Dr. M. Mujibul Haque Mollah",
       "degree": "MBBS, MRCP (UK), FRCP (Edin) FRCP (London), Fellow Nephrology (UK)",
       "specialty": "Kidney Diseases, Dialysis & Transplant Specialist",
@@ -192,11 +235,14 @@
         "hospital": "Impulse Hospital, Dhaka",
         "address": "304/E, Bir Uttam Mir Shawkat Sarak, Tejgaon, Dhaka",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801313434425"
-      },
-      "id": "4e7b524e-f624-47cf-9b00-86022dd546d9"
+        "appointmentNumber": "+8801313434425Call Now"
+      }
     },
     {
+      "id": "adb5b5e0-673c-4807-b0f3-ecb012665ba8",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/prof-dr-sarwar-iqbal/",
+      "imageId": "465ec4e1-d274-491f-8159-9d142290e945",
       "name": "Prof. Dr. Sarwar Iqbal",
       "degree": "MBBS, MD (Nephrology)",
       "specialty": "Kidney Diseases & Dialysis Specialist",
@@ -206,11 +252,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "4pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "5fd8b23c-a985-4ce2-a824-fb9143226b81"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "541b94e5-f1a5-44da-95c3-7ff52b10ebe1",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/prof-dr-ayub-ali-chowdhury/",
+      "imageId": "778a30c3-51bb-4c5c-8539-6f085be2ae53",
       "name": "Prof. Dr. Ayub Ali Chowdhury",
       "degree": "MBBS, FCPS (Medicine), MD (Nephrology)",
       "specialty": "Kidney & Medicine Specialist",
@@ -220,11 +269,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "5pm to 7pm (Sat to Thu), 9am to 12pm (Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "aa6f873b-61a9-456b-8a1f-334cfdfbf6ff"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "9b009589-d542-497c-add2-7a6e4bee75d3",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-nizamuddin-chowdhury/",
+      "imageId": "97dcd578-43e9-4362-a743-138eba13fa10",
       "name": "Prof. Dr. Md. Nizamuddin Chowdhury",
       "degree": "MBBS, MD (Nephrology), MCPS (Medicine), FISN (CA), FASN (USA), FRCP (UK)",
       "specialty": "Kidney Diseases Specialist",
@@ -234,11 +286,14 @@
         "hospital": "BRB Hospital, Dhaka",
         "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
         "visitingTime": "9am to 6pm (Closed: Friday)",
-        "appointmentNumber": "10647"
-      },
-      "id": "75fc070b-e6bb-402b-903b-d558d4e2c83f"
+        "appointmentNumber": "10647Call Now"
+      }
     },
     {
+      "id": "a9334e37-7cde-4a18-8546-a639e3757484",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/prof-dr-asia-khanam/",
+      "imageId": "eeebdd6a-6c54-4b2f-bda8-5bcc2ce4ba95",
       "name": "Prof. Dr. Asia Khanam",
       "degree": "MBBS, MD (Nephrology)",
       "specialty": "Kidney Diseases & Medicine Specialist",
@@ -248,11 +303,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "9am to 6pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "76999075-e6f3-4ebb-8126-6f237720f64e"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "b84c2624-fbe2-4b6d-b0dc-86891cf7d6bd",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-md-kabir-hossain/",
+      "imageId": "13111d25-543e-40c1-9fcc-6d5d152ecc03",
       "name": "Dr. Md. Kabir Hossain",
       "degree": "MBBS, MD (Nephrology)",
       "specialty": "Kidney Diseases, Dialysis & Transplant Specialist",
@@ -262,11 +320,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Doyagonj",
         "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801878115751"
-      },
-      "id": "f245bdc4-513e-40bf-99b9-c73a30be2d09"
+        "appointmentNumber": "+8801878115751Call Now"
+      }
     },
     {
+      "id": "50b9f831-476e-4d8c-9403-2c8cf1c7baac",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-rezwanur-rahman/",
+      "imageId": "819caede-faf6-45ea-a2b6-1d0c4232d3fc",
       "name": "Dr. Rezwanur Rahman",
       "degree": "MBBS, MD (Nephrology)",
       "specialty": "Chronic Kidney Disease, Dialysis & Transplantation Specialist",
@@ -276,11 +337,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "4pm to 10:30pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "9af05fbb-bee6-480d-b3dd-4c77db8e828e"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "33c8c18c-0e80-43fd-b804-48703d56e907",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/prof-brig-gen-dr-mamun-mostafi/",
+      "imageId": "6ee648ce-d966-4575-a595-331199c72f0c",
       "name": "Prof. Brig. Gen. Dr. Mamun Mostafi",
       "degree": "MBBS, MACP (USA), MRACP(Australia), FCPS (Medicine), FRCP, Fellowship in Nephrology (India & KSA)",
       "specialty": "Medicine, Kidney & Joint Diseases Specialist",
@@ -290,11 +354,14 @@
         "hospital": "Bangladesh Specialized Hospital",
         "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662525"
-      },
-      "id": "a32e03e4-07cd-4edf-a33c-9e3b6a49875b"
+        "appointmentNumber": "+8801766662525Call Now"
+      }
     },
     {
+      "id": "e35f7031-7322-45fb-8115-dfac93f83f02",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-rafiqul-alam/",
+      "imageId": "efc11413-3283-4022-a17a-a448fc5a9464",
       "name": "Prof. Dr. Md. Rafiqul Alam",
       "degree": "MBBS, FCPS (Medicine), MD (Nephrology)",
       "specialty": "Kidney Disease Specialist",
@@ -304,11 +371,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "811c7238-d540-49f1-a94c-de22b1e71fed"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "f3719240-190b-4118-ad26-372de7131201",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-md-nazrul-islam-kidney/",
+      "imageId": "2a6ced23-2cff-44fe-970e-5533c111fa78",
       "name": "Prof. Dr. Md. Nazrul Islam",
       "degree": "MBBS, MD (Nephrology)",
       "specialty": "Kidney Diseases & Medicine Specialist",
@@ -318,39 +388,48 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "4pm to 7pm (Every Saturday)",
-        "appointmentNumber": "+8801781539379"
-      },
-      "id": "d08e5f8c-07e4-44da-9eee-cdba5a5aff54"
+        "appointmentNumber": "+8801781539379Call Now"
+      }
     },
     {
+      "id": "1ce8e2fd-5460-4855-81f2-7e28d9406e4e",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-ratan-das-gupta/",
+      "imageId": "c40b51c6-26ea-4f4b-a314-b5db7206b82a",
       "name": "Prof. Dr. Ratan Das Gupta",
       "degree": "MBBS, FCPS (Medicine), MD (Nephrology)",
       "specialty": "Kidney Diseases, Dialysis, Transplant & Medicine Specialist",
       "workplace": "Shaheed Suhrawardy Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Mirpur\nAddress: Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka\nVisiting Hour: 6pm to 11pm (Sat, Mon, Wed & Thursday)\nAppointment: +8809666787807\nCall Now",
+      "info": "Popular Diagnostic Center, Mirpur Address: Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka Visiting Hour: 6pm to 11pm (Sat, Mon, Wed & Thursday) Appointment: +8809666787807 Call Now",
       "chamber": {
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "01006acd-7c7e-41b4-8a2f-abe9d34dcd87"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "43677c43-0799-422c-9c23-5fa6990e9e3c",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/brig-gen-dr-md-amzad-hossain-fakir/",
+      "imageId": "29213a34-a289-4a66-9a7a-c7cbe9ab061a",
       "name": "Prof. Brig. Gen. Dr. Md. Amzad Hossain Fakir",
       "degree": "MBBS, FCPS (Medicine), FCPS (Nephrology, Pakistan), FRCP (Ireland)",
       "specialty": "Medicine, Hypertension & Kidney Diseases Specialist",
       "workplace": "Combined Military Hospital (CMH), Dhaka",
-      "info": "Aalok Health Care, Kachukhet\nAddress: Rajanigandha Tower (4th & 5th Floor), Kachukhet, Dhaka\nVisiting Hour: 6pm to 9pm (Closed: Friday)\nAppointment: +8801725694669\nCall Now",
+      "info": "Aalok Health Care, Kachukhet Address: Rajanigandha Tower (4th & 5th Floor), Kachukhet, Dhaka Visiting Hour: 6pm to 9pm (Closed: Friday) Appointment: +8801725694669 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Mirpur",
         "address": "Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka",
         "visitingTime": "4pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787807"
-      },
-      "id": "beb20acc-88dd-4f67-ac68-474f51f83cb8"
+        "appointmentNumber": "+8809666787807Call Now"
+      }
     },
     {
+      "id": "f7be8d08-80b7-48ba-93d4-468dfb5137ae",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-hasan-mahmud/",
+      "imageId": "b9499cf7-c063-4761-a562-5cd7c34e02fe",
       "name": "Dr. Hasan Mahmud",
       "degree": "MBBS (Dhaka), BCS (Health), MD (Nephrology), CCD (BIRDEM)",
       "specialty": "Kidney, Medicine & Diabetes Specialist",
@@ -360,11 +439,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "8223c3ca-c51b-4ed9-925f-831b141e60e5"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "0b2a58cc-6f10-4c35-8c78-c59f66b2ebb6",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-md-omar-faroque/",
+      "imageId": "d72e265c-59be-4dce-89af-0d0450f9e739",
       "name": "Dr. Md. Omar Faroque",
       "degree": "MBBS, MD (Nephrology)",
       "specialty": "Kidney Diseases Specialist & Nephrologist",
@@ -374,39 +456,48 @@
         "hospital": "Popular Diagnostic Center, Shantinagar",
         "address": "Unit # 02, House # 15, Shantinagar, Motijheel, Dhaka",
         "visitingTime": "5pm to 8pm (Closed: Monday & Friday)",
-        "appointmentNumber": "+8809666787803"
-      },
-      "id": "cef49cd2-1dc1-46fa-aa39-9e8bbc535cd6"
+        "appointmentNumber": "+8809666787803Call Now"
+      }
     },
     {
+      "id": "2811575a-b7fd-4ae0-a361-094c693c43ff",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-shahryar-waheed/",
+      "imageId": "b754b370-cc64-4220-84b8-994c08300b8e",
       "name": "Dr. Shahryar Waheed",
       "degree": "MBBS, BCS (Health), MCPS (Medicine), MD (Nephrology)",
       "specialty": "Kidney Diseases & Medicine Specialist",
       "workplace": "Sir Salimullah Medical College & Mitford Hospital",
-      "info": "City Diagnostic Center, Pabna\nAddress: Beside TB Hospital, Hospital Road, Shalgaria, Pabna\nVisiting Hour: 9am to 4pm (Only Friday)\nAppointment: +8801757204642\nCall Now",
+      "info": "City Diagnostic Center, Pabna Address: Beside TB Hospital, Hospital Road, Shalgaria, Pabna Visiting Hour: 9am to 4pm (Only Friday) Appointment: +8801757204642 Call Now",
       "chamber": {
         "hospital": "Labaid Diagnostic, Uttara (Unit 01)",
         "address": "House # 15, Road # 12, Sector # 06, Uttara, Dhaka",
         "visitingTime": "7pm to 9pm (Sun, Tue, Wed & Thu)",
-        "appointmentNumber": "+8801766662606"
-      },
-      "id": "e2072664-2d89-40f7-8360-e50f759c7c7d"
+        "appointmentNumber": "+8801766662606Call Now"
+      }
     },
     {
+      "id": "1d05d319-1b86-4d79-a227-7fcdb2aa7e40",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/prof-dr-col-abdul-quddus-bhuiyan/",
+      "imageId": "df9489be-bfff-4884-867d-8d79e539405c",
       "name": "Prof. Dr. Col. Abdul Quddus Bhuiyan",
       "degree": "MBBS, MCPS, FCPS (Medicine), FCPS (Nephrology)",
       "specialty": "Kidney Medicine Specialist",
       "workplace": "Armed Forces Medical College, Dhaka",
-      "info": "Ibn Sina Hospital, Sylhet\nAddress: Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet\nVisiting Hour: Evening (Closed: Friday)\nAppointment: +8809610009640\nCall Now",
+      "info": "Ibn Sina Hospital, Sylhet Address: Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet Visiting Hour: Evening (Closed: Friday) Appointment: +8809610009640 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka – 1212",
         "visitingTime": "7pm to 9pm (Thursday & Friday 5:30pm to 9pm)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "ae2d6872-3dd7-4217-94c1-1120b27dc216"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
+      "id": "c2e668e8-4dae-4c06-8c1a-db6c510ce701",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdul-muqueet/",
+      "imageId": "fcc53fbf-1c01-4c80-b968-19994d58d76d",
       "name": "Dr. Md. Abdul Muqueet",
       "degree": "MBBS, MD (Nephrology)",
       "specialty": "Kidney Diseases & Medicine Specialist",
@@ -416,11 +507,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "1c9132c4-d340-489c-ba93-556bef193ffe"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "1da5f815-e097-46b9-894e-651a43fa6a96",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-tufayel-ahmed-chowdhury/",
+      "imageId": "6604c94f-a9fc-47e8-a69c-d7455b32a2ad",
       "name": "Dr. Tufayel Ahmed Chowdhury",
       "degree": "MBBS, MCPS (Medicine), FCPS (Medicine), MRCP (UK)",
       "specialty": "Medicine & Kidney Diseases Specialist",
@@ -430,11 +524,14 @@
         "hospital": "BIRDEM Specialized Chamber Complex",
         "address": "Main Building, 122, Kazi Nazrul Islam Avenue, Shahbag, Dhaka",
         "visitingTime": "2.30pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801979416316"
-      },
-      "id": "e48a383c-601e-4c87-b46c-b3ad1833f0f1"
+        "appointmentNumber": "+8801979416316Call Now"
+      }
     },
     {
+      "id": "83696a72-3bf3-40df-affd-8a4aaeeff8eb",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-md-nabiul-hassan-rana/",
+      "imageId": "1ff60f8d-7df1-4ab2-b3b3-8233ae5728a9",
       "name": "Dr. Md. Nabiul Hassan (Rana)",
       "degree": "MBBS (DMC), MD (Nephrology), CCD (UK)",
       "specialty": "Kidney Diseases, Dialysis, Diabetic Nephropathy & Transplant Specialist",
@@ -444,11 +541,14 @@
         "hospital": "Asgar Ali Hospital, Dhaka",
         "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
         "visitingTime": "9am to 2pm & 5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801787683333"
-      },
-      "id": "1220ee1c-7927-4e4b-95ed-a72b7b0fa303"
+        "appointmentNumber": "+8801787683333Call Now"
+      }
     },
     {
+      "id": "afc80429-7fa3-45fb-8f6f-d51b2f61eafa",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-babrul-alam/",
+      "imageId": "210801d8-2894-4a29-937b-40e4f802d33c",
       "name": "Prof. Dr. Md. Babrul Alam",
       "degree": "MBBS (Dhaka), MD (Nephrology), FRCS (EDIN, UK)",
       "specialty": "Kidney Diseases & Medicine Specialist",
@@ -458,11 +558,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "7pm to 9pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "daf1c201-5220-496f-a5c5-79f7b0f103fd"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "01fc2eba-a365-4020-95eb-36bd58aa729a",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-masum-kamal-khan/",
+      "imageId": "70435c19-a39c-458f-90b5-22908af07055",
       "name": "Prof. Dr. Md. Masum Kamal Khan",
       "degree": "MBBS (DMC), FCPS (Medicine), MD (Nephrology)",
       "specialty": "Kidney Diseases, Medicine, Hemodialysis & Kidney Biopsy Specialist",
@@ -472,39 +575,48 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10678"
-      },
-      "id": "d89bba83-41e9-46b5-b5f3-b01d7ca976c3"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "ff4ea7a0-013c-443b-a898-2777486372ad",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-syed-mahbub-morshed/",
+      "imageId": "5f6927e9-f23e-42bc-9769-2f62e0ae329a",
       "name": "Dr. Syed Mahbub Morshed",
       "degree": "MBBS, FCPS (Medicine), MD (Nephrology)",
       "specialty": "Kidney & Medicine Specialist",
       "workplace": "Shaheed Suhrawardy Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Mirpur\nAddress: Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka\nVisiting Hour: 8pm to 10pm (Sat to Thursday), 3:30pm to 4:30pm (Friday)\nAppointment: +8809666787807\nCall Now",
+      "info": "Popular Diagnostic Center, Mirpur Address: Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka Visiting Hour: 8pm to 10pm (Sat to Thursday), 3:30pm to 4:30pm (Friday) Appointment: +8809666787807 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Savar",
         "address": "E/22, Talbagh, Anandapur, Savar, Dhaka",
         "visitingTime": "4pm to 7pm (Sat, Mon & Tue) & 10am to 2pm (Friday)",
-        "appointmentNumber": "+8809666787808"
-      },
-      "id": "73b5702c-f9f6-4fd2-a46b-b4a2bd3dd5f3"
+        "appointmentNumber": "+8809666787808Call Now"
+      }
     },
     {
+      "id": "72d92ea2-94dc-4a62-8d0f-01aa894af64f",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-rafi-nazrul-islam/",
+      "imageId": "29e09658-999a-44ad-9149-7cec2e26e7e9",
       "name": "Dr. Rafi Nazrul Islam",
       "degree": "MBBS, MD (Nephrology)",
       "specialty": "Diabetes, Medicine & Kidney Disease Specialist",
       "workplace": "Birdem General Hospital & Ibrahim Medical College",
-      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, B.B. Road, Chashara, Narayanganj – 1400\nVisiting Hour: 10am to 1pm (Sat, Mon & Wed)\nAppointment: +8809666787804\nCall Now",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, B.B. Road, Chashara, Narayanganj – 1400 Visiting Hour: 10am to 1pm (Sat, Mon & Wed) Appointment: +8809666787804 Call Now",
       "chamber": {
         "hospital": "Islami Bank Central Hospital, Kakrail",
         "address": "30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000",
         "visitingTime": "7pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8802222225802"
-      },
-      "id": "efb025eb-5928-46c9-b200-bf396c7ec696"
+        "appointmentNumber": "+8802222225802Call Now"
+      }
     },
     {
+      "id": "b7b0897a-1f11-4b52-9f31-7240e146ceaf",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-shahnewaz-dewan/",
+      "imageId": "63890336-f64c-4e71-9f75-2535b0d262f9",
       "name": "Dr. Shahnewaz Dewan",
       "degree": "MBBS, BCS (Health), MD (Kidney), FCGP (BD)",
       "specialty": "Kidney Specialist",
@@ -514,11 +626,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "5.30pm to 7.30pm (Saturday 7:30pm to 9:00pm)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "14d70cf0-cf2e-4e4a-9711-1c112a6b1c9d"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
+      "id": "45a6f2b0-fcd3-4e27-a3f1-03e185063593",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-md-rashed-anwar/",
+      "imageId": "bc379888-4902-4d88-842a-69687e753476",
       "name": "Dr. Md. Rashed Anwar",
       "degree": "MBBS, MD (Nephrology)",
       "specialty": "Kidney Diseases, Hemodialysis & Transplantation Specialist",
@@ -528,39 +643,48 @@
         "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
         "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787805"
-      },
-      "id": "8f2f6465-fdd8-4ac4-8bb4-210ca2ac3819"
+        "appointmentNumber": "+8809666787805Call Now"
+      }
     },
     {
+      "id": "5f58703b-fe18-4aea-9601-acfb0756adbd",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-asm-tanim-anwar/",
+      "imageId": "33a4de55-8e67-4353-a792-8fe2788ce118",
       "name": "Dr. A.S.M. Tanim Anwar",
       "degree": "MBBS (DMC), MD (Nephrology), MPH (UK), CCD (BIRDEM)",
       "specialty": "Kidney Diseases & Transplant Specialist",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, B.B. Road, Chashara, Narayanganj – 1400\nVisiting Hour: 4pm to 11pm (Sat, Mon, Wed) & 11am to 5pm (Friday)\nAppointment: +8809666787804\nCall Now",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, B.B. Road, Chashara, Narayanganj – 1400 Visiting Hour: 4pm to 11pm (Sat, Mon, Wed) & 11am to 5pm (Friday) Appointment: +8809666787804 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "8pm to 10pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "49b990fa-3049-43ea-9aca-cbdb69323b8e"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "3354978a-c63b-47fd-b514-db2896400a4e",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-faruque-ahmed/",
+      "imageId": "a0c7b690-70d8-429d-8e92-c95910ebf084",
       "name": "Dr. Faruque Ahmed",
       "degree": "MBBS, BCS (Health), MD (Nephrology)",
       "specialty": "Kidney Diseases Specialist",
       "workplace": "Shaheed Suhrawardy Medical College & Hospital",
-      "info": "Sono Consultation Center, Kushtia\nAddress: Sono Tower 2, Court Para, Kushtia, Bangladesh\nVisiting Hour: 9am to 3pm (Only Friday)\nAppointment: +8801925642628\nCall Now",
+      "info": "Sono Consultation Center, Kushtia Address: Sono Tower 2, Court Para, Kushtia, Bangladesh Visiting Hour: 9am to 3pm (Only Friday) Appointment: +8801925642628 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Savar",
         "address": "31/6 Jaleshwar, Aricha Road, Savar, Dhaka - 1340",
         "visitingTime": "4.30pm to 7pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809610009613"
-      },
-      "id": "0f6f2666-fe24-4da1-b39a-0c959aa1328d"
+        "appointmentNumber": "+8809610009613Call Now"
+      }
     },
     {
+      "id": "4668ceeb-f135-4902-b096-85c1ecd9552a",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdul-wahab-khan/",
+      "imageId": "81195baa-8914-44c5-ba5c-53d33d58f3b6",
       "name": "Dr. Md. Abdul Wahab Khan",
       "degree": "MBBS, MD (Nephrology)",
       "specialty": "Kidney Specialist",
@@ -570,11 +694,14 @@
         "hospital": "Bangladesh Specialized Hospital",
         "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8809666700100"
-      },
-      "id": "0d874dd7-53f1-4c3f-87a7-ed9de1b00473"
+        "appointmentNumber": "+8809666700100Call Now"
+      }
     },
     {
+      "id": "21b9bb13-a693-4db2-b4a1-8a24641a6d8d",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-firoz-khan/",
+      "imageId": "7dc9fe08-dc6d-4c90-b53d-ca9d76600d5b",
       "name": "Prof. Dr. Md. Firoz Khan",
       "degree": "MBBS, MD (Nephrology), FRCP (UK)",
       "specialty": "Kidney Diseases Specialist",
@@ -584,11 +711,14 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801718811610"
-      },
-      "id": "95de14b7-7d8a-4890-bb00-f4ff82b8a33d"
+        "appointmentNumber": "+8801718811610Call Now"
+      }
     },
     {
+      "id": "d4e940d5-1360-4295-8e69-ef48d04abd37",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-md-mustafizur-rahman/",
+      "imageId": "9e05e772-3901-4f74-8ca6-f5cee05f6fbe",
       "name": "Dr. Md. Mustafizur Rahman",
       "degree": "MBBS, FCGP, Ph D (Nephrology)",
       "specialty": "Kidney Diseases Specialist",
@@ -598,11 +728,14 @@
         "hospital": "Comfort Diagnostic Center, Dhanmondi",
         "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801731956033"
-      },
-      "id": "f198ebc5-c3f8-4e3c-a4d3-8cfb55ff5d2f"
+        "appointmentNumber": "+8801731956033Call Now"
+      }
     },
     {
+      "id": "c6d80176-f48d-4e95-aa0e-7a3232b7deba",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-ebadur-rahman/",
+      "imageId": "dcdc5a79-bf82-4ef2-82b4-f713cdc2d4c9",
       "name": "Dr. Ebadur Rahman",
       "degree": "MBBS, FRCP (Edinburgh), FRCP (Ireland), FASN, MRCP (UK), DIM (UK), DNeph (UK)",
       "specialty": "Kidney Diseases, Dialysis, Diabetic Nephropathy Specialist",
@@ -612,11 +745,14 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10678"
-      },
-      "id": "b7e48ddc-9ddc-4144-ab27-556d507f2085"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "f505e453-58ed-4fc4-8c68-14eb223d198c",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdur-razzak/",
+      "imageId": "9665e023-8b75-48b0-8558-5c392e44d800",
       "name": "Dr. Md. Abdur Razzak",
       "degree": "MBBS, MD (Nephrology)",
       "specialty": "Kidney Specialist",
@@ -626,11 +762,14 @@
         "hospital": "Popular Diagnostic Center, Savar",
         "address": "E/22, Talbagh, Anandapur, Savar, Dhaka",
         "visitingTime": "3pm to 8.30pm (Closed: Saturday)",
-        "appointmentNumber": "+8809666787808"
-      },
-      "id": "98d24712-7c37-4dc1-85bc-6a456050e430"
+        "appointmentNumber": "+8809666787808Call Now"
+      }
     },
     {
+      "id": "e5895ce7-c370-4aa9-a286-025ea10e9f2f",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-syed-fazlul-islam/",
+      "imageId": "063c6adb-668d-463f-8abb-ba2132a3b84d",
       "name": "Dr. Syed Fazlul Islam",
       "degree": "MBBS, FCPS (Medicine), MD (Nephrology)",
       "specialty": "Kidney & Medicine Specialist",
@@ -640,39 +779,48 @@
         "hospital": "Ibn Sina Diagnostic Center, Doyagonj",
         "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
         "visitingTime": "3pm to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801878115751"
-      },
-      "id": "7c6f215d-36d6-497e-8713-1300247f21fe"
+        "appointmentNumber": "+8801878115751Call Now"
+      }
     },
     {
+      "id": "5aa4432e-3e7e-4667-853d-c2fbb7fefec5",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-a-n-m-abdul-hai/",
+      "imageId": "db8fc7c6-adf1-4122-8b35-13f6f2006953",
       "name": "Dr. A.N.M. Abdul Hai",
       "degree": "MBBS, BCS (Health), MD (Nephrology)",
       "specialty": "Kidney Diseases Specialist",
       "workplace": "National Institute of Kidney Diseases & Urology",
-      "info": "Super Medical Hospital, Savar\nAddress: Near Razzak Plaza, B-119/3, Jaleshwar, Savar, Dhaka\nVisiting Hour: 4pm to 7pm (Wed, Fri & Sun)\nAppointment: +8801711266169\nCall Now",
+      "info": "Super Medical Hospital, Savar Address: Near Razzak Plaza, B-119/3, Jaleshwar, Savar, Dhaka Visiting Hour: 4pm to 7pm (Wed, Fri & Sun) Appointment: +8801711266169 Call Now",
       "chamber": {
         "hospital": "Aalok Healthcare & Hospital, Mirpur 10",
         "address": "House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka",
         "visitingTime": "5pm to 7pm (Sat, Mon, Tue & Thu) & 9pm to 10pm (Sun & Wed)",
-        "appointmentNumber": "+8801915448491"
-      },
-      "id": "a116a009-7f5c-4c25-805d-c21e164ab363"
+        "appointmentNumber": "+8801915448491Call Now"
+      }
     },
     {
+      "id": "00344ac1-6c9c-4834-8bc6-e5db612f1712",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-asm-farhad-khan/",
+      "imageId": "3e69b1b8-165d-4677-ac48-64c84d1ea2f4",
       "name": "Dr. ASM Farhad Khan",
       "degree": "MBBS, BCS (Health), MD (Nephrology)",
       "specialty": "Kidney Specialist",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Popular Diagnostic Centre, Kushtia\nAddress: City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia\nVisiting Hour: 9am to 10pm (Only Friday)\nAppointment: +8809666787817\nCall Now",
+      "info": "Popular Diagnostic Centre, Kushtia Address: City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia Visiting Hour: 9am to 10pm (Only Friday) Appointment: +8809666787817 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Savar",
         "address": "31/6 Jaleshwar, Aricha Road, Savar, Dhaka - 1340",
         "visitingTime": "4pm to 7pm (Closed: Mon, Tue & Fri)",
-        "appointmentNumber": "+88 09610009613"
-      },
-      "id": "4033b441-52cf-4d76-a8a3-1cb54d7306a1"
+        "appointmentNumber": "+88 09610009613Call Now"
+      }
     },
     {
+      "id": "7cd1218d-3b6d-4c32-9daf-24b1fb8d155f",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-md-aminul-islam/",
+      "imageId": "d0141c0a-e4fd-4e59-ae7b-5912d2b19a9d",
       "name": "Dr. Md. Aminul Islam",
       "degree": "MBBS, BCS (Health), MD (Nephrology)",
       "specialty": "Kidney Specialist",
@@ -682,11 +830,14 @@
         "hospital": "Popular Diagnostic Center, Badda",
         "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka - 1212",
         "visitingTime": "6pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787809"
-      },
-      "id": "66fa7f17-14dd-4902-8371-c67d0afa1835"
+        "appointmentNumber": "+8809666787809Call Now"
+      }
     },
     {
+      "id": "ae57d22b-e86c-4a5a-a983-d958321df6cc",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-saif-bin-mizan/",
+      "imageId": "58539011-60be-4a22-a915-91f0689ab9b5",
       "name": "Dr. Saif Bin Mizan",
       "degree": "MBBS, CCD (Diabetology), MD (Nephrology)",
       "specialty": "Kidney & Diabetes Specialist",
@@ -696,11 +847,14 @@
         "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
         "address": "1/1 B, Kallyanpur, Dhaka",
         "visitingTime": "6pm to 8.30pm (Closed: Tuesday & Thursday)",
-        "appointmentNumber": "+8801703725590"
-      },
-      "id": "3491c541-a5d9-4a1c-b78b-9686143d0a44"
+        "appointmentNumber": "+8801703725590Call Now"
+      }
     },
     {
+      "id": "73ac0a06-ee14-4dc5-ba9b-c9ed94eb22c9",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-shudhanshu-kumar-saha/",
+      "imageId": "2994324c-0a88-46d0-96ea-1a732d803015",
       "name": "Dr. Shudhanshu Kumar Saha",
       "degree": "MBBS, MD (Nephrology), CCD (BIRDEM)",
       "specialty": "Kidney & Diabetes Specialist",
@@ -710,25 +864,31 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi, Dhaka - 1205",
         "visitingTime": "4pm to 6pm (Everyday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "3c7d8ab2-b0ed-4723-9fd6-7ce543bbdf6d"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "06d651cd-087e-4e9f-b4bc-359a159631c0",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-asm-morshed/",
+      "imageId": "ed4f7303-31c2-48b7-be84-a8aed3277279",
       "name": "Dr. ASM Morshed",
       "degree": "MBBS, BCS (Health), MD (Nephrology), MCPS (Medicine)",
       "specialty": "Kidney & Medicine Specialist",
       "workplace": "Shaheed Tajuddin Ahmad Medical College & Hospital",
-      "info": "Savar Prime Hospital\nAddress: A-89, Thana Road, Talbagh, Savar, Dhaka – 1340\nVisiting Hour: 4pm to 6pm (Only Friday)\nAppointment: +8801752561542\nCall Now",
+      "info": "Savar Prime Hospital Address: A-89, Thana Road, Talbagh, Savar, Dhaka – 1340 Visiting Hour: 4pm to 6pm (Only Friday) Appointment: +8801752561542 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Savar",
         "address": "31/6 Jaleshwar, Aricha Road, Savar, Dhaka - 1340",
         "visitingTime": "4pm to 7pm (Monday) & 10am to 5.30pm (Friday)",
-        "appointmentNumber": "+88 09610009613"
-      },
-      "id": "22b76571-de12-4057-9d0f-caafd26c3a61"
+        "appointmentNumber": "+88 09610009613Call Now"
+      }
     },
     {
+      "id": "088fa5ab-19f5-4f53-8edb-69c364fdd579",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/prof-dr-farid-ahmed/",
+      "imageId": "22129209-9bbf-424f-9735-e7b42632ee25",
       "name": "Prof. Dr. Farid Ahmed",
       "degree": "MBBS, DCH, MD (Child)",
       "specialty": "Pediatric Nephrologist",
@@ -738,11 +898,14 @@
         "hospital": "Labaid Diagnostic, Gulshan",
         "address": "House # 13/A, Road # 35, Gulshan 2, Dhaka",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801766662525"
-      },
-      "id": "6a2a3d32-5231-476f-8974-8f762af3b0b6"
+        "appointmentNumber": "+8801766662525Call Now"
+      }
     },
     {
+      "id": "d29c9052-c5df-4fd1-8ae8-b52a0e4bd7af",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-anwarul-haque-forazi/",
+      "imageId": "b5492f62-f3fc-4f64-98db-7135c6739589",
       "name": "Prof. Dr. Md. Anwarul Haque Forazi",
       "degree": "MBBS, MD (Nephrlogy)",
       "specialty": "Nephrologist Kidney Specialist",
@@ -752,11 +915,14 @@
         "hospital": "Popular Diagnostic Center, Badda",
         "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka - 1212",
         "visitingTime": "4:30pm to 6:30pm (Closed: Mon & Friday)",
-        "appointmentNumber": "+8809666787809"
-      },
-      "id": "ee9805f8-5219-4bb3-a156-c92a8c9a12f0"
+        "appointmentNumber": "+8809666787809Call Now"
+      }
     },
     {
+      "id": "2ebb075c-e841-46de-9107-2589b4f9b72e",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-hasinatul-zannat/",
+      "imageId": "4aba19a4-ef4d-4e1e-a2ef-e7504ca39bed",
       "name": "Dr. Hasinatul Zannat",
       "degree": "MBBS, FCPS (Medicine), MD (Nephrology)",
       "specialty": "Kidney & Medicine Specialist",
@@ -766,25 +932,31 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "6pm to 8:30pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "618c5aae-ef47-4d5b-a8a9-5ce1e016e819"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "04d7d010-2364-42b6-a04d-27f9a53951aa",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-shamimur-rahman/",
+      "imageId": "539d0073-9af5-4bcc-915f-0a0336887461",
       "name": "Dr. Shamimur Rahman",
       "degree": "MBBS, MD (Nephrology)",
       "specialty": "Kidney, Ureters, Bladder, Prostate Specialist & Surgeon",
       "workplace": "Enam Medical College & Hospital",
-      "info": "Enam Medical College & Hospital\nAddress: 9/3 Parboti Nagar, Thana Road, Savar, Dhaka\nVisiting Hour: 8am to 2.30pm (Closed: Friday)\nAppointment: +8801716358146\nCall Now",
+      "info": "Enam Medical College & Hospital Address: 9/3 Parboti Nagar, Thana Road, Savar, Dhaka Visiting Hour: 8am to 2.30pm (Closed: Friday) Appointment: +8801716358146 Call Now",
       "chamber": {
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "7pm to 9pm (Sat to Wed) & 10am to 11am (Friday)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "381df70b-b8a3-4b05-9c2e-1baf43fff9d7"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
+      "id": "d71c51fb-5108-4ce5-980e-b5fe2cc0fdd8",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-abu-saleh-ahmed/",
+      "imageId": "4328c8fd-386e-4169-9a47-6907db06b743",
       "name": "Dr. Abu Saleh Ahmed",
       "degree": "MBBS (DMC), FCPS (Medicine), MD (Nephrology), PGT",
       "specialty": "Kidney & Medicine Specialist",
@@ -794,11 +966,14 @@
         "hospital": "Bangladesh Specialized Hospital",
         "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8809666700100"
-      },
-      "id": "cdd7ae14-e5f7-452c-8605-0feb2a07b45d"
+        "appointmentNumber": "+8809666700100Call Now"
+      }
     },
     {
+      "id": "7ea87b82-c08b-4c20-a18a-dc93d774312d",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-saiful-bahar-khan/",
+      "imageId": "6f43658d-62f4-497b-88fe-17fe5e605e82",
       "name": "Dr. Saiful Bahar Khan",
       "degree": "MBBS, MD (Nephrology)",
       "specialty": "Kidney Diseases, Medicine & Diabetes Specialist",
@@ -808,11 +983,14 @@
         "hospital": "Islami Bank Specialized & General Hospital, Nayapaltan",
         "address": "71-72, VIP Road, Nayapaltan, Dhaka",
         "visitingTime": "5pm to 8pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801977552283"
-      },
-      "id": "3216114e-2ebe-480d-8e6d-3e132e933637"
+        "appointmentNumber": "+8801977552283Call Now"
+      }
     },
     {
+      "id": "a142f83c-4924-481b-accb-ceb9965bc729",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/prof-dr-nazneen-mahmood/",
+      "imageId": "ad69fbd3-4731-48d6-aeb5-85b5659da2d2",
       "name": "Prof. Dr. Nazneen Mahmood",
       "degree": "MBBS, MD (Nephrology), CCD (BIRDEM)",
       "specialty": "Kidney Diseases Specialist",
@@ -822,11 +1000,14 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "10am to 12pm & 6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801715192004"
-      },
-      "id": "1a034ed2-1c2f-461a-a8ee-0d8bcb655ad3"
+        "appointmentNumber": "+8801715192004Call Now"
+      }
     },
     {
+      "id": "2ce3d14f-fde4-4f4f-9b1e-43e8233ac87b",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-md-anisur-rahman-kidney/",
+      "imageId": "5c7d56de-0581-4841-8b34-0f4d8ab45b81",
       "name": "Dr. Md. Anisur Rahman",
       "degree": "MBBS, MD (Nephrology)",
       "specialty": "Kidney, Ureters, Bladder, Prostate, Male Infertility Specialist & Surgeon",
@@ -836,11 +1017,14 @@
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "62b106f9-60e5-4d40-a4dd-1175967b255c"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
+      "id": "4437841d-5908-4376-96fc-efe8afa1b9fc",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-md-al-rizwan-russel/",
+      "imageId": "115c2cf3-1920-4406-8643-e5911aeb8716",
       "name": "Dr. Md. Al Rizwan Russel",
       "degree": "MBBS, BCS (Health), MD (Nephrology)",
       "specialty": "Kidney Specialist",
@@ -850,11 +1034,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "2pm to 5pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "c95be15f-387b-4d63-bf15-c7fc3ad00458"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "b6f11a43-b560-408f-9984-6a7903ddb3d3",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-faruq-amin-talukder/",
+      "imageId": "b45ccbf8-a7a1-42df-89e3-479ab7691878",
       "name": "Dr. Faruq Amin Talukder",
       "degree": "MBBS, MD (Nephrology)",
       "specialty": "Kidney Disease Specialist",
@@ -864,11 +1051,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Malibagh",
         "address": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
         "visitingTime": "8.30pm to 9.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801844141717"
-      },
-      "id": "fe5c6676-09e2-4cee-a0b6-554e73c5cbe9"
+        "appointmentNumber": "+8801844141717Call Now"
+      }
     },
     {
+      "id": "55ea09e8-1ec5-4419-8e90-b129e7f46c78",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-abdul-hamid/",
+      "imageId": "1dd9b7c3-2fbb-4a58-840c-1ceca105fa30",
       "name": "Dr. Mohammad Abdul Hamid",
       "degree": "MBBS, MRCP (UK)",
       "specialty": "Kidney Diseases & Medicine Specialist",
@@ -878,11 +1068,14 @@
         "hospital": "BRB Hospital, Dhaka",
         "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
         "visitingTime": "9am to 6pm (Closed: Friday)",
-        "appointmentNumber": "10647"
-      },
-      "id": "307814c5-1ea3-4783-9747-097ecdc52631"
+        "appointmentNumber": "10647Call Now"
+      }
     },
     {
+      "id": "e6d08a06-d134-4b8a-a9d7-5d0afa8be6e2",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-mosaddeque-ahmed/",
+      "imageId": "4a8508ab-d8d2-4b4c-8bbe-8dd89ea6f360",
       "name": "Dr. Mosaddeque Ahmed",
       "degree": "MBBS, USMLE, MRCP (UK)",
       "specialty": "Nephrology (Kidney Diseases, Dialysis & Transplant) Specialist",
@@ -892,11 +1085,14 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "10am to 6pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "e48f3e52-edb2-462a-ae0a-7cfebb5c1ea9"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "b0b98085-d408-4e48-889d-75afef043ad2",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-fahmida-begum/",
+      "imageId": "f199eedf-51bf-45c1-891b-5580bf3e2590",
       "name": "Dr. Fahmida Begum",
       "degree": "MBBS, MD (Nephrology)",
       "specialty": "Kidney Diseases Specialist & Intervention Nephrologist",
@@ -906,11 +1102,14 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10678"
-      },
-      "id": "09aa4aac-8fff-4e74-aebd-399e791dc155"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "7edde439-f41c-4ff2-aadb-cd8d4bf37ccd",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-momtaz-hossain/",
+      "imageId": "0ef4da29-5237-4a64-ac1c-5158433aa2f8",
       "name": "Dr. Momtaz Hossain",
       "degree": "MBBS, MD (Nephrology)",
       "specialty": "Kidney Diseases & Medicine Specialist",
@@ -920,25 +1119,14 @@
         "hospital": "Islami Bank Hospital, Mugda",
         "address": "1/24/B, Kamalapur Manda Road, South Mugdapara, Dhaka",
         "visitingTime": "4pm to 6pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801724008677"
-      },
-      "id": "47aa4f1c-12a6-44e4-ae67-35747d23d397"
+        "appointmentNumber": "+8801724008677Call Now"
+      }
     },
     {
-      "name": "Dr. Md. Mirazul Hasan",
-      "degree": "MBBS, BCS (Health), MD (Nephrology), CCD (BIRDEM), MACP (USA)",
-      "specialty": "Kidney Diseases & Diabetes Specialist",
-      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
-      "info": "Dr. Md. Mirazul Hasan is a Kidney Specialist in Dhaka. His qualification is MBBS, BCS (Health), MD (Nephrology), CCD (BIRDEM), MACP (USA). He is a Consultant, Nephrology at Shaheed Suhrawardy Medical College & Hospital. He regularly provides treatment to his patients at Healthcare Diagnostics Center. Practicing hour of Dr. Md. Mirazul Hasan at Healthcare Diagnostics Center is 3pm to 7pm (Closed: Friday).",
-      "chamber": {
-        "hospital": "Healthcare Diagnostics Center",
-        "address": "23/2, Khilji Road, Block-B, Shyamoli, Dhaka",
-        "visitingTime": "3pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "10661"
-      },
-      "id": "56e10a54-7278-4d6e-828c-38e58089c0cb"
-    },
-    {
+      "id": "fcaba55f-64e0-4612-8099-078684b8a7e0",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-selina-akter/",
+      "imageId": "94cbbad3-e22b-43b5-8755-959540922811",
       "name": "Dr. Selina Akter",
       "degree": "MBBS (DU), MD (Nephrology)",
       "specialty": "Nephrology (Kidney) & Medicine Specialist",
@@ -948,25 +1136,31 @@
         "hospital": "Aichi Hospital Limited, Uttara",
         "address": "Plot # 35 & 37, Sector # 08, Abdullahpur, Uttara, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801689956599"
-      },
-      "id": "c9e2fcfa-6664-4624-8a31-50dfd954efff"
+        "appointmentNumber": "+8801689956599Call Now"
+      }
     },
     {
-      "name": "Dr. AKM Abu Mottaleb",
-      "degree": "MBBS, MSc (Nephrology - UK)",
-      "specialty": "Kidney Diseases, Dialysis, Catheter Insertion & Biopsy Specialist",
-      "workplace": "Square Hospital, Dhaka",
-      "info": "Dr. AKM Abu Mottaleb is a Kidney Specialist in Dhaka. His qualification is MBBS, MSc (Nephrology - UK). He is a Associate Consultant, Nephrology at Square Hospital, Dhaka. He regularly provides treatment to his patients at Square Hospital, Dhaka. Practicing hour of Dr. AKM Abu Mottaleb at Square Hospital, Dhaka is 10am to 1pm (Closed: Friday).",
+      "id": "764f7049-ae51-45b5-b3c1-439d13086ccb",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-md-mirazul-hasan/",
+      "imageId": "565b33c3-28d7-41ad-b4db-04ffdbd6a99c",
+      "name": "Dr. Md. Mirazul Hasan",
+      "degree": "MBBS, BCS (Health), MD (Nephrology), CCD (BIRDEM), MACP (USA)",
+      "specialty": "Kidney Diseases & Diabetes Specialist",
+      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+      "info": "Dr. Md. Mirazul Hasan is a Kidney Specialist in Dhaka. His qualification is MBBS, BCS (Health), MD (Nephrology), CCD (BIRDEM), MACP (USA). He is a Consultant, Nephrology at Shaheed Suhrawardy Medical College & Hospital. He regularly provides treatment to his patients at Healthcare Diagnostics Center. Practicing hour of Dr. Md. Mirazul Hasan at Healthcare Diagnostics Center is 3pm to 7pm (Closed: Friday).",
       "chamber": {
-        "hospital": "Square Hospital, Dhaka",
-        "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
-        "visitingTime": "10am to 1pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "98ddee67-1c52-4ae0-88b3-22f2cc9c2276"
+        "hospital": "Healthcare Diagnostics Center",
+        "address": "23/2, Khilji Road, Block-B, Shyamoli, Dhaka",
+        "visitingTime": "3pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "10661Call Now"
+      }
     },
     {
+      "id": "3797c6ca-3644-4d53-bf33-ce08b8af7aab",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-syed-imtiaz-ahmed/",
+      "imageId": "ed8ac09f-4543-4ff0-8820-cfe1b33eac59",
       "name": "Dr. Syed Imtiaz Ahmed",
       "degree": "MBBS, BCS (Health), MD (Nephrology)",
       "specialty": "Kidney Diseases Specialist",
@@ -976,11 +1170,14 @@
         "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
         "address": "1/1 B, Kallyanpur, Dhaka",
         "visitingTime": "3pm to 5pm (Sun, Tue & Thursday)",
-        "appointmentNumber": "+8801703725590"
-      },
-      "id": "485f8ee8-8b81-485b-a439-904aad3b31d2"
+        "appointmentNumber": "+8801703725590Call Now"
+      }
     },
     {
+      "id": "1e026403-4493-4215-9512-7d47379c0e1b",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-ehsan-jalil/",
+      "imageId": "a747b74f-9a18-4f5d-88d9-4ef7dcbab5d0",
       "name": "Dr. Muhammad Ehsan Jalil",
       "degree": "MBBS, MD (Nephrology)",
       "specialty": "Kidney Diseases Specialist",
@@ -990,39 +1187,31 @@
         "hospital": "Islami Bank Hospital, Motijheel",
         "address": "24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801727666741"
-      },
-      "id": "7efddece-0407-4093-b1f8-5f98156640fe"
+        "appointmentNumber": "+8801727666741Call Now"
+      }
     },
     {
-      "name": "Dr. Rummana Bari",
-      "degree": "MBBS, MD (Nephrology)",
-      "specialty": "Kidney Diseases & Medicine Specialist",
-      "workplace": "Labaid Cancer Hospital & Super Speciality Center",
-      "info": "Dr. Rummana Bari is a Kidney Specialist in Dhaka. Her qualification is MBBS, MD (Nephrology). She is a Associate Consultant, Nephrology at Labaid Cancer Hospital & Super Speciality Center. She regularly provides treatment to her patients at Labaid Cancer Hospital & Super Speciality Center. Practicing hour of Dr. Rummana Bari at Labaid Cancer Hospital & Super Speciality Center is 4pm to 6pm (Sun, Tue, Thu & Friday).",
+      "id": "7cab6b62-44a9-4627-9b32-79e62d9cea3c",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-akm-abu-mottaleb/",
+      "imageId": "4cd1246f-08c4-420e-94b4-7b30f48613e8",
+      "name": "Dr. AKM Abu Mottaleb",
+      "degree": "MBBS, MSc (Nephrology - UK)",
+      "specialty": "Kidney Diseases, Dialysis, Catheter Insertion & Biopsy Specialist",
+      "workplace": "Square Hospital, Dhaka",
+      "info": "Dr. AKM Abu Mottaleb is a Kidney Specialist in Dhaka. His qualification is MBBS, MSc (Nephrology - UK). He is a Associate Consultant, Nephrology at Square Hospital, Dhaka. He regularly provides treatment to his patients at Square Hospital, Dhaka. Practicing hour of Dr. AKM Abu Mottaleb at Square Hospital, Dhaka is 10am to 1pm (Closed: Friday).",
       "chamber": {
-        "hospital": "Labaid Cancer Hospital & Super Speciality Center",
-        "address": "26, Green Road, Dhaka",
-        "visitingTime": "4pm to 6pm (Sun, Tue, Thu & Friday)",
-        "appointmentNumber": "+8809666710001"
-      },
-      "id": "bd5e99ea-7c92-4c32-bf13-f1458370a520"
+        "hospital": "Square Hospital, Dhaka",
+        "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
+        "visitingTime": "10am to 1pm (Closed: Friday)",
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
-      "name": "Dr. Manik Chandra Mondal",
-      "degree": "MBBS, MD (Nephrology)",
-      "specialty": "Kidney Diseases & Medicine Specialist",
-      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Dr. Manik Chandra Mondal is a Kidney Specialist in Dhaka. His qualification is MBBS, MD (Nephrology). He is a Medical Officer, Nephrology at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at City Hospital Limited, Dhaka. Practicing hour of Dr. Manik Chandra Mondal at City Hospital Limited, Dhaka is 6pm to 9pm (Closed: Thu & Friday).",
-      "chamber": {
-        "hospital": "City Hospital Limited, Dhaka",
-        "address": "1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka – 1207",
-        "visitingTime": "6pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801558220134"
-      },
-      "id": "c0424f38-a10c-4d79-9616-5a78b968a198"
-    },
-    {
+      "id": "6bc48ae9-ea70-4c2f-a7be-0bc07af4cc03",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-md-ashiqur-rahman/",
+      "imageId": "7486882a-594b-4b15-89af-7a369ca8a17a",
       "name": "Dr. Md. Ashiqur Rahman",
       "degree": "MBBS, FCPS (Medicine), MD (Nephrology)",
       "specialty": "Medicine & Kidney Specialist",
@@ -1032,81 +1221,31 @@
         "hospital": "Labaid Diagnostic, Malibagh",
         "address": "House # B65, Chowdhury Para, Malibagh, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662555"
-      },
-      "id": "d6563317-5d69-4d27-b485-670bb0ce8246"
+        "appointmentNumber": "+8801766662555Call Now"
+      }
     },
     {
-      "name": "Dr. Sohel Bin Sayeed",
-      "degree": "MBBS, BCS (Health), MD (Nephrology), MACAP (USA), CCD (BIRDEM)",
-      "specialty": "Kidney Diseases, Dialysis & Medicine Specialist",
-      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
-      "info": "Dr. Sohel Bin Sayeed is a Kidney Specialist in Dhaka. His qualification is MBBS, BCS (Health), MD (Nephrology), MACAP (USA), CCD (BIRDEM). He is a Consultant, Nephrology at Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Malibagh. Practicing hour of Dr. Sohel Bin Sayeed at Labaid Diagnostic, Malibagh is 7pm to 9pm (Closed: Friday).",
-      "chamber": {
-        "hospital": "Labaid Diagnostic, Malibagh",
-        "address": "House # B65, Chowdhury Para, Malibagh, Dhaka",
-        "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662555"
-      },
-      "id": "2296f925-6f84-4909-bbff-e4d1f5bb6614"
-    },
-    {
-      "name": "Dr. Jyoti Vaskar Saha",
-      "degree": "MBBS (Dhaka), BCS (Health), MD (Nephrology) DMC, MACP (USA), CCD (BIRDEM)",
-      "specialty": "Clinical & Interventional NephrologistKidney Diseases, Dialysis, Medicine, Diabetes, Hypertension Specialist",
-      "workplace": "Mugda Medical College & Hospital",
-      "info": "Islamia Hospital Bangladesh\nAddress: 1720, Kazi Tower, Rayerbag, Kadamtali, Dhaka\nVisiting Hour: 6pm to 8pm (Sat, Mon & Wed)\nAppointment: +8801979045504\nCall Now",
-      "chamber": {
-        "hospital": "Millennium Specialized Hospital",
-        "address": "Ashraf Tower, 4/1 Walter Road, Sutrapur, Dhaka",
-        "visitingTime": "7pm to 9pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8809639206020"
-      },
-      "id": "729b5a71-05ca-4f43-baa7-a12dc2c694e7"
-    },
-    {
-      "name": "Dr. Ferdous Kamal Bhuiyan",
-      "degree": "MBBS (DMC), MD (Nephrology)",
-      "specialty": "Kidney Specialist",
-      "workplace": "Asgar Ali Hospital, Dhaka",
-      "info": "Dr. Ferdous Kamal Bhuiyan is a Kidney Specialist in Dhaka. His qualification is MBBS (DMC), MD (Nephrology). He is working as a Kidney Specialist doctor in Asgar Ali Hospital, Dhaka. He regularly provides treatment to his patients at Asgar Ali Hospital, Dhaka. Practicing hour of Dr. Ferdous Kamal Bhuiyan at Asgar Ali Hospital, Dhaka is Unknown. Please call to know visiting hour.",
-      "chamber": {
-        "hospital": "Asgar Ali Hospital, Dhaka",
-        "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
-        "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801787683333"
-      },
-      "id": "a904d725-3f8b-4b6c-9e20-e18f614de584"
-    },
-    {
-      "name": "Dr. Md. Hasanuzzaman",
+      "id": "8c79e1f5-c7f6-457b-83c4-4157fa1fa9f4",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-manik-chandra-mondal/",
+      "imageId": "547dd9a8-02d1-4f5e-97b3-d0a84dde4280",
+      "name": "Dr. Manik Chandra Mondal",
       "degree": "MBBS, MD (Nephrology)",
-      "specialty": "Kidney Diseases, Dialysis & Medicine Specialist",
-      "workplace": "Asgar Ali Hospital, Dhaka",
-      "info": "Dr. Md. Hasanuzzaman is a Kidney Specialist in Dhaka. His qualification is MBBS, MD (Nephrology). He is a Associate Consultant, Nephrology at Asgar Ali Hospital, Dhaka. He regularly provides treatment to his patients at Asgar Ali Hospital, Dhaka. Practicing hour of Dr. Md. Hasanuzzaman at Asgar Ali Hospital, Dhaka is Unknown. Please call to know visiting hour.",
+      "specialty": "Kidney Diseases & Medicine Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Manik Chandra Mondal is a Kidney Specialist in Dhaka. His qualification is MBBS, MD (Nephrology). He is a Medical Officer, Nephrology at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at City Hospital Limited, Dhaka. Practicing hour of Dr. Manik Chandra Mondal at City Hospital Limited, Dhaka is 6pm to 9pm (Closed: Thu & Friday).",
       "chamber": {
-        "hospital": "Asgar Ali Hospital, Dhaka",
-        "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
-        "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801787683333"
-      },
-      "id": "e6c4056c-1d61-4b04-afbd-2d9d5c34a1f2"
+        "hospital": "City Hospital Limited, Dhaka",
+        "address": "1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka – 1207",
+        "visitingTime": "6pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801558220134Call Now"
+      }
     },
     {
-      "name": "Dr. Md. Shahadat Hossain",
-      "degree": "MBBS, BCS (Health), MD (Nephrology)",
-      "specialty": "Kidney Diseases, Dialysis & Transplant Specialist",
-      "workplace": "Central Police Hospital, Dhaka",
-      "info": "Dr. Md. Shahadat Hossain is a Kidney Specialist in Dhaka. His qualification is MBBS, BCS (Health), MD (Nephrology). He is a Consultant, Nephrology at Central Police Hospital, Dhaka. He regularly provides treatment to his patients at Farazy Hospital, Banasree. Practicing hour of Dr. Md. Shahadat Hossain at Farazy Hospital, Banasree is 8pm to 10pm (Sun, Tue & Thu).",
-      "chamber": {
-        "hospital": "Farazy Hospital, Banasree",
-        "address": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
-        "visitingTime": "8pm to 10pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801766111137"
-      },
-      "id": "cf89a876-b3f1-41f5-9b44-4683c7f9d59a"
-    },
-    {
+      "id": "6d5089c0-a8d4-4c49-8320-20f8aa131dfd",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-mahbub-alam-majumder/",
+      "imageId": "c46b7e27-9178-4b14-a3ba-a3b00a41aac5",
       "name": "Dr. Mahbub Alam Majumder",
       "degree": "MBBS, FCPS (Medicine), MD (Nephrology)",
       "specialty": "Kidney & Medicine Specialist",
@@ -1116,11 +1255,116 @@
         "hospital": "Savar Prime Hospital",
         "address": "A-89, Thana Road, Talbagh, Savar, Dhaka - 1340",
         "visitingTime": "3pm to 7pm (Sun & Tue)",
-        "appointmentNumber": "+8801752561542"
-      },
-      "id": "37be9e77-8350-4182-95ba-c417c69a7bd1"
+        "appointmentNumber": "+8801752561542Call Now"
+      }
     },
     {
+      "id": "e002d645-14ff-4857-be37-a0cfd9bbec96",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-sohel-bin-sayeed/",
+      "imageId": "357c2f84-0e9c-45fb-b9fc-963a46e38ba3",
+      "name": "Dr. Sohel Bin Sayeed",
+      "degree": "MBBS, BCS (Health), MD (Nephrology), MACAP (USA), CCD (BIRDEM)",
+      "specialty": "Kidney Diseases, Dialysis & Medicine Specialist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Dr. Sohel Bin Sayeed is a Kidney Specialist in Dhaka. His qualification is MBBS, BCS (Health), MD (Nephrology), MACAP (USA), CCD (BIRDEM). He is a Consultant, Nephrology at Sir Salimullah Medical College & Mitford Hospital. He regularly provides treatment to his patients at Labaid Diagnostic, Malibagh. Practicing hour of Dr. Sohel Bin Sayeed at Labaid Diagnostic, Malibagh is 7pm to 9pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Malibagh",
+        "address": "House # B65, Chowdhury Para, Malibagh, Dhaka",
+        "visitingTime": "7pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662555Call Now"
+      }
+    },
+    {
+      "id": "5c9355e3-d9ed-4b52-b1fd-78fdbc50048c",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-rummana-bari/",
+      "imageId": "e760f6ec-3230-48c7-a81b-f7fca339f6ce",
+      "name": "Dr. Rummana Bari",
+      "degree": "MBBS, MD (Nephrology)",
+      "specialty": "Kidney Diseases & Medicine Specialist",
+      "workplace": "Labaid Cancer Hospital & Super Speciality Center",
+      "info": "Dr. Rummana Bari is a Kidney Specialist in Dhaka. Her qualification is MBBS, MD (Nephrology). She is a Associate Consultant, Nephrology at Labaid Cancer Hospital & Super Speciality Center. She regularly provides treatment to her patients at Labaid Cancer Hospital & Super Speciality Center. Practicing hour of Dr. Rummana Bari at Labaid Cancer Hospital & Super Speciality Center is 4pm to 6pm (Sun, Tue, Thu & Friday).",
+      "chamber": {
+        "hospital": "Labaid Cancer Hospital & Super Speciality Center",
+        "address": "26, Green Road, Dhaka",
+        "visitingTime": "4pm to 6pm (Sun, Tue, Thu & Friday)",
+        "appointmentNumber": "+8809666710001Call Now"
+      }
+    },
+    {
+      "id": "7b479b9a-7d78-4fb1-8547-8d37deacc8c6",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-jyoti-vaskar-saha/",
+      "imageId": "7f5f9e5f-2dbb-470e-94df-d5bb638497e5",
+      "name": "Dr. Jyoti Vaskar Saha",
+      "degree": "MBBS (Dhaka), BCS (Health), MD (Nephrology) DMC, MACP (USA), CCD (BIRDEM)",
+      "specialty": "Clinical & Interventional NephrologistKidney Diseases, Dialysis, Medicine, Diabetes, Hypertension Specialist",
+      "workplace": "Mugda Medical College & Hospital",
+      "info": "Islamia Hospital Bangladesh Address: 1720, Kazi Tower, Rayerbag, Kadamtali, Dhaka Visiting Hour: 6pm to 8pm (Sat, Mon & Wed) Appointment: +8801979045504 Call Now",
+      "chamber": {
+        "hospital": "Millennium Specialized Hospital",
+        "address": "Ashraf Tower, 4/1 Walter Road, Sutrapur, Dhaka",
+        "visitingTime": "7pm to 9pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8809639206020Call Now"
+      }
+    },
+    {
+      "id": "830a8357-e5d6-4d5b-ab52-1511b694bdf5",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-md-hasanuzzaman-kidney/",
+      "imageId": "9954b405-5102-44ff-9131-1cb792608d07",
+      "name": "Dr. Md. Hasanuzzaman",
+      "degree": "MBBS, MD (Nephrology)",
+      "specialty": "Kidney Diseases, Dialysis & Medicine Specialist",
+      "workplace": "Asgar Ali Hospital, Dhaka",
+      "info": "Dr. Md. Hasanuzzaman is a Kidney Specialist in Dhaka. His qualification is MBBS, MD (Nephrology). He is a Associate Consultant, Nephrology at Asgar Ali Hospital, Dhaka. He regularly provides treatment to his patients at Asgar Ali Hospital, Dhaka. Practicing hour of Dr. Md. Hasanuzzaman at Asgar Ali Hospital, Dhaka is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Asgar Ali Hospital, Dhaka",
+        "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801787683333Call Now"
+      }
+    },
+    {
+      "id": "8b2dfedf-28ab-48b2-8ba9-7ba05938871e",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-ferdous-kamal-bhuiyan/",
+      "imageId": "0bcbe5a1-2ed9-4198-b63a-2ba240cc912a",
+      "name": "Dr. Ferdous Kamal Bhuiyan",
+      "degree": "MBBS (DMC), MD (Nephrology)",
+      "specialty": "Kidney Specialist",
+      "workplace": "Asgar Ali Hospital, Dhaka",
+      "info": "Dr. Ferdous Kamal Bhuiyan is a Kidney Specialist in Dhaka. His qualification is MBBS (DMC), MD (Nephrology). He is working as a Kidney Specialist doctor in Asgar Ali Hospital, Dhaka. He regularly provides treatment to his patients at Asgar Ali Hospital, Dhaka. Practicing hour of Dr. Ferdous Kamal Bhuiyan at Asgar Ali Hospital, Dhaka is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Asgar Ali Hospital, Dhaka",
+        "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801787683333Call Now"
+      }
+    },
+    {
+      "id": "e2735e32-6b00-4067-861b-b47212ec4fc0",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahadat-hossain-kidney/",
+      "imageId": "93a4cf39-d747-40e7-890a-25fe4763315c",
+      "name": "Dr. Md. Shahadat Hossain",
+      "degree": "MBBS, BCS (Health), MD (Nephrology)",
+      "specialty": "Kidney Diseases, Dialysis & Transplant Specialist",
+      "workplace": "Central Police Hospital, Dhaka",
+      "info": "Dr. Md. Shahadat Hossain is a Kidney Specialist in Dhaka. His qualification is MBBS, BCS (Health), MD (Nephrology). He is a Consultant, Nephrology at Central Police Hospital, Dhaka. He regularly provides treatment to his patients at Farazy Hospital, Banasree. Practicing hour of Dr. Md. Shahadat Hossain at Farazy Hospital, Banasree is 8pm to 10pm (Sun, Tue & Thu).",
+      "chamber": {
+        "hospital": "Farazy Hospital, Banasree",
+        "address": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
+        "visitingTime": "8pm to 10pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801766111137Call Now"
+      }
+    },
+    {
+      "id": "fc9bc767-0645-4e33-bbed-1942f1e2d42e",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-shafiullah/",
+      "imageId": "9f8b4945-34b1-4683-ae89-3ad24b9a1b0e",
       "name": "Prof. Dr. Md. Shafiullah",
       "degree": "MBBS, FCPS (Medicine), Fellowship Training in Clinical Nephrology (UK)",
       "specialty": "Medicine & Kidney Diseases Specialist",
@@ -1130,11 +1374,14 @@
         "hospital": "Medinova Medical Services, Dhanmondi",
         "address": "House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka",
         "visitingTime": "11am to 1pm (Sat, Sun, Tue & Thu)",
-        "appointmentNumber": "10658"
-      },
-      "id": "c7ea04d3-f2f2-49fc-9580-3ee5fcb55ddb"
+        "appointmentNumber": "10658Call Now"
+      }
     },
     {
+      "id": "42b10aa4-90d8-4cda-ac72-0da76699fcb3",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-beena-sarker/",
+      "imageId": "f41c0317-3e5f-472a-8204-73c4e6bc7530",
       "name": "Dr. Beena Sarker",
       "degree": "MBBS, FCPS (Medicine), MD (Nephrology)",
       "specialty": "Kidney & Medicine Specialist",
@@ -1144,11 +1391,14 @@
         "hospital": "Delta Hospital, Mirpur",
         "address": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka - 1216",
         "visitingTime": "5pm to 8pm (Closed: Tuesday)",
-        "appointmentNumber": "+8801301254924"
-      },
-      "id": "36b4ef97-a0e9-4d32-81ab-29e54ed7ca9c"
+        "appointmentNumber": "+8801301254924Call Now"
+      }
     },
     {
+      "id": "fee738de-1dab-4437-9ef6-37b9ab37fc52",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-a-latif/",
+      "imageId": "7ce3a2ac-e1a6-42e9-8113-c6a42de2e033",
       "name": "Dr. A Latif",
       "degree": "MBBS, MD (Nephrology), CCD",
       "specialty": "Kidney & Diabetes Specialist",
@@ -1158,11 +1408,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Lalbagh",
         "address": "27/4 Dhakeshwori Road, Lalbagh, Dhaka",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801783356048"
-      },
-      "id": "990a7699-02a4-4b0d-9623-e9302cc577c9"
+        "appointmentNumber": "+8801783356048Call Now"
+      }
     },
     {
+      "id": "305cb0b9-3d3a-4b05-8c62-dc6ce59f15e8",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-md-moniruzzaman/",
+      "imageId": "d78d62f8-c7e7-4d60-b2e8-eb86af4b6a4a",
       "name": "Dr. Md. Moniruzzaman",
       "degree": "MBBS, MD (Nephrology)",
       "specialty": "Kidney Disease Specialist",
@@ -1172,11 +1425,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "10pm to 1pm & 6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "071c7120-0c15-414a-b147-2b01fd627f5d"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "ef123a82-f1db-45e5-ae32-3e1e1d85bcdc",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/prof-dr-azizun-nessa/",
+      "imageId": "5bbcc939-743f-4b2b-8c12-15b5ab809bfb",
       "name": "Prof. Dr. Azizun Nessa",
       "degree": "MBBS, FCPS (Medicine), FCPS (Nephrology), FRCP (Glasgow)",
       "specialty": "Internal Medicine Specialist & Nephrologist",
@@ -1186,11 +1442,14 @@
         "hospital": "Medinova Medical Services, Mirpur",
         "address": "Plot # 29-30, Block # Kha, Road # 1, Section # 6, Mirpur 10, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801714256689"
-      },
-      "id": "7f5221f8-e9de-4964-bd06-f37dd32921e1"
+        "appointmentNumber": "+8801714256689Call Now"
+      }
     },
     {
+      "id": "0241ef9c-2d3e-4335-a9af-53beeaada836",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-maqsudur-rasul/",
+      "imageId": "1931dc3c-b9b6-4c4e-a08f-e712fa88d572",
       "name": "Brig Gen. Prof. Dr. Md. Maqsudur Rasul",
       "degree": "MBBS, MCPS, FCPS (Medicine), FCPS (Nephrology)",
       "specialty": "Medicine Specialist & Nephrologist",
@@ -1200,25 +1459,14 @@
         "hospital": "Aalok Healthcare & Hospital, Mirpur 10",
         "address": "House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka",
         "visitingTime": "5.30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801919228495, +8801915448491"
-      },
-      "id": "9610a6fc-ff85-4bfb-8643-ea45e30ff80e"
+        "appointmentNumber": "+8801919228495, +8801915448491Call Now"
+      }
     },
     {
-      "name": "Dr. Md. Ehasun Uddin Khan",
-      "degree": "MBBS, MD (Nephrology)",
-      "specialty": "Kidney & Medicine Specialist",
-      "workplace": "Dhaka Medical College & Hospital",
-      "info": "Dr. Md. Ehasun Uddin Khan is a Kidney Doctor in Dhaka. His qualification is MBBS, MD (Nephrology). He is working as a Kidney & Medicine Specialist doctor in Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Padma Diagnostic Center, Malibagh. Practicing hour of Dr. Md. Ehasun Uddin Khan at Padma Diagnostic Center, Malibagh is 6.30pm to 9.30pm (Sat, Mon & Thu) & 9pm to 10pm (Tue).",
-      "chamber": {
-        "hospital": "Padma Diagnostic Center, Malibagh",
-        "address": "245/2 New Circular Road, West Malibagh, Dhaka",
-        "visitingTime": "6.30pm to 9.30pm (Sat, Mon & Thu) & 9pm to 10pm (Tue)",
-        "appointmentNumber": "+8809617444222"
-      },
-      "id": "cab3394d-2c8e-4a58-b178-97c8f9bde014"
-    },
-    {
+      "id": "194c6839-b441-4dd8-b8c6-a76acc454e1c",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-nasir-ahmed/",
+      "imageId": "86a23695-0f26-409f-8033-d5e9c0f86cb1",
       "name": "Dr. Nasir Ahmed",
       "degree": "MBBS, MCPS, MD (Nephrology)",
       "specialty": "Kidney & Medicine Specialist",
@@ -1228,11 +1476,31 @@
         "hospital": "Padma Diagnostic Center, Malibagh",
         "address": "245/2 New Circular Road, West Malibagh, Dhaka",
         "visitingTime": "9pm to 10.30pm (Closed: Friday)",
-        "appointmentNumber": "+8809617444222"
-      },
-      "id": "61058657-64b0-45dd-b649-fcaf155388ae"
+        "appointmentNumber": "+8809617444222Call Now"
+      }
     },
     {
+      "id": "bdf2ac63-b551-41fb-9357-9d8fd7c69c93",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-md-ehasun-uddin-khan/",
+      "imageId": "9efee55e-694f-4d84-85f8-ba55beee8248",
+      "name": "Dr. Md. Ehasun Uddin Khan",
+      "degree": "MBBS, MD (Nephrology)",
+      "specialty": "Kidney & Medicine Specialist",
+      "workplace": "Dhaka Medical College & Hospital",
+      "info": "Dr. Md. Ehasun Uddin Khan is a Kidney Doctor in Dhaka. His qualification is MBBS, MD (Nephrology). He is working as a Kidney & Medicine Specialist doctor in Dhaka Medical College & Hospital. He regularly provides treatment to his patients at Padma Diagnostic Center, Malibagh. Practicing hour of Dr. Md. Ehasun Uddin Khan at Padma Diagnostic Center, Malibagh is 6.30pm to 9.30pm (Sat, Mon & Thu) & 9pm to 10pm (Tue).",
+      "chamber": {
+        "hospital": "Padma Diagnostic Center, Malibagh",
+        "address": "245/2 New Circular Road, West Malibagh, Dhaka",
+        "visitingTime": "6.30pm to 9.30pm (Sat, Mon & Thu) & 9pm to 10pm (Tue)",
+        "appointmentNumber": "+8809617444222Call Now"
+      }
+    },
+    {
+      "id": "8d04ffed-fe63-4b7a-9fca-21cc195de501",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-tofael-ahammod/",
+      "imageId": "99661dab-6881-4991-bf9c-db26120ceae7",
       "name": "Dr. Tofael Ahammod",
       "degree": "MBBS, CCD (BIRDEM), MD (Nephrology)",
       "specialty": "Kidney Specialist",
@@ -1242,11 +1510,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Mirpur",
         "address": "House # 11, Haji Road, Avenue 3, Rupnagar, Mirpur 2, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Wednesday)",
-        "appointmentNumber": "+8801847262996"
-      },
-      "id": "4d667ee8-b84c-41d9-86f5-20aaba8b4ed8"
+        "appointmentNumber": "+8801847262996Call Now"
+      }
     },
     {
+      "id": "9c927f82-352e-4ead-b870-a4bf004a9bb8",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-md-raquib-morshed/",
+      "imageId": "d78488c7-3e22-4896-b22a-5034f7a98be5",
       "name": "Dr. Md. Raquib Morshed",
       "degree": "MBBS, MD (Nephrology)",
       "specialty": "Kidney Specialist",
@@ -1256,11 +1527,14 @@
         "hospital": "Lake City Diagnostic & Consultation Center",
         "address": "Kha - 48/A, Sharder Market, Bottala, Khilkhet, Dhaka",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801753887953"
-      },
-      "id": "f06eae3a-f6b0-471f-a22e-34ca49e12070"
+        "appointmentNumber": "+8801753887953Call Now"
+      }
     },
     {
+      "id": "8a3e8b59-4b5a-43e9-9405-dfdce5851a4b",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-md-saiful-ahsan-rana/",
+      "imageId": "1de2d954-3254-448e-8434-7327f7aa4252",
       "name": "Dr. Md. Saiful Ahsan Rana",
       "degree": "MBBS (SOMC), BCS (Health), MD (Nephrology) DMC, CCD (BIRDEM), MACP (Medicine) USA",
       "specialty": "Kidney Medicine, Diabetes, Hypertension, Dialysis Specialist",
@@ -1270,11 +1544,14 @@
         "hospital": "Medinova Medical Services, Malibagh",
         "address": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
         "visitingTime": "7pm to 9pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801790118855"
-      },
-      "id": "0905b306-f1fb-4ad8-a460-9827ce66e35e"
+        "appointmentNumber": "+8801790118855Call Now"
+      }
     },
     {
+      "id": "f2c288be-5ad0-41fd-892e-c2fa8cfe8989",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/prof-dr-a-h-hamid-ahmed/",
+      "imageId": "56a7f713-066f-4cfd-a3a3-af93e5cc5e78",
       "name": "Prof. Dr. A. H. Hamid Ahmed",
       "degree": "MBBS, MD (Nephrology)",
       "specialty": "Kidney Diseases Specialist (Nephrologist)",
@@ -1284,11 +1561,14 @@
         "hospital": "Samorita Hospital Ltd, Panthapath",
         "address": "89/1, Panthapath, Dhaka - 1215, Bangladesh",
         "visitingTime": "5pm to 7pm (Sun, Mon, Tue & Wed)",
-        "appointmentNumber": "10674"
-      },
-      "id": "d0d09cfb-3707-44e0-bf30-2ffbd75b23ef"
+        "appointmentNumber": "10674Call Now"
+      }
     },
     {
+      "id": "a21ede75-9730-407a-86f7-6bb6b0f25f5e",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-rokhsana-alam-ripa/",
+      "imageId": "b68749d3-9a1c-4835-a6d6-4a484ade1a9b",
       "name": "Dr. Rokhsana Alam Ripa",
       "degree": "MBBS (DU), BCS (Health), MD (Nephrology), MACP",
       "specialty": "Kidney Diseases & Dialysis Specialist",
@@ -1298,25 +1578,14 @@
         "hospital": "Rushmono Specialized Hospital",
         "address": "209, Outer Circular Road, Moghbazar, Dhaka - 1217",
         "visitingTime": "3pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801708458075"
-      },
-      "id": "2a07340d-dd04-418f-a476-3d391dd3e8d6"
+        "appointmentNumber": "+8801708458075Call Now"
+      }
     },
     {
-      "name": "Dr. S M Salauddin (Rony)",
-      "degree": "MBBS, BCS (Health), MD (Nephrology), CCD (Diabetology)",
-      "specialty": "Kidney Diseases Specialist",
-      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
-      "info": "Health and Hope Hospital\nAddress: Chamber Building, Green Road, Panthapath, Dhaka – 1205\nVisiting Hour: 8pm to 9pm (Sat, Mon & Wed)\nAppointment: +8801611216232\nCall Now",
-      "chamber": {
-        "hospital": "Delta Hospital, Mirpur",
-        "address": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka – 1216",
-        "visitingTime": "4pm to 6pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801301-254924"
-      },
-      "id": "1eaacdf1-c7d2-4dd3-9169-0c15ad7e37ec"
-    },
-    {
+      "id": "c2171dab-559b-4957-be03-25fc73b5ace9",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-tabassum-samad/",
+      "imageId": "f031906c-2f78-4d61-8cd4-f74de6cba359",
       "name": "Dr. Tabassum Samad",
       "degree": "MBBS, FCPS (Medicine), FCPS (Nephrology)",
       "specialty": "Kidney Diseases & Medicine Specialist",
@@ -1326,39 +1595,31 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10678"
-      },
-      "id": "377e2519-64b0-4a8f-83c6-4ae19628532f"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
-      "name": "Dr. Md. Saiful Islam Moon",
-      "degree": "MBBS (MMC), MD (Nephrology) BSMMU, Advance Training in Critical Care Nephrology",
-      "specialty": "Kidney Diseases Specialist (Nephrologist)",
-      "workplace": "BRB Hospital Limited, Dhaka",
-      "info": "Dr. Md. Saiful Islam Moon is a Nephrologist in Dhaka. His qualification is MBBS (MMC), MD (Nephrology) BSMMU, Advance Training in Critical Care Nephrology. He is a Jr. Consultant, Department of Nephrology at BRB Hospital Limited, Dhaka. He regularly provides treatment to his patients at BRB Hospital, Dhaka. Practicing hour of Dr. Md. Saiful Islam Moon at BRB Hospital, Dhaka is 9am to 6pm (Closed: Monday & Govt. Holidays).",
+      "id": "418fbe93-a8d8-4b58-bf7a-77e2c0b06914",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-s-m-salauddin-rony/",
+      "imageId": "45a5a50c-9f2e-4e83-bde9-e978dc56ad2a",
+      "name": "Dr. S M Salauddin (Rony)",
+      "degree": "MBBS, BCS (Health), MD (Nephrology), CCD (Diabetology)",
+      "specialty": "Kidney Diseases Specialist",
+      "workplace": "Sir Salimullah Medical College & Mitford Hospital",
+      "info": "Health and Hope Hospital\nAddress: Chamber Building, Green Road, Panthapath, Dhaka – 1205\nVisiting Hour: 8pm to 9pm (Sat, Mon & Wed)\nAppointment: +8801611216232\nCall Now",
       "chamber": {
-        "hospital": "BRB Hospital, Dhaka",
-        "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
-        "visitingTime": "9am to 6pm (Closed: Monday & Govt. Holidays)",
-        "appointmentNumber": "10647"
-      },
-      "id": "221a8dfa-d715-4e9d-9a13-220c0ad7763e"
+        "hospital": "Delta Hospital, Mirpur",
+        "address": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka – 1216",
+        "visitingTime": "4pm to 6pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801301-254924Call Now"
+      }
     },
     {
-      "name": "Dr. Sheikh Imran Hossen",
-      "degree": "MBBS, BCS (Health), MD (Nephrology), MACP (USA), CCD (BIRDEM)",
-      "specialty": "Kidney Diseases Specialist (Nephrologist)",
-      "workplace": "Mugda Medical College & Hospital",
-      "info": "Farazy Diagnostic & Hospital, Natun Bazar\nAddress: 1204, Madani Avenue, 100 Feet Road, Vatara, Natun Bazar, Dhaka\nVisiting Hour: 7.30pm to 9.30pm (Sat, Mon & Wednesday)\nAppointment: +8801635995555\nCall Now",
-      "chamber": {
-        "hospital": "Popular Diagnostic Center, Badda",
-        "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka - 1212",
-        "visitingTime": "5pm to 7pm (Monday), 7pm to 9pm (Thursday & Friday)",
-        "appointmentNumber": "+8809666787809"
-      },
-      "id": "42e3af2c-d09e-4c40-87ae-dbbbd3e543bf"
-    },
-    {
+      "id": "bdfae6c5-9f60-45da-8fa4-302e5628cab8",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-abdus-salam-osmani/",
+      "imageId": "9c2e3d67-5f1a-4f3a-8ff7-f02eb60b54a6",
       "name": "Dr. Abdus Salam Osmani",
       "degree": "MBBS, BCS (Health), MD (Nephrology), CCD (BIRDEM)",
       "specialty": "Kidney Disease, Diabetes, Dialysis & Transplant Specialist",
@@ -1368,11 +1629,48 @@
         "hospital": "Labaid Diagnostic, Uttara (Unit 02)",
         "address": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662050"
-      },
-      "id": "e5950011-d6ad-4ad8-881a-47882020e10e"
+        "appointmentNumber": "+8801766662050Call Now"
+      }
     },
     {
+      "id": "92741f64-747c-4af0-9ace-ed9f66f8d0cf",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-md-saiful-islam-moon/",
+      "imageId": "9df6788f-9a6a-4563-834e-e00f23c4a385",
+      "name": "Dr. Md. Saiful Islam Moon",
+      "degree": "MBBS (MMC), MD (Nephrology) BSMMU, Advance Training in Critical Care Nephrology",
+      "specialty": "Kidney Diseases Specialist (Nephrologist)",
+      "workplace": "BRB Hospital Limited, Dhaka",
+      "info": "Dr. Md. Saiful Islam Moon is a Nephrologist in Dhaka. His qualification is MBBS (MMC), MD (Nephrology) BSMMU, Advance Training in Critical Care Nephrology. He is a Jr. Consultant, Department of Nephrology at BRB Hospital Limited, Dhaka. He regularly provides treatment to his patients at BRB Hospital, Dhaka. Practicing hour of Dr. Md. Saiful Islam Moon at BRB Hospital, Dhaka is 9am to 6pm (Closed: Monday & Govt. Holidays).",
+      "chamber": {
+        "hospital": "BRB Hospital, Dhaka",
+        "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
+        "visitingTime": "9am to 6pm (Closed: Monday & Govt. Holidays)",
+        "appointmentNumber": "10647Call Now"
+      }
+    },
+    {
+      "id": "a2b8212a-6cd4-4071-a2b7-5693c3a3d5d5",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/dr-sheikh-imran-hossen/",
+      "imageId": "f2f959ce-9cf3-4524-ba7a-dc0a80afb7a5",
+      "name": "Dr. Sheikh Imran Hossen",
+      "degree": "MBBS, BCS (Health), MD (Nephrology), MACP (USA), CCD (BIRDEM)",
+      "specialty": "Kidney Diseases Specialist (Nephrologist)",
+      "workplace": "Mugda Medical College & Hospital",
+      "info": "Farazy Diagnostic & Hospital, Natun Bazar Address: 1204, Madani Avenue, 100 Feet Road, Vatara, Natun Bazar, Dhaka Visiting Hour: 7.30pm to 9.30pm (Sat, Mon & Wednesday) Appointment: +8801635995555 Call Now",
+      "chamber": {
+        "hospital": "Popular Diagnostic Center, Badda",
+        "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka - 1212",
+        "visitingTime": "5pm to 7pm (Monday), 7pm to 9pm (Thursday & Friday)",
+        "appointmentNumber": "+8809666787809Call Now"
+      }
+    },
+    {
+      "id": "9eca015c-6553-425d-9632-a2471bd52f92",
+      "departmentId": "635678c6-aad6-4ff2-85dc-7489f956fb83",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-abul-mansur/",
+      "imageId": "d678f27d-e8f6-4212-986f-d14f8a4b8b9d",
       "name": "Prof. Dr. Md. Abul Mansur",
       "degree": "MBBS, MD (Nephrology), Diploma (Nephrology)",
       "specialty": "Kidney Diseases, Hemodialysis & Kidney Transplant Specialist",
@@ -1382,9 +1680,8 @@
         "hospital": "BIRDEM Specialized Chamber Complex",
         "address": "Main Building, 122, Kazi Nazrul Islam Avenue, Shahbag, Dhaka",
         "visitingTime": "2.30pm to 6pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801847259770"
-      },
-      "id": "36824e11-c539-4403-b1b3-73f609cd5adf"
+        "appointmentNumber": "+8801847259770Call Now"
+      }
     }
   ]
 }

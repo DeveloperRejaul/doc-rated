@@ -1,20 +1,27 @@
 {
   "doctor": [
     {
+      "id": "2a82e113-01e1-4316-b4c8-d196332989f8",
+      "departmentId": "a582bc3c-cfb9-48e8-8618-9f1b08e0f510",
+      "link": "https://www.doctorbangladesh.com/prof-dr-biplob-kumar-roy/",
+      "imageId": "f14e607e-d9e3-46fe-a81c-11925aba13d2",
       "name": "Prof. Dr. Biplob Kumar Roy",
       "degree": "MBBS, MPH, MCPS (Medicine), MD (Neurology), FRCP (Glasgow)",
       "specialty": "Neuromedicine (Brain, Nerve, Spine, Headache, Backpain) & Medicine Specialist",
       "workplace": "Sylhet MAG Osmani Medical College & Hospital",
-      "info": "A B C Doctors Chamber\nAddress: 2nd Floor (Beside of Central Pharmacy), Chowhatta, Sylhet\nVisiting Hour: 2.30pm to 4.30pm (Closed: Friday)\nAppointment: +8801681089886\nCall Now",
+      "info": "A B C Doctors Chamber Address: 2nd Floor (Beside of Central Pharmacy), Chowhatta, Sylhet Visiting Hour: 2.30pm to 4.30pm (Closed: Friday) Appointment: +8801681089886 Call Now",
       "chamber": {
         "hospital": "Popular Medical Center, Sylhet",
         "address": "Room: 502, New Medical Road, Kajolshah, Sylhet",
         "visitingTime": "6pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801400177347"
-      },
-      "id": "b7002351-fb2f-4160-91a3-2aebe527bff7"
+        "appointmentNumber": "+8801400177347Call Now"
+      }
     },
     {
+      "id": "810517b1-72ac-4bbc-9aa5-04f39da9b93a",
+      "departmentId": "a582bc3c-cfb9-48e8-8618-9f1b08e0f510",
+      "link": "https://www.doctorbangladesh.com/prof-dr-anisul-haque/",
+      "imageId": "38e6f126-7880-4306-8d7d-19007c86b62e",
       "name": "Prof. Dr. Anisul Haque",
       "degree": "MBBS, PhD, FCPS (Medicine), FRCP (Edin)",
       "specialty": "Neurology (Brain, Stroke, Nerve, Headache, Migraine) Specialist",
@@ -24,25 +31,31 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "12pm to 6pm (Tue, Wed & Thursday), 3pm to 6pm (Saturday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "7dc3fcba-4838-49c5-af85-27ebf9b16dfc"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "3bd4cbd2-c8c1-49ba-aad0-65512c0ca33a",
+      "departmentId": "a582bc3c-cfb9-48e8-8618-9f1b08e0f510",
+      "link": "https://www.doctorbangladesh.com/dr-afzal-momin/",
+      "imageId": "cf9adbe0-9a6f-4648-8c75-1482ed44a6eb",
       "name": "Prof. Dr. Afzal Momin",
       "degree": "MBBS (Dhaka), BCS (Health), MD (Neurology)",
       "specialty": "Neurology (Brain, Stroke, Nerve, Migraine, Headache) Specialist",
       "workplace": "National Institute of Neurosciences & Hospital",
-      "info": "Ibn Sina Hospital, Sylhet\nAddress: Room 326 (3rd Floor), Sobhanighat Point, Sylhet\nVisiting Hour: 9am to 6pm (1st & 4th Friday of Every Month)\nAppointment: +8809636300300\nCall Now",
+      "info": "Ibn Sina Hospital, Sylhet Address: Room 326 (3rd Floor), Sobhanighat Point, Sylhet Visiting Hour: 9am to 6pm (1st & 4th Friday of Every Month) Appointment: +8809636300300 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "6pm to 11pm (Closed: Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "7fd03ad5-f9eb-42ee-8170-788167577539"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "9905c05e-713d-4cac-bb72-4e9fa99cd779",
+      "departmentId": "a582bc3c-cfb9-48e8-8618-9f1b08e0f510",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-nazrul-islam-neurology/",
+      "imageId": "7e148a65-9e7b-4547-a27e-71f63e1b66a3",
       "name": "Prof. Dr. Md. Nazrul Islam",
       "degree": "MBBS, MCPS (Medicine), MD (Neurology)",
       "specialty": "Neurology (Brain, Nerve, Spine, Headache, Backpain) & Medicine Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
         "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801730658880"
-      },
-      "id": "dae7e32e-073e-4bf9-bfa8-fd073aec7c39"
+        "appointmentNumber": "+8801730658880Call Now"
+      }
     },
     {
+      "id": "e32676b1-9e8d-440e-9462-69a3e7333532",
+      "departmentId": "a582bc3c-cfb9-48e8-8618-9f1b08e0f510",
+      "link": "https://www.doctorbangladesh.com/prof-dr-kamal-ahmed/",
+      "imageId": "d8175435-db27-44df-bfd7-d17ad99b645c",
       "name": "Prof. Dr. Kamal Ahmed",
       "degree": "MBBS, FCPS (Medicine), MD (Neurology)",
       "specialty": "Neurology (Brain, Nerve, Spine, Headache) & Medicine Specialist",
@@ -66,53 +82,65 @@
         "hospital": "Oasis Hospital, Sylhet",
         "address": "Bishwa Road, Subhanighat, Sylhet Sadar, Sylhet - 3100",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801701266679"
-      },
-      "id": "11e662a4-1f95-4616-bce8-5097fe88c155"
+        "appointmentNumber": "+8801701266679Call Now"
+      }
     },
     {
+      "id": "c4f53adc-6c97-4b69-b998-1a8f63b9d3e7",
+      "departmentId": "a582bc3c-cfb9-48e8-8618-9f1b08e0f510",
+      "link": "https://www.doctorbangladesh.com/dr-aminur-rahman/",
+      "imageId": "905da2ff-241d-448f-b247-f6e97c6c1837",
       "name": "Professor Dr. Aminur Rahman",
       "degree": "MBBS, FCPS (Medicine), MD (Neurology), FRCP (EDIN), FICP (India), FINR (Switzerland), FACP (USA)",
       "specialty": "Clinical and Interventional Neurologist & Medicine Specialist",
       "workplace": "Sir Salimullah Medical College & Mitford Hospital",
-      "info": "United Hospital Ltd, Dhaka\nAddress: Plot # 15, Road # 71, Gulshan, Dhaka\nVisiting Hour: 9am to 6pm (Closed: Friday)\nAppointment: 10666\nCall Now",
+      "info": "United Hospital Ltd, Dhaka Address: Plot # 15, Road # 71, Gulshan, Dhaka Visiting Hour: 9am to 6pm (Closed: Friday) Appointment: 10666 Call Now",
       "chamber": {
         "hospital": "Labaid Diagnostic, Uttara (Unit 01)",
         "address": "House # 15, Road # 12, Sector # 06, Uttara, Dhaka",
         "visitingTime": "8.30pm to 9.30pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801766662606"
-      },
-      "id": "9834aeff-09b2-45e7-a719-ca8437c31115"
+        "appointmentNumber": "+8801766662606Call Now"
+      }
     },
     {
+      "id": "07978102-b90e-4db2-87ca-aff69bc27c6b",
+      "departmentId": "a582bc3c-cfb9-48e8-8618-9f1b08e0f510",
+      "link": "https://www.doctorbangladesh.com/dr-rahat-amin-chowdhury/",
+      "imageId": "82785901-6ece-467f-b3f7-db5919524884",
       "name": "Dr. Rahat Amin Chowdhury",
       "degree": "MBBS, MD (Neurology)",
       "specialty": "Neurology (Brain, Nerve, Stroke, Headache) Specialist",
       "workplace": "Sylhet Womens Medical College & Hospital",
-      "info": "Mount Adora Hospital, Akhalia, Sylhet\nAddress: Sylhet-Sunamganj Highway, Akhalia, Sylhet – 3100\nVisiting Hour: 4pm to 9pm (Closed: Thursday & Friday)\nAppointment: +8801675384475\nCall Now",
+      "info": "Mount Adora Hospital, Akhalia, Sylhet Address: Sylhet-Sunamganj Highway, Akhalia, Sylhet – 3100 Visiting Hour: 4pm to 9pm (Closed: Thursday & Friday) Appointment: +8801675384475 Call Now",
       "chamber": {
         "hospital": "Al Haramain Hospital, Sylhet",
         "address": "Samato-30, Chali Bandar, Bishwa Road, Subhani Ghat, Sylhet",
         "visitingTime": "6pm to 9.30pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801931225555"
-      },
-      "id": "f7e4e024-8667-43b4-aca2-e5ef10ff2bc9"
+        "appointmentNumber": "+8801931225555Call Now"
+      }
     },
     {
+      "id": "68185e06-7e7a-4028-bd23-a15f30b6b693",
+      "departmentId": "a582bc3c-cfb9-48e8-8618-9f1b08e0f510",
+      "link": "https://www.doctorbangladesh.com/dr-md-enayet-hussain/",
+      "imageId": "aab7b040-4243-46c7-8d66-fc4cea3b6b7f",
       "name": "Dr. Md. Enayet Hussain",
       "degree": "MBBS (DMC), FCPS (Medicine), MD (Neurology), Fellowship in Epilepsy & EEG (Malaysia)",
       "specialty": "Neurology, Epileptplogy & Medicine Specialist",
       "workplace": "National Institute of Neurosciences & Hospital",
-      "info": "Oasis Hospital, Sylhet\nAddress: Bishwa Road, Subhanighat, Sylhet Sadar, Sylhet – 3100\nVisiting Hour: 4pm to 8pm (Friday)\nAppointment: +8801763990044\nCall Now",
+      "info": "Oasis Hospital, Sylhet Address: Bishwa Road, Subhanighat, Sylhet Sadar, Sylhet – 3100 Visiting Hour: 4pm to 8pm (Friday) Appointment: +8801763990044 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Doyagonj",
         "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
         "visitingTime": "5pm to 8pm (Sat, Sun, Mon & Wed)",
-        "appointmentNumber": "+8801701266679"
-      },
-      "id": "3889e65f-875b-457b-842f-cda85be46170"
+        "appointmentNumber": "+8801701266679Call Now"
+      }
     },
     {
+      "id": "811fbd25-91cd-4c05-89ae-fd13baf9667e",
+      "departmentId": "a582bc3c-cfb9-48e8-8618-9f1b08e0f510",
+      "link": "https://www.doctorbangladesh.com/dr-mostafa-hosen/",
+      "imageId": "6af42c61-496a-4ec0-8e02-296a46d6b58c",
       "name": "Dr. Mostafa Hosen",
       "degree": "MBBS, BCS (Health), MD (Neurology)",
       "specialty": "Neurology (Brain, Stroke, Nerve, Spine, Migraine) Specialist",
@@ -122,11 +150,14 @@
         "hospital": "Popular Medical Center, Sylhet",
         "address": "New Medical Road, Kajolshah, Sylhet - 3100",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801789069367"
-      },
-      "id": "bcf2cc7d-ec0a-483e-9bdf-2ea0fb03b1a3"
+        "appointmentNumber": "+8801789069367Call Now"
+      }
     },
     {
+      "id": "daff2710-4998-4ca5-ae50-87719942f197",
+      "departmentId": "a582bc3c-cfb9-48e8-8618-9f1b08e0f510",
+      "link": "https://www.doctorbangladesh.com/dr-bikash-shikder/",
+      "imageId": "5828e6b8-828e-47f4-bc0d-637934e3b1ab",
       "name": "Dr. Bikash Shikder",
       "degree": "MBBS, BCS (Health), MD (Neurology)",
       "specialty": "Neurology (Brain, Stroke, Nerve, Headache, Migraine) Specialist",
@@ -136,11 +167,14 @@
         "hospital": "Popular Medical Center, Sylhet",
         "address": "New Medical Road, Kajolshah, Sylhet - 3100",
         "visitingTime": "5pm to 9pm (Closed: Tue & Friday)",
-        "appointmentNumber": "+8801326572807"
-      },
-      "id": "73dcc28e-89cb-44bb-bda5-b1e135ed60f3"
+        "appointmentNumber": "+8801326572807Call Now"
+      }
     },
     {
+      "id": "e10dd1a9-80b5-4deb-9e98-2d7c8af26cef",
+      "departmentId": "a582bc3c-cfb9-48e8-8618-9f1b08e0f510",
+      "link": "https://www.doctorbangladesh.com/dr-md-jashim-uddin-sylhet/",
+      "imageId": "c3559b2c-b90e-4da1-bb28-7e385f698be9",
       "name": "Dr. Md. Jashim Uddin",
       "degree": "MBBS, BCS (Health), MD (Neurology)",
       "specialty": "Neuromedicine (Brain, Stroke, Headache, Migraine) Specialist",
@@ -150,11 +184,14 @@
         "hospital": "Oasis Hospital, Sylhet",
         "address": "Bishwa Road, Subhanighat, Sylhet Sadar, Sylhet - 3100",
         "visitingTime": "3pm to 5pm (Closed: Friday & Saturday)",
-        "appointmentNumber": "+8801763990044"
-      },
-      "id": "9cb4190d-270e-477b-a3c1-4906c75a975d"
+        "appointmentNumber": "+8801763990044Call Now"
+      }
     },
     {
+      "id": "e94a0786-332c-4783-bb31-6231fa4b5dd6",
+      "departmentId": "a582bc3c-cfb9-48e8-8618-9f1b08e0f510",
+      "link": "https://www.doctorbangladesh.com/dr-md-mostafizur-rahman-rakib/",
+      "imageId": "d99095c8-f624-4f40-8a95-ff3ad158e129",
       "name": "Dr. Md. Mostafizur Rahman (Rakib)",
       "degree": "MBBS (DMC), BCS (Health), MD (Neurology), FCPS (Medicine Final)",
       "specialty": "Neurology (Brain, Nerve, Spine, Headache, Backpain) Specialist",
@@ -164,23 +201,25 @@
         "hospital": "Stadium Market, Sylhet",
         "address": "43, Stadium Market, Lamabazar Road, Rikabi Bazar, Sylhet",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801734800710"
-      },
-      "id": "7cb8dcc0-5e2e-4796-80ee-374dcabaafea"
+        "appointmentNumber": "+8801734800710Call Now"
+      }
     },
     {
+      "id": "80de4e51-7469-4018-a5f0-2c16fc05ecaa",
+      "departmentId": "a582bc3c-cfb9-48e8-8618-9f1b08e0f510",
+      "link": "https://www.doctorbangladesh.com/dr-mazharul-islam/",
+      "imageId": "9182835e-8e9d-4dca-9121-c903356fd427",
       "name": "Dr. Md. Mazharul Islam",
       "degree": "MBBS, BCS (Health), MD (Neurology), MRCP (Paces), CCD (BIRDEM)",
       "specialty": "Neurology (Brain, Nerve, Spine, Stroke, Migraine, Headache) Specialist",
       "workplace": "National Institute of Neurosciences & Hospital (NINS), Dhaka",
-      "info": "Mukti Hospital, Comilla\nAddress: Race Course, Sasongacha, Cumilla – 3500\nVisiting Hour: Evening (Only Tuesday)\nAppointment: +8801834220141\nCall Now",
+      "info": "Mukti Hospital, Comilla Address: Race Course, Sasongacha, Cumilla – 3500 Visiting Hour: Evening (Only Tuesday) Appointment: +8801834220141 Call Now",
       "chamber": {
         "hospital": "Universal Medical College Hospital",
         "address": "74G/75, Pea-cock Square, New Airport Road, Dhaka 1215",
         "visitingTime": "5pm to 9pm (Closed: Tue & Friday)",
-        "appointmentNumber": "10667"
-      },
-      "id": "8dee6e66-84f8-414e-9b0a-b7df7d395064"
+        "appointmentNumber": "10667Call Now"
+      }
     }
   ]
 }

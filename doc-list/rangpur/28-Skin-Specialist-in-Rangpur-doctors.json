@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "904523dd-8832-4fcf-ad2d-658a336da5ab",
+      "departmentId": "440b2857-b70b-4f51-942f-30cf0e2c9d8d",
+      "link": "https://www.doctorbangladesh.com/dr-manjurul-karim-prince/",
+      "imageId": "41f1ca04-427f-4c09-976d-d827dbb3f126",
       "name": "Prof. Dr. Md. Manjurul Karim Prince",
       "degree": "MBBS, MD (Dermatology)",
       "specialty": "Skin, Allergy, Leprosy & Sex Diseases Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Popular Diagnostic Center, Rangpur",
         "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787813"
-      },
-      "id": "33fafe1d-9c39-447d-8916-334c4407d941"
+        "appointmentNumber": "+8809666787813Call Now"
+      }
     },
     {
+      "id": "1cd9c9f3-5837-4da3-8679-c3f489d938b1",
+      "departmentId": "440b2857-b70b-4f51-942f-30cf0e2c9d8d",
+      "link": "https://www.doctorbangladesh.com/dr-md-raju-ahmed/",
+      "imageId": "d2fc75ca-c965-436c-9885-f20043f567e1",
       "name": "Dr. Md. Raju Ahmed",
       "degree": "MBBS, DDV, MCPS (Dermatology & Venereology)",
       "specialty": "Skin & Sexual Diseases Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Update Diagnostic, Rangpur",
         "address": "Dhap, Jail Road, Rangpur",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801971555555"
-      },
-      "id": "16b0eb24-e554-4829-9793-cd3814bf788d"
+        "appointmentNumber": "+8801971555555Call Now"
+      }
     },
     {
+      "id": "6601d956-7e77-411b-ad28-0d5dec0b5300",
+      "departmentId": "440b2857-b70b-4f51-942f-30cf0e2c9d8d",
+      "link": "https://www.doctorbangladesh.com/dr-md-rezaul-alam/",
+      "imageId": "a7a64fee-4b52-4eeb-ba69-e30ea9d17175",
       "name": "Dr. Md. Rezaul Alam",
       "degree": "MBBS, DD (Thailand), MPH (Dhaka), CCL (India), CCD (BIRDEM)",
       "specialty": "Skin, Allergy & Sexual Diseases Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Doctor's Community Hospital, Rangpur",
         "address": "Medical East Gate, Health City Road, Dhap, Rangpur",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801717292458"
-      },
-      "id": "9a0bf667-3866-4672-8fa0-983229b16dd7"
+        "appointmentNumber": "+8801717292458Call Now"
+      }
     },
     {
+      "id": "098843a0-a5b0-46f5-9c5f-26cfef0912de",
+      "departmentId": "440b2857-b70b-4f51-942f-30cf0e2c9d8d",
+      "link": "https://www.doctorbangladesh.com/dr-md-lutfor-rahman/",
+      "imageId": "30ca70e4-026a-4514-99b8-b9f325d65165",
       "name": "Dr. Md. Lutfor Rahman",
       "degree": "MBBS, MD (Dermatology & Venereology)",
       "specialty": "Skin, Allergy, Leprosy, Hair & Sexual Diseases Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Labaid Diagnostic, Rangpur",
         "address": "House # 69, Dhap, Jail Road, Rangpur",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801766663099"
-      },
-      "id": "cf64a9c2-48ea-480e-8bb3-551d7bd9ba24"
+        "appointmentNumber": "+8801766663099Call Now"
+      }
     },
     {
+      "id": "a79a4959-32c5-416a-a97f-e91d29d18410",
+      "departmentId": "440b2857-b70b-4f51-942f-30cf0e2c9d8d",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-mominul-haque/",
+      "imageId": "64d9965e-9e17-49b7-b4af-afcad4027252",
       "name": "Prof. Dr. Md. Mominul Haque",
       "degree": "MBBS, DDV, M.Phil (Physiology)",
       "specialty": "Skin, Allergy, Leprosy & Sexual Diseases Specialist",
@@ -66,23 +82,25 @@
         "hospital": "Islami Bank Community Hospital, Rangpur",
         "address": "Jail Road, Dhap, Rangpur",
         "visitingTime": "3pm to 8pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801750908297"
-      },
-      "id": "715298a0-4e85-476e-935e-298866287787"
+        "appointmentNumber": "+8801750908297Call Now"
+      }
     },
     {
+      "id": "2bc6c435-6755-4fd4-86c7-a722f937a239",
+      "departmentId": "440b2857-b70b-4f51-942f-30cf0e2c9d8d",
+      "link": "https://www.doctorbangladesh.com/dr-shaheduzzaman-lincon/",
+      "imageId": "717792d9-5af7-4eca-bfd2-f3c57d441437",
       "name": "Dr. Shaheduzzaman Lincon",
       "degree": "MBBS, BCS (Health), MD (Dermatology & Venereology)",
       "specialty": "Dermatologist & Venereologist",
       "workplace": "Rangpur Medical College & Hospital",
-      "info": "Alpha Diagnostic Center\nAddress: Clinic Lane, Hazi Para, Thakurgaon Sadar, Thakurgaon\nVisiting Hour: 11am to 6pm (2nd & 4th Friday of Every Month)\nAppointment: +8801749973833\nCall Now",
+      "info": "Alpha Diagnostic Center Address: Clinic Lane, Hazi Para, Thakurgaon Sadar, Thakurgaon Visiting Hour: 11am to 6pm (2nd & 4th Friday of Every Month) Appointment: +8801749973833 Call Now",
       "chamber": {
         "hospital": "Labzone Diagnostic, Rangpur",
         "address": "Opposite to 7th Floor Mosque, Dhap, Jail Road, Rangpur",
         "visitingTime": "4pm to 8pm (Saturday to Tuesday)",
-        "appointmentNumber": "+8801721700758"
-      },
-      "id": "31b5c3d6-022a-4d4f-a9ef-9309d84738a8"
+        "appointmentNumber": "+8801721700758Call Now"
+      }
     }
   ]
 }

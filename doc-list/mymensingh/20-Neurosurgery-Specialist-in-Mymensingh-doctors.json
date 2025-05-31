@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "84a1ec5d-7429-4350-800c-b576fa1a8e36",
+      "departmentId": "591b78b9-c4f2-4e3d-85a3-c26b67ffb1bc",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-harun-ur-rashid/",
+      "imageId": "5b2a58b4-670e-4d5b-98a9-613d53502d49",
       "name": "Dr Mohammad Harun Ur Rashid",
       "degree": "MBBS, MS (Neurosurgery)",
       "specialty": "Neurosurgery (Brain, Nerve, Spine & Stroke Surgery) Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Popular Diagnostic Center, Mymensingh",
         "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
         "visitingTime": "4pm to 9pm (Thursday) & 10am to 4pm (Friday)",
-        "appointmentNumber": "+8801726072231"
-      },
-      "id": "2103f5db-7049-44f3-b4a1-6b725403f1a2"
+        "appointmentNumber": "+8801726072231Call Now"
+      }
     },
     {
+      "id": "1c0ba440-790f-4a37-a857-85f96aa62c42",
+      "departmentId": "591b78b9-c4f2-4e3d-85a3-c26b67ffb1bc",
+      "link": "https://www.doctorbangladesh.com/dr-md-shamiul-alam-siddique-shamim/",
+      "imageId": "9fc1e456-554d-46df-9747-bb2e1e37da7d",
       "name": "Dr. Md. Shamiul Alam Siddique Shamim",
       "degree": "MBBS, BCS (Health), MS (Neurosurgery)",
       "specialty": "Neurosurgery (Brain, Nerve, Stroke & Spine) Specialist Surgeon",
@@ -24,37 +31,42 @@
         "hospital": "Sodesh Hospital, Mymensingh",
         "address": "298/2, Maskanda (Bus Stand), Mymensingh - 2200",
         "visitingTime": "4pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666777990"
-      },
-      "id": "23dc7b09-f910-40c9-9335-707b5942fffb"
+        "appointmentNumber": "+8809666777990Call Now"
+      }
     },
     {
+      "id": "2c80ac36-44e2-422f-bbe9-31bb4f1ad1ae",
+      "departmentId": "591b78b9-c4f2-4e3d-85a3-c26b67ffb1bc",
+      "link": "https://www.doctorbangladesh.com/dr-musannah-ashfaq/",
+      "imageId": "5b35098f-f455-4909-b453-e19ff599b5b6",
       "name": "Dr. Musannah Ashfaq",
       "degree": "MBBS, MS (NEUROSURGERY)",
       "specialty": "Neurosurgery (Brain, Nerve, Spine, Stroke) Specialist",
       "workplace": "Crescent Gastroliver & General Hospital",
-      "info": "Sodesh Hospital, Mymensingh\nAddress: 298/2, Maskanda (Bus Stand), Mymensingh – 2200\nVisiting Hour: 10am to 4pm (Only Friday)\nAppointment: +8801755308113\nCall Now",
+      "info": "Sodesh Hospital, Mymensingh Address: 298/2, Maskanda (Bus Stand), Mymensingh – 2200 Visiting Hour: 10am to 4pm (Only Friday) Appointment: +8801755308113 Call Now",
       "chamber": {
         "hospital": "Crescent Gastroliver & General Hospital",
         "address": "25/i, Green Road (East end of Road #7) Dhanmondi, Dhaka",
         "visitingTime": "10am to 2pm (Closed: Friday & Saturday)",
-        "appointmentNumber": "+8801755308113"
-      },
-      "id": "712a71a9-e0dd-4396-91b9-a3f50dfbb178"
+        "appointmentNumber": "+8801755308113Call Now"
+      }
     },
     {
+      "id": "c0cb6bf9-8617-4af1-a553-a85e3ab4694f",
+      "departmentId": "591b78b9-c4f2-4e3d-85a3-c26b67ffb1bc",
+      "link": "https://www.doctorbangladesh.com/dr-salah-uddin-ahmed-ns/",
+      "imageId": "7eb3dd8c-a6a8-4c1e-b6d6-b47621d37d2d",
       "name": "Dr. Salah Uddin Ahmed",
       "degree": "MBBS, BCS (Health), MS (Neurosurgery)",
       "specialty": "Brain, Spine, Stroke & Nerve Specialist Neurosurgeon",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Mymensingh\nAddress: Room 1202, 252/1, Charpara, Medical College Gate, Mymensingh\nVisiting Hour: 5pm to 11pm (Thursday & Friday)\nAppointment: +8801972860871\nCall Now",
+      "info": "Popular Diagnostic Center, Mymensingh Address: Room 1202, 252/1, Charpara, Medical College Gate, Mymensingh Visiting Hour: 5pm to 11pm (Thursday & Friday) Appointment: +8801972860871 Call Now",
       "chamber": {
         "hospital": "Dhanmondi General & Kidney Hospital",
         "address": "Room 312, City Tower, 44/7, West Panthapath, Dhaka 1205",
         "visitingTime": "4pm to 6pm (Sunday & Tuesday)",
-        "appointmentNumber": "+8801972860871"
-      },
-      "id": "15f0f0be-a4bd-4ccd-a87a-94920b23d2fa"
+        "appointmentNumber": "+8801972860871Call Now"
+      }
     }
   ]
 }

@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "ca084e2b-aad6-40d4-9489-c926ea94943e",
+      "departmentId": "e81f2044-1b81-422f-b0ac-301cac63fdc7",
+      "link": "https://www.doctorbangladesh.com/dr-ratan-kumar-paul/",
+      "imageId": "177e280d-2b1a-4819-bb5b-fc86391c4720",
       "name": "Dr. Ratan Kumar Paul",
       "degree": "MBBS (DMC), D. Ortho Surgery (NITOR), MS Ortho Surgery (NITOR)",
       "specialty": "Orthopedics, Trauma, & Spine Specialist Surgeon",
@@ -10,11 +14,14 @@
         "hospital": "Popular Diagnostic Centre, Kushtia",
         "address": "City Tower, House No - 1, Mir Mosharraf Hossain Road, Court Para, Kushtia",
         "visitingTime": "5pm to 6pm (Sun & Tuesday)",
-        "appointmentNumber": "+8809666787817"
-      },
-      "id": "b7f0b12d-965c-436e-bfc9-7b601933b970"
+        "appointmentNumber": "+8809666787817Call Now"
+      }
     },
     {
+      "id": "a4db0857-37f0-4f49-bae3-bc14c45bc18f",
+      "departmentId": "e81f2044-1b81-422f-b0ac-301cac63fdc7",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahidullah/",
+      "imageId": "c8625fc5-9b52-41b4-b69c-336dd83e0cd3",
       "name": "Dr. Md. Shahidullah",
       "degree": "MBBS, BCS (Health), MS (ORTHO)",
       "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "Popular Diagnostic Centre, Kushtia",
         "address": "City Tower, House # 01, Mir Mosharraf Hossain Road, Coart Para, Kushtia",
         "visitingTime": "3:30pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787817"
-      },
-      "id": "67cd5214-1a51-47fc-90f4-9909331cc733"
+        "appointmentNumber": "+8809666787817Call Now"
+      }
     },
     {
+      "id": "e946deff-48e4-4afc-858b-1cb831b3c4ad",
+      "departmentId": "e81f2044-1b81-422f-b0ac-301cac63fdc7",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-nazmul-huda/",
+      "imageId": "095e9613-0c7b-4341-b436-111a2e2048da",
       "name": "Prof. Dr. Md. Nazmul Huda",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
@@ -38,11 +48,14 @@
         "hospital": "Sono Diagnostic Center, Kushtia",
         "address": "Sono Tower, College Mor, Court Para, Kushtia",
         "visitingTime": "10am to 2pm (Everyday)",
-        "appointmentNumber": "+8801716589397"
-      },
-      "id": "eb606902-c284-4927-b371-8eb1f176fd15"
+        "appointmentNumber": "+8801716589397Call Now"
+      }
     },
     {
+      "id": "2b190371-4795-4701-9278-3b21fce3df6e",
+      "departmentId": "e81f2044-1b81-422f-b0ac-301cac63fdc7",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdul-maleque/",
+      "imageId": "b0720bff-bcc2-4146-a179-7641457dc941",
       "name": "Dr. Md. Abdul Maleque",
       "degree": "MBBS (Raj), BCS (Health), MS (Orthopedic Surgery)",
       "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
@@ -52,11 +65,14 @@
         "hospital": "Amin Diagnostic & Medical Services, Kushtia",
         "address": "Ram Chandra Ray Chowdhury Road, College Mor, Court Para, Kushtia",
         "visitingTime": "4pm to 8.30pm (Sat to Thu), 10am to 4pm (Fri)",
-        "appointmentNumber": "01316077216, 01712243514"
-      },
-      "id": "56309652-a58b-4474-b2d5-d94f089be84a"
+        "appointmentNumber": "01316077216, 01712243514Call Now"
+      }
     },
     {
+      "id": "fc975f3e-d6de-42e6-8413-187b25149eba",
+      "departmentId": "e81f2044-1b81-422f-b0ac-301cac63fdc7",
+      "link": "https://www.doctorbangladesh.com/dr-md-rashed-hasan-rony/",
+      "imageId": "c95e68b7-0e39-44cf-8320-9b382d9aca49",
       "name": "Dr. Md. Rashed Hasan (Rony)",
       "degree": "MBBS, BCS (Health), D-ORTHO (BSMMU)",
       "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
@@ -66,11 +82,14 @@
         "hospital": "Sono Consultation Center, Kushtia",
         "address": "Sono Tower 2, Court Para, Kushtia, Bangladesh",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801770997352"
-      },
-      "id": "3a728164-6daf-4633-99ee-da7e3b59efaf"
+        "appointmentNumber": "+8801770997352Call Now"
+      }
     },
     {
+      "id": "42fc7155-ba50-467c-8cd3-cd044661a5d7",
+      "departmentId": "e81f2044-1b81-422f-b0ac-301cac63fdc7",
+      "link": "https://www.doctorbangladesh.com/dr-md-ahsan-habib-ortho/",
+      "imageId": "331461bb-f993-4602-9950-125e5e42c440",
       "name": "Dr. Md. Ahsan Habib",
       "degree": "MBBS, BCS (Health), MS (ORTHO)",
       "specialty": "Spine, Orthopedic & Trauma Specialist Surgeon",
@@ -80,11 +99,14 @@
         "hospital": "Sono Consultation Center, Kushtia",
         "address": "Sono Tower 2, Court Para, Kushtia, Bangladesh",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801770997352"
-      },
-      "id": "240b5b1a-cf49-4226-9a1a-90e9644ea039"
+        "appointmentNumber": "+8801770997352Call Now"
+      }
     },
     {
+      "id": "e1b7cb48-67e9-4e1d-8b09-bba290df8850",
+      "departmentId": "e81f2044-1b81-422f-b0ac-301cac63fdc7",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-arozullah/",
+      "imageId": "58e77e0c-98c4-46ba-bdb8-fb0568ab2b4b",
       "name": "Dr. Muhammad Arozullah",
       "degree": "MBBS, BCS (Health), MS (Orthopaedic Surgery) NITOR, FACS (Orthopaedic Surgery)",
       "specialty": "Orthopaedic, Trauma, Spine & Paediatric Orthopaedic Surgery Specialist",
@@ -94,11 +116,14 @@
         "hospital": "Popular Diagnostic Center, Kushtia",
         "address": "City Tower, House # 01, Mir Mosharraf Hossain Road, Court Para, Kushtia",
         "visitingTime": "3pm to 9pm (Sunday to Tuesday)",
-        "appointmentNumber": "+8801304040713"
-      },
-      "id": "5d5dc92f-b0f0-4eaf-bcea-f9209741c96d"
+        "appointmentNumber": "+8801304040713Call Now"
+      }
     },
     {
+      "id": "c567f3e6-e0df-430b-959e-44d2afdaf81d",
+      "departmentId": "e81f2044-1b81-422f-b0ac-301cac63fdc7",
+      "link": "https://www.doctorbangladesh.com/dr-mohd-sayedul-islam-saju/",
+      "imageId": "8b1c80aa-36bb-484c-8677-c7083c043a4e",
       "name": "Dr. Mohd. Sayedul Islam (Saju)",
       "degree": "MBBS (RU), BCS (Health), MS (Ortho Surgery) (NITOR)",
       "specialty": "Orthopedics Specialist & Surgeon",
@@ -108,9 +133,8 @@
         "hospital": "Sono Consultation Center, Kushtia",
         "address": "Sono Tower 2, Court Para, Kushtia, Bangladesh",
         "visitingTime": "From 4pm (Sat, Sun, Mon & Wed)",
-        "appointmentNumber": "+8801770997352"
-      },
-      "id": "3957b1f0-fa62-47cd-94e2-ac73f3107fa7"
+        "appointmentNumber": "+8801770997352Call Now"
+      }
     }
   ]
 }

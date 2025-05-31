@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "1294d616-cf8b-44e2-98c8-bb201a03a529",
+      "departmentId": "b0b78239-1cbd-47c4-a098-0680abc20cf2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-a-k-m-daud/",
+      "imageId": "9633fa04-65fa-4ea6-8069-17641f4bb754",
       "name": "Prof. Dr. A.K.M. Daud",
       "degree": "MBBS, FRCS (Edin), FRCS (Glasg), FRCS (Eng), FRCSI",
       "specialty": "Colorectal (Piles, Fistula, Fisher & Rectal Cancer) Specialist Surgeon",
@@ -10,25 +14,31 @@
         "hospital": "Colorectal Center, Sylhet",
         "address": "Karim Manzil, Manikpir Road, Nayasarak, Sylhet",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801747514911"
-      },
-      "id": "8d2fa12e-82e1-465d-9399-30eb8fcada87"
+        "appointmentNumber": "+8801747514911Call Now"
+      }
     },
     {
+      "id": "70b49048-cd67-4e39-b502-70de3c8ce4bd",
+      "departmentId": "b0b78239-1cbd-47c4-a098-0680abc20cf2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-guljar-ahmed/",
+      "imageId": "e930fa39-97ea-4391-be47-370981cfc3dc",
       "name": "Prof. Dr. Guljar Ahmed",
       "degree": "MBBS, MS (General Surgery)",
       "specialty": "General, Laparoscopic & Colorectal Specialist Surgeon",
       "workplace": "North East Medical College & Hospital",
-      "info": "North East Medical College & Hospital\nAddress: Gohorpur Road, South Surma, Sylhet – 3100\nVisiting Hour: 11am to 1.30pm (Closed: Friday)\nAppointment: +8801715944733\nCall Now",
+      "info": "North East Medical College & Hospital Address: Gohorpur Road, South Surma, Sylhet – 3100 Visiting Hour: 11am to 1.30pm (Closed: Friday) Appointment: +8801715944733 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Hospital, Sylhet",
         "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
         "visitingTime": "Evening (Closed: Friday)",
-        "appointmentNumber": "+8809610009640"
-      },
-      "id": "611bb2b4-92e6-4b9c-8966-9b70f068dd04"
+        "appointmentNumber": "+8809610009640Call Now"
+      }
     },
     {
+      "id": "518f1c35-db31-4953-9859-11d4315cfffc",
+      "departmentId": "b0b78239-1cbd-47c4-a098-0680abc20cf2",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-abdul-quadir/",
+      "imageId": "478d14f3-3877-44a3-b2b3-582046e993c7",
       "name": "Dr. Mohammad Abdul Quadir",
       "degree": "MBBS (CU), BCS (Health), FCPS (Surgery), Fellow (Colorectal Surgery)",
       "specialty": "General, Colorectal & Laparoscopic Surgery Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
         "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801792515959"
-      },
-      "id": "40569d50-6208-436a-8209-b2bff8064577"
+        "appointmentNumber": "+8801792515959Call Now"
+      }
     },
     {
+      "id": "9c0fa221-5594-42b1-9bf1-80d722d6c824",
+      "departmentId": "b0b78239-1cbd-47c4-a098-0680abc20cf2",
+      "link": "https://www.doctorbangladesh.com/prof-dr-jamal-ahmed-chowdhury/",
+      "imageId": "fb27dc1c-1785-4fab-bdc8-6d0f01d4cb28",
       "name": "Prof. Dr. Jamal Ahmed Chowdhury",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Colorectal & Laparoscopic Specialist Surgeon",
@@ -52,9 +65,8 @@
         "hospital": "Ibn Sina Hospital, Sylhet",
         "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
         "visitingTime": "Evening (Closed: Friday)",
-        "appointmentNumber": "+8809610009640"
-      },
-      "id": "384f4ec5-e40f-45b6-bc62-1689b99af93a"
+        "appointmentNumber": "+8809610009640Call Now"
+      }
     }
   ]
 }

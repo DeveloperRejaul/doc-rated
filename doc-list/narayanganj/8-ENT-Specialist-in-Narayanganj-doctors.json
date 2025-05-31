@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "462e9400-ca41-4db2-bfb6-6b3e74803f3c",
+      "departmentId": "f12174dc-a953-47be-9afd-c7cb6bde1958",
+      "link": "https://www.doctorbangladesh.com/dr-dipankar-lodh/",
+      "imageId": "a56e4600-f4e4-4b3f-93bd-81c43f7dac39",
       "name": "Prof. Dr. Dipankar Lodh",
       "degree": "MBBS (DMC), BCS (Health), FRCS, FCPS (ENT), DLO, MCPS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Surgeon",
@@ -10,25 +14,31 @@
         "hospital": "Modern Diagnostic Center, Narayanganj",
         "address": "BJA Babhan, Bangabandhu Road, Chashara, Narayanganj",
         "visitingTime": "6pm to 9pm (Sat, Sun, Tue & Wed)",
-        "appointmentNumber": "+8801820842293"
-      },
-      "id": "72d308d1-41ba-4c63-badc-f305a771226e"
+        "appointmentNumber": "+8801820842293Call Now"
+      }
     },
     {
+      "id": "81f5480c-9c13-4311-a7e0-e892f2778add",
+      "departmentId": "f12174dc-a953-47be-9afd-c7cb6bde1958",
+      "link": "https://www.doctorbangladesh.com/dr-ahmed-tariq/",
+      "imageId": "2efe0738-6c61-4674-a6cf-2d89905f36d1",
       "name": "Dr. Ahmed Tariq",
       "degree": "MBBS, BCS (Health), FCPS (ENT), MS (ENT)",
       "specialty": "ENT Specialist & Head Neck Surgeon",
       "workplace": "Sir Salimullah Medical College & Mitford Hospital",
-      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, B.B. Road, Chashara, Narayanganj – 1400\nVisiting Hour: 4pm to 9pm (Sat, Mon & Wed)\nAppointment: +8809666787804\nCall Now",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, B.B. Road, Chashara, Narayanganj – 1400 Visiting Hour: 4pm to 9pm (Sat, Mon & Wed) Appointment: +8809666787804 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "5pm to 9pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "b7590485-c46d-4a3c-90bd-47d38c40e2cd"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
+      "id": "c8c859d6-8dae-4118-be4c-46724cd99097",
+      "departmentId": "f12174dc-a953-47be-9afd-c7cb6bde1958",
+      "link": "https://www.doctorbangladesh.com/prof-dr-d-g-m-akaiduzzaman/",
+      "imageId": "8a5dbc08-697c-48fd-bf89-be25e5c52dac",
       "name": "Prof. Dr. D.G.M Akaiduzzaman",
       "degree": "MBBS, FCPS (ENT), MS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -38,25 +48,31 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "5:30pm to 9pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "fddf4834-2ee5-4e6d-a829-4ce3542d491c"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "2a630920-5148-4ce5-a1e7-b34109e81b75",
+      "departmentId": "f12174dc-a953-47be-9afd-c7cb6bde1958",
+      "link": "https://www.doctorbangladesh.com/dr-utpal-kumar-datta/",
+      "imageId": "926a0f64-47af-4f5c-96e0-6102bbc63e17",
       "name": "Dr. Utpal Kumar Datta",
       "degree": "MBBS, BCS (Health), MS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
       "workplace": "National Institute of ENT & Hospital",
-      "info": "Modern Diagnostic Center, Narayanganj\nAddress: 207, Bangabandhu Road, Chashara, Narayanganj – 1400\nVisiting Hour: 7pm to 9pm (Sun, Tue & Thu\nAppointment: +8801820842293\nCall Now",
+      "info": "Modern Diagnostic Center, Narayanganj Address: 207, Bangabandhu Road, Chashara, Narayanganj – 1400 Visiting Hour: 7pm to 9pm (Sun, Tue & Thu Appointment: +8801820842293 Call Now",
       "chamber": {
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "6pm to 8.30pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801744812176"
-      },
-      "id": "7d336496-951c-4479-a5d3-c6768017d03e"
+        "appointmentNumber": "+8801744812176Call Now"
+      }
     },
     {
+      "id": "4657d1f2-843c-462c-b7c7-e7666be7a078",
+      "departmentId": "f12174dc-a953-47be-9afd-c7cb6bde1958",
+      "link": "https://www.doctorbangladesh.com/dr-md-mostafizur-rahman-ent-nganj/",
+      "imageId": "5948f2c5-6956-4067-a811-8fd882bc022b",
       "name": "Dr. Md. Mostafizur Rahman",
       "degree": "MBBS, BCS (Health), DLO, FCPS (ENT), MS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -66,25 +82,31 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "1add48b0-0f3f-4e46-ac21-8c3e3144326f"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "3d7cad9d-68c7-4150-969e-90c9de8c6690",
+      "departmentId": "f12174dc-a953-47be-9afd-c7cb6bde1958",
+      "link": "https://www.doctorbangladesh.com/dr-mkm-doulatullah/",
+      "imageId": "a8d41488-47db-4dfb-b372-1d9226da6706",
       "name": "Dr. M.K.M Daulatullah",
       "degree": "MBBS, FCPS (ENT), MCPS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, B.B. Road, Chashara, Narayanganj – 1400\nVisiting Hour: 3pm to 9pm (Sun, Tue & Thu) & 11am to 9pm (Fri)\nAppointment: +8809666787804\nCall Now",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, B.B. Road, Chashara, Narayanganj – 1400 Visiting Hour: 3pm to 9pm (Sun, Tue & Thu) & 11am to 9pm (Fri) Appointment: +8809666787804 Call Now",
       "chamber": {
         "hospital": "Medi-Hope General Hospital, Demra",
         "address": "Company Super Market, Konapara, Demra, Dhaka",
         "visitingTime": "7pm to 10pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801770538862"
-      },
-      "id": "64e5f41b-2244-44ba-b410-e301d08d4e95"
+        "appointmentNumber": "+8801770538862Call Now"
+      }
     },
     {
+      "id": "12cb282b-037f-4620-9a0e-9d512537900c",
+      "departmentId": "f12174dc-a953-47be-9afd-c7cb6bde1958",
+      "link": "https://www.doctorbangladesh.com/dr-amit-kumar-saha/",
+      "imageId": "61ba9752-3470-4e4f-8ad1-8a7baf89fcd9",
       "name": "Dr. Amit Kumar Saha",
       "degree": "MBBS (DU), DLO (BSMMU)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -94,39 +116,48 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "10:30am to 2pm (Everyday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "2cf307eb-6c80-4a2b-9767-0d8c956eb398"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "0804906d-d29c-448a-b487-43bc8607a2b8",
+      "departmentId": "f12174dc-a953-47be-9afd-c7cb6bde1958",
+      "link": "https://www.doctorbangladesh.com/dr-md-sadequr-rahman/",
+      "imageId": "f276ddb1-7715-405e-a8cf-6065fad4cf19",
       "name": "Dr. Md. Sadequr Rahman Emon",
       "degree": "MBBS (DU), CCD, DLO (BSMMU)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
       "workplace": "US-Bangla Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, Bangabandhu Road, Chashara, Narayanganj – 1400\nVisiting Hour: 10am to 3pm (Sun & Tue) & 2pm to 5pm (Thu)\nAppointment: +8809666787804\nCall Now",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, Bangabandhu Road, Chashara, Narayanganj – 1400 Visiting Hour: 10am to 3pm (Sun & Tue) & 2pm to 5pm (Thu) Appointment: +8809666787804 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "10am to 2pm (Sun, Tue & Friday) & 3pm to 6pm (Thu)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "5272c272-6542-40c4-bb79-7403df8cddfe"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "8209b03d-322a-482d-95a8-2eecde6581e4",
+      "departmentId": "f12174dc-a953-47be-9afd-c7cb6bde1958",
+      "link": "https://www.doctorbangladesh.com/dr-kamrun-nahar-hurain/",
+      "imageId": "f12e6618-3633-4f40-b63e-dcbb05ed123b",
       "name": "Dr. Kamrun Nahar Hurain",
       "degree": "MBBS. DLO (BSMMU), FCPS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head-Neck Cancer Surgeon",
       "workplace": "ENT and Head-Neck Cancer Hospital & Institute",
-      "info": "Khidmah Hospital, Dhaka\nAddress: C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka\nVisiting Hour: 6pm to 9pm (Sat, Mon & Wed), 9.30pm to 11pm (Friday)\nAppointment: +8809606063030\nCall Now",
+      "info": "Khidmah Hospital, Dhaka Address: C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka Visiting Hour: 6pm to 9pm (Sat, Mon & Wed), 9.30pm to 11pm (Friday) Appointment: +8809606063030 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, B.B. Road, Chashara, Narayanganj – 1400",
         "visitingTime": "3pm to 6pm (Sunday, Tuesday & Thursday), 11am to 6pm (Friday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "7f19c0d4-4f49-43e3-acf8-93e1beb50ff1"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "c3d6f285-d1e8-40e1-86a5-f205abe9c3bc",
+      "departmentId": "f12174dc-a953-47be-9afd-c7cb6bde1958",
+      "link": "https://www.doctorbangladesh.com/dr-tamanna-nawshin/",
+      "imageId": "2d014358-e19a-4d7e-9ef1-8960f4794b11",
       "name": "Dr. Tamanna Nawshin",
       "degree": "MBBS, MS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -136,9 +167,8 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "2:30pm to 4:30pm (Wednesday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "da945851-dd8b-4a57-bc5a-ee964dd389ee"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     }
   ]
 }

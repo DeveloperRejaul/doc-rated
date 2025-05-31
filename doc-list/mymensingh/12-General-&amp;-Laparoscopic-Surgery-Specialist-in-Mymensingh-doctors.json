@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "98c0934a-c71a-4833-b30a-24e4ef143602",
+      "departmentId": "be7ee60d-77fc-40c3-a02a-db2261af749f",
+      "link": "https://www.doctorbangladesh.com/dr-afroza-islam/",
+      "imageId": "3f333630-0ba5-42da-bbae-3cb483246e51",
       "name": "Dr. Afroza Islam",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "Breast & Colorectal Surgeon",
@@ -10,25 +14,31 @@
         "hospital": "Nexus Hospital, Mymensingh",
         "address": "29, Sehora, Mymensingh Sadar, Mymensingh – 2200",
         "visitingTime": "10am to 2pm (Saturday to Wednesday)",
-        "appointmentNumber": "+8801796586561"
-      },
-      "id": "5f44b7c6-a5da-4884-8a37-3af73936e278"
+        "appointmentNumber": "+8801796586561Call Now"
+      }
     },
     {
+      "id": "3f99ba89-350f-4c3a-bd65-aa6ae9a3e23d",
+      "departmentId": "be7ee60d-77fc-40c3-a02a-db2261af749f",
+      "link": "https://www.doctorbangladesh.com/dr-md-abul-kalam-azad-surgery/",
+      "imageId": "c583be35-2342-44a6-a880-4e315e3e80a3",
       "name": "Prof. Dr. Md. Abul Kalam Azad",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Laparoscopic & Colorectal Surgeon",
       "workplace": "Mymensingh Medical College & Hospital",
-      "info": "Nexus Hospital, Mymensingh\nAddress: 29, Sehora, Mymensingh Sadar, Mymensingh – 2200\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8801796586561\nCall Now",
+      "info": "Nexus Hospital, Mymensingh Address: 29, Sehora, Mymensingh Sadar, Mymensingh – 2200 Visiting Hour: Unknown. Please call to know visiting hour Appointment: +8801796586561 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Mymensingh",
         "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
         "visitingTime": "3pm to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787814"
-      },
-      "id": "d83e63e4-99c8-4067-8442-69b9abfa4459"
+        "appointmentNumber": "+8809666787814Call Now"
+      }
     },
     {
+      "id": "0f8179e4-ba1d-47bb-8e7d-97cd621cb3a7",
+      "departmentId": "be7ee60d-77fc-40c3-a02a-db2261af749f",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-zakir-hossain/",
+      "imageId": "36602445-30cb-4e85-bd8a-7d77579bf850",
       "name": "Dr. Muhammad Zakir Hossain",
       "degree": "MBBS (Dhaka), FCPS (Surgery), MRCS (UK), FCPS Thesis (Surgical Oncology)",
       "specialty": "General, Laparoscopic, Colorectal & Cancer Surgeon",
@@ -38,11 +48,14 @@
         "hospital": "Sodesh Hospital, Mymensingh",
         "address": "298/2, Maskanda (Bus Stand), Mymensingh - 2200",
         "visitingTime": "5pm to 8:30pm (Closed: Friday)",
-        "appointmentNumber": "+8809666777990"
-      },
-      "id": "31758b1f-ba5b-4300-bbfe-04ddb5d1a38b"
+        "appointmentNumber": "+8809666777990Call Now"
+      }
     },
     {
+      "id": "f8974abe-556c-4c80-b056-2b8c56b4466a",
+      "departmentId": "be7ee60d-77fc-40c3-a02a-db2261af749f",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-matiur-rahman-surgery/",
+      "imageId": "e3dd3c2c-0ed9-4f54-8791-75ef072f1619",
       "name": "Prof. Dr. Md. Matiur Rahman",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Laparoscopic & Urological Surgeon",
@@ -52,11 +65,14 @@
         "hospital": "Popular Diagnostic Center, Mymensingh",
         "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
         "visitingTime": "4pm to 8pm (Closed: Monday & Friday)",
-        "appointmentNumber": "+8809666787814"
-      },
-      "id": "7e9f182b-c7b3-42a9-85bf-8edc792550d8"
+        "appointmentNumber": "+8809666787814Call Now"
+      }
     },
     {
+      "id": "692f0c08-6c2b-4258-be42-9eeb721dbaaa",
+      "departmentId": "be7ee60d-77fc-40c3-a02a-db2261af749f",
+      "link": "https://www.doctorbangladesh.com/dr-md-shafiqul-islam-surgeon/",
+      "imageId": "06d6d5ba-7c76-461c-b54f-b8071187c4b3",
       "name": "Dr. Md. Shafiqul Islam",
       "degree": "MBBS, FCPS (SURGERY)",
       "specialty": "General & Laparoscopic Specialist Surgeon",
@@ -66,11 +82,14 @@
         "hospital": "Mou-Shafi Hospital, Mymensingh",
         "address": "Dhaka-Mymensingh Road, Charpara, Mymensingh",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801711958137"
-      },
-      "id": "9338e8de-f5a5-4f88-afbe-6e73db1c802c"
+        "appointmentNumber": "+8801711958137Call Now"
+      }
     },
     {
+      "id": "bc36bcc8-c6f8-4517-9cdf-7fe5a834f5f8",
+      "departmentId": "be7ee60d-77fc-40c3-a02a-db2261af749f",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-a-gafur/",
+      "imageId": "c5f4ab90-849f-42e5-99fa-13e47edf75f2",
       "name": "Prof. Dr. M. A. Gafur",
       "degree": "MBBS (Dhaka), FCPS (Surgery)",
       "specialty": "General & Laparoscopic Specialist Surgeon",
@@ -80,11 +99,31 @@
         "hospital": "Sodesh Hospital, Mymensingh",
         "address": "298/2, Maskanda (Bus Stand), Mymensingh - 2200",
         "visitingTime": "10am to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666777990"
-      },
-      "id": "b08955b2-72fa-4a45-b160-d49f601c4807"
+        "appointmentNumber": "+8809666777990Call Now"
+      }
     },
     {
+      "id": "54413f3d-778e-4c5e-a0e5-30859a27807e",
+      "departmentId": "be7ee60d-77fc-40c3-a02a-db2261af749f",
+      "link": "https://www.doctorbangladesh.com/dr-md-moshrekul-islam-moni/",
+      "imageId": "c3274798-c2df-41f4-a7c8-08b7b5c980dd",
+      "name": "Dr. Md. Mosrekul Islam Moni",
+      "degree": "MBBS, BCS (Health), FCPS (Surgery), D-Ortho (BSMMU), FCPS (Ortho), MRCS (UK)",
+      "specialty": "General, Colorectal, Breast & Orthopedic Surgeon",
+      "workplace": "Mymensingh Medical College & Hospital",
+      "info": "Nexus Hospital, Mymensingh Address: 29, Sehora, Mymensingh Sadar, Mymensingh – 2200 Visiting Hour: Unknown. Please call to know visiting hour Appointment: +8801796586561 Call Now",
+      "chamber": {
+        "hospital": "Union Specialized Hospital, Mymensingh",
+        "address": "337, Charpara, Mymensingh",
+        "visitingTime": "4pm to 9pm (Closed: Sun & Monday)",
+        "appointmentNumber": "+8801958280000Call Now"
+      }
+    },
+    {
+      "id": "fe748e3c-6b20-46fc-a464-e150923bf4c3",
+      "departmentId": "be7ee60d-77fc-40c3-a02a-db2261af749f",
+      "link": "https://www.doctorbangladesh.com/dr-mithun-kumar-bakshi/",
+      "imageId": "dcc03412-941c-4133-acf5-6d405d6ddd0a",
       "name": "Dr. Mithun Kumar Bakshi",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General & Laparoscopic Specialist Surgeon",
@@ -94,25 +133,14 @@
         "hospital": "Pranto Specialized Hospital, Mymensingh",
         "address": "67, Charpara, Mymensingh",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801788222000"
-      },
-      "id": "25104613-bea0-4c18-8d91-d84d5086cbda"
+        "appointmentNumber": "+8801788222000Call Now"
+      }
     },
     {
-      "name": "Dr. Md. Mosrekul Islam Moni",
-      "degree": "MBBS, BCS (Health), FCPS (Surgery), D-Ortho (BSMMU), FCPS (Ortho), MRCS (UK)",
-      "specialty": "General, Colorectal, Breast & Orthopedic Surgeon",
-      "workplace": "Mymensingh Medical College & Hospital",
-      "info": "Nexus Hospital, Mymensingh\nAddress: 29, Sehora, Mymensingh Sadar, Mymensingh – 2200\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8801796586561\nCall Now",
-      "chamber": {
-        "hospital": "Union Specialized Hospital, Mymensingh",
-        "address": "337, Charpara, Mymensingh",
-        "visitingTime": "4pm to 9pm (Closed: Sun & Monday)",
-        "appointmentNumber": "+8801958280000"
-      },
-      "id": "ae60aae2-55da-43fa-a675-2769c60383cb"
-    },
-    {
+      "id": "3fa9628a-cf36-4096-95e3-e66b95496858",
+      "departmentId": "be7ee60d-77fc-40c3-a02a-db2261af749f",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-ashraf-uddin/",
+      "imageId": "77f149a7-c8ac-4d73-bac3-d16fe2270737",
       "name": "Prof. Dr. Md. Ashraf Uddin",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -122,11 +150,14 @@
         "hospital": "Delta Health Care, Mymensingh",
         "address": "55/5, Medical College Gate, Charpara, Mymensingh",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801847158301"
-      },
-      "id": "e7392684-cb9e-4379-955e-41b831915fa4"
+        "appointmentNumber": "+8801847158301Call Now"
+      }
     },
     {
+      "id": "7b4bc0d8-f865-4468-b3e2-77a6c0e41938",
+      "departmentId": "be7ee60d-77fc-40c3-a02a-db2261af749f",
+      "link": "https://www.doctorbangladesh.com/dr-ilias-ahmad/",
+      "imageId": "4945e03a-00ad-42dd-8bea-70b0cfe708a7",
       "name": "Dr. Ilias Ahmad",
       "degree": "MBBS (Dhaka), FCPS (Surgery)",
       "specialty": "Surgery (General & Laparoscopic) Specialist",
@@ -136,9 +167,8 @@
         "hospital": "Sodesh Hospital, Mymensingh",
         "address": "298/2, Maskanda (Bus Stand), Mymensingh - 2200",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666777990"
-      },
-      "id": "28eacb9e-8591-49ad-b1db-a9d8b4f343c3"
+        "appointmentNumber": "+8809666777990Call Now"
+      }
     }
   ]
 }

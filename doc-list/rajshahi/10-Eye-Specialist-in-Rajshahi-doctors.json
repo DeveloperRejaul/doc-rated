@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "a56fcd6e-753b-49b6-9409-640f4a8aa76a",
+      "departmentId": "d5ec3752-5846-41a1-a578-493ca0540830",
+      "link": "https://www.doctorbangladesh.com/dr-md-naimul-haque/",
+      "imageId": "49c13603-adb4-41f7-8629-5214aa4f6b08",
       "name": "Dr. Md. Naimul Haque",
       "degree": "MBBS, FCPS (EYE), Fellow (Vitreo Retina), Fellow (LVPEI)",
       "specialty": "Eye Specialist & Surgeon",
@@ -10,11 +14,14 @@
         "hospital": "Rajshahi Retina and Faco Center",
         "address": "Laxmipur (East Side of North Bengal City Scan), Rajshahi",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801750004388"
-      },
-      "id": "82bcd7ea-bbc5-470d-816e-5ca6dd2a0356"
+        "appointmentNumber": "+8801750004388Call Now"
+      }
     },
     {
+      "id": "846ed430-8d1e-4aed-97d4-7d4663b84788",
+      "departmentId": "d5ec3752-5846-41a1-a578-493ca0540830",
+      "link": "https://www.doctorbangladesh.com/dr-md-nurul-islam-eye/",
+      "imageId": "44716461-b533-462e-a576-0b2afdc48ba5",
       "name": "Dr. Md. Nurul Islam",
       "degree": "MBBS, DO, FCPS",
       "specialty": "Eye Diseases Specialist & Phaco Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "Islami Bank Hospital, Rajshahi",
         "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
         "visitingTime": "9am to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8801777242536"
-      },
-      "id": "778963c1-5e37-414f-ab7b-25a96e82a155"
+        "appointmentNumber": "+8801777242536Call Now"
+      }
     },
     {
+      "id": "afa4119e-d6a0-4222-952e-82a6cc696ac2",
+      "departmentId": "d5ec3752-5846-41a1-a578-493ca0540830",
+      "link": "https://www.doctorbangladesh.com/dr-tanzila-alam/",
+      "imageId": "2bc6f8f3-4c59-4421-a729-119c131b4a03",
       "name": "Dr. Tanzila Alam",
       "degree": "MBBS, DO (DU), FRSH (UK), Training (Singapore)",
       "specialty": "Eye Specialist & Surgeon",
@@ -38,11 +48,14 @@
         "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
         "address": "Laxmipur Mor, Rajshahi",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801762685090"
-      },
-      "id": "68f38fc1-8a93-4a6e-ae87-fe57f242efe0"
+        "appointmentNumber": "+8801762685090Call Now"
+      }
     },
     {
+      "id": "3edcd4d1-e5f8-476e-b6dc-051c2618cc59",
+      "departmentId": "d5ec3752-5846-41a1-a578-493ca0540830",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-badiuzzaman/",
+      "imageId": "6f3254b5-0c4d-402d-b3d8-06b0f8cefb1f",
       "name": "Dr. Md. Badiuzzaman",
       "degree": "MBBS, DO (DU), PhD (EYE)",
       "specialty": "Eye Diseases Specialist & Phaco Surgeon",
@@ -52,11 +65,14 @@
         "hospital": "Islami Bank Hospital, Rajshahi",
         "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801777242536"
-      },
-      "id": "d27cf5db-c904-463d-b0f3-26686c55e257"
+        "appointmentNumber": "+8801777242536Call Now"
+      }
     },
     {
+      "id": "d5f23384-c675-44d9-a1c1-5188906522e8",
+      "departmentId": "d5ec3752-5846-41a1-a578-493ca0540830",
+      "link": "https://www.doctorbangladesh.com/dr-md-sultanul-haq-aftabi/",
+      "imageId": "0559fc96-6886-4f1e-abc1-89c5fa1340a4",
       "name": "Dr. Md. Sultanul Haq Aftabi",
       "degree": "MBBS, MCPS, DO",
       "specialty": "Eye Diseases (Retina) Specialist & Phaco Surgeon",
@@ -66,11 +82,14 @@
         "hospital": "Islami Bank Hospital, Rajshahi",
         "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
         "visitingTime": "2pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801777242536"
-      },
-      "id": "e3feda6b-cda2-42d0-81fc-3ac58be1addd"
+        "appointmentNumber": "+8801777242536Call Now"
+      }
     },
     {
+      "id": "d79fcbe5-01b3-48d4-8a9d-118d638277b2",
+      "departmentId": "d5ec3752-5846-41a1-a578-493ca0540830",
+      "link": "https://www.doctorbangladesh.com/dr-md-tobibur-rahman-sheikh/",
+      "imageId": "f3263b73-3a38-4780-b99f-e0fa75166eb0",
       "name": "Dr. Md. Tobibur Rahman Sheikh",
       "degree": "MBBS, DO (EYE)",
       "specialty": "Eye Specialist & Phaco Surgeon",
@@ -80,25 +99,31 @@
         "hospital": "Rajshahi Metropolitan Hospital",
         "address": "C&B Mor, Laxmipur, Kazihata, Rajshahi",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801711340559"
-      },
-      "id": "098f2d40-7b47-4172-b404-3a381111b39a"
+        "appointmentNumber": "+8801711340559Call Now"
+      }
     },
     {
+      "id": "c453f32d-a79e-4602-b513-616c4633def2",
+      "departmentId": "d5ec3752-5846-41a1-a578-493ca0540830",
+      "link": "https://www.doctorbangladesh.com/dr-md-saiful-islam-sattar/",
+      "imageId": "fccb354a-0f6f-4bd7-82be-010396fecb54",
       "name": "Dr. Md. Saiful Islam (Sattar)",
       "degree": "MBBS (RU), DO (EYE), MS (EYE, DU)",
       "specialty": "Eye Specialist, Cornea, Phaco & Lasik Surgeon",
       "workplace": "Rajshahi Medical College & Hospital",
-      "info": "PDC Specialized Hospital, Pabna\nAddress: Capt. Anisur Rahman’s Building, Hospital Road, Pabna\nVisiting Hour: 8am to 3pm (Every Friday)\nAppointment: +8801798249955\nCall Now",
+      "info": "PDC Specialized Hospital, Pabna Address: Capt. Anisur Rahman’s Building, Hospital Road, Pabna Visiting Hour: 8am to 3pm (Every Friday) Appointment: +8801798249955 Call Now",
       "chamber": {
         "hospital": "North Bengal Cornea & Phaco Center",
         "address": "Rajshahi General Hospital & Diagnostic Center (3rd Floor),Shershah Road, Laxmipur, Rajshahi (লক্ষ্মীপুর মোড় থেকে ৩০০ গজ পশ্চিমে)",
         "visitingTime": "4pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801729918684"
-      },
-      "id": "221ab053-e20b-4afe-8d13-5baf9da0c869"
+        "appointmentNumber": "+8801729918684Call Now"
+      }
     },
     {
+      "id": "079660c9-dced-4b7b-8f4d-fd1082196449",
+      "departmentId": "d5ec3752-5846-41a1-a578-493ca0540830",
+      "link": "https://www.doctorbangladesh.com/dr-md-saifur-rahman-eye/",
+      "imageId": "53aa23b9-dd8a-45c3-9fc7-250270e2013b",
       "name": "Dr. Md. Saifur Rahman",
       "degree": "MBBS, DO",
       "specialty": "Cataract Surgery & General Ophthalmology Specialist",
@@ -108,11 +133,14 @@
         "hospital": "Dr. Md. Saifur Rahman's Chamber",
         "address": "Uposhohor Moor, Dorikhorbona, Rajshahi",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801752054292"
-      },
-      "id": "598553fa-dbbd-4855-943d-e93b5190070e"
+        "appointmentNumber": "+8801752054292Call Now"
+      }
     },
     {
+      "id": "6fedb325-72bf-4072-8271-06fdb55b607c",
+      "departmentId": "d5ec3752-5846-41a1-a578-493ca0540830",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-enamul-haque/",
+      "imageId": "17314752-2452-4c1e-87e5-35d3bc074dc1",
       "name": "Prof. Dr. Md. Enamul Haque",
       "degree": "MBBS, FCPS (EYE)",
       "specialty": "Cataract, Glaucoma & Medical Retina Specialist",
@@ -122,9 +150,8 @@
         "hospital": "Eretana",
         "address": "House 301, Road 2, Padma Residential Area, Vodra, Rajshahi",
         "visitingTime": "3pm to 9.30pm (Sunday to Wednesday)",
-        "appointmentNumber": "+8801713228340"
-      },
-      "id": "d02c112b-e61e-4beb-885c-647f39cbca77"
+        "appointmentNumber": "+8801713228340Call Now"
+      }
     }
   ]
 }

@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "a2ec1ffd-96cb-4bd1-b8bf-c00b9a51c020",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-kamrunnahar-bhuiyan/",
+      "imageId": "635d544b-10bb-4b52-8e4a-f6345ec57e5b",
       "name": "Dr. Kamrunnahar Bhuiyan",
       "degree": "MBBS, BCS (Health), DCH, FCPS (Pediatrics)",
       "specialty": "Newborn & Child Diseases Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Asperia Health Care Ltd, Chittagong",
         "address": "Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram",
         "visitingTime": "2.30pm to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801810004550"
-      },
-      "id": "5376d2dc-088e-4248-a2b0-83a49a90851c"
+        "appointmentNumber": "+8801810004550Call Now"
+      }
     },
     {
+      "id": "3d2165a6-17ce-474a-a7e2-282a69d6d3f4",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-md-fazle-rabbi-shihab/",
+      "imageId": "88efd159-730e-441c-a2c3-89365ee86e66",
       "name": "Dr. Md. Fazle Rabbi (Shihab)",
       "degree": "MBBS (Dhaka), DCH (CU)",
       "specialty": "Newborn & Child Diseases Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Asperia Health Care Ltd, Chittagong",
         "address": "Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801810-004550"
-      },
-      "id": "9cac5248-3b5c-43c6-8813-cacc0a1dde58"
+        "appointmentNumber": "+8801810-004550Call Now"
+      }
     },
     {
+      "id": "3e72926e-c994-4242-8222-5fd2efe42ae1",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-basana-muhuri/",
+      "imageId": "2d064bf8-0ce7-42fa-bf27-f3038ea6bbce",
       "name": "Prof. Dr. Basana Muhuri",
       "degree": "MBBS, FCPS (Pediatrics)",
       "specialty": "Child Diseases, Autism & Pediatric Nephrology Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Royal Hospital, Chittagong",
         "address": "1530/A, O.R. Nizam Road, GEC More, Panchlaish, Chattogram",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+880241355934"
-      },
-      "id": "7c6f0dc4-80bc-4063-b68f-417f0a264540"
+        "appointmentNumber": "+880241355934Call Now"
+      }
     },
     {
+      "id": "da777942-c23a-4ca0-bf90-cc0cd7acf6a1",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/prof-dr-badrul-alam/",
+      "imageId": "43e14973-f32a-4c0c-a1a7-20cea7b1c95f",
       "name": "Prof. Dr. Badrul Alam",
       "degree": "MBBS, FCPS (CHILD)",
       "specialty": "Newborn, Adolescent & Child Diseases Specialist",
@@ -52,25 +65,31 @@
         "hospital": "Dr. Badrul Alam Home Chamber",
         "address": "Equity Excelsia, 105, Panchlaish R/A, Chittagong",
         "visitingTime": "10am to 12pm & 5.30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801716430043"
-      },
-      "id": "42842ded-4a14-49d5-b9ad-981eaa57d247"
+        "appointmentNumber": "+8801716430043Call Now"
+      }
     },
     {
+      "id": "abeaa3c7-9282-417a-b87d-9aea891be22c",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/prof-dr-didarul-alam/",
+      "imageId": "08673c32-bf1c-4d1b-974e-f2d1c877bc72",
       "name": "Prof. Dr. Didarul Alam",
       "degree": "MBBS, DCH, MD (Pediatrics), FCPS (Pediatrics)",
       "specialty": "Child Diseases Specialist",
       "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
-      "info": "Evercare Hospital, Chattogram\nAddress: H1, Ananna R/A, CDA, Hathazari, Chattogram\nVisiting Hour: 9am to 5pm (Closed: Friday)\nAppointment: +8809610810663\nCall Now",
+      "info": "Evercare Hospital, Chattogram Address: H1, Ananna R/A, CDA, Hathazari, Chattogram Visiting Hour: 9am to 5pm (Closed: Friday) Appointment: +8809610810663 Call Now",
       "chamber": {
         "hospital": "Chattogram Metropolitan Hospital",
         "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801973104068"
-      },
-      "id": "c3e08c7d-d557-48b7-895f-7fb6a486ab9c"
+        "appointmentNumber": "+8801973104068Call Now"
+      }
     },
     {
+      "id": "66ac578f-b967-45fc-905a-462665598c0b",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-shahed-iqbal/",
+      "imageId": "7a997ad6-bffc-4f90-9ddb-c15e40da4d42",
       "name": "Dr. Shahed Iqbal",
       "degree": "MBBS, FCPS (Pediatrics)",
       "specialty": "Neonatal & Child Diseases Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Medical Centre Hospital, Chittagong",
         "address": "953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram",
         "visitingTime": "4.30pm to 9.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801931527252"
-      },
-      "id": "97224cba-a7aa-4f03-9d05-e15de4d9a371"
+        "appointmentNumber": "+8801931527252Call Now"
+      }
     },
     {
+      "id": "4495e5a9-eb79-4786-9e9c-03f4dfb38fc5",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/prof-dr-rasheda-samad/",
+      "imageId": "8949cb6c-7544-4862-94cc-1a922f6b28ef",
       "name": "Prof. Dr. Rasheda Samad",
       "degree": "MBBS, FCPS (Pediatrics)",
       "specialty": "Newborn, Adolescent & Child Diseases Specialist",
@@ -94,11 +116,14 @@
         "hospital": "CSCR Hospital, Chittagong",
         "address": "Room 311, Block A, 1675/A, O.R. Nizam Road, Chattogram",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801703596158"
-      },
-      "id": "27f788b0-2f4a-4ee4-bcbc-22d1ea28718d"
+        "appointmentNumber": "+8801703596158Call Now"
+      }
     },
     {
+      "id": "24372971-1dfd-424c-a340-39e1c1b9e8d8",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-bibhuti-bhusan-nath/",
+      "imageId": "e90146dc-9fa0-434f-b467-e32925180927",
       "name": "Dr. Bibhuti Bhusan Nath",
       "degree": "MBBS, FCPS (Pediatrics), MRCP (UK)",
       "specialty": "Child Diseases Specialist",
@@ -108,25 +133,31 @@
         "hospital": "Max Hospital & Diagnostic, Chittagong",
         "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
         "visitingTime": "10am to 1pm & 6pm to 9pm (Closed: Monday & Friday)",
-        "appointmentNumber": "+8801713998199"
-      },
-      "id": "845d4877-5b5d-4a6b-9688-992533f5fc1e"
+        "appointmentNumber": "+8801713998199Call Now"
+      }
     },
     {
+      "id": "733adeb7-da60-482a-b67a-3721538d09a4",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-abdur-razzak-sikder/",
+      "imageId": "38181019-12b5-4593-8bd5-8556fd68c2d3",
       "name": "Dr. Abdur Razzak Sikder",
       "degree": "MBBS, DCH (Child Health), FCPS (Pediatrics), MD (Pediatrics)",
       "specialty": "Newborn, Adolescent & Child Diseases Specialist",
       "workplace": "Parkview Hospital, Chittagong",
-      "info": "Lancet Diagnostic Center, Chittagong\nAddress: 106/B, K.B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 5pm to 9pm (Closed: Friday)\nAppointment: +8801552674425\nCall Now",
+      "info": "Lancet Diagnostic Center, Chittagong Address: 106/B, K.B. Fazlul Kader Road, Panchlaish, Chattogram Visiting Hour: 5pm to 9pm (Closed: Friday) Appointment: +8801552674425 Call Now",
       "chamber": {
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "11am to 1pm (Closed: Friday)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "60999de0-a4d1-46ad-b0a4-fde636c1ac8e"
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "e974fbbb-f760-40fe-be53-6b7242fef83b",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/prof-dr-pranab-kumar-chowdhury/",
+      "imageId": "57032ab6-6a3c-4dca-b9ab-a347312c52d6",
       "name": "Prof. Dr. Pranab Kumar Chowdhury",
       "degree": "MBBS, FCPS (Pediatrics), FRCP (UK)",
       "specialty": "Newborn, Adolescent & Child Diseases Specialist",
@@ -136,25 +167,31 @@
         "hospital": "Doctors Lab, Chittagong",
         "address": "131, KB Fazlul Kader Road, Probortok More, Panchlaish, Chattogram",
         "visitingTime": "6.30pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801940876810"
-      },
-      "id": "15fc50f0-d87c-483a-8a9a-7b9bb2b916a2"
+        "appointmentNumber": "+8801940876810Call Now"
+      }
     },
     {
+      "id": "628c307b-2d8d-45ce-8901-5e52757d4b6d",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-mahmood-ahmed-chowdhury-arzu/",
+      "imageId": "1d752a5d-e2c2-4569-a356-96bdb8c727f9",
       "name": "Prof. Dr. Mahmood Ahmed Chowdhury (Arzu)",
       "degree": "MBBS, DCH, FCPS (Pediatrics), FRCP (UK)",
       "specialty": "Newborn, Adolescent & Child Diseases Specialist",
       "workplace": "Chattogram Maa-O-Shishu Hospital Medical College",
-      "info": "Chevron Clinical Laboratory, Halishahar\nAddress: 993/2121, Agrabad Access Road, Halishahar, Chattogram\nVisiting Hour: 9am to 12pm (Only Friday)\nAppointment: +8801701229090\nCall Now",
+      "info": "Chevron Clinical Laboratory, Halishahar Address: 993/2121, Agrabad Access Road, Halishahar, Chattogram Visiting Hour: 9am to 12pm (Only Friday) Appointment: +8801701229090 Call Now",
       "chamber": {
         "hospital": "Chevron Clinical Laboratory, Chittagong",
         "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801755666969"
-      },
-      "id": "50497769-4c02-4684-8c66-949f78f51c17"
+        "appointmentNumber": "+8801755666969Call Now"
+      }
     },
     {
+      "id": "62ffdffa-0de3-4aac-b672-442c295a2889",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/prof-dr-muslim-uddin-sabuj/",
+      "imageId": "819b4834-af92-4362-955b-95ca2cdacb75",
       "name": "Prof. Dr. Muslim Uddin Sobuj",
       "degree": "MBBS, DCH, MD (Child Health)",
       "specialty": "Newborn, Adolescent & Child Diseases Specialist",
@@ -164,11 +201,14 @@
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "3pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "6888a51b-3b86-48f4-98a4-b60791b8003f"
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "3bd9b5dd-165f-4b69-9486-d1cb5a4fb841",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-arup-dutta-bappi/",
+      "imageId": "63d0bc33-002a-4f56-bb9c-d24dab96b7d3",
       "name": "Prof. Dr. Arup Dutta Bappi",
       "degree": "MBBS, FCPS (Pediatrics)",
       "specialty": "Neonatal, Adolescent & Child Diseases Specialist",
@@ -178,25 +218,31 @@
         "hospital": "Epic Healthcare, Chittagong",
         "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 8.30pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801984499600"
-      },
-      "id": "47568c61-0b9e-42bf-94b9-ce5fb94de9af"
+        "appointmentNumber": "+8801984499600Call Now"
+      }
     },
     {
+      "id": "ac347d2a-5087-4269-be47-42b124016558",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-a-j-m-sadek/",
+      "imageId": "8dd03eab-1d1c-4d48-89b8-c93cee27bbcc",
       "name": "Prof. Dr. A. J. M. Sadek",
       "degree": "MBBS, FCPS (Pediatrics)",
       "specialty": "Neonatal & Child Diseases Specialist",
       "workplace": "Bangabandhu Memorial Hospital, USTC, Chittagong",
-      "info": "Chattogram Metropolitan Hospital\nAddress: 698/752, O.R. Nizam Road, Panchlaish, Chattogram\nVisiting Hour: 6pm to 9pm (Sun, Tue & Thu)\nAppointment: +8801814651077\nCall Now",
+      "info": "Chattogram Metropolitan Hospital Address: 698/752, O.R. Nizam Road, Panchlaish, Chattogram Visiting Hour: 6pm to 9pm (Sun, Tue & Thu) Appointment: +8801814651077 Call Now",
       "chamber": {
         "hospital": "National Hospital, Chittagong",
         "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
         "visitingTime": "1.30pm to 2pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801822685066"
-      },
-      "id": "59c32ab2-ce70-45a1-a718-636c48322e9e"
+        "appointmentNumber": "+8801822685066Call Now"
+      }
     },
     {
+      "id": "63b34520-cfee-4b15-9a49-88831e00c4e4",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/prof-dr-wazir-ahmed/",
+      "imageId": "64087bc0-0a9c-4a6f-979d-992231418320",
       "name": "Prof. Dr. Wazir Ahmed",
       "degree": "MBBS (CU), DCH (DU), FRCP (Glasgow)",
       "specialty": "Neonatal & Child Specialist",
@@ -206,53 +252,65 @@
         "hospital": "CSCR Hospital, Chittagong",
         "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
         "visitingTime": "5pm to 10pm (Closed: Friday & Saturday)",
-        "appointmentNumber": "+8801757003363"
-      },
-      "id": "76bb8915-c073-4f9e-929b-7d23b70b744c"
+        "appointmentNumber": "+8801757003363Call Now"
+      }
     },
     {
+      "id": "0632db54-fc88-4c81-aaec-67dd1457957b",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-faisal-ahmed/",
+      "imageId": "3dde0467-f7ba-4048-9b40-99252e9f3088",
       "name": "Dr. Faisal Ahmed",
       "degree": "MBBS, MD (Pediatrics), MRCPH (UK), Clinical Fellow (NICU, KSA)",
       "specialty": "Neonatal, Adolescent & Child Diseases Specialist",
       "workplace": "Labaid Specialized Hospital, Chattogram",
-      "info": "Shajinaz Hospital Ltd.\nAddress: Arefin Nagar, Bayezid Link Road, Bayezid Bostami, Chattogram\nVisiting Hour: 9am to 11am (Closed: Friday)\nAppointment: +8801886338811\nCall Now",
+      "info": "Shajinaz Hospital Ltd. Address: Arefin Nagar, Bayezid Link Road, Bayezid Bostami, Chattogram Visiting Hour: 9am to 11am (Closed: Friday) Appointment: +8801886338811 Call Now",
       "chamber": {
         "hospital": "Labaid Specialized Hospital, Chattogram",
         "address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
         "visitingTime": "11am to 2pm & 6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662420"
-      },
-      "id": "f57a3cbb-7322-4c20-bb7e-51c49ff26034"
+        "appointmentNumber": "+8801766662420Call Now"
+      }
     },
     {
+      "id": "4d87bb82-d627-4504-8df5-d0c7bb0bf0ba",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/prof-dr-a-k-m-rezaul-karim/",
+      "imageId": "a8b753ff-835b-4579-bfc2-5ff7190c7976",
       "name": "Prof. Dr. A.K.M Rezaul Karim",
       "degree": "MBBS, MD (Pediatrics), MD (Pediatric Hematology)",
       "specialty": "New Born, Child Diseases, Child Blood Diseases & Cancer Specialist",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Prof. Dr. A.K.M Rezaul Karim is a Child Hematologist  in Chittagong. His qualification is MBBS, MD (Pediatrics), MD (Pediatric Hematology). He is a Professor, Pediatrics at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Parkview Hospital, Chittagong. Practicing hour of Prof. Dr. A.K.M Rezaul Karim at Parkview Hospital, Chittagong is 5pm to 7pm (Closed: Friday).",
+      "info": "Prof. Dr. A.K.M Rezaul Karim is a Child Hematologist in Chittagong. His qualification is MBBS, MD (Pediatrics), MD (Pediatric Hematology). He is a Professor, Pediatrics at Chittagong Medical College & Hospital. He regularly provides treatment to his patients at Parkview Hospital, Chittagong. Practicing hour of Prof. Dr. A.K.M Rezaul Karim at Parkview Hospital, Chittagong is 5pm to 7pm (Closed: Friday).",
       "chamber": {
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "bbd409ab-93b2-4df3-98bf-8a5be4d5b185"
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "2773e197-3662-43b1-a64b-ef649e25143b",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-syada-humayda-hasan/",
+      "imageId": "43dc7574-32c2-469f-9913-6bdcd2a701d9",
       "name": "Dr. Syeda Humaida Hasan",
-      "degree": "MBBS, BCS (Health), DCH,  FCPS (Pediatrics)",
+      "degree": "MBBS, BCS (Health), DCH, FCPS (Pediatrics)",
       "specialty": "Child Diseases Specialist",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Dr. Syeda Humaida Hasan is a Child Specialist in Chittagong. Her qualification is MBBS, BCS (Health), DCH,  FCPS (Pediatrics). She is a Consultant, Pediatrics at Chittagong Medical College & Hospital. She regularly provides treatment to her patients at Chevron Clinical Laboratory, Chittagong. Practicing hour of Dr. Syeda Humaida Hasan at Chevron Clinical Laboratory, Chittagong is 6pm to 9pm (Sat, Mon, Wed & Fri).",
+      "info": "Dr. Syeda Humaida Hasan is a Child Specialist in Chittagong. Her qualification is MBBS, BCS (Health), DCH, FCPS (Pediatrics). She is a Consultant, Pediatrics at Chittagong Medical College & Hospital. She regularly provides treatment to her patients at Chevron Clinical Laboratory, Chittagong. Practicing hour of Dr. Syeda Humaida Hasan at Chevron Clinical Laboratory, Chittagong is 6pm to 9pm (Sat, Mon, Wed & Fri).",
       "chamber": {
         "hospital": "Chevron Clinical Laboratory, Chittagong",
         "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 9pm (Sat, Mon, Wed & Fri)",
-        "appointmentNumber": "+8801755666969"
-      },
-      "id": "b1bf101e-2abf-4c45-b559-8da80bb3ac50"
+        "appointmentNumber": "+8801755666969Call Now"
+      }
     },
     {
+      "id": "47fa68fc-0b91-4a1c-85c5-22c6ad9d7022",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/prof-dr-mohammad-reazul-karim/",
+      "imageId": "a19ebf32-0f6f-4e40-82af-f8d57a371d7c",
       "name": "Prof. Dr. Mohammad Reazul Karim",
       "degree": "MBBS, DCH, MCPS (Pediatrics), MSC, MD (Pediatrics), FRCP (Glasgow)",
       "specialty": "Neonatal & Child Diseases Specialist",
@@ -262,11 +320,14 @@
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "e933dfb6-853c-468f-b357-ce6763bed550"
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "866a303d-80f0-411a-acf5-ca4724ac05fe",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-mohammed-maruf-ul-quader/",
+      "imageId": "eda9c41b-ff50-414f-8a66-d329c0781bad",
       "name": "Dr. Mohammed Maruf-Ul-Quader",
       "degree": "MBBS, MD (Pediatrics), FCPS (Pediatric Nephrology), MCPS (Pediatrics)",
       "specialty": "Newborn, Child Diseases & Kidney Specialist",
@@ -276,11 +337,14 @@
         "hospital": "Epic Healthcare, Chittagong",
         "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801984499600"
-      },
-      "id": "5decff5f-5d4a-4267-bae4-f020277ed491"
+        "appointmentNumber": "+8801984499600Call Now"
+      }
     },
     {
+      "id": "a7b61dde-06f4-4e73-9722-b67c82261d47",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-kamrun-nahar-luna/",
+      "imageId": "dfe4efdd-0395-496e-8002-567a66892068",
       "name": "Dr. Kamrun Nahar (Luna)",
       "degree": "MBBS, BCS (Health), MD (Pediatrics), FCPS (Pediatrics)",
       "specialty": "Neonatal & Child Diseases Specialist",
@@ -290,11 +354,14 @@
         "hospital": "Chattogram Metropolitan Hospital",
         "address": "487/B, O.R. Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801997263421"
-      },
-      "id": "6beea447-ae1d-425a-ae02-4710a91cf5d0"
+        "appointmentNumber": "+8801997263421Call Now"
+      }
     },
     {
+      "id": "9324129a-5568-4dc5-99fa-ef97865a1c5f",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-mohammed-shaheen/",
+      "imageId": "f37a10a3-768f-4f08-8424-2c5febd2bf3a",
       "name": "Dr. Mohammed Shaheen",
       "degree": "MBBS (CMC), BCS (Health), MD (Neonatology-BSMMU), FCPS (Pediatrics - P2)",
       "specialty": "Pediatrics (Child) & Newborn ICU Specialist",
@@ -304,25 +371,31 @@
         "hospital": "Apollo Imperial Hospital, Chittagong",
         "address": "Zakir Hossain Road, Pahartali (Near Fay's Lake), Chattogram",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809612247247"
-      },
-      "id": "af5c4e9a-bf4c-445b-8198-f9a3d5473a83"
+        "appointmentNumber": "+8809612247247Call Now"
+      }
     },
     {
+      "id": "3aac7193-4e59-4572-a0f6-242b968cc46b",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-dipika-dey/",
+      "imageId": "4cb5c401-faf5-45e4-a199-582f45c97fd1",
       "name": "Dr. Dipika Dey",
       "degree": "MBBS, DCH, FCPS (Pediatrics)",
       "specialty": "Neonatal, Adolescent & Child Diseases Specialist",
       "workplace": "Evercare Hospital, Chattogram",
-      "info": "Evercare Hospital, Chattogram\nAddress: H1, Ananna R/A, CDA, Hathazari, Chattogram\nVisiting Hour: 9am to 5pm (Closed: Friday)\nAppointment: +8809610810663\nCall Now",
+      "info": "Evercare Hospital, Chattogram Address: H1, Ananna R/A, CDA, Hathazari, Chattogram Visiting Hour: 9am to 5pm (Closed: Friday) Appointment: +8809610810663 Call Now",
       "chamber": {
         "hospital": "Medical Centre Hospital, Chittagong",
         "address": "953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801827024455"
-      },
-      "id": "14a1728f-a503-491d-9cbe-0b64c4ccc5ba"
+        "appointmentNumber": "+8801827024455Call Now"
+      }
     },
     {
+      "id": "159d8817-a5c8-4042-a09d-119d8da28f8b",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-jishnu-majumder/",
+      "imageId": "7b613b90-9925-465f-85f6-87d8d2e7692d",
       "name": "Dr. Jishnu Majumder",
       "degree": "MBBS, DCH, PGPN (Child Nutrition), CCD",
       "specialty": "Child Diseases Specialist",
@@ -332,11 +405,14 @@
         "hospital": "Sensiv Private Limited, Chittagong",
         "address": "14, Jamal Khan Road, Jamal Khan, Chattogram",
         "visitingTime": "9am to 1pm (Everyday) & 6pm to 9pm (Sat to Thu)",
-        "appointmentNumber": "+8801711761766"
-      },
-      "id": "3d657583-a6da-44b8-87a8-e066502a576f"
+        "appointmentNumber": "+8801711761766Call Now"
+      }
     },
     {
+      "id": "f96f8da2-d8ca-4c48-9740-dad6ec303184",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/prof-dr-nurul-islam-khan/",
+      "imageId": "123474ea-1860-483b-82ef-7b56ea0ce96a",
       "name": "Prof. Dr. Nurul Islam Khan",
       "degree": "MBBS, DCH (Glasgow), MRCP (UK), FRCP (EDIN), FRCP (Glasgow)",
       "specialty": "Child Diseases & Neonatal Specialist",
@@ -346,11 +422,14 @@
         "hospital": "Shahjalal Diagnostic Clinic, Chittagong",
         "address": "143, Sheikh Mujib Road, Badamtoli, Agrabad, Chattogram",
         "visitingTime": "10am to 1pm & 6pm to 10pm (Everyday)",
-        "appointmentNumber": "+8801711750040"
-      },
-      "id": "ec2682ab-79a1-492c-9e75-4ec478a5bbf8"
+        "appointmentNumber": "+8801711750040Call Now"
+      }
     },
     {
+      "id": "603e86db-f8b2-47b2-8867-22cc22fa7454",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/prof-dr-nasir-uddin-mahmud/",
+      "imageId": "5bb0bc86-ef04-49c0-a67c-1a195a2d16c2",
       "name": "Prof. Dr. Nasir Uddin Mahmud",
       "degree": "MBBS, DCH, FCPS (Pediatrics)",
       "specialty": "Newborn, Adolescent & Child Diseases Specialist",
@@ -360,11 +439,14 @@
         "hospital": "Popular Diagnostic Center, Chittagong",
         "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "6:30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787810"
-      },
-      "id": "0dc1830f-4845-49d7-b0ac-e3d71da9cc6b"
+        "appointmentNumber": "+8809666787810Call Now"
+      }
     },
     {
+      "id": "545732c1-dd3b-4ce4-8baa-caca68faa34b",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-farah-chowdhury/",
+      "imageId": "323c398f-d3d0-4d75-a618-281592818830",
       "name": "Dr. Farah Chowdhury",
       "degree": "MBBS, FCPS (Pediatrics), Training (Pediatric Echocardiography)",
       "specialty": "Child Diseases Specialist",
@@ -374,25 +456,31 @@
         "hospital": "Epic Healthcare, Chittagong",
         "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "4pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801984499600"
-      },
-      "id": "be9db247-e23a-4041-a69c-399a2919683d"
+        "appointmentNumber": "+8801984499600Call Now"
+      }
     },
     {
+      "id": "d581e08e-b7ee-4eb8-acb7-71caf16ba17c",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/prof-dr-abdullah-shahriar/",
+      "imageId": "7254b6df-b845-472f-8b93-138af5bcf0b9",
       "name": "Prof. Dr. Abdullah Shahriar",
       "degree": "MBBS, MD (CHILD)",
       "specialty": "Child Specialist & Pediatric Cardiologist",
       "workplace": "National Institute of Cardiovascular Diseases & Hospital",
-      "info": "Labaid Specialized Hospital, Chattogram\nAddress: 3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram\nVisiting Hour: 10am to 4pm (Only Friday)\nAppointment: +8801766662828\nCall Now",
+      "info": "Labaid Specialized Hospital, Chattogram Address: 3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram Visiting Hour: 10am to 4pm (Only Friday) Appointment: +8801766662828 Call Now",
       "chamber": {
         "hospital": "Labaid Diagnostic, Kalabagan",
         "address": "House - 66, Mirpur Road, Kalabagan, Dhaka - 1205",
         "visitingTime": "2pm to 5pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801766661331"
-      },
-      "id": "00edffd3-8973-41ec-8cb8-8dd9f5f5a44e"
+        "appointmentNumber": "+8801766661331Call Now"
+      }
     },
     {
+      "id": "28a72c8e-4ef3-472e-a229-b0ed2cc72b2a",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-a-k-m-jafor-ullah/",
+      "imageId": "26d6b62d-4e31-44dc-9ae1-75dd96896430",
       "name": "Dr. A.K.M. Jafor Ullah",
       "degree": "MBBS, BCS (Health), MD (Child)",
       "specialty": "Child Specialist",
@@ -402,25 +490,31 @@
         "hospital": "Islami Bank Hospital, Chittagong",
         "address": "3, Sheikh Mujib Road, Agrabad, Chittagong",
         "visitingTime": "7pm to 10pm (Sat to Thu) & 9am to 12pm (Fri)",
-        "appointmentNumber": "+8801731253990"
-      },
-      "id": "cb78894a-d279-41f7-b580-a8eb31d83983"
+        "appointmentNumber": "+8801731253990Call Now"
+      }
     },
     {
+      "id": "bfd642b0-572d-424a-850f-15779e0b26ff",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-pranab-kanti-mallick/",
+      "imageId": "7fa440f0-2e2d-4038-9116-c4d3d916f276",
       "name": "Prof. Dr. Pranab Kanti Mallick",
-      "degree": "MBBS, FCPS (Pediatrics), MD (Pediatrics), MCPS,  FRCP (Glasgow)",
+      "degree": "MBBS, FCPS (Pediatrics), MD (Pediatrics), MCPS, FRCP (Glasgow)",
       "specialty": "Newborn, Adolescent & Child Diseases Specialist",
       "workplace": "Evercare Hospital, Chattogram",
-      "info": "Prof. Dr. Pranab Kanti Mallick is a Child Specialist in Chittagong. His qualification is MBBS, FCPS (Pediatrics), MD (Pediatrics), MCPS,  FRCP (Glasgow). He is a Senior Consultant, Pediatrics at Evercare Hospital, Chattogram. He regularly provides treatment to his patients at Evercare Hospital, Chattogram. Practicing hour of Prof. Dr. Pranab Kanti Mallick at Evercare Hospital, Chattogram is 9am to 5pm (Closed: Friday).",
+      "info": "Prof. Dr. Pranab Kanti Mallick is a Child Specialist in Chittagong. His qualification is MBBS, FCPS (Pediatrics), MD (Pediatrics), MCPS, FRCP (Glasgow). He is a Senior Consultant, Pediatrics at Evercare Hospital, Chattogram. He regularly provides treatment to his patients at Evercare Hospital, Chattogram. Practicing hour of Prof. Dr. Pranab Kanti Mallick at Evercare Hospital, Chattogram is 9am to 5pm (Closed: Friday).",
       "chamber": {
         "hospital": "Evercare Hospital, Chattogram",
         "address": "H1, Ananna R/A, CDA, Hathazari, Chattogram",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8809610810663"
-      },
-      "id": "ee420e63-e05b-43a2-aa83-bb687de9cf0e"
+        "appointmentNumber": "+8809610810663Call Now"
+      }
     },
     {
+      "id": "16968017-4838-4184-9783-c0b32492db68",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-anwarul-azim/",
+      "imageId": "f134a98a-9d13-4abc-b638-789c4d5ad70d",
       "name": "Dr. Anwarul Azim",
       "degree": "MBBS, DCH, FCPS (Pediatrics)",
       "specialty": "Newborn, Adolescent, Child Diseases & Nutrition Specialist",
@@ -430,11 +524,14 @@
         "hospital": "Belle Vue Hospital, Chittagong",
         "address": "Prabartak Hill, 12/12, O.R. Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801999409270"
-      },
-      "id": "1c42a274-6e33-4f07-840f-d643deb6c709"
+        "appointmentNumber": "+8801999409270Call Now"
+      }
     },
     {
+      "id": "dea7764c-3121-467d-a151-a9ceb50e1952",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-md-balayat-hossain-dhali/",
+      "imageId": "c34e386e-0376-4b75-be47-7232c8f4045a",
       "name": "Dr. Md. Balayat Hossain Dhali",
       "degree": "MBBS, BCS (Health), MD (Pediatrics)",
       "specialty": "Newborn, Adolescent & Child Diseases Specialist",
@@ -444,11 +541,14 @@
         "hospital": "Chevron Clinical Laboratory, Chittagong",
         "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801755666969"
-      },
-      "id": "3718b3a4-d20b-483c-95f6-c5a24e7042df"
+        "appointmentNumber": "+8801755666969Call Now"
+      }
     },
     {
+      "id": "b5b91943-9e94-4fa1-9c55-5e7af37a5a88",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-t-k-roy/",
+      "imageId": "cc21902a-b488-4468-8f14-b97c561e3db5",
       "name": "Dr. T.K. Roy",
       "degree": "MBBS, FCPS (Pediatrics), PGPN (Child Nutrition, USA)",
       "specialty": "Neonatal & Child Diseases Specialist",
@@ -458,11 +558,14 @@
         "hospital": "Al Amin Hospital & Diagnostic Center, Chittagong",
         "address": "830, Zakir Hossain Road, AK Khan Gate, North Pahartali, Chattogram",
         "visitingTime": "7.30pm to 10pm (Everyday)",
-        "appointmentNumber": "+8801683076070"
-      },
-      "id": "97090978-39c6-4dff-befd-54cc16a2f044"
+        "appointmentNumber": "+8801683076070Call Now"
+      }
     },
     {
+      "id": "1639f188-2171-48ed-bdc7-ed516f4d19e5",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-jahangir-alam-murad/",
+      "imageId": "15d55cca-0bee-4254-a1aa-094847e9f025",
       "name": "Dr. Jahangir Alam Murad",
       "degree": "MBBS, DCH (BSMMU), FCPS (Final)",
       "specialty": "Child Specialist",
@@ -472,11 +575,14 @@
         "hospital": "Chevron Clinical Laboratory, Halishahar",
         "address": "993/2121, Agrabad Access Road, Halishahar, Chattogram",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801701229090"
-      },
-      "id": "32095c76-1af1-47bb-b93f-aea7ccd374dc"
+        "appointmentNumber": "+8801701229090Call Now"
+      }
     },
     {
+      "id": "c5da4f49-01db-4a17-be5f-a7ceb1c23e49",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-firoza-akter/",
+      "imageId": "197a703c-b560-4b9e-b9f2-3f65546b3c76",
       "name": "Dr. Feroza Aktar",
       "degree": "MBBS, DCH, FCPS (Pediatrics)",
       "specialty": "Neonatal & Child Diseases Specialist",
@@ -486,11 +592,14 @@
         "hospital": "National Hospital, Chittagong",
         "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801822685066"
-      },
-      "id": "5bebda34-b9af-4603-867c-00f613cacc9c"
+        "appointmentNumber": "+8801822685066Call Now"
+      }
     },
     {
+      "id": "025d24a3-cd10-4bfd-bed8-1b7c25e34586",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-susmita-biswas/",
+      "imageId": "73f28b08-c0fe-4d1d-aa14-f806dc789885",
       "name": "Dr. Susmita Biswas",
       "degree": "MBBS, BCS (Health) MD (Pediatric Nephrology)",
       "specialty": "Child Kidney Diseases, Dialysis, Transplant & Biopsy Specialist",
@@ -500,11 +609,14 @@
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "4pm to 8pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "ddbd1ff1-f1de-4b6e-a0d5-e96b28879275"
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "8f6b7184-eaca-4a22-9a5d-3a19e832819c",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-aparup-kanti-das/",
+      "imageId": "328477dd-4394-4a40-ab0e-9f85ce47da9a",
       "name": "Dr. Aparup Kanti Das",
       "degree": "MBBS, BCS (Health), FCPS (Pediatrics)",
       "specialty": "Child Diseases Specialist",
@@ -514,11 +626,14 @@
         "hospital": "Sensiv Private Limited, Chittagong",
         "address": "14, Jamal Khan Road, Jamal Khan, Chattogram",
         "visitingTime": "6pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801873014013"
-      },
-      "id": "deb811f0-2e89-4ded-8617-5f214927f98f"
+        "appointmentNumber": "+8801873014013Call Now"
+      }
     },
     {
+      "id": "1936f72d-1db1-462a-a828-65c907122085",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-musa/",
+      "imageId": "4368df50-3987-4b17-a722-a5cc7e2e44bc",
       "name": "Dr. Mohammad Musa",
       "degree": "MBBS, BCS (Health), MD (Child), DCH, ESPID Training (Germany, UK)",
       "specialty": "Newborn, Adolescent & Child Diseases Specialist",
@@ -528,11 +643,14 @@
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "6.30pm to 9pm (Closed: Mon, Thu & Fri)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "2d55a43d-9f16-47f8-8908-c9968187d8b3"
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "d5db5f40-d006-4c67-a965-1fc482e6b2d0",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/prof-dr-farid-ul-alam/",
+      "imageId": "a30ce898-fe90-4588-850d-41b59580ef61",
       "name": "Prof. Dr. Farid Ul Alam",
       "degree": "MBBS, FCPS (Pediatrics), DME (UK)",
       "specialty": "Child Diseases Specialist",
@@ -542,11 +660,14 @@
         "hospital": "Shahjalal Diagnostic Clinic, Chittagong",
         "address": "143, Sheikh Mujib Road, Badamtoli, Agrabad, Chattogram",
         "visitingTime": "6pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801811185610"
-      },
-      "id": "ce80ac21-60c2-453a-bc91-d669d8af48e1"
+        "appointmentNumber": "+8801811185610Call Now"
+      }
     },
     {
+      "id": "e3bdfe47-edab-4d40-bdad-ae78dd3a4ff7",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-rana-chowdhury/",
+      "imageId": "8311e9ee-76c0-49cc-9f8d-443f793a7d05",
       "name": "Dr. Rana Chowdhury",
       "degree": "MBBS, FCPS (Pediatrics)",
       "specialty": "Newborn & Child Diseases Specialist",
@@ -556,11 +677,14 @@
         "hospital": "Delta Health Care, Chittagong",
         "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801841906090"
-      },
-      "id": "eb054839-1a26-4c47-bf7c-ab84af872edd"
+        "appointmentNumber": "+8801841906090Call Now"
+      }
     },
     {
+      "id": "3c28487a-67fb-4cb9-8c8d-757da5dce9d0",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-md-shah-alam-child/",
+      "imageId": "35784695-68cb-411f-8e6f-730641fa17c0",
       "name": "Dr. Md. Shah Alam",
       "degree": "MBBS (DMC), BCS (Health), MD (Child Health)",
       "specialty": "Child Diseases Specialist",
@@ -570,11 +694,14 @@
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "7pm to 9pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "efe9a3c0-7ad0-4e4d-b977-ee189153a235"
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "e0d14980-eb42-4525-ac36-32437c654d12",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-hasan-zahid/",
+      "imageId": "4ba9a7b4-6d03-4e1c-a24e-3c1be51b3819",
       "name": "Dr. Hasan Zahid",
       "degree": "MBBS, DCH (DU)",
       "specialty": "Newborn & Child Diseases Specialist",
@@ -584,11 +711,14 @@
         "hospital": "Apollo Imperial Hospital, Chittagong",
         "address": "Zakir Hossain Road, Pahartali, Chattogram",
         "visitingTime": "9am to 1pm & 4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809612247247"
-      },
-      "id": "9cbb7db5-b84c-4f47-a952-6e413537197e"
+        "appointmentNumber": "+8809612247247Call Now"
+      }
     },
     {
+      "id": "2ecee562-14a3-426a-9883-71306fa7e633",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-rasheda-begum/",
+      "imageId": "8ef247c2-2d8d-43c9-b891-ea66ea874d6b",
       "name": "Dr. Rasheda Begum",
       "degree": "MBBS, CCD (BIRDEM), DCH (CU)",
       "specialty": "Newborn, Child Diseases & Diabetes Specialist",
@@ -598,11 +728,14 @@
         "hospital": "Qrex Diagnostic & Consultation Centre, Chittagong",
         "address": "Plot # 9/A, Road # 1, Lane # 2, Block # G, Halishahar, Chattogram",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801828880299"
-      },
-      "id": "afcbe010-5da8-494b-b0c8-42aca775109f"
+        "appointmentNumber": "+8801828880299Call Now"
+      }
     },
     {
+      "id": "160e8bd4-3468-4163-a861-a0c0550251a7",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-nazmul-huda-ripon/",
+      "imageId": "7d9950a7-1fe4-4a51-b517-5e8cfde5491f",
       "name": "Dr. Nazmul Huda Ripon",
       "degree": "MBBS, DCH, MCPS",
       "specialty": "Neonatal & Child Diseases Specialist",
@@ -612,11 +745,14 @@
         "hospital": "National Hospital, Chittagong",
         "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
         "visitingTime": "3pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801822685066"
-      },
-      "id": "3d56fd60-b0ea-4824-872f-9225dfb28cad"
+        "appointmentNumber": "+8801822685066Call Now"
+      }
     },
     {
+      "id": "0a8a75db-77b2-49bc-ac85-da4a231d1105",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-khaled-hossain/",
+      "imageId": "3c26b7c9-5047-4793-8924-9de89fea430e",
       "name": "Dr. Mohammad Khaled Hossain",
       "degree": "MBBS (DMC), BCS (Health), FCPS (Pediatrics)",
       "specialty": "Child Diseases Specialist",
@@ -626,11 +762,14 @@
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "11am to 1pm (Closed: Friday)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "cd218006-ea17-43a7-bd56-cbdaaf72ab81"
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "b07a79c5-fd95-4781-bc47-1b5b02e2d2a7",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-md-mohiuddin-child/",
+      "imageId": "70ef3f43-9cd0-4029-bc35-0212cb80b9b6",
       "name": "Dr. Md. Mohiuddin",
       "degree": "MBBS, DCH",
       "specialty": "Neonatal, Adolescent & Child Diseases Specialist",
@@ -640,11 +779,14 @@
         "hospital": "Kids Consultation",
         "address": "KMC House, Beside NMC School, Khaja Road, Chandgoan, Chittagong",
         "visitingTime": "6pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801835535791"
-      },
-      "id": "3de150bf-c0de-4ba8-ade0-2bf0a0db7266"
+        "appointmentNumber": "+8801835535791Call Now"
+      }
     },
     {
+      "id": "0ac5cfaf-6743-4a54-95d2-7a4419a927f8",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-mahmood-al-farabi/",
+      "imageId": "31e3432f-d7e5-4800-83c1-7b337a836359",
       "name": "Dr. Mahmood Al-Farabi",
       "degree": "MBBS, BCS (Health), DCH (BSMMU)",
       "specialty": "Child Specialist",
@@ -654,11 +796,14 @@
         "hospital": "Qrex Diagnostic & Consultation Centre, Chittagong",
         "address": "Plot # 9/A, Road # 1, Lane # 2, Block # G, Halishahar, Chattogram",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801828880299"
-      },
-      "id": "ff38d373-1e84-47a4-9789-471a578d0623"
+        "appointmentNumber": "+8801828880299Call Now"
+      }
     },
     {
+      "id": "a87b9850-b011-4c1f-8681-b8792e4c51a6",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-md-sagir/",
+      "imageId": "1cd621ff-78b3-4d99-ac2e-abae4d2f24b3",
       "name": "Dr. Md. Sagir",
       "degree": "MBBS, DCH",
       "specialty": "Child Diseases & Newborn ICU Specialist",
@@ -668,11 +813,14 @@
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "10.30am to 1pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "3c27b18f-8cf3-459f-8b16-d97b1b214452"
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "714dadcb-9155-494c-9203-39ad446aa725",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-nazrul-kader-sikder/",
+      "imageId": "358da582-ad0d-4c89-beec-ccd9576e8936",
       "name": "Dr. Nazrul Quader Shikder",
       "degree": "MBBS, DCH (BSMMU), MD (Pediatrics)",
       "specialty": "Child Diseases Specialist",
@@ -682,11 +830,14 @@
         "hospital": "National Hospital, Chittagong",
         "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801822685066"
-      },
-      "id": "1e11d563-91de-477e-bd22-82d3b7cbc2b0"
+        "appointmentNumber": "+8801822685066Call Now"
+      }
     },
     {
+      "id": "c1eb1b2b-dd03-4cb0-b35f-a443e41301ee",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-morsheda-khanam/",
+      "imageId": "a1ec2023-cbfd-443c-98af-68e64c5d4ee2",
       "name": "Dr. Morsheda Khanam",
       "degree": "MBBS, BCS (Health), FCPS (Pediatrics)",
       "specialty": "Newborn, Adolescent & Child Diseases Specialist",
@@ -696,11 +847,14 @@
         "hospital": "Chattogram Metropolitan Hospital",
         "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801810030999"
-      },
-      "id": "fb1aab2d-4189-40dd-9942-fb37475a4ecd"
+        "appointmentNumber": "+8801810030999Call Now"
+      }
     },
     {
+      "id": "deeca857-66ff-4d4e-a09c-e09f45cdf196",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-suparna-das/",
+      "imageId": "36033102-b483-4140-9413-d44f78e81b12",
       "name": "Dr. Suparna Das",
       "degree": "MBBS, MCPS, FCPS (CHILD)",
       "specialty": "Newborn, Adolescent & Child Diseases Specialist",
@@ -710,11 +864,14 @@
         "hospital": "Max Hospital & Diagnostic, Chittagong",
         "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801713998199"
-      },
-      "id": "f586cbbf-2676-4f6f-86e8-60eec882db57"
+        "appointmentNumber": "+8801713998199Call Now"
+      }
     },
     {
+      "id": "f3a541c7-ea25-4848-88b5-5fa632c163e8",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-ayesha-begum/",
+      "imageId": "ea84aad5-c8bf-47e8-992c-22ba6d683634",
       "name": "Dr. Ayesha Begum",
       "degree": "MBBS, BCS (Health), MD (Pediatrics)",
       "specialty": "Neonatal, Adolescent & Child Diseases Specialist",
@@ -724,11 +881,14 @@
         "hospital": "Popular Diagnostic Center, Chittagong",
         "address": "Room 217, 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+88 01882741625, +8809666787810"
-      },
-      "id": "b676cb13-38b2-48de-8454-6720b920a811"
+        "appointmentNumber": "+88 01882741625, +8809666787810Call Now"
+      }
     },
     {
+      "id": "7655efd3-ac88-4b39-bd6d-f41820016e81",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-mohammed-yousuf-meah/",
+      "imageId": "a9590d87-c5c0-4615-8ba8-80e4406d50b5",
       "name": "Dr. Mohammed Yousuf Meah",
       "degree": "MBBS, MRCPCH (UK)",
       "specialty": "Newborn & Child Diseases Specialist",
@@ -738,11 +898,14 @@
         "hospital": "PediCare Hospital, Chittagong",
         "address": "Behind Panchlaish Model Thana, Panchlaish, Chattogram",
         "visitingTime": "2pm to 3pm (Everyday)",
-        "appointmentNumber": "+8801715263771"
-      },
-      "id": "92ea9847-4605-4e6f-80df-d6f1fe891e9e"
+        "appointmentNumber": "+8801715263771Call Now"
+      }
     },
     {
+      "id": "1b9e222c-6bbe-4e5a-9a93-4f42fdbcd530",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-armana-sharmin-khan/",
+      "imageId": "76710a5d-33ea-4da9-8d29-fc00c0ead927",
       "name": "Dr. Armana Sharmin Khan",
       "degree": "MBBS, DCH, FCPS (CHILD)",
       "specialty": "Newborn & Child Diseases Specialist",
@@ -752,11 +915,14 @@
         "hospital": "Popular Diagnostic Center, Chittagong",
         "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "2.30pm to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787810"
-      },
-      "id": "2d366c43-a54f-4031-a7af-cff2998cb20c"
+        "appointmentNumber": "+8809666787810Call Now"
+      }
     },
     {
+      "id": "aec731dc-c289-4694-8bec-6ac64f9d44dd",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-ekramul-haque/",
+      "imageId": "7060f11c-63ca-474e-a03d-14d16c8b939e",
       "name": "Dr. Ekramul Haque",
       "degree": "MBBS, DCH",
       "specialty": "Child Diseases Specialist",
@@ -766,11 +932,14 @@
         "hospital": "CSCR Hospital, Chittagong",
         "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
         "visitingTime": "12pm to 2pm (Saturday) & 6pm to 9pm (Friday)",
-        "appointmentNumber": "+8801729795255"
-      },
-      "id": "b53b9a17-78cb-4c75-b1b1-7a355bfa83d4"
+        "appointmentNumber": "+8801729795255Call Now"
+      }
     },
     {
+      "id": "b5cfe85d-4ddc-4c0e-aef9-2a4c0a6132cc",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-asma-ferdousi/",
+      "imageId": "4eb078d1-10f3-4e72-8e4f-637bda15a22e",
       "name": "Dr. Asma Ferdousi",
       "degree": "MBBS, DCH, FCPS (Pediatrics), MD (Pediatrics)",
       "specialty": "Child Diseases Specialist",
@@ -780,11 +949,14 @@
         "hospital": "Delta Health Care, Chittagong",
         "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
         "visitingTime": "1pm to 3pm (Closed: Friday)",
-        "appointmentNumber": "+8801841906010"
-      },
-      "id": "7073b72d-81c7-4254-80ce-100f19f148ee"
+        "appointmentNumber": "+8801841906010Call Now"
+      }
     },
     {
+      "id": "e3ad7b18-f008-44cb-8189-a198f46bb91a",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-sanzana-islam/",
+      "imageId": "f0f0a684-88b3-4f51-ad53-e72242a51b9b",
       "name": "Dr. Sanzana Islam",
       "degree": "MBBS, MD (Pediatrics)",
       "specialty": "Newborn & Child Diseases Specialist",
@@ -794,11 +966,14 @@
         "hospital": "Delta Health Care, Chittagong",
         "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801841906010"
-      },
-      "id": "ecba2f21-531c-47b2-8887-290f54465fa1"
+        "appointmentNumber": "+8801841906010Call Now"
+      }
     },
     {
+      "id": "1eca4304-e117-4d7f-85ca-6bc644ee90d2",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-fatema-begum-sweety/",
+      "imageId": "b24a6eec-e480-4100-9ea7-c31e50d172f6",
       "name": "Dr. Fatema Begum (Sweety)",
       "degree": "MBBS, FCPS (CHILD)",
       "specialty": "Child, Adolescent & Newborn Diseases Specialist",
@@ -808,11 +983,14 @@
         "hospital": "Labaid Specialized Hospital, Chattogram",
         "address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
         "visitingTime": "4pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662828"
-      },
-      "id": "e7ab970a-6f34-4816-a62e-8fa22b9f798c"
+        "appointmentNumber": "+8801766662828Call Now"
+      }
     },
     {
+      "id": "0545b238-f1b7-4011-8692-77b856df59d1",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahjahan/",
+      "imageId": "ad3afd85-1c5e-4de7-8dc1-f08bb613a411",
       "name": "Dr. Md. Shahjahan",
       "degree": "MBBS, D-PED (AUSTRIA)",
       "specialty": "Newborn & Child Diseases Specialist",
@@ -822,11 +1000,14 @@
         "hospital": "Chevron Clinical Laboratory, Halishahar",
         "address": "993/2121, Agrabad Access Road, Halishahar, Chattogram",
         "visitingTime": "6pm to 9pm (Sat to Thu) & 10am to 1pm (Everyday)",
-        "appointmentNumber": "+8801701229090"
-      },
-      "id": "af6a4995-f0aa-42eb-ae1f-738e3f97cd1e"
+        "appointmentNumber": "+8801701229090Call Now"
+      }
     },
     {
+      "id": "a32c780a-fa83-48c8-aa01-e53b78bf02ad",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-bibi-fatema-jedney/",
+      "imageId": "2214e542-1792-469a-b06e-6b815b9e5dc3",
       "name": "Dr. Bibi Fatema Jedney",
       "degree": "MBBS, FCPS (Neonatology), MCPS (Pediatrics)",
       "specialty": "Neonatology & Child Health Specialist",
@@ -836,25 +1017,14 @@
         "hospital": "Chattogram Metropolitan Hospital",
         "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801860313611"
-      },
-      "id": "62be8669-2c89-4f52-8bda-ef1d4bac632c"
+        "appointmentNumber": "+8801860313611Call Now"
+      }
     },
     {
-      "name": "Dr. Sankar Kumar Ghosh",
-      "degree": "MBBS, BCS (Health), DCH (BSMMU), PGPN (USA)",
-      "specialty": "Child Diseases & Nutrition Specialist",
-      "workplace": "General Hospital, Chittagong",
-      "info": "Dr. Sankar Kumar Ghosh is a Child Specialist in Chittagong. His qualification is MBBS, BCS (Health), DCH (BSMMU), PGPN (USA). He is a Consultant, Pediatrics at General Hospital, Chittagong. He regularly provides treatment to his patients at Metro Diagnostic Center, Chittagong. Practicing hour of Dr. Sankar Kumar Ghosh at Metro Diagnostic Center, Chittagong is Unknown. Please call to know visiting hour.",
-      "chamber": {
-        "hospital": "Metro Diagnostic Center, Chittagong",
-        "address": "Metro Tower, Goal Pahar Mor, Mehedibag, Chattogram",
-        "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801817707086"
-      },
-      "id": "1f1b9cbf-92a1-440b-a096-34a68514850b"
-    },
-    {
+      "id": "12c8a59c-349e-494d-b9f1-b760ee948db4",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-md-abul-kalam/",
+      "imageId": "93b7c369-ee81-411b-bc2b-a0fdc750a4bd",
       "name": "Dr. Md. Abul Kalam",
       "degree": "MBBS, DCH (Child Health), DTM (Ireland)",
       "specialty": "Tropical Medicine & Child Specialist",
@@ -864,11 +1034,31 @@
         "hospital": "Delta Health Care, Chittagong",
         "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
         "visitingTime": "10am to 1pm & 6pm to 9pm (Sat to Thu) & 10am to 12pm (Fri)",
-        "appointmentNumber": "+8801841906010"
-      },
-      "id": "e4b0d470-5255-4da5-8d62-a8cf1df9cb82"
+        "appointmentNumber": "+8801841906010Call Now"
+      }
     },
     {
+      "id": "28d7a9e7-6ee8-47ff-9ab5-b5121c3801c5",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-sankar-kumar-ghosh/",
+      "imageId": "94c21599-606f-42a2-a09f-99adb0a5399d",
+      "name": "Dr. Sankar Kumar Ghosh",
+      "degree": "MBBS, BCS (Health), DCH (BSMMU), PGPN (USA)",
+      "specialty": "Child Diseases & Nutrition Specialist",
+      "workplace": "General Hospital, Chittagong",
+      "info": "Dr. Sankar Kumar Ghosh is a Child Specialist in Chittagong. His qualification is MBBS, BCS (Health), DCH (BSMMU), PGPN (USA). He is a Consultant, Pediatrics at General Hospital, Chittagong. He regularly provides treatment to his patients at Metro Diagnostic Center, Chittagong. Practicing hour of Dr. Sankar Kumar Ghosh at Metro Diagnostic Center, Chittagong is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Metro Diagnostic Center, Chittagong",
+        "address": "Metro Tower, Goal Pahar Mor, Mehedibag, Chattogram",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801817707086Call Now"
+      }
+    },
+    {
+      "id": "bd5f2e2d-6ed9-403f-9d7a-c9c65ae3619e",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-md-enayet-ullah-rubel/",
+      "imageId": "959ad3db-c365-4a5d-9a27-c85a68aac01f",
       "name": "Dr. Md. Enayet Ullah (Rubel)",
       "degree": "MBBS. DCH",
       "specialty": "Child Diseases Specialist",
@@ -878,11 +1068,14 @@
         "hospital": "Easy Cure & Medicine Shop",
         "address": "New Monsurabad. Colonel Hat, Chittagong",
         "visitingTime": "10am to 11.45am & 8.30pm to 11pm (Everyday)",
-        "appointmentNumber": "+8801819380013"
-      },
-      "id": "54607468-d5e5-421f-9318-5634b90af560"
+        "appointmentNumber": "+8801819380013Call Now"
+      }
     },
     {
+      "id": "f9a2e106-4555-41bd-90e2-fdc711d933e7",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-md-yasin/",
+      "imageId": "85294a90-84fe-411d-bf58-fa61d55f4093",
       "name": "Dr. Md. Yasin",
       "degree": "MBBS, DCH",
       "specialty": "Neonatal & Child Diseases Specialist",
@@ -892,25 +1085,31 @@
         "hospital": "Ekushey Hospital, Chittagong",
         "address": "116, Sugandha Road, Mirzarpul, Chattogram",
         "visitingTime": "9am to 11am & 6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+88031657629"
-      },
-      "id": "faf92ec8-4dbf-4335-ac09-9e503fd2f035"
+        "appointmentNumber": "+88031657629Call Now"
+      }
     },
     {
+      "id": "2489dd04-e5ab-4c5c-b6e1-437fa61fa641",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-mir-mosharof-hossain/",
+      "imageId": "b9ce5f72-c59b-4086-ad97-af553a31f657",
       "name": "Dr. Mir Mosharof Hossain",
       "degree": "MBBS, BCS (Health), MD (Pediatrics, BSMMU)",
       "specialty": "Newborn & Child Diseases Specialist",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Core Diagnostic Limited, Chittagong\nAddress: AS Tower, (opposite RAB7 office), Arakan Road, Bohoddarhat, Chattogram\nVisiting Hour: 6pm to 7pm (Closed: Friday)\nAppointment: +8801969905858\nCall Now",
+      "info": "Core Diagnostic Limited, Chittagong Address: AS Tower, (opposite RAB7 office), Arakan Road, Bohoddarhat, Chattogram Visiting Hour: 6pm to 7pm (Closed: Friday) Appointment: +8801969905858 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Chittagong",
         "address": "House # 12/A, Road # 02, Katalgonj, Panchlaish, Chattogram",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009622"
-      },
-      "id": "dcefa026-6e93-4b96-aa8b-9127b6773cb8"
+        "appointmentNumber": "+8809610009622Call Now"
+      }
     },
     {
+      "id": "2e2b7715-0fdd-4fbc-816f-4d2e91a21a94",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/professor-dr-md-badruddoza/",
+      "imageId": "6bbba9bc-1d9d-45bd-9e13-978b23f00eb6",
       "name": "Professor Dr. Md. Badruddoza",
       "degree": "MBBS, DCH, FCPS (CHILD)",
       "specialty": "Newborn, Adolescent & Child Diseases Specialist",
@@ -920,11 +1119,14 @@
         "hospital": "MCC LAB, CHITTAGONG",
         "address": "Agrabad Access Road, Chotopul, Halisshohor, Chittagong",
         "visitingTime": "11.30am to 1.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801322554723"
-      },
-      "id": "d69c312c-001c-42d0-b71a-09a6a0455026"
+        "appointmentNumber": "+8801322554723Call Now"
+      }
     },
     {
+      "id": "4a6ad040-c4cf-47c5-8308-aefd96b417ea",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-jabed-bin-amin-chowdhury/",
+      "imageId": "413463cd-40a4-47be-8e4b-0284bf7623cb",
       "name": "Dr. Muhammad Jabed Bin Amin Chowdhury",
       "degree": "MBBS (DMC), FCPS (Pediatrics), BCS (Health)",
       "specialty": "Newborn, Adolescent & Child Diseases Specialist",
@@ -934,25 +1136,14 @@
         "hospital": "CSCR Hospital, Chittagong",
         "address": "CSCR Bhaban (3rd Floor), Room-318, Block-B, O.R. Nizam Road, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801674302839"
-      },
-      "id": "a1f6ff87-1faa-4944-b8cb-552880bee6ab"
+        "appointmentNumber": "+8801674302839Call Now"
+      }
     },
     {
-      "name": "Dr. Sarwar Kamal",
-      "degree": "MBBS, DCH, CCD",
-      "specialty": "Child Diseases Specialist",
-      "workplace": "Bangabandhu Memorial Hospital, USTC",
-      "info": "Apollo Diagnostic Center\nAddress: Beside north gate of Najirhat health complex, Fatikchori, Chattogram\nVisiting Hour: 3pm to 6pm (Saturday & Wednesday)\nAppointment: +8801824-323230\nCall Now",
-      "chamber": {
-        "hospital": "Heath Aid Diagnostic",
-        "address": "Kashem Mansion (Basek Vai's Building 1st Floor), Access Road, Shanti Nagar, Bakalia, Chattogram",
-        "visitingTime": "7pm to 9pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801810-116667"
-      },
-      "id": "8ac04a35-7165-4f25-92fd-1ad9494b9b3a"
-    },
-    {
+      "id": "27843371-69b3-4bd7-aab3-c38c256ffc5d",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-khadhiza-begom/",
+      "imageId": "8355b81e-a3d0-4740-b0f2-ffc30d5c2a24",
       "name": "Dr. Khadhiza Begom",
       "degree": "MBBS, DCH (BSMMU), FCPS (Neonatology, Part 2), MD (Pediatric, Course)",
       "specialty": "Newborn & Child Diseases Specialist",
@@ -962,25 +1153,14 @@
         "hospital": "PediCare Hospital, Chittagong",
         "address": "Behind Panchlaish Model Thana, Panchlaish, Chattogram",
         "visitingTime": "6pm to 8pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801793280308"
-      },
-      "id": "86f00a23-4bc9-45e6-ad7a-08b78687b5e5"
+        "appointmentNumber": "+8801793280308Call Now"
+      }
     },
     {
-      "name": "Dr. Amit Sen",
-      "degree": "MBBS (CU), DCH (BSMMU), CCD (BIRDEM)",
-      "specialty": "Newborn & Child Diseases Specialist",
-      "workplace": "Southern Medical College & Hospital, Chittagong",
-      "info": "Dr.Amit Sen Shishu Doctor Chamber\nAddress: Meyor goli (1st Mosjid er por), Sholosohor R/A (2 no Gate), Panchlaish, Chattogram\nVisiting Hour: 6pm to 10.30pm (Everyday)\nAppointment: +8801843584625\nCall Now",
-      "chamber": {
-        "hospital": "Southern Medical College & Hospital",
-        "address": "4th Floor, East Nasirabad, Khulshi, Polytechnical, Chattogram",
-        "visitingTime": "10am to 1pm (Closed: Friday)",
-        "appointmentNumber": "+8801843584625"
-      },
-      "id": "f9471885-4c8f-4731-b60d-11adf3512c35"
-    },
-    {
+      "id": "1662ac39-285f-43a8-9625-cd3ee76d4410",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-sazzadul-alam/",
+      "imageId": "60832b31-1ff6-468f-9110-8f028e4969fb",
       "name": "Dr. Mohammad Sazzadul Alam",
       "degree": "MBBS (CU), MCPS (Paediatrics), MD (Neonatology) BSMMU",
       "specialty": "Neonatologist and Child Specialist",
@@ -990,25 +1170,31 @@
         "hospital": "National Hospital, Chittagong",
         "address": "14/15, Dampara Lane, Mehedibag, Chawkbazar, Chattogram",
         "visitingTime": "3pm to 5pm (Sunday to Wednesday)",
-        "appointmentNumber": "+8801756737872"
-      },
-      "id": "9a585131-574b-4b38-addf-40f8544d7fef"
+        "appointmentNumber": "+8801756737872Call Now"
+      }
     },
     {
-      "name": "Dr. Mohammad Inzamam Ul Hoque",
-      "degree": "MBBS, DCH",
-      "specialty": "Newborn & Child Diseases Specialist",
-      "workplace": "Chattogram Maa-Shishu O General Hospital",
-      "info": "Shayera Medico\nAddress: South Middle Halishahar, Dhuppol (beside 38 no ward office), Bandar, Chattogram\nVisiting Hour: 7:30pm to 9:30pm (Everyday)\nAppointment: +8801689627212\nCall Now",
+      "id": "a6765857-78d3-4051-a75a-d654d01ea780",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-sarwar-kamal-ctg/",
+      "imageId": "6e4c4d3f-d7d6-4c83-ab3e-c88e9320618d",
+      "name": "Dr. Sarwar Kamal",
+      "degree": "MBBS, DCH, CCD",
+      "specialty": "Child Diseases Specialist",
+      "workplace": "Bangabandhu Memorial Hospital, USTC",
+      "info": "Apollo Diagnostic Center Address: Beside north gate of Najirhat health complex, Fatikchori, Chattogram Visiting Hour: 3pm to 6pm (Saturday & Wednesday) Appointment: +8801824-323230 Call Now",
       "chamber": {
-        "hospital": "Qrex Diagnostic & Consultation Centre, Chittagong",
-        "address": "Unit 2, Seamen’s Hostel Gate, Salt Gola Crossing, EPZ, Chattogram",
-        "visitingTime": "7pm to 8.30pm (Sat, Mon & Thu)",
-        "appointmentNumber": "+8801882534499"
-      },
-      "id": "d681962f-1455-4685-8fce-70e814ac7e59"
+        "hospital": "Heath Aid Diagnostic",
+        "address": "Kashem Mansion (Basek Vai's Building 1st Floor), Access Road, Shanti Nagar, Bakalia, Chattogram",
+        "visitingTime": "7pm to 9pm (Sat, Mon & Wed)",
+        "appointmentNumber": "+8801810-116667Call Now"
+      }
     },
     {
+      "id": "29cbfe2d-43c8-42fa-a6bd-4a26e735f229",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-taslima-khairunnesa-nasrin/",
+      "imageId": "ea02596d-99fc-4355-bb34-46771cc0c5e7",
       "name": "Dr. Taslima Khairunnesa Nasrin",
       "degree": "MBBS (CMC), DCH (BSMMU)",
       "specialty": "Neonate & Child Diseases Specialist",
@@ -1018,11 +1204,48 @@
         "hospital": "Health Aid Diagnostic Center",
         "address": "Kashem Mansion (2nd floor), Santinogor, Bakalia Access Road, Chittagong",
         "visitingTime": "11am to 2pm ( Wednesday to Saturday), 7pm to 10pm (Sunday to Tuesday)",
-        "appointmentNumber": "+8801815850532"
-      },
-      "id": "a248e0fa-877c-493d-9b70-6617b7ab1890"
+        "appointmentNumber": "+8801815850532Call Now"
+      }
     },
     {
+      "id": "cc7129e6-4154-40e3-a9f0-f7487f48adbc",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-inzamam-ul-hoque/",
+      "imageId": "60fe40aa-3867-4cdd-8361-a5b84a8c6168",
+      "name": "Dr. Mohammad Inzamam Ul Hoque",
+      "degree": "MBBS, DCH",
+      "specialty": "Newborn & Child Diseases Specialist",
+      "workplace": "Chattogram Maa-Shishu O General Hospital",
+      "info": "Shayera Medico Address: South Middle Halishahar, Dhuppol (beside 38 no ward office), Bandar, Chattogram Visiting Hour: 7:30pm to 9:30pm (Everyday) Appointment: +8801689627212 Call Now",
+      "chamber": {
+        "hospital": "Qrex Diagnostic & Consultation Centre, Chittagong",
+        "address": "Unit 2, Seamen’s Hostel Gate, Salt Gola Crossing, EPZ, Chattogram",
+        "visitingTime": "7pm to 8.30pm (Sat, Mon & Thu)",
+        "appointmentNumber": "+8801882534499Call Now"
+      }
+    },
+    {
+      "id": "24536f92-244d-44da-aaeb-247c5b3b687f",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-amit-sen/",
+      "imageId": "b6b1dab5-ac7c-40ac-90e6-2b3ad7fc2885",
+      "name": "Dr. Amit Sen",
+      "degree": "MBBS (CU), DCH (BSMMU), CCD (BIRDEM)",
+      "specialty": "Newborn & Child Diseases Specialist",
+      "workplace": "Southern Medical College & Hospital, Chittagong",
+      "info": "Dr.Amit Sen Shishu Doctor Chamber Address: Meyor goli (1st Mosjid er por), Sholosohor R/A (2 no Gate), Panchlaish, Chattogram Visiting Hour: 6pm to 10.30pm (Everyday) Appointment: +8801843584625 Call Now",
+      "chamber": {
+        "hospital": "Southern Medical College & Hospital",
+        "address": "4th Floor, East Nasirabad, Khulshi, Polytechnical, Chattogram",
+        "visitingTime": "10am to 1pm (Closed: Friday)",
+        "appointmentNumber": "+8801843584625Call Now"
+      }
+    },
+    {
+      "id": "db21f4f5-2aab-4aab-80a9-47c2f90745a0",
+      "departmentId": "4069ef21-dea0-4f08-9065-4156f946e768",
+      "link": "https://www.doctorbangladesh.com/dr-abir-das/",
+      "imageId": "eb8af1e5-b8fe-48b4-a7df-61685bf4ddf0",
       "name": "Dr. Abir Das",
       "degree": "MBBS, BCS(Health), MCPS (Paediatrics), FCPS (Paediatrics)",
       "specialty": "Newborn & Child Specialist",
@@ -1032,9 +1255,8 @@
         "hospital": "Woodland Diagnostic Center",
         "address": "37, KB Fazlul Kader Road, Panchlaish, Chittagong",
         "visitingTime": "7pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801601554464"
-      },
-      "id": "15bea58c-3475-4fb1-b5d4-a0cc5ed49fc3"
+        "appointmentNumber": "+8801601554464Call Now"
+      }
     }
   ]
 }

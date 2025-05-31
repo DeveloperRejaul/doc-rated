@@ -1,20 +1,27 @@
 {
   "doctor": [
     {
+      "id": "52b272a8-b27a-4e6f-b885-541613c4ff62",
+      "departmentId": "97c6a780-5c2a-426b-a1b1-14162a40a2cb",
+      "link": "https://www.doctorbangladesh.com/dr-zulfikar-hossain-khan/",
+      "imageId": "9c27ec6b-8f8d-4256-a4ee-fd461e987b89",
       "name": "Prof. Dr. Zulfiqur Hossain Khan",
       "degree": "MBBS, DDV, FCPS (SKIN & VD)",
       "specialty": "Skin, Allergy, Leprosy, Hair & Sexual Diseases Specialist",
       "workplace": "Mugda Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, B.B. Road, Chashara, Narayanganj – 1400\nVisiting Hour: 11am to 1pm & 2.30pm to 4.30pm (Sat, Mon & Wed)\nAppointment: +8809666787804\nCall Now",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, B.B. Road, Chashara, Narayanganj – 1400 Visiting Hour: 11am to 1pm & 2.30pm to 4.30pm (Sat, Mon & Wed) Appointment: +8809666787804 Call Now",
       "chamber": {
         "hospital": "Health and Hope Hospital",
         "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
         "visitingTime": "6pm to 9pm (Sunday & Tuesdays)",
-        "appointmentNumber": "+8809611996699"
-      },
-      "id": "9a9df9f5-5dea-44d2-a945-d6b09927d2d4"
+        "appointmentNumber": "+8809611996699Call Now"
+      }
     },
     {
+      "id": "ba02e75a-dcf1-49b0-a4bd-50c8f3ef3c09",
+      "departmentId": "97c6a780-5c2a-426b-a1b1-14162a40a2cb",
+      "link": "https://www.doctorbangladesh.com/dr-md-shafiqul-islam-skin/",
+      "imageId": "2c95369a-4812-446b-a5f6-b17aaf9921c5",
       "name": "Dr. Md. Shafiqul Islam",
       "degree": "MBBS, BCS (Health), DDV (DU), MD (Dermatology)",
       "specialty": "Skin, Sexual Diseases, Allergy, Hair Specialist & Cosmetic Surgeon",
@@ -24,9 +31,8 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "12pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "9c0528a3-3737-4b26-8001-74fdb5e1767a"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     }
   ]
 }

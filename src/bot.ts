@@ -2,6 +2,7 @@
 import type { Department, Doctor } from './../types';
 import puppeteer, { Browser, Page } from 'puppeteer'
 import fs from 'fs'
+import pFs from 'fs/promises';
 import pLimit from 'p-limit';
 import path from 'path';
 const limit = pLimit(2); // max 20 concurrent tasks
@@ -17,6 +18,17 @@ export default class Bot  {
       this.browser = await puppeteer.launch({
         headless:false,
         defaultViewport: null,
+        // args: [
+        //   '--no-sandbox',
+        //   '--disable-setuid-sandbox',
+        //   '--disable-dev-shm-usage',
+        //   '--disable-accelerated-2d-canvas',
+        //   '--disable-gpu',
+        //   '--no-first-run',
+        //   '--no-zygote',
+        //   '--single-process',
+        //   '--disable-extensions'
+        // ],
       });
     } catch (error) {
       console.log(error);
@@ -35,7 +47,7 @@ export default class Bot  {
         const page = await this.browser.newPage();
   
         // Load HTML using data URI
-        await page.goto(`https://www.doctorbangladesh.com/doctors-${element}/`, { waitUntil: 'domcontentloaded' , });
+        await page.goto(`https://www.doctorbangladesh.com/doctors-${element}/`, { waitUntil: 'domcontentloaded'});
   
   
         // Extract department data
@@ -69,9 +81,16 @@ export default class Bot  {
   
       for (const key in params) {
         if (Object.prototype.hasOwnProperty.call(params, key)) {
+
           // select district of department
           const list = params[key];
-          fs.mkdirSync(`doc-list/${key}`) // create directory for each district
+          if (!fs.existsSync('doc-list')) {
+            fs.mkdirSync('doc-list'); // create root directory
+          }
+          if (!fs.existsSync(path.join('doc-list', key))) {
+            fs.mkdirSync(path.join('doc-list', key))
+          }
+          
 
           for (let j = 0; j < list.length; j++) {
             const item = list[j];
@@ -79,7 +98,7 @@ export default class Bot  {
             console.table([{  Index: j, district: key, total:profileLinks.length,  department: item.name}]);
 
             const fileId =`doc-list/${key}/${j}-${item.name.replace(/[\/ ]/g, '-')}-doctors`
-            const tasks = profileLinks.map((d) => limit(() => this.getDoctorProfileDetails(d, key, fileId )));
+            const tasks = profileLinks.map((d) => limit(() => this.getDoctorProfileDetails(d, key, fileId , item.id)));
             const docLists = await Promise.allSettled(tasks);
             const fulfilledValues = docLists.filter(result => result.status === 'fulfilled').map(result => result.value);
             fs.writeFileSync(`${fileId}.json`, JSON.stringify({ doctor: fulfilledValues}, null, 2))
@@ -114,7 +133,7 @@ export default class Bot  {
   }
 
 
-  async  getDoctorProfileDetails(profileLink:string, district:string, fileId:string){
+  async  getDoctorProfileDetails(profileLink:string, district:string, fileId:string, departmentId:string){
     if(!this.browser){
       console.error('Browser is not initialized');
       return
@@ -146,15 +165,19 @@ export default class Bot  {
         // appointmentNumber
         const appointmentNumber = allContent.slice(visitingTimeEndIndex).replace('Appointment:', '').trim() || '';
         return { name, degree, specialty, workplace, info, chamber:{hospital:hospitalName, address, visitingTime, appointmentNumber} };
-      });      
+      });
+      
+      const imageId = await this.downloadProfileImage(page, profileLink);
+      
       await page.close();
-      return doctorData;
+      return {id: this.generateUUIDv4(), departmentId, link: profileLink,imageId, ...doctorData};
     } catch{
-      console.error({ link:profileLink, district, fileId });
-      const prevErrors = JSON.parse(fs.readFileSync('errorLinks.json', 'utf-8'));
-      prevErrors.errorLinks.push({ link:profileLink, district, fileId });
-      fs.writeFileSync('errorLinks.json', JSON.stringify(prevErrors, null, 2));
-      page?.close();
+      const data = await pFs.readFile('errorLinks.json', 'utf-8');
+      const prevErrors = JSON.parse(data);
+      prevErrors.errors.push({ link:profileLink, district, fileId ,departmentId});
+      await pFs.writeFile('errorLinks.json', JSON.stringify(prevErrors, null, 2));
+      console.error({ link:profileLink, district, fileId,departmentId });
+      await page?.close();
     }
   } 
 
@@ -167,6 +190,52 @@ export default class Bot  {
     });
   }
 
+  async downloadProfileImage (page:Page, profileLink:string): Promise<string> {
+    const imageId = this.generateUUIDv4();
+    try {
+      const {base64, ext} = await page.evaluate(async (): Promise<{ base64:string, ext:string}> => {
+        const img = document.querySelector('.entry-header div.photo img.attachment-full') as HTMLImageElement | null;
+        if (!img) throw new Error('Image element not found');
+
+        if (!img.complete || img.naturalWidth === 0) {
+          await new Promise<void>((resolve, reject) => {
+            img.onload = () => resolve();
+            img.onerror = () => reject(new Error('Failed to load captcha image'));
+          });
+        }
+
+        const response = await fetch(img.src);
+        const blob = await response.blob();
+        const contentType = blob.type; // e.g., "image/png"
+
+        const base64 =  await new Promise<string>((resolve, reject) => {
+          const reader = new FileReader();
+          reader.onloadend = () => resolve(reader.result as string);
+          reader.onerror = reject;
+          reader.readAsDataURL(blob);
+        });
+
+        const ext = contentType.split('/').pop() || 'jpg';
+        return { base64, ext };
+      });
+
+      // Extract base64 data and save it to a file
+      const base64Data = base64.replace(/^data:image\/[a-zA-Z0-9+.-]+;base64,/, '');
+      if(!fs.existsSync('images')) {
+        await pFs.mkdir('images');
+      }
+      await pFs.writeFile(path.join("images",`${imageId}.${ext}`), base64Data, 'base64');
+      return imageId;
+    } catch {
+      console.error("Failed to download profile image");
+      const data  = await pFs.readFile('imageError.json', 'utf-8')
+      const prevErrors = JSON.parse(data);
+      prevErrors.errors.push({ imageId, link: profileLink});
+      await pFs.writeFile('imageError.json', JSON.stringify(prevErrors, null, 2));
+      await page?.close();
+      return imageId;
+    }
+  }
 
   getTotalDoctorsCount () {
     const docRootPath= process.cwd() + '/doc-list'
@@ -201,5 +270,68 @@ export default class Bot  {
         resolve(true);
       }, ms);
     });
+  }
+
+  async handleLinkErrors () {
+    try {
+      if(!this.browser){
+        return console.log('please init ')
+      }
+      const linkErrors = await pFs.readFile('errorLinks.json', 'utf-8');
+      const linkErrorsData = JSON.parse(linkErrors);
+      // handle Links errors
+      if(linkErrorsData.errors.length > 0) {
+        for (let i = 0; i < linkErrorsData.errors.length; i++) {
+          const errorObj = linkErrorsData.errors.pop();
+          const docList = await pFs.readFile(`${errorObj.fileId}.json`, 'utf-8');
+          const docListData = JSON.parse(docList);
+          const data =  await this.getDoctorProfileDetails(errorObj.link, errorObj.district, this.generateUUIDv4(),  errorObj.departmentId);
+          docListData.doctor.push(data)
+          await pFs.writeFile(`${errorObj.fileId}.json`, JSON.stringify(docListData,  null, 2), 'utf-8');
+        }
+        // await pFs.writeFile('errorLinks.json', JSON.stringify(linkErrorsData,  null, 2), 'utf-8');
+        await this.browser.close()
+      }
+      // handleImage errors
+    } catch (error) {
+      console.log(error);
+      
+    }
+  }
+
+  async handleImageError () {
+    try {
+      if(!this.browser){
+        return console.log('please init ')
+      }
+      const imageErrors = await pFs.readFile('imageError.json', 'utf-8');
+      const imageErrorsData = JSON.parse(imageErrors);
+
+      for (let index = 0; index < imageErrorsData.errors.length; index++) {
+        const errorObj = imageErrorsData.errors.pop()
+        const page = await this.browser.newPage()
+        await page.goto(errorObj.link, { waitUntil: 'domcontentloaded'});
+        await this.downloadProfileImage(page, errorObj.link)
+      }
+      // await pFs.writeFile('imageError.json', JSON.stringify(imageErrorsData,  null, 2), 'utf-8');
+      await this.browser.close()
+    } catch (error) {
+      console.log(error);
+    }
+  }
+
+  async makeSingleDocFile(cv?:(doc:Doctor)=>Record<string, string>) {
+    const docRootPath= process.cwd() + '/doc-list'
+    const allDistrictList = fs.readdirSync(docRootPath);
+    const allDoctors:Doctor[] =[]
+    for (const district of allDistrictList) {
+      const files = fs.readdirSync(`${docRootPath}/${district}`);
+      files.forEach(file=>{
+        const docs = JSON.parse(fs.readFileSync(path.join(docRootPath, district,file), 'utf-8'));
+        const newDocs = docs.doctor.map((doc:Doctor) => ({...doc, ...cv?.(doc)}))
+        allDoctors.push(...newDocs)
+      })
+    }
+    await pFs.writeFile('doctors.json', JSON.stringify({ doctor: allDoctors }, null, 2),  'utf-8');
   }
 }

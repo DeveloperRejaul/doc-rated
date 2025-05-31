@@ -1,20 +1,27 @@
 {
   "doctor": [
     {
+      "id": "9b6920ed-bf35-4afe-9b95-e5da888ae032",
+      "departmentId": "7afc63d0-a546-4593-b912-716cec87f73d",
+      "link": "https://www.doctorbangladesh.com/dr-md-shayedat-ullah/",
+      "imageId": "1f61779a-af05-4082-9b75-649d9730515c",
       "name": "Dr. Md. Shayedat Ullah",
       "degree": "MBBS (Dhaka), BCS (Health), MACP (USA), MACE (USA), MD (Endocrinology & Metabolism) (BSMMU)",
       "specialty": "Diabetes, Thyroid, Hormone, Obesity, Metabolic & Sexual Diseases Specialist",
       "workplace": "National Institute of Burn & Plastic Surgery, Shahbag, Dhaka",
-      "info": "Insaf Barakah Kidney & General Hospital\nAddress: 11, Shaheed Tajuddin Ahmed Sarani, Mogbazar, Dhaka\nVisiting Hour: 3.30pm to 7pm (Closed: Thu & Friday)\nAppointment: +8801987851666\nCall Now",
+      "info": "Insaf Barakah Kidney & General Hospital Address: 11, Shaheed Tajuddin Ahmed Sarani, Mogbazar, Dhaka Visiting Hour: 3.30pm to 7pm (Closed: Thu & Friday) Appointment: +8801987851666 Call Now",
       "chamber": {
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "6.30pm to 10pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801987851666"
-      },
-      "id": "63882eb2-b45f-4272-9d5a-04644758f80b"
+        "appointmentNumber": "+8801987851666Call Now"
+      }
     },
     {
+      "id": "a738c61d-53e9-42b2-9b16-029e2be5f7e6",
+      "departmentId": "7afc63d0-a546-4593-b912-716cec87f73d",
+      "link": "https://www.doctorbangladesh.com/dr-ajit-kumar-paul/",
+      "imageId": "5fd310ae-9d97-43f2-93dd-29004ca79bf0",
       "name": "Prof. Dr. Ajit Kumar Paul",
       "degree": "MBBS, MD (Endocrinology), PhD (Chittagong University), MRCP (Glasgow), FRCP (Edin), FRCP (Glasgow), FACE, FACP (USA)",
       "specialty": "Diabetes, Thyroid & Hormone Disease Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Comilla Trauma Center",
         "address": "511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809612808182"
-      },
-      "id": "e7f9fb72-b05b-4f4f-a295-f37691836520"
+        "appointmentNumber": "+8809612808182Call Now"
+      }
     },
     {
+      "id": "87329ff1-c552-4f51-a9bc-0e8b32bf9966",
+      "departmentId": "7afc63d0-a546-4593-b912-716cec87f73d",
+      "link": "https://www.doctorbangladesh.com/dr-md-mohiuddin/",
+      "imageId": "89ef1b14-6001-44d2-a751-96c88e9d54bb",
       "name": "Dr. Md. Mohiuddin",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), DEM (BIRDEM), MACE (USA)",
       "specialty": "Medicine, Diabetes, Thyroid & Hormone Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "3pm to 8pm (Closed: Tuesday)",
-        "appointmentNumber": "+8801711144786"
-      },
-      "id": "5687a9c3-98ce-4826-8cee-df70f45f3137"
+        "appointmentNumber": "+8801711144786Call Now"
+      }
     },
     {
+      "id": "10e2f62f-1004-4983-99a9-f07f5f35b86d",
+      "departmentId": "7afc63d0-a546-4593-b912-716cec87f73d",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-shah-alam/",
+      "imageId": "0953fffd-901e-4ee3-9c60-f67e4fd7b2f0",
       "name": "Dr. Muhammad Shah Alam",
       "degree": "MBBS, FCPS (Medicine), DEM (BIRDEM)",
       "specialty": "Medicine, Diabetes, Thyroid & Hormone Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Gomati Hospital, Comilla",
         "address": "Nazrul Avenue, Kandirpar, Cumilla - 3500",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801711798083"
-      },
-      "id": "ef81dd37-55f2-4f2c-a0ce-554a85c3af9f"
+        "appointmentNumber": "+8801711798083Call Now"
+      }
     },
     {
+      "id": "3dff739f-254a-47df-92e0-3fd55df8b802",
+      "departmentId": "7afc63d0-a546-4593-b912-716cec87f73d",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-rasel-khan/",
+      "imageId": "c63e21f4-9f2c-4ab4-89fb-6b715bcafb57",
       "name": "Dr. Mohammed Rasel Khan",
       "degree": "MBBS, BCS (Health), DEM (Diabetes & Hormone)",
       "specialty": "Diabetes, Thyroid & Hormone Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Labaid Diagnostic, Cumilla",
         "address": "Tomsom Bridge, Laksam Road, Cumilla",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801766661133"
-      },
-      "id": "77679f7d-785a-4d3a-a1d4-0d9523b40160"
+        "appointmentNumber": "+8801766661133Call Now"
+      }
     },
     {
+      "id": "f6d4fe0f-d7f9-4bdd-bb38-8c4eac8559cc",
+      "departmentId": "7afc63d0-a546-4593-b912-716cec87f73d",
+      "link": "https://www.doctorbangladesh.com/dr-md-ataur-rahman-jashim/",
+      "imageId": "fe089b31-9e8f-4896-b034-5628c0449358",
       "name": "Dr. Md. Ataur Rahman Jashim",
       "degree": "MBBS, CCD (BIRDEM)",
       "specialty": "Diabetologist",
@@ -80,25 +99,31 @@
         "hospital": "Moon Hospital, Comilla",
         "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801717294611"
-      },
-      "id": "df043d96-273d-4a04-bb56-2e0bc2ba0a52"
+        "appointmentNumber": "+8801717294611Call Now"
+      }
     },
     {
+      "id": "beda222c-ce36-463b-a2e0-e9d06d87f765",
+      "departmentId": "7afc63d0-a546-4593-b912-716cec87f73d",
+      "link": "https://www.doctorbangladesh.com/asst-prof-dr-ankur-datta/",
+      "imageId": "8ba99afc-41b9-4e2c-b566-9572d2ea8a9a",
       "name": "Asst. Prof. Dr. Ankur Datta",
       "degree": "MBBS, MPH (CM) BSMMU, CCD (Diabetes), EDC (Advance Diabetes) BIRDEM",
       "specialty": "Preventive Medicine SpecialistSpecial interest in Medicine, Diabetes, Hormone, Neurology",
       "workplace": "Eastern Medical College & Hospital",
-      "info": "Personal Chamber\nAddress: House Name: Shashi, In front of Modern High School, Left Lane of DBBL Booth 3rd Number House\nVisiting Hour: 4pm to 8pm (Everyday)\nAppointment: +8801787100087\nCall Now",
+      "info": "Personal Chamber Address: House Name: Shashi, In front of Modern High School, Left Lane of DBBL Booth 3rd Number House Visiting Hour: 4pm to 8pm (Everyday) Appointment: +8801787100087 Call Now",
       "chamber": {
         "hospital": "CD Path & Hospital Pvt. Ltd.",
         "address": "Shishu Monagal Road, Badurtoal, Cumilla – 3500",
         "visitingTime": "9am to 2pm (Everyday)",
-        "appointmentNumber": "+8801787100087"
-      },
-      "id": "ef59d939-5094-40a2-a7d4-000d0a038993"
+        "appointmentNumber": "+8801787100087Call Now"
+      }
     },
     {
+      "id": "682f4977-046d-449d-a135-23ed0d952b84",
+      "departmentId": "7afc63d0-a546-4593-b912-716cec87f73d",
+      "link": "https://www.doctorbangladesh.com/dr-md-mohibullah/",
+      "imageId": "a1bd84a2-adf1-4626-810a-c92cc5ab8edc",
       "name": "Dr. Md. Mohibullah",
       "degree": "MBBS, MD (Endocrinology)",
       "specialty": "Endocrinology (Diabetes, Thyroid & Hormone) Specialist",
@@ -108,9 +133,8 @@
         "hospital": "Moon Hospital, Comilla",
         "address": "Room 805, Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801757268470"
-      },
-      "id": "4af45129-592d-4e22-9550-a520acf4d3be"
+        "appointmentNumber": "+8801757268470Call Now"
+      }
     }
   ]
 }

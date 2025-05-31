@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "e2c2fbe4-b8dc-49d3-b0fb-e9319ff8c972",
+      "departmentId": "763443cc-da21-4326-b43e-8b51cd5fb062",
+      "link": "https://www.doctorbangladesh.com/prof-dr-syed-anwaruzzaman/",
+      "imageId": "70d8449c-29a0-4e70-b906-efaeca375dfb",
       "name": "Prof. Dr. Syed Anwaruzzaman",
       "degree": "MBBS (CMC), MS (ORTHO)",
       "specialty": "Orthopedics (Bone, Joint, Arthritis, Spine) Specialist & Trauma Surgeon",
@@ -10,11 +14,14 @@
         "hospital": "Moon Hospital, Comilla",
         "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
         "visitingTime": "10am to 1pm & 5pm to 9pm (Sun & Wed)",
-        "appointmentNumber": "+8801796215368"
-      },
-      "id": "36042fd9-db17-478a-9ed0-1bab16c62a01"
+        "appointmentNumber": "+8801796215368Call Now"
+      }
     },
     {
+      "id": "2824e57f-f28b-4f5a-8a36-b8fa99491b1e",
+      "departmentId": "763443cc-da21-4326-b43e-8b51cd5fb062",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-safiqur-rahman-patwary/",
+      "imageId": "a736bd82-83e7-4fc0-b8ac-276f2ec2606e",
       "name": "Prof. Dr. Md. Safiqur Rahman Patwary",
       "degree": "MBBS, D-ORTHO",
       "specialty": "Orthopedics (Bone, Joint, Arthritis, Trauma) Specialist & Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801736997025"
-      },
-      "id": "f67fc00d-1f34-47dd-a0fb-9d87cb8aa9bd"
+        "appointmentNumber": "+8801736997025Call Now"
+      }
     },
     {
+      "id": "2e0d67f0-e467-40d7-b457-e3688b659d60",
+      "departmentId": "763443cc-da21-4326-b43e-8b51cd5fb062",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-anowarul-azim/",
+      "imageId": "f36ec7aa-b19f-462b-bfa0-4153f39114f9",
       "name": "Prof. Dr. Md. Anowarul Azim",
       "degree": "MBBS, MS (Ortho Surgery)",
       "specialty": "Orthopedic Specialist & Trauma Surgeon",
@@ -38,11 +48,14 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "11am to 1pm & 3pm to 7pm (Closed: Friday & Tuesday)",
-        "appointmentNumber": "+8801711144786"
-      },
-      "id": "3661deda-6caf-4b15-bb1f-a8c41f5dcebf"
+        "appointmentNumber": "+8801711144786Call Now"
+      }
     },
     {
+      "id": "7e6aaa13-bcf7-4a7c-8833-4bc87a35a0d3",
+      "departmentId": "763443cc-da21-4326-b43e-8b51cd5fb062",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdul-hoque/",
+      "imageId": "e8166069-0f43-4037-8eae-27cf278bb32b",
       "name": "Prof. Dr. Md. Abdul Hoque",
       "degree": "MBBS (CU), D-ORTHO (DU)",
       "specialty": "Orthopedic, Trauma & Spine Specialist Surgeon",
@@ -52,11 +65,14 @@
         "hospital": "Comilla Trauma Center",
         "address": "511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla",
         "visitingTime": "2.30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809612808182"
-      },
-      "id": "e1ce4e20-19a5-4af9-ad9c-9a093f249ecd"
+        "appointmentNumber": "+8809612808182Call Now"
+      }
     },
     {
+      "id": "9b27876b-c9d5-4556-81db-32272291be33",
+      "departmentId": "763443cc-da21-4326-b43e-8b51cd5fb062",
+      "link": "https://www.doctorbangladesh.com/prof-dr-a-b-m-mostafa/",
+      "imageId": "2358d8be-5430-4f64-9447-e4d817e772e3",
       "name": "Prof. Dr. A.B.M. Mostafa",
       "degree": "MBBS, D-ORTHO, MS (ORTHO)",
       "specialty": "Bone Joint, Orthopedic Specialist & Trauma Surgeon",
@@ -66,11 +82,14 @@
         "hospital": "Comilla Popular Hospital Pvt. Ltd.",
         "address": "Laksam Road, Cumilla",
         "visitingTime": "11am to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8801733228820"
-      },
-      "id": "765829d0-764b-4a38-91cb-33061321a923"
+        "appointmentNumber": "+8801733228820Call Now"
+      }
     },
     {
+      "id": "6a142cd2-9e66-4340-909d-48d7a0644ef3",
+      "departmentId": "763443cc-da21-4326-b43e-8b51cd5fb062",
+      "link": "https://www.doctorbangladesh.com/dr-md-khorshedul-alam/",
+      "imageId": "8bdeab06-af7e-4518-a9c1-4b5817c58050",
       "name": "Dr. Md. Khorshedul Alam",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Bone Joint, Orthopedic, Spine & Trauma Specialist Surgeon",
@@ -80,11 +99,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Comilla",
         "address": "House # 29, Kotbari Road, Tomsom Bridge, Cumilla",
         "visitingTime": "2pm to 4pm (Sun, Mon, Tue & Wed)",
-        "appointmentNumber": "+8801841212275"
-      },
-      "id": "a3374109-5e31-478c-a8cf-d99c4c981ae7"
+        "appointmentNumber": "+8801841212275Call Now"
+      }
     },
     {
+      "id": "d0d6b9e8-5034-4531-8007-a5d336b72f03",
+      "departmentId": "763443cc-da21-4326-b43e-8b51cd5fb062",
+      "link": "https://www.doctorbangladesh.com/dr-liton-kumar-roy/",
+      "imageId": "6119c3a1-35d0-46a7-881c-491f6a9821b8",
       "name": "Dr. Liton Kumar Roy",
       "degree": "MBBS, BCS (Health), MS (ORTHO)",
       "specialty": "Bone Joint, Orthopedic Specialist & Trauma Surgeon",
@@ -94,11 +116,14 @@
         "hospital": "Moon Hospital, Comilla",
         "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
         "visitingTime": "3pm to 8pm (Sat to Thu) & 9am to 12pm (Fri)",
-        "appointmentNumber": "+8801766556655"
-      },
-      "id": "b01b787a-3eaa-4873-840e-d422e0b3111e"
+        "appointmentNumber": "+8801766556655Call Now"
+      }
     },
     {
+      "id": "c0c150db-4294-4fab-bb52-8bd50b5a9ebd",
+      "departmentId": "763443cc-da21-4326-b43e-8b51cd5fb062",
+      "link": "https://www.doctorbangladesh.com/dr-ashraful-matin-sagor/",
+      "imageId": "6aaca539-349d-447a-a9f7-1ba4f62df421",
       "name": "Dr. Ashraful Matin Sagor",
       "degree": "MBBS, BCS (Health), MS (ORTHO)",
       "specialty": "Orthopedic, Trauma & Spine Specialist Surgeon",
@@ -108,11 +133,14 @@
         "hospital": "Moon Hospital, Comilla",
         "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
         "visitingTime": "3pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801673236771"
-      },
-      "id": "f5264af9-24fa-48c8-b77d-c73159fdb749"
+        "appointmentNumber": "+8801673236771Call Now"
+      }
     },
     {
+      "id": "6831c70d-cfe4-49dd-8f57-d8766ca9b6fa",
+      "departmentId": "763443cc-da21-4326-b43e-8b51cd5fb062",
+      "link": "https://www.doctorbangladesh.com/prof-dr-khaled-mahmud/",
+      "imageId": "54a1cb5f-cdf4-4f68-9e90-a4fd90014667",
       "name": "Prof. Dr. Khaled Mahmud",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Orthopedic, Trauma & Spine Specialist Surgeon",
@@ -122,11 +150,14 @@
         "hospital": "Gomati Hospital, Comilla",
         "address": "Nazrul Avenue, Kandirpar, Cumilla - 3500",
         "visitingTime": "5pm to 9pm (Closed: Friday & Saturday)",
-        "appointmentNumber": "+8801711798083"
-      },
-      "id": "86736906-b1cb-4f49-a6f5-c180e64f714a"
+        "appointmentNumber": "+8801711798083Call Now"
+      }
     },
     {
+      "id": "2eefe8a5-571f-48c6-b495-88414120ebfa",
+      "departmentId": "763443cc-da21-4326-b43e-8b51cd5fb062",
+      "link": "https://www.doctorbangladesh.com/dr-ripon-kumar-das/",
+      "imageId": "a13029c8-bdb8-475e-8f16-0126f3d5a13c",
       "name": "Dr. Ripon Kumar Das",
       "degree": "MBBS, D-ORTHO (NITOR), MS (Ortho Surgery)",
       "specialty": "Orthopedics (Bone, Joint, Arthritis, Trauma) Specialist & Spine Surgeon",
@@ -136,11 +167,14 @@
         "hospital": "CD Path & Hospital Pvt. Ltd.",
         "address": "Shishu Monagal Road, Badurtoal, Cumilla – 3500",
         "visitingTime": "3pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801708437887"
-      },
-      "id": "b84bf0c9-f37e-49bb-900c-5d801dd03965"
+        "appointmentNumber": "+8801708437887Call Now"
+      }
     },
     {
+      "id": "b85b2a30-fe38-4368-ae6c-9802f450a715",
+      "departmentId": "763443cc-da21-4326-b43e-8b51cd5fb062",
+      "link": "https://www.doctorbangladesh.com/dr-sheikh-abdullah-al-rafi/",
+      "imageId": "1cc85e3b-625f-403b-8a19-be2cc94c4c19",
       "name": "Dr. Sheikh Abdullah Al Rafi",
       "degree": "MBBS, D-ORTHO (NITOR), FIPM (India), DRM (India)",
       "specialty": "Minimal Invasive Orthopedic, Trauma & Spine Surgery Specialist",
@@ -150,25 +184,31 @@
         "hospital": "Comilla Trauma Center",
         "address": "511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla",
         "visitingTime": "10am to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8809612808182"
-      },
-      "id": "87d119bb-bbd0-4a81-826a-4d7dfc130a23"
+        "appointmentNumber": "+8809612808182Call Now"
+      }
     },
     {
+      "id": "5ef2fa3e-9978-4806-a6d0-5879496b06ae",
+      "departmentId": "763443cc-da21-4326-b43e-8b51cd5fb062",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-samiul-islam/",
+      "imageId": "d9d709ce-a7ee-485b-ac1a-ad7c6a732913",
       "name": "Dr. Mohammad Samiul Islam",
       "degree": "MBBS (DMC), BCS (Health), MS (ORTHO)",
       "specialty": "Bone Joint, Orthopedic, Spine & Trauma Specialist Surgeon",
       "workplace": "Cumilla Medical College & Hospital",
-      "info": "Ibn Sina Diagnostic Center, Comilla\nAddress: House # 29, Kotbari Road, Tomsom Bridge, Cumilla\nVisiting Hour: 5pm to 7pm (Sat, Sun, Tue & Wed)\nAppointment: +8801841212275\nCall Now",
+      "info": "Ibn Sina Diagnostic Center, Comilla Address: House # 29, Kotbari Road, Tomsom Bridge, Cumilla Visiting Hour: 5pm to 7pm (Sat, Sun, Tue & Wed) Appointment: +8801841212275 Call Now",
       "chamber": {
         "hospital": "CD Path & Hospital Pvt. Ltd.",
         "address": "Shishu Monagal Road, Badurtoal, Cumilla – 3500",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801708437887"
-      },
-      "id": "278979db-61cb-42a8-812b-f8defa648983"
+        "appointmentNumber": "+8801708437887Call Now"
+      }
     },
     {
+      "id": "ab1c19dd-cc5f-411c-ab7c-d1bf3d4fa684",
+      "departmentId": "763443cc-da21-4326-b43e-8b51cd5fb062",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahfuzur-rahaman-badol/",
+      "imageId": "f2886bd7-d023-4c5b-b214-5614d169a43b",
       "name": "Dr. Md. Mahfuzur Rahaman (Badol)",
       "degree": "MBBS, D-ORTHO (DU), Fellow (Pediatric Orthopedics)",
       "specialty": "Orthopedic Specialist & Trauma Surgeon",
@@ -178,53 +218,65 @@
         "hospital": "Comilla Trauma Center",
         "address": "511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla",
         "visitingTime": "3pm to 5pm (Tue, Wed, Thu & Fri)",
-        "appointmentNumber": "+8809612808182"
-      },
-      "id": "01fa67c7-12e0-4a08-80f6-38d5c7384e4b"
+        "appointmentNumber": "+8809612808182Call Now"
+      }
     },
     {
+      "id": "745c0739-bb38-4dc1-841b-95c5e5db77af",
+      "departmentId": "763443cc-da21-4326-b43e-8b51cd5fb062",
+      "link": "https://www.doctorbangladesh.com/dr-md-zulfiqur-haider-rajib/",
+      "imageId": "c4e22a59-3189-4d88-894d-14877aea8428",
       "name": "Dr. Md. Zulfiqur Haider Rajib",
       "degree": "MBBS (DU), BCS (Health), D-ORTHO (BSMMU)",
       "specialty": "Orthopedic & Trauma Sp, Orthopedic Surgeryecialist Surgeon",
       "workplace": "Cumilla Medical College & Hospital",
-      "info": "Midland Hospital, Comilla\nAddress: Room 204, Laksam Road, Ramghat, Kandirpar, Cumilla\nVisiting Hour: 4pm to 8.30pm (Closed: Tue & Friday)\nAppointment: +8801974803308\nCall Now",
+      "info": "Midland Hospital, Comilla Address: Room 204, Laksam Road, Ramghat, Kandirpar, Cumilla Visiting Hour: 4pm to 8.30pm (Closed: Tue & Friday) Appointment: +8801974803308 Call Now",
       "chamber": {
         "hospital": "Newvision Model Hospital, Comilla",
         "address": "Monjuri Square, EPZ East Gate, Medical College Road, Cumilla",
         "visitingTime": "2pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801841989297"
-      },
-      "id": "e326dbc5-0d53-4342-8f9d-9614b18c69b2"
+        "appointmentNumber": "+8801841989297Call Now"
+      }
     },
     {
+      "id": "68bd31a9-6b45-4ef5-8ceb-5a70c299d911",
+      "departmentId": "763443cc-da21-4326-b43e-8b51cd5fb062",
+      "link": "https://www.doctorbangladesh.com/dr-kazi-shahadat-hossain/",
+      "imageId": "bbd8fc21-054c-40ed-af42-a19463b250e8",
       "name": "Dr. Kazi Shahadat Hossain",
       "degree": "MBBS, D-ORTHO (BSMMU), CCD (BIRDEM)",
       "specialty": "Bone Joint, Orthopedic, Spine & Trauma Specialist Surgeon",
       "workplace": "Mainamoti Medical College & Hospital",
-      "info": "Comilla Mission Hospital\nAddress: Shasongacha, Railgate, Cumilla – 3500\nVisiting Hour: 2pm to 5pm (Sat, Sun & Wed)\nAppointment: +8801739142170\nCall Now",
+      "info": "Comilla Mission Hospital Address: Shasongacha, Railgate, Cumilla – 3500 Visiting Hour: 2pm to 5pm (Sat, Sun & Wed) Appointment: +8801739142170 Call Now",
       "chamber": {
         "hospital": "Moon Hospital, Comilla",
         "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
         "visitingTime": "5pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801673236771"
-      },
-      "id": "c850e746-15a4-4688-98fa-82b4f51eac30"
+        "appointmentNumber": "+8801673236771Call Now"
+      }
     },
     {
+      "id": "879b0aa7-be99-4cfa-a4be-56117987af2b",
+      "departmentId": "763443cc-da21-4326-b43e-8b51cd5fb062",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-aftab-uddin-bhuiyan/",
+      "imageId": "1a3e85e2-cce5-469b-a4bf-b56cfc80dc28",
       "name": "Dr. Mohammad Aftab Uddin Bhuiyan",
       "degree": "MBBS, D-ORTHO (DU)",
       "specialty": "Orthopedics Specialist & Surgeon",
       "workplace": "Central Medical College & Hospital, Comilla",
-      "info": "Modern Hospital, Comilla\nAddress: Laksam Road, Shaktola, Cumilla – 3500\nVisiting Hour: 9am to 2pm & 4pm to 8pm (Closed: Friday)\nAppointment: +8801711785199\nCall Now",
+      "info": "Modern Hospital, Comilla Address: Laksam Road, Shaktola, Cumilla – 3500 Visiting Hour: 9am to 2pm & 4pm to 8pm (Closed: Friday) Appointment: +8801711785199 Call Now",
       "chamber": {
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "9am to 1pm & 4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801738332616"
-      },
-      "id": "a718fdc3-9e11-49db-885e-c085a566a908"
+        "appointmentNumber": "+8801738332616Call Now"
+      }
     },
     {
+      "id": "45e64bdf-5f88-456f-9445-56f8aad73141",
+      "departmentId": "763443cc-da21-4326-b43e-8b51cd5fb062",
+      "link": "https://www.doctorbangladesh.com/dr-kawsar-hamid/",
+      "imageId": "bf57a561-d4f8-4b43-b6de-98e901619fdc",
       "name": "Dr. Kawsar Hamid",
       "degree": "MBBS, D-ORTHO (NITOR)",
       "specialty": "Bone Joint, Orthopedic Specialist & Trauma Surgeon",
@@ -234,11 +286,14 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "4pm to 8pm (Sun, Mon, Thu & Fri) & 7pm to 9pm (Sat, Tue & Wed)",
-        "appointmentNumber": "+8801716452732"
-      },
-      "id": "de35efc6-97bf-43c1-abb5-a6fc40420e28"
+        "appointmentNumber": "+8801716452732Call Now"
+      }
     },
     {
+      "id": "5d5cc2e9-65ee-4370-8538-752d5facb472",
+      "departmentId": "763443cc-da21-4326-b43e-8b51cd5fb062",
+      "link": "https://www.doctorbangladesh.com/dr-mainul-hasan-sohel/",
+      "imageId": "93b39ed3-357e-47f2-9376-300b2b45c120",
       "name": "Dr. Mainul Hasan Sohel",
       "degree": "MBBS, D-ORTHO",
       "specialty": "Orthopedic Specialist & Surgeon",
@@ -248,11 +303,14 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "4pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801714938626"
-      },
-      "id": "bde96b4a-840f-4514-84dd-fb40f4ff7463"
+        "appointmentNumber": "+8801714938626Call Now"
+      }
     },
     {
+      "id": "899caa66-db36-41be-9aab-e25eec86f8b5",
+      "departmentId": "763443cc-da21-4326-b43e-8b51cd5fb062",
+      "link": "https://www.doctorbangladesh.com/dr-a-k-azad-2/",
+      "imageId": "12c2b9ad-d348-4a14-b891-3b0a83bfba24",
       "name": "Dr. A.K Azad",
       "degree": "MBBS, D-ORTHO",
       "specialty": "Orthopedic Specialist & Trauma Surgeon",
@@ -262,11 +320,14 @@
         "hospital": "Comilla Popular Hospital Pvt. Ltd.",
         "address": "Laksam Road, Cumilla",
         "visitingTime": "1-am to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801711785442"
-      },
-      "id": "c699e0de-08c2-4c26-8a43-7ae03437b61f"
+        "appointmentNumber": "+8801711785442Call Now"
+      }
     },
     {
+      "id": "e0cd6c1b-b5d1-4df9-89df-5f1a283e2e8d",
+      "departmentId": "763443cc-da21-4326-b43e-8b51cd5fb062",
+      "link": "https://www.doctorbangladesh.com/dr-avijit-das-kanungo/",
+      "imageId": "ee62659a-49ec-4ad6-a041-9d6d519d2654",
       "name": "Dr. Avijit Das Kanungo",
       "degree": "MBBS, D-ORTHO (BSMMU)",
       "specialty": "Bone Joint, Orthopedic Specialist & Trauma Surgeon",
@@ -276,11 +337,14 @@
         "hospital": "Modern Hospital, Comilla",
         "address": "Laksam Road, Shaktola, Cumilla – 3500",
         "visitingTime": "4pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801711785199"
-      },
-      "id": "730714b1-1e7f-414d-bce6-f05379db1abf"
+        "appointmentNumber": "+8801711785199Call Now"
+      }
     },
     {
+      "id": "1f3df88b-1872-40a2-a125-3033e9c3f76d",
+      "departmentId": "763443cc-da21-4326-b43e-8b51cd5fb062",
+      "link": "https://www.doctorbangladesh.com/dr-md-tariqul-matin/",
+      "imageId": "6d58ce27-2af1-4fa3-a8a4-9f6e11f597a9",
       "name": "Dr. Md. Tariqul Matin",
       "degree": "MBBS, D-ORTHO (DU), AO Spine Basic & Advanced, MIS Course (India)",
       "specialty": "Orthopedic, Trauma & Spine Specialist Surgeon",
@@ -290,25 +354,31 @@
         "hospital": "Modern Hospital, Comilla",
         "address": "Laksam Road, Shaktola, Cumilla – 3500",
         "visitingTime": "5pm to 9pm (Only Friday)",
-        "appointmentNumber": "+8801711785199"
-      },
-      "id": "6295af90-6e22-41db-aa67-1d89a1174d13"
+        "appointmentNumber": "+8801711785199Call Now"
+      }
     },
     {
+      "id": "09c5a99c-d6ae-440f-b4d0-8cc443069c4e",
+      "departmentId": "763443cc-da21-4326-b43e-8b51cd5fb062",
+      "link": "https://www.doctorbangladesh.com/dr-md-bulbul-ahmed/",
+      "imageId": "94c735c0-8ba5-403a-80cc-98959cd1cc7e",
       "name": "Dr. Md. Bulbul Ahmed",
       "degree": "MBBS, BCS (Health), MS (Orthopedic Surgery)",
       "specialty": "Orthopedic (Bone, Joint, Arthritis, Spine) Specialist & Trauma Surgeon",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Human Diagnostic Center & Hospital, Comilla\nAddress: Racecourse (Beside Mukti Hospital), Cumilla\nVisiting Hour: 3.30pm to 8.30pm\nAppointment: +8801724081159\nCall Now",
+      "info": "Human Diagnostic Center & Hospital, Comilla Address: Racecourse (Beside Mukti Hospital), Cumilla Visiting Hour: 3.30pm to 8.30pm Appointment: +8801724081159 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Chittagong",
         "address": "Room 507, Block-B, 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "7pm to 10pm (Sunday & Wednesday)",
-        "appointmentNumber": "+8801620807692"
-      },
-      "id": "e0c924b9-c4cd-4091-9a01-b97a276cb5c0"
+        "appointmentNumber": "+8801620807692Call Now"
+      }
     },
     {
+      "id": "76237411-8a97-4f3a-8a37-d33d099e8e2a",
+      "departmentId": "763443cc-da21-4326-b43e-8b51cd5fb062",
+      "link": "https://www.doctorbangladesh.com/dr-md-oliur-rahman-faisal/",
+      "imageId": "100b11c2-c4a6-4738-abf8-0220cbc6d217",
       "name": "Dr. Md. Oliur Rahman Faisal",
       "degree": "MBBS, D-ORTHO (BSMMU), FIPM (INDIA)",
       "specialty": "Orthopedic Specialist & Trauma Surgeon",
@@ -318,25 +388,31 @@
         "hospital": "Sun Medical Services & Hospital",
         "address": "Room Number 303, 1217, Racecourse, Cumilla",
         "visitingTime": "10am to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801920214686"
-      },
-      "id": "38c231e1-fd7b-4e11-bd35-b12557b9728e"
+        "appointmentNumber": "+8801920214686Call Now"
+      }
     },
     {
+      "id": "f3f231b9-18dc-48be-80e4-d0c1053160fb",
+      "departmentId": "763443cc-da21-4326-b43e-8b51cd5fb062",
+      "link": "https://www.doctorbangladesh.com/dr-gazi-md-ariful-islam-velia/",
+      "imageId": "37f45cac-cb8b-41aa-8742-169934ad5548",
       "name": "Dr. Gazi Md. Ariful Islam (Velia)",
       "degree": "MBBS, BCS, MS - Orthopaedics Surgery",
       "specialty": "Orthopaedic Specialist & Trauma Surgeon",
       "workplace": "Cumilla Medical College & Hospital",
-      "info": "Comilla Trauma Center\nAddress: Room 706, New Building, Ranir Bazar Road, Kandirpar, Comilla\nVisiting Hour: 7pm to 9pm (Saturday to Wednesday)\nAppointment: +8801612371696, +8801817411495\nCall Now",
+      "info": "Comilla Trauma Center Address: Room 706, New Building, Ranir Bazar Road, Kandirpar, Comilla Visiting Hour: 7pm to 9pm (Saturday to Wednesday) Appointment: +8801612371696, +8801817411495 Call Now",
       "chamber": {
         "hospital": "Labaid Diagnostic, Cumilla",
         "address": "Room - 603, House # 622/3, Laksam Road, 2nd Kandir Par, Cumilla",
         "visitingTime": "3pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801612371696, +8801817411495"
-      },
-      "id": "b0f16e54-768e-4709-b7d2-5e4d3bcc199d"
+        "appointmentNumber": "+8801612371696, +8801817411495Call Now"
+      }
     },
     {
+      "id": "7c8866a4-37d9-423b-b63b-e1eacfd66807",
+      "departmentId": "763443cc-da21-4326-b43e-8b51cd5fb062",
+      "link": "https://www.doctorbangladesh.com/dr-shamal-chandra-bhowmik/",
+      "imageId": "814057d6-097b-4126-8fde-f1baed7c3a48",
       "name": "Dr. Shamal Chandra Bhowmik",
       "degree": "MBBS, BCS (Health), D-ORTHO (BSMMU), FCPS (Orthosurgery, Final)",
       "specialty": "Orthopedic Specialist & Trauma Surgeon",
@@ -346,11 +422,14 @@
         "hospital": "Medicomplex Souhardo Hospital",
         "address": "Bhadurtola, Kandirpar, Cumilla (front of Faizunnessa Govt School)",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801904311510"
-      },
-      "id": "31f643a1-e9ef-481f-80f5-b9953004b7ea"
+        "appointmentNumber": "+8801904311510Call Now"
+      }
     },
     {
+      "id": "c666decb-9d14-4de0-924d-2c4a6b88ac87",
+      "departmentId": "763443cc-da21-4326-b43e-8b51cd5fb062",
+      "link": "https://www.doctorbangladesh.com/dr-omar-faroque-bhuiyan/",
+      "imageId": "ccb0967b-6bec-4058-9a9b-faee99adda36",
       "name": "Dr. Omar Faroque Bhuiyan",
       "degree": "MBBS, D-ORTHO",
       "specialty": "Orthopedics (Bone, Joint, Spine) Specialist & Trauma Surgeon",
@@ -360,9 +439,8 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Room # 662, Bhaban-2, Comilla Tower, Laksam Road, Cumilla",
         "visitingTime": "10am to 2pm & 5pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801791919791"
-      },
-      "id": "11e53c8d-1d99-4563-9bd8-8e00fced0baf"
+        "appointmentNumber": "+8801791919791Call Now"
+      }
     }
   ]
 }

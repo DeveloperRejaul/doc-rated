@@ -1,48 +1,61 @@
 {
   "doctor": [
     {
+      "id": "092ba39f-6141-4fc2-a99c-b8cb78a96df2",
+      "departmentId": "db31a52f-5fba-4e17-a83e-e3c323d20e02",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-r-talukdar-mujib/",
+      "imageId": "a61d6df1-ca9f-40ce-8f04-f4d67995bf3f",
       "name": "Prof. Dr. M.R. Talukdar Mujib",
       "degree": "MBBS (Dhaka), MD (Child Health)",
       "specialty": "Neonatal, Adolescent & Child Diseases Specialist",
       "workplace": "Sher-E-Bangla Medical College & Hospital",
-      "info": "Islami Bank Hospital, Barisal\nAddress: Band Road, Chandmari, Barisal – 8200\nVisiting Hour: 3pm to 6pm (Closed: Thursday & Friday)\nAppointment: +8801810000121\nCall Now",
+      "info": "Islami Bank Hospital, Barisal Address: Band Road, Chandmari, Barisal – 8200 Visiting Hour: 3pm to 6pm (Closed: Thursday & Friday) Appointment: +8801810000121 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Barisal",
         "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
         "visitingTime": "11am to 2pm (Sun, Tue, Wed & Thursday), 2:30pm to 5pm (Sat & Monday)",
-        "appointmentNumber": "+8809666787819"
-      },
-      "id": "39e148dd-ddbf-463b-b167-31364b2c6208"
+        "appointmentNumber": "+8809666787819Call Now"
+      }
     },
     {
+      "id": "9e565374-76db-4545-8706-a61dd6bc2367",
+      "departmentId": "db31a52f-5fba-4e17-a83e-e3c323d20e02",
+      "link": "https://www.doctorbangladesh.com/prof-dr-syed-zahid-hossain/",
+      "imageId": "b16c9bf7-d43f-4d08-a1bd-edc1f27d6ea5",
       "name": "Prof. Dr. Syed Zahid Hossain",
       "degree": "MBBS, FCPS (Pediatrics), D-MED (AU), Fellow (AU)",
       "specialty": "Child Diseases Specialist",
       "workplace": "Sher-E-Bangla Medical College & Hospital",
-      "info": "Medinova Medical Services, Barisal\nAddress: K.B. Hemayet Uddin Road, Girja Moholla, Barisal\nVisiting Hour: 5pm to 10pm (Closed: Friday)\nAppointment: +8801711240969\nCall Now",
+      "info": "Medinova Medical Services, Barisal Address: K.B. Hemayet Uddin Road, Girja Moholla, Barisal Visiting Hour: 5pm to 10pm (Closed: Friday) Appointment: +8801711240969 Call Now",
       "chamber": {
         "hospital": "South Apollo Diagnostic Complex, Barisal",
         "address": "135, Sadar Road, Barisal",
         "visitingTime": "11am to 2pm (Video Call)",
-        "appointmentNumber": "+8801711457444"
-      },
-      "id": "20198060-1227-4221-af17-feb2ea7257ff"
+        "appointmentNumber": "+8801711457444Call Now"
+      }
     },
     {
+      "id": "bea49c82-47e7-48b9-a7b6-d0c38f6fae14",
+      "departmentId": "db31a52f-5fba-4e17-a83e-e3c323d20e02",
+      "link": "https://www.doctorbangladesh.com/dr-md-mujibur-rahman/",
+      "imageId": "aa210a3e-c6fa-4b60-beef-56b64bdd4411",
       "name": "Dr. Md. Mujibur Rahman",
       "degree": "MBBS, BCS (Health), FCPS (Neonatology), MD (Pediatrics)",
       "specialty": "Newborn, Adolescent & Child Diseases Specialist",
       "workplace": "Sher-E-Bangla Medical College & Hospital",
-      "info": "Islami Bank Hospital, Barisal\nAddress: Band Road, Chandmari, Barisal – 8200\nVisiting Hour: 4pm to 5pm (Closed: Friday)\nAppointment: +8801810000121\nCall Now",
+      "info": "Islami Bank Hospital, Barisal Address: Band Road, Chandmari, Barisal – 8200 Visiting Hour: 4pm to 5pm (Closed: Friday) Appointment: +8801810000121 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Barisal",
         "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
         "visitingTime": "2pm to 3pm (Sat to Thu), 5pm to 7pm (Friday)",
-        "appointmentNumber": "+8809666787819"
-      },
-      "id": "ba0c850a-6968-427e-a9eb-ec0df105a2dd"
+        "appointmentNumber": "+8809666787819Call Now"
+      }
     },
     {
+      "id": "b5d69529-686a-4743-84f4-fc0f0a76e2c7",
+      "departmentId": "db31a52f-5fba-4e17-a83e-e3c323d20e02",
+      "link": "https://www.doctorbangladesh.com/dr-ashish-kumar-halder/",
+      "imageId": "a4debf05-68fb-40d2-8a09-f138e04f22ab",
       "name": "Dr. Ashish Kumar Halder",
       "degree": "MBBS (Dhaka), DCH (Pediatrics), FCPS (Pediatrics)",
       "specialty": "Neonatal & Child Diseases Specialist",
@@ -52,39 +65,48 @@
         "hospital": "BellView Hospital & Medical Services, Barisal",
         "address": "114, Sadar Road, Barisal",
         "visitingTime": "5pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801733063692"
-      },
-      "id": "5215c27a-b914-4bc3-99e9-71a578f0e090"
+        "appointmentNumber": "+8801733063692Call Now"
+      }
     },
     {
+      "id": "cc88f339-9f2c-4169-9b58-90ab6a29bec2",
+      "departmentId": "db31a52f-5fba-4e17-a83e-e3c323d20e02",
+      "link": "https://www.doctorbangladesh.com/dr-abdul-hamid-sheikh/",
+      "imageId": "c3bed3b2-3fc4-4c4f-aded-6e304759de73",
       "name": "Dr. Abdul Hamid Sheikh",
       "degree": "MBBS, DCH, D-MED (UK), M-MED (UK)",
       "specialty": "Newborn, Adolescent & Child Diseases Specialist",
       "workplace": "Sher-E-Bangla Medical College & Hospital",
-      "info": "Rahat Anwar Hospital, Barisal\nAddress: Band Road, Chandmari, Barisal Sadar, Barisal – 8200\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8801711993953\nCall Now",
+      "info": "Rahat Anwar Hospital, Barisal Address: Band Road, Chandmari, Barisal Sadar, Barisal – 8200 Visiting Hour: Unknown. Please call to know visiting hour Appointment: +8801711993953 Call Now",
       "chamber": {
         "hospital": "South Apollo Diagnostic Complex, Barisal",
         "address": "135, Sadar Road, Barisal",
         "visitingTime": "10am to 2pm & 6pm to 10pm (Everyday)",
-        "appointmentNumber": "+8801711457444"
-      },
-      "id": "13ee790f-7118-4d1f-bcbf-cb5841b06e39"
+        "appointmentNumber": "+8801711457444Call Now"
+      }
     },
     {
+      "id": "86e5571d-2d33-47b2-bdcd-ec16a5b78387",
+      "departmentId": "db31a52f-5fba-4e17-a83e-e3c323d20e02",
+      "link": "https://www.doctorbangladesh.com/dr-shyamal-sarker/",
+      "imageId": "27dfafe2-7446-4aae-b33d-0fea514503e8",
       "name": "Dr. Shyamal Sarker",
       "degree": "MBBS, FCPS (Pediatrics), BCS (Health), FCPS (Pediatric Neurology & Development), PGPN (Boston, USA)",
       "specialty": "Child Neurologist & Child Specialist",
       "workplace": "National Institute of Neurosciences & Hospital",
-      "info": "Popular Diagnostic Center, Barisal\nAddress: 955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal\nVisiting Hour: 5pm to 11pm (Thursday) & 9am to 5pm (Friday)\nAppointment: +8809666787819\nCall Now",
+      "info": "Popular Diagnostic Center, Barisal Address: 955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal Visiting Hour: 5pm to 11pm (Thursday) & 9am to 5pm (Friday) Appointment: +8809666787819 Call Now",
       "chamber": {
         "hospital": "Global Specialized Hospital, Mirpur",
         "address": "Almas Tower, 282/1, First Kolony, Mazar Road, Mirpur, Dhaka",
         "visitingTime": "6pm to 9pm (Saturday to Wednesday)",
-        "appointmentNumber": "+8801715818883"
-      },
-      "id": "d128fb40-539a-4058-bff4-1930cbed318e"
+        "appointmentNumber": "+8801715818883Call Now"
+      }
     },
     {
+      "id": "50379565-7342-4e3a-8b0e-dbebd03ce37a",
+      "departmentId": "db31a52f-5fba-4e17-a83e-e3c323d20e02",
+      "link": "https://www.doctorbangladesh.com/dr-swapan-kumar-halder/",
+      "imageId": "8757e60a-9258-4fb5-8d72-06b5bd26136e",
       "name": "Dr. Swapan Kumar Halder",
       "degree": "MBBS, BCS (Health), MCPS, MD (Pediatrics), PGPN (USA)",
       "specialty": "Newborn, Child Diseases & Nutrition Specialist",
@@ -94,11 +116,14 @@
         "hospital": "Popular Diagnostic Center, Barisal",
         "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
         "visitingTime": "1:30pm to 2:30pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787819"
-      },
-      "id": "7f80c633-fa6b-47e7-b39b-8cd05902ffd1"
+        "appointmentNumber": "+8809666787819Call Now"
+      }
     },
     {
+      "id": "2033cb66-dc06-4e4d-84b0-6b53be6d1a52",
+      "departmentId": "db31a52f-5fba-4e17-a83e-e3c323d20e02",
+      "link": "https://www.doctorbangladesh.com/dr-b-c-biswas-bidhan/",
+      "imageId": "9de7fdc6-b4ad-4e81-b0dd-1dffedb51d71",
       "name": "Dr. B.C. Biswas Bidhan",
       "degree": "MBBS, DCH (Child), MD (Neonatology)",
       "specialty": "Newborn & Child Specialist",
@@ -108,11 +133,14 @@
         "hospital": "Popular Diagnostic Center, Barisal",
         "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
         "visitingTime": "3pm to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787819"
-      },
-      "id": "86588207-b658-4f61-9e1f-78fe84edef50"
+        "appointmentNumber": "+8809666787819Call Now"
+      }
     },
     {
+      "id": "d85b15a3-b606-41d3-8f20-e40c279b2dbb",
+      "departmentId": "db31a52f-5fba-4e17-a83e-e3c323d20e02",
+      "link": "https://www.doctorbangladesh.com/dr-md-ali-hasan/",
+      "imageId": "46a78ec0-ba17-4810-ac3a-68d9167c94f2",
       "name": "Dr. Md. Ali Hasan",
       "degree": "MBBS, DCH (BSMMU), PGPN (BOSTON, USA)",
       "specialty": "Child Diseases & Nutrition Specialist",
@@ -122,11 +150,14 @@
         "hospital": "Medinova Medical Services, Barisal",
         "address": "K.B. Hemayet Uddin Road, Girja Moholla, Barisal",
         "visitingTime": "10am to 1pm (Closed: Friday & Saturday)",
-        "appointmentNumber": "+8801711240969"
-      },
-      "id": "3f0fcdf7-a944-435b-bcb1-b5f8306b407c"
+        "appointmentNumber": "+8801711240969Call Now"
+      }
     },
     {
+      "id": "0e1e31ae-303d-45bb-aa4c-088821709941",
+      "departmentId": "db31a52f-5fba-4e17-a83e-e3c323d20e02",
+      "link": "https://www.doctorbangladesh.com/dr-shoyeb-h-khan/",
+      "imageId": "af99689b-d49e-444c-9d5e-a178c3376fff",
       "name": "Dr. Shoyeb H Khan",
       "degree": "MBBS (DU), DCH (Child Health), MAAP (USA)",
       "specialty": "Newborn, Adolescent & Child Diseases Specialist",
@@ -136,39 +167,48 @@
         "hospital": "Rahat Anwar Hospital, Barisal",
         "address": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801711993953"
-      },
-      "id": "831533b7-103f-43cc-a36d-7fad860f38c1"
+        "appointmentNumber": "+8801711993953Call Now"
+      }
     },
     {
+      "id": "4371dc2a-1a46-473f-8a65-00fd2b0d4547",
+      "departmentId": "db31a52f-5fba-4e17-a83e-e3c323d20e02",
+      "link": "https://www.doctorbangladesh.com/prof-dr-asim-kumar-saha/",
+      "imageId": "da782eb0-228b-429c-b38d-d46d34460156",
       "name": "Prof. Dr. Asim Kumar Saha",
       "degree": "MBBS, DCH, MCPS, FCPS, FRCP (Glasgow)",
       "specialty": "Newborn, Adolescent & Child Diseases Specialist",
       "workplace": "Sher-E-Bangla Medical College & Hospital",
-      "info": "Sumi Pathology, Jhalakathi\nAddress: Nilakkho’- 226/1, Station Road, Jhalakathi\nVisiting Hour: 5.30pm to 10pm (Everyday)\nAppointment: +8801721875245\nCall Now",
+      "info": "Sumi Pathology, Jhalakathi Address: Nilakkho’- 226/1, Station Road, Jhalakathi Visiting Hour: 5.30pm to 10pm (Everyday) Appointment: +8801721875245 Call Now",
       "chamber": {
         "hospital": "DLAB Medical Services, Barisal",
         "address": "109, Birsreshtho Mohiuddin Jahangir Sorok (Sadar Road), Barisal",
         "visitingTime": "2pm to 5pm (Sunday, Tuesday & Thursday)",
-        "appointmentNumber": "+8801767683400"
-      },
-      "id": "034231cf-6259-4057-9c2c-59ca7517ccb8"
+        "appointmentNumber": "+8801767683400Call Now"
+      }
     },
     {
+      "id": "352a8ca4-c636-4f1c-88b9-bb962311aaca",
+      "departmentId": "db31a52f-5fba-4e17-a83e-e3c323d20e02",
+      "link": "https://www.doctorbangladesh.com/dr-md-nurul-alam-child/",
+      "imageId": "dbdd92ad-ea6c-4037-aad3-1a610ea071c3",
       "name": "Dr. Md. Nurul Alam",
       "degree": "MBBS, DCH, FCPS (Pediatrics)",
       "specialty": "Child Specialist",
       "workplace": "Sher-E-Bangla Medical College & Hospital",
-      "info": "Rahat Anwar Hospital, Barisal\nAddress: Band Road, Chandmari, Barisal Sadar, Barisal – 8200\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8801711993953\nCall Now",
+      "info": "Rahat Anwar Hospital, Barisal Address: Band Road, Chandmari, Barisal Sadar, Barisal – 8200 Visiting Hour: Unknown. Please call to know visiting hour Appointment: +8801711993953 Call Now",
       "chamber": {
         "hospital": "Islami Bank Hospital, Barisal",
         "address": "Band Road, Chandmari, Barisal - 8200",
         "visitingTime": "2pm to 4pm (Closed: Friday)",
-        "appointmentNumber": "+8801318321847"
-      },
-      "id": "6d8a5b4f-7c16-4c1f-8654-e3e3cdf40cf3"
+        "appointmentNumber": "+8801318321847Call Now"
+      }
     },
     {
+      "id": "380accac-1139-4482-8030-3b1843fdf319",
+      "departmentId": "db31a52f-5fba-4e17-a83e-e3c323d20e02",
+      "link": "https://www.doctorbangladesh.com/dr-salah-al-din-bin-nasir-rasel/",
+      "imageId": "dfca905f-cb5a-42ba-81a1-7dab6d8acf45",
       "name": "Dr. Salah-Al-Din-Bin-Nasir (Rasel)",
       "degree": "MBBS, BCS (Health), DCH, CCD (BIRDEM), DLP in Asthma (UK & ICDDRB)",
       "specialty": "Newborn & Child Disease Specialist",
@@ -178,11 +218,14 @@
         "hospital": "Rahat Anwar Hospital, Barisal",
         "address": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801711993953"
-      },
-      "id": "74c428d7-b199-444a-a279-ebefe4edfb23"
+        "appointmentNumber": "+8801711993953Call Now"
+      }
     },
     {
+      "id": "fcf149d2-9c75-41a4-abe5-256ec2ad0da2",
+      "departmentId": "db31a52f-5fba-4e17-a83e-e3c323d20e02",
+      "link": "https://www.doctorbangladesh.com/dr-j-c-mistry/",
+      "imageId": "574ab722-87c6-48ef-8025-64354cb46712",
       "name": "Dr. J.C. Mistry",
       "degree": "MBBS (Dhaka), DCH, PGPN (Boston), IPPN (Australia)",
       "specialty": "Newborn, Child Diseases Specialist and Child Nutritionist",
@@ -192,9 +235,8 @@
         "hospital": "Icon Medical Services, Barisal",
         "address": "514, Agorpur Road, Front of Mohila College, Beside Pressclub, Barisal",
         "visitingTime": "2pm to 8.30pm (Closed: Mon & Friday)",
-        "appointmentNumber": "+8801782402628"
-      },
-      "id": "02cc8013-3da9-4cd2-96aa-77e65f2b0a0e"
+        "appointmentNumber": "+8801782402628Call Now"
+      }
     }
   ]
 }

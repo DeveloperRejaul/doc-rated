@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "99042782-1a3c-4f40-a4a3-aaeace48eb36",
+      "departmentId": "be0528fc-0693-4670-a7cc-2b60474ab008",
+      "link": "https://www.doctorbangladesh.com/prof-dr-habibur-rahman-ped/",
+      "imageId": "cddad2fb-b3b0-44b9-af5b-f41c515e9c3b",
       "name": "Prof. Dr. Habibur Rahman",
       "degree": "MBBS, FCPS (Pediatrics), MD (Pediatrics Nephrology)",
       "specialty": "Child & Child Kidney Diseases Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Central Hospital, Dhanmondi",
         "address": "House # 02, Road # 05, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "4pm to 8.30pm (Closed: Friday)",
-        "appointmentNumber": "+8802-41060800"
-      },
-      "id": "a0e2835e-42fe-4cf4-a1b5-d543d1e233a5"
+        "appointmentNumber": "+8802-41060800Call Now"
+      }
     },
     {
+      "id": "15b3a23e-436f-4146-99b6-728f7f6ea7e6",
+      "departmentId": "be0528fc-0693-4670-a7cc-2b60474ab008",
+      "link": "https://www.doctorbangladesh.com/dr-syed-saimul-haque/",
+      "imageId": "40ecd6fd-869d-46dc-97c5-120e28b10231",
       "name": "Dr. Syed Saimul Haque",
       "degree": "MBBS, MD (Child Kidney), Clinical Fellow (Child Kidney Diseases)",
       "specialty": "Child Kidney Diseases Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "6pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "b2a50f08-9737-4d88-8020-3958c02796d1"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "c52aed33-b041-48e4-abdc-caa193c34552",
+      "departmentId": "be0528fc-0693-4670-a7cc-2b60474ab008",
+      "link": "https://www.doctorbangladesh.com/dr-abdullah-al-mamun-kidney/",
+      "imageId": "ef530d78-2c70-4f7d-963b-c1f35da71ad6",
       "name": "Dr. Abdullah Al Mamun",
       "degree": "MBBS, MD (Pediatric Nephrology), Fellow - ISPD (Bangalore, India)",
       "specialty": "Child Kidney Diseases Specialist",
@@ -38,11 +48,14 @@
         "hospital": "BRB Hospital, Dhaka",
         "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801777764800"
-      },
-      "id": "c9923358-ee46-423d-8cc7-028433c5f8f3"
+        "appointmentNumber": "+8801777764800Call Now"
+      }
     },
     {
+      "id": "b57afb90-0f07-4ea4-84ba-296ce16151c2",
+      "departmentId": "be0528fc-0693-4670-a7cc-2b60474ab008",
+      "link": "https://www.doctorbangladesh.com/prof-dr-afroza-begum/",
+      "imageId": "d35c3dc9-6eda-4a65-906d-044f6a9505f8",
       "name": "Prof. Dr. Afroza Begum",
       "degree": "MBBS (DU), FCPS (Child), MD (Child Kidney), FRCP (UK), WHO Fellow (AIIMS, Delhi)",
       "specialty": "Child & Child Kidney Diseases Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Monowara Hospital (Pvt) Ltd.",
         "address": "54, Siddeshwari Road, Dhaka-1217, Bangladesh",
         "visitingTime": "5pm to 8pm (Sunday to Saturday) (Except National Holidays)",
-        "appointmentNumber": "+8801789446240"
-      },
-      "id": "afcb1ccc-96a0-44a6-9083-6f12f7c83c6f"
+        "appointmentNumber": "+8801789446240Call Now"
+      }
     },
     {
+      "id": "48fc9fa5-4668-4114-945d-a912c59f96da",
+      "departmentId": "be0528fc-0693-4670-a7cc-2b60474ab008",
+      "link": "https://www.doctorbangladesh.com/prof-dr-golam-muin-uddin/",
+      "imageId": "2b129c18-1905-40ff-95c4-122a312d326e",
       "name": "Prof. Dr. Golam Muin Uddin",
       "degree": "MBBS, FCPS (Pediatrics), FRCP (Edinburgh, UK)",
       "specialty": "Child Diseases Specialist & Pediatric Nephrologist/Child Kidney Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Anwer Khan Modern Diagnostic Centre, Banani",
         "address": "Plot: 11, Road: 11, Block: G, Flat: 1/A (1st & 2nd Floor), Banani, Dhaka",
         "visitingTime": "10am to 12pm (Closed: Friday)",
-        "appointmentNumber": "+8801705407170"
-      },
-      "id": "5657a525-c3c9-418f-8481-b634c7281394"
+        "appointmentNumber": "+8801705407170Call Now"
+      }
     },
     {
+      "id": "d6205f4d-94fa-4975-bc25-d3e1e5ef58a0",
+      "departmentId": "be0528fc-0693-4670-a7cc-2b60474ab008",
+      "link": "https://www.doctorbangladesh.com/dr-tarannum-khondaker/",
+      "imageId": "83d8fe28-4cad-42a0-948a-1049c198da84",
       "name": "Dr. Tarannum Khondaker",
       "degree": "MBBS, MCPS (Paediatrics), FCPS (Paediatrics), FCPS (Paediatric Nephrology), IPNA Fellow (Bangalore, India)",
       "specialty": "Child & Child Kidney Diseases Specialist",
@@ -80,9 +99,8 @@
         "hospital": "SIBL Foundation Hospital & Diagnostic Center",
         "address": "Fattah Plaza, 70, Green Road, Panthapath, Dhaka - 1205",
         "visitingTime": "5pm to 8pm (Sat, Mon, Tues, Wed)",
-        "appointmentNumber": "+8801958339339"
-      },
-      "id": "8187bb75-a4f9-4fe4-9a9a-018ffecbbfe6"
+        "appointmentNumber": "+8801958339339Call Now"
+      }
     }
   ]
 }

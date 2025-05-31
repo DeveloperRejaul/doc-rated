@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "76620f35-0554-4395-bcb1-a773040f1ce4",
+      "departmentId": "dc3ae160-fa91-4c8b-852c-9ad198ee2f74",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-saiful-islam/",
+      "imageId": "962aaa77-d0e5-4de2-9059-eecf86e3323e",
       "name": "Dr. Mohammad Saiful Islam",
       "degree": "MBBS (Dhaka), BCS (Health), MS (Ortho), FACS (USA), FICS (USA)",
       "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
@@ -10,11 +14,14 @@
         "hospital": "Popular Diagnostic Center, Mymensingh",
         "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
         "visitingTime": "5pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801777339228"
-      },
-      "id": "0ece021d-374e-4894-8a77-8c3ce9ad54b0"
+        "appointmentNumber": "+8801777339228Call Now"
+      }
     },
     {
+      "id": "6b8e3d89-830b-4f04-8382-207fb8d15c47",
+      "departmentId": "dc3ae160-fa91-4c8b-852c-9ad198ee2f74",
+      "link": "https://www.doctorbangladesh.com/dr-malay-kumar-saha/",
+      "imageId": "facadefb-1813-45fb-8526-b15214684c8f",
       "name": "Dr. Malay Kumar Saha",
       "degree": "MBBS, D-ORTHO (NITOR), MS-ORTHO (NITOR)",
       "specialty": "Bone, Joint, Orthopedic Specialist & Trauma Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "Popular Diagnostic Center, Mymensingh",
         "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787814"
-      },
-      "id": "675baf7f-1454-48f5-a5de-6dfd354eff20"
+        "appointmentNumber": "+8809666787814Call Now"
+      }
     },
     {
+      "id": "93a08643-9bfc-4927-9859-9e535b4b02c1",
+      "departmentId": "dc3ae160-fa91-4c8b-852c-9ad198ee2f74",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-tariqul-alam-noman/",
+      "imageId": "035a11d2-2020-4586-a1ca-fd22364c57c1",
       "name": "Dr. Mohammad Tariqul Alam Noman",
       "degree": "MBBS, MS (Ortho Surgery), Fellow AOAF (India), Fellow Pediatric Orthopedic (Korea)",
       "specialty": "Pediatric Orthopedic Specialist & Spine Surgeon",
@@ -38,11 +48,14 @@
         "hospital": "Popular Diagnostic Center, Mymensingh",
         "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
         "visitingTime": "3pm to 7pm (Sat to Thu) & 9am to 12pm (Fri)",
-        "appointmentNumber": "+8809666787814"
-      },
-      "id": "920e92bc-4441-4849-8f4c-b60f14e948f3"
+        "appointmentNumber": "+8809666787814Call Now"
+      }
     },
     {
+      "id": "dc9d7bb1-b22c-4387-a758-5e8d99afcf0e",
+      "departmentId": "dc3ae160-fa91-4c8b-852c-9ad198ee2f74",
+      "link": "https://www.doctorbangladesh.com/dr-zahid-hasan-hemal/",
+      "imageId": "6734a45d-a4d1-4638-80c7-2907eb3943de",
       "name": "Dr. Zahid Hasan Hemal",
       "degree": "MBBS, BCS (HEALTH), D-ORTHO (BSMMU), AO Trauma (Basic), AO Trauma (Advance)",
       "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
@@ -52,11 +65,14 @@
         "hospital": "Falaq Diagnostic & Hospital, Mymensingh",
         "address": "55/5 (Medical College Gate), Charpara, Mymensingh",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801737284876"
-      },
-      "id": "fe5a01a7-78f6-4060-900a-e898d55828dd"
+        "appointmentNumber": "+8801737284876Call Now"
+      }
     },
     {
+      "id": "d7baba80-b937-4399-8c6f-4f80c14380f6",
+      "departmentId": "dc3ae160-fa91-4c8b-852c-9ad198ee2f74",
+      "link": "https://www.doctorbangladesh.com/dr-khandaker-abu-sayed/",
+      "imageId": "4dcd1983-df77-4e25-89fd-709cae91a6ba",
       "name": "Dr. Khandaker Abu Sayed",
       "degree": "MBBS, BCS (Health), MS (Orthopedic)",
       "specialty": "Bone, Joint, Orthopedic Specialist & Trauma Surgeon",
@@ -66,39 +82,48 @@
         "hospital": "Labaid Diagnostic, Mymensingh",
         "address": "72, Charpara, Medical College Gate, Mymensingh",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801766663000"
-      },
-      "id": "f42eb2e4-1efb-4050-9dd5-40fbba0239ef"
+        "appointmentNumber": "+8801766663000Call Now"
+      }
     },
     {
+      "id": "9a55ca0c-f900-4e0d-9c04-05aa1cc8bc89",
+      "departmentId": "dc3ae160-fa91-4c8b-852c-9ad198ee2f74",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-nasir-uddin-ortho/",
+      "imageId": "10f206e3-9ba0-41a7-9c5d-86289a1fad54",
       "name": "Prof. Dr. Md. Nasir Uddin",
       "degree": "MBBS (DHAKA), D-ORTHO (DU)",
       "specialty": "Orthopedic Specialist, Trauma & Spine Surgeon",
       "workplace": "Community Based Medical College & Hospital",
-      "info": "TMC Diagnostic & Hospital, Mymensingh\nAddress: Zeropoint, Noudhar, Trishal, Mymensingh – 2220\nVisiting Hour: 2.30pm to 4pm (Tue, Wed & Thu)\nAppointment: +8801774955555\nCall Now",
+      "info": "TMC Diagnostic & Hospital, Mymensingh Address: Zeropoint, Noudhar, Trishal, Mymensingh – 2220 Visiting Hour: 2.30pm to 4pm (Tue, Wed & Thu) Appointment: +8801774955555 Call Now",
       "chamber": {
         "hospital": "Pranto Specialized Hospital, Mymensingh",
         "address": "67, Charpara, Mymensingh",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801788222000"
-      },
-      "id": "18bd63b3-d1ca-4198-b229-935e92c073b1"
+        "appointmentNumber": "+8801788222000Call Now"
+      }
     },
     {
+      "id": "4ba9c520-c012-4659-bfb4-9bf8f123e0a6",
+      "departmentId": "dc3ae160-fa91-4c8b-852c-9ad198ee2f74",
+      "link": "https://www.doctorbangladesh.com/dr-belayet-hossain/",
+      "imageId": "7b38f595-e7a6-4de5-9c18-0e4bea5e1cf0",
       "name": "Dr. Belayet Hossain",
       "degree": "MBBS (DMC), MS (Ortho Surgery)",
       "specialty": "Orthopedic (Bone, Joint, Accident, Injury) Specialist & Trauma Surgeon",
       "workplace": "Mymensingh Medical College & Hospital",
-      "info": "Sodesh Hospital, Mymensingh\nAddress: 298/2, Maskanda (Bus Stand), Mymensingh – 2200\nVisiting Hour: 5pm to 8pm (Closed: Friday)\nAppointment: +8809666777990\nCall Now",
+      "info": "Sodesh Hospital, Mymensingh Address: 298/2, Maskanda (Bus Stand), Mymensingh – 2200 Visiting Hour: 5pm to 8pm (Closed: Friday) Appointment: +8809666777990 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Mymensingh",
         "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
         "visitingTime": "11.30am to 2pm, 5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787814"
-      },
-      "id": "da3319f1-cba2-4856-b79a-5503052e2e5d"
+        "appointmentNumber": "+8809666787814Call Now"
+      }
     },
     {
+      "id": "886d69b1-0a11-43f7-9b73-885ea814a79d",
+      "departmentId": "dc3ae160-fa91-4c8b-852c-9ad198ee2f74",
+      "link": "https://www.doctorbangladesh.com/dr-md-nurul-islam-akanda/",
+      "imageId": "06da8f57-c8b7-4809-bd1c-fb5e323b4f0b",
       "name": "Dr. Md. Nurul Islam Akanda",
       "degree": "MBBS, D-ORTHO (DU), FWHO (Spine Surgery), APOA (AU), EOF (RU)",
       "specialty": "Orthopedic Specialist, Trauma & Spine Surgeon",
@@ -108,11 +133,14 @@
         "hospital": "Sodesh Hospital, Mymensingh",
         "address": "298/2, Maskanda (Bus Stand), Mymensingh - 2200",
         "visitingTime": "10:30am to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8809666777990"
-      },
-      "id": "609d16f3-69b0-4f66-bd75-07d6250eb606"
+        "appointmentNumber": "+8809666777990Call Now"
+      }
     },
     {
+      "id": "3fdb6c46-193d-4803-9f35-1e0d34c70885",
+      "departmentId": "dc3ae160-fa91-4c8b-852c-9ad198ee2f74",
+      "link": "https://www.doctorbangladesh.com/dr-m-aminul-islam/",
+      "imageId": "7c1ebb16-aa07-4056-bcaf-e0cf7c28277b",
       "name": "Dr. Md. Aminul Islam",
       "degree": "MBBS, MS (Ortho Surgery), Member (AO Trauma & Spine)",
       "specialty": "Orthopedic Specialist & Spine Surgeon",
@@ -122,25 +150,31 @@
         "hospital": "Popular Diagnostic Center, Mymensingh",
         "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
         "visitingTime": "3:30pm to 8pm (Closed: Friday & Saturday)",
-        "appointmentNumber": "+8809666787814"
-      },
-      "id": "a19f7304-7759-45e6-8bcc-f62705174186"
+        "appointmentNumber": "+8809666787814Call Now"
+      }
     },
     {
+      "id": "bef48716-b655-4030-89c6-5912e5200c47",
+      "departmentId": "dc3ae160-fa91-4c8b-852c-9ad198ee2f74",
+      "link": "https://www.doctorbangladesh.com/dr-mamunur-rashid-chowdhury/",
+      "imageId": "2a8f81c7-72f9-40a4-b865-3c48a912beba",
       "name": "Dr. Mamunur Rashid Chowdhury",
       "degree": "MBBS (Dhaka), D-Ortho (Dhaka), Member (APOA & APSS)",
       "specialty": "Orthopedic Specialist & Trauma Surgeon",
       "workplace": "Community Based Medical College & Hospital",
-      "info": "Sodesh Hospital, Mymensingh\nAddress: 298/2, Maskanda (Bus Stand), Mymensingh – 2200\nVisiting Hour: 2:30pm to 6pm (Closed: Thu & Friday)\nAppointment: +8809666777990\nCall Now",
+      "info": "Sodesh Hospital, Mymensingh Address: 298/2, Maskanda (Bus Stand), Mymensingh – 2200 Visiting Hour: 2:30pm to 6pm (Closed: Thu & Friday) Appointment: +8809666777990 Call Now",
       "chamber": {
         "hospital": "Nexus Hospital, Mymensingh",
         "address": "29, Sehora, Mymensingh Sadar, Mymensingh – 2200",
         "visitingTime": "4.30pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801796586561"
-      },
-      "id": "0c389dc9-e21c-403b-bf25-8a0c6ad0ab52"
+        "appointmentNumber": "+8801796586561Call Now"
+      }
     },
     {
+      "id": "f88286e1-4894-491d-a9be-94e4f7619c6f",
+      "departmentId": "dc3ae160-fa91-4c8b-852c-9ad198ee2f74",
+      "link": "https://www.doctorbangladesh.com/dr-khandaker-hafijur-rahman/",
+      "imageId": "df451d6e-fc4f-4c98-baa9-ceadb9733c8d",
       "name": "Dr. Khandaker Hafijur Rahman",
       "degree": "MBBS, BCS (Health), MS (ORTHO), FCPS (Surgery)",
       "specialty": "Orthopedics (Bone, Joint, Arthritis, Trauma, Spine) Specialist & Surgeon",
@@ -150,11 +184,14 @@
         "hospital": "Memorial Diagnostic Center",
         "address": "Haque Mansion, Charpara (Opposite to Hospital Gate), Mymensingh",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801747750114"
-      },
-      "id": "ddb67b03-4d82-42b4-a18f-b239e72efb79"
+        "appointmentNumber": "+8801747750114Call Now"
+      }
     },
     {
+      "id": "23c85690-7f43-494a-b583-6e40e4a0ee4b",
+      "departmentId": "dc3ae160-fa91-4c8b-852c-9ad198ee2f74",
+      "link": "https://www.doctorbangladesh.com/dr-a-k-m-nazmul-haque/",
+      "imageId": "d3614602-1b21-4d4e-b4d6-5403b44c080f",
       "name": "Dr. A.K.M. Nazmul Haque",
       "degree": "MBBS, BCS (Health), MS (Ortho Surgery)",
       "specialty": "Orthopedic Surgeon",
@@ -164,11 +201,14 @@
         "hospital": "Popular Diagnostic Center, Mymensingh",
         "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
         "visitingTime": "3pm to 8.30pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787814"
-      },
-      "id": "26c2247d-1723-42f9-920b-1b39dd74b0f6"
+        "appointmentNumber": "+8809666787814Call Now"
+      }
     },
     {
+      "id": "1ed9d58f-e655-4600-b5d0-7dfc934c81fa",
+      "departmentId": "dc3ae160-fa91-4c8b-852c-9ad198ee2f74",
+      "link": "https://www.doctorbangladesh.com/dr-a-k-m-mustafizur-rahman-mintu/",
+      "imageId": "6df82c71-c922-4a74-9197-8133d976794c",
       "name": "Dr. A.K.M. Mustafizur Rahman Mintu",
       "degree": "MBBS (Dhaka), BCS (Health), D-ORTHO, FCPS (Final Part)",
       "specialty": "Orthopedic Specialist & Trauma Surgeon",
@@ -178,11 +218,14 @@
         "hospital": "Labaid Diagnostic, Mymensingh",
         "address": "72, Charpara, Medical College Gate, Mymensingh",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801766663000"
-      },
-      "id": "b08c4a69-cb01-453c-a2f2-2b80214e94e1"
+        "appointmentNumber": "+8801766663000Call Now"
+      }
     },
     {
+      "id": "a066bf51-6bf2-45f9-8890-178124816913",
+      "departmentId": "dc3ae160-fa91-4c8b-852c-9ad198ee2f74",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-ali-shahin/",
+      "imageId": "73c79c54-6b39-49ad-8a65-ca533e9aa546",
       "name": "Dr. Mohammad Ali Shahin",
       "degree": "MBBS, D-ORTHO (DU)",
       "specialty": "Orthopedic Specialist & Surgeon",
@@ -192,11 +235,14 @@
         "hospital": "Delta Health Care, Mymensingh",
         "address": "55/5, Medical College Gate, Charpara, Mymensingh",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801847158301"
-      },
-      "id": "66652060-1d27-45b8-bf9e-ea73231dffdb"
+        "appointmentNumber": "+8801847158301Call Now"
+      }
     },
     {
+      "id": "40587ca3-02bd-4f0f-905d-afa8d63b3cf6",
+      "departmentId": "dc3ae160-fa91-4c8b-852c-9ad198ee2f74",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-imdadul-haque-shakil/",
+      "imageId": "84d19f77-1b3a-46d3-9bb4-0857424ba4ff",
       "name": "Dr. Mohammad Imdadul Haque Shakil",
       "degree": "MBBS, D-ORTHO (DU)",
       "specialty": "Orthopedic Specialist & Trauma Surgeon",
@@ -206,25 +252,31 @@
         "hospital": "Delta Health Care, Mymensingh",
         "address": "55/5, Medical College Gate, Charpara, Mymensingh",
         "visitingTime": "3pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801847158301"
-      },
-      "id": "7e3f40bf-efb8-4a51-80a2-48005a5c0f1b"
+        "appointmentNumber": "+8801847158301Call Now"
+      }
     },
     {
+      "id": "b5f08dd5-1daf-4aa7-9270-f920bc85140f",
+      "departmentId": "dc3ae160-fa91-4c8b-852c-9ad198ee2f74",
+      "link": "https://www.doctorbangladesh.com/dr-md-moshrekul-islam-moni/",
+      "imageId": "3a15d1dd-6d40-486f-bd2e-974cea05299b",
       "name": "Dr. Md. Mosrekul Islam Moni",
       "degree": "MBBS, BCS (Health), FCPS (Surgery), D-Ortho (BSMMU), FCPS (Ortho), MRCS (UK)",
       "specialty": "General, Colorectal, Breast & Orthopedic Surgeon",
       "workplace": "Mymensingh Medical College & Hospital",
-      "info": "Nexus Hospital, Mymensingh\nAddress: 29, Sehora, Mymensingh Sadar, Mymensingh – 2200\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8801796586561\nCall Now",
+      "info": "Nexus Hospital, Mymensingh Address: 29, Sehora, Mymensingh Sadar, Mymensingh – 2200 Visiting Hour: Unknown. Please call to know visiting hour Appointment: +8801796586561 Call Now",
       "chamber": {
         "hospital": "Union Specialized Hospital, Mymensingh",
         "address": "337, Charpara, Mymensingh",
         "visitingTime": "4pm to 9pm (Closed: Sun & Monday)",
-        "appointmentNumber": "+8801958280000"
-      },
-      "id": "90e2ca2f-b52b-4ba6-8f00-f6ebe182ecd3"
+        "appointmentNumber": "+8801958280000Call Now"
+      }
     },
     {
+      "id": "96aa91b3-6bf5-469b-9d33-d37659c8bc8f",
+      "departmentId": "dc3ae160-fa91-4c8b-852c-9ad198ee2f74",
+      "link": "https://www.doctorbangladesh.com/dr-md-sazzad-hosen-dipu/",
+      "imageId": "67bf7469-02f8-468c-ae9f-8d1512601b6b",
       "name": "Dr. Md. Sazzad Hosen (Dipu)",
       "degree": "MBBS (Dhaka), BCS (Health), MS (Orthopedics Surgery), FCPS (Ortho Surgery)",
       "specialty": "Orthopedics (Bone, Joint, Spine) Specialist & Trauma Surgeon",
@@ -234,9 +286,8 @@
         "hospital": "Mymensingh Divisional Specialized Hospital",
         "address": "171, Isha Kha Tower, Dhaka Road, Charpara, Mymensingh",
         "visitingTime": "3pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801762124047"
-      },
-      "id": "332774c5-1ff4-4805-87d6-80eea0a860b3"
+        "appointmentNumber": "+8801762124047Call Now"
+      }
     }
   ]
 }

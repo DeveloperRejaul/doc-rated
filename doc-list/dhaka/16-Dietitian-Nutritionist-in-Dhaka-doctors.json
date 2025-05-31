@@ -1,34 +1,44 @@
 {
   "doctor": [
     {
+      "id": "23016d6f-27f5-4cdc-a897-3f77559e7837",
+      "departmentId": "4740d642-cfee-4b7a-b9b3-78c70b8c3055",
+      "link": "https://www.doctorbangladesh.com/dietitian-sa-talukder-tonoy/",
+      "imageId": "76a30570-16d4-4934-a446-812df2179c44",
       "name": "Dietitian Sanjib Ahmad Talukder Tonoy",
       "degree": "B.Sc (Honours), M.Sc (Nutrition and Food Science), CND (BIRDEM)",
       "specialty": "Clinical Dietitian and NutritionistCoronary Kidney Disease (CKD), Diabetes, Infertility, Reproductive Health, Fatty Liver,Hypertension, Weak, Obese Management Diet Consultant",
       "workplace": "Ashiyan and City Medical College HospitalChittagong, Aftabnagar, Shyamoli,Mirpur & Uttara ChamberCell: 01674-283837, 01568-404870",
-      "info": "Ferdous Ara Health Care\nAddress: House# 27A, Radiant Radwan (2nd Floor), Opposite East-West University,\nMain Road, Aftab Nagor,Dhaka\nVisiting Hour: Please Call for Appointment Before 1 Days\nAppointment: +8801885325654\nCall Now",
+      "info": "Ferdous Ara Health Care Address: House# 27A, Radiant Radwan (2nd Floor), Opposite East-West University, Main Road, Aftab Nagor,Dhaka Visiting Hour: Please Call for Appointment Before 1 Days Appointment: +8801885325654 Call Now",
       "chamber": {
         "hospital": "Avante & HairFree HairGrow",
         "address": "4th Floor, SFA Tower, 132, Panchlaish. Chittagong",
         "visitingTime": "11am to 10pm (Every Friday & Saturday)",
-        "appointmentNumber": "+8801755666983"
-      },
-      "id": "e8e70798-d33f-4757-9cf1-20eaa190e576"
+        "appointmentNumber": "+8801755666983Call Now"
+      }
     },
     {
+      "id": "69808cf6-6412-405d-a5f2-d0cdb82b6490",
+      "departmentId": "4740d642-cfee-4b7a-b9b3-78c70b8c3055",
+      "link": "https://www.doctorbangladesh.com/nutritionist-aysha-siddika/",
+      "imageId": "6e27f457-20ee-43d4-82d1-33101dc80f95",
       "name": "Nutritionist Aysha Siddika",
       "degree": "BSc & MSc (Food & Nutrition, DU)",
       "specialty": "Nutritionist (Food, Diet, Weight Management) & Dietitian",
       "workplace": "Japan Bangladesh Friendship Hospital",
-      "info": "Japan Bangladesh Friendship Hospital\nAddress: 55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi\nVisiting Hour: 5pm to 8pm (Closed: Fri & Sat)\nAppointment: +8801956148383\nCall Now",
+      "info": "Japan Bangladesh Friendship Hospital Address: 55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi Visiting Hour: 5pm to 8pm (Closed: Fri & Sat) Appointment: +8801956148383 Call Now",
       "chamber": {
         "hospital": "Easy Diet BD Limited",
         "address": "House # 337, Road # 5, Avenue # 3, Mirpur DOHS, Dhaka - 1216",
         "visitingTime": "12pm to 5pm (Monday & Wednesday)",
-        "appointmentNumber": "+8801796434758"
-      },
-      "id": "f90196db-7b23-4b1b-8aa0-b1b65df0a927"
+        "appointmentNumber": "+8801796434758Call Now"
+      }
     },
     {
+      "id": "864dcefa-1497-4752-a433-2be1cf4ec816",
+      "departmentId": "4740d642-cfee-4b7a-b9b3-78c70b8c3055",
+      "link": "https://www.doctorbangladesh.com/nishat-sharmin-nishi/",
+      "imageId": "5e9cbe26-95d8-48af-a150-56467ef3a391",
       "name": "Nishat Sharmin Nishi",
       "degree": "Bsc & MSc (Food & Nutrition) DU, MPH, CCD (DIU), CDT (DCC)",
       "specialty": "Dietitian & Nutritionist",
@@ -38,11 +48,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "Room - 210, House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "10am to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8801911729071"
-      },
-      "id": "d6aaad56-e2e1-4e69-8c36-f9a840ce868e"
+        "appointmentNumber": "+8801911729071Call Now"
+      }
     },
     {
+      "id": "5b1a70e5-7130-4941-bd0b-381a42252183",
+      "departmentId": "4740d642-cfee-4b7a-b9b3-78c70b8c3055",
+      "link": "https://www.doctorbangladesh.com/dietician-sayeda-shirina-smrity/",
+      "imageId": "b770e2d6-7116-491a-8c11-b628de3f1b64",
       "name": "Dietitian Sayeda Shirina Smrity",
       "degree": "BSc & MSc (Food & Nutrition, DU), MPH (Public Health Nutrition)",
       "specialty": "Kidney Diet Management, Weight Management, Pregnancy & Children's Nutrition Specialist",
@@ -52,11 +65,14 @@
         "hospital": "BRB Hospital, Dhaka",
         "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
         "visitingTime": "9am to 6pm (Closed: Friday)",
-        "appointmentNumber": "10647"
-      },
-      "id": "4fc27f72-16f0-4fc4-a2cb-7d16924964e5"
+        "appointmentNumber": "10647Call Now"
+      }
     },
     {
+      "id": "fa3a843a-b6d1-4786-afc5-f92eef3fdb9d",
+      "departmentId": "4740d642-cfee-4b7a-b9b3-78c70b8c3055",
+      "link": "https://www.doctorbangladesh.com/dietitian-shirajam-munira/",
+      "imageId": "342ecd51-ee4b-4f34-af78-59ac9f1fc228",
       "name": "Dietitian Shirajam Munira",
       "degree": "BSc & MSc (Applied Nutrition & Food Tech)",
       "specialty": "Diet/Nutrition Consultant & Obesity Management Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
         "address": "1/1 B, Kallyanpur, Dhaka",
         "visitingTime": "11am to 10pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801972-686472"
-      },
-      "id": "1fcae8e1-6a64-49a6-a83c-cf428b6a2f2e"
+        "appointmentNumber": "+8801972-686472Call Now"
+      }
     },
     {
+      "id": "43d6f9b7-bf71-4ca6-8b78-4fa19bc2e715",
+      "departmentId": "4740d642-cfee-4b7a-b9b3-78c70b8c3055",
+      "link": "https://www.doctorbangladesh.com/dietitian-sabeka-rahman/",
+      "imageId": "b10dfb0b-6cbb-443c-9af7-04a75c87e157",
       "name": "Dietitian Sabeka Rahman",
       "degree": "B.Sc & M.Sc (Food & Nutrition, DU)",
       "specialty": "Weigh, Diabetes, Heart, Kidney Disease & Critical Care Management Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Lubana General Hospital, Uttara",
         "address": "09, Garib-e-Newaz Avenue, Sector-13, Uttara, Dhaka-1230",
         "visitingTime": "11am to 1pm (Sun, Mon, Wed & Thursday)",
-        "appointmentNumber": "+8801778983537"
-      },
-      "id": "8e286b3a-1d65-4c42-a4d5-f9c30a22b06a"
+        "appointmentNumber": "+8801778983537Call Now"
+      }
     },
     {
+      "id": "a3d07a11-eb5a-4119-9ed5-9f01281ea615",
+      "departmentId": "4740d642-cfee-4b7a-b9b3-78c70b8c3055",
+      "link": "https://www.doctorbangladesh.com/dietician-sanzida-sharmeen/",
+      "imageId": "d39db13f-7217-4402-99ce-c9132e2b47d9",
       "name": "Dietician Sanzida Sharmeen",
       "degree": "BSc & MSc in Food & Nutrition (DU)",
       "specialty": "Dietician & Nutritionist",
@@ -94,11 +116,14 @@
         "hospital": "Labaid Diagnostic, Uttara (Unit 01)",
         "address": "House # 15, Road # 12, Sector # 06, Uttara, Dhaka",
         "visitingTime": "10am to 2pm (Sat to Mon), 4pm to 5pm (Tue to Thu)",
-        "appointmentNumber": "01766662606"
-      },
-      "id": "cad63446-2816-4b0c-b511-acf7eeedff39"
+        "appointmentNumber": "01766662606Call Now"
+      }
     },
     {
+      "id": "37325b03-3a7f-4973-8745-45ee80d2bc4e",
+      "departmentId": "4740d642-cfee-4b7a-b9b3-78c70b8c3055",
+      "link": "https://www.doctorbangladesh.com/nutritionist-khaleda-khatun/",
+      "imageId": "23881909-b301-4ece-b9d2-b943e3739911",
       "name": "Nutritionist Khaleda Khatun",
       "degree": "BSc (Food & Nutrition), MSc (Nutrition, DU), MPH",
       "specialty": "Nutritionist & Dietician",
@@ -108,9 +133,8 @@
         "hospital": "BIRDEM Specialized Chamber Complex",
         "address": "Main Building, 122, Kazi Nazrul Islam Avenue, Shahbag, Dhaka",
         "visitingTime": "4pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801822955704"
-      },
-      "id": "245461d4-4c19-4f36-9141-dbf8bcb6bd18"
+        "appointmentNumber": "+8801822955704Call Now"
+      }
     }
   ]
 }

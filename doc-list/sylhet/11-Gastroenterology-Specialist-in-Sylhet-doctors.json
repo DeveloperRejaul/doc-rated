@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "503bc279-0038-49b3-a529-474fb927284d",
+      "departmentId": "141339ad-5fbf-446d-9016-47e1a2db4aab",
+      "link": "https://www.doctorbangladesh.com/prof-dr-madhusudan-saha/",
+      "imageId": "14e639e1-ab63-4dd9-9dda-57d67fb1ac25",
       "name": "Prof. Dr. Madhusudan Saha",
       "degree": "MBBS, MD (Gastroenterology)",
       "specialty": "Gastroenterology, Liver & Pancreatic Diseases Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Popular Medical Center, Sylhet",
         "address": "New Medical Road, Kajolshah, Sylhet - 3100",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801715084078"
-      },
-      "id": "0d86090c-ec37-4b9c-93bd-ab2e170b9cbd"
+        "appointmentNumber": "+8801715084078Call Now"
+      }
     },
     {
+      "id": "4305a740-4cdd-4a06-b199-2c303cbf97c8",
+      "departmentId": "141339ad-5fbf-446d-9016-47e1a2db4aab",
+      "link": "https://www.doctorbangladesh.com/dr-md-jahangir-alam-gastroenterology/",
+      "imageId": "fbf3b9c0-2fc9-43a9-a097-da5ced0c13d3",
       "name": "Prof. Dr. Md. Jahangir Alam",
       "degree": "MBBS, MCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Medicine, Gastrointentine & Liver Diseases Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Trust Medical Services, Sylhet",
         "address": "16, Modhushahid, New Medical Road, Sylhet - 3100",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801735849422"
-      },
-      "id": "892ccc74-a2fe-4e9a-b568-36113edfb928"
+        "appointmentNumber": "+8801735849422Call Now"
+      }
     },
     {
+      "id": "4d9ca59c-032b-41ae-a50f-2fea7e3c9865",
+      "departmentId": "141339ad-5fbf-446d-9016-47e1a2db4aab",
+      "link": "https://www.doctorbangladesh.com/prof-dr-syed-alamgir-safwath/",
+      "imageId": "68fd2f68-7f9b-492b-87fd-bfbfabf5adfe",
       "name": "Prof. Dr. Syed Alamgir Safwath",
       "degree": "MBBS, MCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Medicine, Liver Diseases , Gastrointestine & Gastroenterology Specialist",
@@ -38,25 +48,31 @@
         "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
         "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
         "visitingTime": "3pm to 8pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801732644475"
-      },
-      "id": "e57cb28a-2870-43e7-9f96-af82ce1b3e81"
+        "appointmentNumber": "+8801732644475Call Now"
+      }
     },
     {
+      "id": "77defbbe-59ae-4c43-a9b4-23bff2774e5d",
+      "departmentId": "141339ad-5fbf-446d-9016-47e1a2db4aab",
+      "link": "https://www.doctorbangladesh.com/dr-md-oliur-rahman-gastro/",
+      "imageId": "6741d21a-ea95-4322-ab15-e2a1540df676",
       "name": "Dr. Md. Oliur Rahman",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology)",
       "specialty": "Gastroenterology & Medicine Specialist",
       "workplace": "Sylhet MAG Osmani Medical College & Hospital",
-      "info": "Medinova Medical Services, Sylhet\nAddress: 98, New Medical Road, Kajolshah, Sylhet – 3100\nVisiting Hour: 3pm to 5pm (Closed: Friday)\nAppointment: +880821710918\nCall Now",
+      "info": "Medinova Medical Services, Sylhet Address: 98, New Medical Road, Kajolshah, Sylhet – 3100 Visiting Hour: 3pm to 5pm (Closed: Friday) Appointment: +880821710918 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Hospital, Sylhet",
         "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
         "visitingTime": "Evening (Closed: Friday)",
-        "appointmentNumber": "+8809610009640"
-      },
-      "id": "670cf809-47d5-42bd-97dc-73e3318d874e"
+        "appointmentNumber": "+8809610009640Call Now"
+      }
     },
     {
+      "id": "651b0e15-cc88-42a0-89cc-25089333c007",
+      "departmentId": "141339ad-5fbf-446d-9016-47e1a2db4aab",
+      "link": "https://www.doctorbangladesh.com/dr-m-k-sur-chowdhury/",
+      "imageId": "30c5331d-50d6-4e83-805e-6e1da73ba1c8",
       "name": "Dr. M. K. Sur Chowdhury",
       "degree": "MBBS, BCS (Health), MD (Gastroenterology)",
       "specialty": "Gastrointestinal, Hepato-Billiary & Pancreatic Disease Specialist",
@@ -66,25 +82,31 @@
         "hospital": "Popular Medical Center, Sylhet",
         "address": "New Medical Road, Kajolshah, Sylhet - 3100",
         "visitingTime": "4pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801799373760"
-      },
-      "id": "f9ca84d2-5de9-4378-a428-00a15cccca3b"
+        "appointmentNumber": "+8801799373760Call Now"
+      }
     },
     {
+      "id": "0dc0f713-8ac9-4323-8055-3450f7d19844",
+      "departmentId": "141339ad-5fbf-446d-9016-47e1a2db4aab",
+      "link": "https://www.doctorbangladesh.com/dr-mostak-uddin-ahmed/",
+      "imageId": "cc2a889a-403b-44e2-b9cd-24673bdffdcd",
       "name": "Dr. Mostak Uddin Ahmed",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MS (Gastroenterology)",
       "specialty": "Gastroenterology & Medicine Specialist",
       "workplace": "Sylhet MAG Osmani Medical College & Hospital",
-      "info": "Medi-Aid Diagnostic & Consultation Center\nAddress: Medical College Road, Modhushohid, Rikabi Bazar, Sylhet – 3100\nVisiting Hour: 5pm to 8pm (Closed: Friday)\nAppointment: +8801711275902\nCall Now",
+      "info": "Medi-Aid Diagnostic & Consultation Center Address: Medical College Road, Modhushohid, Rikabi Bazar, Sylhet – 3100 Visiting Hour: 5pm to 8pm (Closed: Friday) Appointment: +8801711275902 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Hospital, Sylhet",
         "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
         "visitingTime": "Evening (Closed: Friday)",
-        "appointmentNumber": "+8809610009640"
-      },
-      "id": "0ae9eab3-d4bd-4ae0-b9b9-0e3cac57cb4f"
+        "appointmentNumber": "+8809610009640Call Now"
+      }
     },
     {
+      "id": "da64314d-77bb-49ec-b9eb-df58beebd8cc",
+      "departmentId": "141339ad-5fbf-446d-9016-47e1a2db4aab",
+      "link": "https://www.doctorbangladesh.com/dr-md-benzamin/",
+      "imageId": "74fdd1b5-95b5-41aa-a488-3635f567a22d",
       "name": "Dr. Md. Benzamin",
       "degree": "MBBS, BCS (Health), MPH (Nutrition), MD (Pediatric Gastroenterology)",
       "specialty": "Child Gastroenterology, Liver & Nutrition Specialist",
@@ -94,11 +116,14 @@
         "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
         "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
         "visitingTime": "4pm to 7pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801917196961"
-      },
-      "id": "f14a6ba7-6cc2-4915-8b88-65b874b98995"
+        "appointmentNumber": "+8801917196961Call Now"
+      }
     },
     {
+      "id": "cadb5463-f36d-485a-8526-9fff53aad347",
+      "departmentId": "141339ad-5fbf-446d-9016-47e1a2db4aab",
+      "link": "https://www.doctorbangladesh.com/dr-md-nahian-faruque-chowdhury/",
+      "imageId": "58d3092a-7e39-4670-bcc5-7e766e082078",
       "name": "Dr. Md. Nahian Faruque Chowdhury",
       "degree": "MBBS, BCS (Health), MCPS (Medicine), MRCP (UK), MD (Gastroenterology)",
       "specialty": "Gastroenterology, Liver, Pancreas & Medicine Specialist",
@@ -108,23 +133,25 @@
         "hospital": "Popular Medical Center & Hospital, Sylhet",
         "address": "Subhanighat, Sylhet",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801773035138"
-      },
-      "id": "ab787721-de97-46e3-9be2-de0becf74284"
+        "appointmentNumber": "+8801773035138Call Now"
+      }
     },
     {
+      "id": "b71d43a6-2b53-4eb0-982b-007b01cc78bc",
+      "departmentId": "141339ad-5fbf-446d-9016-47e1a2db4aab",
+      "link": "https://www.doctorbangladesh.com/dr-m-a-awal-chowdhury-ashik/",
+      "imageId": "0a0cc664-8755-4035-bc84-c53ad95c6043",
       "name": "Dr. M A Awal Chowdhury (Ashik)",
       "degree": "MBBS, MSc (Gastroenterology), Fellowship in Gastroenterology",
       "specialty": "Gastroenterology (Stomach, Intestine, Rectum, Pancreas, Liver) Specialist",
       "workplace": "North East Medical College Hospital",
-      "info": "Cure Medical Services, Sylhet\nAddress: Prottasha Complex,, Shahporan Gate, Khadimnagar, Sylhet\nVisiting Hour: 5pm to 8pm (Closed: Friday)\nAppointment: +8801719-485051\nCall Now",
+      "info": "Cure Medical Services, Sylhet Address: Prottasha Complex,, Shahporan Gate, Khadimnagar, Sylhet Visiting Hour: 5pm to 8pm (Closed: Friday) Appointment: +8801719-485051 Call Now",
       "chamber": {
         "hospital": "North East Medical College & Hospital",
         "address": "Room 210, Gohorpur Road, South Surma, Sylhet – 3100",
         "visitingTime": "2pm to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801719-485051"
-      },
-      "id": "03b647b4-6b6c-40fc-833c-55b60fb74e45"
+        "appointmentNumber": "+8801719-485051Call Now"
+      }
     }
   ]
 }

@@ -1,20 +1,27 @@
 {
   "doctor": [
     {
+      "id": "3d8e620f-b4d2-4f4f-a66c-03fe006c25dd",
+      "departmentId": "e7edc255-afd4-4bb0-99c8-13988927158e",
+      "link": "https://www.doctorbangladesh.com/dr-rokhsana-sharmin-shanta/",
+      "imageId": "3c806156-72d8-4010-86ee-9eeba6e9e6d5",
       "name": "Dr. Rokhsana Sharmin Shanta",
       "degree": "MBBS (DMC), BCS (Health), FCPS (Surgery)",
       "specialty": "General, Laparoscopic, Breast & Colorectal Surgeon",
       "workplace": "Mohammad Ali Hospital, Bogra",
-      "info": "Saic General Hospital, Bogura\nAddress: Bhai Pagla Mazar Lane, Thanthania, Bogura\nVisiting Hour: 3pm to 4pm (Closed: Friday)\nAppointment: +8801936005870\nCall Now",
+      "info": "Saic General Hospital, Bogura Address: Bhai Pagla Mazar Lane, Thanthania, Bogura Visiting Hour: 3pm to 4pm (Closed: Friday) Appointment: +8801936005870 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "4pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "b8e5e274-fab2-42d3-a6f9-990713496a01"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "5b331057-974b-4d58-8634-6e2bddbe7ea8",
+      "departmentId": "e7edc255-afd4-4bb0-99c8-13988927158e",
+      "link": "https://www.doctorbangladesh.com/dr-abm-zafar-sadik/",
+      "imageId": "640e57b3-4491-4293-98ec-d3cb3d4e886d",
       "name": "Dr. ABM Zafar Sadik",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "Piles, Colorectal, Laparoscopic & General Specialist Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "787be0c1-5524-4157-94bb-f3b96ed0a7d5"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "1480378c-9ff5-4224-90b2-200a797bb52c",
+      "departmentId": "e7edc255-afd4-4bb0-99c8-13988927158e",
+      "link": "https://www.doctorbangladesh.com/dr-md-zakirul-alam/",
+      "imageId": "ecf1009c-03e6-4564-86bb-9bd27247e918",
       "name": "Dr. Md. Zakirul Alam",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Laparoscopic, Colorectal & Cancer Surgeon",
@@ -38,11 +48,14 @@
         "hospital": "Doctors Clinic, Bogura",
         "address": "Unit 1, Mofiz Paglar Mor, Sherpur Road, Bogura",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801711890501"
-      },
-      "id": "f4dd4dfc-d06e-4bca-a861-f5c7ff72095f"
+        "appointmentNumber": "+8801711890501Call Now"
+      }
     },
     {
+      "id": "88888b93-5664-4a1d-8799-849431f0d321",
+      "departmentId": "e7edc255-afd4-4bb0-99c8-13988927158e",
+      "link": "https://www.doctorbangladesh.com/dr-lokman-hossain-juwel/",
+      "imageId": "f57f4a90-58a5-4be4-9a24-000b1c9e57d0",
       "name": "Dr. Lokman Hossain Juwel",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "Colorectal, General & Laparoscopic Surgeon",
@@ -52,11 +65,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "4pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "70e94536-1c8b-4619-a07b-da0dd6bd6f72"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "f1e81bf5-f0c8-4813-94b0-abc9267d9855",
+      "departmentId": "e7edc255-afd4-4bb0-99c8-13988927158e",
+      "link": "https://www.doctorbangladesh.com/dr-ganesh-kumar-agarwala/",
+      "imageId": "16083629-b190-4ab5-bc5b-d837113f7f62",
       "name": "Dr. Ganesh Kumar Agarwala",
       "degree": "MBBS, BCS (Health), MCPS (Surgery), MS (Surgery)",
       "specialty": "General, Breast, Colorectal & Laparoscopic Surgery Specialist",
@@ -66,9 +82,8 @@
         "hospital": "Saic General Hospital, Bogura",
         "address": "Bhai Pagla Mazar Lane, Thanthania, Bogura",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801936005870"
-      },
-      "id": "f0f408e9-0ebc-4165-a35a-b7c8992b04f6"
+        "appointmentNumber": "+8801936005870Call Now"
+      }
     }
   ]
 }

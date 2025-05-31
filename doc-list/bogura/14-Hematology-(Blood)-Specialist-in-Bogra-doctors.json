@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "b75ea1b7-c070-4ebb-88c8-4e9ad207551f",
+      "departmentId": "b66511c2-1593-4a8c-9422-f86745dcf899",
+      "link": "https://www.doctorbangladesh.com/dr-surojeet-sarkar-titas/",
+      "imageId": "66959adf-2da4-42dc-b60a-bbf080cf17ce",
       "name": "Dr. Surozit Sarkar Titas",
       "degree": "MBBS, MD (Hematology)",
       "specialty": "Hematology & Blood Cancer Specialist",
@@ -10,23 +14,25 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "3:30pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "f52595d7-7014-444d-83c2-1c1c2f8c3ab1"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "0fabda86-b3ce-4361-af24-c6c556dc80b7",
+      "departmentId": "b66511c2-1593-4a8c-9422-f86745dcf899",
+      "link": "https://www.doctorbangladesh.com/dr-md-shafiul-azam-hematology/",
+      "imageId": "1c048df3-6bef-4988-8cfe-f83183bfc213",
       "name": "Dr. Md. Shafiul Azam",
       "degree": "MBBS, MD (Hematology)",
       "specialty": "Blood Cancer Specialist & Hematologist",
       "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
-      "info": "Ibn Sina Diagnostic & Consultation Center, Bogra\nAddress: House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800\nVisiting Hour: 6pm to 7pm (Closed: Friday)\nAppointment: +8801701560011\nCall Now",
+      "info": "Ibn Sina Diagnostic & Consultation Center, Bogra Address: House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800 Visiting Hour: 6pm to 7pm (Closed: Friday) Appointment: +8801701560011 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "3pm to 8:30pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "1080abc0-17c8-45ae-8983-2c9419ffc984"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     }
   ]
 }

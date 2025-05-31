@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "9b744131-8fd3-430c-be7a-fb5ee8701775",
+      "departmentId": "0f7c9fea-6989-4662-b7c8-aadb7c01f3e1",
+      "link": "https://www.doctorbangladesh.com/dr-paritosh-kumar-ghosh/",
+      "imageId": "c833e95a-3b8f-4cae-a176-f302e348f326",
       "name": "Dr. Paritosh Kumar Ghosh",
       "degree": "MBBS, MCPS, DPM (Psychiatry)",
       "specialty": "Mental Diseases, Drug Addiction & Psychiatry Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Shamsun Nahar Clinic, Bogura",
         "address": "Sherpur Road, South Thanthania, Bogura",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801751893546"
-      },
-      "id": "a03baba4-6df4-4860-8da1-16ab099f6bd8"
+        "appointmentNumber": "+8801751893546Call Now"
+      }
     },
     {
+      "id": "14267f16-da97-4835-8384-282fc6bf130d",
+      "departmentId": "0f7c9fea-6989-4662-b7c8-aadb7c01f3e1",
+      "link": "https://www.doctorbangladesh.com/dr-md-maruful-haque/",
+      "imageId": "d4a869e5-23f7-4dbf-a0a1-d7c3330a98c1",
       "name": "Dr. Md. Maruful Haque",
       "degree": "MBBS (DMC), BCS (Health), MCPS (Psychiatry), MD (Psychiatry)",
       "specialty": "Psychiatry (Mental Diseases, Brain Diseases, Sexual Problem, Drug Addiction) Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Labaid Diagnostic, Bogura",
         "address": "House # 1872, Sherpur Road, Colony, Bogura",
         "visitingTime": "4pm to 7.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662777"
-      },
-      "id": "2ce85271-96ee-4e9d-951d-e18935cbd394"
+        "appointmentNumber": "+8801766662777Call Now"
+      }
     },
     {
+      "id": "87ad8af8-2137-414e-a756-a389a8009bb3",
+      "departmentId": "0f7c9fea-6989-4662-b7c8-aadb7c01f3e1",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-abu-taher-mental/",
+      "imageId": "7a70d226-b1dc-4549-931c-1ab789ac5748",
       "name": "Prof. Dr. Md. Abu Taher",
       "degree": "MBBS, DDV, MPhil (Mental Diseases)",
       "specialty": "Mental Diseases, Headache, Drug Addiction & Psychiatry Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "3pm to 8pm (Closed: Monday), 10am to 3pm (Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "1cb71cea-ea1c-4b5e-8d6f-569e4e47acbf"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "5e1260de-19ac-430b-8841-712e6a4b837e",
+      "departmentId": "0f7c9fea-6989-4662-b7c8-aadb7c01f3e1",
+      "link": "https://www.doctorbangladesh.com/dr-md-altaf-hossain-mondol/",
+      "imageId": "920fdd45-5cc6-467e-9010-57b163569e05",
       "name": "Alhaj Dr. Md. Altaf Hossain Mondal",
       "degree": "MBBS, DPM, FRSH (LONDON), Special Training on Drug Addicts",
       "specialty": "Specialist in Mental, Drug Addicts & Brain Disorders",
@@ -52,11 +65,14 @@
         "hospital": "Labaid Diagnostic, Bogura",
         "address": "House # 1872, Sherpur Road, Colony, Bogura",
         "visitingTime": "9am to 2pm (Everyday)",
-        "appointmentNumber": "+8801766662777"
-      },
-      "id": "bc3e9ebd-ea48-4fdd-911e-2ba0eeabc1d6"
+        "appointmentNumber": "+8801766662777Call Now"
+      }
     },
     {
+      "id": "5ee9a918-62d9-4a04-b75a-0ce60702bc89",
+      "departmentId": "0f7c9fea-6989-4662-b7c8-aadb7c01f3e1",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahriar-faruk/",
+      "imageId": "84ec2416-e49d-4828-b7e6-8afb245db928",
       "name": "Dr. Shahriar Faruque",
       "degree": "MBBS, BCS (Health), MCPS, MD (Psychiatry)",
       "specialty": "Mental Diseases, Drug Addiction & Psychiatry Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
         "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
         "visitingTime": "3pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801701560011"
-      },
-      "id": "de4ee389-2d83-473f-8ced-5de76e112d18"
+        "appointmentNumber": "+8801701560011Call Now"
+      }
     },
     {
+      "id": "458d16fe-8860-445d-9e8c-dfed65d7835a",
+      "departmentId": "0f7c9fea-6989-4662-b7c8-aadb7c01f3e1",
+      "link": "https://www.doctorbangladesh.com/lt-col-dr-sohel-hasan-chowdhury/",
+      "imageId": "42cbd420-df0b-4a20-9d3f-cce826b60f2c",
       "name": "Lt. Col. Dr. Sohel Hasan Chowdhury",
       "degree": "MBBS, FCPS (Psychiatry)",
       "specialty": "Psychiatry, Drug Addiction & Mental Diseases Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "4pm to 7pm (Closed: Tue & Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "077242e2-23b9-4360-b46c-28a570aa8d84"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "abcdb225-1739-4d5b-97a9-73851e93ad03",
+      "departmentId": "0f7c9fea-6989-4662-b7c8-aadb7c01f3e1",
+      "link": "https://www.doctorbangladesh.com/dr-khaja-amirul-islam/",
+      "imageId": "a6a888d0-3862-4636-9a35-33d567fee7b7",
       "name": "Dr. Khaja Amirul Islam",
       "degree": "MBBS, BCS (Health), MD (Hematology)",
       "specialty": "Hematology, Blood Diseases & Blood Cancer Specialist",
@@ -94,9 +116,8 @@
         "hospital": "Labaid Diagnostic, Bogura",
         "address": "House # 1872, Sherpur Road, Colony, Bogura",
         "visitingTime": "4pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801766662777"
-      },
-      "id": "f35bfb54-04d8-41a9-a3fb-1d567fcd6c01"
+        "appointmentNumber": "+8801766662777Call Now"
+      }
     }
   ]
 }

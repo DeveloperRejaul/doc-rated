@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "3b755d5c-3a95-4872-a122-d57a33994873",
+      "departmentId": "fd92a7ca-4467-4052-8b65-3d47bf265a74",
+      "link": "https://www.doctorbangladesh.com/dr-chaity-barua/",
+      "imageId": "faf0964e-cc40-4179-ab58-29387e20d87c",
       "name": "Dr. Chaity Barua",
       "degree": "MBBS, BCS (Health), FCPS (Pediatrics), MD (Pediatric Cardiology)",
       "specialty": "Newborn, Child Diseases & Child Cardiology Specialist",
@@ -10,25 +14,31 @@
         "hospital": "Medinova Medical Services, Malibagh",
         "address": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
         "visitingTime": "7pm to 9pm (Sat, Sun, Tue & Thu)",
-        "appointmentNumber": "+8801716410062"
-      },
-      "id": "82a34663-aeed-40a7-8831-415d8d82779e"
+        "appointmentNumber": "+8801716410062Call Now"
+      }
     },
     {
+      "id": "d81d9489-2ed0-4d5c-97a8-2e4bf92eee40",
+      "departmentId": "fd92a7ca-4467-4052-8b65-3d47bf265a74",
+      "link": "https://www.doctorbangladesh.com/dr-ahmed-nazmul-anam/",
+      "imageId": "026d3304-2e6f-4dfa-a176-13492064b7f3",
       "name": "Dr. Ahmed Nazmul Anam",
       "degree": "MBBS, BCS (Health), FCPS (Pediatrics), MD (Child Cardiology), PGPN (USA)",
       "specialty": "Child, Child Cardiology & Nutrition Specialist",
       "workplace": "Institute of Child & Mother Health",
-      "info": "Farazy Hospital, Banasree\nAddress: House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka\nVisiting Hour: 3.30pm to 10.30pm (Sat), 5.30pm to 10pm (Mon & Wed), 7.30pm to 10.30pm (Tues) & 2.30pm to 4pm (Thu)\nAppointment: +8801313362111\nCall Now",
+      "info": "Farazy Hospital, Banasree Address: House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka Visiting Hour: 3.30pm to 10.30pm (Sat), 5.30pm to 10pm (Mon & Wed), 7.30pm to 10.30pm (Tues) & 2.30pm to 4pm (Thu) Appointment: +8801313362111 Call Now",
       "chamber": {
         "hospital": "Aesthetic & Baby Care",
         "address": "House # 01, Block # D, Road, 01, Ghoroar Mor, Pallabi, Mirpur",
         "visitingTime": "6.30pm to 10.30pm (Sun & Thu) & 3pm to 5pm (Tue)",
-        "appointmentNumber": "+8801616465255"
-      },
-      "id": "7c35a06a-fce7-49f1-bd4e-ec68ad585443"
+        "appointmentNumber": "+8801616465255Call Now"
+      }
     },
     {
+      "id": "5b3aba57-e589-43cd-8886-f367d74dfa61",
+      "departmentId": "fd92a7ca-4467-4052-8b65-3d47bf265a74",
+      "link": "https://www.doctorbangladesh.com/dr-nurun-nahar-fatema/",
+      "imageId": "624ada94-acd3-402e-beca-2a75b41e730c",
       "name": "Brig. Gen. Prof. Dr. Nurunnahar Fatema Begum",
       "degree": "MBBS, FCPS, FRCP, FACC, FSCAI",
       "specialty": "Child Heart Diseases Specialist & Interventional Pediatric Cardiologist",
@@ -38,39 +48,48 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "4pm to 6.30pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "8514e08d-46a6-4004-85fa-2a709bb372b2"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "1296d836-a5d6-4be7-a347-5a8b885813a8",
+      "departmentId": "fd92a7ca-4467-4052-8b65-3d47bf265a74",
+      "link": "https://www.doctorbangladesh.com/prof-dr-abm-abdus-salam/",
+      "imageId": "eee2c805-b6ed-4fc2-a38b-a9a53f941ee9",
       "name": "Prof. Dr. ABM Abdus Salam",
       "degree": "MBBS, FCPS (CHILD), MD (CHILD)",
       "specialty": "Child Specialist & Interventional Pediatric Cardiologist",
       "workplace": "National Institute of Cardiovascular Diseases & Hospital",
-      "info": "Prof. Dr. ABM Abdus Salam is a Pediatric Cardiologist in Dhaka. His qualification is MBBS, FCPS (CHILD), MD (CHILD). He is a Ex. Professor & Head of Pediatric Cardiology Department  at National Institute of Cardiovascular Diseases & Hospital. He regularly provides treatment to his patients at Fair Lab Diagnostic & Consultation Center. Practicing hour of Prof. Dr. ABM Abdus Salam at Fair Lab Diagnostic & Consultation Center is 11am to 7pm (Closed: Friday).",
+      "info": "Prof. Dr. ABM Abdus Salam is a Pediatric Cardiologist in Dhaka. His qualification is MBBS, FCPS (CHILD), MD (CHILD). He is a Ex. Professor & Head of Pediatric Cardiology Department at National Institute of Cardiovascular Diseases & Hospital. He regularly provides treatment to his patients at Fair Lab Diagnostic & Consultation Center. Practicing hour of Prof. Dr. ABM Abdus Salam at Fair Lab Diagnostic & Consultation Center is 11am to 7pm (Closed: Friday).",
       "chamber": {
         "hospital": "Fair Lab Diagnostic & Consultation Center",
         "address": "House# 20/5, Babar Road, Block-B, Mohammadpur, Dhaka",
         "visitingTime": "11am to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801919610121, +8801620007978"
-      },
-      "id": "adfaf57e-f672-4cf3-b6d2-d4e853afb383"
+        "appointmentNumber": "+8801919610121, +8801620007978Call Now"
+      }
     },
     {
+      "id": "5458ff2c-c073-40d7-afbb-7311770e4748",
+      "departmentId": "fd92a7ca-4467-4052-8b65-3d47bf265a74",
+      "link": "https://www.doctorbangladesh.com/dr-md-abu-sayed-munsi/",
+      "imageId": "928fd252-f607-4214-a86b-d6cf95d35189",
       "name": "Dr. Md. Abu Sayed Munsi",
       "degree": "MBBS, MCPS, FCPS (Pediatrics), Fellowship in Pediatric Cardiology (RTIICS)",
       "specialty": "Child Diseases & Child Heart Specialist",
       "workplace": "Dhaka Shishu Hospital",
-      "info": "Moon Hospital, Comilla\nAddress: Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla\nVisiting Hour: 3pm to 9pm (Only Thursday)\nAppointment: +8801766556655\nCall Now",
+      "info": "Moon Hospital, Comilla Address: Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla Visiting Hour: 3pm to 9pm (Only Thursday) Appointment: +8801766556655 Call Now",
       "chamber": {
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801766556655"
-      },
-      "id": "b77f17c0-2161-48bf-836a-654505086c20"
+        "appointmentNumber": "+8801766556655Call Now"
+      }
     },
     {
+      "id": "9a013337-3279-4e14-bc4b-679d56bfac71",
+      "departmentId": "fd92a7ca-4467-4052-8b65-3d47bf265a74",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-tariqul-islam/",
+      "imageId": "8dd39db4-00e9-4499-807a-477290958f18",
       "name": "Prof. Dr. Md. Tariqul Islam",
       "degree": "MBBS, DCH, MD (BSMMU)",
       "specialty": "Child Diseases, Child Cardiology & Child Rheumatic Fever Specialist",
@@ -80,39 +99,48 @@
         "hospital": "Popular Diagnostic Center, Shantinagar",
         "address": "Unit # 01, House # 11, Shantinagar, Motijheel, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787803"
-      },
-      "id": "2741e712-ab33-4063-baa4-152bbfdac723"
+        "appointmentNumber": "+8809666787803Call Now"
+      }
     },
     {
+      "id": "53c0274a-273f-40ae-8a1e-b0d708f977bf",
+      "departmentId": "fd92a7ca-4467-4052-8b65-3d47bf265a74",
+      "link": "https://www.doctorbangladesh.com/prof-dr-abdullah-shahriar/",
+      "imageId": "c55c5d62-e1dd-4aaa-af4a-5209b679e188",
       "name": "Prof. Dr. Abdullah Shahriar",
       "degree": "MBBS, MD (CHILD)",
       "specialty": "Child Specialist & Pediatric Cardiologist",
       "workplace": "National Institute of Cardiovascular Diseases & Hospital",
-      "info": "Labaid Specialized Hospital, Chattogram\nAddress: 3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram\nVisiting Hour: 10am to 4pm (Only Friday)\nAppointment: +8801766662828\nCall Now",
+      "info": "Labaid Specialized Hospital, Chattogram Address: 3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram Visiting Hour: 10am to 4pm (Only Friday) Appointment: +8801766662828 Call Now",
       "chamber": {
         "hospital": "Labaid Diagnostic, Kalabagan",
         "address": "House - 66, Mirpur Road, Kalabagan, Dhaka - 1205",
         "visitingTime": "2pm to 5pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801766661331"
-      },
-      "id": "fc29762e-0f8f-4309-9331-f14ae7f86df5"
+        "appointmentNumber": "+8801766661331Call Now"
+      }
     },
     {
+      "id": "f6ba9f57-a34b-4491-a89e-d3f1701c8f0e",
+      "departmentId": "fd92a7ca-4467-4052-8b65-3d47bf265a74",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-zahid-hossain/",
+      "imageId": "b5d4c9c5-21b0-4b51-9963-09dbbab502b9",
       "name": "Prof. Dr. Md. Zahid Hussain",
       "degree": "MBBS, FCPS (Pediatrics), MD (Pediatrics), MD (Cardiology)",
       "specialty": "Pediatric Cardiologist & Child Specialist",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Central Hospital, Dhanmondi\nAddress: House # 02, Road # 05, Green Road, Dhanmondi, Dhaka – 1205\nVisiting Hour: 3.30pm to 5.30pm (Closed: Friday)\nAppointment: +8802-41060800\nCall Now",
+      "info": "Central Hospital, Dhanmondi Address: House # 02, Road # 05, Green Road, Dhanmondi, Dhaka – 1205 Visiting Hour: 3.30pm to 5.30pm (Closed: Friday) Appointment: +8802-41060800 Call Now",
       "chamber": {
         "hospital": "Islami Bank Specialized & General Hospital, Nayapaltan",
         "address": "71-72, VIP Road, Nayapaltan, Dhaka",
         "visitingTime": "6pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801977552283"
-      },
-      "id": "19de8210-cab5-47c9-943d-06c1f9e77898"
+        "appointmentNumber": "+8801977552283Call Now"
+      }
     },
     {
+      "id": "db12c674-1f3a-4a12-9e3d-e7c17423e0ff",
+      "departmentId": "fd92a7ca-4467-4052-8b65-3d47bf265a74",
+      "link": "https://www.doctorbangladesh.com/dr-rezoana-rima/",
+      "imageId": "595c3a36-f187-44ac-af20-922136e614d5",
       "name": "Dr. Rezoana Rima",
       "degree": "MBBS, FCPS (Pediatrics)",
       "specialty": "Interventional Pediatric Cardiology Specialist",
@@ -122,11 +150,14 @@
         "hospital": "Bangladesh Specialized Hospital",
         "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666700100"
-      },
-      "id": "54c4f759-949a-4c1d-bc87-b7c6446ce88c"
+        "appointmentNumber": "+8809666700100Call Now"
+      }
     },
     {
+      "id": "7911737c-9088-48da-b872-0d2971f8085a",
+      "departmentId": "fd92a7ca-4467-4052-8b65-3d47bf265a74",
+      "link": "https://www.doctorbangladesh.com/dr-sk-abdur-razzaque/",
+      "imageId": "18067c1a-fdc5-4e4d-970f-43eb8c20c469",
       "name": "Prof. Dr. SK Abdur Razzaque",
       "degree": "MBBS, FCPS (CHILD), Trained in Pediatric Cardiology from MMM, Madras (India)",
       "specialty": "Child Specialist & Interventional Cardiologist",
@@ -136,39 +167,31 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801552314586"
-      },
-      "id": "b5925c9f-a257-4b8f-9c18-1edac0458437"
+        "appointmentNumber": "+8801552314586Call Now"
+      }
     },
     {
+      "id": "17cf5993-e935-4be4-a126-28e31c3438e9",
+      "departmentId": "fd92a7ca-4467-4052-8b65-3d47bf265a74",
+      "link": "https://www.doctorbangladesh.com/dr-somayra-nasreen/",
+      "imageId": "00385c92-c3de-4d26-bc0e-f2ee057fab52",
       "name": "Dr. Somayra Nasreen",
       "degree": "MBBS, FCPS (Pediatrics)",
       "specialty": "Neonatal & Child Cardiology Specialist",
       "workplace": "National Institute of Cardiovascular Diseases & Hospital",
-      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, B.B. Road, Chashara, Narayanganj – 1400\nVisiting Hour: 9am to 2pm (Friday) & 3pm to 6pm (Tuesday)\nAppointment: +8809666787804\nCall Now",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, B.B. Road, Chashara, Narayanganj – 1400 Visiting Hour: 9am to 2pm (Friday) & 3pm to 6pm (Tuesday) Appointment: +8809666787804 Call Now",
       "chamber": {
         "hospital": "Asgar Ali Hospital, Dhaka",
         "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801787683333"
-      },
-      "id": "24150e26-4c88-4012-8fd4-5ae0e89b9552"
+        "appointmentNumber": "+8801787683333Call Now"
+      }
     },
     {
-      "name": "Dr. Tahmina Karim",
-      "degree": "MBBS, FCPS (Pediatrics)",
-      "specialty": "Child Diseases, Pediatric Cardiology & Pediatric Echocardiography Specialist",
-      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Dr. Tahmina Karim is a Pediatric Cardiologist in Dhaka. Her qualification is MBBS, FCPS (Pediatrics). She is a Associate Professor, Pediatric Cardiology at Bangabandhu Sheikh Mujib Medical University Hospital. She regularly provides treatment to her patients at Labaid Diagnostic, Kalabagan. Practicing hour of Dr. Tahmina Karim at Labaid Diagnostic, Kalabagan is 5pm to 7pm (Sun, Tue & Thu).",
-      "chamber": {
-        "hospital": "Labaid Diagnostic, Kalabagan",
-        "address": "House - 66, Mirpur Road, Kalabagan, Dhaka - 1205",
-        "visitingTime": "5pm to 7pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801766661331"
-      },
-      "id": "34e9b9d7-b56d-464f-afa6-091da95b399a"
-    },
-    {
+      "id": "ea8278cd-0264-4639-83fd-666f49254375",
+      "departmentId": "fd92a7ca-4467-4052-8b65-3d47bf265a74",
+      "link": "https://www.doctorbangladesh.com/dr-nasima-akter/",
+      "imageId": "77a311aa-5efd-4dd4-b99f-e78c9c0e24d8",
       "name": "Dr. Nasima Akter",
       "degree": "MBBS, DCH, FCPS (CHILD), Trained in Noninvasive Pediatric Cardiology (NICVD)",
       "specialty": "Newborn & Child Congenital Heart Diseases Specialist",
@@ -178,11 +201,14 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "c6eb9316-9135-4860-9745-f14c9959d3ab"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "e10325f6-c018-4a1f-8f59-e5fcb52ed524",
+      "departmentId": "fd92a7ca-4467-4052-8b65-3d47bf265a74",
+      "link": "https://www.doctorbangladesh.com/dr-tahera-nazrin/",
+      "imageId": "9dd40910-f0c6-4336-b6b1-425a9637d474",
       "name": "Dr. Tahera Nazrin",
       "degree": "MBBS (SSMC), DCH (BICH), FCPS (CHILD)",
       "specialty": "Clinical & Interventional Pediatric Cardiologist",
@@ -192,9 +218,25 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801787680776"
-      },
-      "id": "10b12459-3e08-4e66-888c-1525479e6cda"
+        "appointmentNumber": "+8801787680776Call Now"
+      }
+    },
+    {
+      "id": "a22a2dcf-5772-4c27-a4d2-a23e094e4b4d",
+      "departmentId": "fd92a7ca-4467-4052-8b65-3d47bf265a74",
+      "link": "https://www.doctorbangladesh.com/dr-tahmina-karim/",
+      "imageId": "2d587dc9-fb5f-463d-ba5b-c972597896c8",
+      "name": "Dr. Tahmina Karim",
+      "degree": "MBBS, FCPS (Pediatrics)",
+      "specialty": "Child Diseases, Pediatric Cardiology & Pediatric Echocardiography Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. Tahmina Karim is a Pediatric Cardiologist in Dhaka. Her qualification is MBBS, FCPS (Pediatrics). She is a Associate Professor, Pediatric Cardiology at Bangabandhu Sheikh Mujib Medical University Hospital. She regularly provides treatment to her patients at Labaid Diagnostic, Kalabagan. Practicing hour of Dr. Tahmina Karim at Labaid Diagnostic, Kalabagan is 5pm to 7pm (Sun, Tue & Thu).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Kalabagan",
+        "address": "House - 66, Mirpur Road, Kalabagan, Dhaka - 1205",
+        "visitingTime": "5pm to 7pm (Sun, Tue & Thu)",
+        "appointmentNumber": "+8801766661331Call Now"
+      }
     }
   ]
 }

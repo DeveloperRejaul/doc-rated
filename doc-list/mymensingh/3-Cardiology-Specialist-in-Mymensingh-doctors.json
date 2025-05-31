@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "e433f837-601f-497d-adf3-35efe983cc19",
+      "departmentId": "e2debe80-bb94-4f66-b5df-0e780516fa6e",
+      "link": "https://www.doctorbangladesh.com/dr-golam-rahman-bhuiyan/",
+      "imageId": "742f402f-fb72-44ca-bf1f-f921bc9f3495",
       "name": "Dr. Golam Rahman Bhuiyan",
       "degree": "MBBS (DMC), BCS (Health), FCPS (Medicine), MRCP (UK), MD (Cardiology)",
       "specialty": "Cardiology & Medicine Specialist",
@@ -10,39 +14,48 @@
         "hospital": "Popular Diagnostic Center, Mymensingh",
         "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
         "visitingTime": "4:30pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787814"
-      },
-      "id": "d11d6552-f073-4665-a6a2-aa73476ca539"
+        "appointmentNumber": "+8809666787814Call Now"
+      }
     },
     {
+      "id": "199a50f3-7974-4b7c-b295-b35eaad0ebf0",
+      "departmentId": "e2debe80-bb94-4f66-b5df-0e780516fa6e",
+      "link": "https://www.doctorbangladesh.com/dr-gobinda-kanti-pal/",
+      "imageId": "88dd12a6-21ef-4708-88af-7f31661c1227",
       "name": "Dr. Gobinda Kanti Pal",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Cardiology)",
       "specialty": "Cardiology, Medicine & Rheumatology Specialist",
       "workplace": "Mymensingh Medical College & Hospital",
-      "info": "Nexus Hospital, Mymensingh\nAddress: 29, Sehora, Mymensingh Sadar, Mymensingh – 2200\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8801796586561\nCall Now",
+      "info": "Nexus Hospital, Mymensingh Address: 29, Sehora, Mymensingh Sadar, Mymensingh – 2200 Visiting Hour: Unknown. Please call to know visiting hour Appointment: +8801796586561 Call Now",
       "chamber": {
         "hospital": "Sodesh Hospital, Mymensingh",
         "address": "298/2, Maskanda (Bus Stand), Mymensingh - 2200",
         "visitingTime": "3:30pm to 8:30pm (Mon, Tue & Thu)",
-        "appointmentNumber": "+8809666777990"
-      },
-      "id": "7808363f-b930-4d92-bf59-412c4a6ed554"
+        "appointmentNumber": "+8809666777990Call Now"
+      }
     },
     {
+      "id": "148a72f4-5fcd-453a-9ca6-6025f500672b",
+      "departmentId": "e2debe80-bb94-4f66-b5df-0e780516fa6e",
+      "link": "https://www.doctorbangladesh.com/dr-mdsaiful-islam/",
+      "imageId": "03e07f8e-83c3-4017-82e8-b3ed9e449895",
       "name": "Dr. Md. Saiful Islam",
       "degree": "MBBS, MD (Cardiology)",
       "specialty": "Cardiology (Heart Diseases, Hypertension & Rheumatic Fever) Specialist",
       "workplace": "Mymensingh Medical College & Hospital",
-      "info": "Aalok Healthcare & Hospital, Mirpur 10\nAddress: House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka\nVisiting Hour: 6pm to 9pm (Every Friday)\nAppointment: +8801969729205\nCall Now",
+      "info": "Aalok Healthcare & Hospital, Mirpur 10 Address: House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka Visiting Hour: 6pm to 9pm (Every Friday) Appointment: +8801969729205 Call Now",
       "chamber": {
         "hospital": "Pranto Specialized Hospital, Mymensingh",
         "address": "67, Charpara (Opposite Medical College Gate), Mymensingh",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801969729205"
-      },
-      "id": "8ca1aadb-9867-41bb-9c3f-d6141ecc1d37"
+        "appointmentNumber": "+8801969729205Call Now"
+      }
     },
     {
+      "id": "65a90fe5-7da9-49d3-8bae-8d8c63bcd3b3",
+      "departmentId": "e2debe80-bb94-4f66-b5df-0e780516fa6e",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahadat-hossain-tuhin/",
+      "imageId": "75da3856-fa3d-4c63-a44c-e6882c17a810",
       "name": "Dr. Md. Shahadat Hossain Tuhin",
       "degree": "MBBS, BCS (Health), CCD (BIRDEM), MACP (USA), D-CARD (BSMMU), FCPS (Cardiology)",
       "specialty": "Cardiology, Heart Diseases & Rheumatic Fever Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Popular Diagnostic Center, Mymensingh",
         "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
         "visitingTime": "3.30pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787814"
-      },
-      "id": "72dcf4a1-5e73-47f7-8dba-b311a1ad09c3"
+        "appointmentNumber": "+8809666787814Call Now"
+      }
     },
     {
+      "id": "caf9ac0f-d664-4df9-8b4a-f3b788899877",
+      "departmentId": "e2debe80-bb94-4f66-b5df-0e780516fa6e",
+      "link": "https://www.doctorbangladesh.com/dr-ganapati-aditya/",
+      "imageId": "4250d85e-a15e-4e56-8306-7636a6a67ec1",
       "name": "Dr. Ganapati Aditya",
       "degree": "MBBS, MD (Cardiology)",
       "specialty": "Cardiology & Heart Diseases Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Pranto Specialized Hospital, Mymensingh",
         "address": "67, Charpara, Mymensingh",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801788222000"
-      },
-      "id": "b3636b27-d425-4bb6-8ceb-04ae63dc0d4d"
+        "appointmentNumber": "+8801788222000Call Now"
+      }
     },
     {
+      "id": "c3b6cc5f-633b-463a-af9f-1b2d6921d090",
+      "departmentId": "e2debe80-bb94-4f66-b5df-0e780516fa6e",
+      "link": "https://www.doctorbangladesh.com/dr-harimohan-pandit-newton/",
+      "imageId": "eaf2497e-8b49-4088-88b2-187337871dde",
       "name": "Dr. Harimohan Pandit Newton",
       "degree": "MBBS, FCPS (Medicine), MCPS, MD (Cardiology)",
       "specialty": "Cardiology & Medicine Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Popular Diagnostic Center, Mymensingh",
         "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
         "visitingTime": "4pm to 9pm (Closed: Tuesday & Friday)",
-        "appointmentNumber": "+8809666787814"
-      },
-      "id": "57bf07fb-6570-45df-95ee-44ded5278975"
+        "appointmentNumber": "+8809666787814Call Now"
+      }
     },
     {
+      "id": "62f03f2d-0fc0-48fb-963d-cf7338dde196",
+      "departmentId": "e2debe80-bb94-4f66-b5df-0e780516fa6e",
+      "link": "https://www.doctorbangladesh.com/dr-jahir-uddin-mohammed-sharif/",
+      "imageId": "c34494a3-5744-4b8a-93e0-c9f4219363f0",
       "name": "Dr. Jahir Uddin Mohammed Sharif",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Medicine), MACP (USA)",
       "specialty": "Cardiology & Medicine Specialist",
@@ -94,25 +116,31 @@
         "hospital": "Nexus Hospital, Mymensingh",
         "address": "29, Sehora, Mymensingh Sadar, Mymensingh – 2200",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801796586561"
-      },
-      "id": "d59f57e4-9f51-4f6a-a816-46a4a4fa586e"
+        "appointmentNumber": "+8801796586561Call Now"
+      }
     },
     {
+      "id": "1f8ad527-d345-4957-ba49-42a16c38584a",
+      "departmentId": "e2debe80-bb94-4f66-b5df-0e780516fa6e",
+      "link": "https://www.doctorbangladesh.com/dr-jahidul-islam/",
+      "imageId": "8a79b806-f238-4872-96de-ea22edfc1b28",
       "name": "Dr. Md. Zahidul Islam",
       "degree": "MBBS, BCS (Health), MD (Cardiology), MACP (USA)",
       "specialty": "Cardiology (Heart Diseases), Medicine & Rheumatic Fever Specialist",
       "workplace": "Mymensingh Medical College & Hospital",
-      "info": "Sodesh Hospital, Mymensingh\nAddress: 298/2, Maskanda (Bus Stand), Mymensingh – 2200\nVisiting Hour: 10am to 2pm (Sat, Mon & Wed)\nAppointment: +8809666777990\nCall Now",
+      "info": "Sodesh Hospital, Mymensingh Address: 298/2, Maskanda (Bus Stand), Mymensingh – 2200 Visiting Hour: 10am to 2pm (Sat, Mon & Wed) Appointment: +8809666777990 Call Now",
       "chamber": {
         "hospital": "D G Lab, Mymensingh",
         "address": "210, Mondol Plaza, Opposite to Hospital Gate, Mymenshingh",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801764663355"
-      },
-      "id": "07905d1b-4f26-4487-83b8-1e054a5b28b6"
+        "appointmentNumber": "+8801764663355Call Now"
+      }
     },
     {
+      "id": "81eb04cc-d11d-4929-b31f-a613a8e17a77",
+      "departmentId": "e2debe80-bb94-4f66-b5df-0e780516fa6e",
+      "link": "https://www.doctorbangladesh.com/dr-shiblee-sadeque-shakil/",
+      "imageId": "f07e494c-9095-4b00-9214-4e216d659e8e",
       "name": "Dr. Shiblee Sadeque Shakil",
       "degree": "MBBS (DMC), MD (Cardiology)",
       "specialty": "Cardiology (Heart Diseases), Hypertension & Rheumatic Fever Specialist",
@@ -122,11 +150,14 @@
         "hospital": "Popular Diagnostic Center, Mymensingh",
         "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
         "visitingTime": "3:30pm to 9:30pm (Closed: Thursday)",
-        "appointmentNumber": "+8809666787814"
-      },
-      "id": "841c54be-e89b-41f7-815b-c30ae5e72d3c"
+        "appointmentNumber": "+8809666787814Call Now"
+      }
     },
     {
+      "id": "a185e000-593b-460b-b890-7c8a7d3406f4",
+      "departmentId": "e2debe80-bb94-4f66-b5df-0e780516fa6e",
+      "link": "https://www.doctorbangladesh.com/dr-s-m-sharif-uddin-pathan/",
+      "imageId": "2f417f53-85d3-4c79-b348-952b115d65e3",
       "name": "Dr. S. M. Sharif Uddin Pathan",
       "degree": "MBBS (Dhaka), BCS (Health), DTCD (Chest Diseases), MD (Cardiology)",
       "specialty": "Asthma, Chest Diseases & Cardiology Specialist",
@@ -136,11 +167,14 @@
         "hospital": "Delta Health Care, Mymensingh",
         "address": "55/5, Medical College Gate, Charpara, Mymensingh",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801847158301"
-      },
-      "id": "0f74687a-8850-459a-97d0-592ad01b4029"
+        "appointmentNumber": "+8801847158301Call Now"
+      }
     },
     {
+      "id": "3d496e43-8ee1-492d-99ca-2c4f8b4f10bc",
+      "departmentId": "e2debe80-bb94-4f66-b5df-0e780516fa6e",
+      "link": "https://www.doctorbangladesh.com/dr-s-k-apu/",
+      "imageId": "13b6a193-2ec7-4b79-a27f-713053707860",
       "name": "Dr. S.K. Apu",
       "degree": "MBBS, D-CARD (DU)",
       "specialty": "Cardiology (Heart Diseases, Hypertension, Rheumatic Fever) Specialist",
@@ -150,11 +184,14 @@
         "hospital": "Nexus Hospital, Mymensingh",
         "address": "29, Sehora, Mymensingh Sadar, Mymensingh – 2200",
         "visitingTime": "10am to 11am (Closed: Friday)",
-        "appointmentNumber": "+8801796586561"
-      },
-      "id": "187f81f7-5225-4349-aaf6-06280ba45c84"
+        "appointmentNumber": "+8801796586561Call Now"
+      }
     },
     {
+      "id": "323a6668-9064-4736-b93c-a455a502792d",
+      "departmentId": "e2debe80-bb94-4f66-b5df-0e780516fa6e",
+      "link": "https://www.doctorbangladesh.com/dr-ashish-kumar-roy/",
+      "imageId": "4a709a81-4f52-49fb-91b2-92a43d0b2a0b",
       "name": "Dr. Ashish Kumer Roy",
       "degree": "MBBS, MD (Cardiology)",
       "specialty": "Cardiology, Medicine & Rheumatology Specialist",
@@ -164,25 +201,31 @@
         "hospital": "Labaid Diagnostic, Mymensingh",
         "address": "72, Charpara, Medical College Gate, Mymensingh",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801766663000"
-      },
-      "id": "ece8e1df-cc41-4324-b905-f5eb65d5a203"
+        "appointmentNumber": "+8801766663000Call Now"
+      }
     },
     {
+      "id": "939a93b1-8618-4ebc-a475-efc7a5b4ff9f",
+      "departmentId": "e2debe80-bb94-4f66-b5df-0e780516fa6e",
+      "link": "https://www.doctorbangladesh.com/dr-md-shafiqul-islam-card/",
+      "imageId": "14c287b7-ba4a-4c88-8edf-413dd9e21a09",
       "name": "Dr. Md. Shafiqul Islam",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Cardiology)",
       "specialty": "Cardiology & Heart Diseases Specialist",
       "workplace": "Mymensingh Medical College & Hospital",
-      "info": "TMC Diagnostic & Hospital, Mymensingh\nAddress: Zeropoint, Noudhar, Trishal, Mymensingh – 2220\nVisiting Hour: 2.30pm to 4pm (Sun & Wed)\nAppointment: +8801774955555\nCall Now",
+      "info": "TMC Diagnostic & Hospital, Mymensingh Address: Zeropoint, Noudhar, Trishal, Mymensingh – 2220 Visiting Hour: 2.30pm to 4pm (Sun & Wed) Appointment: +8801774955555 Call Now",
       "chamber": {
         "hospital": "Sayem Diagno Complex & Hospital, Mymensingh",
         "address": "30/A/1, Dengu Bepari Road, Sehora, Mymensingh – 2200",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801725516141"
-      },
-      "id": "2ebf4ec9-99e7-4aac-9532-c08bf5723bf1"
+        "appointmentNumber": "+8801725516141Call Now"
+      }
     },
     {
+      "id": "8f38baaf-cd59-4410-9a0d-1a77fd6858ea",
+      "departmentId": "e2debe80-bb94-4f66-b5df-0e780516fa6e",
+      "link": "https://www.doctorbangladesh.com/dr-akm-sajidur-rahman-siddique/",
+      "imageId": "54d788ab-0736-4754-8dd1-572f9d72851f",
       "name": "Prof. Dr. AKM Sajidur Rahman Siddique",
       "degree": "MBBS, D-CARD, MPhil (Endocrinology)",
       "specialty": "Cardiology, Medicine, Diabetes & Rheumatic Fever Specialist",
@@ -192,11 +235,14 @@
         "hospital": "Nexus Hospital, Mymensingh",
         "address": "29, Sehora, Mymensingh Sadar, Mymensingh – 2200",
         "visitingTime": "4pm to 8pm (Sat, Mon & Wednesday)",
-        "appointmentNumber": "+8801796586561"
-      },
-      "id": "ffb0fd77-0190-4d4a-bd1b-f958a6e00829"
+        "appointmentNumber": "+8801796586561Call Now"
+      }
     },
     {
+      "id": "4035743a-b448-4e25-81b5-61d51274fd87",
+      "departmentId": "e2debe80-bb94-4f66-b5df-0e780516fa6e",
+      "link": "https://www.doctorbangladesh.com/dr-emdadul-haque/",
+      "imageId": "076a6998-017d-4a2e-8175-135007626de5",
       "name": "Dr. Emdadul Haque",
       "degree": "MBBS (Dhaka), FCGP (Dhaka), CCD (BIRDEM), PhD (Japan)",
       "specialty": "Cardiology, Diabetes & Medicine Specialist",
@@ -206,11 +252,14 @@
         "hospital": "Sodesh Hospital, Mymensingh",
         "address": "298/2, Maskanda (Bus Stand), Mymensingh - 2200",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666777990"
-      },
-      "id": "de151562-c10f-4fd2-bdaf-3cb52c16a773"
+        "appointmentNumber": "+8809666777990Call Now"
+      }
     },
     {
+      "id": "d883cc78-9c46-4ee9-8d43-486d54c826a5",
+      "departmentId": "e2debe80-bb94-4f66-b5df-0e780516fa6e",
+      "link": "https://www.doctorbangladesh.com/dr-sharif-hasan-kollol/",
+      "imageId": "aeb8a84f-fe39-43a2-902f-d66061f349cb",
       "name": "Dr. Sharif Hasan Kollol",
       "degree": "MBBS, BCS (Health), CCD (BIRDEM), MD (Cardiology)",
       "specialty": "Cardiology & Diabetes Specialist",
@@ -220,11 +269,14 @@
         "hospital": "Popular Diagnostic Center, Mymensingh",
         "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
         "visitingTime": "5pm to 10pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8809666787814"
-      },
-      "id": "b6092b41-390f-40a7-8a6e-1a5963a43cc2"
+        "appointmentNumber": "+8809666787814Call Now"
+      }
     },
     {
+      "id": "0e34a10a-9d1b-4664-b242-5dc312be054b",
+      "departmentId": "e2debe80-bb94-4f66-b5df-0e780516fa6e",
+      "link": "https://www.doctorbangladesh.com/dr-mahmud-hossain-nasim/",
+      "imageId": "1dc1b8e4-61a8-4234-96dc-d82387946d6e",
       "name": "Dr. Mahmud Hossain Nasim",
       "degree": "MBBS (Dhaka), MD (Cardiology), CCD (BIRDEM), Training (Chest Diseases)",
       "specialty": "Cardiology, Diabetes & Chest Diseases Specialist",
@@ -234,11 +286,14 @@
         "hospital": "Delta Health Care, Mymensingh",
         "address": "55/5, Medical College Gate, Charpara, Mymensingh",
         "visitingTime": "4pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801847158301"
-      },
-      "id": "33979cce-4a59-4306-b0a9-240b3c33dc6e"
+        "appointmentNumber": "+8801847158301Call Now"
+      }
     },
     {
+      "id": "78fb03e0-84dd-4136-97f1-3340d852a03d",
+      "departmentId": "e2debe80-bb94-4f66-b5df-0e780516fa6e",
+      "link": "https://www.doctorbangladesh.com/dr-tofayel-uddin-ahmed/",
+      "imageId": "88a3cbb5-3257-41d3-b2ad-582e7af4235b",
       "name": "Dr. Tofayel Uddin Ahmed",
       "degree": "MBBS, D-CARD (DU), CCD (BIRDEM), Training (ECHO)",
       "specialty": "Cardiology & Diabetes Specialist",
@@ -248,11 +303,14 @@
         "hospital": "Delta Health Care, Mymensingh",
         "address": "55/5, Medical College Gate, Charpara, Mymensingh",
         "visitingTime": "5pm to 8pm (Closed: Friday & Saturday)",
-        "appointmentNumber": "+8801847158301"
-      },
-      "id": "5cb90440-84a3-4bf8-a4b6-0611e5569ed8"
+        "appointmentNumber": "+8801847158301Call Now"
+      }
     },
     {
+      "id": "d3690c7d-87ea-4321-af75-ac5f03bdd5c6",
+      "departmentId": "e2debe80-bb94-4f66-b5df-0e780516fa6e",
+      "link": "https://www.doctorbangladesh.com/dr-parvez-rahman-khan/",
+      "imageId": "35fdb6c5-d86a-497d-b3cc-28cc8f8d6edc",
       "name": "Dr. Parvez Rahman Khan",
       "degree": "MBBS (Dhaka), CCD (BIRDEM), D-CARD (BSMMU)",
       "specialty": "Cardiology & Diabetes Specialist",
@@ -262,9 +320,8 @@
         "hospital": "Union Specialized Hospital, Mymensingh",
         "address": "337, Charpara, Mymensingh",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801958280000"
-      },
-      "id": "98fb4ae4-1cb6-476b-8e34-afc64c8ca980"
+        "appointmentNumber": "+8801958280000Call Now"
+      }
     }
   ]
 }

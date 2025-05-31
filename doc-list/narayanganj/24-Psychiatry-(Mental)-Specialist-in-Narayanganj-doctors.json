@@ -1,20 +1,27 @@
 {
   "doctor": [
     {
+      "id": "6bedf800-f55c-4657-bc6b-3a045ac332d3",
+      "departmentId": "f54c4817-de84-4e78-8102-ac6076419b95",
+      "link": "https://www.doctorbangladesh.com/dr-md-mohsin-ali-shah/",
+      "imageId": "f863d079-a228-474d-9baa-a19d5180dd24",
       "name": "Prof. Dr. Md. Mohsin Ali Shah",
       "degree": "MBBS, M.Phil (Psychiatry), MD (Psychiatry)",
-      "specialty": "Mental Diseases, Drug Addiction, Sex Medicine &  Psychiatry Specialist",
+      "specialty": "Mental Diseases, Drug Addiction, Sex Medicine & Psychiatry Specialist",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, B.B. Road, Chashara, Narayanganj – 1400\nVisiting Hour: 4pm to 10pm (Only Tuesday)\nAppointment: +8809666787804\nCall Now",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, B.B. Road, Chashara, Narayanganj – 1400 Visiting Hour: 4pm to 10pm (Only Tuesday) Appointment: +8809666787804 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Shantinagar",
         "address": "Unit # 02, House # 15, Shantinagar, Motijheel, Dhaka",
         "visitingTime": "4:30pm to 8pm (Monday & Thurday)",
-        "appointmentNumber": "+8809666787803"
-      },
-      "id": "a7dd8909-77be-455a-bf8b-e31d95815000"
+        "appointmentNumber": "+8809666787803Call Now"
+      }
     },
     {
+      "id": "90af3537-730d-4a9f-82b7-5c65357220b1",
+      "departmentId": "f54c4817-de84-4e78-8102-ac6076419b95",
+      "link": "https://www.doctorbangladesh.com/dr-surajit-kumar-talukder/",
+      "imageId": "f927d8ac-a14e-4cbf-9f52-9b36cad9334b",
       "name": "Dr. Surajit Kumar Talukder",
       "degree": "MBBS, FCPS (Psychiatry)",
       "specialty": "Mental Diseases, Disorders & Drug Addiction Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "5pm to 8.30pm (Sat, Mon & Wed) & 10am to 1pm (Friday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "da167736-6085-4b29-891a-13983ee4d41c"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "742b1d20-8c38-4e2b-83d3-8be228e314a7",
+      "departmentId": "f54c4817-de84-4e78-8102-ac6076419b95",
+      "link": "https://www.doctorbangladesh.com/dr-shahidul-islam-khandaker/",
+      "imageId": "3c3d8db4-537b-4a16-94ac-2d06548a96fe",
       "name": "Dr. Shahidul Islam Khandaker",
       "degree": "MBBS, MPH (Community Medicine), MPhil (Psychiatry), Fellow WHO (Thailand)",
       "specialty": "Mental, Brain Diseases & Medicine Specialist",
@@ -38,9 +48,8 @@
         "hospital": "Modern Diagnostic Center, Narayanganj",
         "address": "207, Bangabandhu Road, Chashara, Narayanganj - 1400",
         "visitingTime": "5pm to 8pm (Sun, Mon & Wed)",
-        "appointmentNumber": "+8801820842293"
-      },
-      "id": "49a088c8-3eab-48a7-8075-2b7bdea95a2e"
+        "appointmentNumber": "+8801820842293Call Now"
+      }
     }
   ]
 }

@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "9e11c9fd-59e1-4057-821a-7d84a5aad401",
+      "departmentId": "d4c5a7d3-7ff6-4ef8-b129-8d4e870e1ff4",
+      "link": "https://www.doctorbangladesh.com/dr-a-s-m-lokman-hossain-chowdhury/",
+      "imageId": "d34008ca-5aa2-450f-9544-814f049506d3",
       "name": "Prof. Dr. ASM Lokman Hossain Chowdhury",
       "degree": "MBBS, MS (Pediatric Surgery)",
       "specialty": "Neonatal & Pediatric Specialist Surgeon",
@@ -10,39 +14,48 @@
         "hospital": "Delta Health Care, Mymensingh",
         "address": "55/5, Medical College Gate, Charpara, Mymensingh",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801847158301"
-      },
-      "id": "cd09b507-41e6-428c-b698-7435a349cf9c"
+        "appointmentNumber": "+8801847158301Call Now"
+      }
     },
     {
+      "id": "faab2d31-87d7-432b-a813-5404dbb8bfa5",
+      "departmentId": "d4c5a7d3-7ff6-4ef8-b129-8d4e870e1ff4",
+      "link": "https://www.doctorbangladesh.com/dr-shafiqul-bari-tuhin/",
+      "imageId": "cd226727-03bd-4c35-80dd-65905217c66b",
       "name": "Dr. Shafiqul Bari Tuhin",
       "degree": "MBBS (Dhaka), BCS (Health), MS (Pediatric Surgery), Higher Training (India)",
       "specialty": "Neonatal & Pediatric Surgeon",
       "workplace": "Mymensingh Medical College & Hospital",
-      "info": "Sayem Diagno Complex & Hospital, Mymensingh\nAddress: 30/A/1, Dengu Bepari Road, Sehora, Mymensingh – 2200\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8801725516141\nCall Now",
+      "info": "Sayem Diagno Complex & Hospital, Mymensingh Address: 30/A/1, Dengu Bepari Road, Sehora, Mymensingh – 2200 Visiting Hour: Unknown. Please call to know visiting hour Appointment: +8801725516141 Call Now",
       "chamber": {
         "hospital": "Labaid Diagnostic, Mymensingh",
         "address": "72, Charpara, Medical College Gate, Mymensingh",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766663000"
-      },
-      "id": "3244702c-1e77-4906-b131-a11966099e03"
+        "appointmentNumber": "+8801766663000Call Now"
+      }
     },
     {
+      "id": "b87eeff6-d1c4-4886-8cdf-b29e98aa44af",
+      "departmentId": "d4c5a7d3-7ff6-4ef8-b129-8d4e870e1ff4",
+      "link": "https://www.doctorbangladesh.com/dr-abdullah-al-mahmud-ratan/",
+      "imageId": "db7997b9-aa7f-4456-876d-8120d19461a9",
       "name": "Dr. Abdullah Al Mahmud Ratan",
       "degree": "MBBS, BCS (Health), MS (Pediatric Surgery)",
       "specialty": "Neonatal & Pediatric Surgeon",
       "workplace": "Mymensingh Medical College & Hospital",
-      "info": "Delta Health Care, Mymensingh\nAddress: 55/5, Medical College Gate, Charpara, Mymensingh\nVisiting Hour: 5pm to 10pm (Closed: Friday)\nAppointment: +8801847158301\nCall Now",
+      "info": "Delta Health Care, Mymensingh Address: 55/5, Medical College Gate, Charpara, Mymensingh Visiting Hour: 5pm to 10pm (Closed: Friday) Appointment: +8801847158301 Call Now",
       "chamber": {
         "hospital": "Sodesh Hospital, Mymensingh",
         "address": "298/2, Maskanda (Bus Stand), Mymensingh - 2200",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666777990"
-      },
-      "id": "44b04483-4241-4b5b-8a13-0b05cec494a8"
+        "appointmentNumber": "+8809666777990Call Now"
+      }
     },
     {
+      "id": "78e4edd9-68d6-44e5-9f8c-90ebca6d6e03",
+      "departmentId": "d4c5a7d3-7ff6-4ef8-b129-8d4e870e1ff4",
+      "link": "https://www.doctorbangladesh.com/dr-nadiuzzaman-khan-nadim/",
+      "imageId": "f8fd52cb-4911-4a84-8ec1-711291224ca5",
       "name": "Dr. Nadiuzzaman Khan Nadim",
       "degree": "MBBS, BCS (Health), MS (Pediatric Surgery)",
       "specialty": "Pediatric Surgery Specialist",
@@ -52,9 +65,8 @@
         "hospital": "Popular Diagnostic Center, Mymensingh",
         "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
         "visitingTime": "2pm to 5pm (Sat, Sun & Wed)",
-        "appointmentNumber": "+8809666787814"
-      },
-      "id": "c44c2870-70ae-4e67-83f3-dd5d8f3179b8"
+        "appointmentNumber": "+8809666787814Call Now"
+      }
     }
   ]
 }

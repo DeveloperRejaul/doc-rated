@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "60b31b1e-88dc-4cb7-bab5-285b9274939d",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-lutfur-rahman-rahat/",
+      "imageId": "acc8cc3e-7044-4ec6-8d7a-e0bf7481ea92",
       "name": "Dr. Mohammad Lutfur Rahman Rahat",
       "degree": "MBBS, MD (SKIN & VD, BSMMU)",
       "specialty": "Skin, Sexual Diseases, Leprosy, STD, Aesthetics & Dermatosurgery Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Zyona Laser & Skin Care Center",
         "address": "House # 499/685, Siddique Valley, 3rd Floor, Agrabad Access Road, Chattogram",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801307842071"
-      },
-      "id": "8e9db425-42e6-456a-a40f-60649508c2a1"
+        "appointmentNumber": "+8801307842071Call Now"
+      }
     },
     {
+      "id": "e656d7c6-1b8d-41d6-9016-4e3b2a91493d",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-shakti-chowdhury/",
+      "imageId": "82c9a848-8049-4a1f-9ac5-692f91e2ef10",
       "name": "Dr. Shakti Chowdhury",
       "degree": "MBBS (CMC), DDV (BSMMU)",
       "specialty": "Dermatology (Skin, Allergy, Hair, Nail. Leprosy) & Cosmetology Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Surecell Medical, Chattogram",
         "address": "Al-Noor Badrun Centre (3rd Floor), 1486/1672, OR Nizam Road, Chattogram",
         "visitingTime": "4pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801701664440"
-      },
-      "id": "a4903f4b-29f8-46f1-875b-f8415f1c3351"
+        "appointmentNumber": "+8801701664440Call Now"
+      }
     },
     {
+      "id": "146b8828-ebd4-42a6-8587-cc04318dee0a",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-istiak-arif/",
+      "imageId": "8248f0f4-a172-4d14-b406-6a638241e3a4",
       "name": "Dr. Mohammad Istiak Arif",
       "degree": "MBBS, BCS (Health), MD (Skin & VD)",
       "specialty": "Skin, Allergy, Hair, Nail, Sexual Diseases Specialist",
@@ -38,39 +48,48 @@
         "hospital": "Asperia Health Care Ltd, Chittagong",
         "address": "Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram",
         "visitingTime": "7pm to 9pm (Sunday to Thursday)",
-        "appointmentNumber": "+8801810004550"
-      },
-      "id": "b480a47a-bb4a-4069-9364-b38252d3b476"
+        "appointmentNumber": "+8801810004550Call Now"
+      }
     },
     {
+      "id": "754e3510-e56f-4860-809a-b82e2e0ebd4c",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-chowdhury-farhana-tinnee/",
+      "imageId": "40b87f73-d6d9-47ae-a951-7401d9d20ef1",
       "name": "Dr. Chowdhury Farhana Tinnee",
       "degree": "MBBS, MD (Dermatology & Venereology - BSMMU)",
       "specialty": "Skin, Allergy, Sex, Aesthetic Medicine Specialist & Dermatosurgeon",
       "workplace": "Chittagong Medical College Hospital",
-      "info": "Surecell Medical, Chattogram\nAddress: Al-Noor Badrun Centre (3rd Floor), 1486/1672, OR Nizam Road, Chattogram\nVisiting Hour: Prior Appointment\nAppointment: +8801701664440\nCall Now",
+      "info": "Surecell Medical, Chattogram Address: Al-Noor Badrun Centre (3rd Floor), 1486/1672, OR Nizam Road, Chattogram Visiting Hour: Prior Appointment Appointment: +8801701664440 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Chittagong",
         "address": "Room - 513, Block - B, 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "4pm to 7pm (Everyday)",
-        "appointmentNumber": "+8801974896998, +8809666787810"
-      },
-      "id": "c01c7693-3fd1-4e99-90e8-2f65fb75e5c5"
+        "appointmentNumber": "+8801974896998, +8809666787810Call Now"
+      }
     },
     {
+      "id": "5a1259e9-db65-4dd6-841f-6b96a4ba5eb2",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/prof-dr-mansurul-alam/",
+      "imageId": "9a6b9519-814b-43f6-80ea-62c3e2319d51",
       "name": "Prof. Dr. Mansurul Alam",
       "degree": "MBBS, BCS (Health), FCPS (Dermatology), MD (SKIN & VD), PhD, FRCP (GLASGOW)",
       "specialty": "Skin, Allergy, Leprosy, Sexual Diseases Specialist & Surgeon",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Parkview Hospital, Chittagong\nAddress: 94/103, Katalganj Road, Panchlaish, Chattogram\nVisiting Hour: 9am to 1pm (Closed: Friday)\nAppointment: +8801976022333\nCall Now",
+      "info": "Parkview Hospital, Chittagong Address: 94/103, Katalganj Road, Panchlaish, Chattogram Visiting Hour: 9am to 1pm (Closed: Friday) Appointment: +8801976022333 Call Now",
       "chamber": {
         "hospital": "Epic Healthcare, Chittagong",
         "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "3.30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801984499600"
-      },
-      "id": "daa3c460-ff87-44f4-9166-e988bc62cc5f"
+        "appointmentNumber": "+8801984499600Call Now"
+      }
     },
     {
+      "id": "890c1200-1dd8-4aeb-85dc-d620fd58b231",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-samira-jamal/",
+      "imageId": "28c6adce-0eeb-4026-9fd7-490792808b34",
       "name": "Dr. Samira Jamal",
       "degree": "MBBS, BCS (Health), MD (Dermatology)",
       "specialty": "Skin, Allergy, Leprosy, Sexual Diseases Specialist & Surgeon",
@@ -80,11 +99,14 @@
         "hospital": "Chevron Clinical Laboratory, Chittagong",
         "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "4.30pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801713487913"
-      },
-      "id": "4b80aa62-69ac-490b-9542-3513ca14b73b"
+        "appointmentNumber": "+8801713487913Call Now"
+      }
     },
     {
+      "id": "8f394bf0-54b2-419a-a1e1-ada897037b8b",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-zeenat-meraj-shopna/",
+      "imageId": "33f20ed6-c6b6-407e-af86-34d5fca58424",
       "name": "Prof. Dr. Zeenat Meraj Shopna",
       "degree": "MBBS, MCPS, DD (Bangkok), FCPS, FRCP (Glasgow)",
       "specialty": "Aesthetic Dermatology & Laser Specialist",
@@ -94,11 +116,14 @@
         "hospital": "CSCR Hospital, Chittagong",
         "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
         "visitingTime": "Not Available২৩ সেপ্টেম্বর ২০২৩ তারিখে অধ্যাপক ডা. জিনাত মেরাজ স্বপ্না ইন্তেকাল করেছেন",
-        "appointmentNumber": "Not Available"
-      },
-      "id": "248519f8-79ca-4302-933c-fe5537963f83"
+        "appointmentNumber": "Not AvailableCall Now"
+      }
     },
     {
+      "id": "ba8b1f71-c0b9-44d6-a11e-68fd97abb328",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-abul-kashem-chowdhury/",
+      "imageId": "ac006752-477d-43e5-a6d1-8670c7bcd7f9",
       "name": "Prof. Dr. Md. Abul Kashem Chowdhury",
       "degree": "MBBS, DDV, FCPS",
       "specialty": "Skin, Allergy, Sexual Diseases Specialist & Dermatosurgeon",
@@ -108,11 +133,14 @@
         "hospital": "Labaid Specialized Hospital, Chattogram",
         "address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
         "visitingTime": "10am to 1pm & 5pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662828"
-      },
-      "id": "181d6812-c914-47dd-b45a-413f562fea6a"
+        "appointmentNumber": "+8801766662828Call Now"
+      }
     },
     {
+      "id": "66f38528-5e4a-414c-a728-e0fb6106fb63",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-manjurul-karim/",
+      "imageId": "0dbb9eaf-a4d2-4b54-b33d-6e932f478a0d",
       "name": "Dr. Muhammad Manjurul Karim",
       "degree": "MBBS, DD (Thailand), MSc (Dermatology)",
       "specialty": "Skin, Allergy, Hair, Nail, Leprosy & Sexual Diseases Specialist",
@@ -122,11 +150,14 @@
         "hospital": "Apollo Imperial Hospital, Chittagong",
         "address": "Zakir Hossain Road, Pahartali, Chattogram",
         "visitingTime": "9am to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8809612247247"
-      },
-      "id": "c91d3307-d77d-4cb2-9947-2e498a24ec58"
+        "appointmentNumber": "+8809612247247Call Now"
+      }
     },
     {
+      "id": "debb5a60-3923-4078-8d38-e89c5af31ca4",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-shamim-ara-sizu/",
+      "imageId": "e89babe8-e69d-4c04-b1da-1c0fdfca1360",
       "name": "Dr. Shamim Ara Sizu",
       "degree": "MBBS, DDV, MD (Dermatology)",
       "specialty": "Skin, Allergy, Hair, Nail, Leprosy & Sexual Diseases Specialist",
@@ -136,11 +167,14 @@
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "7pm to 9pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "8421fa61-272d-4c13-9b20-ae866dcb1a37"
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "28c99c6e-2321-4cc8-8507-6aca81ac1c1d",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-shamsun-nahar-skin/",
+      "imageId": "4596bc3e-1100-47e6-b226-48bf4aa7d7ad",
       "name": "Dr. Shamsun Nahar",
       "degree": "MBBS, DDV (CMC), Fellow (Aesthetic Dermatology & Trichology)",
       "specialty": "Skin, Allergy, Leprosy & Sex Diseases Specialist",
@@ -150,11 +184,14 @@
         "hospital": "National Hospital, Chittagong",
         "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
         "visitingTime": "3pm to 5pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801822685066"
-      },
-      "id": "9f07fc54-1807-493a-b4ff-8fee7145a982"
+        "appointmentNumber": "+8801822685066Call Now"
+      }
     },
     {
+      "id": "21e28b00-f708-4453-b6f5-d31e9f4eb694",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/prof-dr-muhammad-ismail/",
+      "imageId": "7c38cad2-c65a-492f-bf02-975ef3861cd1",
       "name": "Prof. Dr. Muhammad Ismail",
       "degree": "MBBS, BCS (Health), MD (Dermatology & Venereology)",
       "specialty": "Skin, Sexual Diseases & Allergy Specialist",
@@ -164,11 +201,14 @@
         "hospital": "Chattogram Metropolitan Hospital",
         "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 10.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801920174451"
-      },
-      "id": "1d7e6f94-0a5b-49bb-9df5-d9ba175addfd"
+        "appointmentNumber": "+8801920174451Call Now"
+      }
     },
     {
+      "id": "23435245-024b-4032-8759-bc7ca079227d",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-barnali-barua/",
+      "imageId": "8e1e53c5-5015-4f35-92c0-51f1c72f513e",
       "name": "Dr. Barnali Barua",
       "degree": "MBBS, MD (Dermatology)",
       "specialty": "Dermatologist, Cosmetologist & Trichologist",
@@ -178,11 +218,14 @@
         "hospital": "Holy Health Hospital, Chittagong",
         "address": "107, Opposite Chittagong Medical College Gate, Palclaish, Chattogram",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801812605505"
-      },
-      "id": "9a1e0183-ccb5-436d-9533-b0c9c323b074"
+        "appointmentNumber": "+8801812605505Call Now"
+      }
     },
     {
+      "id": "11ed216b-bbf9-4946-a461-146dabceb3fe",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/prof-dr-habibur-rahman/",
+      "imageId": "966ffba3-5c73-4b1b-9f05-6983495168ca",
       "name": "Prof. Dr. Habibur Rahman",
       "degree": "MBBS, BCS (Health), DDV (CU)",
       "specialty": "Skin, Allergy, Hair, Nail & Sexual Diseases Specialist",
@@ -192,25 +235,31 @@
         "hospital": "Ibn Sina Diagnostic Center, Chittagong",
         "address": "House # 12/A, Road # 02, Katalgonj, Panchlaish, Chattogram",
         "visitingTime": "10am to 12pm (Closed: Friday)",
-        "appointmentNumber": "+8801886610115"
-      },
-      "id": "0c213aac-b562-43d0-93bf-fc62c350fc0e"
+        "appointmentNumber": "+8801886610115Call Now"
+      }
     },
     {
+      "id": "8bcd414a-588a-4c73-8b2c-22d9067d325d",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-roksana-hoque/",
+      "imageId": "33154f25-fa17-4d46-8dfc-bb0c3098a4fa",
       "name": "Dr. Roksana Hoque",
       "degree": "MBBS (CMC), DDV, MCPS (Dermatology & Venereology)",
       "specialty": "Skin, Allergy, Leprosy Specialistশুধুমাত্র মহিলা এবং শিশু রোগী দেখা হয়",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Care Lab, Chittagong\nAddress: 130, Panchlaish R/A, In front of Chittagong Medical College (Sonali Bank Goli), Chattogram\nVisiting Hour: 7pm to 9pm (Closed: Friday)\nAppointment: +8801872289202\nCall Now",
+      "info": "Care Lab, Chittagong Address: 130, Panchlaish R/A, In front of Chittagong Medical College (Sonali Bank Goli), Chattogram Visiting Hour: 7pm to 9pm (Closed: Friday) Appointment: +8801872289202 Call Now",
       "chamber": {
         "hospital": "Max Hospital & Diagnostic, Chittagong",
         "address": "Room - 208, 35/36, Mehedibag Road, Chattogram",
         "visitingTime": "11am to 1pm (Closed: Friday)",
-        "appointmentNumber": "+8801713998166"
-      },
-      "id": "b4369849-e945-4e13-94ab-1474ac5f3ab9"
+        "appointmentNumber": "+8801713998166Call Now"
+      }
     },
     {
+      "id": "5dbc4c95-90a2-4c54-8cf4-e4a8957f0b89",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-rafiqul-mowla/",
+      "imageId": "0c26e2e3-18ad-437e-8b1c-72374b814481",
       "name": "Dr. Mohammad Rafiqul Mowla",
       "degree": "MBBS, BCS (Health), MD (Dermatology), PhD",
       "specialty": "Skin, Allergy, Hair, Nail, Leprosy & Sexual Diseases Specialist",
@@ -220,11 +269,14 @@
         "hospital": "Popular Diagnostic Center, Chittagong",
         "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787810"
-      },
-      "id": "ed52dee8-c27b-4ed1-aeeb-ffcfd69362aa"
+        "appointmentNumber": "+8809666787810Call Now"
+      }
     },
     {
+      "id": "0c3a3224-1849-4f83-adc8-213b2cbc0afd",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-alvin-saha/",
+      "imageId": "ee4f68f5-8325-4342-a908-bb74f9ca363a",
       "name": "Dr. Alvin Saha",
       "degree": "MBBS (CU), DD (Bangkok & Japan), SLRTC (India)",
       "specialty": "Skin, Allergy, Leprosy, Sexual Diseases Specialist & Surgeon",
@@ -234,11 +286,14 @@
         "hospital": "Metro Diagnostic Center, Chittagong",
         "address": "Metro Tower, Goal Pahar Mor, Mehedibag, Chattogram",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801819078842"
-      },
-      "id": "c2293dbb-beea-446c-9735-5fc9f4b502d6"
+        "appointmentNumber": "+8801819078842Call Now"
+      }
     },
     {
+      "id": "b644e62b-201a-451e-b45e-24795cfef369",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/prof-dr-sardar-ghulam-murtaza/",
+      "imageId": "dccc2c89-c37d-4753-941b-51d85a8c79f8",
       "name": "Prof. Dr. Sardar Ghulam Murtaza",
       "degree": "MBBS, DD (THAILAND & JAPAN)",
       "specialty": "Skin, Allergy, Leprosy, Hair & Sexual Diseases Specialist",
@@ -248,11 +303,14 @@
         "hospital": "Dr. Sardar Ghulam Murtaza's Personal Chanmber",
         "address": "84, (3rd Floor of Eastern Bank) Jamal Khan Road, Chittagong",
         "visitingTime": "11am to 3pm & 5pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801752276247"
-      },
-      "id": "076977b9-faec-4bfb-a9e7-f3a39330a978"
+        "appointmentNumber": "+8801752276247Call Now"
+      }
     },
     {
+      "id": "c9b1874d-ab42-47fa-8432-504fd7cb6766",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-ajay-kumar-ghosh/",
+      "imageId": "7c5d2174-d443-4d83-aa94-7332f959fb5a",
       "name": "Dr. Ajay Kumar Ghosh",
       "degree": "MBBS, BCS (Health), DDV (BSMMU)",
       "specialty": "Skin, Allergy, STD & Sexual Diseases Specialist",
@@ -262,11 +320,14 @@
         "hospital": "Max Hospital & Diagnostic, Chittagong",
         "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
         "visitingTime": "2pm to 3pm (Sat to Thu) & 6pm to 10pm (Friday)",
-        "appointmentNumber": "+8801713998199"
-      },
-      "id": "42f684ca-1272-4b6a-9215-f9ad1d82abb0"
+        "appointmentNumber": "+8801713998199Call Now"
+      }
     },
     {
+      "id": "4dc9fe72-1617-4eb5-a55b-b69e9ecd98f5",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-pritish-barua/",
+      "imageId": "cd2b5f52-5834-4ee6-bd03-6d460c82fd69",
       "name": "Dr. Pritish Barua",
       "degree": "MBBS (CU), DGUM (UK), DD (Australia)",
       "specialty": "Skin, Allergy, Hair, Nail, Sexual Diseases Specialist",
@@ -276,25 +337,31 @@
         "hospital": "Shahjalal Diagnostic Clinic, Chittagong",
         "address": "143, Sheikh Mujib Road, Badamtoli, Agrabad, Chattogram",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801812506020"
-      },
-      "id": "59a0c50b-19c4-4aa1-9d37-4dd9b70a679b"
+        "appointmentNumber": "+8801812506020Call Now"
+      }
     },
     {
+      "id": "d3092c78-dfc0-40a3-acd7-a29aab0ec1b6",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-md-ziaur-rahman-bhuiyan/",
+      "imageId": "0cb32d63-fa83-462a-b536-b9aa8684e22f",
       "name": "Dr. Md. Ziaur Rahman Bhuiyan",
       "degree": "MBBS (CMC), BCS (Health), MCPS, FCPS (Dermatology)",
       "specialty": "Skin & Sexual Diseases Specialist",
       "workplace": "Cox's Bazar Medical College & Hospital",
-      "info": "People’s Hospital, Chittagong\nAddress: 94, K. B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +88031658911\nCall Now",
+      "info": "People’s Hospital, Chittagong Address: 94, K. B. Fazlul Kader Road, Panchlaish, Chattogram Visiting Hour: Unknown. Please call to know visiting hour Appointment: +88031658911 Call Now",
       "chamber": {
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "5pm to 9pm (Closed: Sat, Sun & Mon)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "4abaab78-f994-4d6e-bad0-ce0ac537af1d"
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "05b73f6d-df1f-4964-9c04-3f6110a75554",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-salah-uddin-ahmed/",
+      "imageId": "8977383c-509c-4a3a-8633-0ac30b991d2f",
       "name": "Dr. Salah Uddin Ahmed",
       "degree": "MBBS, DDV",
       "specialty": "Skin, Sex Diseases, Allergy Specialist, Cosmetic & Laser Surgeon",
@@ -304,25 +371,31 @@
         "hospital": "Chattogram Metropolitan Hospital",
         "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801814651077"
-      },
-      "id": "034525d1-1e80-4f87-b58f-5dc82511b8e8"
+        "appointmentNumber": "+8801814651077Call Now"
+      }
     },
     {
+      "id": "027318e7-ccd2-43e1-b38e-486d72624a0d",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-meherun-kabir/",
+      "imageId": "2dfc73ae-6528-4079-9db7-ca1a503b1ac8",
       "name": "Dr. Meherun Kabir",
       "degree": "MBBS, DDV, MCPS (Skin & Sex)",
       "specialty": "Skin, Allergy, Hair, Nail, Sexual Diseases Specialist",
       "workplace": "Southern Medical College & Hospital",
-      "info": "Chittagong Square Clinical Laboratory\nAddress: 195, Plot # 20, Road # 11, KB Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 6pm to 10pm (Everyday)\nAppointment: +8801841005588\nCall Now",
+      "info": "Chittagong Square Clinical Laboratory Address: 195, Plot # 20, Road # 11, KB Fazlul Kader Road, Panchlaish, Chattogram Visiting Hour: 6pm to 10pm (Everyday) Appointment: +8801841005588 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Chittagong",
         "address": "House # 12/A, Road # 02, Katalgonj, Panchlaish, Chattogram",
         "visitingTime": "7pm to 10pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801886610115"
-      },
-      "id": "7f7214e7-37c0-4a25-885b-0a03bd2aab21"
+        "appointmentNumber": "+8801886610115Call Now"
+      }
     },
     {
+      "id": "2319705a-6224-4362-a467-4c985ba9a842",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-md-mizanur-rahman-skin/",
+      "imageId": "dc6e7538-cd2d-40eb-8cd4-a96afe2f6a14",
       "name": "Dr. Md. Mizanur Rahman",
       "degree": "MBBS, BCS (Health), DDV (BSMMU)",
       "specialty": "Skin, Allergy, Leprosy & Sexual Diseases Specialist",
@@ -332,11 +405,14 @@
         "hospital": "Life Care Center, Chittagong",
         "address": "129, K.B Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 9pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801679082070"
-      },
-      "id": "1ac4624d-65d5-4a7e-9da2-b0736e79fee6"
+        "appointmentNumber": "+8801679082070Call Now"
+      }
     },
     {
+      "id": "2acda0d2-0db5-4f4a-ac28-ce78967a40ec",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-mst-nasrin-sultana/",
+      "imageId": "972e4cbf-7d45-4feb-b537-9445b6ae9235",
       "name": "Dr. Mst. Nasrin Sultana",
       "degree": "MBBS, MD (BSMMU)",
       "specialty": "Skin, Sexual Diseases & Allergy Specialist",
@@ -346,11 +422,14 @@
         "hospital": "Chattogram Metropolitan Hospital",
         "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "4.30pm to 6.40pm (Closed: Friday)",
-        "appointmentNumber": "+8801810030999"
-      },
-      "id": "966528f9-f2ec-4619-9993-5bdcfbb9fe3a"
+        "appointmentNumber": "+8801810030999Call Now"
+      }
     },
     {
+      "id": "ea3ec1c7-3b22-4153-86e9-c7880c284c53",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-junayed-mahmood-khan/",
+      "imageId": "03c00841-39ce-4cdc-8f35-4cb43d36990f",
       "name": "Dr. Junayed Mahmood Khan",
       "degree": "MBBS, BCS (Health), DDV",
       "specialty": "Skin, Allergy, STD, AIDS & Sexual Diseases Specialist",
@@ -360,11 +439,14 @@
         "hospital": "Chevron Clinical Laboratory, Chittagong",
         "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "7.30pm to 10pm (Sat, Mon, Wed & Thu)",
-        "appointmentNumber": "+8801755666969"
-      },
-      "id": "093fff3f-9b96-4628-a807-fa7a04b32c89"
+        "appointmentNumber": "+8801755666969Call Now"
+      }
     },
     {
+      "id": "8c57732b-f575-4de0-90fb-d49c75c6b05f",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-md-nasim-hyder/",
+      "imageId": "30417bcd-2f8f-4478-afd6-4a2ab79b2c34",
       "name": "Dr. Md. Nasim Hyder",
       "degree": "MBBS, DDV",
       "specialty": "Skin, Allergy, Hair, Scalp & Sexual Diseases Specialist",
@@ -374,11 +456,14 @@
         "hospital": "Woodland Diagnostic Center",
         "address": "37, KB Fazlul Kader Road, Panchlaish, Chittagong",
         "visitingTime": "4.30pm to 6.30pm (Closed: Wed & Friday)",
-        "appointmentNumber": "+8801818154533"
-      },
-      "id": "b10b4f28-96ad-4948-937b-388edcb9209a"
+        "appointmentNumber": "+8801818154533Call Now"
+      }
     },
     {
+      "id": "b9843f38-79e2-4608-b8d2-24331c256942",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-nishith-ranjan-dey/",
+      "imageId": "c4095e6f-ead9-49d8-9ee9-7be25cf7605b",
       "name": "Dr. Nishith Ranjan Dey",
       "degree": "MBBS, FRCP, MD (SKIN & VD)",
       "specialty": "Aesthetic Dermatology, Cosmetology & Regenerative Medicine Specialist",
@@ -388,11 +473,14 @@
         "hospital": "Surecell Medical, Chattogram",
         "address": "Al-Noor Badrun Centre (3rd Floor), 1486/1672, OR Nizam Road, Chattogram",
         "visitingTime": "3pm to 4.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801701664440"
-      },
-      "id": "6278d1f6-e1ef-4910-b069-904b0acaa86d"
+        "appointmentNumber": "+8801701664440Call Now"
+      }
     },
     {
+      "id": "01fe65f0-a146-45dd-9837-3bbfdcf3a073",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-ehsan/",
+      "imageId": "281bc51d-8c93-4929-a1dc-5b28db1a05d5",
       "name": "Dr. Mohammad Ehsan",
       "degree": "MBBS, DD (Thailand-Japan), DPD (UK), ABLS (USA), Skin & Laser Surgery (Bangkok)",
       "specialty": "Skin, Allergy, Leprosy, Hair & Sexual Diseases Specialist",
@@ -402,11 +490,14 @@
         "hospital": "Delta Health Care, Chittagong",
         "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801841906010"
-      },
-      "id": "d0686194-c282-4161-8146-4434f3f0711a"
+        "appointmentNumber": "+8801841906010Call Now"
+      }
     },
     {
+      "id": "e292749e-87f8-4576-9ef3-63ad679c499b",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-shyamali-das/",
+      "imageId": "82a66215-25c2-4091-a288-93714271293e",
       "name": "Dr. Shyamali Das",
       "degree": "MBBS, MD (Dermatology), MPH (NIPSOM)",
       "specialty": "Skin, Sex & Allergy Specialist",
@@ -416,11 +507,14 @@
         "hospital": "Sensiv Private Limited, Chittagong",
         "address": "14, Jamal Khan Road, Jamal Khan, Chattogram",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801919803386"
-      },
-      "id": "f0e5ac8f-97f1-4de3-8d40-14133aeb97d7"
+        "appointmentNumber": "+8801919803386Call Now"
+      }
     },
     {
+      "id": "4b8028e8-ecff-4515-90da-db2b79df7f5a",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-kazi-zainal-abedin/",
+      "imageId": "6841334c-5875-4a39-97ae-faf4517ae41d",
       "name": "Dr. Kazi Zainal Abedin",
       "degree": "MBBS, BCS (Health), DD (Dermatology)",
       "specialty": "Skin, Allergy, Leprosy & Sexual Diseases Specialist",
@@ -430,11 +524,14 @@
         "hospital": "Doctors Lab, Chittagong",
         "address": "131, KB Fazlul Kader Road, Probortok More, Panchlaish, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801940876810"
-      },
-      "id": "caa8efe8-c848-4b98-b071-057317aa079e"
+        "appointmentNumber": "+8801940876810Call Now"
+      }
     },
     {
+      "id": "76fbdc5b-9163-44cd-91e8-67143c56e0d9",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-didaruzzaman/",
+      "imageId": "929eabee-0d93-4342-9ad4-703695b21923",
       "name": "Dr. Didaruzzaman",
       "degree": "MBBS, DD (Thailand), Post Doc Fellowship in STD & AIDS (USA)",
       "specialty": "Skin, Allergy, STD, AIDS & Sexual Diseases Specialist",
@@ -444,11 +541,14 @@
         "hospital": "National Hospital, Chittagong",
         "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
         "visitingTime": "10am to 12pm & 6pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801822685066"
-      },
-      "id": "b3d9c721-af8a-4b45-8873-83ad00ba568b"
+        "appointmentNumber": "+8801822685066Call Now"
+      }
     },
     {
+      "id": "73c55c87-264b-4245-a361-59a0ac8ffb92",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-mostafizur-rahman-nahid/",
+      "imageId": "8c7265f1-f5cf-4be1-bb91-32e07d5b8689",
       "name": "Dr. Md. Mostafizur Rahman Nahid",
       "degree": "MBBS, BCS (Health), DDV (Skin & VD)",
       "specialty": "Skin, Sex, Allergy & Cosmetic Dermatology Specialist",
@@ -458,11 +558,14 @@
         "hospital": "Delta Health Care, Chittagong",
         "address": "28 Katalganj, Mirzapul Road, Panchlaish, Chattogram",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801841906010"
-      },
-      "id": "da77e6ac-eaa0-40c8-b225-f0980b6f94e7"
+        "appointmentNumber": "+8801841906010Call Now"
+      }
     },
     {
+      "id": "57e30c7e-50f6-4d27-b9a8-91965c8e7903",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-deva-pratim-barua/",
+      "imageId": "fa70472a-9296-4839-b5a6-a15416bb7f56",
       "name": "Dr. Deva Pratim Barua",
       "degree": "MBBS, BCS (Health), MD (Dermatology)",
       "specialty": "Dermatology, Venereology, Allergology, Sexual Disorders & Dermatosurgery Specialist",
@@ -472,11 +575,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Chittagong",
         "address": "Room - 703, House # 12/A, Road # 02, Katalgonj, Panchlaish, Chattogram",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009622"
-      },
-      "id": "562e71cd-74fd-40b1-8182-a9bc2b097cb9"
+        "appointmentNumber": "+8809610009622Call Now"
+      }
     },
     {
+      "id": "e3c6f576-f4fc-443f-af4a-b0811ab4e17c",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-tasnuva-tazrin-papri/",
+      "imageId": "52d0d6f0-7fd0-45a5-a767-79fe1a29ccdc",
       "name": "Dr. Tasnuva Tazrin Papri",
       "degree": "MBBS, DDV (BSMMU)",
       "specialty": "Skin, Allergy, Hair & LASER Specialist",
@@ -486,11 +592,14 @@
         "hospital": "Iconic Skin Care, Chittagong",
         "address": "SF Empire (SIBL Building), Level 2, Chatteshwari Moor, Mehedibag, Chattogram",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801862708221"
-      },
-      "id": "c3e1446e-2704-46e6-b727-a9cd978e9541"
+        "appointmentNumber": "+8801862708221Call Now"
+      }
     },
     {
+      "id": "16b83a05-5276-4c6f-9b71-a9e0288ed11c",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-sheikh-md-faisal/",
+      "imageId": "7eb711db-df9d-41e0-8673-fd6229bfb7c0",
       "name": "Dr. Sheikh Mohammad Faisal",
       "degree": "MBBS, BCS (Health), DDV (Skin & VD)",
       "specialty": "Skin, Allergy, Leprosy, Sex Diseases Specialist & Dermato Surgeon",
@@ -498,13 +607,16 @@
       "info": "Dr. Sheikh Mohammad Faisal is a Dermatologist in Chittagong. His qualification is MBBS, BCS (Health), DDV (Skin & VD). He is a Medical Officer, Department of Dermatology & Venereology at Chittagong Medical College & Hospial. He regularly provides treatment to his patients at Dr.Faisal's Laser Hair & Skin Care. Practicing hour of Dr. Sheikh Mohammad Faisal at Dr.Faisal's Laser Hair & Skin Care is 5pm to 9pm (Saturday to Wednesday).",
       "chamber": {
         "hospital": "Dr.Faisal's Laser Hair & Skin Care",
-        "address": "SK House, 1635B,  Mimi Residential Area, Beside Mimi Super Market, Nasirabad, Chittagong",
+        "address": "SK House, 1635B, Mimi Residential Area, Beside Mimi Super Market, Nasirabad, Chittagong",
         "visitingTime": "5pm to 9pm (Saturday to Wednesday)",
-        "appointmentNumber": "+8801784978763"
-      },
-      "id": "fa083164-a21c-4f64-8cbc-63e630309465"
+        "appointmentNumber": "+8801784978763Call Now"
+      }
     },
     {
+      "id": "0ac705c1-2eaa-449b-8c32-ee6404ec93b8",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-feroza-meher/",
+      "imageId": "cf2e6686-28b9-4be6-a392-195b22bffe94",
       "name": "Dr. Feroza Meher",
       "degree": "MBBS (CMC), Post Graduate Diploma in Dermatology (South Wales University, UK)",
       "specialty": "Aesthetic Dermatology & Cosmetology Specialist",
@@ -514,11 +626,14 @@
         "hospital": "Surecell Medical, Chattogram",
         "address": "Al-Noor Badrun Centre (3rd Floor), 1486/1672, OR Nizam Road, Chattogram",
         "visitingTime": "5pm to 7pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801701664440"
-      },
-      "id": "a0d63a5d-af2b-4be3-b85b-cef1370d0e3e"
+        "appointmentNumber": "+8801701664440Call Now"
+      }
     },
     {
+      "id": "801c6ebc-bb60-409a-b361-8fa4b872e9c5",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-emrul-hassan/",
+      "imageId": "bf693caf-574b-47d7-bb53-74b3290af068",
       "name": "Dr. Emrul Hassan",
       "degree": "MBBS, BCS (Health), DDV (SKIN & VD, BSMMU)",
       "specialty": "Skin, Hair, Nail, Allergy, Leprosy & Sexual Diseases Specialist",
@@ -528,11 +643,14 @@
         "hospital": "Intensive Care Diagnostic & Consultant Chamber",
         "address": "Amanat Market (2nd & 3rd floor), 280/1, Polytechnical Mor, Bayezid Road, Chittagong",
         "visitingTime": "6pm to 9pm (Thu, Fri & Sat)",
-        "appointmentNumber": "+8801926087227"
-      },
-      "id": "20e29bbf-56f5-41f6-b17c-e34a6c0f55fb"
+        "appointmentNumber": "+8801926087227Call Now"
+      }
     },
     {
+      "id": "06b9c3df-d296-4080-9342-2f01dc97f4e1",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-a-f-m-mizanur-rahaman/",
+      "imageId": "3863affd-5007-47e8-8410-9edd8123f7ae",
       "name": "Dr. A.F.M. Mizanur Rahaman",
       "degree": "MBBS, DDV(BSMMU)",
       "specialty": "Dermatologist & Venereologist",
@@ -542,37 +660,42 @@
         "hospital": "Surgiscope Hospital, Chittagong",
         "address": "Room 107, Unit 2, 445/466, Katalgonj, Chawkbazar, Chattogram",
         "visitingTime": "7.30pm to 9pm (Sat, Mon & Wednesday)",
-        "appointmentNumber": "+8801643424293"
-      },
-      "id": "9a43c956-12ac-4c98-ad42-df33f3bd2760"
+        "appointmentNumber": "+8801643424293Call Now"
+      }
     },
     {
+      "id": "97b1ddd0-ecbc-425a-9892-cde4ca24e20c",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-nusratsultana/",
+      "imageId": "7c29eeb5-3de2-45e1-973b-6d6973e7efa1",
       "name": "Dr. Nusrat Sultana",
       "degree": "MBBS, DD, MSc, Fellow AAAM",
       "specialty": "Laser & Aesthetic Dermatology Specialist",
       "workplace": "Apollo Imperial Hospital, Chittagong",
-      "info": "Max Hospital & Diagnostic, Chittagong\nAddress: 35/36, Mehedibag Road, Chawkbazar, Chattogram\nVisiting Hour: 7pm to 9pm (Closed: Sun & Friday)\nAppointment: +8801845565366\nCall Now",
+      "info": "Max Hospital & Diagnostic, Chittagong Address: 35/36, Mehedibag Road, Chawkbazar, Chattogram Visiting Hour: 7pm to 9pm (Closed: Sun & Friday) Appointment: +8801845565366 Call Now",
       "chamber": {
         "hospital": "Apollo Imperial Hospital, Chittagong",
         "address": "Zakir Hossain Road, Pahartali, Chattogram",
         "visitingTime": "4pm to 6pm (Closed: Sun & Friday)",
-        "appointmentNumber": "+8809612247247"
-      },
-      "id": "0f26cb6b-bb5c-4798-ae42-9a5ea1ac282c"
+        "appointmentNumber": "+8809612247247Call Now"
+      }
     },
     {
+      "id": "4a12bd1f-0350-4ee8-8ef1-f942f4d08138",
+      "departmentId": "8cc36285-7f92-47c3-9a83-73788b2b8717",
+      "link": "https://www.doctorbangladesh.com/dr-tahmina-alam-sonali/",
+      "imageId": "43e1a02d-dd31-41e4-b79b-2b06bd833563",
       "name": "Dr. Tahmina Alam Sonali",
       "degree": "MBBS, BCS, DDV",
       "specialty": "Skin, Sex, Allergy Specialist & Skin Laser Surgeon",
       "workplace": "Chattogram Medical College Hospital",
-      "info": "Chevron Clinical Laboratory, Halishahar\nAddress: Choto Pool, Shantibag Mor, Agrabad, Chattogram\nVisiting Hour: 7pm to 9pm (Sat, Mon & Thu)\nAppointment: +8801886466455\nCall Now",
+      "info": "Chevron Clinical Laboratory, Halishahar Address: Choto Pool, Shantibag Mor, Agrabad, Chattogram Visiting Hour: 7pm to 9pm (Sat, Mon & Thu) Appointment: +8801886466455 Call Now",
       "chamber": {
         "hospital": "Chevron Clinical Laboratory, Chittagong",
         "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "4pm to 6pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801601345336"
-      },
-      "id": "8b180841-d303-4839-87a5-9b1ea1d3b61c"
+        "appointmentNumber": "+8801601345336Call Now"
+      }
     }
   ]
 }

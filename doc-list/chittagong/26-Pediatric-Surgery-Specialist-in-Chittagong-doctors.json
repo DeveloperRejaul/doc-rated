@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "a85d0cdc-ce2c-4f98-a740-9e8e19623b07",
+      "departmentId": "3ac4acb6-4914-41fd-88bd-152e4b67e023",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-mozammel-hoque/",
+      "imageId": "ccb99b03-95ae-4542-ab6a-07d1721037e6",
       "name": "Prof. Dr. Md. Mozammel Haque",
       "degree": "MBBS, MS (Pediatric Surgery), FACS (USA)",
       "specialty": "Pediatric Surgery Specialist & Pediatric Laparoscopic Surgeon",
@@ -10,25 +14,31 @@
         "hospital": "Max Hospital & Diagnostic, Chittagong",
         "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
         "visitingTime": "1pm to 3pm (Closed: Friday)",
-        "appointmentNumber": "+8801881562825 "
-      },
-      "id": "f6ecea61-9aec-4980-ba6b-266306f2138d"
+        "appointmentNumber": "+8801881562825 Call Now"
+      }
     },
     {
+      "id": "8e200875-9523-4e54-ba95-7051d064d5cc",
+      "departmentId": "3ac4acb6-4914-41fd-88bd-152e4b67e023",
+      "link": "https://www.doctorbangladesh.com/dr-nandan-kumar-majumder/",
+      "imageId": "ee7efb84-b04b-49ba-a256-f79a8b96d19a",
       "name": "Dr. Nandan Kumar Majumder",
       "degree": "MBBS, MCPS (Surgery), MS (Child Surgery)",
       "specialty": "Child Surgery Specialist",
       "workplace": "BGC Trust Medical College, Chittagong",
-      "info": "Medical Centre Hospital, Chittagong\nAddress: 953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram\nVisiting Hour: 11am to 1pm (Closed: Friday)\nAppointment: +88031658501\nCall Now",
+      "info": "Medical Centre Hospital, Chittagong Address: 953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram Visiting Hour: 11am to 1pm (Closed: Friday) Appointment: +88031658501 Call Now",
       "chamber": {
         "hospital": "Metro Diagnostic Center, Chittagong",
         "address": "Metro Tower, Goal Pahar Mor, Mehedibag, Chattogram",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801921308090"
-      },
-      "id": "79799d54-ca57-4189-ac05-008c52734f19"
+        "appointmentNumber": "+8801921308090Call Now"
+      }
     },
     {
+      "id": "4110b8eb-a791-4595-a59a-ad98e616481f",
+      "departmentId": "3ac4acb6-4914-41fd-88bd-152e4b67e023",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-akbar-husain-bhuiyan/",
+      "imageId": "55034bc5-bdb2-4e77-b1ba-2fdecf624c48",
       "name": "Prof. Dr. Md. Akbar Husain Bhuiyan",
       "degree": "MBBS, MS (Pediatric Surgery), Trained in Plastic Surgery (Japan)",
       "specialty": "Child & Plastic Surgery Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Royal Hospital, Chittagong",
         "address": "1530/A, O.R. Nizam Road, GEC More, Panchlaish, Chattogram",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+880241355934"
-      },
-      "id": "58591cf2-f821-44e5-b264-40886ebcad26"
+        "appointmentNumber": "+880241355934Call Now"
+      }
     },
     {
+      "id": "08fe560a-5aa3-4a96-8f32-54c7fa6b4234",
+      "departmentId": "3ac4acb6-4914-41fd-88bd-152e4b67e023",
+      "link": "https://www.doctorbangladesh.com/dr-md-jafrul-hannan/",
+      "imageId": "ad822342-83cf-4d6e-b7d6-e82befa0585f",
       "name": "Dr. Md. Jafrul Hannan",
       "degree": "MBBS, MS (Pediatric Surgery)",
       "specialty": "Neonatal & Pediatric Surgery Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Chevron Clinical Laboratory, Chittagong",
         "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "7pm to 9pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801755666969"
-      },
-      "id": "ae090d72-6553-4ebc-b363-69f245af8eb1"
+        "appointmentNumber": "+8801755666969Call Now"
+      }
     },
     {
+      "id": "301d7ff3-c28d-4489-b3ba-410e2384aac9",
+      "departmentId": "3ac4acb6-4914-41fd-88bd-152e4b67e023",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdullah-al-farooq/",
+      "imageId": "d13d9e81-747d-4c16-9a47-3cb54502f2ad",
       "name": "Dr. Md. Abdullah Al Farooq",
       "degree": "MBBS, FCPS (Surgery), MS (Pediatric Surgery)",
       "specialty": "Pediatric Surgeon",
@@ -66,11 +82,14 @@
         "hospital": "Epic Healthcare, Chittagong",
         "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "4pm to 6pm (Sat, Sun, Tue & Thursday)",
-        "appointmentNumber": "+8801984499600"
-      },
-      "id": "66ea0815-6b59-4dc3-918d-daa7de8dea9b"
+        "appointmentNumber": "+8801984499600Call Now"
+      }
     },
     {
+      "id": "92c504ae-f22b-4c59-9d39-98282ff345ae",
+      "departmentId": "3ac4acb6-4914-41fd-88bd-152e4b67e023",
+      "link": "https://www.doctorbangladesh.com/dr-tahmina-akhter-chowdhury-panna/",
+      "imageId": "8582254c-4949-4501-a600-4c2b662db4a9",
       "name": "Dr. Tahmina Akhter Chowdhury (Panna)",
       "degree": "MBBS, BCS (Health), MS (Pediatric Surgery), FACS (USA)",
       "specialty": "Pediatric (Children) Surgery Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Popular Diagnostic Center, Chittagong",
         "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787810"
-      },
-      "id": "f926de5d-e7b8-4669-91fc-9aaaaacd7960"
+        "appointmentNumber": "+8809666787810Call Now"
+      }
     },
     {
+      "id": "3eb5d00b-0a5f-467d-9826-6df772ae65d4",
+      "departmentId": "3ac4acb6-4914-41fd-88bd-152e4b67e023",
+      "link": "https://www.doctorbangladesh.com/dr-kamrun-laila-mili/",
+      "imageId": "01c0d77b-0019-468d-bf27-f95198c6db4b",
       "name": "Prof. Dr. Kamrun Laila Mili",
       "degree": "MBBS, MS (Pediatric Surgery)",
       "specialty": "Neonatal, Pediatric Surgery & Laparoscopic Surgeon",
@@ -94,11 +116,14 @@
         "hospital": "Lancet Diagnostic Center, Chittagong",
         "address": "106/B, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Fri & Saturday)",
-        "appointmentNumber": "+8801726285486"
-      },
-      "id": "b5b40763-bad1-4fdb-8766-c36b308aa7f9"
+        "appointmentNumber": "+8801726285486Call Now"
+      }
     },
     {
+      "id": "5b01452a-97e4-408e-88f0-abc7487dc2da",
+      "departmentId": "3ac4acb6-4914-41fd-88bd-152e4b67e023",
+      "link": "https://www.doctorbangladesh.com/dr-khurshid-alam-sarwar/",
+      "imageId": "4741d296-9e3e-46b5-b2f2-65203f0f1add",
       "name": "Dr. Khurshid Alam Sarwar",
       "degree": "MBBS, MS (Pediatric Surgery)",
       "specialty": "Neonatal & Pediatric Specialist Surgeon",
@@ -108,11 +133,14 @@
         "hospital": "Epic Healthcare, Chittagong",
         "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "8pm to 10pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801984499600"
-      },
-      "id": "ddad4bdb-1eca-4a5d-8ca5-1f7ad113c7ec"
+        "appointmentNumber": "+8801984499600Call Now"
+      }
     },
     {
+      "id": "08bc2b72-d708-499b-a3bc-7eb686decfd9",
+      "departmentId": "3ac4acb6-4914-41fd-88bd-152e4b67e023",
+      "link": "https://www.doctorbangladesh.com/dr-mahfuzul-kabir/",
+      "imageId": "1a4c0070-a4e0-48be-9116-58b26c74d6ff",
       "name": "Dr. Mahfuzul Kabir",
       "degree": "MBBS, MS",
       "specialty": "Neonatal & Pediatric Surgeon",
@@ -122,11 +150,14 @@
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "5pm to 7pm (Closed: Friday & Saturday)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "54ed60b1-2a70-47b7-b5d1-299c1ef6c5cf"
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "b35ea179-9214-4240-b938-ef6be81b91d0",
+      "departmentId": "3ac4acb6-4914-41fd-88bd-152e4b67e023",
+      "link": "https://www.doctorbangladesh.com/dr-tanvir-kabir-chowdhury-ivan/",
+      "imageId": "1bb46325-0e0b-4024-8f8f-076f42b22748",
       "name": "Dr. Tanvir Kabir Chowdhury Ivan",
       "degree": "MBBS (CMC), BCS (Health), MS (Pediatric Surgery)",
       "specialty": "Child Surgery Specialist",
@@ -136,11 +167,14 @@
         "hospital": "Surgiscope Hospital, Chittagong",
         "address": "Unit 2, 53/1, Panchlaish, Chattogram - 4203",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801788446595"
-      },
-      "id": "ac121237-6c83-415e-bb6d-cf60b5b68a17"
+        "appointmentNumber": "+8801788446595Call Now"
+      }
     },
     {
+      "id": "2813e7d7-6476-4b8c-b02d-74b9422214d3",
+      "departmentId": "3ac4acb6-4914-41fd-88bd-152e4b67e023",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-minhajuddin-sajid/",
+      "imageId": "8dfd93d7-5f2e-4129-8d8c-e7a3dbcbb7a2",
       "name": "Prof. Dr. Md. Minhajuddin Sajid",
       "degree": "MBBS, MS (Pediatric Surgery)",
       "specialty": "Pediatric Surgeon & Pediatric Urologist",
@@ -150,9 +184,8 @@
         "hospital": "CSCR Hospital, Chittagong",
         "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
         "visitingTime": "9am to 12pm (Closed: Friday)",
-        "appointmentNumber": "+8801926061442"
-      },
-      "id": "bc0b381c-12ca-430e-a9c8-a02b3543f8c4"
+        "appointmentNumber": "+8801926061442Call Now"
+      }
     }
   ]
 }

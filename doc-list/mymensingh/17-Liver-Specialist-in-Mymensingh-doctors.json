@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "19b181f1-13d4-43e4-a4eb-f110ecc35421",
+      "departmentId": "7001e61a-2420-40ab-b5eb-898afcead3f9",
+      "link": "https://www.doctorbangladesh.com/prof-dr-chitta-ranjan-debnath/",
+      "imageId": "ceaf9ed0-b21b-4c84-b937-08c9d6825080",
       "name": "Prof. Dr. Chitta Ranjan Debnath",
       "degree": "MBBS, MCPS (Medicine), MD (Hepatology), MACP, FACP (USA), MRCP, FRCP (UK)",
       "specialty": "Liver Diseases & Medicine Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Popular Diagnostic Center, Mymensingh",
         "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
         "visitingTime": "4pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787814"
-      },
-      "id": "a812025d-8229-4c35-b4ee-e278df480dab"
+        "appointmentNumber": "+8809666787814Call Now"
+      }
     },
     {
+      "id": "3210f8dc-82e6-4819-bb7a-3127c735c6ab",
+      "departmentId": "7001e61a-2420-40ab-b5eb-898afcead3f9",
+      "link": "https://www.doctorbangladesh.com/dr-md-fakruzzaman/",
+      "imageId": "53e25f30-fe65-4a96-ba46-7fc569a2e920",
       "name": "Dr. Md. Fakruzzaman",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), FCPS (Hepatology)",
       "specialty": "Liver Diseases & Medicine Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Popular Diagnostic Center, Mymensingh",
         "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787814"
-      },
-      "id": "6e909588-f38f-4ee7-9ae0-a77c45396e3d"
+        "appointmentNumber": "+8809666787814Call Now"
+      }
     },
     {
+      "id": "c35a803d-dae0-452f-a4f5-fb2b1000e74b",
+      "departmentId": "7001e61a-2420-40ab-b5eb-898afcead3f9",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-ruhul-haider/",
+      "imageId": "80f417ae-2de2-4235-ac6c-d4a9343cea59",
       "name": "Dr. Mohammad Ruhul Haider",
       "degree": "MBBS, BCS (Health), MD (Hepatology), MACP (America)",
       "specialty": "Liver Diseases, Medicine & Endoscopy Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Popular Diagnostic Center, Mymensingh",
         "address": "171, Charpara, Medical College Gate, Mymensingh - 2200",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787814"
-      },
-      "id": "513c9722-f9c0-4d36-82a9-68d63611c4e4"
+        "appointmentNumber": "+8809666787814Call Now"
+      }
     },
     {
+      "id": "755cb9fc-b414-4569-b329-94051c0aff31",
+      "departmentId": "7001e61a-2420-40ab-b5eb-898afcead3f9",
+      "link": "https://www.doctorbangladesh.com/dr-md-ashrafuzzaman/",
+      "imageId": "3f091433-1b43-4336-8175-dc142f59a007",
       "name": "Dr. Md. Ashrafuzzaman",
       "degree": "MBBS, MD (Hepatology)",
       "specialty": "Gastroliver Specialist, Interventional Hepatologist & Endoscopist",
@@ -52,9 +65,8 @@
         "hospital": "Sodesh Hospital, Mymensingh",
         "address": "298/2, Maskanda (Bus Stand), Mymensingh - 2200",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666777990"
-      },
-      "id": "2fd5afa7-5f7e-4765-93b0-b1d0643f8359"
+        "appointmentNumber": "+8809666777990Call Now"
+      }
     }
   ]
 }

@@ -1,20 +1,27 @@
 {
   "doctor": [
     {
+      "id": "2486193c-a7e3-46ca-866e-416bdee19bb4",
+      "departmentId": "d8459bc1-512a-4085-956e-a32a214b5d65",
+      "link": "https://www.doctorbangladesh.com/dr-samir-kumar-talukder/",
+      "imageId": "ec6b2a1e-1e1c-4ef5-b879-911e82772bb5",
       "name": "Dr. Samir Kumar Talukder",
       "degree": "MBBS, MD (Endocrinology)",
       "specialty": "Diabetes, Hormone & Thyroid Specialist",
       "workplace": "Rangpur Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Bogra\nAddress: House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura\nVisiting Hour: 10am to 8pm (Friday)\nAppointment: +8809666787812\nCall Now",
+      "info": "Popular Diagnostic Center, Bogra Address: House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura Visiting Hour: 10am to 8pm (Friday) Appointment: +8809666787812 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Rangpur",
         "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
         "visitingTime": "3pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787813"
-      },
-      "id": "0ef6bcf0-53c8-45d7-9bb1-4f41b52e4e3e"
+        "appointmentNumber": "+8809666787813Call Now"
+      }
     },
     {
+      "id": "6954112a-c40a-4c48-8e91-761fa77e90ec",
+      "departmentId": "d8459bc1-512a-4085-956e-a32a214b5d65",
+      "link": "https://www.doctorbangladesh.com/md-jahangir-alam/",
+      "imageId": "4f06cfc5-7752-4de6-99d4-2d3ac844710a",
       "name": "Dr. Md. Jahangir Alam",
       "degree": "MBBS, BCS (Health), MD (Endocrinology)",
       "specialty": "Diabetes, Hormone, Thyroid & Endocrine Medicine Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "4pm to 9pm (Sat to Tuesday), 10am to 10pm (Wednesday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "6460ac56-e1b2-4103-ba1d-16a20c7738ff"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "1df19ba2-8777-4eea-9507-402d1bc4276c",
+      "departmentId": "d8459bc1-512a-4085-956e-a32a214b5d65",
+      "link": "https://www.doctorbangladesh.com/dr-md-ahmedul-kabir/",
+      "imageId": "16283bfc-4924-416e-b385-693299532e9d",
       "name": "Dr. Md. Ahamedul Kabir Jhinuk",
       "degree": "MBBS, BCS (Health), MD (Endocrinology), MACE (USA)",
       "specialty": "Diabetes, Thyroid & Hormone Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
         "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801701560011"
-      },
-      "id": "71c88a5c-72db-4e15-a9c3-67343d782e82"
+        "appointmentNumber": "+8801701560011Call Now"
+      }
     },
     {
+      "id": "9330ee16-669c-4d46-a915-5b12aa48910d",
+      "departmentId": "d8459bc1-512a-4085-956e-a32a214b5d65",
+      "link": "https://www.doctorbangladesh.com/dr-md-abu-shehab/",
+      "imageId": "0a615a70-bf7e-4129-8501-5ef9f6fe7100",
       "name": "Dr. Md. Abu Shehab",
       "degree": "MBBS, MD (Endocrinology)",
       "specialty": "Hormone, Thyroid & Endocrinology Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "3.30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "b6adbdb5-de0b-4f65-b718-3abb2875019c"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "6a4158a1-c4af-4307-b4c2-68e0fa0cd85e",
+      "departmentId": "d8459bc1-512a-4085-956e-a32a214b5d65",
+      "link": "https://www.doctorbangladesh.com/dr-md-humayun-kabir/",
+      "imageId": "990a7305-feee-4e57-8a24-edef65d8b1b3",
       "name": "Dr. Md. Humayun Kabir",
       "degree": "MBBS, BCS (Health), DEM (BIRDEM)",
       "specialty": "Diabetes & Hormone Specialist",
@@ -66,9 +82,8 @@
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
         "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
         "visitingTime": "3pm to 6pm (Sun, Tue & Wed)",
-        "appointmentNumber": "+8801701560011"
-      },
-      "id": "29f610e8-98c5-489f-bb74-61ddc13bf6bc"
+        "appointmentNumber": "+8801701560011Call Now"
+      }
     }
   ]
 }

@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "24df1b07-c849-4aea-9c07-f388d27614a3",
+      "departmentId": "b9318dca-3493-4d94-9d01-66f7f6891810",
+      "link": "https://www.doctorbangladesh.com/prof-dr-a-k-m-kamruzzaman/",
+      "imageId": "98417c88-d269-42eb-b127-7cbabf565b70",
       "name": "Prof. Dr. A.K.M. Kamruzzaman",
       "degree": "MBBS, FCPS (Hematology)",
       "specialty": "Blood Diseases, Blood Cancer & Hematology Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Dr. Amanullah Diagnostic Center, Rangpur",
         "address": "Jail Road, Dhap, Rangpur",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801796711116"
-      },
-      "id": "3e60ec88-6d9e-4d2d-8e08-77a0e0ea6dd3"
+        "appointmentNumber": "+8801796711116Call Now"
+      }
     },
     {
+      "id": "76801fbb-7f26-4267-85b8-a97b30bc20fb",
+      "departmentId": "b9318dca-3493-4d94-9d01-66f7f6891810",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdul-kader-zilani/",
+      "imageId": "13c2382b-3237-4645-a010-d4d04596b461",
       "name": "Dr. Md. Abdul Kader Zilani",
       "degree": "MBBS, BCS (Health), MD (Hematology)",
       "specialty": "Blood Cancer, Blood Diseases & Hematology Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Quality Diagnostic Center, Rangpur",
         "address": "Dhap, R. K. Road, Rangpur (Opposite to cantonment public school)",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801309002298"
-      },
-      "id": "8abef4db-51b3-4d9f-95db-bb30f2eaa9ae"
+        "appointmentNumber": "+8801309002298Call Now"
+      }
     },
     {
+      "id": "8222271c-0312-4056-8f4c-9547ba1ddb18",
+      "departmentId": "b9318dca-3493-4d94-9d01-66f7f6891810",
+      "link": "https://www.doctorbangladesh.com/dr-md-najmul-karim/",
+      "imageId": "f81e46b9-fb5d-417f-a71e-ebf4da647ebf",
       "name": "Dr. Md. Najmul Karim",
       "degree": "MBBS, BCS (Health), MD (Hematology)",
       "specialty": "Hematology (Blood Disorders, Blood Cancer, Thalassemia) Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Hypertension & Research Center, Rangpur",
         "address": "Holding No: 13/2, Hypertension Centre Lane, Dhap, Jail Road, Rangpur",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801832222719"
-      },
-      "id": "90aae3e0-34a3-4d3b-8655-e3351159b34d"
+        "appointmentNumber": "+8801832222719Call Now"
+      }
     },
     {
+      "id": "6c6f1b13-7744-43a3-93ef-66c3f2326d47",
+      "departmentId": "b9318dca-3493-4d94-9d01-66f7f6891810",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahamudul-hasan/",
+      "imageId": "01775658-6003-4a6e-b32a-049ce20da314",
       "name": "Dr. Md Mahamudul Hasan",
       "degree": "MBBS, BCS (Health), MD (Hematology)",
       "specialty": "Haematology (Blood Diseases, Blood Cancer) Specialist",
@@ -52,9 +65,8 @@
         "hospital": "Popular Diagnostic Center 1, Rangpur",
         "address": "Room No. 501, 4th Floor, Dhap Jail Road, Rangpur",
         "visitingTime": "3:30pm to 10:00pm (Everyday)",
-        "appointmentNumber": "+8801772729072, +8801708310322"
-      },
-      "id": "755f025d-2127-43c1-9dbc-49194d17d7e2"
+        "appointmentNumber": "+8801772729072, +8801708310322Call Now"
+      }
     }
   ]
 }

@@ -1,20 +1,27 @@
 {
   "doctor": [
     {
+      "id": "85b0ca34-7f53-465d-bcdb-1a51387b7339",
+      "departmentId": "a12074c4-223b-4893-96cf-9411b910565b",
+      "link": "https://www.doctorbangladesh.com/dr-md-zamil-hossain-munna/",
+      "imageId": "910d8f04-2502-4498-abd7-f5916284c465",
       "name": "Dr. Md. Zamil Hossain",
       "degree": "MBBS, BCS (Health), MS (Pediatric Surgery), FACS (USA)",
       "specialty": "Child, Adolescent & Newborn SurgeonChild Urology and Endo-Laparoscopic Surgeon",
       "workplace": "Rajshahi Medical College & Hospital",
-      "info": "Bashundhara Hospital & Diagnostic Center\nAddress: Laxmipur, Rajshahi\nVisiting Hour: 3pm to 9pm (Closed: Thu & Friday)\nAppointment: +8801713468450\nCall Now",
+      "info": "Bashundhara Hospital & Diagnostic Center Address: Laxmipur, Rajshahi Visiting Hour: 3pm to 9pm (Closed: Thu & Friday) Appointment: +8801713468450 Call Now",
       "chamber": {
         "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
         "address": "Laxmipur Mor, Rajshahi",
         "visitingTime": "4pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801762685090"
-      },
-      "id": "bbb8a8c2-ac07-4ac1-9bb8-b0c3fea64cda"
+        "appointmentNumber": "+8801762685090Call Now"
+      }
     },
     {
+      "id": "ead346fb-7963-42fe-8eff-7958349ee3ed",
+      "departmentId": "a12074c4-223b-4893-96cf-9411b910565b",
+      "link": "https://www.doctorbangladesh.com/dr-mustafizur-rahman-masum/",
+      "imageId": "b5572dda-ad33-4584-bc05-5e96dfbca54d",
       "name": "Dr. Mustafizur Rahman Masum",
       "degree": "MBBS, MS (Pediatric Surgery)",
       "specialty": "Pediatric Surgery Specialist & Laparoscopic Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "City Diagnostic Center, Pabna",
         "address": "Beside TB Hospital, Hospital Road, Shalgaria, Pabna",
         "visitingTime": "10am to 7pm (Fri & Sat), 4pm to 8pm (Mon & Thu)",
-        "appointmentNumber": "+8801757204642"
-      },
-      "id": "945c730a-acd2-430a-b98d-d7624c48ae1d"
+        "appointmentNumber": "+8801757204642Call Now"
+      }
     },
     {
+      "id": "8d615f99-5ce1-45a9-b43a-5b547e16a80f",
+      "departmentId": "a12074c4-223b-4893-96cf-9411b910565b",
+      "link": "https://www.doctorbangladesh.com/dr-md-ashekin-abir/",
+      "imageId": "05308081-6cf1-465e-84bf-e184d194bcb2",
       "name": "Dr. Md. Ashekin Abir",
       "degree": "MBBS, BCS (Health), MS (Pediatric Surgery)",
       "specialty": "Newborn & Adolescent & Child Surgery Specialist",
@@ -38,9 +48,8 @@
         "hospital": "Shafique Hospital, Pabna",
         "address": "Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801701654390"
-      },
-      "id": "851f9e5e-1d7b-4c87-8c86-930a0460cb14"
+        "appointmentNumber": "+8801701654390Call Now"
+      }
     }
   ]
 }

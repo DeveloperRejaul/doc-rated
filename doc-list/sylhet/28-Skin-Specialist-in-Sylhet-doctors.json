@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "38fb0991-86fb-47c9-97f2-f5769520b42b",
+      "departmentId": "a642dac8-2e93-47af-80f6-612486a290fd",
+      "link": "https://www.doctorbangladesh.com/prof-dr-shamima-akhter/",
+      "imageId": "2e1341bd-8fe6-43b2-a8d7-b15938ac8aa5",
       "name": "Prof. Dr. Shamima Akhter",
       "degree": "MBBS, DDV, FCPS (Skin & Sex)",
       "specialty": "Skin, Allergy, Leprosy, Sexual Diseases Specialist & Surgeon",
@@ -10,11 +14,14 @@
         "hospital": "Trust Medical Services, Sylhet",
         "address": "16, Modhushahid, New Medical Road, Sylhet - 3100",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801714529195"
-      },
-      "id": "65bebade-ae02-4ae3-b039-77a559e2523d"
+        "appointmentNumber": "+8801714529195Call Now"
+      }
     },
     {
+      "id": "9293c1a3-c65b-4dba-baf8-2f8dbc49a02f",
+      "departmentId": "a642dac8-2e93-47af-80f6-612486a290fd",
+      "link": "https://www.doctorbangladesh.com/dr-afroza-rashid-nipa/",
+      "imageId": "86bc05bf-c8a4-40e7-b3db-7ca1e25c6789",
       "name": "Dr. Afroza Rashid Nipa",
       "degree": "MBBS, MPH, DDV",
       "specialty": "Skin, STD, Allergy, Leprosy Specialist & Cosmetic Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "Popular Medical Center, Sylhet",
         "address": "New Medical Road, Kajolshah, Sylhet - 3100",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801793591620"
-      },
-      "id": "5bdcd0a8-ae99-42c1-bff3-b29df6dbeee8"
+        "appointmentNumber": "+8801793591620Call Now"
+      }
     },
     {
+      "id": "0ed62980-7324-4f6d-88ca-bc97986614d6",
+      "departmentId": "a642dac8-2e93-47af-80f6-612486a290fd",
+      "link": "https://www.doctorbangladesh.com/dr-iqbal-bahar/",
+      "imageId": "25b093db-67c6-45ec-8c20-60e8f669f56f",
       "name": "Dr. Iqbal Bahar",
       "degree": "MBBS, BCS (Health), DDV",
       "specialty": "Skin, Allergy & Sexual Diseases Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Stadium Market, Sylhet",
         "address": "Lutfa Pharmacy, 42, Stadium Market, Rikabi Bazar, Sylhet",
         "visitingTime": "4pm to 8.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801616152126"
-      },
-      "id": "8fcb596c-9aca-4858-bd14-82cb9a7569b0"
+        "appointmentNumber": "+8801616152126Call Now"
+      }
     },
     {
+      "id": "9b02cb3c-3ed9-4414-83ff-9a7e767fee20",
+      "departmentId": "a642dac8-2e93-47af-80f6-612486a290fd",
+      "link": "https://www.doctorbangladesh.com/dr-parimal-kumar-sen/",
+      "imageId": "0841d38d-e372-4322-bc9c-0085000f00c4",
       "name": "Dr. Parimal Kumar Sen",
       "degree": "MBBS (DMC), BCS (Health), DDV, FCPS (Skin & Sex)",
       "specialty": "Skin, Allergy & Sex Specialist",
@@ -52,25 +65,31 @@
         "hospital": "Popular Medical Center, Sylhet",
         "address": "New Medical Road, Kajolshah, Sylhet - 3100",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801752234520"
-      },
-      "id": "820e2d50-5d6b-44b2-a7b6-7e5194dd7345"
+        "appointmentNumber": "+8801752234520Call Now"
+      }
     },
     {
+      "id": "94c950c6-b74d-4cc8-b9f2-084fb47c6ff1",
+      "departmentId": "a642dac8-2e93-47af-80f6-612486a290fd",
+      "link": "https://www.doctorbangladesh.com/dr-saleh-ahmed-saheen/",
+      "imageId": "17f3ebac-e207-4865-bf73-d449982d6f4a",
       "name": "Dr. Saleh Ahmed Saheen",
       "degree": "MBBS, BCS (Health), MD (Dermatology), Higher Training (Germany)",
       "specialty": "Skin, Sex, Allergy & Laser Specialist",
       "workplace": "Sylhet MAG Osmani Medical College & Hospital",
-      "info": "Labaid Diagnostic Limited, Sylhet\nAddress: House # 362-363, New Medical Road, Kajol Shah, Sylhet\nVisiting Hour: 7.30pm to 9.30pm (Closed: Friday)\nAppointment: +8801766662727\nCall Now",
+      "info": "Labaid Diagnostic Limited, Sylhet Address: House # 362-363, New Medical Road, Kajol Shah, Sylhet Visiting Hour: 7.30pm to 9.30pm (Closed: Friday) Appointment: +8801766662727 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Hospital, Sylhet",
         "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009640"
-      },
-      "id": "580314a6-c3b2-4b98-9c58-a0213fd0f224"
+        "appointmentNumber": "+8809610009640Call Now"
+      }
     },
     {
+      "id": "9183e2ae-0ad1-4761-8ea5-1376ee2208f4",
+      "departmentId": "a642dac8-2e93-47af-80f6-612486a290fd",
+      "link": "https://www.doctorbangladesh.com/prof-dr-syed-mamun-muhammad/",
+      "imageId": "2fcfbe98-bfdc-4eea-89e0-d9c59c384036",
       "name": "Prof. Dr. Syed Mamun Muhammad",
       "degree": "MBBS, DDV, MD (Dermatology & Venereology)",
       "specialty": "Skin, Sex & Allergy Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Ibn Sina Hospital, Sylhet",
         "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009640"
-      },
-      "id": "7a72bcc0-cb96-4165-b4da-98f17d3f6d41"
+        "appointmentNumber": "+8809610009640Call Now"
+      }
     },
     {
+      "id": "c2e2175a-5287-43f8-8e45-6f656902415e",
+      "departmentId": "a642dac8-2e93-47af-80f6-612486a290fd",
+      "link": "https://www.doctorbangladesh.com/dr-md-tawhidul-islam-imdad/",
+      "imageId": "e02922e6-fe38-42f4-bb4f-602ee4a375a1",
       "name": "Dr. Md. Tawhidul Islam Imdad",
       "degree": "MBBS, DDV, FCPS (Dermatology)",
       "specialty": "Skin, Allergy, Sex, Aesthetic Laser Specialist & Cosmetic Dermatosurgeon",
@@ -94,11 +116,14 @@
         "hospital": "Popular Medical Center, Sylhet",
         "address": "New Medical Road, Kajolshah, Sylhet - 3100",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801731255222"
-      },
-      "id": "12e2f199-5d3b-4ca0-a6e8-14e380885b08"
+        "appointmentNumber": "+8801731255222Call Now"
+      }
     },
     {
+      "id": "9d6ccc53-f520-4551-bf97-2a3788ea4ac3",
+      "departmentId": "a642dac8-2e93-47af-80f6-612486a290fd",
+      "link": "https://www.doctorbangladesh.com/dr-farhana-haque-skin/",
+      "imageId": "5c76f1f3-f7c3-4f24-9e71-e30c1fbc4703",
       "name": "Dr. Farhana Haque",
       "degree": "MBBS, BCS (Health), DDV (Dhaka), CCD (BIRDEM)",
       "specialty": "Skin, Sex, Allergy & Leprosy Specialist",
@@ -108,11 +133,14 @@
         "hospital": "Ibn Sina Hospital, Sylhet",
         "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009640"
-      },
-      "id": "e8754ffc-00db-4da7-ae79-19df5ecc93cd"
+        "appointmentNumber": "+8809610009640Call Now"
+      }
     },
     {
+      "id": "f480b40a-e103-439f-b2a9-e4ea077f1ceb",
+      "departmentId": "a642dac8-2e93-47af-80f6-612486a290fd",
+      "link": "https://www.doctorbangladesh.com/prof-dr-shahriar-hussain-chowdhury/",
+      "imageId": "18bb5452-0460-41a6-9505-b4c33eb377e4",
       "name": "Prof. Dr. Shahriar Hussain Chowdhury",
       "degree": "MBBS, DDS",
       "specialty": "Skin, Allergy, Leprosy, STD & Sexual Diseases Specialist",
@@ -122,11 +150,14 @@
         "hospital": "North East Medical College & Hospital",
         "address": "Gohorpur Road, South Surma, Sylhet - 3100",
         "visitingTime": "10am to 1.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801715944733"
-      },
-      "id": "1d956df0-477a-4bf2-9262-c2d28f662114"
+        "appointmentNumber": "+8801715944733Call Now"
+      }
     },
     {
+      "id": "bac5eac1-bdf4-42da-a5c9-74c4b5dfe4c8",
+      "departmentId": "a642dac8-2e93-47af-80f6-612486a290fd",
+      "link": "https://www.doctorbangladesh.com/dr-parveen-afroz-chowdhury/",
+      "imageId": "863e9a51-097e-4d6d-a7e3-764db4224a74",
       "name": "Dr. Parveen Afroz Chowdhury",
       "degree": "MBBS (DU), DDV (SUST)",
       "specialty": "Skin, Sexual Diseases Specialist & Dermatosurgeon",
@@ -136,11 +167,14 @@
         "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
         "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
         "visitingTime": "5pm to 8pm (Sun, Tue & Thursday)",
-        "appointmentNumber": "+8801675405295"
-      },
-      "id": "61075aec-f5c3-455d-95b8-7c582f730e08"
+        "appointmentNumber": "+8801675405295Call Now"
+      }
     },
     {
+      "id": "fc524034-f918-4bfd-a0e3-027d4aba7e45",
+      "departmentId": "a642dac8-2e93-47af-80f6-612486a290fd",
+      "link": "https://www.doctorbangladesh.com/prof-dr-rukon-uddin-ahmed/",
+      "imageId": "ed4b51a2-c6d7-4b2c-97dd-aafb565c370f",
       "name": "Prof. Dr. Rukon Uddin Ahmed",
       "degree": "MBBS (CU), DDV (BSMMU)",
       "specialty": "Skin, Allergy, Leprosy, STD & Sexual Diseases Specialist",
@@ -150,39 +184,48 @@
         "hospital": "Trust Medical Services, Sylhet",
         "address": "16, Modhushahid, New Medical Road, Sylhet - 3100",
         "visitingTime": "5.30pm to 8pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801923664791"
-      },
-      "id": "d2e6e6f7-fcf1-4b37-bbc9-49b37e2778b5"
+        "appointmentNumber": "+8801923664791Call Now"
+      }
     },
     {
+      "id": "baaa4e91-7594-448f-a949-bfe18c9e1a76",
+      "departmentId": "a642dac8-2e93-47af-80f6-612486a290fd",
+      "link": "https://www.doctorbangladesh.com/dr-dhrubajyoti-roy-chowdhury/",
+      "imageId": "6ae1de3e-a0f9-4059-868a-72f8a5f7c418",
       "name": "Dr. Dhrubajyoti Roy Chowdhury",
       "degree": "MBBS, DDV, FCPS (Skin & Sex)",
       "specialty": "Skin, Allergy, Sexual Health Specialist & Cosmetic Surgeon",
       "workplace": "Sylhet MAG Osmani Medical College & Hospital",
-      "info": "Trust Medical Services, Sylhet\nAddress: 16, Modhushahid, New Medical Road, Sylhet – 3100\nVisiting Hour: 3pm to 5pm (Closed: Friday)\nAppointment: +8801926677792\nCall Now",
+      "info": "Trust Medical Services, Sylhet Address: 16, Modhushahid, New Medical Road, Sylhet – 3100 Visiting Hour: 3pm to 5pm (Closed: Friday) Appointment: +8801926677792 Call Now",
       "chamber": {
         "hospital": "Stadium Market, Sylhet",
         "address": "Nova Skin Care, Stadium Market, Rikabi Bazar, Sylhet - 3100",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801878785092"
-      },
-      "id": "9718db11-1c23-42e4-a2d3-bec3423c5997"
+        "appointmentNumber": "+8801878785092Call Now"
+      }
     },
     {
+      "id": "21c03f62-bafb-4aba-87c9-bb8bf69e2548",
+      "departmentId": "a642dac8-2e93-47af-80f6-612486a290fd",
+      "link": "https://www.doctorbangladesh.com/dr-md-albabur-rahman/",
+      "imageId": "6dee90e3-c558-4d28-99db-bc7a5684c0f9",
       "name": "Dr. Md. Albabur Rahman",
       "degree": "MBBS, DDV (BSMMU)",
       "specialty": "Skin, Sex, Allergy, Leprosy Specialist & Dermato Surgeon",
       "workplace": "Sylhet MAG Osmani Medical College & Hospital",
-      "info": "Ibn Sina Diagnostic Center, Sylhet\nAddress: Medical College Road, Rikabi Bazar Sylhet\nVisiting Hour: 3pm to 5pm (Closed: Thursday)\nAppointment: +8801708399305\nCall Now",
+      "info": "Ibn Sina Diagnostic Center, Sylhet Address: Medical College Road, Rikabi Bazar Sylhet Visiting Hour: 3pm to 5pm (Closed: Thursday) Appointment: +8801708399305 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Hospital, Sylhet",
         "address": "Sobhani Ghat Point, Mirabazar-Subhanighat Road, Sylhet",
         "visitingTime": "10am to 12pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009640"
-      },
-      "id": "b64536d3-2246-4235-a06d-b585ea4efadc"
+        "appointmentNumber": "+8809610009640Call Now"
+      }
     },
     {
+      "id": "2341afe5-075c-46e2-8131-e6dadf98dbda",
+      "departmentId": "a642dac8-2e93-47af-80f6-612486a290fd",
+      "link": "https://www.doctorbangladesh.com/dr-md-mainul-islam-choudhury-nanna/",
+      "imageId": "37c96446-21b2-4f27-9492-ca84db4a0746",
       "name": "Dr. Md. Mainul Islam Choudhury (Nanna)",
       "degree": "MBBS (CU), BCS (Health), DDV (SUST)",
       "specialty": "Skin, Sex, Allergy, Leprosy Specialist & Dermato Surgeon",
@@ -192,11 +235,14 @@
         "hospital": "Mount Adora Hospital, Akhalia, Sylhet",
         "address": "Sylhet-Sunamganj Highway, Akhalia, Sylhet - 3100",
         "visitingTime": "5:30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801971453447"
-      },
-      "id": "71ded5bf-40d9-415c-a1bd-a16d2fceae80"
+        "appointmentNumber": "+8801971453447Call Now"
+      }
     },
     {
+      "id": "bd24e5e0-8174-4024-8d62-edb033959511",
+      "departmentId": "a642dac8-2e93-47af-80f6-612486a290fd",
+      "link": "https://www.doctorbangladesh.com/dr-himangshu-shekhar-das/",
+      "imageId": "f449c713-d49b-49ef-9b9f-92e07830997f",
       "name": "Dr. Himangshu Shekhar Das",
       "degree": "MBBS, DDV",
       "specialty": "Skin, Allergy, Sexual Diseases Specialist & Dermato Surgeon",
@@ -206,11 +252,14 @@
         "hospital": "Comfort Medical Services, Sylhet",
         "address": "17, New Medical Road, Kajolshah, Sylhet - 3100",
         "visitingTime": "5pm to 8pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801730585050"
-      },
-      "id": "7d26162e-3ac6-4da4-9d2a-e8b7ad2a7eac"
+        "appointmentNumber": "+8801730585050Call Now"
+      }
     },
     {
+      "id": "17684ad0-cf3b-4c6f-8699-780a51099f0e",
+      "departmentId": "a642dac8-2e93-47af-80f6-612486a290fd",
+      "link": "https://www.doctorbangladesh.com/major-dr-md-moshiur-rahman/",
+      "imageId": "5b959ed0-cd8e-4d22-b997-b9bd992cc97a",
       "name": "Dr. (Major) Md. Moshiur Rahman",
       "degree": "MBBS, DDV (BUP), FCPS (Dermatology)",
       "specialty": "Skin, Sex, Allergy, Leprosy Specialist & Dermato Surgeon",
@@ -220,11 +269,14 @@
         "hospital": "Popular Medical Center & Hospital, Sylhet",
         "address": "Subhanighat, Sylhet",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801773035138"
-      },
-      "id": "1afeedaf-e057-4d3d-ad4f-2f86f2273178"
+        "appointmentNumber": "+8801773035138Call Now"
+      }
     },
     {
+      "id": "7a32ad9a-687f-48ab-b4be-778afe911b19",
+      "departmentId": "a642dac8-2e93-47af-80f6-612486a290fd",
+      "link": "https://www.doctorbangladesh.com/dr-mahbubur-rashid/",
+      "imageId": "a22fb642-c5c1-4bd6-935e-9e6a0fac85ce",
       "name": "Dr. Mahbubur Rashid",
       "degree": "MBBS, DDV",
       "specialty": "Skin, Allergy, Leprosy & Sexual Health Specialist",
@@ -234,11 +286,14 @@
         "hospital": "North East Medical College & Hospital",
         "address": "Gohorpur Road, South Surma, Sylhet - 3100",
         "visitingTime": "10am to 1.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801715944733"
-      },
-      "id": "f2fdfaff-cfe9-445f-a8ec-6f3b3df099ed"
+        "appointmentNumber": "+8801715944733Call Now"
+      }
     },
     {
+      "id": "a0465bcd-b9e3-4682-a263-1b61b0ae571d",
+      "departmentId": "a642dac8-2e93-47af-80f6-612486a290fd",
+      "link": "https://www.doctorbangladesh.com/dr-jakaria-manik/",
+      "imageId": "5250cb07-a58b-4c4d-81ad-02c885afe2b8",
       "name": "Dr. Md. Jakaria Manik",
       "degree": "MBBS, MCPS, DDV",
       "specialty": "Skin, Sex, Allergy, Leprosy Specialist & Surgeon",
@@ -248,11 +303,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Rikabi Bazar",
         "address": "New Medical College Road, Rikabi Bazar, Sylhet - 3100",
         "visitingTime": "10am to 12pm & 6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801708399305"
-      },
-      "id": "a5d31ea0-1034-4921-9627-67ea43972bbe"
+        "appointmentNumber": "+8801708399305Call Now"
+      }
     },
     {
+      "id": "b4c9fc96-be0d-4032-bd48-8fbb99ef1d07",
+      "departmentId": "a642dac8-2e93-47af-80f6-612486a290fd",
+      "link": "https://www.doctorbangladesh.com/dr-arif-uddin-ahmed/",
+      "imageId": "21fcf18b-83d9-4550-82e7-7338e7daae1f",
       "name": "Dr. Arif Uddin Ahmed",
       "degree": "MBBS, DDV",
       "specialty": "Skin, Allergy & Sexual Diseases Specialist",
@@ -262,23 +320,25 @@
         "hospital": "Medi-Aid Diagnostic & Consultation Center",
         "address": "Medical College Road, Modhushohid, Rikabi Bazar, Sylhet - 3100",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801711275902"
-      },
-      "id": "768cec71-df9e-407c-b952-70b96b4dd756"
+        "appointmentNumber": "+8801711275902Call Now"
+      }
     },
     {
+      "id": "f2f3d663-f1fd-45d6-a4e1-f66aecb6a0fc",
+      "departmentId": "a642dac8-2e93-47af-80f6-612486a290fd",
+      "link": "https://www.doctorbangladesh.com/dr-md-shamimur-rahman/",
+      "imageId": "1b618e9a-0e37-4144-b9c6-b026aabb9cb0",
       "name": "Dr. Md. Shamimur Rahman",
       "degree": "MBBS, DDV",
       "specialty": "Skin, Allergy & Sexual Diseases Specialist",
       "workplace": "Oasis Hospital, Sylhet",
-      "info": "Oasis Hospital, Sylhet\nAddress: Bishwa Road, Subhanighat, Sylhet Sadar, Sylhet – 3100\nVisiting Hour: 6pm to 9pm (Closed: Friday)\nAppointment: +8801763990044\nCall Now",
+      "info": "Oasis Hospital, Sylhet Address: Bishwa Road, Subhanighat, Sylhet Sadar, Sylhet – 3100 Visiting Hour: 6pm to 9pm (Closed: Friday) Appointment: +8801763990044 Call Now",
       "chamber": {
         "hospital": "North East Medical College & Hospital",
         "address": "Gohorpur Road, South Surma, Sylhet - 3100",
         "visitingTime": "10am to 1.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801715944733"
-      },
-      "id": "f7b245d8-8912-49ff-98c1-ffc1d04bc4f3"
+        "appointmentNumber": "+8801715944733Call Now"
+      }
     }
   ]
 }

@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "76f9798f-d845-4628-b9f5-745d4a914df0",
+      "departmentId": "ad06aec8-c55f-40f6-962d-eb86fb02fd6c",
+      "link": "https://www.doctorbangladesh.com/dr-a-n-m-ehsanul-karim/",
+      "imageId": "fb80369f-7b5e-46e0-a5d4-5e302f56d339",
       "name": "Dr. A.N.M Ehsanul Karim",
       "degree": "MBBS, FCPS (Medicine), MD (Nephrology)",
       "specialty": "Kidney & Medicine Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "2.30pm to 10pm (Thursday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "12141fdc-806d-46ac-90b9-2d920dfebe1a"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "03e05677-3a8d-4161-85e5-ad2235a705a7",
+      "departmentId": "ad06aec8-c55f-40f6-962d-eb86fb02fd6c",
+      "link": "https://www.doctorbangladesh.com/dr-a-s-m-julfekar-helal/",
+      "imageId": "6422fab0-815c-41c0-9d88-516e5b9ff6ef",
       "name": "Dr. A.S.M. Julfekar Helal",
       "degree": "MBBS, MD (Nephrology), CCD (BIRDEM), FCPS (Medicine)",
       "specialty": "Kidney, Diabetes & Medicine Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "10am to 5pm (Tues & Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "e601e3b4-2562-48f0-96bc-119d23e916ab"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "72d2f649-0b4c-455c-a5e1-52ba67fb009b",
+      "departmentId": "ad06aec8-c55f-40f6-962d-eb86fb02fd6c",
+      "link": "https://www.doctorbangladesh.com/dr-swapan-kumar-saha/",
+      "imageId": "79ad54ba-e2f9-41d2-826e-9ac330932421",
       "name": "Dr. Swapan Kumar Saha",
       "degree": "MBBS, MD (Nephrology), MPH (Epidemiology)",
       "specialty": "Kidney Diseases Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "1:30pm to 3:30pm (Mon, Tue & Wednesday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "c003edc9-6e13-410d-aa1b-c2d482334311"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "967fa6f5-fe1b-4f5e-9a96-c8cb0403e261",
+      "departmentId": "ad06aec8-c55f-40f6-962d-eb86fb02fd6c",
+      "link": "https://www.doctorbangladesh.com/dr-a-h-m-sanjedul-haque-sumon/",
+      "imageId": "c213d192-a100-4023-a7b5-80ad1330c57d",
       "name": "Dr. A.H.M. Sanjedul Haque Sumon",
       "degree": "MBBS, BCS (Health), MD (Nephrology)",
       "specialty": "Kidney Diseases Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "3pm to 9pm (Closed: Monday), 9am to 7pm (Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "d044ca44-66c6-4f80-abc0-239774c5dd73"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "c2fa84d4-8bff-48f6-873c-00e9606348d3",
+      "departmentId": "ad06aec8-c55f-40f6-962d-eb86fb02fd6c",
+      "link": "https://www.doctorbangladesh.com/dr-s-haque-sumon/",
+      "imageId": "871e5f6d-d88b-4420-9e40-28de4788ae00",
       "name": "Dr. S. Haque Sumon",
       "degree": "MBBS, BCS (Health), MD (Nephrology)",
       "specialty": "Kidney Diseases Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
         "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
         "visitingTime": "3pm to 5pm (Closed: Mon & Friday)",
-        "appointmentNumber": "+8801701560011"
-      },
-      "id": "f8631f38-b5e7-4c2c-bdcc-150b4f6731e1"
+        "appointmentNumber": "+8801701560011Call Now"
+      }
     },
     {
+      "id": "105455a1-ac18-4978-b406-1ac7d7907e14",
+      "departmentId": "ad06aec8-c55f-40f6-962d-eb86fb02fd6c",
+      "link": "https://www.doctorbangladesh.com/dr-jakia-sultana/",
+      "imageId": "3cf1f0ac-1a8f-4df1-a777-e06a97714565",
       "name": "Dr. Jakia Sultana",
       "degree": "MBBS, MCPS (Pediatrics), MD (Pediatric Nephrology)",
       "specialty": "Child Diseases & Child Kidney Specialist",
@@ -80,9 +99,8 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "3pm to 8pm (Closed: Wednesday), 11am to 2pm (Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "ef951c3a-e999-4592-8c1c-97e5270c6243"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     }
   ]
 }

@@ -1,34 +1,44 @@
 {
   "doctor": [
     {
+      "id": "473dbea9-e8d3-4e92-b8ba-a0c7df02c7bf",
+      "departmentId": "5fb30c4d-a041-4f79-aa8b-a86096fae669",
+      "link": "https://www.doctorbangladesh.com/dr-masum-ahmed/",
+      "imageId": "2c7e41d7-3ba9-48f1-afb2-c8c998a84414",
       "name": "Dr. Masum Ahmed",
       "degree": "MBBS, FCPS (Medicine), MD (Chest Diseases)",
       "specialty": "Chest Diseases & Medicine Specialist",
       "workplace": "Sher-E-Bangla Medical College & Hospital",
-      "info": "Rahat Anwar Hospital, Barisal\nAddress: Band Road, Chandmari, Barisal Sadar, Barisal – 8200\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8801711993953\nCall Now",
+      "info": "Rahat Anwar Hospital, Barisal Address: Band Road, Chandmari, Barisal Sadar, Barisal – 8200 Visiting Hour: Unknown. Please call to know visiting hour Appointment: +8801711993953 Call Now",
       "chamber": {
         "hospital": "South Apollo Diagnostic Complex, Barisal",
         "address": "135, Sadar Road, Barisal",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801711457444"
-      },
-      "id": "e5302cf6-a585-4714-a4ea-f93a28c9d119"
+        "appointmentNumber": "+8801711457444Call Now"
+      }
     },
     {
+      "id": "52dcbf53-0899-49b0-9c58-09e849cdf063",
+      "departmentId": "5fb30c4d-a041-4f79-aa8b-a86096fae669",
+      "link": "https://www.doctorbangladesh.com/dr-kamruzzaman-md-zahir/",
+      "imageId": "1a459b54-f4e4-462a-852d-12ffd2cc5429",
       "name": "Dr. Kamruzzaman Md. Zahir",
       "degree": "MBBS, MCPS (Medicine), MD (Chest Diseases)",
       "specialty": "Asthma, Chest Medicine & Respiratory Medicine Specialist",
       "workplace": "Sher-E-Bangla Medical College & Hospital",
-      "info": "Advance Hospital, Banasree\nAddress: House # 1, Main Road, Block # F, Banasree, Dhaka\nVisiting Hour: 6pm to 7pm (Thu, Fri & Sat)\nAppointment: +8801999242424\nCall Now",
+      "info": "Advance Hospital, Banasree Address: House # 1, Main Road, Block # F, Banasree, Dhaka Visiting Hour: 6pm to 7pm (Thu, Fri & Sat) Appointment: +8801999242424 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Barisal",
         "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
         "visitingTime": "6pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787819"
-      },
-      "id": "77659759-380d-4af8-a41e-00b7ac4d85fb"
+        "appointmentNumber": "+8809666787819Call Now"
+      }
     },
     {
+      "id": "821fc510-e441-4eac-903f-9f2773192009",
+      "departmentId": "5fb30c4d-a041-4f79-aa8b-a86096fae669",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-siddiqur-rahman/",
+      "imageId": "b6cd67d0-a25a-46e2-a6d8-4ca203c39fba",
       "name": "Prof. Dr. Md. Siddiqur Rahman",
       "degree": "MBBS, DTCD, PhD (USA), FCCP (USA), ICTC (IUATLD), FWHO ( Tanzania)",
       "specialty": "Chest Diseases & Respiratory Medicine Specialist",
@@ -38,23 +48,25 @@
         "hospital": "Rahat Anwar Hospital, Barisal",
         "address": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801711993953"
-      },
-      "id": "f456ad3f-d297-41ea-96d0-9cebd7d725fd"
+        "appointmentNumber": "+8801711993953Call Now"
+      }
     },
     {
+      "id": "bf9482ca-d877-432b-9bd5-af155c12eaaa",
+      "departmentId": "5fb30c4d-a041-4f79-aa8b-a86096fae669",
+      "link": "https://www.doctorbangladesh.com/dr-mahmudul-hasan-banna/",
+      "imageId": "9a8b6696-adaa-4492-8ff6-392a1ac0a485",
       "name": "Dr. Mahmudul Hasan Banna",
       "degree": "MBBS, BCS (Health), DTCD (BSMMU), CCD (BIRDEM), FCCP (USA)",
       "specialty": "Chest Diseases & Diabetes Specialist",
       "workplace": "TB Hospital, Barisal",
-      "info": "Islami Bank Hospital, Barisal\nAddress: Band Road, Chandmari, Barisal – 8200\nVisiting Hour: 4pm to 10pm (Closed: Friday)\nAppointment: +8801810000121\nCall Now",
+      "info": "Islami Bank Hospital, Barisal Address: Band Road, Chandmari, Barisal – 8200 Visiting Hour: 4pm to 10pm (Closed: Friday) Appointment: +8801810000121 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Barisal",
         "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
         "visitingTime": "3pm to 4pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787819"
-      },
-      "id": "3f073526-3282-4959-8a5b-7d37ab96da14"
+        "appointmentNumber": "+8809666787819Call Now"
+      }
     }
   ]
 }

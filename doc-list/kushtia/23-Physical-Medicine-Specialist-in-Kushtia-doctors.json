@@ -1,18 +1,21 @@
 {
   "doctor": [
     {
+      "id": "7cfee411-5181-4e3f-843a-322a1961471d",
+      "departmentId": "3b6692fc-3bd9-41e9-ad34-2550e49e91bd",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-kamrul-hassan/",
+      "imageId": "b501914b-7766-4d9d-b60d-1b42f963c7c7",
       "name": "Dr. Muhammad Kamrul Hassan",
       "degree": "MBBS, FCPS (Physical Medicine)",
       "specialty": "Physical Medicine (Pain, Arthritis, Paralysis, Stroke) Specialist",
       "workplace": "Shahabuddin Medical College & Hospital",
-      "info": "Sono Diagnostic Center, Kushtia\nAddress: Sono Tower, College Mor, Court Para, Kushtia\nVisiting Hour: 9am to 5pm (Only Friday)\nAppointment: +8801930543929\nCall Now",
+      "info": "Sono Diagnostic Center, Kushtia Address: Sono Tower, College Mor, Court Para, Kushtia Visiting Hour: 9am to 5pm (Only Friday) Appointment: +8801930543929 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "9b22b405-49cf-4cf0-aa9d-3ef46b206059"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     }
   ]
 }

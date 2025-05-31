@@ -1,20 +1,27 @@
 {
   "doctor": [
     {
+      "id": "aa7eb257-34c0-47ad-bb5c-ba859ed21fa0",
+      "departmentId": "4d0c88ba-9da2-42bf-8db7-1c1707ce8b46",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdul-awal/",
+      "imageId": "4459ad05-91da-4125-bc41-3ecdee7a296e",
       "name": "Dr. Md. Abdul Awal",
       "degree": "MBBS, BCS (Health), MS (Ortho Surgery), Fellowship in Spine Surgery (Korea)",
       "specialty": "Orthopedics (Bone, Joint, Arthritis, Trauma) & Spine Surgeon",
       "workplace": "Rajshahi Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Rajshahi\nAddress: House # 474, Chowdhury Tower, Laxmipur, Rajshahi\nVisiting Hour: 2:30pm to 8pm (Closed: Friday)\nAppointment: +8809666787811\nCall Now",
+      "info": "Popular Diagnostic Center, Rajshahi Address: House # 474, Chowdhury Tower, Laxmipur, Rajshahi Visiting Hour: 2:30pm to 8pm (Closed: Friday) Appointment: +8809666787811 Call Now",
       "chamber": {
         "hospital": "Shafique Hospital, Pabna",
         "address": "Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna",
         "visitingTime": "3pm to 8pm (Only Friday)",
-        "appointmentNumber": "+8801701654390"
-      },
-      "id": "f2d93bac-e244-4150-87fc-bd483ec0c081"
+        "appointmentNumber": "+8801701654390Call Now"
+      }
     },
     {
+      "id": "3dc78bfb-41be-4a03-9ab8-b326ae05637b",
+      "departmentId": "4d0c88ba-9da2-42bf-8db7-1c1707ce8b46",
+      "link": "https://www.doctorbangladesh.com/prof-dr-bk-dam/",
+      "imageId": "78b8220b-677b-49b1-8a1c-f33d877a5272",
       "name": "Prof. Dr. B.K. Dam",
       "degree": "MBBS, MS (Ortho Surgery), FICS (USA), Member (AAOS)",
       "specialty": "Orthopedic Specialist & Trauma Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "City Diagnostic Center, Rajshahi",
         "address": "Beside Education Board, Greater Road, Laxmipur, Rajshahi",
         "visitingTime": "7am to 8am & 5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801714228295"
-      },
-      "id": "990e1f2c-06b9-479b-af6e-c35da1dab4a8"
+        "appointmentNumber": "+8801714228295Call Now"
+      }
     },
     {
+      "id": "392d6131-fd64-4a40-a8dd-2d1b3310609e",
+      "departmentId": "4d0c88ba-9da2-42bf-8db7-1c1707ce8b46",
+      "link": "https://www.doctorbangladesh.com/dr-debashish-roy/",
+      "imageId": "f4aa752c-f8eb-4eaa-ac81-b4129a9a768e",
       "name": "Dr. Debashish Roy",
       "degree": "MBBS, D-ORTHO, MS (ORTHO)",
       "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
@@ -38,11 +48,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "Room 516, Bhaban 01, Sher Shah Road, Laxmipur, Rajshahi",
         "visitingTime": "10am to 2pm (Everyday) & 4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "1c120228-2307-4baf-ab2c-77fb12528821"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "7b5f6efb-232d-4cf8-ab00-b685e6af70e0",
+      "departmentId": "4d0c88ba-9da2-42bf-8db7-1c1707ce8b46",
+      "link": "https://www.doctorbangladesh.com/dr-md-habibul-hasan/",
+      "imageId": "738c2a52-e901-4fe3-bf1c-5f53e17b05de",
       "name": "Dr. Md. Habibul Hasan",
       "degree": "MBBS, BCS (Health), MCPS (Surgery), FCPS (Ortho Surgery)",
       "specialty": "Orthopedics (Bone, Joint, Trauma, Sports Injury) Specialist & Surgeon",
@@ -52,25 +65,31 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "634c59ae-a0a5-4cea-8bdb-1d8ec9eaaf7e"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "d6c81d46-4b5b-4c93-be30-68f653d41c1f",
+      "departmentId": "4d0c88ba-9da2-42bf-8db7-1c1707ce8b46",
+      "link": "https://www.doctorbangladesh.com/dr-subrata-kumar-pramanik/",
+      "imageId": "687974b1-d5c9-46bf-863d-a502b30bd717",
       "name": "Dr. Subrata Kumar Pramanik",
       "degree": "MBBS, MS (Ortho Surgery)",
       "specialty": "Orthopedics (Bone, Joint, Arthritis, Trauma, Spine) Specialist & Surgeon",
       "workplace": "Rajshahi Medical College & Hospital",
-      "info": "Dr. Subrata Kumar Pramanik is a Orthopedic Surgeon in Rajshahi. His qualification is MBBS, MS (Ortho Surgery). He is a Associate Professor,  Orthopedics Surgery at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Subrata Kumar Pramanik at Popular Diagnostic Center, Rajshahi is 4pm to 6pm (Closed: Friday).",
+      "info": "Dr. Subrata Kumar Pramanik is a Orthopedic Surgeon in Rajshahi. His qualification is MBBS, MS (Ortho Surgery). He is a Associate Professor, Orthopedics Surgery at Rajshahi Medical College & Hospital. He regularly provides treatment to his patients at Popular Diagnostic Center, Rajshahi. Practicing hour of Dr. Subrata Kumar Pramanik at Popular Diagnostic Center, Rajshahi is 4pm to 6pm (Closed: Friday).",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "4pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "6ada98f3-47b5-47d7-b43f-beff0b284660"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "8e2651b1-5b87-45b8-a7c0-c6c3b7de9e44",
+      "departmentId": "4d0c88ba-9da2-42bf-8db7-1c1707ce8b46",
+      "link": "https://www.doctorbangladesh.com/dr-sayed-ahmed/",
+      "imageId": "eef9ebc1-05d2-4165-8244-4ed08c2a4387",
       "name": "Dr. Sayed Ahmed",
       "degree": "MBBS, D-ORTHO, MS (ORTHO)",
       "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
@@ -80,39 +99,48 @@
         "hospital": "Medipath Diagnostic Complex, Rajshahi",
         "address": "Shuvecca View, Greater Road, Laxmipur, Kajihata, Rajshahi",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801712685297"
-      },
-      "id": "5f6952f4-e1c3-4282-b7f6-88d568264a6b"
+        "appointmentNumber": "+8801712685297Call Now"
+      }
     },
     {
+      "id": "7601ed5a-71a2-4e0f-b7bf-10933957a4d4",
+      "departmentId": "4d0c88ba-9da2-42bf-8db7-1c1707ce8b46",
+      "link": "https://www.doctorbangladesh.com/dr-md-shafiqul-islam-ortho/",
+      "imageId": "64f64599-0aa5-4c1e-834e-ab94203ea4e8",
       "name": "Dr. Md. Shafiqul Islam",
       "degree": "MBBS, BCS (Health), MS (Ortho Surgery)",
       "specialty": "Orthopedics (Bone-Joint, Trauma, Paralysis, Arthritis) Specialist & Surgeon",
       "workplace": "Rajshahi Medical College & Hospital",
-      "info": "Micropath Diagnostic Center, Rajshahi\nAddress: Medical Mor, Laxmipur, Rajshahi – 6000\nVisiting Hour: 8pm to 9pm (Closed: Friday)\nAppointment: +8801724550544\nCall Now",
+      "info": "Micropath Diagnostic Center, Rajshahi Address: Medical Mor, Laxmipur, Rajshahi – 6000 Visiting Hour: 8pm to 9pm (Closed: Friday) Appointment: +8801724550544 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "3pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "476a9d8b-edcb-4818-badc-bf42ce28bd75"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "d1869628-ab27-4f79-9e76-01b7dd65ec18",
+      "departmentId": "4d0c88ba-9da2-42bf-8db7-1c1707ce8b46",
+      "link": "https://www.doctorbangladesh.com/dr-md-munzur-rahman/",
+      "imageId": "9ca69609-9988-4be4-8554-72225281918a",
       "name": "Dr. Md. Munzur Rahman",
       "degree": "MBBS, BCS, FCPS (Ortho-Surgery), MRCPS (Glasg) UK",
       "specialty": "Specialist Spine & Orthopaedic Surgeon",
       "workplace": "Rajshahi Medical College & Hospital",
-      "info": "Labaid Diagnostic, Rajshahi\nAddress: House # 621, Shershah Road, Rajpara, Laxmipur, Rajshahi – 6000\nVisiting Hour: 3pm to 4.30pm (Closed: Friday)\nAppointment: +8801758201206\nCall Now",
+      "info": "Labaid Diagnostic, Rajshahi Address: House # 621, Shershah Road, Rajpara, Laxmipur, Rajshahi – 6000 Visiting Hour: 3pm to 4.30pm (Closed: Friday) Appointment: +8801758201206 Call Now",
       "chamber": {
         "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
         "address": "Laxmipur Mor, Rajshahi",
         "visitingTime": "4.30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801758201206"
-      },
-      "id": "39ecbcaf-b555-4483-8f78-b80aef0f516d"
+        "appointmentNumber": "+8801758201206Call Now"
+      }
     },
     {
+      "id": "f15363b9-c2e1-40ae-82c5-bd6b1ec5d494",
+      "departmentId": "4d0c88ba-9da2-42bf-8db7-1c1707ce8b46",
+      "link": "https://www.doctorbangladesh.com/dr-md-kamruzzaman-parvez/",
+      "imageId": "96c93310-721e-496a-b27e-31ebb4d2544f",
       "name": "Dr. Md. Qumruzzaman Parvez",
       "degree": "MBBS, BCS (Health), MS (ORTHO), Fellowship (India)",
       "specialty": "Orthopedics (Bone-Joint, Trauma, Paralysis, Arthritis) Specialist & Surgeon",
@@ -122,11 +150,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "3:30pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "646183d8-3343-466a-8d9b-d387a9b27928"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "85c8ff94-c83d-456f-8d8b-948e24fd559f",
+      "departmentId": "4d0c88ba-9da2-42bf-8db7-1c1707ce8b46",
+      "link": "https://www.doctorbangladesh.com/dr-md-alamgir-hossain/",
+      "imageId": "2c4b7043-c727-4fd8-b4b4-27df09514e07",
       "name": "Dr. Md. Alamgir Hossain",
       "degree": "MBBS, MS (Ortho Surgery)",
       "specialty": "Bone-Joint, Trauma, Paralysis, Arthritis Specialist & Surgeon",
@@ -136,11 +167,14 @@
         "hospital": "Zamzam Islami Hospital, Rajshahi",
         "address": "Greater Road, Kazihata, Laxmipur, Rajshahi",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801711192600"
-      },
-      "id": "a5f0ddf1-1c24-4f8f-92e9-8d333e9339c2"
+        "appointmentNumber": "+8801711192600Call Now"
+      }
     },
     {
+      "id": "99f2be2a-4a0b-402c-9b87-a21c75293be6",
+      "departmentId": "4d0c88ba-9da2-42bf-8db7-1c1707ce8b46",
+      "link": "https://www.doctorbangladesh.com/dr-md-monwar-tariq-sabu/",
+      "imageId": "3ff392c3-d8df-4ba7-b4fb-1f6726cf9769",
       "name": "Dr. Md. Monwar Tariq (Sabu)",
       "degree": "MBBS, BCS (Health), D-ORTHO, MS (ORTHO)",
       "specialty": "Orthopedics (Bone, Joint, Arthritis, Trauma, Spine) Specialist & Surgeon",
@@ -150,11 +184,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "4pm to 9pm (Closed: Tue & Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "a5d63e10-ecab-4aff-889d-78c5479b570c"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "1f11c117-ae88-4d65-b44e-e27108267ea6",
+      "departmentId": "4d0c88ba-9da2-42bf-8db7-1c1707ce8b46",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdur-rashid/",
+      "imageId": "49c8c339-63e1-4cf9-9147-f53a5566fb96",
       "name": "Dr. Md. Abdur Rashid",
       "degree": "MBBS, D-ORTHO, MPHIL (Fellow)",
       "specialty": "Orthopedic Specialist",
@@ -164,11 +201,14 @@
         "hospital": "Islami Bank Hospital, Rajshahi",
         "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801777242536"
-      },
-      "id": "d34a8101-5f65-4abf-8bc8-f92577b59def"
+        "appointmentNumber": "+8801777242536Call Now"
+      }
     },
     {
+      "id": "e05509ba-c9c5-4ab9-9835-0b0ac7111724",
+      "departmentId": "4d0c88ba-9da2-42bf-8db7-1c1707ce8b46",
+      "link": "https://www.doctorbangladesh.com/dr-m-sharif-uddin-liton/",
+      "imageId": "6e896461-faed-44bf-927e-c400bbb9eff7",
       "name": "Dr. M. Sharif Uddin Liton",
       "degree": "MBBS, BCS (Health), D-ORTHO (BSMMU), FACS (USA), FIPM (India)",
       "specialty": "Orthopedics, Trauma, Ilizarov Surgery, Ozone Therapy & Pain Specialist",
@@ -178,11 +218,14 @@
         "hospital": "Islami Bank Hospital, Rajshahi",
         "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801777242536"
-      },
-      "id": "e780f58e-a980-4d61-b892-ce13a669204c"
+        "appointmentNumber": "+8801777242536Call Now"
+      }
     },
     {
+      "id": "b66313e2-c171-4f3f-9429-1687177452fe",
+      "departmentId": "4d0c88ba-9da2-42bf-8db7-1c1707ce8b46",
+      "link": "https://www.doctorbangladesh.com/drmizanur-rahman/",
+      "imageId": "9f6bc566-3b5b-4e79-990f-8afc45ee223e",
       "name": "Dr. Md. Mizanur Rahman (Mizan)",
       "degree": "MBBS, BCS (Health), MS (Ortho), FCPS (Ortho), FACS (USA), CCD (BIRDEM)",
       "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
@@ -192,11 +235,14 @@
         "hospital": "Max Imaging & Diagnostic Center, Rajshahi",
         "address": "Laxmipur, Rajshahi",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801712-665965"
-      },
-      "id": "8f8a5823-8b74-44de-9cd0-474558c67c49"
+        "appointmentNumber": "+8801712-665965Call Now"
+      }
     },
     {
+      "id": "66da7ee6-5ca9-4344-b444-418b05057f2e",
+      "departmentId": "4d0c88ba-9da2-42bf-8db7-1c1707ce8b46",
+      "link": "https://www.doctorbangladesh.com/dr-obaydul-haque/",
+      "imageId": "dfc6afeb-2ebd-4d78-88d3-7d54a396d804",
       "name": "Dr. Obaydul Haque",
       "degree": "MBBS, D-ORTHO, PHD (Fellow)",
       "specialty": "Orthopedic Specialist",
@@ -206,11 +252,14 @@
         "hospital": "Islami Bank Hospital, Rajshahi",
         "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801777242536"
-      },
-      "id": "1ca515c7-3f94-461a-96e7-a11fc06282ce"
+        "appointmentNumber": "+8801777242536Call Now"
+      }
     },
     {
+      "id": "80a45b65-bc10-4202-952e-0034a42765b5",
+      "departmentId": "4d0c88ba-9da2-42bf-8db7-1c1707ce8b46",
+      "link": "https://www.doctorbangladesh.com/dr-deen-mohammad-sohel/",
+      "imageId": "03208542-6912-48f9-8679-9fd8b1631559",
       "name": "Dr. Din Mohammad Sohel",
       "degree": "MBBS, D-ORTHO, PhD (Fellow)",
       "specialty": "Orthopedic Surgeon",
@@ -220,11 +269,14 @@
         "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
         "address": "Laxmipur Mor, Rajshahi",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801762685090"
-      },
-      "id": "477d5081-023c-4162-8b55-283781c321a1"
+        "appointmentNumber": "+8801762685090Call Now"
+      }
     },
     {
+      "id": "ea92c38e-eaec-4040-9a21-2c654f1a72bc",
+      "departmentId": "4d0c88ba-9da2-42bf-8db7-1c1707ce8b46",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdul-hakim/",
+      "imageId": "12af7419-bb34-43db-8118-663b802e1071",
       "name": "Dr. Md. Abdul Hakim",
       "degree": "MBBS, BCS (Health), D-ORTHO",
       "specialty": "Orthopedics (Bone, Joint, Trauma, Sports Injury) Specialist & Surgeon",
@@ -234,11 +286,14 @@
         "hospital": "Zamzam Islami Hospital, Rajshahi",
         "address": "Greater Road, Kazihata, Laxmipur, Rajshahi",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801711192600"
-      },
-      "id": "e8155de4-c404-4237-ad27-6534f17de680"
+        "appointmentNumber": "+8801711192600Call Now"
+      }
     },
     {
+      "id": "5edfc47c-7986-460c-8c66-fbf5d6f3fe4c",
+      "departmentId": "4d0c88ba-9da2-42bf-8db7-1c1707ce8b46",
+      "link": "https://www.doctorbangladesh.com/dr-ahmed-asif-iqbal/",
+      "imageId": "cf0f69fc-daef-4ef5-ba10-298a4fccde0d",
       "name": "Dr. Ahmed Asif Iqbal",
       "degree": "MBBS, D-ORTHO, Fellow (Micro Surgery)",
       "specialty": "Orthopedic Surgery Specialist",
@@ -248,25 +303,31 @@
         "hospital": "Rajshahi Metropolitan Hospital",
         "address": "C&B Mor, Laxmipur, Kazihata, Rajshahi",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766865711"
-      },
-      "id": "8c9710eb-da47-4309-b0a0-0df3037acee2"
+        "appointmentNumber": "+8801766865711Call Now"
+      }
     },
     {
+      "id": "08d5a577-2c8b-4e3c-9a9b-2eab4cbe0a87",
+      "departmentId": "4d0c88ba-9da2-42bf-8db7-1c1707ce8b46",
+      "link": "https://www.doctorbangladesh.com/dr-kh-nafiz-rahman/",
+      "imageId": "7e0a2601-c5e4-42b2-a127-b1c8ed58571d",
       "name": "Dr. Kh. Nafiz Rahman",
       "degree": "MBBS, BCS (Health), D-ORTHO, FCPS (Ortho Surgery)",
       "specialty": "Orthopedic Surgeon",
       "workplace": "Rajshahi Medical College & Hospital",
-      "info": "Rajshahi Central Hospital\nAddress: Mehedi Plaza, Greater Road, Laxmipur Mor, Rajshahi\nVisiting Hour: 3pm to 9pm (Closed: Friday)\nAppointment: +8801997383940\nCall Now",
+      "info": "Rajshahi Central Hospital Address: Mehedi Plaza, Greater Road, Laxmipur Mor, Rajshahi Visiting Hour: 3pm to 9pm (Closed: Friday) Appointment: +8801997383940 Call Now",
       "chamber": {
         "hospital": "Metro Diagnostic Center, Rajshahi",
         "address": "Ghoshpara Mor, Sipaipara, Rajshahi",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801718282696"
-      },
-      "id": "0592e59c-c009-4743-aa27-c81f815b3de5"
+        "appointmentNumber": "+8801718282696Call Now"
+      }
     },
     {
+      "id": "11a55a27-04ba-4612-abc6-686991fae20c",
+      "departmentId": "4d0c88ba-9da2-42bf-8db7-1c1707ce8b46",
+      "link": "https://www.doctorbangladesh.com/dr-sayed-ahmed-babu/",
+      "imageId": "d3b56678-d3c3-471d-a5ce-f1bb79fa56c4",
       "name": "Dr. Sayed Ahmed Babu",
       "degree": "MBBS, D-ORTHO",
       "specialty": "Orthopedic Surgeon",
@@ -276,11 +337,14 @@
         "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
         "address": "Laxmipur Mor, Rajshahi",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801762685090"
-      },
-      "id": "d9b56470-5505-425d-b929-166ff09a3c8e"
+        "appointmentNumber": "+8801762685090Call Now"
+      }
     },
     {
+      "id": "68305637-3be2-42fa-a238-51c7af093e55",
+      "departmentId": "4d0c88ba-9da2-42bf-8db7-1c1707ce8b46",
+      "link": "https://www.doctorbangladesh.com/dr-moktar-ali/",
+      "imageId": "47510650-4bf9-4f49-88f5-611e36ef0557",
       "name": "Dr. Moktar Ali",
       "degree": "MBBS, PGT (Ortho Surgery), CCD, EOC (Anesthesia), DMU (Ultra)",
       "specialty": "Orthopedic Surgery Specialist",
@@ -290,11 +354,14 @@
         "hospital": "Rajshahi Central Hospital",
         "address": "Mehedi Plaza, Greater Road, Laxmipur Mor, Rajshahi",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801997383940"
-      },
-      "id": "3289089c-4042-4f02-becc-1a1261c37c7e"
+        "appointmentNumber": "+8801997383940Call Now"
+      }
     },
     {
+      "id": "f0172c65-c003-4d87-b0d5-5e6bf4aaefe9",
+      "departmentId": "4d0c88ba-9da2-42bf-8db7-1c1707ce8b46",
+      "link": "https://www.doctorbangladesh.com/dr-md-asem-ali/",
+      "imageId": "c31856ee-e56d-4a31-8781-2a6fd935a863",
       "name": "Dr. Md. Asem Ali",
       "degree": "MBBS, D-ORTHO (BSMMU)",
       "specialty": "Orthopedics (Bone, Joint, Trauma, Sports Injury) Specialist & Surgeon",
@@ -304,25 +371,31 @@
         "hospital": "Life Line Diagnostic Center, Rajshahi",
         "address": "191, South Side of Education Board, Laxmipur, Rajshahi",
         "visitingTime": "3pm to 9pm (Closed: Tue & Friday)",
-        "appointmentNumber": "+8801738139328"
-      },
-      "id": "b7df517f-deab-41a2-be74-ad5adbaaead8"
+        "appointmentNumber": "+8801738139328Call Now"
+      }
     },
     {
+      "id": "0ec92415-fcb1-4ac2-bb63-ea5470f82967",
+      "departmentId": "4d0c88ba-9da2-42bf-8db7-1c1707ce8b46",
+      "link": "https://www.doctorbangladesh.com/dr-md-shaukat-shorif/",
+      "imageId": "5dc8d862-0898-4cdb-9224-35628cd18c99",
       "name": "Dr. Md. Shaukat Shorif",
       "degree": "MBBS, BCS (Health), D-ORTHO (BSMMU)",
       "specialty": "Orthopedic (Bone, Joint, Arthritis, Trauma) Specialist & Surgeon",
       "workplace": "Rajshahi Medical College & Hospital",
-      "info": "Royal Ultrasound and Hospital\nAddress: Taherpur, Bagmara, Rajshahi\nVisiting Hour: 4pm to 8pm (Only Monday)\nAppointment: +8801799289710\nCall Now",
+      "info": "Royal Ultrasound and Hospital Address: Taherpur, Bagmara, Rajshahi Visiting Hour: 4pm to 8pm (Only Monday) Appointment: +8801799289710 Call Now",
       "chamber": {
         "hospital": "Moti Master Market",
         "address": "Baneswar Bazar,Puthia, Rajshahi",
         "visitingTime": "4pm to 8pm (Thursday, Friday, Saturday, & Tuesday )",
-        "appointmentNumber": "+8801799289710"
-      },
-      "id": "6e84024e-4db0-4a24-b930-1b48c38b5b2c"
+        "appointmentNumber": "+8801799289710Call Now"
+      }
     },
     {
+      "id": "f1d93359-72e2-4d27-af1c-75e53b785a7a",
+      "departmentId": "4d0c88ba-9da2-42bf-8db7-1c1707ce8b46",
+      "link": "https://www.doctorbangladesh.com/dr-sm-yousuf-amin/",
+      "imageId": "6582f1b7-d237-45ab-8fa8-35c373a3fe63",
       "name": "Dr. SM. Yousuf Amin",
       "degree": "MBBS, MS (Orthopedic Surgery)",
       "specialty": "Orthopedics, Spine, Ilizarov & Trauma Surgeon",
@@ -332,9 +405,8 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "2.30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "f4428984-310a-4948-a9c9-cc19bcbfb2fd"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     }
   ]
 }

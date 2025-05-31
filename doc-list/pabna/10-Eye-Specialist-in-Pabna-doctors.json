@@ -1,20 +1,27 @@
 {
   "doctor": [
     {
+      "id": "af46de98-84a2-4da1-b77b-4e8cafcab3cf",
+      "departmentId": "293c8ca8-0f01-4cd8-b97d-faefbe7cc6c7",
+      "link": "https://www.doctorbangladesh.com/dr-sanjay-kumar-sarkar/",
+      "imageId": "09d06ed8-1de6-458c-ac8f-83d962cbf124",
       "name": "Dr. Sanjay Kumar Sarker",
       "degree": "MBBS (DMC), BCS (Health), FCPS (EYE), MCPS (EYE), Fellow (Vitreo-Retina)",
       "specialty": "Eye Specialist & Phaco Surgeon",
       "workplace": "National Institute of Ophthalmology & Hospital",
-      "info": "Shimla Hospital, Pabna\nAddress: Shimla Tower, Thana Mor, Hospital Road, Pabna\nVisiting Hour: 9am to 9pm (Only Friday)\nAppointment: +8801713228218\nCall Now",
+      "info": "Shimla Hospital, Pabna Address: Shimla Tower, Thana Mor, Hospital Road, Pabna Visiting Hour: 9am to 9pm (Only Friday) Appointment: +8801713228218 Call Now",
       "chamber": {
         "hospital": "Green Eye Hospital, Dhaka",
         "address": "Rupayan Khan Plaza, House No: 500/A, Road No: 7, Dhanmondi 1205",
         "visitingTime": "4pm to 8pm (Sunday & Tuesday)",
-        "appointmentNumber": "+8801717487807"
-      },
-      "id": "7bcbc370-30ba-45e4-8fb7-a0b99787567f"
+        "appointmentNumber": "+8801717487807Call Now"
+      }
     },
     {
+      "id": "cd6835dc-018d-43c5-a774-16d1a00e2bb1",
+      "departmentId": "293c8ca8-0f01-4cd8-b97d-faefbe7cc6c7",
+      "link": "https://www.doctorbangladesh.com/dr-fazle-rabbi/",
+      "imageId": "0423af0b-e67b-42bb-bdce-aea042ed703d",
       "name": "Dr. Fazley Rabby",
       "degree": "MBBS, BCS (Health), FCPS (EYE), MCPS (EYE), ICO (UK)",
       "specialty": "Eye Specialist & Phaco Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "Shimla Hospital, Pabna",
         "address": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801713228218"
-      },
-      "id": "fae4cca1-99eb-4577-84c2-8a41ae4b39df"
+        "appointmentNumber": "+8801713228218Call Now"
+      }
     },
     {
+      "id": "2b314644-1133-4948-a1cd-ee11f4fdee9f",
+      "departmentId": "293c8ca8-0f01-4cd8-b97d-faefbe7cc6c7",
+      "link": "https://www.doctorbangladesh.com/dr-md-aminur-rashid-akonda/",
+      "imageId": "c58b9b6a-bfec-4f64-b87e-8dd301e1f01b",
       "name": "Dr. Md. Aminur Rashid Akonda",
       "degree": "MBBS, BCS (Health), MS (EYE)",
       "specialty": "Eye Diseases Specialist & Phaco Surgeon",
@@ -38,25 +48,31 @@
         "hospital": "Shimla Hospital, Pabna",
         "address": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
         "visitingTime": "3pm to 9pm (Sat, Sun & Wed)",
-        "appointmentNumber": "+8801713228218"
-      },
-      "id": "f51cb10c-21d7-4eac-a121-0c9b9a06f076"
+        "appointmentNumber": "+8801713228218Call Now"
+      }
     },
     {
+      "id": "e80c9356-5f29-4932-bfeb-1bfe0bb6b3d0",
+      "departmentId": "293c8ca8-0f01-4cd8-b97d-faefbe7cc6c7",
+      "link": "https://www.doctorbangladesh.com/dr-md-saiful-islam-sattar/",
+      "imageId": "81a1e8a1-dddc-4210-9def-aaacc2b09076",
       "name": "Dr. Md. Saiful Islam (Sattar)",
       "degree": "MBBS (RU), DO (EYE), MS (EYE, DU)",
       "specialty": "Eye Specialist, Cornea, Phaco & Lasik Surgeon",
       "workplace": "Rajshahi Medical College & Hospital",
-      "info": "PDC Specialized Hospital, Pabna\nAddress: Capt. Anisur Rahman’s Building, Hospital Road, Pabna\nVisiting Hour: 8am to 3pm (Every Friday)\nAppointment: +8801798249955\nCall Now",
+      "info": "PDC Specialized Hospital, Pabna Address: Capt. Anisur Rahman’s Building, Hospital Road, Pabna Visiting Hour: 8am to 3pm (Every Friday) Appointment: +8801798249955 Call Now",
       "chamber": {
         "hospital": "North Bengal Cornea & Phaco Center",
         "address": "Rajshahi General Hospital & Diagnostic Center (3rd Floor),Shershah Road, Laxmipur, Rajshahi (লক্ষ্মীপুর মোড় থেকে ৩০০ গজ পশ্চিমে)",
         "visitingTime": "4pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801729918684"
-      },
-      "id": "d07be9da-013b-454b-8d4a-d289eabdb2be"
+        "appointmentNumber": "+8801729918684Call Now"
+      }
     },
     {
+      "id": "9f28402c-ddf0-4af1-8e83-b15815577257",
+      "departmentId": "293c8ca8-0f01-4cd8-b97d-faefbe7cc6c7",
+      "link": "https://www.doctorbangladesh.com/dr-al-mamun/",
+      "imageId": "6ee6a676-0631-4c2a-9e30-4b284d7cad9f",
       "name": "Dr. Al Mamun",
       "degree": "MBBS, BCS (Health), FCPS (Eye), ICO (UK)",
       "specialty": "Eye Specialist & Surgeon",
@@ -66,11 +82,14 @@
         "hospital": "Pabna Eye Hospital & Phaco Center",
         "address": "Mahendrapur, Pabna Sadar, Pabna",
         "visitingTime": "9am to 2pm & 4pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801767727701"
-      },
-      "id": "b3ae0b14-5005-4228-9873-b917a1b4306d"
+        "appointmentNumber": "+8801767727701Call Now"
+      }
     },
     {
+      "id": "7cf93a5e-7bc8-4eab-99f8-d904c610db9e",
+      "departmentId": "293c8ca8-0f01-4cd8-b97d-faefbe7cc6c7",
+      "link": "https://www.doctorbangladesh.com/dr-md-sayeed-hasan-jami/",
+      "imageId": "a0149e56-1c19-4b97-80e8-c1fa370117b3",
       "name": "Dr. Md. Sayeed Hasan Jami",
       "degree": "MBBS, DO (BSMMU), SICR, DCR",
       "specialty": "Eye Specialist & Surgeon",
@@ -80,11 +99,14 @@
         "hospital": "Grameen Diagnostic Center, Pabna",
         "address": "Sadar Hospital Road, Shalgaria, Pabna",
         "visitingTime": "From 9.30pm (Monday & Friday)",
-        "appointmentNumber": "+8801950998955"
-      },
-      "id": "995181c2-5623-459d-8414-4ace8b392196"
+        "appointmentNumber": "+8801950998955Call Now"
+      }
     },
     {
+      "id": "d5648c0b-e4b9-4466-a082-cfb785eec3d9",
+      "departmentId": "293c8ca8-0f01-4cd8-b97d-faefbe7cc6c7",
+      "link": "https://www.doctorbangladesh.com/dr-nazmus-sakib/",
+      "imageId": "b521971a-fd02-49dd-ad07-de3bf89350d0",
       "name": "Dr. Nazmus Sakib",
       "degree": "MBBS, DO, MCPS, FCPS (EYE)",
       "specialty": "Eye Specialist & Surgeon",
@@ -94,11 +116,14 @@
         "hospital": "Pabna Eye Hospital & Phaco Center",
         "address": "Mahendrapur, Pabna Sadar, Pabna",
         "visitingTime": "9am to 2pm & 4pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801767727701"
-      },
-      "id": "29560935-24b5-49f6-b6f2-7e169e2f56f2"
+        "appointmentNumber": "+8801767727701Call Now"
+      }
     },
     {
+      "id": "f7001142-ab1b-40c1-9406-eae6397e5b9a",
+      "departmentId": "293c8ca8-0f01-4cd8-b97d-faefbe7cc6c7",
+      "link": "https://www.doctorbangladesh.com/dr-md-sajibur-rahman-pran/",
+      "imageId": "31695ed6-d39c-43df-9c46-226c52288314",
       "name": "Dr. Md. Sajibur Rahman Pran",
       "degree": "MBBS, DO (DU)",
       "specialty": "Eye Specialist & Surgeon",
@@ -108,11 +133,14 @@
         "hospital": "Pabna Eye Hospital & Phaco Center",
         "address": "Mahendrapur, Pabna Sadar, Pabna",
         "visitingTime": "9am to 2pm & 4pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801767727701"
-      },
-      "id": "8a604764-f175-42f1-b220-e078f8050982"
+        "appointmentNumber": "+8801767727701Call Now"
+      }
     },
     {
+      "id": "84317b8d-3247-4bdf-9536-da6e8c7be90e",
+      "departmentId": "293c8ca8-0f01-4cd8-b97d-faefbe7cc6c7",
+      "link": "https://www.doctorbangladesh.com/dr-kh-md-abul-ehsan-echo/",
+      "imageId": "f56f87cf-9c36-43a0-96c1-182958190283",
       "name": "Dr. Kh. Md. Abul Ehsan Echo",
       "degree": "MBBS, DO (BSMMU), FIGO (India)",
       "specialty": "Eye Specialist & Surgeon",
@@ -122,9 +150,8 @@
         "hospital": "Pabna Eye Hospital & Phaco Center",
         "address": "Mahendrapur, Pabna Sadar, Pabna",
         "visitingTime": "9am to 2pm & 4pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801767727701"
-      },
-      "id": "7128fb6d-43f6-414c-9e30-3b9d86749eaa"
+        "appointmentNumber": "+8801767727701Call Now"
+      }
     }
   ]
 }

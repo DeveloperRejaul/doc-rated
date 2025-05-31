@@ -1,20 +1,27 @@
 {
   "doctor": [
     {
+      "id": "67f89619-8369-4e45-a12b-6a8c0a5898fa",
+      "departmentId": "ea932f9d-033c-4554-af04-ed213d99ff14",
+      "link": "https://www.doctorbangladesh.com/dr-ali-asgar-chowdhury/",
+      "imageId": "359cced8-b040-4208-9810-b8e407c896d0",
       "name": "Dr. Ali Asgar Chowdhury",
       "degree": "MBBS, BCS (Health), FCPS (Radiotherapy)",
       "specialty": "Cancer & Tumor Specialist",
       "workplace": "Chittagong Medical College & HospitalAppointment: 01810-004550",
-      "info": "Lancet Diagnostic Center, ChittagongAddress: 106/B, K.B. Fazlul Kader Road, Panchlaish, ChattogramVisiting Hour: 8.30pm to 10.30pm (Closed: Friday)Appointment: +8801552674425Call Now",
+      "info": "Lancet Diagnostic Center, Chittagong Address: 106/B, K.B. Fazlul Kader Road, Panchlaish, Chattogram Visiting Hour: 8.30pm to 10.30pm (Closed: Friday) Appointment: +8801552674425 Call Now",
       "chamber": {
         "hospital": "Asperia Health Care Ltd, Chittagong",
         "address": "Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram",
         "visitingTime": "4pm to 7pm (Sat, Mon, Wed & Thu)",
-        "appointmentNumber": "+8801810004550"
-      },
-      "id": "5d3725f9-fd20-4c3b-acbd-8f9906a0ca04"
+        "appointmentNumber": "+8801810004550Call Now"
+      }
     },
     {
+      "id": "1f782653-a833-4668-943e-65baf6063446",
+      "departmentId": "ea932f9d-033c-4554-af04-ed213d99ff14",
+      "link": "https://www.doctorbangladesh.com/dr-md-rakibul-hasan/",
+      "imageId": "a0e30bda-965b-4527-b56f-8dcec27f2502",
       "name": "Dr. Md. Rakibul Hasan",
       "degree": "MBBS, BCS (Health), MD (Oncology)",
       "specialty": "Cancer Specialist & Clinical Oncologist",
@@ -24,11 +31,14 @@
         "hospital": "Asperia Health Care Ltd, Chittagong",
         "address": "Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram",
         "visitingTime": "Saturday to Thursday (Closed: Friday)",
-        "appointmentNumber": "+8801810-004550"
-      },
-      "id": "b4aa0aab-037a-43da-8be8-614b210703a2"
+        "appointmentNumber": "+8801810-004550Call Now"
+      }
     },
     {
+      "id": "729bf54a-1425-4203-834d-311bc242bfd4",
+      "departmentId": "ea932f9d-033c-4554-af04-ed213d99ff14",
+      "link": "https://www.doctorbangladesh.com/dr-hasnina-akter/",
+      "imageId": "05e357bb-b0ec-4e27-b473-0f9af2369ce7",
       "name": "Dr. Hasnina Akter",
       "degree": "MBBS, MPhil (Radiotherapy)",
       "specialty": "Medical Oncology and Radiotherapy Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Evercare Hospital, Chattogram",
         "address": "H1, Ananna R/A, CDA, Hathazari, Chattogram",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801711029869"
-      },
-      "id": "e8db85a5-93e1-4756-a15e-641a7caa9b32"
+        "appointmentNumber": "+8801711029869Call Now"
+      }
     },
     {
+      "id": "bf16e29e-2bf9-4258-9b52-628775c5d83f",
+      "departmentId": "ea932f9d-033c-4554-af04-ed213d99ff14",
+      "link": "https://www.doctorbangladesh.com/dr-md-nasir-uddin-cancer/",
+      "imageId": "6e5540e0-4489-4667-adce-a4e34d73dd60",
       "name": "Dr. Mohammad Nasir Uddin",
       "degree": "MBBS, BCS (Health), MCPS (Oncology)",
       "specialty": "Cancer & Tumor Specialist",
@@ -52,25 +65,31 @@
         "hospital": "National Hospital, Chittagong",
         "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
         "visitingTime": "4pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801822864907"
-      },
-      "id": "40ea174a-62cb-42a1-a224-e79304a905f9"
+        "appointmentNumber": "+8801822864907Call Now"
+      }
     },
     {
+      "id": "eec78327-a3a3-4129-bfac-daef9790398c",
+      "departmentId": "ea932f9d-033c-4554-af04-ed213d99ff14",
+      "link": "https://www.doctorbangladesh.com/dr-md-fazle-robbi-riyad/",
+      "imageId": "ac503cdc-b07f-4c08-a6cd-0405efa6d587",
       "name": "Dr. Md. Fazle Robbi (Riyad)",
       "degree": "MBBS (CMC), BCS (Health), MD (Oncology)",
       "specialty": "Cancer Specialist",
       "workplace": "Chittagong Medical College & HospitalAppointment: 01819-094894",
-      "info": "Epic Healthcare Ltd. (East Gate Branch)\nAddress: 36, K.B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 7pm to 9m (Closed: Friday)\nAppointment: +8801819094894\nCall Now",
+      "info": "Epic Healthcare Ltd. (East Gate Branch) Address: 36, K.B. Fazlul Kader Road, Panchlaish, Chattogram Visiting Hour: 7pm to 9m (Closed: Friday) Appointment: +8801819094894 Call Now",
       "chamber": {
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "5pm to 7pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801819094894, 02-334455071"
-      },
-      "id": "55b34c24-b3e1-4417-96d4-97198058013e"
+        "appointmentNumber": "+8801819094894, 02-334455071Call Now"
+      }
     },
     {
+      "id": "539dd343-541c-4259-9ce4-d267a0240d75",
+      "departmentId": "ea932f9d-033c-4554-af04-ed213d99ff14",
+      "link": "https://www.doctorbangladesh.com/dr-sazzad-mohammad-yousuf/",
+      "imageId": "99d9d04f-5479-4828-9ac4-826149fca5ef",
       "name": "Prof. Dr. Sajjad Mohammad Yusuff",
       "degree": "MBBS, MCPS, FCPS (Radiotherapy)",
       "specialty": "Cancer Specialist",
@@ -80,39 +99,65 @@
         "hospital": "CSCR Hospital, Chittagong",
         "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
         "visitingTime": "7pm to 10.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801887656565"
-      },
-      "id": "d5d64517-6d2a-4f99-8710-22835dee92be"
+        "appointmentNumber": "+8801887656565Call Now"
+      }
     },
     {
+      "id": "90131604-3761-45e8-aeaf-1fc1de461b7f",
+      "departmentId": "ea932f9d-033c-4554-af04-ed213d99ff14",
+      "link": "https://www.doctorbangladesh.com/dr-m-a-awal-cancer/",
+      "imageId": "413f4305-cfc6-4647-9061-2731268e2862",
       "name": "Prof. Dr. M. A. Awal",
       "degree": "MBBS, BCS (Health), M.Phil (Radiotherapy)",
       "specialty": "Cancer Specialist",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Parkview Hospital, Chittagong\nAddress: 94/103, Katalganj Road, Panchlaish, Chattogram\nVisiting Hour: 11am to 1.30pm & 4pm to 6pm (Sunday & Monday)\nAppointment: +8801869612317\nCall Now",
+      "info": "Parkview Hospital, Chittagong Address: 94/103, Katalganj Road, Panchlaish, Chattogram Visiting Hour: 11am to 1.30pm & 4pm to 6pm (Sunday & Monday) Appointment: +8801869612317 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Chittagong",
         "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "11am to 1.30pm & 4pm to 6pm (Tuesday, Wednesday & Thursday)",
-        "appointmentNumber": "+8801978466097"
-      },
-      "id": "3543382a-3e6d-4717-9a08-32cebf1bb8c7"
+        "appointmentNumber": "+8801978466097Call Now"
+      }
     },
     {
+      "id": "e35a14b2-a03e-434e-92c7-921b2a3b086b",
+      "departmentId": "ea932f9d-033c-4554-af04-ed213d99ff14",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-mokhles-uddin/",
+      "imageId": "2232efdd-a8dd-46ab-bd16-bb25017eb34b",
       "name": "Prof. Dr. Md. Mokles Uddin",
       "degree": "MBBS, FCPS (Radiotherapy)",
       "specialty": "Cancer Specialist",
       "workplace": "North East Medical College & Hospital",
-      "info": "North East Cancer Hospital, Sylhet\nAddress: Gohorpur Road, South Surma, Sylhet – 3100\nVisiting Hour: 9am to 5pm (Closed: Friday)\nAppointment: +8801799456926\nCall Now",
+      "info": "North East Cancer Hospital, Sylhet Address: Gohorpur Road, South Surma, Sylhet – 3100 Visiting Hour: 9am to 5pm (Closed: Friday) Appointment: +8801799456926 Call Now",
       "chamber": {
         "hospital": "Chevron Clinical Laboratory, Chittagong",
         "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 9.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801755666969"
-      },
-      "id": "af3e64bf-adbb-488b-b023-6efe94afad71"
+        "appointmentNumber": "+8801755666969Call Now"
+      }
     },
     {
+      "id": "8fb7ce4b-2b85-4024-b027-5453e0402ae2",
+      "departmentId": "ea932f9d-033c-4554-af04-ed213d99ff14",
+      "link": "https://www.doctorbangladesh.com/dr-mohammed-astefchar-hussain/",
+      "imageId": "67ef92d5-b3e9-47dd-884e-c12121d773b9",
+      "name": "Dr. Mohammed Astefchar Hussain",
+      "degree": "MBBS (CMC), MPhil (Oncology), FCPS (Radiotherapy)",
+      "specialty": "Cancer Specialist",
+      "workplace": "Chittagong Medical College & Hospital",
+      "info": "Epic Healthcare, Chittagong Address: 19, K.B. Fazlul Kader Road, Panchlaish, Chattogram Visiting Hour: 4pm to 6pm (Closed: Thu & Friday) Appointment: +8809610800111 Call Now",
+      "chamber": {
+        "hospital": "Chattogram Metropolitan Hospital Ltd.",
+        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
+        "visitingTime": "6pm to 9pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801896914444Call Now"
+      }
+    },
+    {
+      "id": "0ac5e458-4988-4bc0-b69d-ab6eb006de1f",
+      "departmentId": "ea932f9d-033c-4554-af04-ed213d99ff14",
+      "link": "https://www.doctorbangladesh.com/dr-shamima-anwar/",
+      "imageId": "5bd00a56-af56-40db-9dc8-c985f864450f",
       "name": "Dr. Shamima Anwar",
       "degree": "MBBS, MCPS (Oncology), IAIA (Fellow)",
       "specialty": "Cancer Specialist",
@@ -122,39 +167,48 @@
         "hospital": "CSCR Hospital, Chittagong",
         "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
         "visitingTime": "8pm to 10pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801887656565"
-      },
-      "id": "d83b7dd1-a292-4405-a009-96d8249de781"
+        "appointmentNumber": "+8801887656565Call Now"
+      }
     },
     {
+      "id": "4e79d6c1-002a-4eb7-9aa8-1d419b72ab0e",
+      "departmentId": "ea932f9d-033c-4554-af04-ed213d99ff14",
+      "link": "https://www.doctorbangladesh.com/dr-jannatun-nisa/",
+      "imageId": "97f231d3-5334-4d0b-83bb-632604d2e1eb",
       "name": "Dr. Jannatun Nisa",
       "degree": "MBBS, BCS (Health), FCPS (Radiotherapy)",
       "specialty": "Cancer Specialist",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Chattogram Metropolitan Hospital\nAddress: 698/752, O.R. Nizam Road, Panchlaish, Chattogram\nVisiting Hour: 8pm to 9pm (Closed: Fri & Sat)\nAppointment: +8801814651077\nCall Now",
+      "info": "Chattogram Metropolitan Hospital Address: 698/752, O.R. Nizam Road, Panchlaish, Chattogram Visiting Hour: 8pm to 9pm (Closed: Fri & Sat) Appointment: +8801814651077 Call Now",
       "chamber": {
         "hospital": "Epic Healthcare, Chittagong",
         "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801876097271"
-      },
-      "id": "abd24965-54c9-4cf5-bf2d-7cf07c561d3e"
+        "appointmentNumber": "+8801876097271Call Now"
+      }
     },
     {
+      "id": "cf17083e-1137-43fd-8d80-a5194d390bb4",
+      "departmentId": "ea932f9d-033c-4554-af04-ed213d99ff14",
+      "link": "https://www.doctorbangladesh.com/dr-bhaskar-chakraborty/",
+      "imageId": "587529e2-65db-4f68-a5f5-a18777dc1f26",
       "name": "Dr. Bhaskar Chakraborty",
       "degree": "MBBS, FCPS (Radiotherapy)",
       "specialty": "Cancer Specialist",
       "workplace": "Ahsania Mission Cancer & General Hospital",
-      "info": "Ahsania Mission Cancer & General Hospital\nAddress: Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka\nVisiting Hour: 10am to 1pm (Tue & Thursday)\nContact Number: 10617\nCall Now",
+      "info": "Ahsania Mission Cancer & General Hospital Address: Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka Visiting Hour: 10am to 1pm (Tue & Thursday) Contact Number: 10617 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Chittagong",
         "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "3pm to 6pm (Sat, Sun, Mon & Tuesday)",
-        "appointmentNumber": "+8809666787810"
-      },
-      "id": "104d6180-c894-486a-9a6b-3faa242f2c61"
+        "appointmentNumber": "+8809666787810Call Now"
+      }
     },
     {
+      "id": "57348d2f-4d03-486a-8a82-c91860c446eb",
+      "departmentId": "ea932f9d-033c-4554-af04-ed213d99ff14",
+      "link": "https://www.doctorbangladesh.com/dr-shafatujjahan/",
+      "imageId": "1c700fd0-256a-46da-aeca-34d66fedaade",
       "name": "Dr. Shafatujjahan",
       "degree": "MBBS, FCPS (Radiotherapy)",
       "specialty": "Cancer Specialist",
@@ -164,25 +218,31 @@
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801857468378"
-      },
-      "id": "06d87cb4-b348-485e-8055-df59acc19998"
+        "appointmentNumber": "+8801857468378Call Now"
+      }
     },
     {
+      "id": "73a007e7-d20a-433c-9746-6a731e01ccd3",
+      "departmentId": "ea932f9d-033c-4554-af04-ed213d99ff14",
+      "link": "https://www.doctorbangladesh.com/dr-fahmida-alam/",
+      "imageId": "c0ea719c-ed67-4296-9b02-f3987d0119b3",
       "name": "Dr. Fahmida Alam",
       "degree": "MBBS, BCS (Health), FCPS (Radiotherapy)",
       "specialty": "Cancer Specialist",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Chittagong\nAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 6:30pm to 9pm (Closed: Friday)\nAppointment: +8809666787810\nCall Now",
+      "info": "Popular Diagnostic Center, Chittagong Address: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram Visiting Hour: 6:30pm to 9pm (Closed: Friday) Appointment: +8809666787810 Call Now",
       "chamber": {
         "hospital": "Max Hospital & Diagnostic, Chittagong",
         "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801713998199"
-      },
-      "id": "4067d9e0-fbd4-4184-b6db-7d7f8aec903c"
+        "appointmentNumber": "+8801713998199Call Now"
+      }
     },
     {
+      "id": "cc9176d7-f2c0-443f-9180-7246116b8274",
+      "departmentId": "ea932f9d-033c-4554-af04-ed213d99ff14",
+      "link": "https://www.doctorbangladesh.com/dr-abu-khaled-mohammad-iqbal/",
+      "imageId": "d0776d72-d0c0-4386-b2db-ca32886daa79",
       "name": "Dr. Abu Khaled Mohammad Iqbal",
       "degree": "MBBS, BCS (Health), MS (Surgical Oncology)",
       "specialty": "Cancer Surgery Specialist",
@@ -192,25 +252,31 @@
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "b7eeef35-ff8d-43c1-aac1-a0a6ab757a6a"
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "78fa9d6d-5251-4917-ab54-0d7c110573ac",
+      "departmentId": "ea932f9d-033c-4554-af04-ed213d99ff14",
+      "link": "https://www.doctorbangladesh.com/dr-nasir-uddin-mahmud-shuvo/",
+      "imageId": "02dfc5b5-b610-42f5-8fbc-795d1a0c25f6",
       "name": "Dr. Nasir Uddin Mahmud (Shuvo)",
       "degree": "MBBS, BCS (Health), FCPS (Radiotherapy)",
       "specialty": "Cancer Specialist",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "National Hospital, Chittagong\nAddress: Room-4022, 14/15, Dampara Lane, Mehedibag, Chattogram\nVisiting Hour: 8pm to 10pm (Closed: Friday)\nAppointment: +8801822685066\nCall Now",
+      "info": "National Hospital, Chittagong Address: Room-4022, 14/15, Dampara Lane, Mehedibag, Chattogram Visiting Hour: 8pm to 10pm (Closed: Friday) Appointment: +8801822685066 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Chittagong",
         "address": "Room-512, 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801896094552"
-      },
-      "id": "79bb3198-5399-47bf-b99e-f79dc9bc4f00"
+        "appointmentNumber": "+8801896094552Call Now"
+      }
     },
     {
+      "id": "856dc0e3-aa86-4c87-a6e8-8bfcd33e378d",
+      "departmentId": "ea932f9d-033c-4554-af04-ed213d99ff14",
+      "link": "https://www.doctorbangladesh.com/dr-nayan-bhowmik/",
+      "imageId": "b9ed83d9-14aa-4819-bc91-d17c9f3326ec",
       "name": "Dr. Nayan Bhowmik",
       "degree": "MBBS, MD (Oncology), BSMMU",
       "specialty": "Cancer Specialist (Clinical & Radiation Oncologist)",
@@ -220,11 +286,14 @@
         "hospital": "CMOSH Cancer Institute & Research Centre",
         "address": "Agrabad, Chattogram",
         "visitingTime": "9am to 3pm (Closed: Friday)",
-        "appointmentNumber": "+8801958534827"
-      },
-      "id": "b5553f7d-3332-49be-9ba0-6e2b89c653fa"
+        "appointmentNumber": "+8801958534827Call Now"
+      }
     },
     {
+      "id": "68aa1733-7b7d-47b5-934b-2e7b2a6cbed8",
+      "departmentId": "ea932f9d-033c-4554-af04-ed213d99ff14",
+      "link": "https://www.doctorbangladesh.com/dr-monwar-kalam/",
+      "imageId": "68dbdf6f-a7c0-43b0-a190-8105ca12615b",
       "name": "Dr. Monwar Kalam",
       "degree": "MBBS, BCS (Health), MD (Oncology)",
       "specialty": "Cancer Specialist",
@@ -234,23 +303,8 @@
         "hospital": "Epic Healthcare, Chittagong",
         "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 7pm (Closed: Sun & Friday)",
-        "appointmentNumber": "+8801984499600"
-      },
-      "id": "3138e802-2a8d-42e5-b01b-8c4a2d72556e"
-    },
-    {
-      "name": "Dr. Mohammed Astefchar Hussain",
-      "degree": "MBBS (CMC), MPhil (Oncology), FCPS (Radiotherapy)",
-      "specialty": "Cancer Specialist",
-      "workplace": "Chittagong Medical College & Hospital",
-      "info": "Epic Healthcare, Chittagong\nAddress: 19, K.B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 4pm to 6pm (Closed: Friday)\nAppointment: +8809610800111\nCall Now",
-      "chamber": {
-        "hospital": "Chattogram Metropolitan Hospital Ltd.",
-        "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
-        "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801896914444"
-      },
-      "id": "ec14f7dd-04a1-4190-b30d-dcdfc9fc40e0"
+        "appointmentNumber": "+8801984499600Call Now"
+      }
     }
   ]
 }

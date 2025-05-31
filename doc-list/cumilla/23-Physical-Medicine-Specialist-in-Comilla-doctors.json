@@ -1,20 +1,27 @@
 {
   "doctor": [
     {
+      "id": "96077915-d062-46a5-bfbc-223a708fb146",
+      "departmentId": "8e26bd85-76ca-4fe4-8d74-038d35e511e3",
+      "link": "https://www.doctorbangladesh.com/dr-md-nuruzzaman-khandaker/",
+      "imageId": "b6eec31b-01fb-4d3f-92cc-fe9e9d3ad8e9",
       "name": "Dr. Md. Nuruzzaman Khandaker Noman",
       "degree": "MBBS, FCPS (Physical Medicine & Rehabilitation), EULAR Fellow (Switzerland)",
       "specialty": "Physical Medicine & Rheumatology Specialist",
       "workplace": "Bangladesh Medical University (PG Hospital)",
-      "info": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)\nAddress: Comilla Tower, Laksam Road, Kandirpar, Cumilla – 3500\nVisiting Hour: 4pm to 8.30pm (Thursday) & 9am to 2pm (Friday)\nAppointment: +8801947112233\nCall Now",
+      "info": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital) Address: Comilla Tower, Laksam Road, Kandirpar, Cumilla – 3500 Visiting Hour: 4pm to 8.30pm (Thursday) & 9am to 2pm (Friday) Appointment: +8801947112233 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Doyagonj",
         "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
         "visitingTime": "7pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809610009615"
-      },
-      "id": "0c163d6a-d4a9-490c-9bc8-be748c36a7a7"
+        "appointmentNumber": "+8809610009615Call Now"
+      }
     },
     {
+      "id": "c4583d07-0571-440d-8c11-361b3fd185b8",
+      "departmentId": "8e26bd85-76ca-4fe4-8d74-038d35e511e3",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-shafiullah/",
+      "imageId": "22ef7ba0-0035-4a83-ba5c-db34ccf6e898",
       "name": "Dr. Mohammad Shafi Ullah",
       "degree": "MBBS, BCS (Health), FCPS (Physical Medicine)",
       "specialty": "Arthritis, Pain, Paralysis, Physical Medicine & Rehabilitation Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "4pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801711144786"
-      },
-      "id": "f977503c-5ac0-4adc-aff3-25cfc270ff68"
+        "appointmentNumber": "+8801711144786Call Now"
+      }
     },
     {
+      "id": "356a489d-b6d9-4737-b830-f5ac1b3188d2",
+      "departmentId": "8e26bd85-76ca-4fe4-8d74-038d35e511e3",
+      "link": "https://www.doctorbangladesh.com/dr-sarowar-bin-zakir/",
+      "imageId": "20a0a092-ce32-4c1c-b2e4-4ff03915c413",
       "name": "Dr. Sarowar Bin Zakir",
       "degree": "MBBS, FCPS (Physical Medicine), DMU, CCD (BIRDEM)",
       "specialty": "Physical Medicine (Pain, Arthritis, Paralysis, Sports Injury) Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Moon Hospital, Comilla",
         "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
         "visitingTime": "3pm to 8pm (Sat to Thu), 10am to 1pm (Fri)",
-        "appointmentNumber": "+8801703848643"
-      },
-      "id": "0db07fa6-c89e-471b-9a14-9a441a7a3c6b"
+        "appointmentNumber": "+8801703848643Call Now"
+      }
     },
     {
+      "id": "1dc2861e-be0b-4ba8-9150-9b8203a4761c",
+      "departmentId": "8e26bd85-76ca-4fe4-8d74-038d35e511e3",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-zahidul-hoque/",
+      "imageId": "5dce7fbd-e099-477d-8cbe-8b6d50b09ac3",
       "name": "Dr. Mohammad Zahidul Hoque",
       "degree": "MBBS, FCPS (Physical Medicine)",
       "specialty": "Physical Medicine (Acute & Chronic Pain) & Rehabilitation Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Comilla Trauma Center",
         "address": "511, Nazrul Avenue, Ranir Bazar Road, Kandirpar, Cumilla",
         "visitingTime": "3pm to 7pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809612808182"
-      },
-      "id": "b74b65ff-78fd-4533-836f-7fd60360ea9b"
+        "appointmentNumber": "+8809612808182Call Now"
+      }
     },
     {
+      "id": "4c844fd3-d334-4d55-b395-999cffd0ffc7",
+      "departmentId": "8e26bd85-76ca-4fe4-8d74-038d35e511e3",
+      "link": "https://www.doctorbangladesh.com/dr-shohag-chakrabarty/",
+      "imageId": "b8d78d7c-ab67-4eea-93e0-ffb3f2ba8653",
       "name": "Dr. Shohag Chakrabarty",
       "degree": "MBBS, BCS (Health), FCPS (Physical Medicine), FIPM, MACP",
       "specialty": "Physical Medicine (Pain, Arthritis, Paralysis) & Rehabilitation Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Moon Hospital, Comilla",
         "address": "Shahid Khawaja Nizamuddin Road, Jhautola, Cumilla",
         "visitingTime": "4pm to 8pm (Closed: Friday & Saturday)",
-        "appointmentNumber": "+8801601430568"
-      },
-      "id": "a9f792e2-d45e-441d-84a4-5fff31b0d1cc"
+        "appointmentNumber": "+8801601430568Call Now"
+      }
     },
     {
+      "id": "142538a3-a4cd-4a1c-9408-77a94acd316c",
+      "departmentId": "8e26bd85-76ca-4fe4-8d74-038d35e511e3",
+      "link": "https://www.doctorbangladesh.com/dr-md-sydur-rahman/",
+      "imageId": "61d7e4ee-f4ac-4363-8324-e4aa18e25b9d",
       "name": "Dr. Md. Sydur Rahman",
       "degree": "MBBS, BCS (Health), MD (Physical Medicine & Rehabilitation)",
       "specialty": "Physical Medicine & Rehabilitation Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Comilla",
         "address": "House # 29, Kotbari Road, Tomsom Bridge, Cumilla",
         "visitingTime": "4pm to 7pm (Sat, Sun, Mon & Wed)",
-        "appointmentNumber": "+8801841212275"
-      },
-      "id": "a35d8457-6100-44f0-9ba0-f16c2d51a8c8"
+        "appointmentNumber": "+8801841212275Call Now"
+      }
     },
     {
+      "id": "2abfd6c8-9fe3-4f2d-b4ce-ab2ef1c6ae6d",
+      "departmentId": "8e26bd85-76ca-4fe4-8d74-038d35e511e3",
+      "link": "https://www.doctorbangladesh.com/dr-md-shamsul-islam-bokul/",
+      "imageId": "e524a2b1-8b84-49fc-9f5e-678cec7cc661",
       "name": "Dr. Md. Shamsul Islam (Bokul)",
       "degree": "MBBS (CU), DA (BSMMU), FCPS (Physical Medicine), Fellowship in Pain Medicine (India)",
       "specialty": "Pain, Arthritis, Paralysis & Sports Medicine Specialist",
@@ -94,9 +116,8 @@
         "hospital": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)",
         "address": "Comilla Tower, Laksam Road, Kandirpar, Cumilla - 3500",
         "visitingTime": "4pm to 7pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801757980098"
-      },
-      "id": "f896bc07-07dc-4bd1-9781-8195c4dd4f01"
+        "appointmentNumber": "+8801757980098Call Now"
+      }
     }
   ]
 }

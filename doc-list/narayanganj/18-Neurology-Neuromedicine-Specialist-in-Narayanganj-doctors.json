@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "93a8ade8-3caf-4c9d-a5e5-fa8ae20cae93",
+      "departmentId": "5bd9adc9-cc50-4052-bfa4-4e5c5ae7fcb3",
+      "link": "https://www.doctorbangladesh.com/prof-dr-zahed-ali/",
+      "imageId": "d2951fb9-69b1-47e3-b060-12a5c627e2f1",
       "name": "Prof. Dr. Zahed Ali",
       "degree": "MBBS, FCPS (Medicine), MD (Neurology)",
       "specialty": "Neurology (Brain, Stroke, Headache) & Medicine Specialist",
@@ -10,25 +14,31 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "12pm to 8pm (Sun, Mon, Tue & Thu)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "eda29661-fe47-4dfd-a302-03ce579f26ce"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "7da3ed75-e9ed-42f3-b359-2692340ef284",
+      "departmentId": "5bd9adc9-cc50-4052-bfa4-4e5c5ae7fcb3",
+      "link": "https://www.doctorbangladesh.com/dr-abu-nayeem/",
+      "imageId": "466625c9-115a-4d99-9ecb-ade922bbfe05",
       "name": "Dr. Abu Nayeem",
       "degree": "MBBS (DMC), FCPS (Medicine), MD (Neurology)",
       "specialty": "Neurology (Brain, Stroke, Headache) & Medicine Specialist",
       "workplace": "National Institute of Neurosciences & Hospital",
-      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, Bangabandhu Road, Chashara, Narayanganj – 1400\nVisiting Hour: 3pm to 8pm (Sat, Mon, Wed & Friday), 11am to 1pm (Tuesday)\nAppointment: +8809666787804\nCall Now",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, Bangabandhu Road, Chashara, Narayanganj – 1400 Visiting Hour: 3pm to 8pm (Sat, Mon, Wed & Friday), 11am to 1pm (Tuesday) Appointment: +8809666787804 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi, Dhaka - 1205",
         "visitingTime": "6.30pm to 8.30pm (Sat, Sun, Tue & Thu)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "978159b3-26a7-4f56-b8a7-437d19d41c0f"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "d574e882-beac-4818-af7d-b5b99f25c0ce",
+      "departmentId": "5bd9adc9-cc50-4052-bfa4-4e5c5ae7fcb3",
+      "link": "https://www.doctorbangladesh.com/dr-tarun-kanti-sarker/",
+      "imageId": "386994ae-7379-4f06-8bc0-4948ca871b62",
       "name": "Dr. Tarun Kanti Sarker",
       "degree": "MBBS (DMC), BCS (Health), MD (Neurology)",
       "specialty": "Neurology (Brain, Stroke, Nerve, Spine, Migraine) & Medicine Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Medinova Medical Services, Narayanganj",
         "address": "145, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "1oam to 5pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801913119989"
-      },
-      "id": "98265065-c1fb-4918-8669-810b50511f36"
+        "appointmentNumber": "+8801913119989Call Now"
+      }
     },
     {
+      "id": "f2fc02c4-cf1d-4d83-9b70-14b07d2b07eb",
+      "departmentId": "5bd9adc9-cc50-4052-bfa4-4e5c5ae7fcb3",
+      "link": "https://www.doctorbangladesh.com/dr-dewan-md-elias/",
+      "imageId": "f8080de6-1907-4e5a-90a7-a1d72c17f04b",
       "name": "Dr. Dewan Md. Elias",
       "degree": "MBBS, BCS (Health), MD (Neurology)",
       "specialty": "Neurology (Brain, Stroke, Headache, Movement) Specialist",
@@ -52,25 +65,31 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "3.30pm to 8:30pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "d8656e0f-2048-465d-ab95-b1d36f008e6f"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "8b3e728b-6649-4e71-a3e6-c72099c0c6d9",
+      "departmentId": "5bd9adc9-cc50-4052-bfa4-4e5c5ae7fcb3",
+      "link": "https://www.doctorbangladesh.com/dr-nafiz-khan-rousseau/",
+      "imageId": "81943c2d-4d3f-42f3-80e4-58125ba19546",
       "name": "Dr. Nafiz Khan Rousseau",
       "degree": "MBBS (DMC), BCS (Health), CCD (BIRDEM), MCPS (Medicine), MD (Neurology), MACP (USA)",
       "specialty": "Neurology, Medicine & Diabetes Specialist",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Islami Bank Hospital, Motijheel\nAddress: 24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka\nVisiting Hour: 5pm to 7pm (Closed: Friday)\nAppointment: +8801727666741\nCall Now",
+      "info": "Islami Bank Hospital, Motijheel Address: 24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka Visiting Hour: 5pm to 7pm (Closed: Friday) Appointment: +8801727666741 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "11.30pm to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "6e4ea3a2-881e-4536-8c0c-ff8ff206435f"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "8dc69599-e7f7-4065-b13b-04657b420781",
+      "departmentId": "5bd9adc9-cc50-4052-bfa4-4e5c5ae7fcb3",
+      "link": "https://www.doctorbangladesh.com/dr-rajesh-saha/",
+      "imageId": "388e4c03-bdc8-4276-8f32-b74cefe120dc",
       "name": "Dr. Rajesh Saha",
       "degree": "MBBS, BCS (Health), MD (Neuromedicine)",
       "specialty": "Neurolomedicine (Brain, Stroke, Headache, Migraine) Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "4pm to 9:30pm (Sun, Tue & Thu), 11am to 6pm (Friday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "ad264474-fe3a-4fb5-a028-a38dc357372a"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "6ec6783f-d031-47ad-b54b-566f10fdcc3b",
+      "departmentId": "5bd9adc9-cc50-4052-bfa4-4e5c5ae7fcb3",
+      "link": "https://www.doctorbangladesh.com/dr-kanol-saha/",
+      "imageId": "acf6c6f2-9643-40bf-90c5-0d7cb4dd82b2",
       "name": "Dr. Kanol Saha",
       "degree": "MBBS, BCS (Health), MD (Neurology)",
       "specialty": "Neurology (Brain, Stroke, Nerve, Spine, Migraine) Specialist",
@@ -94,11 +116,14 @@
         "hospital": "Medinova Medical Services, Narayanganj",
         "address": "145, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "6.30pm to 9pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801913119989"
-      },
-      "id": "6e1d1f9e-7241-4484-b300-4f48c67df362"
+        "appointmentNumber": "+8801913119989Call Now"
+      }
     },
     {
+      "id": "017058d6-9e73-4ab3-a057-1761feb7cbb4",
+      "departmentId": "5bd9adc9-cc50-4052-bfa4-4e5c5ae7fcb3",
+      "link": "https://www.doctorbangladesh.com/dr-niloy-ranjan-roy/",
+      "imageId": "e85089ce-e6a5-4cad-9213-8b65c056f7eb",
       "name": "Dr. Niloy Ranjan Roy",
       "degree": "MBBS, BCS (Health), MD (Neurology)",
       "specialty": "Neurology Specialist",
@@ -108,11 +133,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "8pm to 11pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "b97237be-acf3-4924-bc2f-363609a2a189"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "2fa76e0c-06d5-489b-a69d-2cb6a4b58251",
+      "departmentId": "5bd9adc9-cc50-4052-bfa4-4e5c5ae7fcb3",
+      "link": "https://www.doctorbangladesh.com/dr-aynal-haque-shakil/",
+      "imageId": "52650864-d340-476d-ae9c-501b7cb2bbe4",
       "name": "Dr. Aynal Haque Shakil",
       "degree": "MBBS, BCS (Health), MD (Neurology)",
       "specialty": "Neurology Specialist",
@@ -122,11 +150,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "4pm to 8pm (Sat & Wed)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "165ce928-5e05-4005-aaff-0ae4c5dcd4b4"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "ff35ed8d-d39d-42e2-a6cc-1508ea5c8fb1",
+      "departmentId": "5bd9adc9-cc50-4052-bfa4-4e5c5ae7fcb3",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahadat-hossain-2/",
+      "imageId": "0c966de2-496b-4a42-9610-6533c52328c1",
       "name": "Dr. Md. Shahadat Hossain",
       "degree": "MBBS (DU), BCS (Health), MD (Neurology), MRCP (UK), CCD (BIRDEM)",
       "specialty": "Neuromedicine & Diabetes Specialist",
@@ -136,25 +167,31 @@
         "hospital": "Medinova Medical Services, Narayanganj",
         "address": "145, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "4pm to 7pm (Sat, Mon & Thu)",
-        "appointmentNumber": "+8801913119989"
-      },
-      "id": "bfacbae6-b254-4b3c-9921-c5af2302db82"
+        "appointmentNumber": "+8801913119989Call Now"
+      }
     },
     {
+      "id": "bbc84d88-3d72-4e36-8bd2-4e5213374871",
+      "departmentId": "5bd9adc9-cc50-4052-bfa4-4e5c5ae7fcb3",
+      "link": "https://www.doctorbangladesh.com/dr-peyel-ahammad-khan/",
+      "imageId": "a97ab254-3c2b-4ab8-a51c-340542bd0049",
       "name": "Dr. Peyel Ahammad Khan",
       "degree": "MBBS, BCS (Health), MD (Neurology)",
       "specialty": "Neurology (Brain, Stroke, Nerve, Headache, Migraine) Specialist",
       "workplace": "National Institute of Neurosciences & Hospital",
-      "info": "Ibn Sina Diagnostic Center, Savar\nAddress: 31/6 Jaleshwar, Aricha Road, Savar, Dhaka – 1340\nVisiting Hour: 4pm to 7pm (Sun, Tue & Thu)\nAppointment: +8809610009613\nCall Now",
+      "info": "Ibn Sina Diagnostic Center, Savar Address: 31/6 Jaleshwar, Aricha Road, Savar, Dhaka – 1340 Visiting Hour: 4pm to 7pm (Sun, Tue & Thu) Appointment: +8809610009613 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "6pm to 9pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "95ccf6be-9a01-4341-9ed4-3af001df4f01"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "f8d65eb0-0e64-40d7-9e8c-c1455c495da2",
+      "departmentId": "5bd9adc9-cc50-4052-bfa4-4e5c5ae7fcb3",
+      "link": "https://www.doctorbangladesh.com/dr-abul-hasnat-russel/",
+      "imageId": "d5dc8ba4-a87e-4b0b-a6b2-991648492db4",
       "name": "Dr. Abul Hasnat Russel",
       "degree": "MBBS, BCS (Health), MD (Neurology)",
       "specialty": "Neurology (Brain, Stroke, Nerve, Spine, Migraine) Specialist",
@@ -164,11 +201,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "3pm to 6pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "3c2528f4-5f37-4891-9f49-f3b862d91618"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "49f9703d-9182-4f9a-b600-170ee68a30e9",
+      "departmentId": "5bd9adc9-cc50-4052-bfa4-4e5c5ae7fcb3",
+      "link": "https://www.doctorbangladesh.com/dr-md-tariqulislam/",
+      "imageId": "d6c9d1e4-bb99-49af-bda3-e962b0cdd3e7",
       "name": "Dr. Md. Tariqul Islam",
       "degree": "MBBS, BCS (Health), MD (Neurology)",
       "specialty": "Neurology (Brain, Stroke, Nerve, Spine, Migraine) Specialist",
@@ -178,11 +218,14 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "3pm to 6pm (Sun, Tue, Thu & Fri)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "813fcc49-0f0b-4078-8339-ec06d7b9d781"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "3d24a4e4-e811-4f0a-87d7-69f0c9992d18",
+      "departmentId": "5bd9adc9-cc50-4052-bfa4-4e5c5ae7fcb3",
+      "link": "https://www.doctorbangladesh.com/dr-ajoy-kumar-agarwalla/",
+      "imageId": "1b8c31ad-8aa1-4fbf-9571-7b706dc31884",
       "name": "Dr. Ajoy Kumar Agarwalla",
       "degree": "MBBS, BCS (Health), MD (Neurology), MRCP (UK)",
       "specialty": "Neurology (Brain, Stroke, Nerve, Spine, Migraine) Specialist",
@@ -192,9 +235,8 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "3pm to 6pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "bd3251e2-e05a-4dd7-a83c-482497838289"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     }
   ]
 }

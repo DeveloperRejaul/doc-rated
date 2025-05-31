@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "5356eb0c-2f1a-4521-abf4-f2eda357f890",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-nazmul-huda/",
+      "imageId": "ff99ec12-0e1b-4256-9d1d-6ff0a8d3374f",
       "name": "Asst. Prof. Dr. Md. Nazmul Huda",
       "degree": "MBBS (DMC), BCS (Health), FCPS (Surgery), MS (Orthopedic Surgery, NITOR)",
       "specialty": "Orthopedic (Bone, Joint, Arthritis, Spine, Arthroscopy, Arthroplasty) Specialist & Surgeon",
@@ -10,11 +14,14 @@
         "hospital": "Medinova Medical Services, Malibagh",
         "address": "Gimcon Tower, 255, New Circular Road, Malibagh, Dhaka",
         "visitingTime": "7.30pm to 9.30pm (Closed: Tues & Friday)",
-        "appointmentNumber": "01727-041923, 01790-118866"
-      },
-      "id": "6989d39f-bafe-4f2a-91b7-98dd8f124a5d"
+        "appointmentNumber": "01727-041923, 01790-118866Call Now"
+      }
     },
     {
+      "id": "c8de7a96-8599-4f7f-ad90-3152e097e299",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-mizanur-rahman-ortho/",
+      "imageId": "0108e95b-5d8e-48e8-8347-e85712b45c72",
       "name": "Dr. Md. Mizanur Rahman",
       "degree": "MBBS, MS (ORTHO), FACS (USA), AO Spine BASIC (India), Advance AO Spine Course (SG, MY)",
       "specialty": "Arthroplasty, Trauma & Spine Surgery Specialist",
@@ -24,25 +31,31 @@
         "hospital": "Aurora Specialized Hospital",
         "address": "19/01, Kakrail, Dhaka (Opposite of Karnaphuli Garden City)",
         "visitingTime": "7pm to 10pm (Everyday)",
-        "appointmentNumber": "+8801404450401, +8809610989998"
-      },
-      "id": "3860396e-9aa9-4166-b1fd-b364871e1fdc"
+        "appointmentNumber": "+8801404450401, +8809610989998Call Now"
+      }
     },
     {
+      "id": "1a136549-69ed-48cf-ad5a-ae48a90b7149",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-m-a-mamun/",
+      "imageId": "657ced3e-f8e3-4bcf-868d-be723351967c",
       "name": "Dr. M A Mamun",
       "degree": "MBBS, BCS (Health), MS (Ortho-NITOR), FACS (America), FICS (America)",
       "specialty": "Spine, Arthroscopic, Trauma and Orthopedic Surgeon",
       "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
-      "info": "Ibn Sina Diagnostic Center, Savar\nAddress: 31/6 Jaleshwar, Aricha Road, Savar, Dhaka – 1340\nVisiting Hour: 5pm to 8pm (Sun, Tue & Thu)\nAppointment: 01300907559, 01831153871\nCall Now",
+      "info": "Ibn Sina Diagnostic Center, Savar Address: 31/6 Jaleshwar, Aricha Road, Savar, Dhaka – 1340 Visiting Hour: 5pm to 8pm (Sun, Tue & Thu) Appointment: 01300907559, 01831153871 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "5pm to 9pm (Sat, Mon & Wed), 10Am to 12pm & 5pm to 8pm (Friday)",
-        "appointmentNumber": "01300907559, 01831153871"
-      },
-      "id": "be326f77-3cee-4d11-8254-0ae8214943fd"
+        "appointmentNumber": "01300907559, 01831153871Call Now"
+      }
     },
     {
+      "id": "5246d702-024b-4141-98f2-c9c5f901e70d",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-k-m-shorfuddin-ashik/",
+      "imageId": "faeb7bcd-6c5a-479f-a679-83a97c95b4bf",
       "name": "Dr. K M Shorfuddin Ashik",
       "degree": "MBBS, BCS (Health), MS (Orthopedic Surgery)",
       "specialty": "Orthopedic (Bone, Joint, Arthritis, Trauma) Specialist & Surgeon",
@@ -52,11 +65,14 @@
         "hospital": "Medinova Medical Services, Malibagh",
         "address": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
         "visitingTime": "6pm to 8pm (Sat, Sun, Tue & Wednesday)",
-        "appointmentNumber": "+8801716410062, +8801790118855"
-      },
-      "id": "5e91fda4-2dce-475a-9867-968b5e0db9e6"
+        "appointmentNumber": "+8801716410062, +8801790118855Call Now"
+      }
     },
     {
+      "id": "7ce39191-2dd4-4d0f-b1cb-cdc0e1028c3b",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-ripon-kumar-ghosh/",
+      "imageId": "4a78e317-0c39-4025-9d1a-5f56db5de9af",
       "name": "Dr. Ripon Kumer Ghosh",
       "degree": "MBBS (Dhaka), MS (Ortho Surgery), CCD (BIRDEM)",
       "specialty": "Orthopedic, Traumatology, Spine Specialist & Surgeon",
@@ -66,11 +82,14 @@
         "hospital": "Medinova Medical Services, Malibagh",
         "address": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
         "visitingTime": "7pm to 9pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801716410062"
-      },
-      "id": "98891bd1-54c7-4f11-9734-d45bdfcda334"
+        "appointmentNumber": "+8801716410062Call Now"
+      }
     },
     {
+      "id": "9a3baa99-3f7a-4edb-9c61-183bf3d62fd0",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/col-dr-md-mahbub-ali/",
+      "imageId": "6c1e89ee-7745-4f6d-bda5-74554f7cdfa0",
       "name": "Professor Dr. (Colonel) Md. Mahbub Ali",
       "degree": "MBBS, MS (Ortho Surgery) (NITOR)",
       "specialty": "Orthopaedics, Trauma, Arthroscopy, Arthroplasty & Spine Surgeon",
@@ -80,11 +99,14 @@
         "hospital": "Mirpur General Hospital & Diagnostic Center",
         "address": "Plot - 10, Road - 4/5, Section - 12, Kalshi Road, Mirpur, Dhaka",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801610964966"
-      },
-      "id": "bc165274-d595-4ee5-8b76-e2d8c8b17303"
+        "appointmentNumber": "+8801610964966Call Now"
+      }
     },
     {
+      "id": "f3f8332a-6f42-4804-b092-b013eabc4d4e",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-r-r-kairy/",
+      "imageId": "caa86048-582a-4198-90df-b819ddf35956",
       "name": "Prof. Dr. R. R. Kairy",
       "degree": "MBBS, MS (Orthopedics), FICS",
       "specialty": "Orthopedics (Bone, Joint, Arthritis, Trauma, Injury), Hand & Reconstructive Surgeon",
@@ -94,11 +116,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "6pm to 8pm (Tues & Thursday)",
-        "appointmentNumber": "+8801903082062"
-      },
-      "id": "79522071-18d6-42b7-a6c6-51291621e5a3"
+        "appointmentNumber": "+8801903082062Call Now"
+      }
     },
     {
+      "id": "07ad38b5-0b64-431c-a5fa-8a80d358942f",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-kamrul-ahsan/",
+      "imageId": "1fd60584-030a-4a9f-a4e2-4fe51b7e2c53",
       "name": "Prof. Dr. Md. Kamrul Ahsan",
       "degree": "MBBS, D-ORTHO (DU), MS (ORTHO), FRCS (Glasgow), FACS (USA), FICS (USA)",
       "specialty": "Orthopedics (Bone, Joint, Arthritis, Trauma) Specialist & Spine Surgeon",
@@ -108,11 +133,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House #47, Road # 9/A, Satmasjid Road, Dhanmondi, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801711659709"
-      },
-      "id": "d938072b-f11e-4d06-af0e-683c8a9996a1"
+        "appointmentNumber": "+8801711659709Call Now"
+      }
     },
     {
+      "id": "cc034eb1-c985-4dc8-b197-9241329f1cd7",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-shah-alam-ortho/",
+      "imageId": "2ee19111-3408-4972-a87e-8a187d3f2854",
       "name": "Prof. Dr. Md. Shah Alam",
       "degree": "MBBS, MS (Ortho), FCPS (Surgery), FRCS (Ortho), FRCS (Edin), FRCS (Glasgow)",
       "specialty": "Orthopedics (Bone, Joint, Trauma) Specialist & Spine Surgeon",
@@ -122,39 +150,48 @@
         "hospital": "Bangladesh Spine & Orthopedic Hospital",
         "address": "10, Main Road, Kallayanpur (Bus Stand), Dhaka - 1216",
         "visitingTime": "2pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801977063412"
-      },
-      "id": "3d331fc4-aca2-4daf-b81c-a303f930b2ba"
+        "appointmentNumber": "+8801977063412Call Now"
+      }
     },
     {
+      "id": "b902ef2e-8708-4bab-904b-15b87b2bbdbe",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-moinuddin-ahmed-chowdhury/",
+      "imageId": "b9aafb72-be8e-4401-b500-3227d8d4ef9b",
       "name": "Prof. Dr. Moinuddin Ahmed Choudhury",
       "degree": "MBBS, MS (Ortho) FRCS (Glasgow), FACS (USA)",
       "specialty": "Orthopedic, Bone-Joint, Trauma & Spine Specialist Surgeon",
       "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
-      "info": "Prof. Dr. Moinuddin Ahmed Chowdhury was Professor & Head of the Department of Orthopedic Surgery at the National Institute of Traumatology & Orthopedics Rehabilitation ( Pangu Hospital), Dhaka. He regularly provides treatment to his patients at Popular Consultation Center, Bhavan 6, Dhanmondi Road 2. Practice hours: 10 am to 5 pm (Closed: Monday, Thursday & Friday).\nHe is skilled in managing Trauma and fractured bones, Pediatric (Children) Orthopedics, Geriatric(Older people), Orthopedic diseases, including spine. He has a special interest in Hip and Knee replacement surgery.\nExcept his bright academic qualifications, many of his scientific and research paper was published in different medical journals, and he presented many scientific papers in different CME, seminars, and symposiums at home and abroad. He visited the USA, Canada, Australia, the UK, Switzerland, Austria, China, Taiwan, Singapore, Malaysia, Indonesia, Thailand, South Africa, Turkey, and India to attend the international scientific conference to update his knowledge and skills.",
+      "info": "Prof. Dr. Moinuddin Ahmed Chowdhury was Professor & Head of the Department of Orthopedic Surgery at the National Institute of Traumatology & Orthopedics Rehabilitation ( Pangu Hospital), Dhaka. He regularly provides treatment to his patients at Popular Consultation Center, Bhavan 6, Dhanmondi Road 2. Practice hours: 10 am to 5 pm (Closed: Monday, Thursday & Friday). He is skilled in managing Trauma and fractured bones, Pediatric (Children) Orthopedics, Geriatric(Older people), Orthopedic diseases, including spine. He has a special interest in Hip and Knee replacement surgery. Except his bright academic qualifications, many of his scientific and research paper was published in different medical journals, and he presented many scientific papers in different CME, seminars, and symposiums at home and abroad. He visited the USA, Canada, Australia, the UK, Switzerland, Austria, China, Taiwan, Singapore, Malaysia, Indonesia, Thailand, South Africa, Turkey, and India to attend the international scientific conference to update his knowledge and skills.",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "10am to 5pm (Sat, Sun, Tue & Wed)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "9dbd24f0-1edf-4883-bd84-ce50356311b3"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "48486141-cf27-4de0-abf5-a2780b4d46df",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-muhammad-shahiduzzaman/",
+      "imageId": "03a86746-bb9b-4684-8c0b-55fda65cc620",
       "name": "Prof. Dr. Muhammad Shahiduzzaman",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Anwer Khan Modern Medical College Hospital\nAddress: House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205\nVisiting Hour: 5pm to 9pm (Closed: Friday)\nAppointment: +8801705407441\nCall Now",
+      "info": "Anwer Khan Modern Medical College Hospital Address: House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205 Visiting Hour: 5pm to 9pm (Closed: Friday) Appointment: +8801705407441 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "11am to 1pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "95b85e37-bbe6-4f43-ae1a-9f7348c6e350"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "9926afd6-77ae-4dbe-8306-8a4ecf9106e2",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-debashis-biswas/",
+      "imageId": "9d44bae8-5ef1-4da2-ad59-9e2a16ae1670",
       "name": "Prof. Dr. Debashis Biswas",
       "degree": "MBBS. MCPS (Surgery), MS (Ortho Surgery)",
       "specialty": "Orthopedic & Trauma Surgeon",
@@ -164,25 +201,31 @@
         "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
         "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787805"
-      },
-      "id": "49cffcd8-f78d-410f-81ca-117a76f92708"
+        "appointmentNumber": "+8809666787805Call Now"
+      }
     },
     {
+      "id": "80c09fb1-37e7-468b-a588-40c1883d3c19",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-wakil-ahmed/",
+      "imageId": "8bb9890c-e1fe-4d29-b2ef-18f9298215b4",
       "name": "Dr. Wakil Ahmed",
       "degree": "MBBS, MCPS (Surgery), MS (ORTHO), MMEd, FRCS (UK), FACS (USA)",
       "specialty": "Arthroscopic & Joint Replacement Surgeon",
       "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
-      "info": "Parkview Hospital, Chittagong\nAddress: 94/103, Katalganj Road, Panchlaish, Chattogram\nVisiting Hour: 10am to 5pm (Only Friday)\nAppointment: +8801976022333\nCall Now",
+      "info": "Parkview Hospital, Chittagong Address: 94/103, Katalganj Road, Panchlaish, Chattogram Visiting Hour: 10am to 5pm (Only Friday) Appointment: +8801976022333 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "7pm to 10pm (Closed: Thu & Fri)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "3eeda963-35a3-477b-9bc3-60b3a85c0f6c"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "6db3bc87-903e-4748-b15a-6e4b75ea9e5f",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-amjad-hossain/",
+      "imageId": "a598ec0c-eea4-43c6-953e-9fa02d00aed1",
       "name": "Prof. Dr. M. Amjad Hossain",
       "degree": "MBBS, MS (Ortho), AO Fellow (Germany)",
       "specialty": "Orthopedics, Arthroscopic and Knee Surgeon",
@@ -192,11 +235,14 @@
         "hospital": "Arthroplasty Bangladesh",
         "address": "House # 01 & 03, Road # 04, Dhanmondi, Dhaka",
         "visitingTime": "10am to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801970786970"
-      },
-      "id": "c38ec319-0278-4d5e-8c86-c296bc4a8327"
+        "appointmentNumber": "+8801970786970Call Now"
+      }
     },
     {
+      "id": "8904cda7-034e-4916-9662-ff220a778c9c",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-m-ali/",
+      "imageId": "9c1ff656-f237-46b1-b769-57822481be2a",
       "name": "Dr. M. Ali",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Orthopedics, Arthroscopy, Arthoplasty & Knee Surgeon",
@@ -206,25 +252,31 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "10am to 1pm (Closed: Friday)",
-        "appointmentNumber": "10678"
-      },
-      "id": "4b5e47c3-b5bc-4431-bc25-9a173d659570"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "d85cd44e-3ef7-4b17-8fff-d40df1f2b6cf",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-rafiqul-islam/",
+      "imageId": "b36c4548-b03a-4864-9b97-5a5672a98b59",
       "name": "Prof. Dr. Rafiqul Islam",
       "degree": "MBBS, MS (Ortho Surgery)",
       "specialty": "Orthopedic, Trauma & Spine Specialist Surgeon",
       "workplace": "Ibn Sina Medical College & Hospital",
-      "info": "Ibn Sina Medical College Hospital, Kallyanpur\nAddress: 1/1 B, Kallyanpur, Dhaka\nVisiting Hour: 10am to 1pm (Sat, Mon & Wed)\nAppointment: +8801703725590\nCall Now",
+      "info": "Ibn Sina Medical College Hospital, Kallyanpur Address: 1/1 B, Kallyanpur, Dhaka Visiting Hour: 10am to 1pm (Sat, Mon & Wed) Appointment: +8801703725590 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "013dd039-dd56-40a0-909b-17dd7c19686a"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "ea48c95b-230c-4d15-a3a8-324b2af99c06",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-anowarul-islam/",
+      "imageId": "798a2c6f-e53d-4f3b-a470-6ce08e8dfe51",
       "name": "Professor Dr. Md. Anowarul Islam",
       "degree": "MBBS, MS (ORTHO), FICS (USA), FACS (USA), FRCS (UK), Fellow (Spine Surgery)",
       "specialty": "Orthopedics Specialist & Spine Surgeon",
@@ -234,11 +286,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi, Dhaka – 1205",
         "visitingTime": "5.30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "6caf6392-b366-46d3-bb3f-71c0425fac3e"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "0cf58a9b-124c-4e42-92cc-7afd4a2fb8bc",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-a-m-farid-uddin-ahmed/",
+      "imageId": "c60cdb45-3b14-46d4-9186-4e1f072f4b05",
       "name": "Dr. A.M. Farid Uddin Ahmed",
       "degree": "MBBS, FCPS (Surgery), MS (Ortho Surgery)",
       "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
@@ -248,11 +303,14 @@
         "hospital": "Comfort Diagnostic Center, Dhanmondi",
         "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "7pm to 10pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801731956033"
-      },
-      "id": "d664bd34-529a-4ccc-aac4-24a38bd8eea1"
+        "appointmentNumber": "+8801731956033Call Now"
+      }
     },
     {
+      "id": "65b1eeb4-9f2a-400b-be30-991878abf319",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-khondker-abdul-awal-rizvi/",
+      "imageId": "8c890498-acb9-4a33-9a4f-e82c33ed942c",
       "name": "Prof. Dr. Khondker Abdul Awal Rizvi",
       "degree": "MBBS, MS, FCPS, FICS",
       "specialty": "Orthopedics (Bone, Joint, Arthritis, Spine, Injury) Specialist & Trauma Surgeon",
@@ -262,11 +320,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "2pm to 5.30pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801822770640"
-      },
-      "id": "1b92ffd9-fee2-4188-a6d3-85b2d9ed3ec2"
+        "appointmentNumber": "+8801822770640Call Now"
+      }
     },
     {
+      "id": "f8dda097-a848-40a4-b94d-8ad29029bac9",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-muhammad-sirajul-islam/",
+      "imageId": "70697be0-4d0b-4eaf-abb0-395cd83c279b",
       "name": "Prof. Dr. Muhammad Sirajul Islam",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Orthopedic Specialist, Spine & Trauma Surgeon",
@@ -276,39 +337,48 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "6dcf616b-dc45-4acc-9e9b-8bcdbdb671b4"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "4e78aa78-b268-4313-a8bd-aa81c4578260",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/brig-gen-dr-md-shahidullah/",
+      "imageId": "0cd88e40-a5c0-42bc-85e3-ca610a5c9de7",
       "name": "Prof. Brig. Gen. Dr. Md. Shahidullah",
       "degree": "MBBS, MS (ORTHO), AO Basic Spine Surgery (Singapore)",
       "specialty": "Orthopedic, Trauma and Spine Specialist Surgeon",
       "workplace": "Armed Forces Medical College, Dhaka",
-      "info": "Popular Diagnostic Center, Mirpur\nAddress: Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka\nVisiting Hour: 10am to 12pm (Closed: Friday)\nAppointment: +8809666787807\nCall Now",
+      "info": "Popular Diagnostic Center, Mirpur Address: Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka Visiting Hour: 10am to 12pm (Closed: Friday) Appointment: +8809666787807 Call Now",
       "chamber": {
         "hospital": "Aalok Health Care, Kachukhet",
         "address": "Rajanigandha Tower (4th & 5th Floor), Kachukhet, Dhaka",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801725694669"
-      },
-      "id": "c327a1ac-f99a-48bc-b406-f93bf4c38bed"
+        "appointmentNumber": "+8801725694669Call Now"
+      }
     },
     {
+      "id": "3497e1ec-0837-4024-9667-f97262994b6d",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-hamidul-islam/",
+      "imageId": "f1477390-e847-46c3-afa5-98186c1a5344",
       "name": "Dr. Md. Hamidul Islam",
       "degree": "MBBS, BCS (Health), MS (Ortho Surgery)",
       "specialty": "Orthopedics Specialist & Surgeon",
       "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
-      "info": "Assort Specialised Hospital, Pabna\nAddress: Beside Mujahid Club, Dhaka Road, East Shalgaria, Pabna\nVisiting Hour: 5pm to 10pm (Thursday), 9am to 5pm (Friday)\nAppointment: +8801322931500\nCall Now",
+      "info": "Assort Specialised Hospital, Pabna Address: Beside Mujahid Club, Dhaka Road, East Shalgaria, Pabna Visiting Hour: 5pm to 10pm (Thursday), 9am to 5pm (Friday) Appointment: +8801322931500 Call Now",
       "chamber": {
         "hospital": "Comfort Diagnostic Center, Dhanmondi",
         "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "6pm to 9pm (Sat to Wed)",
-        "appointmentNumber": "+8801731956033"
-      },
-      "id": "dae82e73-d2ce-403e-8d89-4ae2e2d12b0b"
+        "appointmentNumber": "+8801731956033Call Now"
+      }
     },
     {
+      "id": "6903d793-97f4-4777-b48a-8d241aff0bbe",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-sharif-ahmed-jonayed/",
+      "imageId": "e9d2998a-70c0-440b-862e-015754573980",
       "name": "Dr. Sharif Ahmed Jonayed",
       "degree": "MBBS, FCPS (Ortho Surgery), MS (Ortho Surgery)",
       "specialty": "Orthopedic & Spine Surgeon",
@@ -318,25 +388,31 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "fce3ebc3-38f0-472b-aebd-5961885974a5"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "f6783145-a42c-4cd1-b303-82139f2ccd8b",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-shyamal-debnath/",
+      "imageId": "d85c77cb-972f-4045-91bf-89520bbea19a",
       "name": "Prof. Dr. Shyamal Debnath",
       "degree": "MBBS, MS (ORTHO), Fellow in Joint Replacement Surgery (India)",
       "specialty": "Bone, Joint & Traumatology Specialist",
       "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
-      "info": "Modern Diagnostic Center, Narayanganj\nAddress: 207, Bangabandhu Road, Chashara, Narayanganj – 1400\nVisiting Hour: 5pm to 10pm (Sat & Tue)\nAppointment: +8801820842293\nCall Now",
+      "info": "Modern Diagnostic Center, Narayanganj Address: 207, Bangabandhu Road, Chashara, Narayanganj – 1400 Visiting Hour: 5pm to 10pm (Sat & Tue) Appointment: +8801820842293 Call Now",
       "chamber": {
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "5pm to 8pm (Sun, Mon, Wed & Thu)",
-        "appointmentNumber": "+8801737513492"
-      },
-      "id": "c327a358-9723-41f4-8392-81e9deac1212"
+        "appointmentNumber": "+8801737513492Call Now"
+      }
     },
     {
+      "id": "365d275d-3385-47bd-9657-c6781e47060d",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-abul-kalam-azad/",
+      "imageId": "0e183682-ef9a-44af-8f48-a2c77bee1464",
       "name": "Prof. Dr. Abul Kalam Azad",
       "degree": "MBBS (Dhaka), MS (ORTHO)",
       "specialty": "Bone, Joint, Injuries, Paralysis, Orthopedics & Trauma Surgeon",
@@ -346,25 +422,31 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "5.30pm to 8pm (Sun, Tue & Thur), 7.30pm to 9.30pm (Sat, Mon & Tue)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "002f9d0b-f3f0-436c-ac4e-d720e4e3f80d"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "80ef9e5e-efbc-4128-bbfa-e21c29b212d0",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-abu-zaffar-chowdhury-biru/",
+      "imageId": "54c51dcf-9e64-414c-bda9-4c8a080ffd7e",
       "name": "Prof. Dr. Abu Zaffar Chowdhury Biru",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Orthopedics, Arthroscopy, Arthroplasty & Trauma Surgeon",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Uttara Crescent Diagnostic & Consultation Center\nAddress: House # 16, Sector # 7, Rabindra Sarani, Uttara, Dhaka – 1230\nVisiting Hour: 3pm to 8pm (Sun & Wed)\nAppointment: +8801917704150\nCall Now",
+      "info": "Uttara Crescent Diagnostic & Consultation Center Address: House # 16, Sector # 7, Rabindra Sarani, Uttara, Dhaka – 1230 Visiting Hour: 3pm to 8pm (Sun & Wed) Appointment: +8801917704150 Call Now",
       "chamber": {
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "3pm to 9pm (Sat, Mon, Tue & Thu) & 10am to 12pm (Fri)",
-        "appointmentNumber": "+8801816147144"
-      },
-      "id": "894ce9e4-3a37-44e1-918c-8ef0e7031e2c"
+        "appointmentNumber": "+8801816147144Call Now"
+      }
     },
     {
+      "id": "8a3b9db9-36b1-4d80-aaf7-43868d834f0f",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-shahidul-islam/",
+      "imageId": "17bce1a5-cbb5-424a-b29f-5ca1279b439e",
       "name": "Prof. Dr. Shahidul Islam",
       "degree": "MBBS, MCPS (Surgery), MS (Ortho Surgery)",
       "specialty": "Orthopedics (Bone, Joint, Arthritis, Trauma) Specialist & Spine Surgeon",
@@ -374,11 +456,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "7pm to 9pm (Sat, Sun, Tue & Wed)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "e9e86349-2c4e-4a85-97a8-edb126e8e983"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "eca168b9-d510-4703-be64-fd84c5287476",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-saidul-islam/",
+      "imageId": "8c19a0de-dce7-46c9-9df5-6fb69b692551",
       "name": "Prof. Dr. Md. Saidul Islam",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
@@ -388,11 +473,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Doyagonj",
         "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
         "visitingTime": "7pm to 9pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801878115751"
-      },
-      "id": "088f3354-63e0-4e40-af30-fa853bdb07d6"
+        "appointmentNumber": "+8801878115751Call Now"
+      }
     },
     {
+      "id": "9d31897d-9a7f-4b3f-b692-cc09f82cd00c",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-abdur-rob/",
+      "imageId": "229950f9-bb30-44f2-9d2d-81d1618a39e5",
       "name": "Prof. Dr. Md. Abdur Rob",
       "degree": "MBBS, MS (ORTHO), Fellow, Spine Surgery (USA)",
       "specialty": "Orthopedics (Bone, Joint, Injury, Accident Trauma) Specialist & Spine Surgeon",
@@ -402,25 +490,31 @@
         "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
         "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
         "visitingTime": "6pm to 10pm (Everyday)",
-        "appointmentNumber": "+8809666787805"
-      },
-      "id": "a64cde88-a7eb-416b-b05b-bdf199b3fe38"
+        "appointmentNumber": "+8809666787805Call Now"
+      }
     },
     {
+      "id": "2ab66d6a-c185-4112-adf5-a795f0a452a5",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-iqbal-qavi/",
+      "imageId": "224528a1-174a-4798-9313-cdd06ebe9fc4",
       "name": "Prof. Dr. Md. Iqbal Qavi",
       "degree": "MBBS, D-ORTHO, MS (ORTHO)",
       "specialty": "Orthopedics, Trauma, Arthroscopy & Joint Replacement Specialist",
       "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
-      "info": "Dr. Iqbal Qavi Chamber\nAddress: 7, KM Das Lane, Tikatuli, Dhaka\nVisiting Hour: 5pm to 6pm (Closed: Thu & Friday)\nAppointment: +8801739304849\nCall Now",
+      "info": "Dr. Iqbal Qavi Chamber Address: 7, KM Das Lane, Tikatuli, Dhaka Visiting Hour: 5pm to 6pm (Closed: Thu & Friday) Appointment: +8801739304849 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Doyagonj",
         "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
         "visitingTime": "10am to 11.30am (Sun & Wednesday)",
-        "appointmentNumber": "+8801878115751"
-      },
-      "id": "3a798348-dc6f-4712-beae-dd4a907362c8"
+        "appointmentNumber": "+8801878115751Call Now"
+      }
     },
     {
+      "id": "7092047e-2b6d-4bc8-b091-55e23958121a",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-amit-kapoor/",
+      "imageId": "bf20f39d-7f5f-420c-a0ff-1b3b9e682988",
       "name": "Dr. Amit Kapoor",
       "degree": "MBBS, D-ORTHO, DNB (ORTHO)",
       "specialty": "Orthopedics, Joint Replacement & Spine Surgery Specialist",
@@ -430,25 +524,31 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10678"
-      },
-      "id": "3d0dcae2-9756-4d6f-96ed-b73c09e73fbf"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "25697f13-18da-4498-902e-b81cee47e100",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-maidul-islam/",
+      "imageId": "67b025fe-bbd7-45d6-aa4b-42a13ffa7c77",
       "name": "Prof. Dr. Md. Maidul Islam",
       "degree": "MBBS, MS (Ortho Surgery), FCPS (Physical Medicine)",
       "specialty": "Orthopedics, Pain, Paralysis, Sports Injury & Physical Medicine Specialist",
       "workplace": "Z.H. Sikder Women's Medical College & Hospital",
-      "info": "Islami Bank Specialized & General Hospital, Nayapaltan\nAddress: 71-72, VIP Road, Nayapaltan, Dhaka\nVisiting Hour: 4pm to 6pm (Closed: Friday)\nAppointment: +8801977552283\nCall Now",
+      "info": "Islami Bank Specialized & General Hospital, Nayapaltan Address: 71-72, VIP Road, Nayapaltan, Dhaka Visiting Hour: 4pm to 6pm (Closed: Friday) Appointment: +8801977552283 Call Now",
       "chamber": {
         "hospital": "Islami Bank Hospital, Mirpur",
         "address": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
         "visitingTime": "11am to 2.30pm (Sat to Tue)",
-        "appointmentNumber": "+8801992346632"
-      },
-      "id": "34858d3c-0969-4b3f-b5d9-de523a76e1c7"
+        "appointmentNumber": "+8801992346632Call Now"
+      }
     },
     {
+      "id": "d4883902-9f8d-4567-abe5-873bca5d2c3c",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-nazrul-islam/",
+      "imageId": "7b1add76-58aa-4fe2-a89c-c850d9ec2bb5",
       "name": "Prof. Dr. Md. Nazrul Islam",
       "degree": "MBBS, D-ORTHO",
       "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
@@ -458,25 +558,31 @@
         "hospital": "Popular Diagnostic Center, Shantinagar",
         "address": "Unit # 02, House # 15, Shantinagar, Motijheel, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787803"
-      },
-      "id": "19a5084e-6eb1-4225-abba-a0c8abdca12b"
+        "appointmentNumber": "+8809666787803Call Now"
+      }
     },
     {
+      "id": "e2864fcc-77d7-4ea9-b2e5-31070edd01ce",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-parvez-ahsan/",
+      "imageId": "7e9b1d30-62fa-4625-a627-d4503ef9d9e0",
       "name": "Prof. Dr. Parvez Ahsan",
       "degree": "MBBS, D-ORTHO (DU), MS (Ortho Surgery), AO Trauma (India), Fellow Replacement Surgery (Japan)",
       "specialty": "Orthopedics, Hip, Knee Replacement & Arthroscopic Surgeon",
       "workplace": "Ibn Sina Medical College & Hospital",
-      "info": "Ibn Sina Medical College Hospital, Kallyanpur\nAddress: 1/1 B, Kallyanpur, Dhaka\nVisiting Hour: 10am to 1pm (Closed: Friday)\nAppointment: +8801703725590\nCall Now",
+      "info": "Ibn Sina Medical College Hospital, Kallyanpur Address: 1/1 B, Kallyanpur, Dhaka Visiting Hour: 10am to 1pm (Closed: Friday) Appointment: +8801703725590 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "7pm to 10pm (Everyday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "f0ddc1f4-5c8c-4924-b5f8-6065f6031610"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "f9ca4889-48f1-4b94-9277-b40eb6128bef",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-sm-idris-ali/",
+      "imageId": "2c1eaf47-7422-4a6e-9ae2-16646da55c04",
       "name": "Prof. Dr. SM Idris Ali",
       "degree": "MBBS, MS (Ortho Surgery), MMED",
       "specialty": "Orthopedic Surgeon",
@@ -486,11 +592,14 @@
         "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
         "address": "1/1 B, Kallyanpur, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801703725590"
-      },
-      "id": "67717088-f3ae-4a82-ab33-11a4e63a650d"
+        "appointmentNumber": "+8801703725590Call Now"
+      }
     },
     {
+      "id": "e6c2f6b8-7089-4802-a222-c524467926bf",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-matiur-rahman/",
+      "imageId": "48107305-5555-41bf-9907-78e11e1cbb47",
       "name": "Dr. Md. Matiur Rahman",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Surgeon",
@@ -500,11 +609,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "6pm to 8pm (Closed: Sunday)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "e1796d59-bb80-4fed-83d3-706674b40198"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "e62b5e60-ef4a-40e2-9dc4-4df803a349b8",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-sk-nurul-alam/",
+      "imageId": "60054aa6-bb12-4748-8992-615e67bf68de",
       "name": "Prof. Dr. SK Nurul Alam",
       "degree": "MBBS (DMC), D-ORTHO, MS (ORTHO)",
       "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
@@ -514,53 +626,65 @@
         "hospital": "Popular Diagnostic Center, Shyamoli",
         "address": "Opposite to Shyamoli Shishu Mela, Babor Road, Mohammadpur, Dhaka",
         "visitingTime": "10am to 12pm (Closed: Tuesday & Friday)",
-        "appointmentNumber": "+8809666787806"
-      },
-      "id": "61e3af75-8991-41e4-a8dd-3aca5e489bec"
+        "appointmentNumber": "+8809666787806Call Now"
+      }
     },
     {
+      "id": "6acf6980-9ae3-4ff8-b79a-3f5a76fa57a0",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-alamgir-hossain-jony/",
+      "imageId": "bacf74a9-84cb-42c8-8c30-3285831ebed7",
       "name": "Dr. Md. Alamgir Hossain Jony",
       "degree": "MBBS, BCS (Health), MS (ORTHO)",
       "specialty": "Orthopedic, Spine, Trauma, Hip & Knee Specialist Surgeon",
       "workplace": "Mugda Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Dhanmondi\nAddress: House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205\nVisiting Hour: 2.00pm to 3:30pm (Closed: Thu & Friday)\nAppointment: +8809666787801\nCall Now",
+      "info": "Popular Diagnostic Center, Dhanmondi Address: House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205 Visiting Hour: 2.00pm to 3:30pm (Closed: Thu & Friday) Appointment: +8809666787801 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "5pm to 11pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "f8138d6b-6897-4474-b60b-3fa1e470ee0d"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     },
     {
+      "id": "7d31f504-3bd3-44c2-b5b1-3dcd65487a44",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-ali-faisal-liton/",
+      "imageId": "653afea6-2ffb-4156-a6e7-0d85644e3a79",
       "name": "Dr. Md. Ali Faisal Liton",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Orthopedics, Arthroscopy & Arthroplasty Surgeon",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Popular Diagnostic Center, Dhanmondi\nAddress: House # 16, Road # 2, Dhanmondi, Dhaka – 1205\nVisiting Hour: 5pm to 8pm (Closed: Sunday)\nAppointment: +8809666787801\nCall Now",
+      "info": "Popular Diagnostic Center, Dhanmondi Address: House # 16, Road # 2, Dhanmondi, Dhaka – 1205 Visiting Hour: 5pm to 8pm (Closed: Sunday) Appointment: +8809666787801 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Shantinagar",
         "address": "Unit # 02, House # 15, Shantinagar, Motijheel, Dhaka",
         "visitingTime": "8pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787803"
-      },
-      "id": "021344b9-3b77-4e2c-a4e7-4a0b86b9ab9e"
+        "appointmentNumber": "+8809666787803Call Now"
+      }
     },
     {
+      "id": "e918d531-cb3e-42bb-a682-51a330b73f87",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-ma-based/",
+      "imageId": "ffd930d8-cbae-4121-ad54-dc637ef88b51",
       "name": "Prof. Dr. M.A. Based",
       "degree": "MBBS, D-ORTHO (DU), WHO Fellow (Australia)",
       "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
       "workplace": "Ad-Din Medical College & Hospital",
-      "info": "Ibn Sina Diagnostic & Consultation Center, Bogra\nAddress: House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800\nVisiting Hour: 4pm to 9pm (Thu) & 9am to 4pm (Fri)\nAppointment: +8801701560011\nCall Now",
+      "info": "Ibn Sina Diagnostic & Consultation Center, Bogra Address: House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800 Visiting Hour: 4pm to 9pm (Thu) & 9am to 4pm (Fri) Appointment: +8801701560011 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Malibagh",
         "address": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
         "visitingTime": "11am to 3pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801844141717"
-      },
-      "id": "6f856b1c-e887-4812-add0-3a8d67818852"
+        "appointmentNumber": "+8801844141717Call Now"
+      }
     },
     {
+      "id": "c4515611-73a9-4b30-9cf3-83b296a85888",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-chowdhury-iqbal-mahmud/",
+      "imageId": "f1566534-d98c-4d6f-ba0f-ecef7680cf7d",
       "name": "Dr. Chowdhury Iqbal Mahmud",
       "degree": "MBBS, FRCS (UK), MCH (ORTHO, UK), FACS (USA), FICS (USA), FRSM (UK), CCD (BIRDEM)",
       "specialty": "Trauma, Knee, Arthroscopic, Bone, Joint, Injury & Fractures Surgeon",
@@ -570,11 +694,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "5.30pm to 7.30pm (Sat, Sun, Mon & Wed)",
-        "appointmentNumber": "+8801715546912"
-      },
-      "id": "01320dc5-1a19-4a79-89d1-d755f6f28dad"
+        "appointmentNumber": "+8801715546912Call Now"
+      }
     },
     {
+      "id": "0d5bea07-1a6e-49df-8b3d-6ca038e419d2",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-n-k-datta/",
+      "imageId": "5cb445b0-9b51-4cf9-81df-9f49d57e10ea",
       "name": "Prof. Dr. N.K. Datta",
       "degree": "MBBS, D-ORTHO, MS (Orthopedics)",
       "specialty": "Orthopedic Specialist & Trauma Surgeon",
@@ -584,25 +711,31 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801788786380"
-      },
-      "id": "2fbac65e-575b-4296-9463-e5e06c4e29c9"
+        "appointmentNumber": "+8801788786380Call Now"
+      }
     },
     {
+      "id": "a24a1b0b-64ca-4e18-9cd2-efd07011b6f5",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-wahidur-rahman/",
+      "imageId": "8b0876b4-5b65-47f0-aca4-a54898615d63",
       "name": "Prof. Dr. Md. Wahidur Rahman",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Orthopedics Specialist & Trauma Surgeon",
       "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
-      "info": "Popular Diagnostic Center, Mirpur\nAddress: Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka\nVisiting Hour: 11pm to 12pm (Sun, Mon, Tue & Wednesday)\nAppointment: +8809666787807\nCall Now",
+      "info": "Popular Diagnostic Center, Mirpur Address: Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka Visiting Hour: 11pm to 12pm (Sun, Mon, Tue & Wednesday) Appointment: +8809666787807 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Shantinagar",
         "address": "Unit # 01, House # 11, Shantinagar, Motijheel, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787803"
-      },
-      "id": "ad1bd259-f62c-4790-a9c1-c885950c63a2"
+        "appointmentNumber": "+8809666787803Call Now"
+      }
     },
     {
+      "id": "55090bdd-4b5c-4cfb-b0ea-7332d8bda55b",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-a-k-m-akhtar-murshed/",
+      "imageId": "bbf2aa00-bcf2-4cb9-bef7-eb8f60202591",
       "name": "Prof. Dr. A.K.M. Akhtar Murshed",
       "degree": "MBBS, MS (ORTHO), FICS (USA)",
       "specialty": "Orthopedic, Bone, Joint & Trauma Specialist Surgeon",
@@ -612,39 +745,48 @@
         "hospital": "Medinova Medical Services, Dhanmondi",
         "address": "House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka",
         "visitingTime": "10am to 1pm & 6.30pm to 9.30pm (Closed: Friday)",
-        "appointmentNumber": "10658"
-      },
-      "id": "5e6b1ec9-6246-42ee-8c29-f7ef38f97f9b"
+        "appointmentNumber": "10658Call Now"
+      }
     },
     {
+      "id": "fd1dd507-f2d8-4471-ba61-eaaac3f0251e",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-abul-hasnat/",
+      "imageId": "20e1ae95-021d-4110-8456-afde25462204",
       "name": "Dr. Md. Abul Hasnat",
       "degree": "MBBS, BCS (Health), FCPS (Surgery), MS (ORTHO)",
       "specialty": "Orthopedic Surgery Specialist",
       "workplace": "Mugda Medical College & Hospital",
-      "info": "Khidmah Hospital, Dhaka\nAddress: C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka\nVisiting Hour: 5pm to 10pm (Everyday)\nAppointment: +8809606063030\nCall Now",
+      "info": "Khidmah Hospital, Dhaka Address: C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka Visiting Hour: 5pm to 10pm (Everyday) Appointment: +8809606063030 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Malibagh",
         "address": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
         "visitingTime": "4pm to 6pm (Everyday)",
-        "appointmentNumber": "+8801844141717"
-      },
-      "id": "9b6e9e1a-431d-417b-a253-3cac654218a3"
+        "appointmentNumber": "+8801844141717Call Now"
+      }
     },
     {
+      "id": "312599bf-9693-4df0-a238-94e65b46ad79",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-ozm-dastagir/",
+      "imageId": "cb1d14b7-af69-4eb1-a2ad-2f9f7c4afb68",
       "name": "Dr. O.Z.M. Dastagir",
-      "degree": "MBBS, D-ORTHO, MS (ORTHO),  WHO Fellow Arthroplasty, Arthroscopy (India)",
+      "degree": "MBBS, D-ORTHO, MS (ORTHO), WHO Fellow Arthroplasty, Arthroscopy (India)",
       "specialty": "Consultant Spine, Orthopedic & Trauma Surgeon",
       "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
-      "info": "Dr. O.Z.M. Dastagir is a Orthopedic Surgeon in Dhaka. His qualification is MBBS, D-ORTHO, MS (ORTHO),  WHO Fellow Arthroplasty, Arthroscopy (India). He is a Consultant, Spine, Orthopedics & Trauma Surgery at National Institute of Traumatology & Orthopedic Rehabilitation. He regularly provides treatment to his patients at Popular Diagnostic Center, Dhanmondi. Practicing hour of Dr. O.Z.M. Dastagir at Popular Diagnostic Center, Dhanmondi is 7pm to 10pm (Closed: Friday).",
+      "info": "Dr. O.Z.M. Dastagir is a Orthopedic Surgeon in Dhaka. His qualification is MBBS, D-ORTHO, MS (ORTHO), WHO Fellow Arthroplasty, Arthroscopy (India). He is a Consultant, Spine, Orthopedics & Trauma Surgery at National Institute of Traumatology & Orthopedic Rehabilitation. He regularly provides treatment to his patients at Popular Diagnostic Center, Dhanmondi. Practicing hour of Dr. O.Z.M. Dastagir at Popular Diagnostic Center, Dhanmondi is 7pm to 10pm (Closed: Friday).",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801712202834"
-      },
-      "id": "37a16e1f-98f8-4fc4-a607-e47d6e099602"
+        "appointmentNumber": "+8801712202834Call Now"
+      }
     },
     {
+      "id": "ed8472ab-8fe6-44c8-8578-a8422d967d5c",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-m-ariful-islam/",
+      "imageId": "28bb9ad7-fb0c-467a-aefe-5d1fd590ad10",
       "name": "Dr. M. Ariful Islam",
       "degree": "MBBS, BCS (Health), MS (Ortho Surgery)",
       "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
@@ -654,11 +796,14 @@
         "hospital": "Aalok Healthcare & Hospital, Mirpur 10",
         "address": "House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka",
         "visitingTime": "5pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801307267402"
-      },
-      "id": "a22b7ddc-0977-41fa-b09d-c9cbcb8acd7f"
+        "appointmentNumber": "+8801307267402Call Now"
+      }
     },
     {
+      "id": "25f47e95-5e69-4801-8e25-b14fc3eea592",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-syed-golam-samdani/",
+      "imageId": "d99c8fdc-9430-4166-a972-52a6728db235",
       "name": "Dr. Syed Golam Samdani",
       "degree": "MBBS, MS (Ortho Surgery), MMEd",
       "specialty": "Orthopedic, Trauma & Spine Specialist Surgeon",
@@ -668,11 +813,14 @@
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "5pm to 10pm (Everyday)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "572d49aa-7a8d-4a5c-8354-59f79c49979f"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
+      "id": "7d4e9e5e-3143-4e7b-9c98-328cf995ac2b",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-a-k-m-jahir-uddin/",
+      "imageId": "425e7489-605a-478b-a76b-440df1917544",
       "name": "Prof. Dr. A.K.M. Zahir Uddin",
       "degree": "MBBS, MS (Orthopedics), ROS (Japan), WHO Fellow (Thailand)",
       "specialty": "Orthopedics & Trauma Surgeon",
@@ -682,53 +830,65 @@
         "hospital": "Labaid Diagnostic, Malibagh",
         "address": "House # B65, Chowdhury Para, Malibagh, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662555"
-      },
-      "id": "017c213e-51c2-41ea-b317-ace2e8c26d1a"
+        "appointmentNumber": "+8801766662555Call Now"
+      }
     },
     {
+      "id": "c023ddc1-1dc7-4d1e-9ece-3453aa7b22f0",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-azizul-haque/",
+      "imageId": "872d006e-89dc-4743-ba6c-3578d29eeb77",
       "name": "Dr. Azizul Haque",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Orthopedics, Arthroscopic & Arthroplasty Surgeon",
       "workplace": "National Institute of Traumatology and Orthopaedic Rehabilitation",
-      "info": "Ibn Sina Diagnostic Center, Lalbagh\nAddress: 27/4 Dhakeshwori Road, Lalbagh, Dhaka\nVisiting Hour: 6.30pm to 9.30pm (Closed: Thursday & Friday)\nAppointment: +8801783356048\nCall Now",
+      "info": "Ibn Sina Diagnostic Center, Lalbagh Address: 27/4 Dhakeshwori Road, Lalbagh, Dhaka Visiting Hour: 6.30pm to 9.30pm (Closed: Thursday & Friday) Appointment: +8801783356048 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Specialized Hospital, Dhanmondi",
         "address": "House # 68, Road # 15/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "10am to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801823039800"
-      },
-      "id": "fd0e83f4-d62f-434c-acce-e2866c363a81"
+        "appointmentNumber": "+8801823039800Call Now"
+      }
     },
     {
+      "id": "e7f4aa78-bf8c-46f7-99eb-b54317e6fe73",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-g-m-reza/",
+      "imageId": "d2fde21a-cb0b-40b6-9213-eff2e29d68cd",
       "name": "Dr. G.M. Reza",
       "degree": "MBBS, MCPS (Surgery), D-ORTHO, MS (ORTHO), AAOS (USA)",
       "specialty": "Orthopedic Specialist & Trauma Surgeon",
       "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
-      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, Bangabandhu Road, Chashara, Narayanganj – 1400\nVisiting Hour: 3pm to 6pm (Wednesday) & 12.30pm to 6pm (Friday)\nAppointment: +8809666787804\nCall Now",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, Bangabandhu Road, Chashara, Narayanganj – 1400 Visiting Hour: 3pm to 6pm (Wednesday) & 12.30pm to 6pm (Friday) Appointment: +8809666787804 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi, Dhaka - 1205",
         "visitingTime": "12pm to 3pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "f2ead3ca-8074-4a1c-8fd7-e4fd47adea32"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "5d84a9cb-421f-460c-b377-69adbd0b9ea3",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-indrojit-kumar-kundu/",
+      "imageId": "a0228713-64bf-4655-a069-886a8ae249e2",
       "name": "Dr. Indrojit Kumar Kundu",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Bone, Joint, Spine, Arthritis, Pain, Paralysis Specialist & Surgeon",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Medinova Medical Services, Narayanganj\nAddress: 145, Bangabandhu Road, Chashara, Narayanganj – 1400\nVisiting Hour: 4pm to 8pm (Sat & Tuesday)\nAppointment: +8801913119989\nCall Now",
+      "info": "Medinova Medical Services, Narayanganj Address: 145, Bangabandhu Road, Chashara, Narayanganj – 1400 Visiting Hour: 4pm to 8pm (Sat & Tuesday) Appointment: +8801913119989 Call Now",
       "chamber": {
         "hospital": "Medinova Medical Services, Malibagh",
         "address": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
         "visitingTime": "4pm to 8pm (Closed: Tue & Friday)",
-        "appointmentNumber": "+8801790118855"
-      },
-      "id": "b8a7e57e-9d39-44dd-8d9c-3f56140283d6"
+        "appointmentNumber": "+8801790118855Call Now"
+      }
     },
     {
+      "id": "b511f4f8-d3ee-452e-ba9f-950fe996795a",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-bijon-kumar-saha/",
+      "imageId": "abc1faf9-50c9-4cc5-ba91-037714c6eae2",
       "name": "Dr. Bijon Kumar Saha",
       "degree": "MBBS, D-ORTHO (BSMMU)",
       "specialty": "Orthopedics (Bone, Joint, Trauma, Arthritis) Specialist & Surgeon",
@@ -738,11 +898,14 @@
         "hospital": "Labaid Diagnostic, Uttara (Unit 01)",
         "address": "House # 15, Road # 12, Sector # 06, Uttara, Dhaka",
         "visitingTime": "5pm to 9pm (Sat, Sun, Mon & Tue)",
-        "appointmentNumber": "+8801766662606"
-      },
-      "id": "c4ea0fcd-c744-4d17-ade3-de798192a303"
+        "appointmentNumber": "+8801766662606Call Now"
+      }
     },
     {
+      "id": "cbfb6901-63df-47a6-90d6-70dbc80b1e50",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-zahid-ferdous/",
+      "imageId": "acb1a077-b774-4c5a-8f85-c13635ff983a",
       "name": "Dr. Md. Zahid Ferdous",
       "degree": "MBBS, MS (Ortho Surgery)",
       "specialty": "Orthopedic Surgeon",
@@ -752,11 +915,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Mirpur",
         "address": "House # 11, Haji Road, Avenue 3, Rupnagar, Mirpur 2, Dhaka",
         "visitingTime": "5.30pm to 7.30pm (Closed: Friday & Saturday)",
-        "appointmentNumber": "+8801847262996"
-      },
-      "id": "d0805ed0-ec34-442d-b4df-4bb55630a047"
+        "appointmentNumber": "+8801847262996Call Now"
+      }
     },
     {
+      "id": "21b48e95-8166-48d9-927b-4b6e1ed9c33f",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-najmus-sakib/",
+      "imageId": "21368e49-cb8f-48a4-abb4-f599a3ad6af0",
       "name": "Dr. Najmus Sakib",
       "degree": "MBBS, MS (Ortho Surgery), SRS Scholar (USA)",
       "specialty": "Orthopedics Specialist & Surgeon",
@@ -766,11 +932,14 @@
         "hospital": "Farazy Hospital, Banasree",
         "address": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
         "visitingTime": "8pm to 10pm (Sat, Sun, Tue & Wed)",
-        "appointmentNumber": "+8801882084414"
-      },
-      "id": "958c1e0b-23a5-4611-9108-51fe8514776f"
+        "appointmentNumber": "+8801882084414Call Now"
+      }
     },
     {
+      "id": "97ba66aa-4fee-4efa-9220-2c4d418a3e0e",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-erfanul-haque-siddiqui/",
+      "imageId": "8398675d-ded5-4e44-9752-122d11560c5f",
       "name": "Dr. Erfanul Haque Siddiqui",
       "degree": "MBBS (DMC), MS (ORTHO), FRSH ( LONDON)",
       "specialty": "Orthopedic & Trauma Surgeon",
@@ -780,11 +949,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "4pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "5b783814-85fe-4525-88f1-540b49d2f2f4"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "9b24125a-33bd-446a-9944-2e74349cef68",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-kazi-hannanur-rahman-jewel/",
+      "imageId": "69a63fca-9c7b-450b-997a-a34ff9f7a772",
       "name": "Dr. Kazi Hannanur Rahman Jewel",
       "degree": "MBBS (DMC), BCS (HEALTH), MS (ORTHO)",
       "specialty": "Orthopedic Specialist",
@@ -794,11 +966,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "5.30pm to 9pm (Everyday)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "220aa857-ec73-48d2-8445-4d4947211569"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
+      "id": "84f420db-b563-4af5-91d9-79704e794be4",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-faruk-kashem/",
+      "imageId": "e70e5cf2-9ac2-44e2-9133-3838bbb82328",
       "name": "Dr. Md. Faruk Kashem",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Orthopedic (Bone, Joint, Arthritis, Trauma, Spine) Specialist & Surgeon",
@@ -808,11 +983,14 @@
         "hospital": "Upasham Health Point (Pvt.) Ltd",
         "address": "House-14, Road-2/B, Block-J, Natun Bazar, Baridhara, Dhaka-1212",
         "visitingTime": "8pm to 10pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801932200200"
-      },
-      "id": "130bbbd5-8811-4ec3-81ee-c3e14e86b829"
+        "appointmentNumber": "+8801932200200Call Now"
+      }
     },
     {
+      "id": "8e97980e-96e9-4e32-a064-04b627efaf6b",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-kamal-mahmood-khan/",
+      "imageId": "2562da0d-36ba-488e-9d10-987ea8470ef8",
       "name": "Prof. Dr. Kamal Mahmood Khan",
       "degree": "MBBS, D. Ortho",
       "specialty": "Orthopedic Surgeon",
@@ -822,11 +1000,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Doyagonj",
         "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
         "visitingTime": "11am to 1pm (Sat, Mon & Thu)",
-        "appointmentNumber": "+8801878115751"
-      },
-      "id": "5a32e614-ebd5-4479-a9a2-7acee325b276"
+        "appointmentNumber": "+8801878115751Call Now"
+      }
     },
     {
+      "id": "3beca525-1dee-4178-8bf7-a743dde95c42",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahidul-islam-akon/",
+      "imageId": "b720e4e4-baaf-41bb-a1cf-fe8e789fa64b",
       "name": "Dr. Md. Shahidul Islam Akon",
       "degree": "MBBS, BCS (Health), MS (Orthopedics), AOSpine Fellow (India & Singapore)",
       "specialty": "Consultant Spine Surgeon",
@@ -836,11 +1017,14 @@
         "hospital": "Al-Manar Hospital Limited",
         "address": "Plot # Umo, Block # Rossoi, Satmosjid Road, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Tue & Friday)",
-        "appointmentNumber": "+8801550020885"
-      },
-      "id": "a1bd5998-baea-4830-864d-931193ff7ab1"
+        "appointmentNumber": "+8801550020885Call Now"
+      }
     },
     {
+      "id": "203a21ee-7bbd-4594-a58b-8dc01a07fe24",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-anup-mostofa/",
+      "imageId": "9a024fe0-e9ec-4803-9553-130aac4412ee",
       "name": "Dr. Anup Mostofa",
       "degree": "MBBS, BCS (Health), MS (Ortho), MRCS (Surgery)",
       "specialty": "Orthopedic Surgeon",
@@ -850,11 +1034,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Keraniganj",
         "address": "Maa Plaza, Kadomtoli Mor, Zinzira, Keraniganj, Dhaka",
         "visitingTime": "4pm to 6pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801730599171"
-      },
-      "id": "d9a214db-bba4-4577-bf3c-1b85515f8e0c"
+        "appointmentNumber": "+8801730599171Call Now"
+      }
     },
     {
+      "id": "eadffc81-5ea4-4561-bd6d-9f239a78a023",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-qamrul-alam-saleh/",
+      "imageId": "a51e3bb4-8536-4f3e-950d-5baf2f0ae97e",
       "name": "Prof. Dr. Qamrul Alam Saleh",
       "degree": "MBBS, FCPS (ORTHO)",
       "specialty": "Orthopedics (Bone, Joint, Arthritis, Trauma) Specialist & Spine Surgeon",
@@ -864,25 +1051,31 @@
         "hospital": "Popular Medical College Hospital",
         "address": "House: 08, Road: 02, Dhanmondi, Dhaka-1205",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787800"
-      },
-      "id": "81e2c256-a90a-40bc-b871-f28b75eb78a7"
+        "appointmentNumber": "+8809666787800Call Now"
+      }
     },
     {
+      "id": "31a78a42-3cad-48fa-b560-ece65aaf01af",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-jagodish-chandra-ghosh/",
+      "imageId": "cba01a07-904b-49fb-98f4-8a05696f5d00",
       "name": "Prof. Dr. Jagodish Chandra Ghosh",
       "degree": "MBBS, MS (ORTHO), Fellow Spine Surgery (ISIC, DELHI)",
       "specialty": "Orthopedic & Spine Surgeon",
       "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
-      "info": "Modern Diagnostic Center, Narayanganj\nAddress: 207, Bangabandhu Road, Chashara, Narayanganj – 1400\nVisiting Hour: 4pm to 7pm (Sun & Friday)\nAppointment: +8801820842293\nCall Now",
+      "info": "Modern Diagnostic Center, Narayanganj Address: 207, Bangabandhu Road, Chashara, Narayanganj – 1400 Visiting Hour: 4pm to 7pm (Sun & Friday) Appointment: +8801820842293 Call Now",
       "chamber": {
         "hospital": "Labaid Diagnostic, Malibagh",
         "address": "House # B65, Chowdhury Para, Malibagh, Dhaka",
         "visitingTime": "7pm to 10pm (Closed: Sun & Friday)",
-        "appointmentNumber": "+8801766662555"
-      },
-      "id": "44bd3f72-fc0f-44ba-83d8-c3b9c9c47e1d"
+        "appointmentNumber": "+8801766662555Call Now"
+      }
     },
     {
+      "id": "afd02d16-6368-468b-9d52-b9bb0de6cd13",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-shah-m-hafizur-rahman/",
+      "imageId": "7d1478cb-cc2e-4daf-9171-39ba1fc1e6eb",
       "name": "Dr. Shah M. Hafizur Rahman",
       "degree": "MBBS, MS (ORTHO), MMEd",
       "specialty": "Bone, Joint, Arthritis, Spine, Trauma Specialist & Surgeon",
@@ -892,11 +1085,14 @@
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "5pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "ca32facd-73ac-41cb-af41-f3bd9e01d7f4"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
+      "id": "504df21e-4362-4b4c-a2ee-8b4d76cba602",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-manos-chandra-sarkar/",
+      "imageId": "8be8dd62-166d-4d11-b227-e036ea3e87c4",
       "name": "Dr. Manos Chandra Sarkar",
       "degree": "MBBS, MS (Ortho)",
       "specialty": "Orthopedic Surgeon",
@@ -906,11 +1102,14 @@
         "hospital": "Popular Diagnostic Center, Savar",
         "address": "E/22, Talbagh, Anandapur, Savar, Dhaka",
         "visitingTime": "4pm to 7pm (Sun, Tue & Wednesday), 1pm to 5pm (Friday)",
-        "appointmentNumber": "+8809666787808"
-      },
-      "id": "1c435570-827e-4dab-a1c6-88077269bc02"
+        "appointmentNumber": "+8809666787808Call Now"
+      }
     },
     {
+      "id": "d1b8a5cd-d538-4bd1-8639-77fc2538b495",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-golam-rahman-dulal/",
+      "imageId": "43367258-90a2-433c-b5a8-85a3b341a6bd",
       "name": "Dr. Md. Golam Rahman Dulal",
       "degree": "MBBS, D-Ortho (Nitor), MS (Ortho)",
       "specialty": "Orthopedic Specialist",
@@ -920,25 +1119,31 @@
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "5.30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "e4bce1d0-9573-4dca-8519-44de5d51b651"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
+      "id": "1d9e099d-5490-486c-8a8c-3d1ff43b0f4e",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-biplob-majumder/",
+      "imageId": "21fbb41a-ed97-49dd-8fa6-811d2b26ed30",
       "name": "Dr. Biplab Mozumder",
       "degree": "MBBS, BCS (Health), D-ORTHO, MS (Orthopedics)",
       "specialty": "Pediatric Orthopedic Surgeon",
       "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
-      "info": "Parkview Hospital, Chittagong\nAddress: 94/103, Katalganj Road, Panchlaish, Chattogram\nVisiting Hour: 6pm to 9pm (2nd and 4th Thursday)\nAppointment: +8801892962636\nCall Now",
+      "info": "Parkview Hospital, Chittagong Address: 94/103, Katalganj Road, Panchlaish, Chattogram Visiting Hour: 6pm to 9pm (2nd and 4th Thursday) Appointment: +8801892962636 Call Now",
       "chamber": {
         "hospital": "Labaid Diagnostic, Uttara (Unit 02)",
         "address": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
         "visitingTime": "5pm to 7pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801676008580"
-      },
-      "id": "0e936b08-9196-4606-8b39-74895d76c1ca"
+        "appointmentNumber": "+8801676008580Call Now"
+      }
     },
     {
+      "id": "b9b19fae-111a-4286-8b2a-e3fa7c55223c",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-fazlul-hoque/",
+      "imageId": "31c10734-7cf9-4661-81ab-4e8c917532be",
       "name": "Dr. Md. Fazlul Hoque",
       "degree": "MBBS, D-ORTHO, FAMA, FA (ORTHO)",
       "specialty": "Orthopedics (Bone, Joint, Trauma) Specialist & Spine Surgeon",
@@ -948,11 +1153,14 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "10am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "b1c2178c-e37b-401e-a090-20ca941f3f89"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "0ca0a5d5-d4d4-4b31-8d6a-20241c370e99",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-jamal-uddin-ahmed/",
+      "imageId": "e730a8c1-bfe0-4ff2-ac45-368968322606",
       "name": "Dr. Jamal Uddin Ahmed",
       "degree": "MBBS, D-Ortho (BSMMU)",
       "specialty": "Orthopedics & Spine Specialist",
@@ -962,11 +1170,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "48681ec0-d848-477f-ace6-c28a0d8d3cac"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
+      "id": "9f040039-10e5-48ff-81ab-e8ce41d7e901",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-arif-hossain/",
+      "imageId": "73344e9c-7894-423d-9f10-cf63e258d2c8",
       "name": "Dr. Mohammad Arif Hossain",
       "degree": "MBBS (DMC), MS (ORTHO)",
       "specialty": "Orthopedics Specialist & Trauma Surgeon",
@@ -976,25 +1187,31 @@
         "hospital": "Farazy Hospital, Banasree",
         "address": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801882084414"
-      },
-      "id": "e18ee1e6-fcea-4eff-addb-738872068e79"
+        "appointmentNumber": "+8801882084414Call Now"
+      }
     },
     {
+      "id": "690e90c8-f115-491b-98f1-9b8aa20eddaa",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-golam-faruque/",
+      "imageId": "2b3b0faa-2b5c-46b6-8fa5-180ca2238f69",
       "name": "Prof. Dr. Golam Faruque",
       "degree": "MBBS, MS (ORTHO), Fellowship in Hand Surgery (UK)",
       "specialty": "Orthopedic Specialist & Trauma Surgeon",
       "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
-      "info": "City Hospital Limited, Dhaka\nAddress: 1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka – 1207\nVisiting Hour: 6pm to 9pm (Closed: Friday)\nAppointment: +8801558220134\nCall Now",
+      "info": "City Hospital Limited, Dhaka Address: 1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka – 1207 Visiting Hour: 6pm to 9pm (Closed: Friday) Appointment: +8801558220134 Call Now",
       "chamber": {
         "hospital": "Bangladesh Specialized Hospital",
         "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8809666700100"
-      },
-      "id": "9243332b-4a9e-4505-bc75-ef0c4e17283a"
+        "appointmentNumber": "+8809666700100Call Now"
+      }
     },
     {
+      "id": "470e215f-94a0-4df5-947c-fa69442b4d09",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-anisur-rahman-ortho/",
+      "imageId": "3ee0d7fa-a4b2-42b7-aad5-d267fbb8e725",
       "name": "Prof. Dr. Anisur Rahman",
       "degree": "MBBS, D-ORTHO, MPH, MD, FRSH, FICS",
       "specialty": "Orthopedic & Trauma Surgeon",
@@ -1004,11 +1221,14 @@
         "hospital": "Comfort Diagnostic Center, Uttara",
         "address": "House # 22, Rabindra Sarani Road, Sector # 07, Uttara, Dhaka",
         "visitingTime": "6.30pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+880258956388"
-      },
-      "id": "b9fc5653-ff34-4238-afd7-1c1cd303ad8c"
+        "appointmentNumber": "+880258956388Call Now"
+      }
     },
     {
+      "id": "d96ac0ed-825f-4240-b1ca-f037f25d0f2b",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-zahirul-islam/",
+      "imageId": "ad3ada53-e879-4d20-927c-a3414045e9ad",
       "name": "Dr. Md. Zahirul Islam",
       "degree": "MBBS, MS (ORTHO), AO Trauma (BASIC), D-ORTHO (NITOR), FACS (USA), FICS (USA)",
       "specialty": "Orthopedic, Trauma, Spine, Arthroplasty & Arthroscopy Specialist Surgeon",
@@ -1018,11 +1238,14 @@
         "hospital": "Aurora Specialized Hospital",
         "address": "19/01, Kakrail, Dhaka (Opposite of Karnaphuli Garden City)",
         "visitingTime": "5pm to 9pm (Closed: Wed & Friday)",
-        "appointmentNumber": "+8801404450401"
-      },
-      "id": "7729294c-fc3a-4501-b089-4f70aaaf8647"
+        "appointmentNumber": "+8801404450401Call Now"
+      }
     },
     {
+      "id": "f7a1ca00-1441-4da1-92b1-8bb2aa91687c",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-parviz-shahidi-gamsari/",
+      "imageId": "ea6c06c9-0cad-4f8c-8919-fbe92e4ea0df",
       "name": "Prof. Dr. Parviz Shahidi Gamsari",
       "degree": "MBBS, MS (Ortho), Fellow (London). Fellow (Exeter, UK)",
       "specialty": "Orthopedics (Bone, Joint, Spine) Specialist & Trauma Surgeon",
@@ -1032,11 +1255,14 @@
         "hospital": "Impulse Hospital, Dhaka",
         "address": "304/E, Bir Uttam Mir Shawkat Sarak, Tejgaon, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801313434425"
-      },
-      "id": "c9059de9-2601-4644-94c0-82c2ae62cb70"
+        "appointmentNumber": "+8801313434425Call Now"
+      }
     },
     {
+      "id": "f0a70003-1b74-4549-af87-1c4aa3eb80f7",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-nasir-uddin-ortho/",
+      "imageId": "a1e4aecb-61a7-4ec2-a585-be719385074c",
       "name": "Dr. Md. Nasir Uddin",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Orthopedic Specialist & Spine Surgeon",
@@ -1046,11 +1272,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Savar",
         "address": "31/6 Jaleshwar, Aricha Road, Savar, Dhaka - 1340",
         "visitingTime": "4pm to 6pm (Mon & Tue) & 6pm to 7pm (Sun & Thu)",
-        "appointmentNumber": "+88 09610009613"
-      },
-      "id": "4a7360f8-c559-4d8f-9b43-de42aade8df7"
+        "appointmentNumber": "+88 09610009613Call Now"
+      }
     },
     {
+      "id": "121b67c3-d0de-498a-b9e6-227af6957aa0",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-sahidur-rahman-khan/",
+      "imageId": "04a0668f-7a9a-4906-9fe4-32d9e6145ddf",
       "name": "Dr. Md. Sahidur Rahman Khan",
       "degree": "MBBS (DU), MS (ORTHOPAEDIC SURGERY), D-ORTHO (NITOR), BCS (HEALTH), EDC (BIRDEM)",
       "specialty": "Orthopedic, Trauma & Spine Surgeon",
@@ -1060,11 +1289,14 @@
         "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
         "address": "Room - 205 (Lift 1), Hospital Building, 1/1 B, Kallyanpur, Dhaka",
         "visitingTime": "6pm to 9pm (Sat, Sun, Mon & Wed), 8pm to 9pm (Friday)",
-        "appointmentNumber": "+8809610009616"
-      },
-      "id": "2f6d8c99-e20b-46a4-8a1d-9c3558f25d57"
+        "appointmentNumber": "+8809610009616Call Now"
+      }
     },
     {
+      "id": "8dca6905-bf1b-4aee-b151-80f83502fff1",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-ananta-kumar-bhakta/",
+      "imageId": "91fa480d-ac2a-45d2-b24e-e0fdfb7e9948",
       "name": "Dr. Ananta Kumar Bhakta",
       "degree": "MBBS, BCS (Health), MS (Orthopedics)",
       "specialty": "Orthopedics (Bone, Joint, Injury, Accident) Specialist & Trauma Surgeon",
@@ -1074,11 +1306,14 @@
         "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
         "address": "House # 21, Road # 07, Sector # 04 (Jasimuddin Mor), Uttara, Dhaka",
         "visitingTime": "4pm to 6:30pm (Saturday, Monday & Thursday)",
-        "appointmentNumber": "+8809666787805"
-      },
-      "id": "eabbc210-a30f-4fa0-b564-e02593080a4a"
+        "appointmentNumber": "+8809666787805Call Now"
+      }
     },
     {
+      "id": "94ee4181-f846-49f8-b1c3-9bb05370d519",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-ahsan-majid/",
+      "imageId": "cb4a60e6-a4eb-4783-ab6d-ba61b9b82007",
       "name": "Dr. Md. Ahsan Majid",
       "degree": "MBBS, MS (Orthopedics)",
       "specialty": "Orthopedics (Bone, Joint, Accident, Trauma, Injury, Spine) Surgeon",
@@ -1088,11 +1323,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "6.30pm to 10pm (Closed: Mon & Friday)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "41c31928-b30b-40c0-abb6-648030ffb7a9"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "b1d3889b-d895-49d6-9f3e-3cf018d1175f",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-khurshed-alam/",
+      "imageId": "69eab964-6489-4cf4-a601-798c821daaa2",
       "name": "Dr. Md. Khurshed Alam",
       "degree": "MBBS (DMC), MS (Orthopedics), Fellow in Trauma Surgery (China)",
       "specialty": "Orthopedic, Arthroscopic & Trauma Surgeon",
@@ -1102,11 +1340,14 @@
         "hospital": "Central Hospital, Dhanmondi",
         "address": "House # 02, Road # 05, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8802-41060800"
-      },
-      "id": "bed76d54-a54f-4fd1-b90d-ffa81f771745"
+        "appointmentNumber": "+8802-41060800Call Now"
+      }
     },
     {
+      "id": "c329de08-1181-4d43-8f72-b6f0287e95bb",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-golam-sarwar/",
+      "imageId": "70a3e8b6-001a-44c4-a070-749c81425002",
       "name": "Prof. Dr. Md. Golam Sarwar",
       "degree": "MBBS, MS (ORTHO), AO Fellow (India), WHO Fellow (Indonesia)",
       "specialty": "Orthopedics, Bone, Joint, Arthritis, Crippling, Disability & Plastic Surgeon",
@@ -1116,11 +1357,14 @@
         "hospital": "Medinova Medical Services, Mirpur",
         "address": "Plot # 29-30, Block # Kha, Road # 1, Section # 6, Mirpur 10, Dhaka",
         "visitingTime": "6pm to 9pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801300550448"
-      },
-      "id": "e7723f49-e5c3-4d80-8df7-8e6035490c46"
+        "appointmentNumber": "+8801300550448Call Now"
+      }
     },
     {
+      "id": "8a29c3f9-550a-44d8-a439-b0bd280fe549",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-a-k-m-obaydul-haque-sabbir/",
+      "imageId": "07e780c7-92b9-444a-a5a8-08fca972bf46",
       "name": "Dr. A K M Obaydul Haque Sabbir",
       "degree": "MBBS (DU), BCS (Health), D-Ortho (BSMMU), MS-ORTHO",
       "specialty": "Orthopedic Specialist",
@@ -1130,11 +1374,14 @@
         "hospital": "Popular Diagnostic Center, Badda",
         "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka - 1212",
         "visitingTime": "5pm to 10pm (Everyday)",
-        "appointmentNumber": "+8809666787809"
-      },
-      "id": "f0298e75-706c-41f2-8b9e-b7d733f7d9ba"
+        "appointmentNumber": "+8809666787809Call Now"
+      }
     },
     {
+      "id": "55929831-3eb4-47e8-8a56-54e5dbbff7f4",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-debdulal-debnath/",
+      "imageId": "3975e144-d97b-4906-b71b-0318a00da2e6",
       "name": "Dr. Debdulal Debnath",
       "degree": "MBBS, D-Ortho",
       "specialty": "Orthopedic Surgeon",
@@ -1144,11 +1391,14 @@
         "hospital": "Comfort Diagnostic Center, Dhanmondi",
         "address": "167/B, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801731956033"
-      },
-      "id": "ca02bd8b-d660-4669-bc31-ffb2e135634a"
+        "appointmentNumber": "+8801731956033Call Now"
+      }
     },
     {
+      "id": "0aa6b97c-28f2-45de-b1f8-29b101437c51",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-riajul-haque/",
+      "imageId": "46d7e723-dc7a-4ef6-a12c-c6ef842e871b",
       "name": "Prof. Dr. Md. Riajul Haque",
       "degree": "MBBS, D-ORTHO, MS",
       "specialty": "Orthopedic Specialist",
@@ -1158,11 +1408,14 @@
         "hospital": "Popular Diagnostic Center, Badda",
         "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka - 1212",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787809"
-      },
-      "id": "14c88298-e93a-4be2-b353-8f60c55d5c91"
+        "appointmentNumber": "+8809666787809Call Now"
+      }
     },
     {
+      "id": "6dd585e8-73d6-4725-bf0f-089ba977c037",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-moin-ahmed-ferdous-rubel/",
+      "imageId": "7e8f15e6-a3af-499d-84a2-30a767610bc1",
       "name": "Dr. Moin Ahmed Ferdous Rubel",
       "degree": "MBBS (Dhaka), D-Ortho (Orthopedics)",
       "specialty": "Orthopedic Specialist",
@@ -1172,11 +1425,14 @@
         "hospital": "Popular Diagnostic Center, Badda",
         "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka - 1212",
         "visitingTime": "5pm to 7pm (Closed: Monday & Friday)",
-        "appointmentNumber": "+8809666787809"
-      },
-      "id": "cb34aeec-acb1-452d-9691-3f0d4d3b0489"
+        "appointmentNumber": "+8809666787809Call Now"
+      }
     },
     {
+      "id": "b7c2a5dd-947b-499b-8798-ef953f659f7e",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-sajad-hossain/",
+      "imageId": "4d6c6d31-db32-4658-9591-58ea79646c39",
       "name": "Dr. Md. Sajad Hossain",
       "degree": "MBBS, MS (Ortho)",
       "specialty": "Orthopedic Specialist",
@@ -1186,11 +1442,14 @@
         "hospital": "Popular Diagnostic Center, Badda",
         "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka - 1212",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787809"
-      },
-      "id": "b7cc9725-307d-4dc8-8b09-efd1b8216a1d"
+        "appointmentNumber": "+8809666787809Call Now"
+      }
     },
     {
+      "id": "0498b275-bd7b-406e-8591-7906304352cc",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahabbatullah/",
+      "imageId": "342b6188-28da-4d62-b2a7-d915cf013c36",
       "name": "Dr. Md. Mahabbatullah",
       "degree": "MBBS, MS (Orthopedics)",
       "specialty": "Orthopedic, Bone Joint, Trauma & Spine Surgeon",
@@ -1200,11 +1459,14 @@
         "hospital": "Health and Hope Hospital",
         "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
         "visitingTime": "5.30pm to 9pm (Monday to Thursday) & 10am to 12pm (Friday)",
-        "appointmentNumber": "+8809611996699"
-      },
-      "id": "ec4de7b7-10ee-4f7f-bd45-6f7f902f79aa"
+        "appointmentNumber": "+8809611996699Call Now"
+      }
     },
     {
+      "id": "b6b1bee0-82ce-4445-b5ac-45629c76aa8e",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-atiar-rahman-ortho/",
+      "imageId": "628f1876-7dbf-40ff-8821-13db6ecb8e0f",
       "name": "Dr. Md. Atiar Rahman",
       "degree": "MBBS, BCS (Health), MS (ORTHO)",
       "specialty": "Orthopedic, Trauma & Spine Surgery Specialist",
@@ -1214,11 +1476,14 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10678"
-      },
-      "id": "d7973d5b-c7bb-43f8-aa8d-83c85976023d"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "909412cd-3d4a-48a6-8869-6f6309eff5fe",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-hasan-masud-ortho/",
+      "imageId": "b27bf6f6-00f8-465c-958a-3ebdd9c36f94",
       "name": "Prof. Dr. Md. Hasan Masud",
       "degree": "MBBS, MS (Ortho), AO Fellow (Thailand), Fellowship (SG, IN)",
       "specialty": "Orthopedic & Trauma Surgeon",
@@ -1228,11 +1493,14 @@
         "hospital": "Bangladesh Specialized Hospital",
         "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8809666700100"
-      },
-      "id": "4f0546ac-65f5-4cc3-ba80-2ec698c58cf0"
+        "appointmentNumber": "+8809666700100Call Now"
+      }
     },
     {
+      "id": "99b6f46f-8e0c-49f5-91aa-1dd36e3c7a6e",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-mushiar-hossain-munshi/",
+      "imageId": "e1aeb719-316d-483c-9ad2-e8eb576ae8e2",
       "name": "Dr. Md. Mushiar Hossain Munshi",
       "degree": "MBBS, D-ORTHO (DU)",
       "specialty": "Orthopedic Specialist & Trauma Surgeon",
@@ -1242,11 +1510,14 @@
         "hospital": "Labaid Diagnostic, Uttara (Unit 01)",
         "address": "House # 15, Road # 12, Sector # 06, Uttara, Dhaka",
         "visitingTime": "6pm to 9pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801766662606"
-      },
-      "id": "0ee5387f-8994-47ed-8091-576e09d3c62b"
+        "appointmentNumber": "+8801766662606Call Now"
+      }
     },
     {
+      "id": "e734b42f-7b16-4706-9ce9-2c611280efb5",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-captain-md-saiful-islam-saif/",
+      "imageId": "3abaf44b-998f-4678-8c9a-8ae6d8ca0e3b",
       "name": "Dr. Captain. Md. Saiful Islam Saif",
       "degree": "MBBS, MS (ORTHO), D-ORTHO (NITOR), AO BASIC (Trauma), APSS Fellow (Spine)",
       "specialty": "Orthopedic, Bone Joint, Trauma & Spine Specialist Surgeon",
@@ -1256,11 +1527,14 @@
         "hospital": "Islami Bank Hospital, Motijheel",
         "address": "24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka",
         "visitingTime": "4pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801727666741"
-      },
-      "id": "6bb06f17-a329-4d30-9e61-afdeaca3ec26"
+        "appointmentNumber": "+8801727666741Call Now"
+      }
     },
     {
+      "id": "294f55f1-4894-4520-b535-865f6709540e",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-raisul-tasneem/",
+      "imageId": "aebae220-e241-4895-8f8b-4680b4061de8",
       "name": "Dr. Md. Raisul Tasneem",
       "degree": "MBBS, D-ORTHO, MS (ORTHO)",
       "specialty": "Orthopedics, Trauma, Knee & Endoscopic Spine Surgeon",
@@ -1270,11 +1544,14 @@
         "hospital": "BRB Hospital, Dhaka",
         "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801321749088"
-      },
-      "id": "ff815833-bf3c-451e-a064-3680400e68f9"
+        "appointmentNumber": "+8801321749088Call Now"
+      }
     },
     {
+      "id": "228d6b1c-9692-44ec-bb67-5fd8a2eef223",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-p-c-debnath/",
+      "imageId": "d80835b7-9128-4b68-8733-14c30c885e0b",
       "name": "Dr. P.C. Debnath",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Orthopedics (Bone, Joint, Trauma) Specialist & Surgeon",
@@ -1284,11 +1561,14 @@
         "hospital": "Aalok Healthcare & Hospital, Mirpur 10",
         "address": "House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka",
         "visitingTime": "11am to 1pm & 7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801915448491"
-      },
-      "id": "4532b0d4-4928-4fca-a0b0-9c90c60e4c94"
+        "appointmentNumber": "+8801915448491Call Now"
+      }
     },
     {
+      "id": "615a5350-35ba-4550-bf77-3be592cd964d",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahidul-islam-khan/",
+      "imageId": "eb99063b-64b2-4ef1-b36d-75e22a7dd8f5",
       "name": "Dr. Md. Shahidul Islam Khan",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Orthopedics (Bone, Joint, Trauma) Specialist & Surgeon",
@@ -1298,11 +1578,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Lalbagh",
         "address": "27/4 Dhakeshwori Road, Lalbagh, Dhaka",
         "visitingTime": "6pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801783356048"
-      },
-      "id": "3f91020b-5ef5-4e2f-a9b6-096d471caeaf"
+        "appointmentNumber": "+8801783356048Call Now"
+      }
     },
     {
+      "id": "fe33afe2-0545-4c16-a07a-ffb41c21248b",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-o-f-g-kibria/",
+      "imageId": "912786d5-fb48-428d-8147-55d9ea11e778",
       "name": "Dr. Md. O.F.G Kibria",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Orthopedics, Trauma, Hip & Knee Replacements Surgeon",
@@ -1312,11 +1595,14 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "10am to 1pm & 5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "98c6cc69-3191-4ad6-9ae1-7e4a2c8d2f5b"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "299faad4-05bd-4613-ab7b-494fed1a39e6",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-abu-bakar-siddique/",
+      "imageId": "08d45a03-1386-4cf0-a821-338201973388",
       "name": "Prof. Dr. Abu Bakar Siddique",
       "degree": "MBBS, MS (Ortho-Surgery, NITOR) WOC-SICOT (UK)",
       "specialty": "Orthopedic Trauma, Joint & Spine Surgeon",
@@ -1326,11 +1612,14 @@
         "hospital": "Impulse Hospital, Dhaka",
         "address": "304/E, Bir Uttam Mir Shawkat Sarak, Tejgaon, Dhaka",
         "visitingTime": "5pm to 8pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801313434425"
-      },
-      "id": "05ff1235-bc8a-483d-8548-93bb733d4877"
+        "appointmentNumber": "+8801313434425Call Now"
+      }
     },
     {
+      "id": "05b2294c-5b86-42c5-aabd-f76e59c04c52",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-nripen-kumar-kundu/",
+      "imageId": "2363e6e1-1c36-4ba1-83d7-1598fbeaa9bf",
       "name": "Dr. Nripen Kumar Kundu",
       "degree": "MBBS, FCPS (Surgery), D-ORTHO, AO Trauma (BASIC)",
       "specialty": "Orthopedic Specialist & Trauma Surgeon",
@@ -1340,25 +1629,31 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801715012020"
-      },
-      "id": "b401f4cb-943b-4f43-bb6a-ebfd5d76ee5d"
+        "appointmentNumber": "+8801715012020Call Now"
+      }
     },
     {
+      "id": "e5e608d5-c35f-4df7-9e92-ef3874a78fe9",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-brig-gen-abdur-rahman-mollah/",
+      "imageId": "64d7ac85-b410-4a0c-ae21-750fa864cc55",
       "name": "Prof. Brig. Gen. Abdur Rahman Mollah",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
       "workplace": "Armed Forces Medical College, Dhaka",
-      "info": "Aalok Health Care, Kachukhet\nAddress: Rajanigandha Tower (4th & 5th Floor), Kachukhet, Dhaka\nVisiting Hour: 7pm to 10pm (Closed: Friday)\nAppointment: +8801725694669\nCall Now",
+      "info": "Aalok Health Care, Kachukhet Address: Rajanigandha Tower (4th & 5th Floor), Kachukhet, Dhaka Visiting Hour: 7pm to 10pm (Closed: Friday) Appointment: +8801725694669 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
         "address": "Unit 01, House # 21, Road # 7, Sector # 4, Uttara, Dhaka",
         "visitingTime": "11am to 1pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787805"
-      },
-      "id": "e8ca5602-d7c8-4ccf-a6d0-5555a97feccd"
+        "appointmentNumber": "+8809666787805Call Now"
+      }
     },
     {
+      "id": "6c65ffb0-e365-44f1-82d8-2bca52c19a9e",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-zia-uddin/",
+      "imageId": "e3e6f990-3d9c-4af8-80c2-2fef753ceb98",
       "name": "Dr. Md. Zia Uddin",
       "degree": "MBBS, D-Ortho, MS (Ortho Surgery)",
       "specialty": "Orthopedic & Trauma Surgeon",
@@ -1368,11 +1663,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "10.30am to 2pm & 6pm to 8.30pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "dd8a8d29-8fe1-4b4e-881c-abfc855eaf43"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "cec08745-c30a-4397-8f57-6e4cf7ccb157",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-ali-akbar/",
+      "imageId": "5fa2d203-eecb-4eb3-a3ea-6ea1c1da53a7",
       "name": "Dr. Md. Ali Akbar",
       "degree": "MBBS, MS (Orthopedics)",
       "specialty": "Orthopedics Specialist, Trauma & Spine Surgeon",
@@ -1382,11 +1680,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "9am to 12pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "d923129c-418e-4cec-8d4e-fe4e7fe003fb"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "e2214078-ebf2-4740-9f39-7a31316a0187",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-molla-muhammad-abdullah-al-mamun/",
+      "imageId": "356a46da-c074-496b-a32d-2c839dec13ec",
       "name": "Dr. Molla Muhammad Abdullah Al Mamun",
       "degree": "MBBS, BCS (Health), MS (Orthopedic Surgery)",
       "specialty": "Orthopedic (Bone, Joint, Arthritis, Trauma, Paralysis) Specialist & Surgeon",
@@ -1396,11 +1697,14 @@
         "hospital": "Labaid Diagnostic, Uttara (Unit 01)",
         "address": "House # 15, Road # 12, Sector # 06, Uttara, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662606"
-      },
-      "id": "3f8ed3f6-5112-458d-8656-8c5c8c2dd1a4"
+        "appointmentNumber": "+8801766662606Call Now"
+      }
     },
     {
+      "id": "830bf140-f617-47ed-8e98-f4717f7cd8fd",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-gopal-verma/",
+      "imageId": "af692552-9069-4100-9da9-09282172d76e",
       "name": "Dr. Gopal Verma",
       "degree": "MBBS (DU), MS (Orthopedics)",
       "specialty": "Orthopedics, Trauma, Ilizrov, Spine & Joint Replacement Surgeon",
@@ -1410,11 +1714,14 @@
         "hospital": "Aichi Hospital Limited, Uttara",
         "address": "Plot # 35 & 37, Sector # 08, Abdullahpur, Uttara, Dhaka",
         "visitingTime": "8.30am to 2pm & 5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801689956599"
-      },
-      "id": "2ef9ea00-b1ef-4b2b-b60f-34ff99e46004"
+        "appointmentNumber": "+8801689956599Call Now"
+      }
     },
     {
+      "id": "ab7f3647-7a6f-42a0-adbb-0b1da9d433d7",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-mesbah-uddin-ahmed/",
+      "imageId": "b00202e8-aa2b-4535-89d7-0f8ce9de73a6",
       "name": "Dr. Mesbah Uddin Ahmed",
       "degree": "MBBS, D-ORTHO, MS (ORTHO)",
       "specialty": "Orthopedics, Arthoplasty, Arthroscopy, Hand & Spine Surgeon",
@@ -1424,11 +1731,14 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "10am to 1pm & 4pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "ee394fd1-156f-4947-bed7-8aee2d93768d"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "277aa846-2400-4af2-9217-a25c70e3fca7",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-sanjoy-sinha/",
+      "imageId": "d67d5d2e-499e-46a0-b1ff-76994d1eb918",
       "name": "Dr. Sanjoy Sinha",
       "degree": "MBBS (DMC), BCS (Health), MS (NITOR), AO-Basic (India)",
       "specialty": "Orthopedic & Traumatology Specialist Surgeon",
@@ -1438,11 +1748,14 @@
         "hospital": "Japan Bangladesh Friendship Hospital",
         "address": "55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi",
         "visitingTime": "4pm to 6pm (Sunday & Tuesday)",
-        "appointmentNumber": "+88029672277"
-      },
-      "id": "c0959f10-91f1-4e01-80b6-0db88041e882"
+        "appointmentNumber": "+88029672277Call Now"
+      }
     },
     {
+      "id": "664e062c-d50f-44dc-b1a7-c1a8cf96ce51",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-syed-al-mahmud-sharif/",
+      "imageId": "01e466ae-ebcb-44d1-a0ab-5d903f3190d6",
       "name": "Dr. Syed Al-Mahmud Sharif",
       "degree": "MBBS, D-Ortho (BSMMU), AO Spine (Advance), MRCP (UK), MRCS (EDIN)",
       "specialty": "Orthopedic, Trauma & Spine Surgeon",
@@ -1452,25 +1765,14 @@
         "hospital": "Islami Bank Hospital, Mirpur",
         "address": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
         "visitingTime": "11am to 1pm & 7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801992346632"
-      },
-      "id": "fd751510-8591-4341-ae97-29efdcb4ed89"
+        "appointmentNumber": "+8801992346632Call Now"
+      }
     },
     {
-      "name": "Dr. AZM Selimullah",
-      "degree": "MBBS, MS (Ortho)",
-      "specialty": "Bone & Joint Specialist",
-      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Dr. AZM Selimullah is a Orthopedic Doctor in Dhaka. His qualification is MBBS, MS (Ortho). He is working as a Bone & Joint Specialist doctor in Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Doyagonj. Practicing hour of Dr. AZM Selimullah at Ibn Sina Diagnostic Center, Doyagonj is 6.30pm to 8.30pm (Closed: Friday).",
-      "chamber": {
-        "hospital": "Ibn Sina Diagnostic Center, Doyagonj",
-        "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
-        "visitingTime": "6.30pm to 8.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801878115751"
-      },
-      "id": "ca75aa9b-3822-4c4a-9664-0a645c984214"
-    },
-    {
+      "id": "0e578d1f-9604-4a3f-b4ea-aba7a8a79e7d",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-abdullahel-wafee-h-kabir/",
+      "imageId": "c75921bd-17f8-417b-a0db-abc1e4a759d3",
       "name": "Dr. Abdullahel Wafee H.Kabir",
       "degree": "MBBS, BCS (Health), D-ORTHO, FCGP (Medicine), PGT (General, Plastic & Hand Surgery)",
       "specialty": "Bone Joint, Trauma Spine Specialist & Surgeon",
@@ -1480,11 +1782,31 @@
         "hospital": "Labaid Diagnostic, Uttara (Unit 02)",
         "address": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662050"
-      },
-      "id": "88943b8d-bf37-48f7-a6be-fc7acd155053"
+        "appointmentNumber": "+8801766662050Call Now"
+      }
     },
     {
+      "id": "e856e158-4c85-4981-8f4f-d78ed6781995",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-azm-selimullah/",
+      "imageId": "1381db8e-6dd9-408f-93ea-1a45eac7214c",
+      "name": "Dr. AZM Selimullah",
+      "degree": "MBBS, MS (Ortho)",
+      "specialty": "Bone & Joint Specialist",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Dr. AZM Selimullah is a Orthopedic Doctor in Dhaka. His qualification is MBBS, MS (Ortho). He is working as a Bone & Joint Specialist doctor in Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Ibn Sina Diagnostic Center, Doyagonj. Practicing hour of Dr. AZM Selimullah at Ibn Sina Diagnostic Center, Doyagonj is 6.30pm to 8.30pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ibn Sina Diagnostic Center, Doyagonj",
+        "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
+        "visitingTime": "6.30pm to 8.30pm (Closed: Friday)",
+        "appointmentNumber": "+8801878115751Call Now"
+      }
+    },
+    {
+      "id": "961a1ab1-c1a0-4c0c-8139-b3c46220479e",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-syed-shahidul-islam-shahid/",
+      "imageId": "6ec287d7-3644-4a0b-9037-2003de9b263f",
       "name": "Prof. Dr. Syed Shahidul Islam (Shahid)",
       "degree": "MBBS, D-ORTHO (NITOR), MS (ORTHO)",
       "specialty": "Orthopedics (Bone, Joint, Arthritis, Spine) Specialist Surgeon",
@@ -1494,11 +1816,14 @@
         "hospital": "Labaid Cancer Hospital & Super Speciality Center",
         "address": "26, Green Road, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666710001"
-      },
-      "id": "2e01db68-16cb-4a2c-875e-9c19a54d894c"
+        "appointmentNumber": "+8809666710001Call Now"
+      }
     },
     {
+      "id": "4781124c-2c95-4221-9900-c70a1902be7c",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-m-h-m-alamgir/",
+      "imageId": "fea1d49c-d029-45df-9510-97e9d98a7df8",
       "name": "Dr. M H M Alamgir",
       "degree": "MBBS, MS (Ortho)",
       "specialty": "Orthopedic Surgeon",
@@ -1508,25 +1833,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "6pm to 8pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "cd1a0ac7-1cff-4650-9933-b05d323247c7"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
-      "name": "Dr. Md. Mustafiz M. Rahman",
-      "degree": "MBBS (DMC), FRCS (UK), FACS (USA)",
-      "specialty": "Orthopedic & Spine Surgeon",
-      "workplace": "Asgar Ali Hospital, Dhaka",
-      "info": "Dr. Md. Mustafiz M. Rahman is a Orthopedic Surgeon in Dhaka. His qualification is MBBS (DMC), FRCS (UK), FACS (USA). He is working as a Orthopedic & Spine Surgeon doctor at Asgar Ali Hospital, Dhaka. He regularly provides treatment to his patients at Asgar Ali Hospital, Dhaka. Practicing hour of Dr. Md. Mustafiz M. Rahman at Asgar Ali Hospital, Dhaka is Unknown. Please call to know visiting hour.",
-      "chamber": {
-        "hospital": "Asgar Ali Hospital, Dhaka",
-        "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
-        "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801787683333"
-      },
-      "id": "2ef0d724-8764-465d-b6f1-e6a6b3747301"
-    },
-    {
+      "id": "d5500b2b-2e91-4c41-bf03-fe424e838b74",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-sazzad-hossain/",
+      "imageId": "140905cf-f5d8-42c9-a28d-97b7216b50d2",
       "name": "Dr. Mohammad Sazzad Hossain",
       "degree": "MBBS, BCS (Health), MS (Ortho-Sugery)",
       "specialty": "Orthopedic Surgeon",
@@ -1536,11 +1850,31 @@
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "4pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "b0e02621-1503-4d0d-9503-f8f86e00f54a"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
+      "id": "bdc7ec24-244a-4628-84c8-81e9d0cca27e",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-mustafiz-m-rahman/",
+      "imageId": "ca1de7b2-066d-4b84-ac59-237cf5a55a5f",
+      "name": "Dr. Md. Mustafiz M. Rahman",
+      "degree": "MBBS (DMC), FRCS (UK), FACS (USA)",
+      "specialty": "Orthopedic & Spine Surgeon",
+      "workplace": "Asgar Ali Hospital, Dhaka",
+      "info": "Dr. Md. Mustafiz M. Rahman is a Orthopedic Surgeon in Dhaka. His qualification is MBBS (DMC), FRCS (UK), FACS (USA). He is working as a Orthopedic & Spine Surgeon doctor at Asgar Ali Hospital, Dhaka. He regularly provides treatment to his patients at Asgar Ali Hospital, Dhaka. Practicing hour of Dr. Md. Mustafiz M. Rahman at Asgar Ali Hospital, Dhaka is Unknown. Please call to know visiting hour.",
+      "chamber": {
+        "hospital": "Asgar Ali Hospital, Dhaka",
+        "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
+        "visitingTime": "Unknown. Please call to know visiting hour",
+        "appointmentNumber": "+8801787683333Call Now"
+      }
+    },
+    {
+      "id": "b35380cb-9507-46f0-9eed-da427e4adbb3",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-ac-saha/",
+      "imageId": "f74e2ee6-7654-48fd-96b6-ac88e59ac822",
       "name": "Dr. AC Saha",
       "degree": "MBBS, D-ORTHO, MS (ORTHO), AO (Trauma), AO (Spine)",
       "specialty": "Orthopedic, Trauma & Spine Surgeon",
@@ -1550,25 +1884,31 @@
         "hospital": "City Hospital Limited, Dhaka",
         "address": "1/8, Block-E, Lalmatia, Satmosjid Road, Mohammadpur, Dhaka – 1207",
         "visitingTime": "4pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801558220134"
-      },
-      "id": "b1ab5d92-0fc3-45c4-b4db-8061ee221f2b"
+        "appointmentNumber": "+8801558220134Call Now"
+      }
     },
     {
+      "id": "119a3bdf-750e-4f96-890f-76a9eef3db15",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-serajus-saleheen/",
+      "imageId": "ab2a3663-9ad6-402c-93f6-c812bbe18b3f",
       "name": "Dr. Mohammad Serajus Saleheen",
       "degree": "MBBS, BCS (Health), MS (Ortho Surgery), FACS (USA)",
       "specialty": "Ortho Oncology, Orthopedic Trauma & Spine Surgery Specialist",
       "workplace": "National Institute of Cancer Research & Hospital",
-      "info": "Aalok Health Care, Mirpur 1\nAddress: 21 Darus Salam Road, Mirpur 1, Dhaka\nVisiting Hour: 8pm to 9.30pm (Closed: Thu & Friday)\nAppointment: +8801915448500\nCall Now",
+      "info": "Aalok Health Care, Mirpur 1 Address: 21 Darus Salam Road, Mirpur 1, Dhaka Visiting Hour: 8pm to 9.30pm (Closed: Thu & Friday) Appointment: +8801915448500 Call Now",
       "chamber": {
         "hospital": "Aalok Healthcare & Hospital, Mirpur 10",
         "address": "House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka",
         "visitingTime": "5pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801307267402"
-      },
-      "id": "e581f6cd-8747-4fe0-9804-84bb06477b31"
+        "appointmentNumber": "+8801307267402Call Now"
+      }
     },
     {
+      "id": "a182571d-e943-4d81-ab0a-65feeb7d1c4a",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-kamal-uddin-ahmed/",
+      "imageId": "5b46a6c2-e317-4eec-8868-ba8e8506254e",
       "name": "Dr. Kamal Uddin Ahmed",
       "degree": "MBBS, MS (ORTHO), FICS (USA)",
       "specialty": "Orthopedics (Bone, Joint, Trauma, Injury) Specialist & Surgeon",
@@ -1578,25 +1918,31 @@
         "hospital": "Popular Diagnostic Center, Shantinagar",
         "address": "Unit # 01, House # 11, Shantinagar, Motijheel, Dhaka",
         "visitingTime": "10am to 1pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787803"
-      },
-      "id": "94155a9c-7db6-4270-9a22-772a9e4612c7"
+        "appointmentNumber": "+8809666787803Call Now"
+      }
     },
     {
+      "id": "00416603-fd4d-41c3-865d-56ec0eab26cd",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-iftekharul-alam/",
+      "imageId": "514f16f1-bdd9-4ea5-80be-714296367802",
       "name": "Dr. Md. Iftekharul Alam",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Orthopedics, Bone, Joint, Pain Specialist & Surgeon",
       "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
-      "info": "Popular Diagnostic Center, Mirpur\nAddress: Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka\nVisiting Hour: 4pm to 7pm (Sat, Mon & Wednesday), 5pm to 8pm (Friday)\nAppointment: +8809666787807\nCall Now",
+      "info": "Popular Diagnostic Center, Mirpur Address: Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka Visiting Hour: 4pm to 7pm (Sat, Mon & Wednesday), 5pm to 8pm (Friday) Appointment: +8809666787807 Call Now",
       "chamber": {
         "hospital": "Delta Hospital, Mirpur",
         "address": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka - 1216",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801301254924"
-      },
-      "id": "b536b097-65b2-4ae6-b694-75ba8f51beb4"
+        "appointmentNumber": "+8801301254924Call Now"
+      }
     },
     {
+      "id": "f2b15130-6eb3-43cf-a5a1-5c50da762b1c",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-merajuddin-molla/",
+      "imageId": "01fdcb9c-f0cd-4bbf-b588-df2fc38325b1",
       "name": "Dr. Md. Meraj Uddin Mollah",
       "degree": "MBBS, BCS (Health), MS (ORTHO)",
       "specialty": "Orthopedics, Ilizarov & Deformity Correction Surgeon",
@@ -1606,11 +1952,14 @@
         "hospital": "Trauma Center Diagnostic & Consultation",
         "address": "22/13, Block # B, Khilji Road, Shyamoli, Dhaka",
         "visitingTime": "3pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801915-474121"
-      },
-      "id": "29a9e328-ff88-469c-b33c-5b65a8c1c1c2"
+        "appointmentNumber": "+8801915-474121Call Now"
+      }
     },
     {
+      "id": "4bbf22f1-ec44-421c-a2f6-7e64bbc4ac34",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-sariful-hasan/",
+      "imageId": "cddade4a-43a3-45a3-92b9-e53f547ebf9e",
       "name": "Dr. Md. Sariful Hasan",
       "degree": "MBBS, MS (Orthopedic Surgery)",
       "specialty": "Orthopedic (Bone, Joint, Arthritis, Trauma, Spine) Specialist & Surgeon",
@@ -1620,11 +1969,14 @@
         "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
         "address": "Jashimuddin Branch, House # 21, Road # 7, Sector # 4, Uttara, Dhaka",
         "visitingTime": "3.30pm to 7.30pm (Closed: Saturday & Friday)",
-        "appointmentNumber": "+8801612140140"
-      },
-      "id": "4ecd193f-f090-49a5-98bb-fe3897494c7e"
+        "appointmentNumber": "+8801612140140Call Now"
+      }
     },
     {
+      "id": "1b8d78fa-12ad-47b1-8535-6bc5368d2cc8",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-asaduzzaman-ortho/",
+      "imageId": "7bbd63db-e9cc-4867-bebf-ba6282bae6e6",
       "name": "Dr. Md. Asaduzzaman",
       "degree": "MBBS, BCS (Health), D-Ortho (Ortho Surgery)",
       "specialty": "Orthopedic Specialist & Trauma Surgeon",
@@ -1634,11 +1986,14 @@
         "hospital": "Labaid Diagnostic, Uttara (Unit 01)",
         "address": "House # 15, Road # 12, Sector # 06, Uttara, Dhaka",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662606"
-      },
-      "id": "68c8ae37-5a08-43f4-891c-ff6829c9faf9"
+        "appointmentNumber": "+8801766662606Call Now"
+      }
     },
     {
+      "id": "3077e5e0-2eb1-404a-be90-74f80faae956",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-mobarak-hossain/",
+      "imageId": "7ea0c73c-3a24-41ab-9875-a641bbb9dd6b",
       "name": "Dr. Md. Mobarak Hossain",
       "degree": "MBBS, BCS (Health), D-ORTHO",
       "specialty": "Orthopedic & Trauma Surgeon",
@@ -1648,11 +2003,14 @@
         "hospital": "Health and Hope Hospital",
         "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
         "visitingTime": "7pm to 9pm (Sun, Mon & Wed)",
-        "appointmentNumber": "+8809611996699"
-      },
-      "id": "be3240a1-83da-4074-a767-510a0e4b2ffb"
+        "appointmentNumber": "+8809611996699Call Now"
+      }
     },
     {
+      "id": "6830f694-c1b0-483a-8469-1b7df1120042",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-a-n-m-harunur-rashid-uzzal/",
+      "imageId": "34fe6376-44d1-4f9c-9f49-9bb317f11e1e",
       "name": "Dr. ANM Harunur Rashid (Uzzal)",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Orthopedics, Trauma & Spine Surgeon",
@@ -1662,11 +2020,14 @@
         "hospital": "BRB Hospital, Dhaka",
         "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "10647"
-      },
-      "id": "485115db-591f-4062-aa3d-3ea54fbd8097"
+        "appointmentNumber": "10647Call Now"
+      }
     },
     {
+      "id": "f9111e87-87a0-45b4-827f-4bdffd177cd8",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-shafiqul-islam/",
+      "imageId": "72a8f4f3-aa48-4dcd-a52e-929c667bf946",
       "name": "Dr. Shafiqul Islam",
       "degree": "MBBS, D-Ortho (NITOR), MS (Ortho)",
       "specialty": "Orthopedic & Spine Surgeon",
@@ -1676,11 +2037,14 @@
         "hospital": "Islami Bank Hospital, Mugda",
         "address": "1/24/B, Kamalapur Manda Road, South Mugdapara, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801724008677"
-      },
-      "id": "ff5a8782-74c9-4445-8e72-87a6e74986b4"
+        "appointmentNumber": "+8801724008677Call Now"
+      }
     },
     {
+      "id": "95e6e916-f26f-4d4b-a64f-4220e9e3f459",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-hasan/",
+      "imageId": "091d039d-669d-4627-8d5c-d2ebc9bc1ad7",
       "name": "Dr. Mohammad Hasan",
       "degree": "MBBS (DHAKA), MS (ORTHO)",
       "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
@@ -1690,11 +2054,14 @@
         "hospital": "Ibn Sina Medical Imaging Center, Zigatola",
         "address": "House # 58, Road # 2A, Zigatola Bus Stand, Dhaka - 1209",
         "visitingTime": "7pm to 9pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801711625173"
-      },
-      "id": "ba3c0af4-8c2b-4b80-9f95-524c3b0a8478"
+        "appointmentNumber": "+8801711625173Call Now"
+      }
     },
     {
+      "id": "1125f4fc-cc3a-489a-b553-62b037ec18d9",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-aminul-haque-pathan/",
+      "imageId": "6bd3df77-fbe8-48ca-aaa1-81e18847dd61",
       "name": "Dr. Md. Aminul Haque Pathan",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Orthopedic Specialist & Trauma Surgeon",
@@ -1704,11 +2071,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Mirpur",
         "address": "House # 11, Haji Road, Avenue 3, Rupnagar, Mirpur 2, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Tuesday & Friday)",
-        "appointmentNumber": "+8801847262996"
-      },
-      "id": "75900d92-9bd2-40d1-8eb1-1e0c68049660"
+        "appointmentNumber": "+8801847262996Call Now"
+      }
     },
     {
+      "id": "9ebd937e-32d5-4cec-a8d5-d2157568736e",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-mamun-ur-rashid/",
+      "imageId": "6fa45cc1-e3c6-4213-846f-6bcb95251925",
       "name": "Dr. Md. Mamun ur Rashid",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Orthopedic Surgeon",
@@ -1718,11 +2088,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "10.30am to 12pm (Closed: SUN, TUE, THU, FRIDAY)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "f61bb096-7bc1-448d-93ef-bdf4d15f7a24"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
+      "id": "f0a76a91-dbb2-4953-bc80-b4614bd3956b",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-golam-mostafa/",
+      "imageId": "ee2d211c-d28d-400a-b41f-ebd5c3b6a1c5",
       "name": "Prof. Dr. Md. Golam Mostafa",
       "degree": "MBBS, BCS (Health), MS (Ortho)",
       "specialty": "Orthopedic & Trauma Surgeon",
@@ -1732,11 +2105,14 @@
         "hospital": "Dogma Hospital, Badda",
         "address": "Cha 88/1, Pragati Sarani, Uttar Badda, Dhaka",
         "visitingTime": "6pm to 8pm (Sun, Tue, Thu & Fri)",
-        "appointmentNumber": "+8801921088076"
-      },
-      "id": "5bbe33b8-d105-4b50-84b6-c61b3aa28a93"
+        "appointmentNumber": "+8801921088076Call Now"
+      }
     },
     {
+      "id": "4058b0e0-7922-4587-a99e-ae6ad575828f",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-ishaq-bhuiyan/",
+      "imageId": "77c555bc-34bf-40f0-9415-4f1924258e1d",
       "name": "Prof Dr. Ishaq Bhuiyan",
       "degree": "MBBS, D-ORTHO, MS (ORTHO)",
       "specialty": "Orthopedic Specialist & Trauma Surgeon",
@@ -1746,11 +2122,14 @@
         "hospital": "Health and Hope Hospital",
         "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
         "visitingTime": "6pm to 9pm (Sun, Mon & Tue)",
-        "appointmentNumber": "+8809611996699"
-      },
-      "id": "058d5c9a-255b-4776-ab96-d794709b735b"
+        "appointmentNumber": "+8809611996699Call Now"
+      }
     },
     {
+      "id": "4129dbff-58c3-47ab-8dcc-567532a00a8f",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-imam-gaziul-haque/",
+      "imageId": "da019a29-9424-4db2-a0b4-73e6d3b80221",
       "name": "Dr. Imam Gaziul Haque",
       "degree": "MBBS, MS (Orthopedic Surgery)",
       "specialty": "Orthopedic Specialist, Arthroplasty & Trauma Surgeon",
@@ -1760,11 +2139,14 @@
         "hospital": "Islami Bank Hospital, Mugda",
         "address": "1/24/B, Kamalapur Manda Road, South Mugdapara, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801724008677"
-      },
-      "id": "142343a6-3eb2-4fd7-ac63-9799b72558aa"
+        "appointmentNumber": "+8801724008677Call Now"
+      }
     },
     {
+      "id": "a9ed4ce5-c6c5-4243-a717-e44c95d1beb5",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-syed-zakir-hossain-biplob/",
+      "imageId": "68f2d4a5-3796-468a-8d47-31f906a8e589",
       "name": "Dr. Syed Zakir Hossain Biplob",
       "degree": "MBBS, MS (Ortho), MPH, AO (SG), AAOS (USA)",
       "specialty": "Orthopedic & Trauma Surgeon",
@@ -1774,11 +2156,14 @@
         "hospital": "Dogma Hospital, Badda",
         "address": "Cha 88/1, Pragati Sarani, Uttar Badda, Dhaka",
         "visitingTime": "3pm to 4pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801921088076"
-      },
-      "id": "c430fbb7-bba1-4ddc-a0a1-374789b82f3e"
+        "appointmentNumber": "+8801921088076Call Now"
+      }
     },
     {
+      "id": "55109753-e3bd-4a18-966d-3d9d515f4db1",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-shoriful-islam/",
+      "imageId": "0233bc7d-e17b-41e7-9d2f-caa6627fb2d8",
       "name": "Dr. Md. Shoriful Islam",
       "degree": "MBBS, D-ORTHO",
       "specialty": "Orthopedics, Bone, Joint, Trauma & Pain Specialist",
@@ -1788,11 +2173,14 @@
         "hospital": "Delta Hospital, Mirpur",
         "address": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka - 1216",
         "visitingTime": "8.30am to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8801301254924"
-      },
-      "id": "33bf8e23-e284-4da1-bdc8-7b58deaf684d"
+        "appointmentNumber": "+8801301254924Call Now"
+      }
     },
     {
+      "id": "5f932d07-aa3d-4ba3-bac3-57ca0cfb8474",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-khorshed-alam-ortho/",
+      "imageId": "0f0d1467-a7ec-4efa-a25f-f7966852743d",
       "name": "Dr. Md. Khorshed Alam",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Bone, Joint, Arthritis Paralysis Specialist & Trauma Surgeon",
@@ -1802,11 +2190,14 @@
         "hospital": "Advance Hospital, Banasree",
         "address": "House # 1, Main Road, Block # F, Banasree, Dhaka",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801999242424"
-      },
-      "id": "d602c0a7-56bb-4419-8260-946b74ff7e1c"
+        "appointmentNumber": "+8801999242424Call Now"
+      }
     },
     {
+      "id": "0a7e615c-8f97-450b-a9f2-61e40d6b23fe",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-monowarul-islam/",
+      "imageId": "b6ff5e59-4370-4a10-be36-2b519fe3db0d",
       "name": "Prof. Dr. Monowarul Islam",
       "degree": "MBBS, MS (Ortho Surgery)",
       "specialty": "Orthopedic Specialist & Trauma Surgeon",
@@ -1816,11 +2207,14 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "9am to 2pm & 7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801819244589"
-      },
-      "id": "b9b02a6f-6ed7-4bb6-a0c9-542d9805e397"
+        "appointmentNumber": "+8801819244589Call Now"
+      }
     },
     {
+      "id": "5936ff2a-90f3-4c29-adaf-e362adcf4c50",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-tanzir-bin-kashem/",
+      "imageId": "564a7a56-f848-455a-8b65-771a1c16898d",
       "name": "Dr. Md. Tanzir Bin Kashem",
       "degree": "MBBS, BCS (Health), MS (Orthopedic Surgery)",
       "specialty": "Bone-Joint, Injury, Orthopedic Specialist & Trauma Surgeon",
@@ -1830,11 +2224,14 @@
         "hospital": "Farazy Hospital, Banasree",
         "address": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
         "visitingTime": "5pm to 7pm (Sun, Tue & Fri)",
-        "appointmentNumber": "+8801882084414"
-      },
-      "id": "ed658d95-8ad1-419a-b0e2-c5e87f12534f"
+        "appointmentNumber": "+8801882084414Call Now"
+      }
     },
     {
+      "id": "1e16a8fd-8646-4059-80bd-ddcd92aca54c",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-zahidur-rahman/",
+      "imageId": "b42c565d-12b1-41e3-a891-40dc10fe0d3d",
       "name": "Prof. Dr. Md. Zahidur Rahman",
       "degree": "MBBS , D-ORTHO, MS (ORTHO) , Fellowship (Spine Surgery) , AO Basic (Spine Surgery)",
       "specialty": "Orthopedics, Arthroplasty, Trauma & Spine Surgeon",
@@ -1844,11 +2241,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801775051124"
-      },
-      "id": "fc95c248-fa93-4f5c-8b6b-d3f1ebd5950c"
+        "appointmentNumber": "+8801775051124Call Now"
+      }
     },
     {
+      "id": "c4941376-4dc0-4276-9dae-603c7c8c12a5",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-khorshed-alam-tanmay/",
+      "imageId": "3ddacf4c-c510-4d8b-bc1f-41f9c3271719",
       "name": "Dr. Khorshed Alam Tanmay",
       "degree": "MBBS, BCS (Health), D-Ortho",
       "specialty": "Orthopedic & Trauma Surgeon",
@@ -1858,11 +2258,14 @@
         "hospital": "Badda General Hospital",
         "address": "107/2, Progati Sarani, Uttar Badda, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801790776722"
-      },
-      "id": "db918d34-13aa-43ca-b82b-333dd99fb2c7"
+        "appointmentNumber": "+8801790776722Call Now"
+      }
     },
     {
+      "id": "ebf49a7b-8fc9-4b38-b6c8-d5d0d9c466db",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-pravas-chandra-saha/",
+      "imageId": "dcc5b8a5-13f7-4292-ab3a-4ff130c076c9",
       "name": "Dr. Pravas Chandra Saha",
       "degree": "MBBS, BCS (Health), MS (Orthopedics), Fellowship Training (Spine Surgery)",
       "specialty": "Orthopedic, Trauma & Spine Specialist Surgeon",
@@ -1872,11 +2275,14 @@
         "hospital": "Savar Prime Hospital",
         "address": "A-89, Thana Road, Talbagh, Savar, Dhaka - 1340",
         "visitingTime": "4pm to 7pm (Sun, Tue, Thu & Fri)",
-        "appointmentNumber": "+8801752561542"
-      },
-      "id": "ec3926d9-d769-4fa7-9ddc-b9820dd5a017"
+        "appointmentNumber": "+8801752561542Call Now"
+      }
     },
     {
+      "id": "66881117-4a6b-4860-a203-d77b54541fa8",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-abdullah-al-mahmud-ortho/",
+      "imageId": "525c7cae-4944-4097-8544-de65efacfc10",
       "name": "Dr. Abdullah Al Mahmud",
       "degree": "MBBS, D-ORTHO",
       "specialty": "Orthopedic & Spine Specialist Surgeon",
@@ -1886,11 +2292,14 @@
         "hospital": "Al-Manar Hospital Limited",
         "address": "Plot # Umo, Block # Rossoi, Satmosjid Road, Dhaka",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801550020885"
-      },
-      "id": "fddc672d-700e-4f39-af96-39174fbaf01c"
+        "appointmentNumber": "+8801550020885Call Now"
+      }
     },
     {
+      "id": "86690c32-018a-486c-bcea-5bbffe8fd612",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-s-m-amir-hossain/",
+      "imageId": "af232ccb-f3c6-4d16-a486-81436ac93936",
       "name": "Prof. Dr. S.M. Amir Hossain",
       "degree": "MBBS, MCPS (Surgery), MS (Ortho)",
       "specialty": "Orthopedics, Trauma, Spine & Arthoplasty Surgeon",
@@ -1900,11 +2309,14 @@
         "hospital": "Impulse Hospital, Dhaka",
         "address": "304/E, Bir Uttam Mir Shawkat Sarak, Tejgaon, Dhaka",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801313434425"
-      },
-      "id": "5fa2c878-4efd-4702-82b5-991d1cd22f47"
+        "appointmentNumber": "+8801313434425Call Now"
+      }
     },
     {
+      "id": "3c853027-5a92-4ed7-b610-929f063a8251",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/brig-gen-prof-dr-a-k-m-masud/",
+      "imageId": "8c9cc84f-3812-4fe3-a355-daeeb97b4326",
       "name": "Brig. Gen. Prof. Dr. A.K.M. Masud",
       "degree": "MBBS, MS (Ortho Surgery), Specialized Training (India)",
       "specialty": "Orthopedic Specialist & Trauma Surgeon",
@@ -1914,11 +2326,14 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801711562089"
-      },
-      "id": "8463ca86-4e70-4514-825e-70d309c4f993"
+        "appointmentNumber": "+8801711562089Call Now"
+      }
     },
     {
+      "id": "592a9c29-d83b-4441-9555-a884329618a4",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-moshiur-rahman-ortho/",
+      "imageId": "3c214307-58d1-4573-b8d9-5d9a4b3a8d6a",
       "name": "Dr. Md. Moshiur Rahman",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
@@ -1928,11 +2343,14 @@
         "hospital": "Aalok Health Care, Pallabi",
         "address": "2/6 Begum Rokeya Avenue, Pallabi, Mirpur 11.5, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801825002867"
-      },
-      "id": "3c396cba-5f68-4506-a400-21259e98c83c"
+        "appointmentNumber": "+8801825002867Call Now"
+      }
     },
     {
+      "id": "112fb140-7701-4b8f-af50-a8b2c1d126c9",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-reza-hossain-khan/",
+      "imageId": "9a8f9d20-480b-41e2-9a99-1b19bbc1f172",
       "name": "Dr. Mohammad Reza Hossain Khan",
       "degree": "MBBS (DU), BCS (Health), MS (ORTHO)",
       "specialty": "Orthopedic (Bone, Joint, Arthritis) Specialist, Trauma & Spine Surgeon",
@@ -1942,11 +2360,14 @@
         "hospital": "Advance Hospital, Banasree",
         "address": "House # 1, Main Road, Block # F, Banasree, Dhaka",
         "visitingTime": "6pm to 10pm (Everyday)",
-        "appointmentNumber": "+8801999242424"
-      },
-      "id": "a1938462-a620-4caf-ab61-ec1791428328"
+        "appointmentNumber": "+8801999242424Call Now"
+      }
     },
     {
+      "id": "4ffb7bda-5458-4e36-a6c5-8540e01e9241",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-sheik-asraf-ullah/",
+      "imageId": "c184c4d3-efdf-4009-9b3f-6b5a03d663d5",
       "name": "Dr. Sheik Asraf Ullah",
       "degree": "MBBS, D-Ortho",
       "specialty": "Orthopedic Surgeon",
@@ -1956,11 +2377,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Malibagh",
         "address": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
         "visitingTime": "4.30pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801844141717"
-      },
-      "id": "fa0ed1ca-8f9c-4c9b-a7b7-85dee4886580"
+        "appointmentNumber": "+8801844141717Call Now"
+      }
     },
     {
+      "id": "20144aef-b25b-4c04-ba16-ae9fa6cdcffd",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-kazi-mizanur-rahman/",
+      "imageId": "a41945de-957a-49ac-a8d1-4e4ac57b6f28",
       "name": "Dr. Kazi Mizanur Rahman",
       "degree": "MBBS (DMC), BCS (Health), MS (Orthopedic)",
       "specialty": "Arthritis, Orthopedic & Trauma Specialist Surgeon",
@@ -1970,11 +2394,14 @@
         "hospital": "Islami Bank Specialized & General Hospital, Nayapaltan",
         "address": "71-72, VIP Road, Nayapaltan, Dhaka",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801977552283"
-      },
-      "id": "597f8f1f-73c9-423e-adfa-3e65b8039860"
+        "appointmentNumber": "+8801977552283Call Now"
+      }
     },
     {
+      "id": "f55f5036-13a0-438a-aeaa-29b801b9d813",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-saifullah-al-noman/",
+      "imageId": "13d81ea4-92fa-4ef4-afdc-49c91b982f17",
       "name": "Dr. Saifullah Al Noman",
       "degree": "MBBS, BCS (Health), D-ORTHO (NITOR)",
       "specialty": "Orthopedics (Bone, Joint, Arthritis, Spine, Paralysis) Specialist & Surgeon",
@@ -1984,11 +2411,14 @@
         "hospital": "Medinova Medical Services, Mirpur",
         "address": "Plot # 29-30, Block # Kha, Road # 1, Section # 6, Mirpur 10, Dhaka",
         "visitingTime": "7pm to 9pm (Sun, Mon, Tue & Wed)",
-        "appointmentNumber": "+8801300550448"
-      },
-      "id": "f7e5c0c7-8dfc-4c0d-863d-dc10f9a6900f"
+        "appointmentNumber": "+8801300550448Call Now"
+      }
     },
     {
+      "id": "be46d64d-fc86-4c43-88ff-ad0f0a3bcc08",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-masud-rana-ortho/",
+      "imageId": "3b25adde-791f-4786-93ae-b60e42c26353",
       "name": "Dr. Md. Masud Rana",
       "degree": "MBBS, MS (Orthopedic Surgery)",
       "specialty": "Orthopedic, Trauma & Spine Specialist Surgeon",
@@ -1998,11 +2428,14 @@
         "hospital": "Labaid Cancer Hospital & Super Speciality Center",
         "address": "26, Green Road, Dhaka",
         "visitingTime": "5pm to 7pm (Closed: Mon & Friday)",
-        "appointmentNumber": "+8809666710001"
-      },
-      "id": "441e179f-3e15-4deb-92c2-100ec8fb8c6f"
+        "appointmentNumber": "+8809666710001Call Now"
+      }
     },
     {
+      "id": "169e9719-f1cf-4e8b-a0a7-5599e2dbc474",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-major-abdul-mannan/",
+      "imageId": "0fa84790-6443-4fb1-83e8-8e7ad29d24d3",
       "name": "Prof. Dr. Major Abdul Mannan",
       "degree": "MBBS, PGC (Surgery), MS (Ortho), Fellow (India)",
       "specialty": "Orthopedic & Trauma Surgeon",
@@ -2012,11 +2445,14 @@
         "hospital": "Asgar Ali Hospital, Dhaka",
         "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801787683333"
-      },
-      "id": "5f2a822a-acad-4626-ba89-2d5781e9555a"
+        "appointmentNumber": "+8801787683333Call Now"
+      }
     },
     {
+      "id": "5722199c-40fc-4406-8f3b-08457af356e3",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-a-m-shamimul-haque/",
+      "imageId": "2cd7ad81-0a65-4e1e-b495-b13da31d8226",
       "name": "Prof. Dr. A M Shamimul Haque",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Orthopedic & Trauma Surgeon",
@@ -2026,11 +2462,14 @@
         "hospital": "Padma Diagnostic Center, Malibagh",
         "address": "245/2 New Circular Road, West Malibagh, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809617444222"
-      },
-      "id": "87655dad-c4ea-49f4-a06b-5639919d3c00"
+        "appointmentNumber": "+8809617444222Call Now"
+      }
     },
     {
+      "id": "9dddd2eb-0b38-4f11-9480-7c5bce81ad26",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-mizanur-rahman-kallol/",
+      "imageId": "f4602f44-59fa-4f57-90d5-dcb96e85cf02",
       "name": "Dr. Mizanur Rahman Kallol",
       "degree": "MBBS, D-Ortho (BSMMU), PhD (USA)",
       "specialty": "Orthopedic Surgeon",
@@ -2040,11 +2479,14 @@
         "hospital": "Asgar Ali Hospital, Dhaka",
         "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801787683333"
-      },
-      "id": "e15c2ebc-a677-421d-aa77-df499fd6353b"
+        "appointmentNumber": "+8801787683333Call Now"
+      }
     },
     {
+      "id": "58e346fe-b1e3-4779-bc1d-ad7b39384976",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-sheikh-forhad/",
+      "imageId": "2da5972e-bb5c-43bf-9659-4f3ed2816b90",
       "name": "Dr. Sheikh Forhad",
       "degree": "MBBS (SSMC), MS (ORTHO)",
       "specialty": "Orthopedic Specialist & Trauma Surgeon",
@@ -2054,11 +2496,14 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "5pm to 8.30pm (Everyday)",
-        "appointmentNumber": "+8801762717505"
-      },
-      "id": "9bfa5e0b-d174-4779-8b71-9538827e9f64"
+        "appointmentNumber": "+8801762717505Call Now"
+      }
     },
     {
+      "id": "8dd81800-9d2d-4067-a3bb-e02fdc9e47dd",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-hasibuzzaman/",
+      "imageId": "c1fa700c-d363-46e6-9647-a149dc10a44b",
       "name": "Dr. Md. Hasibuzzaman",
       "degree": "MBBS (DMC), MRCS (Edinburgh), MS (Orthopedic Surgery)",
       "specialty": "Orthopedic, Trauma & Spine Surgeon",
@@ -2068,11 +2513,14 @@
         "hospital": "Bangladesh Spine & Orthopedic Hospital",
         "address": "10, Main Road, Kallayanpur (Bus Stand), Dhaka - 1216",
         "visitingTime": "7pm to 10pm (Mon, Tue & Wednesday)",
-        "appointmentNumber": "+8801674122376"
-      },
-      "id": "b0441a24-1b8f-44d3-b986-56c9640e8faf"
+        "appointmentNumber": "+8801674122376Call Now"
+      }
     },
     {
+      "id": "cfb8520d-63f2-4bfb-951d-28e94e66f68f",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-monaim-hossen/",
+      "imageId": "02634671-92aa-42ca-abbd-f6f77101e2fd",
       "name": "Prof. Dr. Monaim Hossen",
       "degree": "MBBS, MS (ORTHO), FACS (USA)",
       "specialty": "Orthopedics, Arthroplasty & Arthroscopy Surgeon",
@@ -2082,11 +2530,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801796640611"
-      },
-      "id": "b0393f13-0bbe-4ae2-a41e-d335f13ceb26"
+        "appointmentNumber": "+8801796640611Call Now"
+      }
     },
     {
+      "id": "a8111299-1a27-4e0b-a7f8-19eb91468072",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-fayez-ahmed/",
+      "imageId": "da241a36-86c9-4987-b871-e43194d554f8",
       "name": "Dr. Md. Fayez Ahmed",
       "degree": "MBBS (Dhaka), BCS (Health), D-Ortho (BSMMU), MS-Ortho (BSMMU)",
       "specialty": "Orthopedics, Bone, Joint, Trauma Specialist & Surgeon",
@@ -2096,11 +2547,14 @@
         "hospital": "Al-Manar Hospital Limited",
         "address": "Plot # Umo, Block # Rossoi, Satmosjid Road, Dhaka",
         "visitingTime": "3pm to 6pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801711-891027"
-      },
-      "id": "c4cedab9-ea6d-4f09-aeb3-06b70d3ef636"
+        "appointmentNumber": "+8801711-891027Call Now"
+      }
     },
     {
+      "id": "4e4aef01-b874-415a-9e6e-5e2e36ecf30e",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-k-m-rafiqul-islam-shetu/",
+      "imageId": "96340bfa-b8f5-4c35-9afb-8983b93e82c5",
       "name": "Dr. K M Rafiqul Islam Shetu",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Orthopedic & Spine Surgeon",
@@ -2110,11 +2564,14 @@
         "hospital": "Padma Diagnostic Center, Malibagh",
         "address": "245/2 New Circular Road, West Malibagh, Dhaka",
         "visitingTime": "7pm to 9pm (Sat, Sun, Tue & Wed)",
-        "appointmentNumber": "+8809617444222"
-      },
-      "id": "f030e6e7-6722-47b5-ae2e-be7c2f150a10"
+        "appointmentNumber": "+8809617444222Call Now"
+      }
     },
     {
+      "id": "6e49f1a1-fcf4-4c6e-82f1-ea767799f8d0",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-sheikh-borhan-uddin/",
+      "imageId": "50000ef3-5b17-43a4-8e7d-e44d61a25b47",
       "name": "Dr. Sheikh Borhan Uddin",
       "degree": "MBBS, MS (Ortho Surgery)",
       "specialty": "Orthopedic Surgeon",
@@ -2124,11 +2581,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Malibagh",
         "address": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
         "visitingTime": "10am to 12pm (Closed: Sun, Mon & Tue)",
-        "appointmentNumber": "+8801844141717"
-      },
-      "id": "2d7e57af-2f0a-46ee-87b2-71726ba44520"
+        "appointmentNumber": "+8801844141717Call Now"
+      }
     },
     {
+      "id": "91fbf742-9d50-4ecb-9da4-90e5197a2c42",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-shahriar-rahman/",
+      "imageId": "45914f54-f182-4845-994c-600ad8933de2",
       "name": "Dr. Mohammad Shahriar Rahman",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Orthopedics (Bone, Joint, Arthroplasty, Musculoskeletal Tumor, Sports Injury) Specialist",
@@ -2138,11 +2598,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "4pm to 9.30pm (Everyday)",
-        "appointmentNumber": "+8801711019087"
-      },
-      "id": "4084c728-9e90-4258-95d5-2bd957d16580"
+        "appointmentNumber": "+8801711019087Call Now"
+      }
     },
     {
+      "id": "3dbfb574-a258-4d81-a4eb-5753159cd9e2",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-tanmoy-kairy/",
+      "imageId": "ba1a6ff0-f7a2-4001-b0d3-d3f40a395778",
       "name": "Dr. Tanmoy Kairy",
       "degree": "MBBS, D-ORTHO",
       "specialty": "Orthopedics, Trauma, Hand & Micro Surgery Specialist",
@@ -2152,11 +2615,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "10am to 12pm (Closed: Sat & Friday)",
-        "appointmentNumber": "+8801302756352"
-      },
-      "id": "d0b9c20d-479f-4223-ab30-c7328f6bda7f"
+        "appointmentNumber": "+8801302756352Call Now"
+      }
     },
     {
+      "id": "48aa4074-392a-4b27-a29e-017f79c13d88",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-abdul-khaleque/",
+      "imageId": "327e75c4-eadc-45d9-9635-ebec19dcf0f5",
       "name": "Dr. Abdul Khaleque",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Orthopedic, Ilizarov, Trauma & Reconstructive Surgeon",
@@ -2166,11 +2632,14 @@
         "hospital": "Farazy Hospital, Banasree",
         "address": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
         "visitingTime": "7.30pm to 10pm (Wed & Thursday)",
-        "appointmentNumber": "+8801882084414"
-      },
-      "id": "c21ed3bc-ce74-4276-a969-7ded7c584ded"
+        "appointmentNumber": "+8801882084414Call Now"
+      }
     },
     {
+      "id": "ae7340ba-1c87-4c57-b566-e693f308babc",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-asadullah-ripon/",
+      "imageId": "f30edf16-f727-44b0-bf45-f92ec857856c",
       "name": "Dr. Mohammad Asadullah Ripon",
       "degree": "MBBS (DMC), D-ORTHO (NITOR), Fellow in Hand (UK), AO Fellow (China)",
       "specialty": "Orthopedic & Trauma Surgeon",
@@ -2180,11 +2649,14 @@
         "hospital": "Enam Medical College & Hospital",
         "address": "9/3 Parboti Nagar, Thana Road, Savar, Dhaka",
         "visitingTime": "8am to 2.30pm & 5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801716358146"
-      },
-      "id": "a5439f00-f7c0-402a-9b82-8028707144e7"
+        "appointmentNumber": "+8801716358146Call Now"
+      }
     },
     {
+      "id": "9932218d-54ec-42fd-b9e1-c648027cd2ab",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-mahfuzur-rahman/",
+      "imageId": "326ee714-26de-4fad-934e-8451479d2e67",
       "name": "Dr. Mohammad Mahfuzur Rahman",
       "degree": "MBBS, D-ORTHO (NITOR), MS (ORTHO), AO Basic (Dhaka), AO Advance (India)",
       "specialty": "Orthopedics, Trauma & Spine Surgeon",
@@ -2194,11 +2666,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "5pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801636730442"
-      },
-      "id": "74a0f9bf-fb2b-49dd-b8c0-8cb40df810b7"
+        "appointmentNumber": "+8801636730442Call Now"
+      }
     },
     {
+      "id": "d4d96c4f-0ebc-4b77-b2d4-b4294745ffd9",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-ainul-islam-joarder/",
+      "imageId": "9b198999-140a-4166-bbc1-34c37d87a821",
       "name": "Dr. Ainul Islam Joarder",
       "degree": "MBBS, D-ORTHO (NITOR)",
       "specialty": "Orthopedic & Trauma Specialist Surgeon",
@@ -2208,11 +2683,14 @@
         "hospital": "Al-Manar Hospital Limited",
         "address": "Plot # Umo, Block # Rossoi, Satmosjid Road, Dhaka",
         "visitingTime": "10am to 1pm (Sat, Sun & Mon)",
-        "appointmentNumber": "+8801550020885"
-      },
-      "id": "745ee822-9f25-4d88-a5a8-7b86773add85"
+        "appointmentNumber": "+8801550020885Call Now"
+      }
     },
     {
+      "id": "4a0f91bc-98fe-42b7-abe0-d25d8ef66244",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-suman-kumar-roy/",
+      "imageId": "d7822911-1a89-40a2-a9c8-d780c7e8cb4d",
       "name": "Dr. Suman Kumar Roy",
       "degree": "MBBS, MS (ORTHO), FACS (USA)",
       "specialty": "Hip, Knee, Joint Replacement, Hand & Pediatric Orthopedic Surgeon",
@@ -2222,11 +2700,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "5pm to 9pm (Sat, Mon, Tue & Wed)",
-        "appointmentNumber": "+8801926684160"
-      },
-      "id": "2dcb80c4-6fd0-4247-95a7-1e5aeb6f2d21"
+        "appointmentNumber": "+8801926684160Call Now"
+      }
     },
     {
+      "id": "cd4dc79f-d0ce-4b22-9c2a-15e58b6f6271",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-javed-rasheed/",
+      "imageId": "a1bfada5-d798-46c5-a482-31f96448da37",
       "name": "Dr. Md. Javed Rasheed",
       "degree": "MBBS, MS (Orthopedics), PGT (Surgery)",
       "specialty": "Orthopedic & Trauma Surgeon",
@@ -2236,11 +2717,14 @@
         "hospital": "Bangladesh Specialized Hospital",
         "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8809666700100"
-      },
-      "id": "653d660a-f0af-4573-9c38-e072a6c1f351"
+        "appointmentNumber": "+8809666700100Call Now"
+      }
     },
     {
+      "id": "33d965bd-5215-47ea-9c43-c31b4af8a0db",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-dewan-nurul-islam/",
+      "imageId": "b320b597-9d9e-4424-b647-314434208258",
       "name": "Dr. Dewan Nurul Islam",
       "degree": "MBBS (DMC), BCS (Health), MS (Ortho Surgery)",
       "specialty": "Orthopedic Specialist & Trauma Surgeon",
@@ -2250,11 +2734,14 @@
         "hospital": "Savar Prime Hospital",
         "address": "A-89, Thana Road, Talbagh, Savar, Dhaka - 1340",
         "visitingTime": "4pm to 7pm (Sat & Wed) 10am to 1pm (Fri)",
-        "appointmentNumber": "+8801752561542"
-      },
-      "id": "301c35c3-0a12-4377-ac93-7d35b8911416"
+        "appointmentNumber": "+8801752561542Call Now"
+      }
     },
     {
+      "id": "4b04a865-3b43-43b4-8e31-bb0b47c602ee",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-omar-faruque-golam-kibria/",
+      "imageId": "4af60e59-ec9b-4d90-b702-463f9a3e6373",
       "name": "Dr. Md. Omar Faruque Golam Kibria",
       "degree": "MBBS, MS (Ortho), AO Fellow (Trauma), Fellow (AIIMS)",
       "specialty": "Hand & Replacement Surgery Specialist",
@@ -2264,11 +2751,14 @@
         "hospital": "Japan Bangladesh Friendship Hospital",
         "address": "55 Satmasjid Road, Zigatola Bus Stand, Dhanmondi",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+88029672277"
-      },
-      "id": "318ff11f-44b6-4dc8-95f7-4aa08c76dbef"
+        "appointmentNumber": "+88029672277Call Now"
+      }
     },
     {
+      "id": "4ebd52e3-d26f-4247-9fa8-293327b52d8e",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-johurul-hoque/",
+      "imageId": "33b9df3c-94c9-4040-b533-72415436991c",
       "name": "Prof. Dr. Md. Johurul Hoque",
       "degree": "MBBS, D-Ortho (DU), A.O. (Trauma)",
       "specialty": "Orthopedics (Pain, Joint, Arthritis & Fracture) Specialist & Surgeon",
@@ -2278,11 +2768,14 @@
         "hospital": "Momtaj Trauma Center",
         "address": "56, Block-A (2nd Floor), Road-03, Dhaka Real Estate Kaderabad Housing, Mohammadpur, Dhaka",
         "visitingTime": "5pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801332547750, +8801332547751, +8801844080671"
-      },
-      "id": "af547cb6-6351-425d-b3d3-3cb4d7574da4"
+        "appointmentNumber": "+8801332547750, +8801332547751, +8801844080671Call Now"
+      }
     },
     {
+      "id": "670fb7ae-1d59-4e1b-95db-9a54b636aef6",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/lt-col-dr-md-zamil-zaidur-rahim/",
+      "imageId": "6975ff61-fbd1-4fbb-9c0f-de21428b7a92",
       "name": "Lt. Col. (Dr.) Md. Zamil Zaidur Rahim",
       "degree": "MBBS, MS (Orthopedics)",
       "specialty": "Orthopedic, Trauma, Arthroplasty & Arthroscopy Surgeon",
@@ -2292,11 +2785,31 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10678"
-      },
-      "id": "310264a8-8766-4269-aa60-a0fec2848695"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "eb8cc984-264d-4cac-a727-823b06e6b27f",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-rafiqul-islam/",
+      "imageId": "12e929ef-6d53-4afb-a2e8-ce357834b898",
+      "name": "Dr. Muhammad Rafiqul Islam",
+      "degree": "MBBS (MMC), MS (ORTHO) NITOR, AO Trauma (Basic) BD, AO Trauma (Advance) Singapore",
+      "specialty": "Arthroscopy, Arthroplasty, Trauma & Orthopedic Surgeon",
+      "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
+      "info": "US Model Hospital & Diagnostic Centre, Madaripur Address: Takerhat Bazar, (Simultola), Rajoir, Madaripur Visiting Hour: 9am to 7pm (Only Friday) Appointment: 01712105649, 01718569268, 01780380904 Call Now",
+      "chamber": {
+        "hospital": "Islami Bank Hospital, Mirpur",
+        "address": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
+        "visitingTime": "4pm to 7.30pm (Sunday & Tuesday), 5pm to 10pm (Monday & Wednesday)",
+        "appointmentNumber": "01844610513, 01844610514, 01844610515, 01844610516Call Now"
+      }
+    },
+    {
+      "id": "5963fca2-c860-4b0d-8252-46be7d1a0102",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-abdus-samad/",
+      "imageId": "58d24108-bdc4-41e8-b5ad-8ccb9f72fed6",
       "name": "Prof. Dr. M. Abdus Samad",
       "degree": "MBBS, D-ORTHO, MS (ORTHO), FELLOW (ORTHO)",
       "specialty": "Orthopedic (Bone, Joint, Arthritis, Trauma) Specialist & Surgeon",
@@ -2306,39 +2819,14 @@
         "hospital": "Samorita Hospital Ltd, Panthapath",
         "address": "89/1, Panthapath, Dhaka - 1215, Bangladesh",
         "visitingTime": "11am to 1pm (Closed: Friday)",
-        "appointmentNumber": "10674"
-      },
-      "id": "eac227b1-5ffe-4209-b57f-9863e240a4bf"
+        "appointmentNumber": "10674Call Now"
+      }
     },
     {
-      "name": "Dr. Muhammad Rafiqul Islam",
-      "degree": "MBBS (MMC), MS (ORTHO) NITOR, AO Trauma (Basic) BD, AO Trauma (Advance) Singapore",
-      "specialty": "Arthroscopy, Arthroplasty, Trauma & Orthopedic Surgeon",
-      "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
-      "info": "US Model Hospital & Diagnostic Centre, Madaripur\nAddress: Takerhat Bazar, (Simultola), Rajoir, Madaripur\nVisiting Hour: 9am to 7pm (Only Friday)\nAppointment: 01712105649, 01718569268, 01780380904\nCall Now",
-      "chamber": {
-        "hospital": "Islami Bank Hospital, Mirpur",
-        "address": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
-        "visitingTime": "4pm to 7.30pm (Sunday & Tuesday), 5pm to 10pm (Monday & Wednesday)",
-        "appointmentNumber": "01844610513, 01844610514, 01844610515, 01844610516"
-      },
-      "id": "de356f68-feed-443d-b592-bb71a4c7d31c"
-    },
-    {
-      "name": "Professor Dr. Noor Mohammad",
-      "degree": "MBBS, D-Ortho (DU), MS-Ortho (BSMMU)",
-      "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
-      "workplace": "International Medical College & Hospital, Gazipur",
-      "info": "Ibn Sina Medical College Hospital, Kallyanpur\nAddress: 1/1 B, Kallyanpur, Dhaka\nVisiting Hour: 10am to 1pm (Closed: Friday)\nAppointment: +8801710-562467\nCall Now",
-      "chamber": {
-        "hospital": "Labaid Diagnostic, Mirpur",
-        "address": "Plot # 09, Block # B, Section # 01, Mirpur, Dhaka",
-        "visitingTime": "5pm to 7pm (Sat to Thu), 6pm to 8pm (Fri)",
-        "appointmentNumber": "+8801710-562467"
-      },
-      "id": "115859db-8b33-434d-9d10-96536304bf87"
-    },
-    {
+      "id": "f8390e2b-9305-4bfd-8ef2-c71e3f52a7d8",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-nabil-zunayed-sidny/",
+      "imageId": "c5155b0d-d80b-435c-987b-44a1e0fdda8f",
       "name": "Dr. Nabil Zunayed Sidny",
       "degree": "MBBS, D-ORTHO (BSSMU)",
       "specialty": "Orthopedic (Bone, Joint, Arthritis, Trauma) Specialist & Surgeon",
@@ -2348,11 +2836,31 @@
         "hospital": "Labaid Diagnostic, Uttara (Unit 02)",
         "address": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
         "visitingTime": "4pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662050"
-      },
-      "id": "3882d7f6-38f5-46e3-85e2-ba8638badc5c"
+        "appointmentNumber": "+8801766662050Call Now"
+      }
     },
     {
+      "id": "9bee461f-ef3d-4f24-8f83-66f344e1bdb0",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-noor-mohammad/",
+      "imageId": "b06296c9-7eeb-4ee2-b004-69c03ce44db7",
+      "name": "Professor Dr. Noor Mohammad",
+      "degree": "MBBS, D-Ortho (DU), MS-Ortho (BSMMU)",
+      "specialty": "Orthopedics (Bone, Joint, Trauma, Spine) Specialist & Surgeon",
+      "workplace": "International Medical College & Hospital, Gazipur",
+      "info": "Ibn Sina Medical College Hospital, Kallyanpur Address: 1/1 B, Kallyanpur, Dhaka Visiting Hour: 10am to 1pm (Closed: Friday) Appointment: +8801710-562467 Call Now",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Mirpur",
+        "address": "Plot # 09, Block # B, Section # 01, Mirpur, Dhaka",
+        "visitingTime": "5pm to 7pm (Sat to Thu), 6pm to 8pm (Fri)",
+        "appointmentNumber": "+8801710-562467Call Now"
+      }
+    },
+    {
+      "id": "d4576aba-d879-42d1-b4d2-614690dcf733",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-asim-chandra-ghosh/",
+      "imageId": "950e4206-c3aa-46c3-97c0-7f547e849a64",
       "name": "Dr. Asim Chandra Ghosh",
       "degree": "MBBS (Dhaka), BCS (Health), D-ORTHO",
       "specialty": "Orthopedics Specialist& Trauma Surgeon",
@@ -2362,11 +2870,14 @@
         "hospital": "Labaid Diagnostic, Uttara (Unit 02)",
         "address": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801766662050"
-      },
-      "id": "e37c62be-10f2-4ec2-ab7d-199b96d5141e"
+        "appointmentNumber": "+8801766662050Call Now"
+      }
     },
     {
+      "id": "fbd93da8-a46d-43a5-940a-01106f5a978b",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-md-ehteshamul-choudhury-romu/",
+      "imageId": "0114f6f3-8d29-4b05-8cb0-21bafa649c3d",
       "name": "Dr. Md. Ehteshamul Choudhury (Romu)",
       "degree": "MBBS, MS-Ortho (NITOR), AO Trauma Advanced (India)",
       "specialty": "Orthopedics (Bone, Joint, Spine) Specialist & Trauma Surgeon",
@@ -2376,11 +2887,14 @@
         "hospital": "Popular Diagnostic Center, Shantinagar",
         "address": "Bhaban 2, House # 15, Shantinagar, Motijheel, Dhaka",
         "visitingTime": "7pm to 9:30pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787803"
-      },
-      "id": "17aa2adb-ca4a-410f-a61c-77e3caaaa4bb"
+        "appointmentNumber": "+8809666787803Call Now"
+      }
     },
     {
+      "id": "d6a1c36d-331a-4c47-ab4e-1fe104824948",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-golam-mahbub-chowdhury/",
+      "imageId": "29ac2c7f-45de-4fb7-be72-e9050d4ef2cf",
       "name": "Dr. Golam Mahbub Chowdhury",
       "degree": "MBBS, BCS (Health), MS (Orthopedic Surgery)",
       "specialty": "Orthopedic, Trauma, Spine & Arthroscopy Specialist Surgeon",
@@ -2390,11 +2904,14 @@
         "hospital": "Labaid Diagnostic, Malibagh",
         "address": "House # B65, Chowdhury Para, Malibagh, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662555"
-      },
-      "id": "0fc42b9b-0573-470d-9c08-96d22e0a9135"
+        "appointmentNumber": "+8801766662555Call Now"
+      }
     },
     {
+      "id": "4f9ccdeb-9bbd-409c-b1c9-89233b532bd1",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-shakeel-akhter/",
+      "imageId": "6307d4ab-a996-40da-ba9e-7732c12a5429",
       "name": "Prof. Dr. Shakeel Akhter",
       "degree": "MBBS, MS (Orthopedics)",
       "specialty": "Orthopedic & Trauma Surgeon",
@@ -2404,11 +2921,14 @@
         "hospital": "Health and Hope Hospital",
         "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
         "visitingTime": "7pm to 9pm (Sat, Mon, Tue & Thu)",
-        "appointmentNumber": "+8809611996699"
-      },
-      "id": "fb055857-43e8-46c0-9291-750c0e5b5bbd"
+        "appointmentNumber": "+8809611996699Call Now"
+      }
     },
     {
+      "id": "e1ef5df0-9102-47bc-964a-ad12e607d5d7",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-nurul-alam-siddique-pavel/",
+      "imageId": "efb37802-870e-467c-b2ea-c17bdbdd46b1",
       "name": "Dr. Nurul Alam Siddique (Pavel)",
       "degree": "MBBS, BCS (Health), D-Ortho (NITOR)",
       "specialty": "Orthopedics (Bone, Joint, Spine) Specialist & Trauma Surgeon",
@@ -2418,11 +2938,14 @@
         "hospital": "Mirpur General Hospital & Diagnostic Center",
         "address": "Plot - 10, Road - 4/5, Section - 12, Kalshi Road, Mirpur, Dhaka",
         "visitingTime": "6.30pm to 7.30pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801610964966"
-      },
-      "id": "d42c8147-d4fa-400f-b00a-e3050b6e6fbf"
+        "appointmentNumber": "+8801610964966Call Now"
+      }
     },
     {
+      "id": "0571c3ef-2dfc-4749-a652-c0e00537a778",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-r-karim-reza/",
+      "imageId": "7afd7a20-633c-4802-a8c5-55aa64307895",
       "name": "Prof. Dr. M R Karim (Reza)",
       "degree": "MBBS, BCS (Health), MS (Ortho), FACS (USA)",
       "specialty": "Spine & Orthopedic Specialist and Surgeon",
@@ -2432,11 +2955,14 @@
         "hospital": "Popular Diagnostic Center, Shyamoli",
         "address": "Opposite to Shyamoli Shishu Mela, Babor Road, Mohammadpur, Dhaka",
         "visitingTime": "2.30pm to 4pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787806"
-      },
-      "id": "cec1ff75-c5e6-4d46-902f-8b59d6aec8b3"
+        "appointmentNumber": "+8809666787806Call Now"
+      }
     },
     {
+      "id": "4b15f708-5320-47fc-ba19-2573798c1485",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-h-tofayel-biplob/",
+      "imageId": "68a91b3d-b45f-445e-9289-f4ea251ec0d3",
       "name": "Prof. Dr. M.H. Tofayel (Biplob)",
       "degree": "MBBS, MS (Ortho Surgery), FACS (USA)",
       "specialty": "Bone, Joint, Arthritis, Spine, Joint Replacement, Pelvic Acetabular Surgeon",
@@ -2446,11 +2972,14 @@
         "hospital": "Digilab Medical Services Ltd, Mirpur",
         "address": "House # 02, Road # 06, Block # A, Mirpur-10, Dhaka",
         "visitingTime": "7pm to 9pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801626792323"
-      },
-      "id": "1c41fb51-0b26-4301-90ec-f67744f071c8"
+        "appointmentNumber": "+8801626792323Call Now"
+      }
     },
     {
+      "id": "c544dac6-4aa2-43d2-be84-19478169c192",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-g-m-ruhul-quddus/",
+      "imageId": "7f363994-d430-4de0-a6fa-74de11812207",
       "name": "Dr. G.M. Ruhul Quddus",
       "degree": "MBBS, D-Ortho (BSMMU)",
       "specialty": "Orthopedics (Bone, Joint, Spine) Specialist & Trauma Surgeon",
@@ -2460,11 +2989,14 @@
         "hospital": "Digilab Medical Services Ltd, Mirpur",
         "address": "House # 146, Road # 02, Block # B, Pallabi, Mirpur-12, Dhaka",
         "visitingTime": "8.30pm to 9.30pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801626792323"
-      },
-      "id": "4daea5f6-11ea-461c-8282-52047418572f"
+        "appointmentNumber": "+8801626792323Call Now"
+      }
     },
     {
+      "id": "8fab3047-1c6a-4528-943c-2c43f3c28bc3",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-a-k-m-khalequzzaman-dipu/",
+      "imageId": "4a028414-e5a0-42e9-8884-30f85779453a",
       "name": "Dr. A.K.M. Khalequzzaman (Dipu)",
       "degree": "MBBS, MS (ORTHO)",
       "specialty": "Orthopaedic, Trauma, Bone & Joint Specialist",
@@ -2474,11 +3006,14 @@
         "hospital": "Comfort Diagnostic Center, Dhanmondi",
         "address": "Comfort Doctors’ Chamber 3, 165-166, Green Road, Dhaka",
         "visitingTime": "8pm to 10pm (Closed: Mon & Friday)",
-        "appointmentNumber": "+8801731956033"
-      },
-      "id": "20a18a0c-8ed3-4055-934f-6a02de6611ed"
+        "appointmentNumber": "+8801731956033Call Now"
+      }
     },
     {
+      "id": "7f7d676e-5005-4d4a-886c-45c9dc112fef",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-abu-md-mofakhkharul-islam-rana/",
+      "imageId": "0f22a6c3-6d6a-46e3-b75a-a33f1185f76e",
       "name": "Dr. Abu Md. Mofakhkharul Islam (Rana)",
       "degree": "MBBS (DU), D-Ortho (BSMMU)",
       "specialty": "Orthopedics (Bone, Joint, Spine) Specialist & Trauma Surgeon",
@@ -2488,11 +3023,14 @@
         "hospital": "Digilab Medical Services Ltd, Mirpur",
         "address": "House # 02, Road # 06, Block # A, Mirpur-10, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801626792323"
-      },
-      "id": "f3c8235e-83d4-4887-b1a1-00f0ff110b71"
+        "appointmentNumber": "+8801626792323Call Now"
+      }
     },
     {
+      "id": "18a852ad-0b6e-4926-8ec9-95bca9cea240",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-brig-gen-md-salim-ur-rahman/",
+      "imageId": "20d619dd-5fbd-42f2-96fd-cd5fc056f0a9",
       "name": "Prof. Dr. Brig. Gen. Md. Salim-Ur-Rahman",
       "degree": "MBBS, MS (Orthopedics), MRCPS (Glasgow)",
       "specialty": "Orthopedic, Trauma & Spine Surgeon",
@@ -2502,11 +3040,14 @@
         "hospital": "Medinova Medical Services, Mirpur",
         "address": "Plot # 29-30, Block # Kha, Road # 1, Section # 6, Mirpur 10, Dhaka",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801627172222"
-      },
-      "id": "0c9be6aa-a4ad-4fd5-b920-88fea5b1247a"
+        "appointmentNumber": "+8801627172222Call Now"
+      }
     },
     {
+      "id": "92b89790-1a90-4bd6-b4f4-c4e91a25fccb",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-k-i-qayyum-chowdhury/",
+      "imageId": "d5f71b73-2167-467f-8c8c-01119cb19fe6",
       "name": "Prof. Dr. M. K. I. Qayyum Chowdhury",
       "degree": "MBBS, MS (Ortho), FRCS (Glasgow)",
       "specialty": "Orthopedics (Bone, Joint, Spine) Specialist & Trauma Surgeon",
@@ -2516,25 +3057,31 @@
         "hospital": "BIRDEM Specialized Chamber Complex",
         "address": "Room - 210/13, Main Building, 122, Kazi Nazrul Islam Avenue, Shahbag, Dhaka",
         "visitingTime": "2pm to 3.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801716810172"
-      },
-      "id": "d289c606-2b8a-43b1-b60a-f399cd6a5b2b"
+        "appointmentNumber": "+8801716810172Call Now"
+      }
     },
     {
+      "id": "ff9cd84b-3bee-4997-8d3a-504b0d5ca38a",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-arun-kumar-sarker/",
+      "imageId": "b28350a1-84f4-4038-8d0e-dd11c2c5bd74",
       "name": "Dr. Arun Kumar Sarker",
       "degree": "MBBS (Dhaka), BCS (Health), MS (Ortho), FACS (USA)",
-      "specialty": "Orthopedics, Trauma &  Ilizarov Surgeon",
+      "specialty": "Orthopedics, Trauma & Ilizarov Surgeon",
       "workplace": "National Institute of Traumatology & Orthopedic Rehabilitation",
       "info": "Dr. Arun Kumar Sarker is a highly skilled orthopedics, trauma, and Ilizarov surgery specialist in Dhaka. He completed his MBBS (Dhaka), BCS (Health), and MS (Orthopedics), and is a Fellow of the American College of Surgeons (FACS, USA). He has also undergone advanced training at the Russian Ilizarov Scientific Centre for Restorative Traumatology & Orthopaedics (RICS, RTO) and completed an Advanced Trauma Course from Tulane University, USA. Dr. Arun specializes in treating bone fractures, joint dislocations, complex trauma, arthritis, osteoarthritis, limb length discrepancies, non-healing fractures, bone infections, and congenital orthopedic deformities. He is especially experienced in the Ilizarov technique for bone lengthening, deformity correction, and complex limb salvage procedures. Dr. Sarker currently serves as an Assistant Professor (Orthopedics/Ilizarov) at the National Institute of Traumatology & Orthopedic Rehabilitation (NITOR). He provides consultations at Medinova Medical Services, Mirpur, situated at Plot # 29-30, Block # Kha, Road # 1, Section # 6, Mirpur 10, Dhaka, with visiting hours from 6.30pm to 8.30pm (Sun, Tue & Thu).",
       "chamber": {
         "hospital": "Medinova Medical Services, Mirpur",
         "address": "Plot # 29-30, Block # Kha, Road # 1, Section # 6, Mirpur 10, Dhaka",
         "visitingTime": "6.30pm to 8.30pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801627172222"
-      },
-      "id": "2d4c5afc-ec7a-416b-8a8c-df692c315454"
+        "appointmentNumber": "+8801627172222Call Now"
+      }
     },
     {
+      "id": "802ff228-de38-4c80-99bb-3171ffab89c3",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/dr-mushfique-manjur/",
+      "imageId": "3ce4ae6b-17cb-45a9-9820-39fd1e1a74b7",
       "name": "Dr. Mushfique Manjur",
       "degree": "MBBS (CMC), MS (Orthopaedics) (NITOR), CCD (BIRDEM)",
       "specialty": "Orthopaedics, Trauma & Spine Surgeon",
@@ -2544,11 +3091,14 @@
         "hospital": "Ibn Sina Specialized Hospital, Dhanmondi",
         "address": "House # 68, Road # 15/A, Sankar, Dhanmondi, Dhaka",
         "visitingTime": "3pm to 7pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801865858508"
-      },
-      "id": "3478a11f-e1f3-4311-9824-0535f460e627"
+        "appointmentNumber": "+8801865858508Call Now"
+      }
     },
     {
+      "id": "c6f9f9d3-8e60-4734-ae32-9d19a5bd6c8e",
+      "departmentId": "40a013a6-c2d9-44f5-8576-127f0fb3c021",
+      "link": "https://www.doctorbangladesh.com/prof-dr-col-mohammad-abdul-quader/",
+      "imageId": "a26b3dc5-a09f-4ea9-bb4d-63c5ea715bbd",
       "name": "Prof. Dr. Col. Mohammad Abdul Quader",
       "degree": "MBBS (Dhaka), MS (Ortho Surgery), FACS (USA), AO Basic (India)",
       "specialty": "Orthopedics (Bone, Joint, Arthritis, Hip Pain, Knee Pain, Sports Injury) Specialist & Surgeon",
@@ -2558,9 +3108,8 @@
         "hospital": "Kingston Hospital Limited",
         "address": "House # 51-54, Road # 01 & 02, Block # D, Pallabi, Mirpur-12, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801340952300"
-      },
-      "id": "24d9a17a-bc66-467b-b517-52748714479d"
+        "appointmentNumber": "+8801340952300Call Now"
+      }
     }
   ]
 }

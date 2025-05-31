@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "15c75415-0b32-4fc3-b35e-bb039def60bd",
+      "departmentId": "eb077972-af36-4ecb-b3e8-3d746b458138",
+      "link": "https://www.doctorbangladesh.com/dr-ashim-kumar-ghosh/",
+      "imageId": "5db0a3d2-63e8-4f1a-9261-8b4238a83c88",
       "name": "Dr. Ashim Kumar Ghosh",
       "degree": "MBBS, MPhil (Radiotherapy)",
       "specialty": "Radiotherapy Specialist & Medical Oncologist",
@@ -10,11 +14,14 @@
         "hospital": "Medipath Diagnostic Complex, Rajshahi",
         "address": "Shuvecca View, Greater Road, Laxmipur, Kajihata, Rajshahi",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801712685297"
-      },
-      "id": "106551e4-b994-4562-8b67-dead3cc331b3"
+        "appointmentNumber": "+8801712685297Call Now"
+      }
     },
     {
+      "id": "b3ddb481-4510-4f5f-ab8b-7d1478d85abf",
+      "departmentId": "eb077972-af36-4ecb-b3e8-3d746b458138",
+      "link": "https://www.doctorbangladesh.com/dr-rawshan-ara-khatun/",
+      "imageId": "7566b871-7fbf-49fd-9b99-77b861f53b3c",
       "name": "Dr. Rawshan Ara Khatun",
       "degree": "MBBS, MPhil (Radiotherapy), FRCS (EDIN), FRCP (EDIN)",
       "specialty": "Cancer Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Shapla Diagnostic Complex, Rajshahi",
         "address": "Greater Road, Laxmipur, Kazihata, Rajshahi",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801732688664"
-      },
-      "id": "e2a1f0ac-dafd-44b3-a543-e0fffcc23991"
+        "appointmentNumber": "+8801732688664Call Now"
+      }
     },
     {
+      "id": "76c5d163-597c-48cb-b074-77e00bd1c437",
+      "departmentId": "eb077972-af36-4ecb-b3e8-3d746b458138",
+      "link": "https://www.doctorbangladesh.com/dr-md-shafayat-habib/",
+      "imageId": "35596659-4c1a-4b2c-b8a2-ca53d87fc50d",
       "name": "Dr. Md. Shafayat Habib",
       "degree": "MBBS, BCS (Health), M.Phil, (Radiotherapy) (BSMMU)",
       "specialty": "Cancer Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Life Line Diagnostic Center, Rajshahi",
         "address": "191, South Side of Education Board, Laxmipur, Rajshahi",
         "visitingTime": "4pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801738139328"
-      },
-      "id": "220ccdaa-067a-498c-9148-9e00a009b12a"
+        "appointmentNumber": "+8801738139328Call Now"
+      }
     },
     {
+      "id": "ec7c7a4e-e577-4f21-bb47-c29f643553ed",
+      "departmentId": "eb077972-af36-4ecb-b3e8-3d746b458138",
+      "link": "https://www.doctorbangladesh.com/dr-julekha-khatun/",
+      "imageId": "a932a584-8eca-4e29-bbbb-a46d2221f2af",
       "name": "Dr. Julekha Khatun",
       "degree": "MBBS , FCPS (Radiotherapy)",
       "specialty": "Cancer Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "4.30pm to 7:30pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "ca93686d-cce7-47b4-a606-24407122c347"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "6b094069-2828-4e9d-ace3-f583fe63bf7a",
+      "departmentId": "eb077972-af36-4ecb-b3e8-3d746b458138",
+      "link": "https://www.doctorbangladesh.com/dr-a-k-m-nurul-amin/",
+      "imageId": "30423342-8d61-4e8e-a6fd-90de6decd8f5",
       "name": "Dr. A.K.M Nurul Amin",
       "degree": "MBBS, M.Phil (Oncology), FCGP, FIGP, PhD, MWMA, PGCC",
       "specialty": "Cancer Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Rajshahi Metropolitan Hospital",
         "address": "C&B Mor, Laxmipur, Kazihata, Rajshahi",
         "visitingTime": "9am to 1pm & 5pm to 9pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801766865711"
-      },
-      "id": "85b5aa33-78a4-419f-b98b-ac530ef67c29"
+        "appointmentNumber": "+8801766865711Call Now"
+      }
     },
     {
+      "id": "3da0414e-c01d-4d4a-afb6-c3e5f3a5e1f6",
+      "departmentId": "eb077972-af36-4ecb-b3e8-3d746b458138",
+      "link": "https://www.doctorbangladesh.com/dr-mousumi-marjiara/",
+      "imageId": "633fbd02-a2b2-40cd-ba15-d5737a3ccca7",
       "name": "Dr. Mousumi Marjiara",
       "degree": "MBBS (DMC), BCS (Health), MD (Oncology)",
       "specialty": "Cancer & Tumor Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "4:00pm to 8.30pm (Sat to Thu), 10am to 1pm (Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "1a760f8b-c17e-473c-aa7e-3c842b8ce702"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "04bfeb63-df64-4fb7-8e24-fa1b79bfa01c",
+      "departmentId": "eb077972-af36-4ecb-b3e8-3d746b458138",
+      "link": "https://www.doctorbangladesh.com/dr-md-ishaque-ali/",
+      "imageId": "4e08fcd8-11cf-46c1-9f6e-02a65afda710",
       "name": "Dr. Md. Ishaque Ali",
       "degree": "MBBS, MPHIL (Radiotherapy)",
       "specialty": "Cancer Specialist",
@@ -94,11 +116,14 @@
         "hospital": "Al Arafa Clinic & Diagnostic Center, Rajshahi",
         "address": "Bornali Mor, Rajshahi",
         "visitingTime": "2pm to 4pm (Closed: Friday)",
-        "appointmentNumber": "+8801711359480"
-      },
-      "id": "e64803d9-ebd2-4684-8159-37612c1bf95d"
+        "appointmentNumber": "+8801711359480Call Now"
+      }
     },
     {
+      "id": "23c20348-0743-4981-a3c1-17f61cc47a73",
+      "departmentId": "eb077972-af36-4ecb-b3e8-3d746b458138",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdul-karim-oncologist/",
+      "imageId": "fa631d97-45da-4390-965f-e0fd0ff2034f",
       "name": "Dr. Md. Abdul Karim",
       "degree": "MBBS, BCS (Health), MD (Oncology)",
       "specialty": "Cancer Specialist",
@@ -108,9 +133,8 @@
         "hospital": "Labaid Diagnostic, Rajshahi",
         "address": "House # 621, Shershah Road, Rajpara, Laxmipur, Rajshahi",
         "visitingTime": "3pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801766661144"
-      },
-      "id": "3e0ae1a4-336d-49da-86a1-ad0170905cb1"
+        "appointmentNumber": "+8801766661144Call Now"
+      }
     }
   ]
 }

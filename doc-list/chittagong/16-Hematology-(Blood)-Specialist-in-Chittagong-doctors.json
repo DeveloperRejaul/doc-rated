@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "59e92e05-570d-4d47-bad3-84261750aaf3",
+      "departmentId": "faccdbc8-ea49-492b-be98-ce06e69f2db0",
+      "link": "https://www.doctorbangladesh.com/dr-showrab-biswas/",
+      "imageId": "0b96b968-5393-49f0-8904-92d625e86d45",
       "name": "Dr. Showrab Biswas",
       "degree": "MBBS, BCS (Health), MD (Hematology)",
       "specialty": "Hematology (Blood Diseases & Blood Cancer) Specialist",
@@ -10,25 +14,31 @@
         "hospital": "Asperia Health Care Ltd, Chittagong",
         "address": "Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram",
         "visitingTime": "1.30pm to 4pm (Closed: Friday)",
-        "appointmentNumber": "+8801810004550"
-      },
-      "id": "9168fe6c-3d28-47f7-b03c-2c1218ff4743"
+        "appointmentNumber": "+8801810004550Call Now"
+      }
     },
     {
+      "id": "1240db74-e6cd-48e8-bbc1-41c08cdc680e",
+      "departmentId": "faccdbc8-ea49-492b-be98-ce06e69f2db0",
+      "link": "https://www.doctorbangladesh.com/dr-kamrul-hasan/",
+      "imageId": "8888686f-0916-4f65-8f8a-ee8f6f17a943",
       "name": "Dr. Md. Kamrul Hasan",
       "degree": "MBBS, MD (Clinical Hematology), BCS (Health)",
       "specialty": "Blood Diseases, Blood Cancer & Bone Marrow Transplant Specialist",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "CSCR Hospital, Chittagong\nAddress: Room: 416A, CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram\nVisiting Hour: 7pm to 10pm (Saturday to Wednesday)\nAppointment: +8801304232507\nCall Now",
+      "info": "CSCR Hospital, Chittagong Address: Room: 416A, CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram Visiting Hour: 7pm to 10pm (Saturday to Wednesday) Appointment: +8801304232507 Call Now",
       "chamber": {
         "hospital": "Apollo Imperial Hospital, Chittagong",
         "address": "Zakir Hossain Road, Pahartali, Chattogram",
         "visitingTime": "3pm to 7pm (Saturday to Wednesday)",
-        "appointmentNumber": "+8809610847847"
-      },
-      "id": "044f1a56-96c6-46b8-90ed-276d7a289cba"
+        "appointmentNumber": "+8809610847847Call Now"
+      }
     },
     {
+      "id": "ecc5e919-c1a0-4604-a3f6-e19c2a76d5ba",
+      "departmentId": "faccdbc8-ea49-492b-be98-ce06e69f2db0",
+      "link": "https://www.doctorbangladesh.com/prof-dr-mohammad-golam-rabbani/",
+      "imageId": "51869420-77ca-4c1c-a1b2-5a58a0c1a69f",
       "name": "Prof. Dr. Mohammad Golam Rabbani",
       "degree": "MBBS, FCPS (Hematology), Clinical Fellow (Hemato-Oncology, SG)",
       "specialty": "Blood Diseases & Blood Cancer Specialist",
@@ -38,25 +48,31 @@
         "hospital": "Lancet Diagnostic Center, Chittagong",
         "address": "106/B, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "7.30pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801552674425"
-      },
-      "id": "818757e6-60aa-4079-9793-f60f7401728c"
+        "appointmentNumber": "+8801552674425Call Now"
+      }
     },
     {
+      "id": "53574578-72c0-4134-bcc0-e196d8bbd8bc",
+      "departmentId": "faccdbc8-ea49-492b-be98-ce06e69f2db0",
+      "link": "https://www.doctorbangladesh.com/prof-dr-anupam-barua/",
+      "imageId": "c9616c08-0a6a-43ba-9a92-263884af5efd",
       "name": "Prof. Dr. Anupam Barua",
       "degree": "MBBS, FCPS (Hematology), MD (Internal Medicine)",
       "specialty": "Hematology (Blood Diseases, Blood Cancer) & Medicine Specialist",
       "workplace": "Cox's Bazar Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Chittagong\nAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 7:30pm to 8:30pm (Closed: Thursday & Friday)\nAppointment: +8809666787810\nCall Now",
+      "info": "Popular Diagnostic Center, Chittagong Address: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram Visiting Hour: 7:30pm to 8:30pm (Closed: Thursday & Friday) Appointment: +8809666787810 Call Now",
       "chamber": {
         "hospital": "Max Hospital & Diagnostic, Chittagong",
         "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
         "visitingTime": "5pm to 7pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801713998199"
-      },
-      "id": "6f831495-f810-4bfd-b3e6-5f55465c74b4"
+        "appointmentNumber": "+8801713998199Call Now"
+      }
     },
     {
+      "id": "922c40f8-060d-44af-803a-7f5a944cd459",
+      "departmentId": "faccdbc8-ea49-492b-be98-ce06e69f2db0",
+      "link": "https://www.doctorbangladesh.com/brig-gen-dr-mizanur-rahman/",
+      "imageId": "61ccc7e9-c069-4dfe-bf34-17352c480348",
       "name": "Prof. Brig. Gen. Dr. Mizanur Rahman",
       "degree": "MBBS, FCPS (Hematology), MCPS (Pathology), DCP (DU), FRCP(Glasgow), MACP (USA)",
       "specialty": "Blood Cancer & Blood Diseases Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "7pm to 9pm (Closed: Friday & Saturday)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "edff3ee0-5071-4b9f-864f-d99497218143"
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "7a1eaf11-d044-47bf-bd52-19db78ad134f",
+      "departmentId": "faccdbc8-ea49-492b-be98-ce06e69f2db0",
+      "link": "https://www.doctorbangladesh.com/dr-shirajam-munira/",
+      "imageId": "4bcfb5ee-4dda-44dd-b5b8-5ef43d440044",
       "name": "Dr. Shirajam Munira",
       "degree": "MBBS, FCPS (Hematology)",
       "specialty": "Blood Cancer & Blood Diseases Specialist",
@@ -80,25 +99,31 @@
         "hospital": "Shajinaz Hospital Ltd.",
         "address": "Arefin Nagar, Bayezid Link Road, Bayezid Bostami, Chattogram",
         "visitingTime": "3pm to 6pm (Saturday & Tuesday)",
-        "appointmentNumber": "+8801886338811"
-      },
-      "id": "85df83b4-1f87-4099-a142-4a591850aa96"
+        "appointmentNumber": "+8801886338811Call Now"
+      }
     },
     {
+      "id": "1b0b3ba0-7788-4f86-8351-063a4acea27f",
+      "departmentId": "faccdbc8-ea49-492b-be98-ce06e69f2db0",
+      "link": "https://www.doctorbangladesh.com/dr-jamal-uddin-tanin/",
+      "imageId": "4a42dfdb-30e6-4d05-b28a-4d3f6590e2a6",
       "name": "Dr. Md. Jamal Uddin Tanin",
       "degree": "MBBS, MD (Hematology)",
       "specialty": "Blood Cancer & Blood Diseases Specialist",
       "workplace": "Parkview Hospital, Chittagong",
-      "info": "National Hospital, Chittagong\nAddress: 14/15, Dampara Lane, Mehedibag, Chattogram\nVisiting Hour: 2pm to 4pm (Closed: Thu & Friday)\nAppointment: +8801826691155\nCall Now",
+      "info": "National Hospital, Chittagong Address: 14/15, Dampara Lane, Mehedibag, Chattogram Visiting Hour: 2pm to 4pm (Closed: Thu & Friday) Appointment: +8801826691155 Call Now",
       "chamber": {
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "10am to 1pm (Closed: Friday)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "515c2761-d654-43e0-adfb-40d7d6cb6ef6"
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "da1330bd-7b66-466b-b7d9-27558e7a9767",
+      "departmentId": "faccdbc8-ea49-492b-be98-ce06e69f2db0",
+      "link": "https://www.doctorbangladesh.com/dr-shamim-ara-begum-hashy/",
+      "imageId": "47b7c3ae-5f91-4839-9a6f-8d29abab2943",
       "name": "Dr. Shamim Ara Begum (Hashy)",
       "degree": "MBBS, M.Phil (Clinical Pathology), FCPS (Hematology)",
       "specialty": "Blood Diseases & Blood Cancer Specialist",
@@ -108,11 +133,14 @@
         "hospital": "Evercare Hospital, Chattogram",
         "address": "H1, Ananna R/A, CDA, Hathazari, Chattogram",
         "visitingTime": "9am to 4pm (Closed: Friday)",
-        "appointmentNumber": "10663"
-      },
-      "id": "ffd727d4-d678-495b-aad5-69891e54865d"
+        "appointmentNumber": "10663Call Now"
+      }
     },
     {
+      "id": "dbe0fcca-57de-4010-b7d1-9b7c36013db7",
+      "departmentId": "faccdbc8-ea49-492b-be98-ce06e69f2db0",
+      "link": "https://www.doctorbangladesh.com/dr-mohammod-ferdaus-kamal/",
+      "imageId": "f4066ad1-9e53-40c7-ba76-1b9b0292fb72",
       "name": "Dr. Mohammod Ferdaus Kamal",
       "degree": "MBBS, DCP (Clinical Pathology)",
       "specialty": "Clinical Pathology & Hematology Specialist",
@@ -122,9 +150,8 @@
         "hospital": "Apollo Imperial Hospital, Chittagong",
         "address": "Zakir Hossain Road, Pahartali, Chattogram",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8809612247247"
-      },
-      "id": "e4c49a70-e063-4720-b7a3-cb9bf4ac4527"
+        "appointmentNumber": "+8809612247247Call Now"
+      }
     }
   ]
 }

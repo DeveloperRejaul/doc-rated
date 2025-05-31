@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "a5b35766-a044-464b-92ff-3994e23382ae",
+      "departmentId": "16c1c3d7-f198-46b1-a05e-cf054cdc4ce4",
+      "link": "https://www.doctorbangladesh.com/prof-dr-shakil-gafur/",
+      "imageId": "8187c018-eb89-4666-a7a2-41f5bd99ae29",
       "name": "Prof. Dr. Shakil Gafur",
       "degree": "MBBS, DTCD, MD (Cardiology)",
       "specialty": "Cardiology, Hypertension & Chest Diseases Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Update Diagnostic, Rangpur",
         "address": "Dhap (Opposite to Police Fari), Jail Road, Rangpur",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801971555555"
-      },
-      "id": "fd30321a-b928-4de3-93b3-bb35966a381f"
+        "appointmentNumber": "+8801971555555Call Now"
+      }
     },
     {
+      "id": "804dbf83-2d4c-47d4-ad93-d7a4b4f7f8b0",
+      "departmentId": "16c1c3d7-f198-46b1-a05e-cf054cdc4ce4",
+      "link": "https://www.doctorbangladesh.com/dr-haripada-sarker/",
+      "imageId": "20fc51a5-1875-48e6-ab4b-0b16dc374c5f",
       "name": "Dr. Haripada Sarker",
       "degree": "MBBS, MD (Cardiology)",
       "specialty": "Cardiology (Heart Diseases, Hypertension, Rheumatic Fever) Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Labaid Diagnostic, Rangpur",
         "address": "House # 69, Dhap, Jail Road, Rangpur",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801766663099"
-      },
-      "id": "500817e3-05e3-47e6-8601-323ce4e9bb6b"
+        "appointmentNumber": "+8801766663099Call Now"
+      }
     },
     {
+      "id": "5e6befa8-0c50-4105-832f-ca20300c1800",
+      "departmentId": "16c1c3d7-f198-46b1-a05e-cf054cdc4ce4",
+      "link": "https://www.doctorbangladesh.com/dr-rabindra-nath-barman/",
+      "imageId": "3f940fb5-6643-4fc7-84f7-b794af3f190b",
       "name": "Dr. Rabindra Nath Barman",
       "degree": "MBBS, MD (Cardiology)",
       "specialty": "Cardiology & Heart Diseases Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Popular Diagnostic Center, Rangpur",
         "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787813"
-      },
-      "id": "70098e83-59de-4b51-9129-edf9cc96fe45"
+        "appointmentNumber": "+8809666787813Call Now"
+      }
     },
     {
+      "id": "1247f7da-b9cc-4300-b13d-24608f80dc26",
+      "departmentId": "16c1c3d7-f198-46b1-a05e-cf054cdc4ce4",
+      "link": "https://www.doctorbangladesh.com/dr-md-abu-zahid-basunia/",
+      "imageId": "0e31b422-11e9-45fc-9c6b-fc122df62726",
       "name": "Dr. Md. Abu Zahid Basunia",
       "degree": "MBBS, BCS (Health), MD (Cardiology)",
       "specialty": "Cardiology Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Islami Bank Community Hospital, Rangpur",
         "address": "Jail Road, Dhap, Rangpur",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801750908297"
-      },
-      "id": "c622f2eb-753d-4be4-880d-2ec20a357f98"
+        "appointmentNumber": "+8801750908297Call Now"
+      }
     },
     {
+      "id": "ecdd67f6-17ca-4988-9cc0-c521b7e4840e",
+      "departmentId": "16c1c3d7-f198-46b1-a05e-cf054cdc4ce4",
+      "link": "https://www.doctorbangladesh.com/dr-abdullah-al-mahmud/",
+      "imageId": "5a314011-4f0c-4add-95ac-72b411ac0de4",
       "name": "Dr. Abdullah Al Mahmud",
       "degree": "MBBS, BCS (Health), D-CARD (DU)",
       "specialty": "Cardiology Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Popular Diagnostic Center, Rangpur",
         "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787813"
-      },
-      "id": "23d30044-1db5-49f4-b789-9e59cb50aceb"
+        "appointmentNumber": "+8809666787813Call Now"
+      }
     },
     {
+      "id": "bcdbab43-4ac8-4e39-9ab3-b5577b6a62d3",
+      "departmentId": "16c1c3d7-f198-46b1-a05e-cf054cdc4ce4",
+      "link": "https://www.doctorbangladesh.com/prof-dr-nawazes-farid/",
+      "imageId": "56d80a13-c4db-4090-89e5-d5c62de8224b",
       "name": "Prof. Dr. Nawazes Farid",
       "degree": "MBBS, D-CARD (NICVD), Fellow (WHO)",
       "specialty": "Cardiology Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Labaid Diagnostic, Rangpur",
         "address": "House # 69, Dhap, Jail Road, Rangpur",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801766663099"
-      },
-      "id": "114d4035-e833-4b48-8351-f6255bef7e9e"
+        "appointmentNumber": "+8801766663099Call Now"
+      }
     },
     {
+      "id": "a658868b-7285-433c-992d-daf74912a66c",
+      "departmentId": "16c1c3d7-f198-46b1-a05e-cf054cdc4ce4",
+      "link": "https://www.doctorbangladesh.com/dr-md-hasanul-islam/",
+      "imageId": "c3bd97bd-0068-4000-aed0-6df81fd6184e",
       "name": "Dr. Md. Hasanul Islam",
       "degree": "MBBS, MD (Cardiology)",
       "specialty": "Cardiology Specialist",
@@ -94,11 +116,14 @@
         "hospital": "Update Diagnostic, Rangpur",
         "address": "Dhap (Opposite to Police Fari), Jail Road, Rangpur",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801971555555"
-      },
-      "id": "169f09a3-4eae-442a-ab47-d677087b9841"
+        "appointmentNumber": "+8801971555555Call Now"
+      }
     },
     {
+      "id": "d30b3337-587a-4883-a74f-a8b39b51de6f",
+      "departmentId": "16c1c3d7-f198-46b1-a05e-cf054cdc4ce4",
+      "link": "https://www.doctorbangladesh.com/prof-dr-akm-hanif-chowdhury/",
+      "imageId": "41a0bcf0-0b0d-4c5c-bb10-8b5948e5919a",
       "name": "Prof. Dr. AKM Hanif Chowdhury",
       "degree": "MBBS, MD (Cardiology)",
       "specialty": "Cardiology & Heart Diseases Specialist",
@@ -108,11 +133,14 @@
         "hospital": "Doctor's Community Hospital, Rangpur",
         "address": "Medical East Gate, Health City Road, Dhap, Rangpur",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801717292458"
-      },
-      "id": "782583d9-c242-4d46-b0ab-4a41ff12c335"
+        "appointmentNumber": "+8801717292458Call Now"
+      }
     },
     {
+      "id": "fdb3d041-0430-4d36-9242-29b8650144d5",
+      "departmentId": "16c1c3d7-f198-46b1-a05e-cf054cdc4ce4",
+      "link": "https://www.doctorbangladesh.com/dr-md-nazrul-islam-card/",
+      "imageId": "a725c0bf-17fa-4801-a75d-01902409cb26",
       "name": "Dr. Md. Nazrul Islam",
       "degree": "MBBS, MD (Cardiology)",
       "specialty": "Cardiology (Heart Diseases, Hypertension & Rheumatic Fever) Specialist",
@@ -122,11 +150,14 @@
         "hospital": "Apollo Diagnostic Center, Rangpur",
         "address": "Dhap, Jail Road, Rangpur",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801733008088"
-      },
-      "id": "7807d27e-ff39-49b6-b887-9b25e857e229"
+        "appointmentNumber": "+8801733008088Call Now"
+      }
     },
     {
+      "id": "4ee137ca-80dd-412e-9d17-521430032493",
+      "departmentId": "16c1c3d7-f198-46b1-a05e-cf054cdc4ce4",
+      "link": "https://www.doctorbangladesh.com/prof-dr-momtaz-hossain/",
+      "imageId": "a907345b-a92a-4b9a-996d-e28b7d9cccab",
       "name": "Prof. Dr. Momtaz Hossain",
       "degree": "MBBS, FCPS (Medicine), D-CARD, PHD (Cardiology)",
       "specialty": "Cardiology & Medicine Specialist",
@@ -136,11 +167,14 @@
         "hospital": "Apollo Diagnostic Center, Rangpur",
         "address": "Medical Mor, Jail Road, Dhap, Rangpur",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801733008087"
-      },
-      "id": "d35444a9-394e-499a-afc5-1caccd92c38f"
+        "appointmentNumber": "+8801733008087Call Now"
+      }
     },
     {
+      "id": "0bf9eb66-3b97-4b2d-a1cb-70ca1f54b29f",
+      "departmentId": "16c1c3d7-f198-46b1-a05e-cf054cdc4ce4",
+      "link": "https://www.doctorbangladesh.com/dr-md-rezaul-alam-cardiologist/",
+      "imageId": "56631eab-281b-45b8-a440-a0f308da2d03",
       "name": "Dr. Md. Rezaul Alam",
       "degree": "MBBS (DMC), BCS (Health), D. Card (BSMMU), PhD, FIACC (Cardiology) India",
       "specialty": "Cardiology & Medicine Specialist",
@@ -150,9 +184,8 @@
         "hospital": "Hema Digital Diagnostic Centre",
         "address": "68, Shorolipi Manson, Bangabondhu Sarak, Dhap City Bazar, Rangpur",
         "visitingTime": "3pm to 10pm (Sat to Thu), 10am to 6pm (Friday)",
-        "appointmentNumber": "+8801711907192"
-      },
-      "id": "1b6d5054-432d-41fb-acbe-f81b8253156a"
+        "appointmentNumber": "+8801711907192Call Now"
+      }
     }
   ]
 }

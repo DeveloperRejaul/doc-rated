@@ -1,76 +1,95 @@
 {
   "doctor": [
     {
+      "id": "17ed38cb-5667-4ea7-8ee4-2daa13bb8295",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-rowshan-ara/",
+      "imageId": "a0cbc43e-bf63-4664-be8e-c56b5ecbec44",
       "name": "Assoc. Prof. Dr. Rowshan Ara",
       "degree": "MBBS, FCPS (Gynae & Obs), FCPS (Reproductive Endocrinology & Infertility)",
-      "specialty": "Infertlity, Obstetrics, Gynaecology & Reproductive  Endrocrinology SpecialistGynaecological, Laparoscopic & Hysteroscopic Surgeon",
+      "specialty": "Infertlity, Obstetrics, Gynaecology & Reproductive Endrocrinology SpecialistGynaecological, Laparoscopic & Hysteroscopic Surgeon",
       "workplace": "Dhaka Medical College & Hospital",
       "info": "Assoc. Prof. Dr. Rowshan Ara is a highly skilled infertility, obstetrics, gynecology, and reproductive endocrinology specialist with expertise in advanced fertility treatments and women’s health. Holding an MBBS, FCPS (Gynae & Obs), and FCPS in Reproductive Endocrinology & Infertility, she serves as an Associate Professor of Reproductive Endocrinology & Infertility at Dhaka Medical College & Hospital. She specializes in treating female infertility, polycystic ovary syndrome (PCOS), endometriosis, recurrent pregnancy loss, hormonal disorders, and high-risk pregnancies. As a proficient gynecological, laparoscopic, and hysteroscopic surgeon, she provides advanced surgical solutions for reproductive health conditions. Dr. Rowshan Ara is available for consultation at Ibn Sina Infertility Care, Dhanmondi, from 6 PM to 9 PM (Closed: Friday). Book an appointment today for expert fertility and gynecological care.",
       "chamber": {
         "hospital": "Ibn Sina Infertlity Care",
         "address": "Ibn Sina Medical Imaging CentreHouse # 58, Road # 2A, Dhanmondi R/A, Zigatola Bus stand, Dhaka-1209",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "10615 (Hotline), +8809610010615"
-      },
-      "id": "6213dbf3-9b28-4541-adef-8b56a99a4605"
+        "appointmentNumber": "10615 (Hotline), +8809610010615Call Now"
+      }
     },
     {
+      "id": "80fa3e0e-6ff2-48cd-9038-7b454136a761",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-khaleda-nasreen/",
+      "imageId": "9bcab655-599b-4430-907e-c91196281ac5",
       "name": "Dr. Khaleda Nasreen",
       "degree": "MBBS, BCS (Health), FCPS (Gyne & Obs), FCPS (Reproductive Endocrinology & Infertility)",
       "specialty": "Infertility, Gynecology Obstetrics Specialist & Surgeon",
       "workplace": "Directorate General of Health Services",
-      "info": "MH Samorita Hospital & Medical College\nAddress: 117, Love Road ,Tejgaon, Dhaka 1208, Bangladesh\nVisiting Hour: 4pm to 8pm (Sat, Mon & Wed)\nAppointment: +8801847004999\nCall Now",
+      "info": "MH Samorita Hospital & Medical College Address: 117, Love Road ,Tejgaon, Dhaka 1208, Bangladesh Visiting Hour: 4pm to 8pm (Sat, Mon & Wed) Appointment: +8801847004999 Call Now",
       "chamber": {
         "hospital": "Aalok Health Care, Pallabi",
         "address": "2/6 Begum Rokeya Avenue, Pallabi, Mirpur 11.5, Dhaka",
         "visitingTime": "4pm to 9pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801825002867"
-      },
-      "id": "4159aa7d-3da4-43ea-b510-91b3d11d8b83"
+        "appointmentNumber": "+8801825002867Call Now"
+      }
     },
     {
+      "id": "bcc068ba-ba43-4185-af75-64876c20a209",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-raihana-shawgat/",
+      "imageId": "1d62557f-693a-4a9e-a9bb-2fb247058390",
       "name": "Dr. Raihana Shawgat",
       "degree": "MBBS (Dhaka), FCPS (Gynae & Obs), FCPS (Reproductive Endocrinology & Infertility)",
       "specialty": "Gynaecologist and Infertility Specialist",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Platinum Hospital Ltd, Panthapath\nAddress: 69/M/1, GH Tower, Panthapath, Opposite to Bashundhara Shopping Mall, Dhaka\nVisiting Hour: 3pm to 5.30pm (Sun, Tue & Thu)\nAppointment: +8801987851647\nCall Now",
+      "info": "Platinum Hospital Ltd, Panthapath Address: 69/M/1, GH Tower, Panthapath, Opposite to Bashundhara Shopping Mall, Dhaka Visiting Hour: 3pm to 5.30pm (Sun, Tue & Thu) Appointment: +8801987851647 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Jatrabari",
         "address": "House No # 79/1E, Demra Road, Bibir Bagicha, Uttor Jatrabari, Dhaka",
         "visitingTime": "3pm to 5.30pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "cd84cceb-9668-4780-8aca-e7d737ec7ddc"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "048014ec-dbb7-49da-87a1-fb63a349981b",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-shajia-fatema-zafar/",
+      "imageId": "7c39b231-851a-4273-8f29-381c3ca658de",
       "name": "Dr. Shajia Fatema Zafar",
       "degree": "MBBS (ShSMCH), MS (Obs & Gynae), MCPS (Obs & Gynae), FRM (Fellowship in Infertility, India)",
       "specialty": "Fertility & IVF Specialist, Laparoscopic & Hysteroscopic Surgeon",
       "workplace": "Nova IVF Fertility, Bangladesh",
-      "info": "Praava Health, Banani\nAddress: Plot # 9, Road # 17, Block – C, Banani – 1213\nVisiting Hour: 6pm to 9pm (Closed: Friday)\nAppointment: +8801330-992820\nCall Now",
+      "info": "Praava Health, Banani Address: Plot # 9, Road # 17, Block – C, Banani – 1213 Visiting Hour: 6pm to 9pm (Closed: Friday) Appointment: +8801330-992820 Call Now",
       "chamber": {
         "hospital": "Nova IVF Fertility (Panthapath Unit)",
         "address": "152/1/H, Sabamoon Tower, Level-6, Green Road, Panthapath, Dhaka,",
         "visitingTime": "10am to 4pm (Closed: Friday)",
-        "appointmentNumber": "+8801330992820"
-      },
-      "id": "c9b6ad6b-a9a8-4e8c-ae52-2f7ec4f34a30"
+        "appointmentNumber": "+8801330992820Call Now"
+      }
     },
     {
+      "id": "a582e7ae-5a9e-4bac-8b0a-340ddea44939",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/drlubnayasmin/",
+      "imageId": "284b0022-314d-4bf9-bf9a-bbc8d6098fa0",
       "name": "Dr. Lubna Yasmin",
       "degree": "MBBS, FCPS (Obs & Gyne)",
       "specialty": "Fertility & IVF Specialist",
       "workplace": "Nova IVF Fertility (Basundhara Unit)",
-      "info": "Comilla CT Scan MRI Specialized Diagnostic, Dialysis & Fertility Centre\nAddress: Sel Fatima – Jahanara Tower (3rd Floor), Jhawtala, Cumilla, Bangladesh\nVisiting Hour: 9am to 9pm (2nd Tuesday of Every Month)\nAppointment: +8801616995344\nCall Now",
+      "info": "Comilla CT Scan MRI Specialized Diagnostic, Dialysis & Fertility Centre Address: Sel Fatima – Jahanara Tower (3rd Floor), Jhawtala, Cumilla, Bangladesh Visiting Hour: 9am to 9pm (2nd Tuesday of Every Month) Appointment: +8801616995344 Call Now",
       "chamber": {
         "hospital": "Nova IVF Fertility (Banani Unit)",
         "address": "Level 3, KBPD Complex, 57 Road No. 11, Banani, Dhaka",
         "visitingTime": "9am to 4pm (Closed: Friday)",
-        "appointmentNumber": "+8801616995344"
-      },
-      "id": "050835be-8be4-4f08-9c66-b25b399a9789"
+        "appointmentNumber": "+8801616995344Call Now"
+      }
     },
     {
+      "id": "a7f9527a-586f-4459-9124-7087d5e8a7ac",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-munmun-islam/",
+      "imageId": "10cd643e-db6f-4fc3-bf3f-d3984acf5ba2",
       "name": "Dr. Munmun Islam",
       "degree": "MBBS (DMC), BCS (Health), FCPS (Obs & Gynae)",
       "specialty": "Infertility, Gynecology, Obstetrics Specialist & Surgeon",
@@ -80,11 +99,14 @@
         "hospital": "Medinova Medical Services, Malibagh",
         "address": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
         "visitingTime": "6pm to 9pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801716410062"
-      },
-      "id": "5bc40a6d-ef2e-4930-9706-167e5650e425"
+        "appointmentNumber": "+8801716410062Call Now"
+      }
     },
     {
+      "id": "b321f3bb-119d-4837-80f3-ee71464bde5e",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/prof-t-a-chowdhury/",
+      "imageId": "26e2b5a0-4813-47d2-af3e-1e824b9372ec",
       "name": "Prof. Dr. T. A. Chowdhury",
       "degree": "MBBS, FRCS, FRCOG, FRCP, FCPS (PK), FCPS (BD)",
       "specialty": "Gynecology & Infertility Specialist",
@@ -94,11 +116,14 @@
         "hospital": "Farida Clinic, Dhaka",
         "address": "163/4, Shanti Nagar Road, Opposite Eastern Sellers Market, Dhaka",
         "visitingTime": "1pm to 4pm (Sun, Mon, Wed & Thu)",
-        "appointmentNumber": "+880248321960"
-      },
-      "id": "42c9f33c-42a6-4b52-a79f-5640fb1b3784"
+        "appointmentNumber": "+880248321960Call Now"
+      }
     },
     {
+      "id": "417f3989-7cd7-4200-8470-0e646a531e3f",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/prof-dr-rashida-begum/",
+      "imageId": "9fce0336-3d6f-49a0-bc4e-026c86f2ec13",
       "name": "Prof. Dr. Rashida Begum",
       "degree": "MBBS, FCPS (OBGYN), MMEd (UK), MSc (Embryology), PhD (Reproduction Medicine)",
       "specialty": "Infertility, Gynecology, Obstetrics Specialist & Surgeon",
@@ -108,25 +133,31 @@
         "hospital": "Infertility Care & Research Center (ICRC)",
         "address": "5/13 Humayun Road, Block # B, Mohammadpur, Dhaka",
         "visitingTime": "5pm to 9pm (Sat, Mon, Wed & Thu)",
-        "appointmentNumber": "+8801747634566"
-      },
-      "id": "21d80f6f-b1f1-433a-890a-9f7d1929986b"
+        "appointmentNumber": "+8801747634566Call Now"
+      }
     },
     {
+      "id": "20a17e59-4fcb-40fa-b23b-27093590c2cc",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/prof-dr-jesmine-banu/",
+      "imageId": "185ee876-82c6-4427-b6fc-0259f6e83501",
       "name": "Prof. Dr. Jesmine Banu",
       "degree": "MBBS, MS (OBGYN)",
       "specialty": "Gynecology, Obstetrics, Infertility Specialist & Laparoscopic Surgeon",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Anwer Khan Modern Medical College Hospital\nAddress: House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205\nVisiting Hour: 6pm to 9pm (Only Thursday)\nAppointment: +8801834888534\nCall Now",
+      "info": "Anwer Khan Modern Medical College Hospital Address: House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205 Visiting Hour: 6pm to 9pm (Only Thursday) Appointment: +8801834888534 Call Now",
       "chamber": {
         "hospital": "AMZ Hospital, Badda",
         "address": "Cha - 80/3, Progati Sarani, Uttar Badda, Dhaka",
         "visitingTime": "7pm to 10pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801847331016"
-      },
-      "id": "ed06f9c7-6b5d-45de-a239-4f259f79df98"
+        "appointmentNumber": "+8801847331016Call Now"
+      }
     },
     {
+      "id": "23382a8e-a718-4fea-8eb5-332ceafc4a42",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-lucky-rahman/",
+      "imageId": "4b28d43a-496a-4181-a25d-cacbd8226f4a",
       "name": "Dr. Lucky Rahman",
       "degree": "MBBS, MCPS, FCPS (OBGYN)",
       "specialty": "Infertility, Gynecology Specialist & Surgeon",
@@ -136,25 +167,31 @@
         "hospital": "Insaf Barakah Kidney & General Hospital",
         "address": "11, Shaheed Tajuddin Ahmed Sarani, Mogbazar, Dhaka",
         "visitingTime": "4pm to 9pm (Sat, Mon & Wednesday)",
-        "appointmentNumber": "+8801910069440"
-      },
-      "id": "66735d61-eeaf-47a0-8f16-5b694695bada"
+        "appointmentNumber": "+8801910069440Call Now"
+      }
     },
     {
+      "id": "afd649a0-0e84-4098-9271-636e712cc6b5",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-nargish-khanam/",
+      "imageId": "b4d01c15-aad8-4678-a669-1a37d4ebed79",
       "name": "Dr. Nargish Khanam",
       "degree": "MBBS, BCS (Health), FCPS (OBGYN), FCPS Thesis (Infertility), CPD (UK), DMU (USG)",
       "specialty": "Gynecology, Obstetrics, Infertility Specialist & Laparoscopic Surgeon",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Dolfin Hospital & Infertility Center\nAddress: Kathpotti, Kamrangirchar, Dhaka – 1211\nVisiting Hour: 4pm to 9.30pm (Everyday)\nAppointment: +8801761510710\nCall Now",
+      "info": "Dolfin Hospital & Infertility Center Address: Kathpotti, Kamrangirchar, Dhaka – 1211 Visiting Hour: 4pm to 9.30pm (Everyday) Appointment: +8801761510710 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Lalbagh",
         "address": "27/4 Dhakeshwori Road, Lalbagh, Dhaka",
         "visitingTime": "4pm to 6pm (Sun, Mon, Tue & Wed)",
-        "appointmentNumber": "+8801783356048"
-      },
-      "id": "d516bb24-e737-43bd-aaeb-f0469b88dd30"
+        "appointmentNumber": "+8801783356048Call Now"
+      }
     },
     {
+      "id": "281bcab1-5a4f-4a43-8ae9-1e3fc3ad466c",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/prof-dr-begum-nasrin/",
+      "imageId": "4a0cf4f4-ac09-43a5-b5fb-d62ec10f4660",
       "name": "Prof. Dr. Begum Nasrin",
       "degree": "MBBS, FCPS (OBGYN), MS (OBGYN)",
       "specialty": "Gynecology, Infertility Specialist & Surgeon",
@@ -164,11 +201,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "5.00pm to 8.30pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801741224098"
-      },
-      "id": "ec734ab2-85ea-4411-a94c-b0ab92dc0fb9"
+        "appointmentNumber": "+8801741224098Call Now"
+      }
     },
     {
+      "id": "d3111135-8ac6-43e8-81f9-a36ae97bac75",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-dalia-rahman/",
+      "imageId": "d4dcb079-a41e-4299-8df0-092977fec906",
       "name": "Dr. Dalia Rahman",
       "degree": "MBBS, DGO, FCPS (OBGYN), MCPS, FCPS (Infertility), MRCOG2 (UK)",
       "specialty": "Gynecology, Infertility Specialist & Laparoscopic Surgeon",
@@ -178,11 +218,14 @@
         "hospital": "Popular Diagnostic Center, Mirpur",
         "address": "Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka",
         "visitingTime": "6pm to 10pm (Everyday)",
-        "appointmentNumber": "+8809666787807"
-      },
-      "id": "06fca4aa-f0b3-4540-a876-9695a5444248"
+        "appointmentNumber": "+8809666787807Call Now"
+      }
     },
     {
+      "id": "412a5974-7710-4751-aa0e-1cc05d227713",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-mrinal-kumar-sarker/",
+      "imageId": "f7d36c27-ad63-4ae7-99bf-a7e8b099e85b",
       "name": "Dr. Mrinal Kumar Sarker",
       "degree": "MBBS, DGO (DU), FCPS (OBGYN)",
       "specialty": "Infertility, Gynecology & Reproduction Medicine Specialist",
@@ -192,11 +235,14 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10678"
-      },
-      "id": "3a35bc86-f53c-42bb-918d-b29e8775e17f"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "b2898037-6b04-4b17-983d-0571946f4922",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-mst-shahina-begum-shanta/",
+      "imageId": "11e3e17f-c8b5-444d-9802-25a9603ded6a",
       "name": "Dr. Shahina Begum Shanta",
       "degree": "MBBS, FCPS (OBGYN), Training ART (Singapore, India, Bangladesh)",
       "specialty": "Gynecology, Infertility Specialist & Surgeon",
@@ -206,11 +252,14 @@
         "hospital": "BRB Hospital, Dhaka",
         "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
         "visitingTime": "10am to 7pm (Closed: Friday)",
-        "appointmentNumber": "10647"
-      },
-      "id": "6764b52a-cdc6-4786-a861-a50885877fab"
+        "appointmentNumber": "10647Call Now"
+      }
     },
     {
+      "id": "d80c7d77-d20a-436e-b02d-2e01c6451a08",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-florida-rahman/",
+      "imageId": "9e9ac8e0-37fe-464e-94dc-367feb65a7f4",
       "name": "Dr. Florida Rahman",
       "degree": "MBBS, FCPS (Reproductive Endocrinology & Infertility)",
       "specialty": "Infertility & IVF Specialist, Laparoscopic and Hysteroscopic Surgeon",
@@ -220,11 +269,14 @@
         "hospital": "Lumina IVF & Fertility Center Ltd",
         "address": "Firoz Tower (Lift-10), 152, Panthapath, Dhanmondi, Dhaka",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801711433330"
-      },
-      "id": "d76f36cd-3568-40be-ad54-d566d0313fd1"
+        "appointmentNumber": "+8801711433330Call Now"
+      }
     },
     {
+      "id": "2eb9a812-db75-4cd4-b57a-f0da614472c8",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/prof-brig-gen-dr-anjuman-ara-begum/",
+      "imageId": "1ba29495-4709-46fb-bb4b-f681858e5a0c",
       "name": "Prof. Brig Gen. Dr. Anjuman Ara Begum",
       "degree": "MBBS, DGO, MS (OBGYN)",
       "specialty": "Gynecology, Infertility Specialist & Laparoscopic Surgeon",
@@ -234,11 +286,14 @@
         "hospital": "Aalok Healthcare & Hospital, Mirpur 10",
         "address": "House # 1 & 3 , Road # 2, Block # B, Mirpur 10, Dhaka",
         "visitingTime": "5pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801915448491"
-      },
-      "id": "8a61cb81-45bd-40a4-b087-f2bbc8f7db9a"
+        "appointmentNumber": "+8801915448491Call Now"
+      }
     },
     {
+      "id": "b9f3fdec-12cd-4ba0-aa31-fef49a6b243d",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/prof-dr-maruf-siddiqui/",
+      "imageId": "dfde81fb-09ed-4880-82de-793dc1f405ae",
       "name": "Prof. Dr. Maruf Siddiqui",
       "degree": "MBBS (DMC), FCPS (OBGYN), IVF&ICSI (Thailand)",
       "specialty": "Infertility & IVF Specialist",
@@ -248,11 +303,14 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "5pm to 9pm (Sat, Sun, Tue & Thu)",
-        "appointmentNumber": "+8801794631222"
-      },
-      "id": "02ed0b6c-a181-42bf-8db5-22a926ce59d4"
+        "appointmentNumber": "+8801794631222Call Now"
+      }
     },
     {
+      "id": "6387cd56-76c2-4a1a-9ad1-f92aa06b1592",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-khandaker-shehneela-tasmin/",
+      "imageId": "c7fa7d21-c329-42f7-94d3-8a7d6fe1d16c",
       "name": "Dr. Khandaker Shehneela Tasmin",
       "degree": "MBBS, BCS (Health), FCPS (OBGYN), Diploma (Infertility & IVF)",
       "specialty": "Gynecology, Infertility & High Risk Pregnancy Specialist",
@@ -262,11 +320,14 @@
         "hospital": "Islami Bank Hospital, Mirpur",
         "address": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
         "visitingTime": "6.30pm to 8.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801992346632"
-      },
-      "id": "68482436-fae8-424f-95c4-4bb213bbea5d"
+        "appointmentNumber": "+8801992346632Call Now"
+      }
     },
     {
+      "id": "d3f4c1a1-38ed-4cd7-aa2f-2fed3a533eeb",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-nusrat-mahmud/",
+      "imageId": "b962ade7-59c3-41ee-91f8-7f868380624b",
       "name": "Dr. Nusrat Mahmud",
       "degree": "MBBS, MSc (Singapore)",
       "specialty": "Infertility Specialist & Laparoscopic Surgeon",
@@ -276,11 +337,14 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "6pm to 9pm (Sat, Mon, Tue & Thu)",
-        "appointmentNumber": "+8801710828074"
-      },
-      "id": "1787f56b-68ab-4217-b730-edfa121d720d"
+        "appointmentNumber": "+8801710828074Call Now"
+      }
     },
     {
+      "id": "38db5ac0-ec75-42e7-a692-90ad3a9b1b79",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-sumaiya-akter/",
+      "imageId": "5c63e5e5-db6e-4c58-ac09-11104df1809f",
       "name": "Dr. Sumaiya Akter",
       "degree": "MBBS, BCS (Health), FCPS (Reproductive Endocrinology & Infertility)",
       "specialty": "Gynecology, Infertility Specialist & Surgeon",
@@ -290,25 +354,31 @@
         "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
         "address": "1/1 B, Kallyanpur, Dhaka",
         "visitingTime": "4pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801703725590"
-      },
-      "id": "bfc256e4-af28-4770-89f8-50050f85cacc"
+        "appointmentNumber": "+8801703725590Call Now"
+      }
     },
     {
+      "id": "1bb28c79-4de9-464c-89d9-f2b55659118a",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-razuana-rahman/",
+      "imageId": "10855e5d-7b6d-4fd8-b3a7-0937d74998dd",
       "name": "Dr. Razuana Rahman",
       "degree": "MBBS (SSMC), DIRM (Germany), Fellowship IVF & Infertility (Germany), ADMU (USA)",
       "specialty": "Infertility & Reproductive Hormone Specialist",
       "workplace": "Sir Salimullah Medical College & Mitford Hospital",
-      "info": "Labaid Specialized Hospital, Chattogram\nAddress: 3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram\nVisiting Hour: 10am to 10pm (Only 2nd Friday)\nAppointment: +8801766662828\nCall Now",
+      "info": "Labaid Specialized Hospital, Chattogram Address: 3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram Visiting Hour: 10am to 10pm (Only 2nd Friday) Appointment: +8801766662828 Call Now",
       "chamber": {
         "hospital": "Labaid Diagnostic, Doyaganj",
         "address": "30-31/1, Doyagank Hat Lane, Sutrapur, Dhaka",
         "visitingTime": "4pm to 8pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801844110002"
-      },
-      "id": "baa0f6a5-6e4c-498a-95ea-c9581b18d198"
+        "appointmentNumber": "+8801844110002Call Now"
+      }
     },
     {
+      "id": "16281f7d-a697-4384-8cd5-747eaf47e124",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-farhana-anam/",
+      "imageId": "94747f20-4114-4f09-ac8a-8b88ad2ff2df",
       "name": "Dr. Farhana Anam",
       "degree": "MBBS, CCU (USA)",
       "specialty": "Infertility (ICSI, IVF & FET) Specialist",
@@ -318,11 +388,14 @@
         "hospital": "Harvest Infertility Care, Dhaka",
         "address": "House # 100, Road # 06, Block # B, Pallabi, Mirpur 12, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801817146640"
-      },
-      "id": "57c71feb-07ed-4ca8-b376-16b1dabdff39"
+        "appointmentNumber": "+8801817146640Call Now"
+      }
     },
     {
+      "id": "4fdedb74-5fdf-49ac-9753-6a20b087a1de",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-sharmin-abbasi/",
+      "imageId": "48206d29-3b95-4091-ad5f-5e6f378eb0ae",
       "name": "Dr. Sharmin Abbasi",
       "degree": "MBBS, FCPS (OBGYN), MCPS, FACS (USA)",
       "specialty": "Infertility Specialist & Gynecologist",
@@ -332,11 +405,14 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "10am to 1pm & 5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801796674096"
-      },
-      "id": "d1216d76-fdb8-4705-94c5-bd371b0d1f7a"
+        "appointmentNumber": "+8801796674096Call Now"
+      }
     },
     {
+      "id": "b1471f17-ff8b-4abc-9eb5-ff0e101cfbc9",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-rehnuma-jahan/",
+      "imageId": "728ba968-b297-4bff-be5d-a80dce94b689",
       "name": "Dr. Rehnuma Jahan",
       "degree": "MBBS, MS (OBGYN)",
       "specialty": "Gynecology, Infertility Specialist & Laparoscopic Surgeon",
@@ -346,11 +422,14 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "10am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "db73e103-d5af-48f2-9324-f6e31f2e5ceb"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "a6697be4-ed0f-4d07-92ba-44921553bbee",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-nargis-sultana-sumi/",
+      "imageId": "2b1b83b0-02bf-46fc-92f0-d9d983ccaca3",
       "name": "Dr. Nargis Sultana Sumi",
       "degree": "MBBS, MCPS FCPS (OBGYN), Special Training on Infertility (India)",
       "specialty": "Gynecology, Infertility Specialist & Surgeon",
@@ -360,11 +439,14 @@
         "hospital": "Popular Diagnostic Center, Shantinagar",
         "address": "Unit # 01, House # 11, Shantinagar, Motijheel, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787803"
-      },
-      "id": "702ffb80-cedc-47f0-992b-11968c92aac8"
+        "appointmentNumber": "+8809666787803Call Now"
+      }
     },
     {
+      "id": "3937315a-accc-48ad-8b3c-91298e65c12e",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-shakeela-ishrat/",
+      "imageId": "b1cd0713-300a-4b23-940e-b1956ee7e730",
       "name": "Prof. Dr. Shakeela Ishrat",
       "degree": "MBBS, FCPS (OBGYN), MS (OBGYN)",
       "specialty": "Infertility, Gynecology Specialist & Surgeon",
@@ -374,53 +456,65 @@
         "hospital": "Islami Bank Specialized & General Hospital, Nayapaltan",
         "address": "71-72, VIP Road, Nayapaltan, Dhaka",
         "visitingTime": "4pm to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801977552283"
-      },
-      "id": "b2e44075-88af-42bd-9897-5a08e4844572"
+        "appointmentNumber": "+8801977552283Call Now"
+      }
     },
     {
+      "id": "2aa2497a-51ca-4d0c-ae31-ea64685b7168",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/prof-dr-hosne-ara-baby/",
+      "imageId": "37d8047e-cd99-4640-aeac-eb624385e33a",
       "name": "Prof. Dr. Hosne Ara Baby",
       "degree": "MBBS, FCPS (OBGYN), Diploma (Reproductive Medicine & Embryology)",
       "specialty": "Gynecology, Infertility & Obstetrics Specialist",
       "workplace": "Shahabuddin Medical College & Hospital, Dhaka",
-      "info": "Infertility Care & Research Center (ICRC)\nAddress: 5/13 Humayun Road, Block # B, Mohammadpur, Dhaka\nVisiting Hour: 6pm to 9pm (Closed: Fri, Sun & Tue)\nAppointment: +8801753599504\nCall Now",
+      "info": "Infertility Care & Research Center (ICRC) Address: 5/13 Humayun Road, Block # B, Mohammadpur, Dhaka Visiting Hour: 6pm to 9pm (Closed: Fri, Sun & Tue) Appointment: +8801753599504 Call Now",
       "chamber": {
         "hospital": "Bangladesh Specialized Hospital",
         "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
         "visitingTime": "10am to 1pm (Closed: Friday)",
-        "appointmentNumber": "+8809666700100"
-      },
-      "id": "31f14040-0198-4eba-823a-5b31625d48dc"
+        "appointmentNumber": "+8809666700100Call Now"
+      }
     },
     {
+      "id": "fb86835a-053c-4926-bfcb-2de654510d8c",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/prof-dr-kamrunnessa/",
+      "imageId": "e0872f73-d623-41bb-bf1a-ea5c3f9c4f80",
       "name": "Prof. Dr. Kamrunnessa",
       "degree": "MBBS, MCPS, FCPS (OBGYN), MPH (Epidemiology), FMAS (India), FART (India)",
       "specialty": "Gynecology, Infertility Specialist & Laparoscopic Surgeon",
       "workplace": "BRB Hospital, Dhaka",
-      "info": "Delta Hospital, Mirpur\nAddress: 26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka – 1216\nVisiting Hour: 7pm to 9pm (Closed: Friday & Saturday)\nAppointment: +8801757603787\nCall Now",
+      "info": "Delta Hospital, Mirpur Address: 26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka – 1216 Visiting Hour: 7pm to 9pm (Closed: Friday & Saturday) Appointment: +8801757603787 Call Now",
       "chamber": {
         "hospital": "BRB Hospital, Dhaka",
         "address": "77/A, East Rajabazar, West Panthapath, Dhaka",
         "visitingTime": "10am to 2pm (Closed: Wed & Friday)",
-        "appointmentNumber": "10647"
-      },
-      "id": "48d1e316-2b5a-484c-8679-550f8f1aa5ce"
+        "appointmentNumber": "10647Call Now"
+      }
     },
     {
+      "id": "2aa165d1-d7e9-4ab9-bad0-075d586359bc",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-mustaque-ahmed/",
+      "imageId": "80c0dac0-6247-44fb-91dd-4c1aaa07a11c",
       "name": "Dr. Mustaque Ahmed",
       "degree": "MBBS (Dhaka), DRM (Switzerland), MMS in ART (UK)",
       "specialty": "Infertility & Reproductive Medicine Specialist",
       "workplace": "Harvest Infertility Care, Dhaka",
-      "info": "Harvest Infertility Care, Dhaka\nAddress: House # 100, Road # 06, Block # B, Pallabi, Mirpur 12, Dhaka\nVisiting Hour: 10am to 6pm (Closed: Sunday)\nAppointment: +8801817146640\nCall Now",
+      "info": "Harvest Infertility Care, Dhaka Address: House # 100, Road # 06, Block # B, Pallabi, Mirpur 12, Dhaka Visiting Hour: 10am to 6pm (Closed: Sunday) Appointment: +8801817146640 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Mirpur",
         "address": "Unit 02, House # 02, Block # A, Section # 10, Mirpur, Dhaka",
         "visitingTime": "10.30am to 11.30pm (Sat, Sun & Wed)",
-        "appointmentNumber": "+8809666787807"
-      },
-      "id": "1236c637-a26e-400f-be46-5b102eed6af3"
+        "appointmentNumber": "+8809666787807Call Now"
+      }
     },
     {
+      "id": "c206ffd6-b9f0-4aa7-b415-593da3475336",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-ummul-khair-mahmuda/",
+      "imageId": "cc024311-e2ec-4b55-a4cd-21933eee0fe4",
       "name": "Dr. Ummul Khair Mahmuda",
       "degree": "MBBS (DMC), FCPS (OBGYN), FCPS (Reproductive Endocrinology & Infertility)",
       "specialty": "Infertility, Gynecology & Reproductive Hormone Specialist",
@@ -430,11 +524,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "e4fac50b-4bd9-4821-8c5c-d5121c3b0806"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "8487fb02-90b8-4dda-9f8a-bc02abc8876d",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-pushpita-sharmin/",
+      "imageId": "735bf314-0e15-4c1d-b8f3-24b3e2f86b94",
       "name": "Dr. Pushpita Sharmin",
       "degree": "MBBS, BCS (Health), FCPS (Obs & Gynae), Trained in ART",
       "specialty": "Gynecology, Infertility & IVF Specialist",
@@ -444,11 +541,14 @@
         "hospital": "Infertility Care & Research Center (ICRC)",
         "address": "5/13 Humayun Road, Block # B, Mohammadpur, Dhaka",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801717497868"
-      },
-      "id": "6d10a9ab-f7b3-4e51-805e-de2bbdad3edf"
+        "appointmentNumber": "+8801717497868Call Now"
+      }
     },
     {
+      "id": "99651fb9-ef68-48d0-9773-57aa908b7d30",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-shohela-perveen/",
+      "imageId": "e168a0fd-8604-4ccf-9781-2411419f2bab",
       "name": "Dr. Shohela Perveen",
       "degree": "MBBS, FCPS (OBGYN)",
       "specialty": "Gynecology, Infertility Specialist & Laparoscopic Surgeon",
@@ -458,11 +558,14 @@
         "hospital": "Popular Diagnostic Center, Mirpur",
         "address": "Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka",
         "visitingTime": "4pm to 6pm (Closed: Sunday)",
-        "appointmentNumber": "+8809666787807"
-      },
-      "id": "25ea7a39-ca41-4734-9a2f-52bdb07e1ada"
+        "appointmentNumber": "+8809666787807Call Now"
+      }
     },
     {
+      "id": "79ba3626-bb8a-473c-9bfe-eac7e76ea636",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-sabiha-sultana-sumi/",
+      "imageId": "29d3f83c-f515-4c12-9347-cd673644dbf5",
       "name": "Dr. Sabiha Sultana Sumi",
       "degree": "MBBS, DGO, FCPS (Obs & Gyne), FCPS (Reproductive Endocrinology & Infertility)",
       "specialty": "IVF, Test Tube Baby & Infertility Specialist",
@@ -472,11 +575,14 @@
         "hospital": "Nova IVF Fertility, Panthapath",
         "address": "Sabamoon Towers (Level-6), 152/1/H, Green Road, Panthapath, Dhaka",
         "visitingTime": "11am to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8809606220220, +8801322842067"
-      },
-      "id": "00dc6b77-41ba-4abc-a73a-ed291e071062"
+        "appointmentNumber": "+8809606220220, +8801322842067Call Now"
+      }
     },
     {
+      "id": "ccb52da7-459a-4aa3-9a50-7a22529dfc21",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-fahmida-chowdhury-suma/",
+      "imageId": "8de49107-9c97-4de4-9eb9-99945eb9cad2",
       "name": "Dr. Fahmida Chowdhury Suma",
       "degree": "MBBS, BCS (Health). FCPS (OBGYN), FCPS (Reproductive Endocrinology & Infertility)",
       "specialty": "Gynecology, Infertility Specialist & Surgeon",
@@ -486,11 +592,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Malibagh",
         "address": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
         "visitingTime": "7pm to 9pm (Sun, Mon, Tue & Thu)",
-        "appointmentNumber": "+8809610009611"
-      },
-      "id": "462d9c02-8445-484e-8f08-564359f766b4"
+        "appointmentNumber": "+8809610009611Call Now"
+      }
     },
     {
+      "id": "cd16db9a-a12a-42fd-bc66-19cfd22d4339",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-mukti-rani-saha/",
+      "imageId": "0f1ee7cc-aa49-4628-9b5d-d4df7bb7acc0",
       "name": "Dr. Mukti Rani Saha",
       "degree": "MBBS (Dhaka), BCS (Health), FCPS (OBGYN), FCPS (Reproductive Endocrinology & Infertility)",
       "specialty": "Infertility & Test-tube Baby Specialist, Laparoscopic & Hysteroscopic Surgeon",
@@ -500,11 +609,14 @@
         "hospital": "Lumina IVF & Fertility Center Ltd",
         "address": "Firoz Tower (Lift-10), 152, Panthapath, Dhanmondi, Dhaka",
         "visitingTime": "3pm to 6pm (Sat, Tue & Wed)",
-        "appointmentNumber": "+8801711433330"
-      },
-      "id": "ff460f26-9dd3-4d11-bb9e-dc51be1aa36b"
+        "appointmentNumber": "+8801711433330Call Now"
+      }
     },
     {
+      "id": "d890192e-61a5-43ac-9411-a08007cf8b3d",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-eva-rani-nandi/",
+      "imageId": "dde32310-ddf4-46af-a696-4b9a15504018",
       "name": "Dr. Eva Rani Nandi",
       "degree": "MBBS, FCPS (OBGYN), FCPS (Reproductive Endocrinology & Infertility)",
       "specialty": "Gynecology, Infertility Specialist & Surgeon",
@@ -514,11 +626,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "5pm to 8pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801726937871"
-      },
-      "id": "3b78b7b3-fce1-434c-8766-352a9a4e4c0d"
+        "appointmentNumber": "+8801726937871Call Now"
+      }
     },
     {
+      "id": "63ffcaa1-1554-41c7-b679-48e214391ef2",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-hasna-hossain-akhee/",
+      "imageId": "5dd89950-e21d-4e08-a57b-ae741e6a2cef",
       "name": "Dr. Hasna Hossain Akhee",
       "degree": "MBBS, BCS (Health), MS (OBGYN), Training (Infertility & Laparoscopic)",
       "specialty": "Gynecology, Infertility Specialist & Laparoscopic Surgeon",
@@ -528,11 +643,14 @@
         "hospital": "BIHS General Hospital",
         "address": "125/1 Darus Salam, Mirpur 1, Dhaka - 1216",
         "visitingTime": "5pm to 8pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801740427276"
-      },
-      "id": "856cadb7-aa47-49ea-99a5-b75cc3f5bb00"
+        "appointmentNumber": "+8801740427276Call Now"
+      }
     },
     {
+      "id": "6b932808-f763-47c9-8783-86ba117e61b9",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-jesmin-iqbal-jui/",
+      "imageId": "ee3283fb-4625-46c4-86c3-a44e4b7a6447",
       "name": "Dr. Jesmin Iqbal (Jui)",
       "degree": "FCPS (Reproductive Endocrinology & Infertility), Diploma in InfertilityMBBS, BCS, MCPS, FCPS, MRCOG (UK)",
       "specialty": "Gynecologist, Obstetrician, Infertility Specialist & Laparoscopic SurgeonI.U.I & Test Tube Baby Specialist",
@@ -542,11 +660,14 @@
         "hospital": "Ibn Sina Hospital, Dhanmondi 15/A",
         "address": "House # 68, Road -15/A, Sankar, Dhanmondi R/A, Dhaka",
         "visitingTime": "5pm to 8.30pm (Closed: Tue & Friday)",
-        "appointmentNumber": "+8809610009630"
-      },
-      "id": "054c7d3c-0210-446d-bfbc-70653a6ee93c"
+        "appointmentNumber": "+8809610009630Call Now"
+      }
     },
     {
+      "id": "fe89e272-5aa0-42ef-be75-d48dde36750c",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-selina-afroz-ansary/",
+      "imageId": "17f44cd1-cb2e-4abd-a5ee-25a2a65707ba",
       "name": "Dr. Selina Afroz Ansary",
       "degree": "MBBS, FCPS (OBGYN), FCPS (Reproductive Endocrinology & Infertility)",
       "specialty": "Gynecology, Obstetrics, Infertility Specialist & Surgeon",
@@ -556,11 +677,14 @@
         "hospital": "Aurora Specialized Hospital",
         "address": "19/01, Kakrail (Opposite of Karnaphuli Garden City), Dhaka",
         "visitingTime": "6pm to 8pm (Sun, Mon & Tue)",
-        "appointmentNumber": "+8801404450401"
-      },
-      "id": "bcebc35d-0099-45cf-991b-1c9bb124f0c1"
+        "appointmentNumber": "+8801404450401Call Now"
+      }
     },
     {
+      "id": "037680b4-b5d4-4bce-a2e8-d117866bfa9d",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-lubna-yasmin/",
+      "imageId": "830d0044-b50c-4ff8-9040-b98d62156f4d",
       "name": "Dr. Lubna Yasmin",
       "degree": "MBBS, FCPS (OBGYN), Diploma in ART (ISRME, Mumbai)",
       "specialty": "Fertility & IVF Specialist",
@@ -570,11 +694,14 @@
         "hospital": "Nova IVF Fertility, Bangladesh (Basundhara Unit)",
         "address": "Adept Aamir Complex, KA-3/1-C, (Level -4), Basundhara Road, Jogonnathpur, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801755591384"
-      },
-      "id": "66f1273e-3da0-43e8-8106-841c2029c0a6"
+        "appointmentNumber": "+8801755591384Call Now"
+      }
     },
     {
+      "id": "69350479-3aa5-457d-b478-fc8a9f772443",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-zakiur-rahman/",
+      "imageId": "9d420e34-c3cd-4741-9616-5ea3945695c8",
       "name": "Dr. Zakiur Rahman",
       "degree": "MBBS, MD",
       "specialty": "Gynecologist, Infertility & IVF Specialist",
@@ -584,11 +711,14 @@
         "hospital": "Women's and Children's General Hospital",
         "address": "House-48/6, Road-9/A, Satmasjid Road, Dhanmondi R/A, Dhaka",
         "visitingTime": "3pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+880258151058"
-      },
-      "id": "a3acb61a-63cf-474a-90f0-e4bd918738fd"
+        "appointmentNumber": "+880258151058Call Now"
+      }
     },
     {
+      "id": "240da5ad-0af3-4816-bd49-171d1ed0b817",
+      "departmentId": "d47f1d78-43cf-43d2-a47f-c96526279aa0",
+      "link": "https://www.doctorbangladesh.com/dr-umme-tahmina-shima/",
+      "imageId": "2204abcb-2c81-4206-925a-c7d7e8d2c3ea",
       "name": "Dr. Umme Tahmina Shima",
       "degree": "MBBS (DMC), FCPS (Gynae & Obs),FCPS (Reproductive Endocrinology and Infertility)",
       "specialty": "Infertility & IVF Specialist, Laparoscopic and Hysteroscopic Surgeon",
@@ -598,9 +728,8 @@
         "hospital": "Lumina IVF & Fertility Center Ltd",
         "address": "Firoz Tower (Lift-10), 152, Panthapath, Dhanmondi, Dhaka",
         "visitingTime": "4pm to 8pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801711433330"
-      },
-      "id": "12792399-0383-415e-a330-c3356f069791"
+        "appointmentNumber": "+8801711433330Call Now"
+      }
     }
   ]
 }

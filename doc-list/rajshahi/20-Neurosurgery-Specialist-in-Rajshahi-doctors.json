@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "5ad5f3a0-7606-43d5-97a4-4ac18c1e4ca2",
+      "departmentId": "8883b433-1386-4cbc-a7e2-d5326ab11a60",
+      "link": "https://www.doctorbangladesh.com/dr-md-lailatul-kadir-milky/",
+      "imageId": "0718c13f-29a5-4024-84c1-ab3971e7e88b",
       "name": "Dr. Md. Lailatul Kadir Milky",
       "degree": "MBBS, BCS (Health), MS (Neurosurgery)",
       "specialty": "Neurosurgery Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
         "address": "Laxmipur Mor, Rajshahi",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801762685090"
-      },
-      "id": "87c6be15-e422-491a-8e63-15815c856996"
+        "appointmentNumber": "+8801762685090Call Now"
+      }
     },
     {
+      "id": "3ce4e9a2-e18d-45cf-8dbf-71d5300e5450",
+      "departmentId": "8883b433-1386-4cbc-a7e2-d5326ab11a60",
+      "link": "https://www.doctorbangladesh.com/dr-md-monzurul-haque/",
+      "imageId": "3e643536-6cb3-468c-bb4f-f0adea152027",
       "name": "Dr. Md. Monzurul Haque",
       "degree": "MBBS, BCS (Health), FCPS (Neurosurgery), MS (Neurosurgery)",
       "specialty": "Neurosurgery (Brain & Spine Surgery) Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "3pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "f6f25f6e-9784-4638-b12b-f2294f391e15"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "e8d2cd2d-e91b-40c8-bd00-90a957091eb0",
+      "departmentId": "8883b433-1386-4cbc-a7e2-d5326ab11a60",
+      "link": "https://www.doctorbangladesh.com/dr-md-a-f-m-momtazul-haque/",
+      "imageId": "f2c53fb4-f339-445c-8800-ccf0e249e654",
       "name": "Dr. Md. A.F.M. Momtazul Haque",
       "degree": "MBBS (DMC), MS (Neurosurgery)",
       "specialty": "Neurosurgery Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "3pm to 9pm (Thursday), 10am to 5pm (Friday),",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "443cd383-b834-4ac9-82ab-a2b4631987c8"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "1ffa8a22-6499-4d49-b7e1-a33fbe3acace",
+      "departmentId": "8883b433-1386-4cbc-a7e2-d5326ab11a60",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-lutfor-rahman/",
+      "imageId": "60c5922d-6687-4d03-8b14-d38a2813f82c",
       "name": "Prof. Dr. Md. Lutfor Rahman",
       "degree": "MBBS, FCPS (Surgery), MS (Surgery), Fellow Neurosurgery (Singapore & Japan)",
       "specialty": "Neurosurgery (Brain, Stroke, Nerve & Spine) Specialist & Surgeon",
@@ -52,11 +65,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "12am to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "69957d92-5f04-4f7f-b350-db9ea6acc93b"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "bbdb2f88-e50c-47f7-9a15-75c5667a1025",
+      "departmentId": "8883b433-1386-4cbc-a7e2-d5326ab11a60",
+      "link": "https://www.doctorbangladesh.com/dr-md-shamsul-huda-nipun/",
+      "imageId": "ae5fa35e-9c4b-444e-826d-c692339165c3",
       "name": "Dr. Md. Shamsul Huda (Nipun)",
       "degree": "MBBS, BCS (Health), MS (Neurosurgery), FCPS (Surgery)",
       "specialty": "Neurosurgery (Brain, Nerve, Spine, Stroke) Specialist & Surgeon",
@@ -66,11 +82,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "3pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "4bdbe807-b807-4e63-b382-0524eb461c62"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "5c42eff5-6336-4eba-96a7-f2a0a7dc731a",
+      "departmentId": "8883b433-1386-4cbc-a7e2-d5326ab11a60",
+      "link": "https://www.doctorbangladesh.com/dr-md-sarowar-alam/",
+      "imageId": "99a51220-8a1c-42d7-9ab5-bc4791661086",
       "name": "Dr. Md. Sarowar Alam",
       "degree": "MBBS (RMC), BCS (Health), MS (Neurosurgery)",
       "specialty": "Brain, Spine, Nerve and Stroke Specialist Neurosurgeon",
@@ -80,9 +99,8 @@
         "hospital": "Borendro Diagnostic Center",
         "address": "Mehedi Plaza, Lazmipur, Rajshahi",
         "visitingTime": "6pm to 9pm (Thursday & Friday)",
-        "appointmentNumber": "+8801954300990"
-      },
-      "id": "b165b3e2-6b3e-43ec-9faf-da4b4c342a47"
+        "appointmentNumber": "+8801954300990Call Now"
+      }
     }
   ]
 }

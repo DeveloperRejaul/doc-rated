@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "7305a673-a512-40ac-bdfa-27c703bc18bd",
+      "departmentId": "e2dd3f84-a580-4c9b-858c-09180dfeede9",
+      "link": "https://www.doctorbangladesh.com/dr-md-ariful-islam-sohel/",
+      "imageId": "79cd45fd-770f-44a9-b564-d5cefc681fb9",
       "name": "Dr. Md. Ariful Islam Sohel",
       "degree": "MBBS, FCPS (PMR)",
       "specialty": "Physical Medicine Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Popular Diagnostic Center, Rangpur",
         "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787813"
-      },
-      "id": "80c9aab8-7a51-40bb-bf20-ea7c8dd36df9"
+        "appointmentNumber": "+8809666787813Call Now"
+      }
     },
     {
+      "id": "1a9f088f-2c5a-4b8a-ba5d-613670739dda",
+      "departmentId": "e2dd3f84-a580-4c9b-858c-09180dfeede9",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdul-hai-rubel/",
+      "imageId": "5a746527-2f12-4e64-a1f7-df16b2e57fbf",
       "name": "Dr. Md. Abdul Hai Rubel",
       "degree": "MBBS, BCS (Health), FCPS (Physical Medicine)",
       "specialty": "Physical Medicine Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Update Diagnostic, Rangpur",
         "address": "Dhap, Jail Road, Rangpur",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801971555555"
-      },
-      "id": "eb005fa1-8478-40a6-b9e5-83cef37f434a"
+        "appointmentNumber": "+8801971555555Call Now"
+      }
     },
     {
+      "id": "0b0781a8-14f3-4529-8691-b182750f2d7b",
+      "departmentId": "e2dd3f84-a580-4c9b-858c-09180dfeede9",
+      "link": "https://www.doctorbangladesh.com/dr-md-fazlul-karim/",
+      "imageId": "fa46a720-272d-4146-90fd-34509d71081d",
       "name": "Dr. Md. Fazlul Karim",
       "degree": "MBBS, BCS (Health), FCPS (PMR)",
       "specialty": "Physical Medicine Specialist",
@@ -38,9 +48,8 @@
         "hospital": "Popular Diagnostic Center, Rangpur",
         "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
         "visitingTime": "3.30pm to 9.30pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787813"
-      },
-      "id": "7f706265-c207-4444-9d89-13f3345c30c0"
+        "appointmentNumber": "+8809666787813Call Now"
+      }
     }
   ]
 }

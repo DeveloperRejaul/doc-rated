@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "1a7a6574-d457-4ff4-989d-9032b0493ca3",
+      "departmentId": "220e5642-dda4-4bc8-a8b0-ea6faaef61f7",
+      "link": "https://www.doctorbangladesh.com/dr-md-kafil-uddin/",
+      "imageId": "2621649e-6328-4e2c-9c34-03907e10ffea",
       "name": "Prof. Dr. Md. Kafil Uddin",
       "degree": "MBBS, MCPS (Medicine), MD (Neurology)",
       "specialty": "Brain, Stroke, Nerve, Medicine & Neuromedicine Specialist",
@@ -10,25 +14,31 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "5pm to 11pm (Sat, Sun & Thu), 10pm to 11pm (Mon, Tue & Wed)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "c33e8b59-94a9-4db6-8fbe-2d9eed37371f"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "576d3ba2-aad5-43eb-bf3a-ef5b1028d77d",
+      "departmentId": "220e5642-dda4-4bc8-a8b0-ea6faaef61f7",
+      "link": "https://www.doctorbangladesh.com/dr-md-munzur-elahi/",
+      "imageId": "2967a7c1-381f-4fc1-8481-5218175117d6",
       "name": "Dr. Md. Munzur Elahi",
       "degree": "MBBS, MD (Neurology)",
       "specialty": "Neuromedicine (Brain, Nerve, Spine, Headache, Backpain) Specialist",
       "workplace": "Rajshahi Medical College & Hospital",
-      "info": "Islami Bank Hospital, Rajshahi\nAddress: Medical Mor, Laxmipur, Rajshahi – 6000\nVisiting Hour: 3pm to 6pm (Closed: Friday)\nAppointment: +8801777242536\nCall Now",
+      "info": "Islami Bank Hospital, Rajshahi Address: Medical Mor, Laxmipur, Rajshahi – 6000 Visiting Hour: 3pm to 6pm (Closed: Friday) Appointment: +8801777242536 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "8pm to 10pm (Sat, Sun & Mon), 4:30pm to 7pm (Tue & Wed)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "9553736e-93fa-41d7-a7c8-b74505cf67d4"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "1b987654-b25c-4156-a2b6-8bb37c16d2a7",
+      "departmentId": "220e5642-dda4-4bc8-a8b0-ea6faaef61f7",
+      "link": "https://www.doctorbangladesh.com/dr-pijush-kumar-kundu/",
+      "imageId": "82abf43b-d12a-4f4e-a860-d4e13116314f",
       "name": "Prof. Dr. Pijush Kumar Kundu",
       "degree": "MBBS, MD (Neuromedicine)",
       "specialty": "Neuromedicine (Brain, Nerve, Spine, Headache, Backpain) Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "6pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "7e4263b1-af43-4718-b29f-ca1845162f75"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "6d120ffc-1aa2-4d28-b3fa-967bc30ff722",
+      "departmentId": "220e5642-dda4-4bc8-a8b0-ea6faaef61f7",
+      "link": "https://www.doctorbangladesh.com/dr-md-pervez-amin/",
+      "imageId": "7e4d96d5-31dd-4859-a9d5-cde270357769",
       "name": "Dr. Md. Pervez Amin",
       "degree": "MBBS, MD (Neurology)",
       "specialty": "Neurology (Brain, Stroke, Nerve, Paralysis, Headache) Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "5:30pm to 10pm (Friday: 10am to 1pm)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "14970cb7-1194-4f6a-8940-912dba06bd41"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "cbaee705-f0db-4f66-88b0-76a09d8f9c8d",
+      "departmentId": "220e5642-dda4-4bc8-a8b0-ea6faaef61f7",
+      "link": "https://www.doctorbangladesh.com/dr-reza-nasim-ahmed-roni/",
+      "imageId": "2d74e63a-c258-40f8-9bba-de15b54efc8f",
       "name": "Dr. Reza Nasim Ahmed Roni",
       "degree": "MBBS, BCS (Health), MD (Neuromedicine), MACP (USA), FRSM (UK)",
       "specialty": "Neuromedicine Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Islami Bank Hospital, Rajshahi",
         "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
         "visitingTime": "2.30pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801777242536"
-      },
-      "id": "9c1b28c4-d6fe-4fb3-bf3c-ba982f8eb38e"
+        "appointmentNumber": "+8801777242536Call Now"
+      }
     },
     {
+      "id": "cf1563bf-ba74-45c4-9a37-e7e74641da2d",
+      "departmentId": "220e5642-dda4-4bc8-a8b0-ea6faaef61f7",
+      "link": "https://www.doctorbangladesh.com/dr-mukul-kumar-sarkar/",
+      "imageId": "70378ecc-567f-4ae5-828d-e5e0b53a8144",
       "name": "Dr. Mukul Kumar Sarkar",
       "degree": "MBBS, BCS (Health), MD (Neurology)",
       "specialty": "Neurology (Brain, Stroke, Paralysis, Headache, Nerve, Spine) Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "3pm to 9pm (Everyday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "c995caf8-32e2-4783-ac10-29e106d52ae1"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "6e052556-d0b8-4bc5-b1db-3ada7896af89",
+      "departmentId": "220e5642-dda4-4bc8-a8b0-ea6faaef61f7",
+      "link": "https://www.doctorbangladesh.com/dr-s-m-imdadul-haque/",
+      "imageId": "5e25aec5-aae4-4a34-8d6b-7105f21894af",
       "name": "Dr. S. M. Imdadul Haque",
       "degree": "MBBS, MD (Neurology)",
       "specialty": "Neurology (Brain, Nerve, Spine, Headache, Migraine) Specialist",
@@ -94,11 +116,14 @@
         "hospital": "Zamzam Islami Hospital, Rajshahi",
         "address": "Greater Road, Kazihata, Laxmipur, Rajshahi",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801711192600"
-      },
-      "id": "d4681f0b-6dcf-4bb9-8ce6-d3b9e78e310b"
+        "appointmentNumber": "+8801711192600Call Now"
+      }
     },
     {
+      "id": "721b4717-323a-4b15-b549-bc8f37124e62",
+      "departmentId": "220e5642-dda4-4bc8-a8b0-ea6faaef61f7",
+      "link": "https://www.doctorbangladesh.com/dr-m-ahmed-ali/",
+      "imageId": "b8137ef7-877d-45f6-9882-6c21f196a185",
       "name": "Dr. M. Ahmed Ali",
       "degree": "MBBS, MD (Neuromedicine)",
       "specialty": "Neuromedicine Specialist",
@@ -108,11 +133,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "5pm to 9:30pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "a8c889d1-24ac-407b-b1c4-5656f72a056d"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "f2f0752a-b40a-42be-8ed9-582a356775b0",
+      "departmentId": "220e5642-dda4-4bc8-a8b0-ea6faaef61f7",
+      "link": "https://www.doctorbangladesh.com/dr-abm-mahbubul-haque-limon/",
+      "imageId": "0217eb96-ba96-4464-b22c-9d2a656af909",
       "name": "Dr. ABM Mahbubul Haque (Limon)",
       "degree": "MBBS, BCS (Health), MD (Neuromedicine)",
       "specialty": "Neuromedicine (Brain, Nerve, Spine, Headache, Backpain) Specialist",
@@ -122,11 +150,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "3:30pm to 9pm (Sat to Thu), 10am to 12pm (Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "a95af0de-24e2-4f41-8bf2-65bc92505591"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "383bb672-49a0-4b8c-b961-6b67933b9861",
+      "departmentId": "220e5642-dda4-4bc8-a8b0-ea6faaef61f7",
+      "link": "https://www.doctorbangladesh.com/dr-raseul-kabir-palash/",
+      "imageId": "00763769-658a-49cf-8200-1859155dacee",
       "name": "Dr. Raseul Kabir Palash",
       "degree": "MBBS, MD (Neuromedicine), FCPS (Medicine)",
       "specialty": "Neuromedicine Specialist",
@@ -136,11 +167,14 @@
         "hospital": "Labaid Diagnostic, Rajshahi",
         "address": "House # 621, Shershah Road, Rajpara, Laxmipur, Rajshahi - 6000",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766661144"
-      },
-      "id": "7ec78e53-238a-411b-baf9-ccaf1a6d082e"
+        "appointmentNumber": "+8801766661144Call Now"
+      }
     },
     {
+      "id": "480e5af1-949d-4f05-acdf-aabffd64daed",
+      "departmentId": "220e5642-dda4-4bc8-a8b0-ea6faaef61f7",
+      "link": "https://www.doctorbangladesh.com/dr-muhtarima-tabassum-nipu/",
+      "imageId": "a7102c80-f37c-4243-b63f-4186f1ebd417",
       "name": "Dr. Muhtarima Tabassum Nipu",
       "degree": "MBBS, BCS (Health), MD (Neuromedicine)",
       "specialty": "Neuromedicine Specialist",
@@ -150,11 +184,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "6dc732fd-76b5-471d-9816-8747510bcdbc"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "26f21187-30be-4f77-8761-d30d33c82d4a",
+      "departmentId": "220e5642-dda4-4bc8-a8b0-ea6faaef61f7",
+      "link": "https://www.doctorbangladesh.com/dr-achinta-kumar-mallick/",
+      "imageId": "f32e20cd-fbb7-4e85-8329-c24a926fd1c0",
       "name": "Dr. Achinta Kumar Mallick",
       "degree": "MBBS, BCS (Health), MD (Neuromedicine)",
       "specialty": "Neuromedicine Specialist",
@@ -164,11 +201,14 @@
         "hospital": "Medipath Diagnostic Complex, Rajshahi",
         "address": "Shuvecca View, Greater Road, Laxmipur, Kajihata, Rajshahi",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801712685297"
-      },
-      "id": "26c6ce37-b85e-43a2-9b27-a1240decdb34"
+        "appointmentNumber": "+8801712685297Call Now"
+      }
     },
     {
+      "id": "aff52139-074b-4a89-b754-54a63b8316ae",
+      "departmentId": "220e5642-dda4-4bc8-a8b0-ea6faaef61f7",
+      "link": "https://www.doctorbangladesh.com/dr-prosad-kumar-sarker/",
+      "imageId": "800d591a-7c11-4556-8ccc-11d5a4b3f77b",
       "name": "Dr. Prosad Kumar Sarker",
       "degree": "MBBS, BCS (Health), MD (Neurology)",
       "specialty": "Neurology (Brain, Nerve, Stroke, Migraine, Headache) Specialist",
@@ -178,11 +218,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "4pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "0b72f751-ffc2-4c6f-b5a6-a8db7a739ecb"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "bcae06a0-d196-495f-a4ea-6e703eb8094a",
+      "departmentId": "220e5642-dda4-4bc8-a8b0-ea6faaef61f7",
+      "link": "https://www.doctorbangladesh.com/dr-md-edrish-ali-akand/",
+      "imageId": "c23b7115-94b0-473f-88d8-1aee8893b6cc",
       "name": "Dr. Md. Edrish Ali Akand",
       "degree": "MBBS, BCS (Health), MD (Neurology)",
       "specialty": "Neurology (Brain, Nerve, Spine, Stroke, Migraine, Headache) Specialist",
@@ -192,9 +235,8 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "3.30pm to 10pm (Sat, Tue, Wed & Thu)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "dccaa48b-77c6-444c-8577-c8bd360c21ab"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     }
   ]
 }

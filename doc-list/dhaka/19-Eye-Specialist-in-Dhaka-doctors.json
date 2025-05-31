@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "1546f94c-ec4f-445d-8e1f-3e7c20a912db",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-jamsed-faridi-jami/",
+      "imageId": "0b6c16fe-f420-4959-ad5a-63685dd90498",
       "name": "Dr. Jamsed Faridi Jami",
       "degree": "MBBS (DU), D-OPHTH (BSMMU), CCD (BIRDEM)",
       "specialty": "Phaco, Squint & Child Eye Specialist",
@@ -10,53 +14,65 @@
         "hospital": "Vision Eye Hospital, Dhaka",
         "address": "229 Green Road, Dhanmondi, Dhaka – 1205",
         "visitingTime": "Saturday, Sunday, Monday, Thursday",
-        "appointmentNumber": "+8809610244123"
-      },
-      "id": "86ac4447-fd99-4ab8-91c5-a4d29bbcd019"
+        "appointmentNumber": "+8809610244123Call Now"
+      }
     },
     {
+      "id": "efebdbf2-1b3f-45b8-9d94-fab641c9067e",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-bipul-kumer-sarker/",
+      "imageId": "963e3bac-d6f7-4c40-b5d3-a906a8649cee",
       "name": "Dr. Bipul Kumer Sarker",
       "degree": "MBBS, FRCS (UK), MRCS (UK), FICO (UK), FCPS",
       "specialty": "Eye Disease, Cataract, Glaucoma Specialist & Phaco Surgeon",
       "workplace": "Ispahani Islamia Eye Institute & Hospital",
-      "info": "Dr. Bipul Kumer Sarker is a Eye Specialist in Dhaka. His qualification is MBBS, FRCS (UK), MRCS (UK), FICO (UK), FCPS. He is a Associate Professor, Glaucoma & Cataract at Ispahani Islamia Eye Institute & Hospital . He regularly provides treatment to his patients at Retina Glaucoma Center & Superspecialty Eye Hospital . Practicing hour of Dr. Bipul Kumer Sarker at Retina Glaucoma Center & Superspecialty Eye Hospital  is 5pm to 8pm (Sat, Mon & Wed).",
+      "info": "Dr. Bipul Kumer Sarker is a Eye Specialist in Dhaka. His qualification is MBBS, FRCS (UK), MRCS (UK), FICO (UK), FCPS. He is a Associate Professor, Glaucoma & Cataract at Ispahani Islamia Eye Institute & Hospital . He regularly provides treatment to his patients at Retina Glaucoma Center & Superspecialty Eye Hospital . Practicing hour of Dr. Bipul Kumer Sarker at Retina Glaucoma Center & Superspecialty Eye Hospital is 5pm to 8pm (Sat, Mon & Wed).",
       "chamber": {
         "hospital": "Retina Glaucoma Center & Superspecialty Eye Hospital",
         "address": "57/E Panthapath, East Side of BRB Hospital, Dhaka 1215",
         "visitingTime": "5pm to 8pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801733747575"
-      },
-      "id": "698b7bfc-ef10-46ce-bdaf-dd4c95f24916"
+        "appointmentNumber": "+8801733747575Call Now"
+      }
     },
     {
+      "id": "62dc43f1-77d9-452b-bea6-b017e8b51364",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-moniruzzaman/",
+      "imageId": "36d189a6-82b3-4f75-a0d8-2239bb2e1f6f",
       "name": "Dr. Muhammad Moniruzzaman",
       "degree": "MBBS, FCPS, FACS, FSIO",
       "specialty": "Eye Specialist, Vitreo-Retina Specialist & Surgeon",
       "workplace": "Vision Eye Hospital, Dhaka",
-      "info": "Dr. Muhammad Moniruzzaman is the Consultant, Vitreo-Retina Department, Vision Eye Hospital, Chairman of Vision Eye Hospital. His clinical area is Diabetic eye diseases and diabetic retinopathy, Eye bleeding due to hypertension, diabetes and trauma, retinal detachment,  myopic retinopathy, age related macular degeneration, retinopathy of premature baby. He regularly provides treatment to his patients at Vision Eye hospital.",
+      "info": "Dr. Muhammad Moniruzzaman is the Consultant, Vitreo-Retina Department, Vision Eye Hospital, Chairman of Vision Eye Hospital. His clinical area is Diabetic eye diseases and diabetic retinopathy, Eye bleeding due to hypertension, diabetes and trauma, retinal detachment, myopic retinopathy, age related macular degeneration, retinopathy of premature baby. He regularly provides treatment to his patients at Vision Eye hospital.",
       "chamber": {
         "hospital": "Vision Eye Hospital, Dhaka",
         "address": "229 Green Road, Dhanmondi, Dhaka – 1205",
         "visitingTime": "8am to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801988815702"
-      },
-      "id": "695a5949-7e1d-424d-9bdd-8e5236b50d6d"
+        "appointmentNumber": "+8801988815702Call Now"
+      }
     },
     {
+      "id": "722a7575-c9d6-4b39-a535-ffbff66fd7aa",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-siddiqur-rahman/",
+      "imageId": "a9e77071-3fd9-4b4a-9fa9-eb14c7c6edc7",
       "name": "Dr. Siddiqur Rahman",
       "degree": "MBBS, DO (DU), FCPS (EYE)",
       "specialty": "Eye Diseases (Glaucoma) Specialist & Refractive Surgeon",
       "workplace": "Vision Eye Hospital, Dhaka",
-      "info": "Dr. Siddiqur Rahman  is the Visiting Professor, Northern International Medical College Hospital, Consultant & Surgeon, Refractive Surgery Department and Managing Director of Vision Eye Hospital. His clinical areas are Glaucoma: Trabeculectomy, Trabeculotomy, Glaucoma Valve Implant, Laser Procedures. Refractive Surgery: LASIK, SMILE, ICL/IPCL Implant, Collagen Crosslinking (CXL/C3R), Cataract Surgery: Phacoimulsification (all age group including complicated & congenital cataract) with Monofocal, Aspheric, Multifocal, Trifocal, Toric IOL, Laser DCR.",
+      "info": "Dr. Siddiqur Rahman is the Visiting Professor, Northern International Medical College Hospital, Consultant & Surgeon, Refractive Surgery Department and Managing Director of Vision Eye Hospital. His clinical areas are Glaucoma: Trabeculectomy, Trabeculotomy, Glaucoma Valve Implant, Laser Procedures. Refractive Surgery: LASIK, SMILE, ICL/IPCL Implant, Collagen Crosslinking (CXL/C3R), Cataract Surgery: Phacoimulsification (all age group including complicated & congenital cataract) with Monofocal, Aspheric, Multifocal, Trifocal, Toric IOL, Laser DCR.",
       "chamber": {
         "hospital": "Vision Eye Hospital, Dhaka",
         "address": "229 Green Road, Dhanmondi, Dhaka – 1205",
         "visitingTime": "8am to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801988815702"
-      },
-      "id": "a9e12802-7e64-4630-9031-41f5a2f3eb11"
+        "appointmentNumber": "+8801988815702Call Now"
+      }
     },
     {
+      "id": "c18b7de2-f8fb-4d37-b8ca-150570755637",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-masudul-hasan/",
+      "imageId": "12c0460c-65e5-4c26-a8bb-dbfc2b7e5bb4",
       "name": "Dr. Masudul Hasan",
       "degree": "MBBS, FCPS (EYE), DO (DU), MCPS (EYE)",
       "specialty": "Eye (Cornea & Interior segment) Specialist & Refractive Surgeon",
@@ -66,11 +82,14 @@
         "hospital": "Vision Eye Hospital, Dhaka",
         "address": "229 Green Road, Dhanmondi, Dhaka – 1205",
         "visitingTime": "8am to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801988815702"
-      },
-      "id": "ea9db814-32ed-404b-b3cd-1052810733c2"
+        "appointmentNumber": "+8801988815702Call Now"
+      }
     },
     {
+      "id": "9a2b437d-5e35-42c5-9ee6-22eeddd4fb5c",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-sheikh-m-a-mannaf/",
+      "imageId": "6bad56b8-6ff3-48bd-ad70-ed637d25c001",
       "name": "Prof. Dr. Sheikh M. A. Mannaf",
       "degree": "MBBS, FCPS (EYE), Fellow in Glaucoma (USA)",
       "specialty": "Eye Diseases, Glaucoma, Phaco, Retina & Squint Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Harun Eye Foundation Hospital, Dhanmondi",
         "address": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
         "visitingTime": "5pm to 9pm (Sat to Thu) & 10am to 12pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+88029613930"
-      },
-      "id": "b1980238-e2b7-4477-a6ee-aac634dbba29"
+        "appointmentNumber": "+88029613930Call Now"
+      }
     },
     {
+      "id": "cb4a0ee4-2eca-4b49-9a1d-dfd0238b35bd",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-sarwar-alam-eye/",
+      "imageId": "19d45d21-57a7-45ed-8449-db4c00a67264",
       "name": "Prof. Dr. Sarwar Alam",
       "degree": "MBBS, DO, FCPS (EYE)",
       "specialty": "Eye Specialist, Cornea & Cataract Surgeon",
@@ -94,11 +116,14 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "9am to 12pm (Closed: Friday)",
-        "appointmentNumber": "+8801721558220"
-      },
-      "id": "721d827a-1a2d-4f09-a6c9-a67c290341f2"
+        "appointmentNumber": "+8801721558220Call Now"
+      }
     },
     {
+      "id": "6ed73783-6878-457f-be72-fd6f292ddbad",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-golam-haider/",
+      "imageId": "52a747c5-85e9-4c78-9f0d-fc7962d4f3ed",
       "name": "Prof. Dr. Golam Haider",
       "degree": "MBBS, FCPS (EYE), MCPS (EYE), Fellow in Oculoplasty (India)",
       "specialty": "Eye Lid. Orbit & Ocuplastic Surgeon",
@@ -108,39 +133,48 @@
         "hospital": "Harun Eye Foundation Hospital, Dhanmondi",
         "address": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801728148434"
-      },
-      "id": "8790b297-2a6a-48a6-9942-33857766449b"
+        "appointmentNumber": "+8801728148434Call Now"
+      }
     },
     {
+      "id": "4b7b2b21-531f-42e2-ac07-d4589a7257c4",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-saleh-uddin/",
+      "imageId": "8f3e2a28-0668-4eca-b663-eb9d1dbd4a90",
       "name": "Prof. Dr. Md. Salehuddin",
       "degree": "MBBS, FCPS (BD), MS (EYE), MHPED (AU), FCPS (PK), FICS",
       "specialty": "Eye Specialist & Surgeon",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Bashundhara Eye Hospital & Research Institute\nAddress: 474, Road # 5, Block # D, Beside Mededi Mart, Bashundhara R/A, Dhaka\nVisiting Hour: 9am to 1pm (Sat, Mon & Thu)\nAppointment: +8809643200700\nCall Now",
+      "info": "Bashundhara Eye Hospital & Research Institute Address: 474, Road # 5, Block # D, Beside Mededi Mart, Bashundhara R/A, Dhaka Visiting Hour: 9am to 1pm (Sat, Mon & Thu) Appointment: +8809643200700 Call Now",
       "chamber": {
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "9am to 12pm (Closed: Friday)",
-        "appointmentNumber": "+8801711848692"
-      },
-      "id": "f6843053-0b16-4d82-9052-855bc347e30f"
+        "appointmentNumber": "+8801711848692Call Now"
+      }
     },
     {
+      "id": "b6f1d86f-aba4-4e8c-8c88-7acb1883729b",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-shovana-alam/",
+      "imageId": "6eabb2d3-1cc8-41d0-9e3e-ae86bd2dc0e0",
       "name": "Dr. Shovana Alam",
       "degree": "MBBS, MS (EYE)",
       "specialty": "Phaco, Squint & Child Eye Specialist",
       "workplace": "National Institute of Ophthalmology & Hospital",
-      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, B.B. Road, Chashara, Narayanganj – 1400\nVisiting Hour: 10am to 1pm & 4pm to 8pm (Only Friday)\nAppointment: +8809666787804\nCall Now",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, B.B. Road, Chashara, Narayanganj – 1400 Visiting Hour: 10am to 1pm & 4pm to 8pm (Only Friday) Appointment: +8809666787804 Call Now",
       "chamber": {
         "hospital": "Harun Eye Foundation Hospital, Dhanmondi",
         "address": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
         "visitingTime": "5pm to 8pm (Sun to Wed)",
-        "appointmentNumber": "+88029613930"
-      },
-      "id": "fd23afa7-341e-4787-a392-c88e8f3df472"
+        "appointmentNumber": "+88029613930Call Now"
+      }
     },
     {
+      "id": "e74ad0ad-77c1-427b-8ee2-f424fe117993",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-khandoker-ziaul-islam-zia/",
+      "imageId": "957058d7-f557-4e58-bc6c-c56b3151dc2a",
       "name": "Prof. Dr. Khandoker Ziaul Islam Zia",
       "degree": "MBBS, DO, MS (EYE), Fellow LVPEI (India)",
       "specialty": "Glaucoma, Phaco, Laser & Vitreo-Retina Specialist Surgeon",
@@ -150,11 +184,14 @@
         "hospital": "Harun Eye Foundation Hospital, Dhanmondi",
         "address": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
         "visitingTime": "10am to 1pm & 5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801726739850 "
-      },
-      "id": "66de7ee9-8e2d-48ca-9f4d-29d43cf411be"
+        "appointmentNumber": "+8801726739850 Call Now"
+      }
     },
     {
+      "id": "6ff93a56-bf89-440a-a44a-a608c6147438",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-asm-kamal-uddin/",
+      "imageId": "1650faf7-41be-4e1d-9f1a-916322dc0478",
       "name": "Prof. Dr. ASM Kamal Uddin",
       "degree": "MBBS, FCPS (EYE)",
       "specialty": "Phaco, Glaucoma & Medical Retina Specialist",
@@ -164,11 +201,14 @@
         "hospital": "Harun Eye Foundation Hospital, Dhanmondi",
         "address": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
         "visitingTime": "5pm to 8pm (Closed: Friday & Saturday)",
-        "appointmentNumber": "+88029613930"
-      },
-      "id": "ef6d8f23-e952-4a22-bdb8-5a756bd6e693"
+        "appointmentNumber": "+88029613930Call Now"
+      }
     },
     {
+      "id": "53ec2ddb-657b-464f-9abd-3c885408ea94",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-brig-gen-dr-sayedur-rahman/",
+      "imageId": "14b2163b-6e82-4bfe-b7db-5056e732acd6",
       "name": "Brig. Gen. (Retd) Prof. Dr. Md. Sayedur Rahman",
       "degree": "MBBS, DO, FCPS (EYE), MCPS, FICO (UK)",
       "specialty": "Eye Diseases Specialist, Phaco, Glaucoma, Squint, Orbital & Oculoplastic surgeon",
@@ -178,11 +218,14 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10678"
-      },
-      "id": "09942646-4288-4829-afaa-6ad5e1cd7d63"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "8d43adfd-b622-46b2-b118-d891ec25d565",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-akm-nazmus-saquib/",
+      "imageId": "fb840856-d4ec-4181-9d9c-156bca05443a",
       "name": "Dr. AKM Nazmus Saquib",
       "degree": "MBBS, PhD, D-Ophth (DU), FRSH (London), MAMS (Vienna)",
       "specialty": "Eye Specialist & Phaco Surgeon",
@@ -192,25 +235,31 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "10am to 12pm & 5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "eabeedb2-0711-4a2f-89a8-4ea61193dd49"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "837e4078-89ee-4d09-90ce-f6ed1e9e08ae",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-sanjay-kumar-sarkar/",
+      "imageId": "fb15f939-d26d-4698-aa9f-d35b83de0567",
       "name": "Dr. Sanjay Kumar Sarker",
       "degree": "MBBS (DMC), BCS (Health), FCPS (EYE), MCPS (EYE), Fellow (Vitreo-Retina)",
       "specialty": "Eye Specialist & Phaco Surgeon",
       "workplace": "National Institute of Ophthalmology & Hospital",
-      "info": "Shimla Hospital, Pabna\nAddress: Shimla Tower, Thana Mor, Hospital Road, Pabna\nVisiting Hour: 9am to 9pm (Only Friday)\nAppointment: +8801713228218\nCall Now",
+      "info": "Shimla Hospital, Pabna Address: Shimla Tower, Thana Mor, Hospital Road, Pabna Visiting Hour: 9am to 9pm (Only Friday) Appointment: +8801713228218 Call Now",
       "chamber": {
         "hospital": "Green Eye Hospital, Dhaka",
         "address": "Rupayan Khan Plaza, House No: 500/A, Road No: 7, Dhanmondi 1205",
         "visitingTime": "4pm to 8pm (Sunday & Tuesday)",
-        "appointmentNumber": "+8801717487807"
-      },
-      "id": "c59e8174-0d19-4571-9cd8-c3aef5dd1939"
+        "appointmentNumber": "+8801717487807Call Now"
+      }
     },
     {
+      "id": "a0a7b3c2-b575-4c81-ae75-c65aa6883524",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-kazi-shabbir-anwar/",
+      "imageId": "263f7666-1ee7-46e5-8028-6818d664752f",
       "name": "Dr. Kazi Shabbir Anwar",
       "degree": "MBBS, DO (DU), MD, Fellow (Pediatric Ophthalmology)",
       "specialty": "Child Eye Diseases Specialist & Surgeon",
@@ -220,11 +269,14 @@
         "hospital": "Bangladesh Eye Hospital, Dhanmondi",
         "address": "78, Satmasjid Road (West of Road 27), Dhanmondi, Dhaka-1205",
         "visitingTime": "9am to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787878"
-      },
-      "id": "0ab54b7a-35f0-4cb1-8627-9975da46d9b0"
+        "appointmentNumber": "+8809666787878Call Now"
+      }
     },
     {
+      "id": "d0eb8b74-55fd-450c-83ab-5943ac181bce",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-syed-wadud/",
+      "imageId": "882522f2-2002-469e-bbf4-af93e8aa90ed",
       "name": "Prof. Dr. Syed Abdul Wadud",
       "degree": "MBBS, FCPS (EYE), MS (EYE), Fellowship in Oculoplasty, ICO (UK)",
       "specialty": "Eye Specialist & Phaco Surgeon",
@@ -234,11 +286,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "7.30pm to 9.30pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "bed7e261-25a6-4035-96d3-31555e037556"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "afbbb9b1-4cef-4d8a-97ab-4be461b8bd4c",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-mostafizur-rahman-mostaq/",
+      "imageId": "19fd2147-e1e8-4ab9-9b68-2a23b2a6a5b5",
       "name": "Dr. Mostafizur Rahman Mostaq",
       "degree": "MBBS, DO (DU), Fellowship in Phaco IOL Microsurgery (India), Fellowship in Vitreo Retina (Pakistan)",
       "specialty": "Vitreo- Retina & Phaco IOL Microsurgery Specialist",
@@ -248,11 +303,14 @@
         "hospital": "Ispahani Islamia Eye Institute & Hospital",
         "address": "Khamarbari, Sher-E-Bangla Nagar, Farmgate, Dhaka – 1215",
         "visitingTime": "7.30am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8809610998333"
-      },
-      "id": "8ba7394e-48f4-4c10-8cf7-3f388982eb15"
+        "appointmentNumber": "+8809610998333Call Now"
+      }
     },
     {
+      "id": "cf888e29-64a6-45db-9f0b-09f17201abb0",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-niaz-abdur-rahman/",
+      "imageId": "d323176b-7e57-4f07-a327-21fb615ef96f",
       "name": "Dr. Niaz Abdur Rahman",
       "degree": "MBBS, DO, MPH (USA), Fellow Vitreo-Retina (Canada)",
       "specialty": "Eye (Vitreo Retina) Specialist & Surgeon",
@@ -262,11 +320,14 @@
         "hospital": "Bangladesh Eye Hospital, Dhanmondi",
         "address": "78, Satmasjid Road (West of Road 27), Dhanmondi, Dhaka-1205",
         "visitingTime": "9am to 12pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787878"
-      },
-      "id": "9fb6872c-006f-4443-a8e5-ddc65c8401e5"
+        "appointmentNumber": "+8809666787878Call Now"
+      }
     },
     {
+      "id": "ca21ecd2-a868-40f5-92a2-8d25548d4d3d",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-swapan-kumar-bhowmik-roy/",
+      "imageId": "dc07e898-3d40-43ed-92bc-6d88d84602b3",
       "name": "Prof. Dr. Swapan Kumar Bhowmik Roy",
       "degree": "MBBS, DO (DU), MS (EYE)",
       "specialty": "Eye Diseases Specialist & Phaco Surgeon",
@@ -276,11 +337,14 @@
         "hospital": "Popular Diagnostic Center, Mirpur",
         "address": "Unit 02, House # 02, Block # A, Section # 10, Mirpur, Dhaka",
         "visitingTime": "10:30am to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787807"
-      },
-      "id": "4ed1d87b-62fb-4049-b44c-2c3a4ec1364b"
+        "appointmentNumber": "+8809666787807Call Now"
+      }
     },
     {
+      "id": "b2b56b86-a789-4e80-9215-ddffc34ab245",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-nurun-nabi/",
+      "imageId": "bdd50b61-f4df-46d9-a966-bf2739ab92fe",
       "name": "Dr. Md. Nurun Nabi",
       "degree": "MBBS, MCPS, FCPS (EYE)",
       "specialty": "Eye Diseases Specialist & Phaco Surgeon",
@@ -290,11 +354,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Savar",
         "address": "31/6 Jaleshwar, Aricha Road, Savar, Dhaka - 1340",
         "visitingTime": "4pm to 7pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+88 09610009613"
-      },
-      "id": "abef3a1e-2f14-496f-9475-0c5e53ffdfd6"
+        "appointmentNumber": "+88 09610009613Call Now"
+      }
     },
     {
+      "id": "37cee116-ddbc-482f-bea4-f576778cf0c1",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-harun-ur-rashid-eye/",
+      "imageId": "e58a41e7-3de2-40d5-a6d1-5e1244e1de94",
       "name": "Dr. Harun Ur Rashid",
       "degree": "MBBS (IPGMR), MS (OPHTHALMOLOGY), DO (IPGMR), FGO (INDIA)",
       "specialty": "Eye, Cataract, Glaucoma, LASIK Specialist & Surgeon",
@@ -304,39 +371,48 @@
         "hospital": "Dhaka Eye Care Hospital, Uttara",
         "address": "32, Rabindra Sarani, Sector – 7, Uttara, Dhaka – 1230",
         "visitingTime": "4pm to 11pm (Closed: Friday)",
-        "appointmentNumber": "+8801787681500"
-      },
-      "id": "02a46040-a42f-472f-9d56-0f507699c041"
+        "appointmentNumber": "+8801787681500Call Now"
+      }
     },
     {
+      "id": "80f9bf37-870f-451c-91c9-855d6d58c407",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-mostafa-hossain/",
+      "imageId": "e30da1d2-d305-46ea-9a61-6273bb3e7d24",
       "name": "Dr. Md. Mostafa Hossain",
       "degree": "MBBS, DO, MS (EYE), Fellowship (Pediatric Ophthalmology)",
       "specialty": "Pediatric Ophthalmology Specialist",
       "workplace": "Ispahani Islamia Eye Institute & Hospital",
-      "info": "Bashundhara Eye Hospital & Research Institute\nAddress: 474, Road # 5, Block # D, Beside Mededi Mart, Bashundhara R/A, Dhaka\nVisiting Hour: 9am to 1pm (Friday)\nAppointment: +8809643200700\nCall Now",
+      "info": "Bashundhara Eye Hospital & Research Institute Address: 474, Road # 5, Block # D, Beside Mededi Mart, Bashundhara R/A, Dhaka Visiting Hour: 9am to 1pm (Friday) Appointment: +8809643200700 Call Now",
       "chamber": {
         "hospital": "Ispahani Islamia Eye Institute & Hospital",
         "address": "Khamarbari, Sher-E-Bangla Nagar, Farmgate, Dhaka – 1215",
         "visitingTime": "7.30am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8809610998333"
-      },
-      "id": "915436ab-83c0-4744-b59a-70b3e60395aa"
+        "appointmentNumber": "+8809610998333Call Now"
+      }
     },
     {
+      "id": "8c51fca5-7e77-45bc-aa58-25c31248346a",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-shayamal-kumar-sarkar/",
+      "imageId": "cddc5453-15d2-4546-8ac7-c265db4e383c",
       "name": "Dr. Shayamal Kumar Sarkar",
       "degree": "MBBS (SSMC), MS (EYE), ICO (UK)",
       "specialty": "Neuro-Ophthalmologist & Surgeon",
       "workplace": "National Institute of Ophthalmology & Hospital",
-      "info": "Bangladesh Eye Hospital, Dhanmondi\nAddress: 78, Satmasjid Road (West of Road 27), Dhanmondi, Dhaka-1205\nVisiting Hour: 4pm to 8pm (Sunday & Wednesday)\nAppointment: +8809666787878\nCall Now",
+      "info": "Bangladesh Eye Hospital, Dhanmondi Address: 78, Satmasjid Road (West of Road 27), Dhanmondi, Dhaka-1205 Visiting Hour: 4pm to 8pm (Sunday & Wednesday) Appointment: +8809666787878 Call Now",
       "chamber": {
         "hospital": "Green Eye Hospital, Dhaka",
         "address": "500/A, Rupayan Khan Plaza, Road # 07, Dhanmondi, Dhaka",
         "visitingTime": "4pm to 8pm (Sat, Mon, Tue & Thu)",
-        "appointmentNumber": "+8801711377523"
-      },
-      "id": "c5774523-f06d-4786-8429-cf4a0a0c07ba"
+        "appointmentNumber": "+8801711377523Call Now"
+      }
     },
     {
+      "id": "2edf18a8-94c0-43e4-93e8-1e436d82e51d",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-nazrul-islam-eye/",
+      "imageId": "cc733bc6-c5ef-4a26-a8cb-d1448b4527c3",
       "name": "Prof. Dr. M. Nazrul Islam",
       "degree": "MBBS, DO (DU), MCPS (EYE), FCPS (EYE)",
       "specialty": "Eye Diseases (Glaucoma) Specialist & Phaco Surgeon",
@@ -346,11 +422,14 @@
         "hospital": "Bangladesh Eye Hospital, Dhanmondi",
         "address": "78, Satmasjid Road (West of Road 27), Dhanmondi, Dhaka-1205",
         "visitingTime": "9am to 1pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787878"
-      },
-      "id": "c3012c9c-bdf7-4581-a4d5-0ac4a63d3e0c"
+        "appointmentNumber": "+8809666787878Call Now"
+      }
     },
     {
+      "id": "84ba2a6b-4235-4adb-8a02-f73feb0aaba5",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdur-rakib-tushar/",
+      "imageId": "dfe46c97-2145-4d09-bbec-bfd4ac9a6b13",
       "name": "Dr. Md. Abdur Rakib Tushar",
       "degree": "MBBS, DO, FCPS (EYE)",
       "specialty": "Phaco, Lasik & Vitreo-Retina Specialist",
@@ -360,11 +439,14 @@
         "hospital": "Harun Eye Foundation Hospital, Dhanmondi",
         "address": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
         "visitingTime": "5pm to 9pm (Sat, Sun, Mon & Wed)",
-        "appointmentNumber": "+88029613930"
-      },
-      "id": "43f87314-5a68-4497-b633-d9224520c9f3"
+        "appointmentNumber": "+88029613930Call Now"
+      }
     },
     {
+      "id": "eebe3780-2b63-4dca-841a-f17e5de18e84",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-tariq-reza-ali/",
+      "imageId": "306c58a2-58ae-4782-8a42-21234d2385fe",
       "name": "Dr. Tariq Reza Ali",
       "degree": "MBBS, DO, MS (EYE), Fellow in Retina-Vitreous (India)",
       "specialty": "Vitreo-Retina & Uveitis Specialist",
@@ -374,11 +456,14 @@
         "hospital": "Harun Eye Foundation Hospital, Dhanmondi",
         "address": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801730300190"
-      },
-      "id": "40bf12e4-742e-4d3b-89ef-a2311b969445"
+        "appointmentNumber": "+8801730300190Call Now"
+      }
     },
     {
+      "id": "50b23336-9b7e-4526-a32c-7431827f7533",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-zahida-jabbar/",
+      "imageId": "2d84694f-237a-4196-b755-07645147a103",
       "name": "Dr. Zahida Jabbar",
       "degree": "MBBS, FCPS (EYE), DO (BSMMU)",
       "specialty": "Pediatric Ophthalmologist & Cataract surgeon",
@@ -388,11 +473,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "f5264030-2662-4e9f-b36e-45be897a3b58"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
+      "id": "dd716ddf-4e35-4eec-aa79-77b53e9a8748",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-shamsul-haque/",
+      "imageId": "82bd4ef8-3987-4863-9deb-9dbb373fdb30",
       "name": "Prof. Dr. Md. Shamsul Haque",
       "degree": "MBBS, FCPS (EYE)",
       "specialty": "Eye Diseases Specialist & Phaco Surgeon",
@@ -402,11 +490,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "5.30pm to 7:30pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "2c297458-e111-4beb-bb56-115ec9bb4d0f"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "5c374fc3-ed6f-4c48-821f-3eb9d5158808",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-s-m-munirul-huq/",
+      "imageId": "9f022aaa-5f96-4ec2-9fcc-0a75fdf8d719",
       "name": "Prof. Dr. S. M. Munirul Huq",
       "degree": "MBBS, DO (Ireland), FRCS (Glasgow), FRCO (UK), FACS (USA)",
       "specialty": "Eye Specialist & Phaco Surgeon",
@@ -416,11 +507,14 @@
         "hospital": "Bashundhara Eye Hospital & Research Institute",
         "address": "474, Road # 5, Block # D, Beside Mededi Mart, Bashundhara R/A, Dhaka",
         "visitingTime": "9.30am to 12.30pm (Saturday & Sunday)",
-        "appointmentNumber": "+8809643200700"
-      },
-      "id": "8077e871-734d-4593-b5f0-fe6ca1543de4"
+        "appointmentNumber": "+8809643200700Call Now"
+      }
     },
     {
+      "id": "6b46f799-8b0c-4297-9f51-4da2f5a8b6f1",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-syed-a-hassan/",
+      "imageId": "297de9e9-13bf-4731-9f86-04f9d2e0abe9",
       "name": "Dr. Syed A. Hassan",
       "degree": "MBBS, DO (DU), FCA (Japan), FICO (Japan), Fellow Cornea & Lasik (LVPEI)",
       "specialty": "Cornea, Phaco, LASIK Specialist & Surgeon",
@@ -430,11 +524,14 @@
         "hospital": "Harun Eye Foundation Hospital, Dhanmondi",
         "address": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
         "visitingTime": "10am to 12.30pm & 7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+88029613930"
-      },
-      "id": "af7a9208-7a54-4fb6-a3b6-0600ae466551"
+        "appointmentNumber": "+88029613930Call Now"
+      }
     },
     {
+      "id": "597c0879-7e2e-4cae-ab04-d5ecfecd89cd",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-a-bashar-sheikh/",
+      "imageId": "7104e5d3-5407-4e38-ac98-c72d6e3fa3de",
       "name": "Prof. Dr. M. A. Bashar Sheikh",
       "degree": "MBBS, FCPS (EYE)",
       "specialty": "Eye Specialist & Phaco Surgeon",
@@ -444,11 +541,14 @@
         "hospital": "Harun Eye Foundation Hospital, Dhanmondi",
         "address": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
         "visitingTime": "5pm to 8pm (Closed: Tuesday & Friday)",
-        "appointmentNumber": "+8801819404049"
-      },
-      "id": "c3920537-e8c9-45c7-9e6c-e920037f55f8"
+        "appointmentNumber": "+8801819404049Call Now"
+      }
     },
     {
+      "id": "e44edfc8-5fc4-478f-9e6e-c32a33812820",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-mafruha-afrin/",
+      "imageId": "bcc8dbb1-653c-407c-b177-c17a9c6bf7d6",
       "name": "Dr. Mafruha Afrin",
       "degree": "MBBS, MCPS (EYE), FICO (UK), FCPS (EYE), FRCS (Glasgow), CCD (BIRDEM)",
       "specialty": "Eye Diseases, Uvea, Medical Retina Specialist & Phaco Sergeon",
@@ -458,11 +558,14 @@
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Tuesday & Friday)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "411f1fc9-6cd8-4d3e-ad95-9ad30e3c600c"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
+      "id": "b561ef77-1e34-4a06-9c1f-9dac53af7e7e",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-brig-gen-dr-ismail-hossain/",
+      "imageId": "f29c9641-a5b6-4149-a45d-60fa3f396a9b",
       "name": "Prof. Brig Gen. Dr. Ismail Hossain",
       "degree": "MBS, MCPS, DO (DU), FCPS (EYE), ICO (UK), FRCS (UK)",
       "specialty": "Eye Diseases (Vitreo Retina) Specialist & Phaco Surgeon",
@@ -472,11 +575,14 @@
         "hospital": "Bangladesh Eye Hospital, Dhanmondi",
         "address": "78, Satmasjid Road (West of Road 27), Dhanmondi, Dhaka-1205",
         "visitingTime": "4.30pm to 6.30pm (Sat, Sun, Mon & Thu)",
-        "appointmentNumber": "+8809666787878"
-      },
-      "id": "795f999a-5ed3-42d4-b02f-c1fcf6809101"
+        "appointmentNumber": "+8809666787878Call Now"
+      }
     },
     {
+      "id": "663778df-1573-4ba2-8b08-84919cfd9ab3",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-nazmun-nahar-eye/",
+      "imageId": "a162590c-21c8-4a7c-aeb1-6217644e22b9",
       "name": "Prof. Dr. Nazmun Nahar",
       "degree": "MBBS, DO, FCPS (Ophthalmology), FRCS (Glasgow), FRCS (Edinburgh)",
       "specialty": "Vitreo Retina, Ophthalmic Trauma & Cataract Surgery Specialist",
@@ -486,11 +592,14 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10678"
-      },
-      "id": "6b518e65-0801-41dc-8b65-6cea1eccf648"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "1db99750-d341-4f5f-82c4-584cbce0dc68",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-ali-akbar-eye/",
+      "imageId": "2a451b84-5fec-4ce2-a9f3-dd596688c4a4",
       "name": "Dr. Md. Ali Akbar",
       "degree": "MBBS, DO (DU), MCPS (EYE), FCPS (EYE)",
       "specialty": "Eye Diseases (Glaucoma) Specialist & Phaco Surgeon",
@@ -500,11 +609,14 @@
         "hospital": "Bangladesh Eye Hospital, Dhanmondi",
         "address": "78, Satmasjid Road (West of Road 27), Dhanmondi, Dhaka-1205",
         "visitingTime": "9am to 12pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809666787878"
-      },
-      "id": "02cce502-e00b-4dac-8a87-2cb488744ebe"
+        "appointmentNumber": "+8809666787878Call Now"
+      }
     },
     {
+      "id": "a0a07fc3-132e-4af6-ad89-ab385ef28f3e",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-ashiqur-rahman-akanda/",
+      "imageId": "70336bcb-d701-47cd-9494-e2538a819d61",
       "name": "Dr. Ashiqur Rahman Akanda",
       "degree": "MBBS, DO (DU), FCPS (EYE), Fellowship (Pediatric Ophthalmology)",
       "specialty": "Pediatric Ophthalmology & Squint Specialist",
@@ -514,25 +626,31 @@
         "hospital": "Dhaka Eye Care Hospital, Uttara",
         "address": "32, Rabindra Sarani, Sector – 7, Uttara, Dhaka – 1230",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801787681500"
-      },
-      "id": "ba009ea2-b739-40fb-86fb-e12289d67282"
+        "appointmentNumber": "+8801787681500Call Now"
+      }
     },
     {
+      "id": "6f48cbcc-e8db-4712-afb0-eb884edf5aa7",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-m-g-faruk-hossain/",
+      "imageId": "0c90fa5a-dcb4-49a5-a3ce-03274ca6ad5d",
       "name": "Dr. M. G. Faruk Hossain",
       "degree": "MBBS, MCPS (EYE), MS (EYE)",
       "specialty": "Eye Diseases Specialist & Phaco Surgeon",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Islami Bank Specialized & General Hospital, Nayapaltan\nAddress: 71-72, VIP Road, Nayapaltan, Dhaka\nVisiting Hour: 5pm to 8pm (Closed: Friday)\nAppointment: +8801977552283\nCall Now",
+      "info": "Islami Bank Specialized & General Hospital, Nayapaltan Address: 71-72, VIP Road, Nayapaltan, Dhaka Visiting Hour: 5pm to 8pm (Closed: Friday) Appointment: +8801977552283 Call Now",
       "chamber": {
         "hospital": "Islami Bank Central Hospital, Kakrail",
         "address": "30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000",
         "visitingTime": "4pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801810000116"
-      },
-      "id": "e97d9272-ec55-4ea7-a51d-79332004f1c3"
+        "appointmentNumber": "+8801810000116Call Now"
+      }
     },
     {
+      "id": "38138a3e-0500-4bd9-b268-7e5506dbc17b",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-zakia-sultana-shahid/",
+      "imageId": "bba9e15e-5e22-4355-9938-60d93daebd43",
       "name": "Dr. Zakia Sultana Shahid",
       "degree": "MBBS, DO (EYE), FCPS (Ophthalmology), MS (EYE)",
       "specialty": "Glaucoma Specialist & Phaco Surgeon",
@@ -542,25 +660,31 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "10am to 1pm & 6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801953203799"
-      },
-      "id": "6e551088-1b1f-47ce-9399-0f7759d725c6"
+        "appointmentNumber": "+8801953203799Call Now"
+      }
     },
     {
+      "id": "18a0ea3e-bf77-457a-8152-e2670252b5e2",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-sajed-abdul-khaleque/",
+      "imageId": "0c461a0c-96e6-4a26-93d2-957af3fedf65",
       "name": "Prof. Dr. Sajed Abdul Khaleque",
       "degree": "MBBS, MS (EYE)",
       "specialty": "Eye Diseases Specialist & Phaco Surgeon",
       "workplace": "Ibn Sina Medical College & Hospital",
-      "info": "Ibn Sina Medical College Hospital, Kallyanpur\nAddress: 1/1 B, Kallyanpur, Dhaka\nVisiting Hour: 10am to 1pm (Sat, Mon & Wed)\nAppointment: +8801703725590\nCall Now",
+      "info": "Ibn Sina Medical College Hospital, Kallyanpur Address: 1/1 B, Kallyanpur, Dhaka Visiting Hour: 10am to 1pm (Sat, Mon & Wed) Appointment: +8801703725590 Call Now",
       "chamber": {
         "hospital": "Islami Bank Specialized & General Hospital, Nayapaltan",
         "address": "71-72, VIP Road, Nayapaltan, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801977552283"
-      },
-      "id": "50e556a7-a6af-48ca-b801-9f595fd49de0"
+        "appointmentNumber": "+8801977552283Call Now"
+      }
     },
     {
+      "id": "50f73b36-de6f-47a8-abef-8c6ea6c6bbd9",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-sanwar-hossin/",
+      "imageId": "d7a40c0c-63bb-4f11-b161-0f83c66da0fa",
       "name": "Dr. Md. Sanwar Hossin",
       "degree": "MBBS, FCPS (Ophthalmology)",
       "specialty": "Eye Specialist",
@@ -570,11 +694,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Doyagonj",
         "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
         "visitingTime": "5pm to 11pm (Closed: Friday)",
-        "appointmentNumber": "+8801878115751"
-      },
-      "id": "fcc19b40-db85-45e0-927a-836c610ff1db"
+        "appointmentNumber": "+8801878115751Call Now"
+      }
     },
     {
+      "id": "eb39fd8b-35c4-4d10-9194-230aaf522412",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-quamrul-islam-khan/",
+      "imageId": "b918c516-ad18-46c9-b7b6-f1ee8a0cda70",
       "name": "Dr. Md. Quamrul Islam Khan",
       "degree": "MBBS, MS (EYE), ICO (UK), Fellowship in Glaucoma LVPEI (India)",
       "specialty": "Glaucoma, Phaco, Medical Retina & Laser Specialist",
@@ -584,11 +711,14 @@
         "hospital": "Harun Eye Foundation Hospital, Dhanmondi",
         "address": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801712774732"
-      },
-      "id": "1102d1af-9b78-4d13-a687-b34fa07c49b0"
+        "appointmentNumber": "+8801712774732Call Now"
+      }
     },
     {
+      "id": "9c3bed8d-9748-4de4-9eea-953d49632581",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-chandana-sultana/",
+      "imageId": "02dee239-ea2c-4b09-9d68-1ed69ae4f598",
       "name": "Dr. Chandana Sultana",
       "degree": "MBBS, DO, MD (Russia), FCPS (EYE)",
       "specialty": "Eye, Cornea, Anterior Segment & Cataract Specialist",
@@ -598,11 +728,14 @@
         "hospital": "Ispahani Islamia Eye Institute & Hospital",
         "address": "Khamarbari, Sher-E-Bangla Nagar, Farmgate, Dhaka – 1215",
         "visitingTime": "7.30am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8809610998333"
-      },
-      "id": "c5e80a4a-a44c-4d1a-be73-445ffa57486c"
+        "appointmentNumber": "+8809610998333Call Now"
+      }
     },
     {
+      "id": "2983952e-6abc-474a-9a9e-f829ada49328",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-shah-md-bulbul-islam/",
+      "imageId": "2d63f985-a796-4e65-89cc-f188ec5a41d5",
       "name": "Prof. Dr. Shah Md. Bulbul Islam",
       "degree": "MBBS, FCPS (Eye)",
       "specialty": "Eye Specialist & Surgeon",
@@ -612,11 +745,14 @@
         "hospital": "Ibn Sina Medical Imaging Center, Zigatola",
         "address": "House # 58, Road # 2A, Zigatola Bus Stand, Dhaka - 1209",
         "visitingTime": "10am to 1pm and 4pm to 7pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801711625173"
-      },
-      "id": "5151d4df-0232-46a4-ada7-ff53a77be1f0"
+        "appointmentNumber": "+8801711625173Call Now"
+      }
     },
     {
+      "id": "498c8572-4e3d-4eaf-8f31-b1e5a1ea72aa",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-moinul-hoque/",
+      "imageId": "149b05fc-aea1-4253-9500-e4a69d78a13b",
       "name": "Dr. Md. Moinul Hoque",
       "degree": "MBBS, MS (EYE), Fellow (Orbit & Oculoplasty)",
       "specialty": "Eye Cosmetic & Phaco Surgeon",
@@ -626,11 +762,14 @@
         "hospital": "Harun Eye Foundation Hospital, Dhanmondi",
         "address": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
         "visitingTime": "5pm to 9pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801767273185"
-      },
-      "id": "6a282c5c-4800-42a9-9df7-3c20bd00b23f"
+        "appointmentNumber": "+8801767273185Call Now"
+      }
     },
     {
+      "id": "fd1a775a-50f9-40b2-856b-d8aa45bc3307",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-sanwar-hossain/",
+      "imageId": "c3d9341c-1e88-4237-8e5a-b52888c1fc45",
       "name": "Prof. Dr. Md. Sanwar Hossain",
       "degree": "MBBS, FCPS (EYE)",
       "specialty": "Retina Specialist & Surgeon",
@@ -640,11 +779,14 @@
         "hospital": "Anwer Khan Modern Medical College Hospital",
         "address": "House # 17, Road # 08, Dhanmondi R/A, Dhaka – 1205",
         "visitingTime": "9am to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8801757138425"
-      },
-      "id": "d6ed0ed2-8f33-491a-92a7-6380489784a8"
+        "appointmentNumber": "+8801757138425Call Now"
+      }
     },
     {
+      "id": "f4166d9d-80d0-4e49-b436-09c4e5c0cca5",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-muntakim-shahid/",
+      "imageId": "868540a5-a72f-44c6-9c6f-ccd229c50a7c",
       "name": "Dr. Muntakim Shahid",
       "degree": "MBBS, DO, FCPS (EYE)",
       "specialty": "Cataract, Cornea & Anterior Segment Specialist",
@@ -654,11 +796,14 @@
         "hospital": "Ispahani Islamia Eye Institute & Hospital",
         "address": "Khamarbari, Sher-E-Bangla Nagar, Farmgate, Dhaka – 1215",
         "visitingTime": "7.30am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8809610998333"
-      },
-      "id": "1a1321c2-a71a-4d29-a950-4b5ee61e4b64"
+        "appointmentNumber": "+8809610998333Call Now"
+      }
     },
     {
+      "id": "08d9fefc-8e68-4b93-b5d2-454f54f45dde",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-bazlul-bari-bhuiyan/",
+      "imageId": "68a39cba-650c-4d63-9ee1-105c57bf31d7",
       "name": "Dr. Md. Bazlul Bari Bhuiyan",
       "degree": "MBBS, DO, FCPS (EYE)",
       "specialty": "Cataract, Phaco, SICS & Laser Surgeon",
@@ -668,11 +813,14 @@
         "hospital": "Harun Eye Foundation Hospital, Dhanmondi",
         "address": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801819280237"
-      },
-      "id": "b02a196a-fb15-4a80-9636-a25b6019bfc6"
+        "appointmentNumber": "+8801819280237Call Now"
+      }
     },
     {
+      "id": "c2bbc24a-e6d8-4b19-897d-6a7dc690e8c1",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-mahbubur-rahman-chowdhury/",
+      "imageId": "eae9fcfa-3e06-4eff-8a15-e0583c86b9f1",
       "name": "Dr. Mahbubur Rahman Chowdhury",
       "degree": "MBBS, FCPS (EYE)",
       "specialty": "Eye Diseases Specialist & Phaco Surgeon",
@@ -682,11 +830,14 @@
         "hospital": "Bangladesh Eye Hospital, Dhanmondi",
         "address": "78, Satmasjid Road (West of Road 27), Dhanmondi, Dhaka-1205",
         "visitingTime": "3pm to 7pm (Sat, Mon & Wed), 9am to 12pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8809666787878"
-      },
-      "id": "25f56745-4007-47d8-acb6-f7753d34639b"
+        "appointmentNumber": "+8809666787878Call Now"
+      }
     },
     {
+      "id": "b7fabbb7-5e0b-4f7c-bd40-6b7ef0f77b3e",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-m-m-h-monir/",
+      "imageId": "eb48989d-a79e-4858-bcdc-dc88249008b0",
       "name": "Dr. M.M.H. Monir",
       "degree": "MBBS, BCS (Health), MCPS (EYE), MS (EYE)",
       "specialty": "Eye Diseases Specialist & Phaco, Glaucoma & Laser Surgeon",
@@ -696,11 +847,14 @@
         "hospital": "Farazy Hospital, Banasree",
         "address": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
         "visitingTime": "5pm to 8pm (Sat, Mon, Wed & Fri)",
-        "appointmentNumber": "+8801882084414"
-      },
-      "id": "b185eb0f-7c39-497c-8aae-ef0ba8d570b0"
+        "appointmentNumber": "+8801882084414Call Now"
+      }
     },
     {
+      "id": "1042420f-be84-49f5-bbc5-f7d2d239a1f2",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-hazrat-ali/",
+      "imageId": "93ae3c58-27fb-4154-a720-3cb79b1ec538",
       "name": "Prof. Dr. Md. Hazrat Ali",
       "degree": "MBBS, ECFMG (USA), FCPS (EYE)",
       "specialty": "Phaco & Retina Surgeon",
@@ -710,11 +864,14 @@
         "hospital": "Harun Eye Foundation Hospital, Dhanmondi",
         "address": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
         "visitingTime": "5pm to 8.30pm (Closed: Tuesday & Friday)",
-        "appointmentNumber": "+8801725985040"
-      },
-      "id": "6ad6e019-27db-4367-88ed-5686f04fcac2"
+        "appointmentNumber": "+8801725985040Call Now"
+      }
     },
     {
+      "id": "d4ee342e-b729-49ea-846b-3bde02bd1db5",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-shirajul-islam/",
+      "imageId": "e92b96f5-ca1f-4d53-8cb6-ac3c6b7a587d",
       "name": "Dr. Md. Shirajul Islam",
       "degree": "MBBS, BCS (Health), FCPS (EYE)",
       "specialty": "Eye (Vitreo-Retina) Specialist, Phaco & Lasik Surgeon",
@@ -724,11 +881,14 @@
         "hospital": "Hikmah Eye Hospital, Khilgaon",
         "address": "C-287/15, Atish Diponker Road, Khilgaon, Dhaka-1219",
         "visitingTime": "7pm to 8.30pm (Sun, Mon & Tue)",
-        "appointmentNumber": "+8801730767333"
-      },
-      "id": "5b8be7a8-82e3-4889-a773-33c8bebc5bcf"
+        "appointmentNumber": "+8801730767333Call Now"
+      }
     },
     {
+      "id": "2969c4c7-fb3e-4d02-9032-22df36e0bf8a",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-asm-moin-uddin/",
+      "imageId": "a72ad981-8df2-4463-a2bf-bea4f5bc924f",
       "name": "Dr. ASM Moin Uddin",
       "degree": "MBBS, DO",
       "specialty": "Eye Specialist & Phaco Surgeon",
@@ -738,11 +898,14 @@
         "hospital": "Ispahani Islamia Eye Institute & Hospital",
         "address": "Khamarbari, Sher-E-Bangla Nagar, Farmgate, Dhaka – 1215",
         "visitingTime": "7.30am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8809610998333"
-      },
-      "id": "b38cd810-fd3c-4209-b3b3-ecabb27cb29a"
+        "appointmentNumber": "+8809610998333Call Now"
+      }
     },
     {
+      "id": "65af6064-85c3-4933-b451-38cef1ca2754",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-ak-azad/",
+      "imageId": "a4b892fa-0d69-4ea6-bbc0-1e0eef1dc700",
       "name": "Prof. Dr. AK Azad",
       "degree": "MBBS, DO, FCPS (Eye)",
       "specialty": "Eye Specialist",
@@ -752,11 +915,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Malibagh",
         "address": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
         "visitingTime": "5pm to 7pm (Everyday)",
-        "appointmentNumber": "+8801844141717"
-      },
-      "id": "5a84528b-4843-46d8-8853-b6d08f32bd93"
+        "appointmentNumber": "+8801844141717Call Now"
+      }
     },
     {
+      "id": "0d77cf4a-a512-4f62-9cbb-25dfcacb1cf9",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-showkat-kabir/",
+      "imageId": "65a417ea-8907-4e8c-8290-1f7021d614a0",
       "name": "Dr. Md. Showkat Kabir",
       "degree": "MBBS, DO (DU), MS (BSMMU)",
       "specialty": "Phaco, Retina, LASIK & Glaucoma Specialist",
@@ -766,11 +932,14 @@
         "hospital": "Harun Eye Foundation Hospital, Dhanmondi",
         "address": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
         "visitingTime": "6pm to 8.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801673987403"
-      },
-      "id": "883c3f6d-900f-489e-9280-253c44f52bdf"
+        "appointmentNumber": "+8801673987403Call Now"
+      }
     },
     {
+      "id": "65567768-0f1b-4541-a13f-519527269b3c",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-mohammed-rashed-alam/",
+      "imageId": "d8176939-dc59-4db7-bde8-1a9530416873",
       "name": "Dr. Mohammed Rashed Alam",
       "degree": "MBBS, MS (EYE), FICO",
       "specialty": "Eye Specialist & Phaco Surgeon",
@@ -780,11 +949,14 @@
         "hospital": "Ispahani Islamia Eye Institute & Hospital",
         "address": "Khamarbari, Sher-E-Bangla Nagar, Farmgate, Dhaka – 1215",
         "visitingTime": "7.30am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8809610998333"
-      },
-      "id": "ac4c0c2e-53ac-4225-99da-e88a7d74f097"
+        "appointmentNumber": "+8809610998333Call Now"
+      }
     },
     {
+      "id": "356e6943-3be1-4320-8cf5-f5eb258f2487",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-hafizur-rahman/",
+      "imageId": "abbd8cc8-36cb-422b-ae69-9bf84f69aa1a",
       "name": "Prof. Dr. M. Hafizur Rahman",
       "degree": "MBBS, FCPS (EYE), FICO (UK)",
       "specialty": "Glaucoma Specialist & Consultant Phaco surgeon",
@@ -794,11 +966,14 @@
         "hospital": "Hikmah Eye Hospital, Khilgaon",
         "address": "C-287/15, Atish Diponker Road, Khilgaon, Dhaka-1219",
         "visitingTime": "10am to 1pm (Sun, Tue & Thu), 4pm to 8pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801730767333"
-      },
-      "id": "ed6b8ae4-c015-4c4c-a844-b6893ec9b29e"
+        "appointmentNumber": "+8801730767333Call Now"
+      }
     },
     {
+      "id": "2614e31e-7055-48df-8200-51f6a98fa765",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-ferdous-akhter-jolly/",
+      "imageId": "92b49e15-ce2d-4d8b-b9cf-b0ecccca1eaf",
       "name": "Dr. Ferdous Akhter Jolly",
       "degree": "MBBS, DO, FCPS (EYE)",
       "specialty": "Retina Specialist & Phaco Surgeon",
@@ -808,11 +983,14 @@
         "hospital": "Harun Eye Foundation Hospital, Dhanmondi",
         "address": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
         "visitingTime": "3pm to 5pm (Sat, Mon & Wed) & 5pm to 8pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801971957729"
-      },
-      "id": "6bd1384f-219a-44a4-921e-2295121c88ac"
+        "appointmentNumber": "+8801971957729Call Now"
+      }
     },
     {
+      "id": "aae132e4-e332-4b9d-be63-e7585740b46b",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-brig-gen-dr-jakaria-hossain/",
+      "imageId": "a9a1906f-0e58-4fe3-82a3-ec19632f9342",
       "name": "Prof. Brig. Gen. Dr. Jakaria Hossain",
       "degree": "MBBS, DO (DU), FCPS (EYE), Fellowship in Glaucoma (India)",
       "specialty": "Eye Diseases (Glaucoma) Specialist & Surgeon",
@@ -822,11 +1000,14 @@
         "hospital": "Islami Bank Hospital, Mirpur",
         "address": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
         "visitingTime": "10am to 1pm (Closed: Friday)",
-        "appointmentNumber": "+8801992346632"
-      },
-      "id": "bf9ca8ed-c5ba-4f40-887b-98d2279966d2"
+        "appointmentNumber": "+8801992346632Call Now"
+      }
     },
     {
+      "id": "8713426d-965b-4202-b181-ed4808b14c90",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-fakhrul-islam/",
+      "imageId": "3e1b1958-7b67-4599-9a48-112a1ab98d49",
       "name": "Prof. Dr. Md. Fakhrul Islam",
       "degree": "MBBS, MCPS (EYE), FCPS (EYE), MS (EYE)",
       "specialty": "Eye Specialist & Phaco Surgeon",
@@ -836,11 +1017,14 @@
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "6.30pm to 9.30pm (Everyday)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "4eafa714-1689-4b58-8fc4-43dee4bc02f6"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
+      "id": "bc9c63d0-3da0-4c9d-95a6-d4037fd4e2da",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-ziaul-ahsan-mukta/",
+      "imageId": "2596cd2b-d50c-4d29-9a5f-387882504ea1",
       "name": "Dr. Ziaul Ahsan Mukta",
       "degree": "MBBS, DO, MS (EYE)",
       "specialty": "Eye Diseases (Vitreo Retina) Specialist & Phaco Surgeon",
@@ -850,11 +1034,31 @@
         "hospital": "Bangladesh Eye Hospital, Dhanmondi",
         "address": "78, Satmasjid Road (West of Road 27), Dhanmondi, Dhaka-1205",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787878"
-      },
-      "id": "b5f6956b-29eb-4993-8edb-ea2c358938d9"
+        "appointmentNumber": "+8809666787878Call Now"
+      }
     },
     {
+      "id": "5d73f159-3d5b-4e08-af47-c3349f570ea6",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-zakia-farhana/",
+      "imageId": "f2f63c1d-0b17-4634-a24e-2ff3ae29abdd",
+      "name": "Dr. Zakia Farhana",
+      "degree": "MBBS (RU), DO (BSMMU)",
+      "specialty": "Eye (Glaucoma) Specialist & Surgeon",
+      "workplace": "Ibn Sina Medical College & Hospital",
+      "info": "Islami Bank Hospital, Motijheel Address: Room 403, 24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka Visiting Hour: 6pm to 9pm (Closed: Friday) Appointment: +8801727666741 Call Now",
+      "chamber": {
+        "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
+        "address": "Room 311, 1/1-B, Kallyanpur, Mirpur Road, Dhaka-1216",
+        "visitingTime": "9am to 2pm (Sun, Tue & Thursday), 5:30pm to 8pm (Mon, Tue & Wednesday",
+        "appointmentNumber": "+8801703725590Call Now"
+      }
+    },
+    {
+      "id": "fbb7dbd8-2806-4cfd-9279-846850cf1569",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-a-b-shamsudduha/",
+      "imageId": "7fb45b2a-8243-4e7b-a34e-8770b0187dc3",
       "name": "Dr. A. B. Shamsudduha",
       "degree": "MBBS, DO, FCPS (EYE), MS (EYE)",
       "specialty": "Eye Specialist & Vitreo Retina Surgeon",
@@ -864,25 +1068,14 @@
         "hospital": "Harun Eye Foundation Hospital, Dhanmondi",
         "address": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
         "visitingTime": "4.30pm to 8.30pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801767273185"
-      },
-      "id": "e0ba775f-f612-4ffe-b5ea-5a04ab06696c"
+        "appointmentNumber": "+8801767273185Call Now"
+      }
     },
     {
-      "name": "Dr. Zakia Farhana",
-      "degree": "MBBS (RU), DO (BSMMU)",
-      "specialty": "Eye (Glaucoma) Specialist & Surgeon",
-      "workplace": "Ibn Sina Medical College & Hospital",
-      "info": "Islami Bank Hospital, Motijheel\nAddress: Room 403, 24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka\nVisiting Hour: 6pm to 9pm (Closed: Friday)\nAppointment: +8801727666741\nCall Now",
-      "chamber": {
-        "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
-        "address": "Room 311, 1/1-B, Kallyanpur, Mirpur Road, Dhaka-1216",
-        "visitingTime": "9am to 2pm (Sun, Tue & Thursday), 5:30pm to 8pm (Mon, Tue & Wednesday",
-        "appointmentNumber": "+8801703725590"
-      },
-      "id": "5a816d43-5e18-4305-bc3b-447b468b5fc5"
-    },
-    {
+      "id": "245fafe7-eec1-493a-86f8-f0007cb83906",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-tamal-kanti-roy-sarkar/",
+      "imageId": "028d755b-393c-4e4c-8b17-0fe53b3bfb08",
       "name": "Dr. Tamal Kanti Roy Sarkar",
       "degree": "MBBS, (Kolkata), MS (PGI, Chandigar), FMRF",
       "specialty": "Eye & Retina Specialist",
@@ -892,11 +1085,14 @@
         "hospital": "Asgar Ali Hospital, Dhaka",
         "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801787683333"
-      },
-      "id": "f21e412c-32f6-4e43-9fe8-1bbd6bdeda84"
+        "appointmentNumber": "+8801787683333Call Now"
+      }
     },
     {
+      "id": "3548e835-f004-4268-b87e-d66e4f945d61",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-mezbahul-alam/",
+      "imageId": "a4bf312d-74db-481f-a6de-e5507ce52b65",
       "name": "Dr. Md. Mezbahul Alam",
       "degree": "MBBS, MCPS, FCPS (EYE)",
       "specialty": "Eye Diseases (Vitreo-Retina & Uvea) Specialist & Surgeon",
@@ -906,11 +1102,14 @@
         "hospital": "Vision Eye Hospital, Dhaka",
         "address": "229 Green Road, Dhanmondi, Dhaka – 1205",
         "visitingTime": "8am to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809610244123"
-      },
-      "id": "fd7d51bc-9535-43d6-9ed0-ece92df3ab4e"
+        "appointmentNumber": "+8809610244123Call Now"
+      }
     },
     {
+      "id": "84738010-4b04-4b48-b200-37bc656c7274",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-kousik-chowdhury/",
+      "imageId": "d6b0a3f7-2ed9-4598-95b0-e991e254c2fa",
       "name": "Dr. Kousik Chowdhury",
       "degree": "MBBS, FCPS (EYE), Fellow in Vitreo Retina (INDIA)",
       "specialty": "Eye Specialist & Retina Surgeon",
@@ -920,11 +1119,14 @@
         "hospital": "Dhaka Eye Care Hospital, Uttara",
         "address": "32, Rabindra Sarani, Sector – 7, Uttara, Dhaka – 1230",
         "visitingTime": "5pm to 11pm (Closed: Friday)",
-        "appointmentNumber": "+8801787681500"
-      },
-      "id": "2f573f18-b160-4507-9e38-3f1d68cda2f2"
+        "appointmentNumber": "+8801787681500Call Now"
+      }
     },
     {
+      "id": "0edb5c8f-3fb9-4c40-8ea3-48e2d53f391f",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-yusuf-jamal-khan/",
+      "imageId": "4a75312d-1620-4ea1-ad70-b436367a280d",
       "name": "Dr. Yusuf Jamal Khan",
       "degree": "MBBS, DO",
       "specialty": "Eye Specialist & Phaco Surgeon",
@@ -934,11 +1136,14 @@
         "hospital": "Ispahani Islamia Eye Institute & Hospital",
         "address": "Khamarbari, Sher-E-Bangla Nagar, Farmgate, Dhaka – 1215",
         "visitingTime": "7.30am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8809610998333"
-      },
-      "id": "c70e005e-72d0-41d4-bf64-6d0497e5f6a5"
+        "appointmentNumber": "+8809610998333Call Now"
+      }
     },
     {
+      "id": "711439cf-5683-468e-981c-fef245fbbc00",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-s-m-rejwan-raju/",
+      "imageId": "595f18d4-f15a-4ef5-bd79-d3f685021923",
       "name": "Dr. S M Rejwan Raju",
       "degree": "MBBS (DMC), MCPS (EYE), FCPS (EYE)",
       "specialty": "Eye (Glaucoma) Specialist & Phaco surgeon",
@@ -948,11 +1153,14 @@
         "hospital": "Hikmah Eye Hospital, Khilgaon",
         "address": "C-287/15, Atish Diponker Road, Khilgaon, Dhaka-1219",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801730767333"
-      },
-      "id": "a0fd9037-3e4a-4a1d-9a16-4a26eacf9ff3"
+        "appointmentNumber": "+8801730767333Call Now"
+      }
     },
     {
+      "id": "6ac7ae5b-082e-4687-9cbf-394fa58dd5ee",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-abdul-hye/",
+      "imageId": "762e9645-3472-43b1-82ec-c3798a619156",
       "name": "Prof. Dr. Md. Abdul Hye",
       "degree": "MBBS, FCPS (EYE)",
       "specialty": "Eye Diseases Specialist & Phaco Surgeon",
@@ -962,11 +1170,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "8a995753-7170-47cc-8448-44b8121d081b"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "d8f46959-77fe-4759-92e7-0f79dfc5a71b",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-shah-alam/",
+      "imageId": "3353d753-aff2-4d79-825d-c89d5c568c9f",
       "name": "Prof. Dr. Shah Alam",
       "degree": "MBBS, FCPS (EYE)",
       "specialty": "Eye Diseases Specialist & Surgeon",
@@ -976,11 +1187,14 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "11am to 1pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "7368e2e0-1c38-47a2-9b09-661bad785e1d"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "f7b39e50-e7ce-4e68-a4a6-a5b0170174fc",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-shah-noor-hassan/",
+      "imageId": "fe3f6101-a917-4739-bd12-311fee07b885",
       "name": "Dr. Shah-Noor Hassan",
       "degree": "MBBS, FCPS (EYE), ICO (UK), FRCS (UK)",
       "specialty": "Eye Diseases (Vitreo Retina) Specialist & Surgeon",
@@ -990,11 +1204,14 @@
         "hospital": "Bangladesh Eye Hospital, Dhanmondi",
         "address": "78, Satmasjid Road (West of Road 27), Dhanmondi, Dhaka-1205",
         "visitingTime": "4pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787878"
-      },
-      "id": "07a6a1ef-4b03-4ad5-a842-d4817fcec48d"
+        "appointmentNumber": "+8809666787878Call Now"
+      }
     },
     {
+      "id": "352a44a1-845d-4a5c-a2d4-0af94b62eb09",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-m-ziaul-karim/",
+      "imageId": "24c06d1e-406a-4cc5-824c-88bdf24b8d95",
       "name": "Dr. M. Ziaul Karim",
       "degree": "MBBS, DO (DU), FCPS (EYE)",
       "specialty": "Eye, Glaucoma, Phaco Specialist & Surgeon",
@@ -1004,11 +1221,14 @@
         "hospital": "Harun Eye Foundation Hospital, Dhanmondi",
         "address": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
         "visitingTime": "10am to 12pm & 4pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+88029613930"
-      },
-      "id": "e8224d62-8c97-419a-9bcb-48b307bee189"
+        "appointmentNumber": "+88029613930Call Now"
+      }
     },
     {
+      "id": "a0f6e146-d4f0-40b8-8d6c-8ab755eba67c",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-mahmudul-hasan-siddiqi/",
+      "imageId": "0d522b29-5663-46b5-9d01-aaef9d5cb2f3",
       "name": "Prof. Dr. Mahmudul Hasan Siddiqi",
       "degree": "MBBS, DO (DU), FCRS (SNEC, Singapore)",
       "specialty": "Eye Specialist & Phaco Surgeon",
@@ -1018,11 +1238,14 @@
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "5pm to 8pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "cc917ef4-7d58-44f4-9fa0-1c87f493de82"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
+      "id": "a30fbbba-337a-49cc-9306-dfabcf209299",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-abdus-salam-eye/",
+      "imageId": "bb3d388e-8f12-44ff-bc75-ca215b7bf1b8",
       "name": "Dr. Abdus Salam",
       "degree": "MBBS, DO",
       "specialty": "Cataract, Cornea & Anterior Segment Specialist",
@@ -1032,11 +1255,14 @@
         "hospital": "Ispahani Islamia Eye Institute & Hospital",
         "address": "Khamarbari, Sher-E-Bangla Nagar, Farmgate, Dhaka – 1215",
         "visitingTime": "7.30am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8809610998333"
-      },
-      "id": "96724327-fcda-4108-a785-e831d1cb6bff"
+        "appointmentNumber": "+8809610998333Call Now"
+      }
     },
     {
+      "id": "0bd71d73-eb8f-4071-885d-fa5ab58f8937",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-shariful-islam-bhuiya/",
+      "imageId": "a0c39b8b-2b5d-4f8c-8785-64d251103373",
       "name": "Dr. Md. Shariful Islam Bhuiya",
       "degree": "MBBS, DO, MS (EYE)",
       "specialty": "Eye Specialist",
@@ -1046,11 +1272,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Lalbagh",
         "address": "27/4 Dhakeshwori Road, Lalbagh, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801783356048"
-      },
-      "id": "18eefb64-3141-4da7-85d2-24b185625da6"
+        "appointmentNumber": "+8801783356048Call Now"
+      }
     },
     {
+      "id": "8b27198d-096d-4bcd-a1f9-d64d462ee80f",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-ruhul-amin-khan/",
+      "imageId": "13f2e161-0431-49e8-8c16-c06d9c0a452d",
       "name": "Dr. Md. Ruhul Amin Khan",
       "degree": "MBBS, FCPS (EYE), MS (EYE)",
       "specialty": "Eye Diseases Specialist & Phaco Surgeon",
@@ -1060,11 +1289,14 @@
         "hospital": "Islami Bank Hospital, Mugda",
         "address": "1/24/B, Kamalapur Manda Road, South Mugdapara, Dhaka",
         "visitingTime": "4.30pm to 8pm (Closed: Sunday)",
-        "appointmentNumber": "+8801724008677"
-      },
-      "id": "abf9c5ed-da19-4345-9f74-9f8d250cbaf5"
+        "appointmentNumber": "+8801724008677Call Now"
+      }
     },
     {
+      "id": "26d52333-c531-41d4-9699-b557152803aa",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-abdul-halim-khan/",
+      "imageId": "26212c6c-1d4e-46c8-b384-110989b32ed6",
       "name": "Prof. Dr. Md. Abdul Halim Khan",
       "degree": "MBBS, FCPS (EYE), Research Fellow (Austria)",
       "specialty": "General Ophthalmologist",
@@ -1074,25 +1306,14 @@
         "hospital": "Harun Eye Foundation Hospital, Dhanmondi",
         "address": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
         "visitingTime": "6pm to 9pm (Sat to Wed) & 11am to 2pm (Tue & Thu)",
-        "appointmentNumber": "+8801914290789"
-      },
-      "id": "44528d0d-b92d-44b5-9667-b97406d03d72"
+        "appointmentNumber": "+8801914290789Call Now"
+      }
     },
     {
-      "name": "Dr. Md. Abdul Muyeed",
-      "degree": "MBBS, DO",
-      "specialty": "Eye Specialist & Phaco Surgeon",
-      "workplace": "Ispahani Islamia Eye Institute & Hospital",
-      "info": "Dr. Md. Abdul Muyeed is a Eye Specialist in Dhaka. His qualification is MBBS, DO. He is a Consultant, Ophthalmology at Ispahani Islamia Eye Institute & Hospital. He regularly provides treatment to his patients at Ispahani Islamia Eye Institute & Hospital. Practicing hour of Dr. Md. Abdul Muyeed at Ispahani Islamia Eye Institute & Hospital is 7.30am to 5pm (Closed: Friday).",
-      "chamber": {
-        "hospital": "Ispahani Islamia Eye Institute & Hospital",
-        "address": "Khamarbari, Sher-E-Bangla Nagar, Farmgate, Dhaka – 1215",
-        "visitingTime": "7.30am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8809610998333"
-      },
-      "id": "e3cd4250-cd91-4c88-a527-bbfedb8f2cb0"
-    },
-    {
+      "id": "e9b6b034-8c58-4db4-8418-bc0df545bca8",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-ahmed-zahir-bin-zia/",
+      "imageId": "d3284592-25df-46c3-a6b0-9d9721017abe",
       "name": "Dr. Ahmed Zahir Bin Zia",
       "degree": "MBBS, DO",
       "specialty": "Cataract & Comprehensive Ophthalmology Specialist",
@@ -1102,11 +1323,31 @@
         "hospital": "Ispahani Islamia Eye Institute & Hospital",
         "address": "Khamarbari, Sher-E-Bangla Nagar, Farmgate, Dhaka – 1215",
         "visitingTime": "7.30am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8809610998333"
-      },
-      "id": "4c7fab2a-408a-4fd3-b85e-de3712154801"
+        "appointmentNumber": "+8809610998333Call Now"
+      }
     },
     {
+      "id": "cdbc478a-ec91-46ea-86b9-2bc469a570a8",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdul-muyeed/",
+      "imageId": "7fa6c53f-fbb3-450f-aeed-1c3bd9847510",
+      "name": "Dr. Md. Abdul Muyeed",
+      "degree": "MBBS, DO",
+      "specialty": "Eye Specialist & Phaco Surgeon",
+      "workplace": "Ispahani Islamia Eye Institute & Hospital",
+      "info": "Dr. Md. Abdul Muyeed is a Eye Specialist in Dhaka. His qualification is MBBS, DO. He is a Consultant, Ophthalmology at Ispahani Islamia Eye Institute & Hospital. He regularly provides treatment to his patients at Ispahani Islamia Eye Institute & Hospital. Practicing hour of Dr. Md. Abdul Muyeed at Ispahani Islamia Eye Institute & Hospital is 7.30am to 5pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Ispahani Islamia Eye Institute & Hospital",
+        "address": "Khamarbari, Sher-E-Bangla Nagar, Farmgate, Dhaka – 1215",
+        "visitingTime": "7.30am to 5pm (Closed: Friday)",
+        "appointmentNumber": "+8809610998333Call Now"
+      }
+    },
+    {
+      "id": "151a3907-4533-4567-a891-2b5fa7f7893d",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-mahbubur-rahman-shahin/",
+      "imageId": "439ebf87-4485-4633-b7cd-3d1388cbd5ad",
       "name": "Dr. Mahbubur Rahman Shahin",
       "degree": "MBBS, DO (Eye)",
       "specialty": "Eye Specialist & Surgeon",
@@ -1116,11 +1357,14 @@
         "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
         "address": "1/1 B, Kallyanpur, Dhaka",
         "visitingTime": "5pm to 9pm (Per Month Date 16-30 Mon,Tue, Wednesday)",
-        "appointmentNumber": "+8801703725590"
-      },
-      "id": "31c89605-d429-48da-b2e8-ccbd93ead2ed"
+        "appointmentNumber": "+8801703725590Call Now"
+      }
     },
     {
+      "id": "e1b53c13-fb09-4571-9434-c15e491348d5",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-s-m-monowarul-islam/",
+      "imageId": "afd324f0-9cec-4714-9dab-412d91d16305",
       "name": "Prof. Dr. S.M. Monowarul Islam",
       "degree": "MBBS, PhD (EYE), FICS",
       "specialty": "Uveitis & Medical Retina Specialist",
@@ -1130,11 +1374,14 @@
         "hospital": "Bashundhara Eye Hospital & Research Institute",
         "address": "474, Road # 5, Block # D, Beside Mededi Mart, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 1pm & 4pm to 7pm (Everyday)",
-        "appointmentNumber": "+8809643200700"
-      },
-      "id": "e3d38ca6-a2c2-4bab-a768-ee81f705907f"
+        "appointmentNumber": "+8809643200700Call Now"
+      }
     },
     {
+      "id": "37d58e28-1ab9-4a82-842e-35b13893da3f",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-abdus-samad-sheikh/",
+      "imageId": "123aa8f2-312c-4a67-810b-226a533e538f",
       "name": "Dr. Abdus Samad Sheikh",
       "degree": "MBBS, MS (Ophthalmology)",
       "specialty": "Eye Specialist & Surgeon",
@@ -1144,11 +1391,14 @@
         "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
         "address": "1/1 B, Kallyanpur, Dhaka",
         "visitingTime": "10am to 1pm (Closed: Friday)",
-        "appointmentNumber": "+8801703725590"
-      },
-      "id": "ee61becd-6434-46bb-a1a1-09d944fb318a"
+        "appointmentNumber": "+8801703725590Call Now"
+      }
     },
     {
+      "id": "e5fcd58d-858e-493a-b618-e508a09283c3",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-moutushi-islam/",
+      "imageId": "360c74cc-3243-4a6f-a81a-337899f20d3d",
       "name": "Dr. Moutushi Islam",
       "degree": "MBBS, FCPS (EYE)",
       "specialty": "Vitreo Retina Specialist & Phaco Surgeon",
@@ -1158,11 +1408,14 @@
         "hospital": "Bashundhara Eye Hospital & Research Institute",
         "address": "474, Road # 5, Block # D, Beside Mededi Mart, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 1pm (Closed: Friday & Tuesday)",
-        "appointmentNumber": "+8809643200700"
-      },
-      "id": "aa797b7c-f7af-443e-9b9f-2cb34877a2d5"
+        "appointmentNumber": "+8809643200700Call Now"
+      }
     },
     {
+      "id": "a398ee38-b3b9-44bb-857d-165717652584",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-musharaf-hossain/",
+      "imageId": "5ac33b6e-d91d-4ba3-9b2e-5ca70aa841da",
       "name": "Dr. Md. Musharaf Hossain",
       "degree": "MBBS, FCPS (EYE), MS (EYE), Fellow (LVPEI)",
       "specialty": "Eye Specialist & Phaco Surgeon",
@@ -1172,11 +1425,14 @@
         "hospital": "Harun Eye Foundation Hospital, Dhanmondi",
         "address": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
         "visitingTime": "5pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801788622568"
-      },
-      "id": "5fb05a55-14da-4ccd-8c85-eab1cad0b95c"
+        "appointmentNumber": "+8801788622568Call Now"
+      }
     },
     {
+      "id": "0a3cab59-1b62-4058-bd7e-52de9ba00bdd",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-abu-yousuf/",
+      "imageId": "8939a806-9b22-4090-aeb8-d4a51fd9faad",
       "name": "Dr. Md. Abu Yousuf",
       "degree": "MBBS, MCPS (EYE), MS (EYE)",
       "specialty": "Eye Diseases Specialist & Phaco Surgeon",
@@ -1186,11 +1442,14 @@
         "hospital": "Islami Bank Hospital, Mirpur",
         "address": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801992346632"
-      },
-      "id": "8298fea7-d4c2-48d5-9e22-c060168c1137"
+        "appointmentNumber": "+8801992346632Call Now"
+      }
     },
     {
+      "id": "a2d1e598-7c36-43a5-b3d7-51d0a737ddc6",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-mazharul-islam/",
+      "imageId": "43d3eb75-9889-4e7a-a998-0a9f156bacbd",
       "name": "Dr. Md. Mazharul Islam",
       "degree": "MBBS, FCPS (EYE)",
       "specialty": "Eye Diseases Specialist & Phaco Surgeon",
@@ -1200,11 +1459,14 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "10am to 1pm & 5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "2b2184db-c542-4369-a484-b22a1e75ea1d"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "01de3823-a31d-4a8c-9d29-c2c78fdff84e",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-sajedur-rahman/",
+      "imageId": "6c597463-a27f-46e4-af41-7a48d4e4b17c",
       "name": "Dr. Sajedur Rahman",
       "degree": "MBBS, DO, MS (EYE), Fellow in Glaucoma (India)",
       "specialty": "Phaco & Glaucoma Specialist",
@@ -1214,11 +1476,14 @@
         "hospital": "Harun Eye Foundation Hospital, Dhanmondi",
         "address": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
         "visitingTime": "5pm to 9pm (Sat to Thu) & 10am to 12.30pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801711439896"
-      },
-      "id": "a00ce17a-30e9-42ca-af80-d1aac6d71983"
+        "appointmentNumber": "+8801711439896Call Now"
+      }
     },
     {
+      "id": "a793471e-8674-4196-80e7-d9712c036a6e",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-afzal-mahfuz-ullah/",
+      "imageId": "221d301a-7eb0-4ee9-a7bf-08780a96521e",
       "name": "Dr. Mohammad Afzal Mahfuz Ullah",
       "degree": "MBBS, MCPS (EYE), FCPS (EYE)",
       "specialty": "Eye Specialist Phaco, Laser & Retina Surgeon",
@@ -1228,25 +1493,31 @@
         "hospital": "Vision Eye Hospital, Dhaka",
         "address": "229 Green Road, Dhanmondi, Dhaka – 1205",
         "visitingTime": "8am to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809610244123"
-      },
-      "id": "594447ce-372f-4309-9387-1c447b8c858d"
+        "appointmentNumber": "+8809610244123Call Now"
+      }
     },
     {
+      "id": "9aed21c5-c38f-4085-9681-843889d21e1c",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-mahafuzul-islam/",
+      "imageId": "679affa5-0eab-449f-abc3-bf02d9ba547f",
       "name": "Prof. Dr. Md. Mahafuzul Islam",
       "degree": "MBBS, DO (DU), MS (EYE)",
       "specialty": "Eye Specialist, Laser & Phaco Surgeon",
       "workplace": "Enam Medical College & Hospital",
-      "info": "Enam Medical College & Hospital\nAddress: 9/3 Parboti Nagar, Thana Road, Savar, Dhaka\nVisiting Hour: 8am to 2.30pm (Closed: Friday)\nAppointment: +8801716358146\nCall Now",
+      "info": "Enam Medical College & Hospital Address: 9/3 Parboti Nagar, Thana Road, Savar, Dhaka Visiting Hour: 8am to 2.30pm (Closed: Friday) Appointment: +8801716358146 Call Now",
       "chamber": {
         "hospital": "Harun Eye Foundation Hospital, Dhanmondi",
         "address": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801879131577"
-      },
-      "id": "db14ae44-45b5-4af9-b077-2d6481e6c37f"
+        "appointmentNumber": "+8801879131577Call Now"
+      }
     },
     {
+      "id": "75b4446f-abf2-4296-a1c4-02af8ecfc7f2",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-sarwat-rahman/",
+      "imageId": "36fd70b1-0d61-4eb2-b359-8b8b3b0e7cdf",
       "name": "Dr. Sarwat Rahman",
       "degree": "MBBS, DO (DU)",
       "specialty": "Neuro-Ophthalmologist & Phaco Surgeon",
@@ -1256,11 +1527,14 @@
         "hospital": "Bangladesh Eye Hospital, Dhanmondi",
         "address": "78, Satmasjid Road (West of Road 27), Dhanmondi, Dhaka-1205",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787878"
-      },
-      "id": "64011a5f-23b8-4638-a801-3e79f85e9b2c"
+        "appointmentNumber": "+8809666787878Call Now"
+      }
     },
     {
+      "id": "180209ed-6f63-496f-975c-831c9e422aff",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-abid-akbar/",
+      "imageId": "70bf794e-9da8-452c-9489-569cdea23343",
       "name": "Dr. Mohammad Abid Akbar",
       "degree": "MBBS, DO (DU)",
       "specialty": "Eye (Oculoplasty & Laser DCR) Specialist & Surgeon",
@@ -1270,11 +1544,14 @@
         "hospital": "Vision Eye Hospital, Dhaka",
         "address": "229 Green Road, Dhanmondi, Dhaka – 1205",
         "visitingTime": "8am to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809610244123"
-      },
-      "id": "9b5b7602-6bca-4aa2-ab42-c85f30a78b49"
+        "appointmentNumber": "+8809610244123Call Now"
+      }
     },
     {
+      "id": "3f25aa83-5d7b-4d5d-843b-3bce8dce9473",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-kamrul-hasan-eye/",
+      "imageId": "24870c7e-8a53-4e2e-b154-632d56305ca5",
       "name": "Dr. Md. Kamrul Hasan",
       "degree": "MBBS, DO (DU), MS (EYE), Fellow in Vitreo-Retinal Surgery (India)",
       "specialty": "Phaco, Laser & Vitreo Retina Surgeon",
@@ -1284,25 +1561,31 @@
         "hospital": "Harun Eye Foundation Hospital, Dhanmondi",
         "address": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
         "visitingTime": "5pm to 9pm (Sat, Sun, Wed & Thu)",
-        "appointmentNumber": "+88029613930"
-      },
-      "id": "f6894f26-4c01-457e-8570-e5dc87a48f8e"
+        "appointmentNumber": "+88029613930Call Now"
+      }
     },
     {
+      "id": "efb91910-b5fa-4607-b36d-a2f905b1e5f6",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-asaduzzaman-eye/",
+      "imageId": "dd2f9bab-daf7-4a8d-9c03-03bd347cee01",
       "name": "Dr. Md. Asaduzzaman",
       "degree": "MBBS, FCPS (EYE)",
-      "specialty": "Cataract &  General Ophthalmology Specialist",
+      "specialty": "Cataract & General Ophthalmology Specialist",
       "workplace": "East West Medical College & Hospital",
       "info": "Dr. Md. Asaduzzaman is a Eye Specialist in Dhaka. His qualification is MBBS, FCPS (EYE). He is a Assistant Professor, Ophthalmology at East West Medical College & Hospital. He regularly provides treatment to his patients at Harun Eye Foundation Hospital, Dhanmondi. Practicing hour of Dr. Md. Asaduzzaman at Harun Eye Foundation Hospital, Dhanmondi is 3pm to 5pm (Sun, Mon, Tue & Wed).",
       "chamber": {
         "hospital": "Harun Eye Foundation Hospital, Dhanmondi",
         "address": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
         "visitingTime": "3pm to 5pm (Sun, Mon, Tue & Wed)",
-        "appointmentNumber": "+8801918185620"
-      },
-      "id": "78019c56-5bce-43b1-ac8f-c7ea80eaee07"
+        "appointmentNumber": "+8801918185620Call Now"
+      }
     },
     {
+      "id": "21cd0d18-ef0d-4ee5-a181-440ca292781a",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-kibria-alam/",
+      "imageId": "76c488fa-084b-47db-8e46-8e16cbbff029",
       "name": "Dr. Md. Kibria Alam",
       "degree": "MBBS, DO, MS (EYE), Research Fellow (Japan)",
       "specialty": "Cornea, Uvea, Phaco & Laser Specialist Surgeon",
@@ -1312,11 +1595,14 @@
         "hospital": "Harun Eye Foundation Hospital, Dhanmondi",
         "address": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
         "visitingTime": "7.30pm to 9.30pm (Closed: Monday & Friday)",
-        "appointmentNumber": "+8801743673149"
-      },
-      "id": "919d3940-7b68-4936-8f34-cbd821873ed6"
+        "appointmentNumber": "+8801743673149Call Now"
+      }
     },
     {
+      "id": "3cbf61c2-a07f-4576-af6e-232489df3d84",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-colonel-zahid/",
+      "imageId": "10df9db9-1bdd-48cf-8cff-2769fb351d05",
       "name": "Prof. Dr. Colonel Zahid",
       "degree": "MBBS, MCPS, DO, FCPS (EYE)",
       "specialty": "Eye Diseases Specialist & Phaco Surgeon",
@@ -1326,25 +1612,14 @@
         "hospital": "Vision Eye Hospital, Dhaka",
         "address": "229 Green Road, Dhanmondi, Dhaka – 1205",
         "visitingTime": "8am to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809610244123"
-      },
-      "id": "0331e111-328c-4643-a31e-93c1d1f6973d"
+        "appointmentNumber": "+8809610244123Call Now"
+      }
     },
     {
-      "name": "Prof. Dr. Nurul Alam",
-      "degree": "MBBS, FCPS (EYE), PGT (EYE)",
-      "specialty": "Eye Diseases Specialist, Phaco & Laser Surgeon",
-      "workplace": "East West Medical College & Hospital",
-      "info": "Prof. Dr. Nurul Alam is a Eye Specialist in Dhaka. His qualification is MBBS, FCPS (EYE), PGT (EYE). He is a Professor & Head, Ophthalmology at East West Medical College & Hospital. He regularly provides treatment to his patients at Aichi Hospital Limited, Uttara. Practicing hour of Prof. Dr. Nurul Alam at Aichi Hospital Limited, Uttara is 6:30pm to 8pm (Closed: Friday).",
-      "chamber": {
-        "hospital": "Aichi Hospital Limited, Uttara",
-        "address": "Plot # 35 & 37, Sector # 08, Abdullahpur, Uttara, Dhaka",
-        "visitingTime": "6:30pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801689956599"
-      },
-      "id": "d9ed71e8-d7f9-4a64-beac-e488d3293669"
-    },
-    {
+      "id": "452fa9e2-271e-49b2-8bbe-88adbe86e41f",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahmudur-rahman-eye/",
+      "imageId": "57296d66-23a6-4f6f-ad1f-3778a9dd8bc9",
       "name": "Dr. Md. Mahmudur Rahman",
       "degree": "MBBS (DU), MS (EYE)",
       "specialty": "Eye Diseases Specialist & Phaco Surgeon",
@@ -1354,11 +1629,31 @@
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "6.30pm to 9.30pm (Sat & Mon) & 3.30pm to 5pm (Thursday)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "f65e1722-b499-4fa6-bb1b-b209bd43521b"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
+      "id": "a4dd73d5-0260-4827-bd12-e9a39bb28220",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-nurul-alam/",
+      "imageId": "9abda125-f8ad-414f-acad-a2f53def308c",
+      "name": "Prof. Dr. Nurul Alam",
+      "degree": "MBBS, FCPS (EYE), PGT (EYE)",
+      "specialty": "Eye Diseases Specialist, Phaco & Laser Surgeon",
+      "workplace": "East West Medical College & Hospital",
+      "info": "Prof. Dr. Nurul Alam is a Eye Specialist in Dhaka. His qualification is MBBS, FCPS (EYE), PGT (EYE). He is a Professor & Head, Ophthalmology at East West Medical College & Hospital. He regularly provides treatment to his patients at Aichi Hospital Limited, Uttara. Practicing hour of Prof. Dr. Nurul Alam at Aichi Hospital Limited, Uttara is 6:30pm to 8pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Aichi Hospital Limited, Uttara",
+        "address": "Plot # 35 & 37, Sector # 08, Abdullahpur, Uttara, Dhaka",
+        "visitingTime": "6:30pm to 8pm (Closed: Friday)",
+        "appointmentNumber": "+8801689956599Call Now"
+      }
+    },
+    {
+      "id": "9f4d00b5-3685-4298-b815-95d818a8a520",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/lt-col-dr-md-sajedur-rahman/",
+      "imageId": "f0112337-fd63-418d-a497-7775102a2040",
       "name": "Lt. Col. Dr. Md. Sajedur Rahman",
       "degree": "MBBS, DO (DU), MD (Germany)",
       "specialty": "Eye Diseases Specialist & Surgeon",
@@ -1368,11 +1663,14 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "8694f66f-82a6-4210-bfc3-30694a0c609a"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "61b0800e-cf40-4fbe-9100-e8f54b4df203",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-mostak-ahmed/",
+      "imageId": "4fc27350-2fe5-46aa-ade9-e9b898556573",
       "name": "Dr. Mostak Ahmed",
       "degree": "MBBS, MS (EYE)",
       "specialty": "Eye Specialist & Phaco Surgeon",
@@ -1382,11 +1680,14 @@
         "hospital": "Health and Hope Hospital",
         "address": "152/2/G, Green Road, Panthapath, Dhaka - 1205",
         "visitingTime": "6.30pm to 8.30pm (Closed: Sun, Thu & Friday)",
-        "appointmentNumber": "+8809611996699"
-      },
-      "id": "4d5ae507-af58-4f00-a7a8-b0a823efff4d"
+        "appointmentNumber": "+8809611996699Call Now"
+      }
     },
     {
+      "id": "e243683d-1d9e-4f09-a703-dd370ca9cb11",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-al-mahmud-lemon/",
+      "imageId": "666b76b1-fac9-4d86-b52e-8e6feff09bc7",
       "name": "Dr. Al Mahmud Lemon",
       "degree": "MBBS, BCS (Health), FCPS (EYE), MRCS (EYE-UK)",
       "specialty": "Eye Diseases Specialist & Phaco Surgeon",
@@ -1396,11 +1697,14 @@
         "hospital": "Green Eye Hospital, Dhaka",
         "address": "3rd Floor, Rupayan Khan Plaza, Road # 07, Dhaka - 1205",
         "visitingTime": "5pm to 7pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801727700888"
-      },
-      "id": "3ddd81de-04c2-451c-baa7-a516b90f50be"
+        "appointmentNumber": "+8801727700888Call Now"
+      }
     },
     {
+      "id": "0fd9c1ab-f937-4b49-9e64-cebeb829de52",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-shaheen-reza-chowdhury/",
+      "imageId": "5a2b6b54-06d7-4a92-914d-c9131fe56635",
       "name": "Dr. Md. Shaheen Reza Chowdhury",
       "degree": "MBBS, DO, FCPS (EYE)",
       "specialty": "Eye Specialist & Phaco Surgeon",
@@ -1410,11 +1714,14 @@
         "hospital": "Harun Eye Foundation Hospital, Dhanmondi",
         "address": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801971150748"
-      },
-      "id": "7236523b-1066-4b60-96ca-716e0d434d31"
+        "appointmentNumber": "+8801971150748Call Now"
+      }
     },
     {
+      "id": "b2c38436-0bc0-4b62-b2e7-34e951f2d09d",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-kamal-haider-khan/",
+      "imageId": "9e8ccb5a-15ff-4284-9fa9-d459b0205373",
       "name": "Dr. Kamal Haider Khan",
       "degree": "MBBS, DO(DU), MS (EYE), MCPS (EYE)",
       "specialty": "Eye Diseases (Glaucoma) Specialist & Phaco Surgeon",
@@ -1424,11 +1731,14 @@
         "hospital": "Bangladesh Eye Hospital, Dhanmondi",
         "address": "78, Satmasjid Road (West of Road 27), Dhanmondi, Dhaka-1205",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787878"
-      },
-      "id": "c5de6977-2812-4fea-bdaa-39b1383aa51b"
+        "appointmentNumber": "+8809666787878Call Now"
+      }
     },
     {
+      "id": "14e6e0ce-afd5-4757-9b8b-53dc64a3a792",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-golam-musfiqur/",
+      "imageId": "24492be0-37ca-40c7-ba3d-66789b47219d",
       "name": "Dr. Golam Musfiqur",
       "degree": "MBBS, BCS (Health), MCPS (EYE), Training (Microsurgery)",
       "specialty": "Eye Diseases Specialist & Phaco Surgeon",
@@ -1438,11 +1748,14 @@
         "hospital": "Farazy Hospital, Banasree",
         "address": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
         "visitingTime": "7pm to 10pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801882084414"
-      },
-      "id": "c2f8257c-5b48-4c84-988c-945f29c31625"
+        "appointmentNumber": "+8801882084414Call Now"
+      }
     },
     {
+      "id": "608cf167-b751-45e6-add3-eb590ec29ec2",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-shormin-shohelly/",
+      "imageId": "75837217-5583-4e0b-a729-4316025b8c0f",
       "name": "Dr. Shormin Shohelly",
       "degree": "MBBS, DO, MS (EYE)",
       "specialty": "Uvea, Retina & Eye Cancer Specialist",
@@ -1452,11 +1765,14 @@
         "hospital": "Bashundhara Eye Hospital & Research Institute",
         "address": "474, Road # 5, Block # D, Beside Mededi Mart, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 1pm & 4pm to 7pm (Everyday)",
-        "appointmentNumber": "+8809643200700"
-      },
-      "id": "866e5f9b-f66d-46b9-8546-5ad19a628f02"
+        "appointmentNumber": "+8809643200700Call Now"
+      }
     },
     {
+      "id": "7138c31a-08b2-4622-b37d-c4c707b0ba08",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-sb-rasel/",
+      "imageId": "d87ee5ee-b4f8-49e1-b457-3698beae7c66",
       "name": "Dr. SB Rasel",
       "degree": "MBBS (DMC), FCPS (EYE)",
       "specialty": "Eye Diseases (Vitreo-Retina) Specialist & Surgeon",
@@ -1466,11 +1782,14 @@
         "hospital": "Vision Eye Hospital, Dhaka",
         "address": "229 Green Road, Dhanmondi, Dhaka – 1205",
         "visitingTime": "8am to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809610244123"
-      },
-      "id": "af3b2d12-d5df-48de-b7ab-8a2478018072"
+        "appointmentNumber": "+8809610244123Call Now"
+      }
     },
     {
+      "id": "b977826c-6815-45a7-af18-cc71fd058723",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-saifuddin-ahmed-pintu/",
+      "imageId": "d4a2e60d-3b9d-47a3-9531-5dc77ab398e7",
       "name": "Prof. Dr. Saifuddin Ahmed Pintu",
       "degree": "MBBS, DO, MCPS (EYE), MS (EYE), Fellow Vitreo Retina (India)",
       "specialty": "Phaco & Vitreo-Retina Specialist Surgeon",
@@ -1480,11 +1799,14 @@
         "hospital": "Harun Eye Foundation Hospital, Dhanmondi",
         "address": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801758676179"
-      },
-      "id": "802ea0f5-f2ee-43d6-af2e-efda7dbb8e11"
+        "appointmentNumber": "+8801758676179Call Now"
+      }
     },
     {
+      "id": "5ffa1ea7-59fd-4f3e-a30a-260bbb846c98",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-miftahul-hossain-chowdhury/",
+      "imageId": "eff62758-e1c7-4b75-8021-c78a26b1d72f",
       "name": "Dr. Miftahul Hossain Chowdhury",
       "degree": "MBBS, FCPS (EYE), MS (EYE)",
       "specialty": "Eye Diseases Specialist & Phaco Surgeon",
@@ -1494,11 +1816,14 @@
         "hospital": "Islami Bank Hospital, Motijheel",
         "address": "24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801727666741"
-      },
-      "id": "a2d8c564-0da1-4cdd-806c-1218a12f237f"
+        "appointmentNumber": "+8801727666741Call Now"
+      }
     },
     {
+      "id": "227c8783-5ea0-47d7-a543-f228f20acb80",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-farhana-hossain/",
+      "imageId": "8061a71b-0f42-488e-828a-21ac7d08f054",
       "name": "Dr. Farhana Hossain",
       "degree": "MBBS, FCPS (EYE), DCO (CU), FICO (UK)",
       "specialty": "Eye Specialist & Phaco Surgeon",
@@ -1508,11 +1833,14 @@
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Monday & Friday)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "a390f3bd-308d-4eed-b43a-96606f71eaff"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
+      "id": "49291f3e-a582-4c51-8396-308b2399b65c",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-masud-hashmee/",
+      "imageId": "6392d73b-ab50-4e8c-8133-265e94208a7c",
       "name": "Dr. Masud Hashmee",
       "degree": "MBBS, DO, FICO (UK), Fellow (Retina Vitreous)",
       "specialty": "Retina & Phaco Surgeon",
@@ -1522,11 +1850,14 @@
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "7pm to 10pm (Wednesday)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "07863b01-0235-4af4-a46f-4145fb3eacce"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
+      "id": "52fe6be0-8cf2-41d9-acc6-f5d4b542b0f9",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-sheikh-rabiul-alam/",
+      "imageId": "5060f646-5023-46a0-84b8-4e3a7357d8fa",
       "name": "Dr. Sheikh Rabiul Alam",
       "degree": "MBBS, MPH, FRSH (EYE-UK)",
       "specialty": "Eye Diseases Specialist & Phaco Surgeon",
@@ -1536,11 +1867,14 @@
         "hospital": "Farazy Hospital, Banasree",
         "address": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
         "visitingTime": "7pm to 10pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801882084414"
-      },
-      "id": "19c20506-323c-4a81-8c88-0fb5a7c209fd"
+        "appointmentNumber": "+8801882084414Call Now"
+      }
     },
     {
+      "id": "8babe9d1-2564-437f-8e4f-ce62c86fc03f",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-hasanuzzaman-2/",
+      "imageId": "51c566e5-a611-47d8-80a6-b047c1c9ef9e",
       "name": "Dr. Md. Hasanuzzaman",
       "degree": "MBBS, MCPS, FCPS (EYE)",
       "specialty": "Phaco, Ocular Oncologist and Eye Cosmetic Surgeon",
@@ -1550,11 +1884,14 @@
         "hospital": "Vision Eye Hospital",
         "address": "229 Green Road, Dhanmondi, Dhaka – 1205",
         "visitingTime": "8am to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809610244123"
-      },
-      "id": "f98f4aee-fbda-48e8-b3bb-45f4814f57c3"
+        "appointmentNumber": "+8809610244123Call Now"
+      }
     },
     {
+      "id": "f15c8367-51f9-4d6c-b601-05a5594bb131",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-hafizur-rahman-eye/",
+      "imageId": "4bbc2f24-0811-44d1-be96-2279363a92dd",
       "name": "Dr. Md. Hafizur Rahman",
       "degree": "MBBS, FCPS (EYE)",
       "specialty": "Eye Specealist, Phaco & Retina Surgeon",
@@ -1564,11 +1901,14 @@
         "hospital": "Vision Eye Hospital, Dhaka",
         "address": "229 Green Road, Dhanmondi, Dhaka – 1205",
         "visitingTime": "8am to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809610244123"
-      },
-      "id": "fab13a59-766a-4d35-8d17-897bde9885d3"
+        "appointmentNumber": "+8809610244123Call Now"
+      }
     },
     {
+      "id": "8db94b59-47a4-446a-9ce8-3ba59db9791f",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-jahir-uddin-mahmud/",
+      "imageId": "3b739d6e-fb2a-4f81-baee-e3ec1af25370",
       "name": "Prof. Dr. Jahir Uddin Mahmud",
       "degree": "MBBS, DO (DU), FCPS (EYE)",
       "specialty": "Eye Diseases Specialist & Phaco Surgeon",
@@ -1578,11 +1918,14 @@
         "hospital": "Ahsania Mission Cancer & General Hospital",
         "address": "Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka",
         "visitingTime": "3pm to 5pm (Only Monday)",
-        "appointmentNumber": "10617"
-      },
-      "id": "1c600010-b977-4c34-9e01-3c8278d432a1"
+        "appointmentNumber": "10617Call Now"
+      }
     },
     {
+      "id": "a4cf2661-2945-4c1a-9635-5d2ca80cb597",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-sheikh-mahbub-us-sobhan/",
+      "imageId": "de491b0a-6a76-49cd-81fd-432b6b20542e",
       "name": "Dr. Sheikh Mahbub Us Sobhan",
       "degree": "MBBS, DO, MS (EYE), Fellow in Retina-Vitreous (India)",
       "specialty": "Eye Specialist & Phaco Surgeon",
@@ -1592,11 +1935,14 @@
         "hospital": "Harun Eye Foundation Hospital, Dhanmondi",
         "address": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
         "visitingTime": "2pm to 5.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801926774295"
-      },
-      "id": "92788847-2524-4ed1-9c11-6fd9df82283a"
+        "appointmentNumber": "+8801926774295Call Now"
+      }
     },
     {
+      "id": "ffcddf13-66a7-48d0-b56f-8baf4aa040d4",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-wahid-karim/",
+      "imageId": "5dde891d-e76a-4a57-b4ef-352e09ef6cad",
       "name": "Dr. Wahid Karim",
       "degree": "MBBS, DO (EYE)",
       "specialty": "Eye Diseases, Glaucoma, Laser & Power Refraction Specialist",
@@ -1606,11 +1952,14 @@
         "hospital": "Farazy Hospital, Banasree",
         "address": "House # 15-19, Block-E, Banasree, Main Road, Rampura, Dhaka",
         "visitingTime": "10.30am to 1pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801882084414"
-      },
-      "id": "f5515d73-3d74-4663-a1fb-e1e99dcfe064"
+        "appointmentNumber": "+8801882084414Call Now"
+      }
     },
     {
+      "id": "7c586827-8de5-4ff3-be66-656eeed6a8bd",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-melia-choudhury/",
+      "imageId": "31ed81da-ea3b-4d81-9f24-cbc00944ece5",
       "name": "Dr. Melia Choudhury",
       "degree": "MBBS, DO, MS (EYE)",
       "specialty": "Phaco, Glaucoma & Extraocular Surgeon",
@@ -1620,11 +1969,14 @@
         "hospital": "Harun Eye Foundation Hospital, Dhanmondi",
         "address": "House # 12/A, Road # 05, Mirpur Main Road, Dhanmondi, Dhaka",
         "visitingTime": "4.30pm to 7.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801552355224"
-      },
-      "id": "5ee99c3f-93d5-4393-8652-d6fe01f99a57"
+        "appointmentNumber": "+8801552355224Call Now"
+      }
     },
     {
+      "id": "15a7d7e8-65c8-4add-921b-67fba69cd6ef",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-akhter-hossain-eye/",
+      "imageId": "c0ed0c52-b684-4dae-aa28-34bf960f9453",
       "name": "Dr. Md. Akhter Hossain",
       "degree": "MBBS, BCS (Health), MS (EYE)",
       "specialty": "Eye (Cataract, Uvea) Specialist & Phaco surgeon",
@@ -1634,11 +1986,14 @@
         "hospital": "Hikmah Eye Hospital, Khilgaon",
         "address": "C-287/15, Atish Diponker Road, Khilgaon, Dhaka-1219",
         "visitingTime": "11am to 1pm (Sat, Mon & Wed), 5pm to 9pm (Everyday)",
-        "appointmentNumber": "+8801730767333"
-      },
-      "id": "60ada35a-0da5-4925-9198-8b2642075af2"
+        "appointmentNumber": "+8801730767333Call Now"
+      }
     },
     {
+      "id": "9d80edb6-44aa-4a25-9714-b1362148dd00",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-quazi-maniruzzaman/",
+      "imageId": "0639147b-1370-4ac9-8e10-f5c797837b04",
       "name": "Dr. Quazi Maniruzzaman",
       "degree": "MBBS, FCPS (EYE), MS (EYE)",
       "specialty": "Eye (Cornea) Specialist, Phaco & Lasik Surgeon",
@@ -1648,11 +2003,14 @@
         "hospital": "Hikmah Eye Hospital, Khilgaon",
         "address": "C-287/15, Atish Diponker Road, Khilgaon, Dhaka-1219",
         "visitingTime": "5.30pm to 8pm (Thursday & Friday)",
-        "appointmentNumber": "+8801730767333"
-      },
-      "id": "89245635-b62e-4a5d-b2f3-93e9d653dc07"
+        "appointmentNumber": "+8801730767333Call Now"
+      }
     },
     {
+      "id": "32545528-064e-4fae-9260-a5cfce3970b1",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-abdul-khalek/",
+      "imageId": "357caa46-394f-4b53-9c12-6e324cc808d1",
       "name": "Prof. Dr. Md. Abdul Khalek",
       "degree": "MBBS, FCPS (EYE)",
       "specialty": "Eye Specialist & Phaco Surgeon",
@@ -1662,11 +2020,14 @@
         "hospital": "Samorita Hospital Ltd, Panthapath",
         "address": "89/1, Panthapath, Dhaka - 1215, Bangladesh",
         "visitingTime": "6pm to 8pm (Sunday & Tuesday)",
-        "appointmentNumber": "10674"
-      },
-      "id": "c809dcee-5db9-4ec6-b71c-b2f283c4dcd4"
+        "appointmentNumber": "10674Call Now"
+      }
     },
     {
+      "id": "2d82dec5-b7ce-4c85-9a2d-a1a42217e520",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-sonia-ahsan/",
+      "imageId": "d69bcefd-d502-4196-90ab-249357abe3c5",
       "name": "Dr. Sonia Ahsan",
       "degree": "MBBS, DO",
       "specialty": "Eye Diseases Specialist & Neuro-Ophthalmologist",
@@ -1676,11 +2037,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "6pm to 8pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801721909649"
-      },
-      "id": "daddaeb5-eb41-4e04-baae-554c4c7d9da1"
+        "appointmentNumber": "+8801721909649Call Now"
+      }
     },
     {
+      "id": "5899f0a0-2949-4b4e-b61b-9a254041130d",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-asadul-kabir/",
+      "imageId": "105440b9-5650-488f-a81c-cb33f6fe5919",
       "name": "Dr. Md. Asadul Kabir",
       "degree": "MBBS, DO",
       "specialty": "Eye Diseases Specialist & Micro Surgeon",
@@ -1690,11 +2054,14 @@
         "hospital": "Kabir Eye Center",
         "address": "9/1, Nawab Street, Wari, Dhaka 1203",
         "visitingTime": "6pm to 10pm (Everyday)",
-        "appointmentNumber": "+8801715734076"
-      },
-      "id": "7f35b915-4a5e-4a60-8fe9-38200bfbe10f"
+        "appointmentNumber": "+8801715734076Call Now"
+      }
     },
     {
+      "id": "5b73a0a6-7d9c-4ce8-af70-3bb7a913b506",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-saroar-alam-nahid/",
+      "imageId": "fd0b35cc-1a02-4793-8573-dc20b0af60cf",
       "name": "Dr. Saroar Alam (Nahid)",
       "degree": "MBBS, DO (BSMMU)",
       "specialty": "Eye Diseases Specialist & Phaco Surgeon",
@@ -1704,11 +2071,14 @@
         "hospital": "Hikmah Eye Hospital, Khilgaon",
         "address": "C-287/15, Atish Diponker Road, Khilgaon, Dhaka-1219",
         "visitingTime": "6pm to 9pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801701898299"
-      },
-      "id": "dd3fd949-3a93-41d9-a817-1f86c2369522"
+        "appointmentNumber": "+8801701898299Call Now"
+      }
     },
     {
+      "id": "97518da5-c30e-421d-b35d-176f9103087c",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-nusrat-sultana-eye/",
+      "imageId": "6c9fa83b-30f9-43dc-9b2d-1daddcdc6600",
       "name": "Dr. Nusrat Sultana",
       "degree": "MBBS, DO",
       "specialty": "General Ophthalmologist & Surgeon",
@@ -1718,11 +2088,14 @@
         "hospital": "Bashundhara Eye Hospital & Research Institute",
         "address": "474, Road # 5, Block # D, Beside Mededi Mart, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 3pm (Closed: Friday)",
-        "appointmentNumber": "+8809643200700"
-      },
-      "id": "b1af877c-0f46-40a6-b18b-0203620e98ea"
+        "appointmentNumber": "+8809643200700Call Now"
+      }
     },
     {
+      "id": "4f15af46-077b-4e5c-9448-75c8ad40386f",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-a-s-m-m-quadir/",
+      "imageId": "86444d75-0022-4679-bfd9-81677c8010f8",
       "name": "Dr. A.S.M.M Quadir",
       "degree": "MBBS, MS (Ophthalmology)",
       "specialty": "Cataract, Orbit & Oculoplasty Specialist",
@@ -1732,11 +2105,31 @@
         "hospital": "Dhaka Eye Care Hospital, Uttara",
         "address": "32, Rabindra Sarani, Sector – 7, Uttara, Dhaka – 1230",
         "visitingTime": "4pm to 5pm (Only Friday)",
-        "appointmentNumber": "+8801787681500"
-      },
-      "id": "d0a0965a-367d-478d-8efe-9610cddfcce9"
+        "appointmentNumber": "+8801787681500Call Now"
+      }
     },
     {
+      "id": "c8b03cd4-9a0d-4275-930b-56154fe381a6",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-nawreen-binte-anwar/",
+      "imageId": "a5ffbf46-a0c0-4bd6-9166-30ad0368bbe1",
+      "name": "Dr. Nawreen Binte Anwar",
+      "degree": "MBBS, FCPS (Ophthalmology), Fellowship in Cataract Surgery",
+      "specialty": "Eye Specialist and Phaco Surgeon",
+      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
+      "info": "Green Eye Hospital, Dhaka Address: 500/A, Rupayan Khan Plaza, Road # 07, Dhanmondi, Dhaka Visiting Hour: 5pm to 7pm (On Appointment) (Sat, Mon & Wed) Appointment: +8801770408060 Call Now",
+      "chamber": {
+        "hospital": "Medinova Medical Services, Dhanmondi",
+        "address": "House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka",
+        "visitingTime": "4pm to 6pm (Closed: Thu & Friday)",
+        "appointmentNumber": "+8801771036526Call Now"
+      }
+    },
+    {
+      "id": "ba378d26-4cd2-4e85-a5a2-8d25064327a5",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-a-a-mohiuddin/",
+      "imageId": "da43dbf1-055d-4d00-ba29-6e9b6d56adf4",
       "name": "Prof. Dr. A A Mohiuddin",
       "degree": "MBBS, FCPS (EYE)",
       "specialty": "Eye Specialist & Phaco Surgeon",
@@ -1746,39 +2139,14 @@
         "hospital": "Padma Diagnostic Center, Malibagh",
         "address": "245/2 New Circular Road, West Malibagh, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809617444222"
-      },
-      "id": "3030626d-7a6c-4ea0-94a4-6d30d927028a"
+        "appointmentNumber": "+8809617444222Call Now"
+      }
     },
     {
-      "name": "Dr. Nawreen Binte Anwar",
-      "degree": "MBBS, FCPS (Ophthalmology), Fellowship in Cataract Surgery",
-      "specialty": "Eye Specialist and Phaco Surgeon",
-      "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Green Eye Hospital, Dhaka\nAddress: 500/A, Rupayan Khan Plaza, Road # 07, Dhanmondi, Dhaka\nVisiting Hour: 5pm to 7pm (On Appointment) (Sat, Mon & Wed)\nAppointment: +8801770408060\nCall Now",
-      "chamber": {
-        "hospital": "Medinova Medical Services, Dhanmondi",
-        "address": "House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka",
-        "visitingTime": "4pm to 6pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801771036526"
-      },
-      "id": "0114fdd3-d969-4283-aa24-71b5d89a04eb"
-    },
-    {
-      "name": "Dr. Ummay Kawsar",
-      "degree": "MBBS, FCPS (EYE)",
-      "specialty": "Eye (Low Vision Services & Vision Therapy) Specialist & Surgeon",
-      "workplace": "MH Samorita Hospital & Medical College",
-      "info": "Dr. Ummay Kawsar is a Eye Specialist in Dhaka. Her qualification is MBBS, FCPS (EYE). She is a Associate Professor, Ophthalmology at MH Samorita Hospital & Medical College. She regularly provides treatment to her patients at Vision Eye Hospital, Dhaka. Practicing hour of Dr. Ummay Kawsar at Vision Eye Hospital, Dhaka is 5pm to 9pm (Closed: Friday).",
-      "chamber": {
-        "hospital": "Vision Eye Hospital, Dhaka",
-        "address": "229 Green Road, Dhanmondi, Dhaka – 1205",
-        "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809610244123"
-      },
-      "id": "c6fb56c1-4748-4153-bcfa-ea03d53a087c"
-    },
-    {
+      "id": "510f7d00-4e0b-4fa2-87d5-c9da65d2f1d1",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-omar-faroque/",
+      "imageId": "474137a2-cd63-4833-8c54-b9ebbeee2483",
       "name": "Dr. Omar Faroque",
       "degree": "MBBS, DO (DU), ICO (UK)",
       "specialty": "Eye (Glaucoma) Specialist & Phaco Surgeon",
@@ -1788,25 +2156,14 @@
         "hospital": "Vision Eye Hospital, Dhaka",
         "address": "229 Green Road, Dhanmondi, Dhaka – 1205",
         "visitingTime": "2pm to 8pm (Sat, Mon & Tue)",
-        "appointmentNumber": "+8809610244123"
-      },
-      "id": "00b3f831-a4db-4a2b-81af-31aaffc847e3"
+        "appointmentNumber": "+8809610244123Call Now"
+      }
     },
     {
-      "name": "Dr. Tasruba Shahnaz",
-      "degree": "MBBS, MS (EYE)",
-      "specialty": "General Ophthalmologist",
-      "workplace": "Bashundhara Eye Hospital & Research Institute",
-      "info": "Dr. Tasruba Shahnaz is a Eye Specialist in Dhaka. Her qualification is MBBS, MS (EYE). She is a Consultant, Ophthalmology at Bashundhara Eye Hospital & Research Institute. She regularly provides treatment to her patients at Bashundhara Eye Hospital & Research Institute. Practicing hour of Dr. Tasruba Shahnaz at Bashundhara Eye Hospital & Research Institute is 9am to 3pm (Closed: Friday).",
-      "chamber": {
-        "hospital": "Bashundhara Eye Hospital & Research Institute",
-        "address": "474, Road # 5, Block # D, Beside Mededi Mart, Bashundhara R/A, Dhaka",
-        "visitingTime": "9am to 3pm (Closed: Friday)",
-        "appointmentNumber": "+8809643200700"
-      },
-      "id": "d5798596-de1d-4f4f-ad09-f6a55bc7723a"
-    },
-    {
+      "id": "dbd1c5d9-d2f1-48f5-a6de-d7ab5f132c30",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-montasir-al-mamun/",
+      "imageId": "871a4d9f-c634-48a7-a16b-0c2bf7f7c8b9",
       "name": "Dr. Md. Montasir-Al-Mamun",
       "degree": "MBBS (DU), DO (BSMMU)",
       "specialty": "Eye Specialist & Phaco Surgeon",
@@ -1816,67 +2173,48 @@
         "hospital": "Dhaka Eye Care Hospital, Uttara",
         "address": "32, Rabindra Sarani, Sector – 7, Uttara, Dhaka – 1230",
         "visitingTime": "9am to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801787681500"
-      },
-      "id": "9fbb7b1c-dc9e-4b3e-8556-797d4b91e514"
+        "appointmentNumber": "+8801787681500Call Now"
+      }
     },
     {
-      "name": "Dr. Md. Bahauddin Malik",
-      "degree": "MBBS (Dhaka), DO (EYE), MS (Vienna)",
-      "specialty": "Eye Specialist, Phaco and Cataract Surgeon",
-      "workplace": "Dhaka Eye Care Hospital",
-      "info": "Dr. Md. Bahauddin Malik is a Eye Specialist in Dhaka. His qualification is MBBS (Dhaka), DO (EYE), MS (Vienna). He is a well known cataract surgeon who performed more than 50,000 surgeries through various procedures such as ICCE, ECCE, SICS and PHACO during his tenure. He received hands-on-training on SICS from GM Eye Hospital, Mettupalayam, Coimbatore, India in 1999 and PHACO surgeries from NIO, Dhaka in 2005. In addition to national, he attended International conferences held at New Delhi, Nairobi and Dubai in 1986, 1990 and 2004 respectively and various Regional conferences in India, Singapore and Thailand. He is a life member of American Medical Society of Vienna, All India Ophthalmological Society, Ophthalmological Society of Bangladesh, Bangladesh Community Ophthalmological Society and Bangladesh Medical Association.",
-      "chamber": {
-        "hospital": "Dhaka Eye Care Hospital, Uttara",
-        "address": "32, Rabindra Sarani, Sector – 7, Uttara, Dhaka – 1230",
-        "visitingTime": "9am to 3pm (Closed: Friday)",
-        "appointmentNumber": "+8801787681500"
-      },
-      "id": "7af836a2-aad4-456a-9cd9-689cce71c10d"
-    },
-    {
+      "id": "a7f867c1-7b88-4279-a1a4-ab54b781f021",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-muntasir-bin-shahid/",
+      "imageId": "63546159-8ad5-4686-bc4b-b705ac977ea5",
       "name": "Dr. Muntasir Bin Shahid",
       "degree": "MBBS, MS (EYE)",
       "specialty": "Phaco & Glaucoma Specialist",
       "workplace": "International Medical College & Hospital",
-      "info": "Bashundhara Eye Hospital & Research Institute\nAddress: 474, Road # 5, Block # D, Beside Mededi Mart, Bashundhara R/A, Dhaka\nVisiting Hour: 4pm to 8pm (Saturday)\nAppointment: +8809643200700\nCall Now",
+      "info": "Bashundhara Eye Hospital & Research Institute Address: 474, Road # 5, Block # D, Beside Mededi Mart, Bashundhara R/A, Dhaka Visiting Hour: 4pm to 8pm (Saturday) Appointment: +8809643200700 Call Now",
       "chamber": {
         "hospital": "Dhaka Eye Care Hospital, Uttara",
         "address": "32, Rabindra Sarani, Sector – 7, Uttara, Dhaka – 1230",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801787681500"
-      },
-      "id": "d31a74e0-630d-4102-9ae3-f797f7e1a6f9"
+        "appointmentNumber": "+8801787681500Call Now"
+      }
     },
     {
-      "name": "Dr. Ashfaque Rahman Khan",
-      "degree": "MBBS, DO (BSMMU), DMU",
-      "specialty": "Oculoplasty, Squint, Ocular Oncologist & Phaco Surgeon",
-      "workplace": "Bangladesh Eye Hospital, Zigatola",
-      "info": "ICON Eye Hospital Ltd.\nAddress: 1220, Ghatarchor, After Bosila Bridge, Mohammadpur, Dhaka\nVisiting Hour: 3pm to 8pm (Sunday & Thursday)\nAppointment: +8801841710671\nCall Now",
+      "id": "4b497156-9728-42bc-9db4-466ac8b6f340",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-ummay-kawsar/",
+      "imageId": "3d8bd447-6089-4234-8d8e-e9c61871a86b",
+      "name": "Dr. Ummay Kawsar",
+      "degree": "MBBS, FCPS (EYE)",
+      "specialty": "Eye (Low Vision Services & Vision Therapy) Specialist & Surgeon",
+      "workplace": "MH Samorita Hospital & Medical College",
+      "info": "Dr. Ummay Kawsar is a Eye Specialist in Dhaka. Her qualification is MBBS, FCPS (EYE). She is a Associate Professor, Ophthalmology at MH Samorita Hospital & Medical College. She regularly provides treatment to her patients at Vision Eye Hospital, Dhaka. Practicing hour of Dr. Ummay Kawsar at Vision Eye Hospital, Dhaka is 5pm to 9pm (Closed: Friday).",
       "chamber": {
-        "hospital": "Bangladesh Eye Hospital, Zigatola",
-        "address": "21/3, Zigatola Bus Stand, Dhanmondi, Dhaka - 1209",
-        "visitingTime": "3pm to 8pm (Sat to Wed), 6pm to 8pm (Sun)",
-        "appointmentNumber": "+8801841710671"
-      },
-      "id": "5dfb1771-74b4-40fa-9d55-41871dfc2cb7"
+        "hospital": "Vision Eye Hospital, Dhaka",
+        "address": "229 Green Road, Dhanmondi, Dhaka – 1205",
+        "visitingTime": "5pm to 9pm (Closed: Friday)",
+        "appointmentNumber": "+8809610244123Call Now"
+      }
     },
     {
-      "name": "Dr. Salma Parvin",
-      "degree": "MBBS, DO (DU), FCPS (EYE)",
-      "specialty": "Eye Diseases (Phaco, Glaucoma, Medical Retina) Specialist",
-      "workplace": "Green Life Medical College & Hospital",
-      "info": "Dr. Salma Parvin is a Eye Specialist in Dhaka. Her qualification is MBBS, DO (DU), FCPS (EYE). She is a Associate Professor, Ophthalmology at Green Life Medical College & Hospital. She regularly provides treatment to her patients at Green Life Hospital, Dhaka. Practicing hour of Dr. Salma Parvin at Green Life Hospital, Dhaka is 9am to 1pm (Mon, Tue & Wed).",
-      "chamber": {
-        "hospital": "Green Life Hospital, Dhaka",
-        "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
-        "visitingTime": "9am to 1pm (Mon, Tue & Wed)",
-        "appointmentNumber": "10653"
-      },
-      "id": "6406af04-1160-4c1d-95b7-953fc9b3bf07"
-    },
-    {
+      "id": "da8010e8-1128-43f8-989d-e1d34135adde",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-ripon-ali/",
+      "imageId": "6361bcd3-5b08-424f-9504-0decb084f597",
       "name": "Dr. Md. Ripon Ali",
       "degree": "MBBS, DO",
       "specialty": "Eye Specialist & Phaco Surgeon",
@@ -1886,11 +2224,82 @@
         "hospital": "Bashundhara Eye Hospital & Research Institute",
         "address": "474, Road # 5, Block # D, Beside Mededi Mart, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 3pm (Closed: Friday)",
-        "appointmentNumber": "+8809643200700"
-      },
-      "id": "3fac75ab-741c-425d-bb9d-6f0a8479c2bf"
+        "appointmentNumber": "+8809643200700Call Now"
+      }
     },
     {
+      "id": "746547bd-242e-4ff3-a426-eb29d52eccbf",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-tasruba-shahnaz/",
+      "imageId": "b74fd441-8210-4ebb-a36f-6f58539ee296",
+      "name": "Dr. Tasruba Shahnaz",
+      "degree": "MBBS, MS (EYE)",
+      "specialty": "General Ophthalmologist",
+      "workplace": "Bashundhara Eye Hospital & Research Institute",
+      "info": "Dr. Tasruba Shahnaz is a Eye Specialist in Dhaka. Her qualification is MBBS, MS (EYE). She is a Consultant, Ophthalmology at Bashundhara Eye Hospital & Research Institute. She regularly provides treatment to her patients at Bashundhara Eye Hospital & Research Institute. Practicing hour of Dr. Tasruba Shahnaz at Bashundhara Eye Hospital & Research Institute is 9am to 3pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Bashundhara Eye Hospital & Research Institute",
+        "address": "474, Road # 5, Block # D, Beside Mededi Mart, Bashundhara R/A, Dhaka",
+        "visitingTime": "9am to 3pm (Closed: Friday)",
+        "appointmentNumber": "+8809643200700Call Now"
+      }
+    },
+    {
+      "id": "1416e793-807f-4b4f-973e-480683626beb",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-bahauddin-malik/",
+      "imageId": "9553863e-f30b-4370-9061-fc0a8a15bc54",
+      "name": "Dr. Md. Bahauddin Malik",
+      "degree": "MBBS (Dhaka), DO (EYE), MS (Vienna)",
+      "specialty": "Eye Specialist, Phaco and Cataract Surgeon",
+      "workplace": "Dhaka Eye Care Hospital",
+      "info": "Dr. Md. Bahauddin Malik is a Eye Specialist in Dhaka. His qualification is MBBS (Dhaka), DO (EYE), MS (Vienna). He is a well known cataract surgeon who performed more than 50,000 surgeries through various procedures such as ICCE, ECCE, SICS and PHACO during his tenure. He received hands-on-training on SICS from GM Eye Hospital, Mettupalayam, Coimbatore, India in 1999 and PHACO surgeries from NIO, Dhaka in 2005. In addition to national, he attended International conferences held at New Delhi, Nairobi and Dubai in 1986, 1990 and 2004 respectively and various Regional conferences in India, Singapore and Thailand. He is a life member of American Medical Society of Vienna, All India Ophthalmological Society, Ophthalmological Society of Bangladesh, Bangladesh Community Ophthalmological Society and Bangladesh Medical Association.",
+      "chamber": {
+        "hospital": "Dhaka Eye Care Hospital, Uttara",
+        "address": "32, Rabindra Sarani, Sector – 7, Uttara, Dhaka – 1230",
+        "visitingTime": "9am to 3pm (Closed: Friday)",
+        "appointmentNumber": "+8801787681500Call Now"
+      }
+    },
+    {
+      "id": "648a5a5d-71fa-47e2-897a-c3b777067bae",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-ashfaque-rahman-khan/",
+      "imageId": "1255f8b8-e63d-481e-9298-93242ca59e2e",
+      "name": "Dr. Ashfaque Rahman Khan",
+      "degree": "MBBS, DO (BSMMU), DMU",
+      "specialty": "Oculoplasty, Squint, Ocular Oncologist & Phaco Surgeon",
+      "workplace": "Bangladesh Eye Hospital, Zigatola",
+      "info": "ICON Eye Hospital Ltd. Address: 1220, Ghatarchor, After Bosila Bridge, Mohammadpur, Dhaka Visiting Hour: 3pm to 8pm (Sunday & Thursday) Appointment: +8801841710671 Call Now",
+      "chamber": {
+        "hospital": "Bangladesh Eye Hospital, Zigatola",
+        "address": "21/3, Zigatola Bus Stand, Dhanmondi, Dhaka - 1209",
+        "visitingTime": "3pm to 8pm (Sat to Wed), 6pm to 8pm (Sun)",
+        "appointmentNumber": "+8801841710671Call Now"
+      }
+    },
+    {
+      "id": "0947bf1e-5afa-4d5f-94fe-05cd23d24ca0",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-salma-parvin/",
+      "imageId": "cd4d2198-6e8e-4fc6-b323-f016b85ecef1",
+      "name": "Dr. Salma Parvin",
+      "degree": "MBBS, DO (DU), FCPS (EYE)",
+      "specialty": "Eye Diseases (Phaco, Glaucoma, Medical Retina) Specialist",
+      "workplace": "Green Life Medical College & Hospital",
+      "info": "Dr. Salma Parvin is a Eye Specialist in Dhaka. Her qualification is MBBS, DO (DU), FCPS (EYE). She is a Associate Professor, Ophthalmology at Green Life Medical College & Hospital. She regularly provides treatment to her patients at Green Life Hospital, Dhaka. Practicing hour of Dr. Salma Parvin at Green Life Hospital, Dhaka is 9am to 1pm (Mon, Tue & Wed).",
+      "chamber": {
+        "hospital": "Green Life Hospital, Dhaka",
+        "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
+        "visitingTime": "9am to 1pm (Mon, Tue & Wed)",
+        "appointmentNumber": "10653Call Now"
+      }
+    },
+    {
+      "id": "1ed2b272-0734-4239-a1a3-225e1a08ddb5",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-rubina-akther/",
+      "imageId": "bb6423c4-bb6a-43fd-8600-d7756d732ad0",
       "name": "Dr. Rubina Akther",
       "degree": "MBBS, DO, FCPS (EYE)",
       "specialty": "Phaco, Vitreo Retina Specialist & Surgeon",
@@ -1900,39 +2309,14 @@
         "hospital": "Bashundhara Eye Hospital & Research Institute",
         "address": "474, Road # 5, Block # D, Beside Mededi Mart, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 3pm (Closed: Tuesday)",
-        "appointmentNumber": "+8809643200700"
-      },
-      "id": "8ca235ed-0a85-4776-99eb-f25ca7de25aa"
+        "appointmentNumber": "+8809643200700Call Now"
+      }
     },
     {
-      "name": "Dr. Khaleda Nazneen Bari",
-      "degree": "MBBS, DO, MS (EYE)",
-      "specialty": "Eye Diseases Specialist & Phaco Surgeon",
-      "workplace": "Delta Medical College & Hospital",
-      "info": "Dr. Khaleda Nazneen Bari is a Eye Specialist in Dhaka. Her qualification is MBBS, DO, MS (EYE). She is a Associate Professor & Head, Ophthalmology at Delta Medical College & Hospital. She regularly provides treatment to her patients at Delta Hospital, Mirpur. Practicing hour of Dr. Khaleda Nazneen Bari at Delta Hospital, Mirpur is 8.30am to 2pm (Closed: Friday).",
-      "chamber": {
-        "hospital": "Delta Hospital, Mirpur",
-        "address": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka - 1216",
-        "visitingTime": "8.30am to 2pm (Closed: Friday)",
-        "appointmentNumber": "+8801301254924"
-      },
-      "id": "fff207b5-ae4f-4712-b412-358487d763f6"
-    },
-    {
-      "name": "Dr. Mushtaque Ahmed",
-      "degree": "MBBS, DO (DU)",
-      "specialty": "Eye Specialist & Phaco Surgeon",
-      "workplace": "Ahsania Mission Cancer & General Hospital",
-      "info": "Dr. Mushtaque Ahmed is a Eye Specialist in Dhaka. His qualification is MBBS, DO (DU). He is a Senior Consultant, Ophthalmology at Ahsania Mission Cancer & General Hospital. He regularly provides treatment to his patients at Ahsania Mission Cancer & General Hospital. Practicing hour of Dr. Mushtaque Ahmed at Ahsania Mission Cancer & General Hospital is 9.30pm to 1.30pm (Sat, Sun, Tue & Wed).",
-      "chamber": {
-        "hospital": "Ahsania Mission Cancer & General Hospital",
-        "address": "Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka",
-        "visitingTime": "9.30pm to 1.30pm (Sat, Sun, Tue & Wed)",
-        "appointmentNumber": "10617"
-      },
-      "id": "9424f7c8-db68-4005-8f87-6530ce837f1e"
-    },
-    {
+      "id": "07094656-b21a-4d51-969d-02c536d84571",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-sifat-e-bashar/",
+      "imageId": "d99882e3-585b-4f64-8c8f-ca006a1f2dcf",
       "name": "Dr. Sifat-E-Bashar",
       "degree": "MBBS, FCPS (EYE), MCPS (EYE)",
       "specialty": "Eye & Cornea Specialist",
@@ -1942,11 +2326,48 @@
         "hospital": "Dhaka Eye Care Hospital, Uttara",
         "address": "32, Rabindra Sarani, Sector – 7, Uttara, Dhaka – 1230",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801787681500"
-      },
-      "id": "17e6f8f0-06f4-4050-9c11-b1e4884a58f1"
+        "appointmentNumber": "+8801787681500Call Now"
+      }
     },
     {
+      "id": "7f636799-2fde-4d68-a560-7ec830416485",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-khaleda-nazneen-bari/",
+      "imageId": "b5318439-fad3-4a84-894a-a595ed783486",
+      "name": "Dr. Khaleda Nazneen Bari",
+      "degree": "MBBS, DO, MS (EYE)",
+      "specialty": "Eye Diseases Specialist & Phaco Surgeon",
+      "workplace": "Delta Medical College & Hospital",
+      "info": "Dr. Khaleda Nazneen Bari is a Eye Specialist in Dhaka. Her qualification is MBBS, DO, MS (EYE). She is a Associate Professor & Head, Ophthalmology at Delta Medical College & Hospital. She regularly provides treatment to her patients at Delta Hospital, Mirpur. Practicing hour of Dr. Khaleda Nazneen Bari at Delta Hospital, Mirpur is 8.30am to 2pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Delta Hospital, Mirpur",
+        "address": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka - 1216",
+        "visitingTime": "8.30am to 2pm (Closed: Friday)",
+        "appointmentNumber": "+8801301254924Call Now"
+      }
+    },
+    {
+      "id": "21d403a4-8b59-4381-bb12-d3f603831bff",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-mushtaque-ahmed/",
+      "imageId": "8a55e100-a15d-4a23-aca7-1dc6cf3eb526",
+      "name": "Dr. Mushtaque Ahmed",
+      "degree": "MBBS, DO (DU)",
+      "specialty": "Eye Specialist & Phaco Surgeon",
+      "workplace": "Ahsania Mission Cancer & General Hospital",
+      "info": "Dr. Mushtaque Ahmed is a Eye Specialist in Dhaka. His qualification is MBBS, DO (DU). He is a Senior Consultant, Ophthalmology at Ahsania Mission Cancer & General Hospital. He regularly provides treatment to his patients at Ahsania Mission Cancer & General Hospital. Practicing hour of Dr. Mushtaque Ahmed at Ahsania Mission Cancer & General Hospital is 9.30pm to 1.30pm (Sat, Sun, Tue & Wed).",
+      "chamber": {
+        "hospital": "Ahsania Mission Cancer & General Hospital",
+        "address": "Plot # 03, Embankment Drive Way, Sector # 10, Uttara, Dhaka",
+        "visitingTime": "9.30pm to 1.30pm (Sat, Sun, Tue & Wed)",
+        "appointmentNumber": "10617Call Now"
+      }
+    },
+    {
+      "id": "6c051f6d-63a8-4dcf-bea8-b93024cda992",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-basil-anwar/",
+      "imageId": "348dcc05-6c29-4e9a-bc83-4630f466b5c1",
       "name": "Dr. Basil Anwar",
       "degree": "MBBS, MCPS, FCPS (EYE)",
       "specialty": "Eye Specialist and Phaco Surgeon",
@@ -1956,11 +2377,14 @@
         "hospital": "Bangladesh Eye Hospital, Zigatola",
         "address": "21/3 Zigatola, Dhanmondi, Dhaka – 1209.",
         "visitingTime": "7pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801707081499"
-      },
-      "id": "28db2a6c-b1ec-4fa9-9035-7277cf09d6f0"
+        "appointmentNumber": "+8801707081499Call Now"
+      }
     },
     {
+      "id": "5a77528c-0231-40c2-bd7d-a3375050a566",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-arifur-rahman/",
+      "imageId": "f468cf18-f34f-4583-889c-9c72b9130463",
       "name": "Dr. Mohammad Arifur Rahman",
       "degree": "MBBS, DCO, MCPS, FRCS (UK)",
       "specialty": "Eye Specialist",
@@ -1970,39 +2394,48 @@
         "hospital": "Asgar Ali Hospital, Dhaka",
         "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801787683333"
-      },
-      "id": "4892eb71-f4d8-4aae-8936-0191687cbbc1"
+        "appointmentNumber": "+8801787683333Call Now"
+      }
     },
     {
+      "id": "860bc6c0-a982-4ac5-9618-6a2a51e1f6ae",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-most-sanjida-akter/",
+      "imageId": "1f24e71e-af57-4d63-baca-ecd02b153881",
       "name": "Dr. Most. Sanjida Akter",
       "degree": "MBBS (RMC), MCPS (Eye), FCPS (Eye)",
       "specialty": "Neuro-Ophthalmologist & Phaco Surgeon",
       "workplace": "Bangladesh Eye Hospital & Institute",
-      "info": "Bangladesh Eye Care Hospital, Zigatola\nAddress: 21/3 Zigatola, Dhanmondi, Dhaka – 1209.\nVisiting Hour: 9am to 2pm (Sat, Sun & Tue)\nAppointment: +8809613213213\nCall Now",
+      "info": "Bangladesh Eye Care Hospital, Zigatola Address: 21/3 Zigatola, Dhanmondi, Dhaka – 1209. Visiting Hour: 9am to 2pm (Sat, Sun & Tue) Appointment: +8809613213213 Call Now",
       "chamber": {
         "hospital": "Bangladesh Eye Hospital, Dhanmondi",
         "address": "78, Satmasjid Road, Dhanmondi, Dhaka-1209",
         "visitingTime": "3pm to 7pm (Monday) & 9am to 2pm (Wednesday)",
-        "appointmentNumber": "10620"
-      },
-      "id": "1c972200-f2ba-4246-8b35-05345e5fa84f"
+        "appointmentNumber": "10620Call Now"
+      }
     },
     {
+      "id": "b618a1b7-c183-4db7-8d64-864a255373ff",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-md-nowroz-bahar-pintu/",
+      "imageId": "ececd165-7268-46f1-a6a3-b6d7178a4b04",
       "name": "Dr. Md. Nowroz Bahar (Pintu)",
       "degree": "MBBS, DO, FVRS",
       "specialty": "Eye Specialist, Phaco & Retina Surgeon",
       "workplace": "Bangladesh Eye Hospital, Mirpur, Dhaka",
-      "info": "Retina Glaucoma Center Super Speciality Eye Hospital (RGC)\nAddress: 57/E, Panthapath, Dhaka (Near BRB Hospital)\nVisiting Hour: 4pm to 8pm (Monday)\nAppointment: +8801301481208\nCall Now",
+      "info": "Retina Glaucoma Center Super Speciality Eye Hospital (RGC) Address: 57/E, Panthapath, Dhaka (Near BRB Hospital) Visiting Hour: 4pm to 8pm (Monday) Appointment: +8801301481208 Call Now",
       "chamber": {
         "hospital": "Bangladesh Eye Hospital, Mirpur",
         "address": "Sumi Tower, 66 Zoo Road, Mirpur-2, Dhaka-1216",
         "visitingTime": "5pm to 9pm (Sat, Sun, Tue & Wed)",
-        "appointmentNumber": "+8801301481208"
-      },
-      "id": "cfb0509a-b309-44ec-8ae8-9825505938f3"
+        "appointmentNumber": "+8801301481208Call Now"
+      }
     },
     {
+      "id": "269dff39-4730-45de-829d-35a2ec47154b",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/prof-dr-puravi-rani-dev-nath/",
+      "imageId": "e3e751af-b257-4525-b9df-a5a120ae3750",
       "name": "Prof. Dr. Puravi Rani Dev Nath",
       "degree": "MBBS, MS (Ophthalmology)",
       "specialty": "Ophthalmologist (Eye Specialist) & Surgeon",
@@ -2012,11 +2445,14 @@
         "hospital": "BIRDEM Specialized Chamber Complex",
         "address": "Main Building, 122, Kazi Nazrul Islam Avenue, Shahbag, Dhaka",
         "visitingTime": "2.30pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801847259770"
-      },
-      "id": "9a0a773e-ed17-439c-bff9-6eaaad46e142"
+        "appointmentNumber": "+8801847259770Call Now"
+      }
     },
     {
+      "id": "82302a78-2c8e-4867-95cb-647d4a2c2564",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-sheikh-md-arafat-rahman/",
+      "imageId": "13d8ec22-1b22-48d7-aaf7-06589eafa0f3",
       "name": "Dr. Sheikh Md. Arafat Rahman",
       "degree": "MBBS, FCPS (EYE), MCPS (EYE)",
       "specialty": "Phaco, Retina and Uveitis Specialist",
@@ -2026,23 +2462,25 @@
         "hospital": "Bangladesh Eye Hospital, Mirpur",
         "address": "Sumi Tower, 66 Zoo Road, Mirpur-2, Dhaka-1216",
         "visitingTime": "6pm to 9pm (Sunday to Tuesday)",
-        "appointmentNumber": "+8801847422010"
-      },
-      "id": "ff811719-43dd-46b1-b4af-733130acd2e4"
+        "appointmentNumber": "+8801847422010Call Now"
+      }
     },
     {
-      "name": "Dr. Tangil Ahmed",
-      "degree": "MBBS (DU), MS (EYE),",
+      "id": "1aaf0c6b-a4c4-4d1b-a449-3aa3c473aa84",
+      "departmentId": "2325986e-2f5e-474b-a5e2-4250579ff6ca",
+      "link": "https://www.doctorbangladesh.com/dr-tangil-ahmed/",
+      "imageId": "7c1cae57-d7b9-4c91-a7d1-aec134b54928",
+      "name": "Dr. Md. Tangil Ahmed",
+      "degree": "MBBS (DU), MS (EYE)",
       "specialty": "Eye Specialist, Retina,Laser & Phaco Surgeon",
       "workplace": "Kumudini Medical College & Hospital",
-      "info": "Dr. Tangil Ahmed is a highly qualified Eye Specialist, Retina, Laser, and Phaco Surgeon in Dhaka, holding MBBS from DU, MS in Ophthalmology, and fellowships in Phaco Surgery from India and Retina Surgery from Bangladesh, along with an Advanced Retina Surgery Course from Singapore National Eye Center. He serves as an Assistant Professor of Ophthalmology at Kumudini Medical College & Hospital. Dr. Tangil Ahmed specializes in the diagnosis and treatment of various eye diseases including cataracts, glaucoma, diabetic retinopathy, macular degeneration, retinal detachment, uveitis, and other complex retina-related conditions. He provides consultations and surgical services at Vision Eye Hospital, Dhaka, located at 229 Green Road, Dhanmondi, Dhaka – 1205, with visiting hours from 11 am to 5 pm on Sundays, Mondays, and Tuesdays.",
+      "info": "Dr. Md. Tangil Ahmed is a highly qualified Eye Specialist, Retina, Laser, and Phaco Surgeon in Dhaka, holding MBBS from DU, MS in Ophthalmology, and fellowships in Phaco Surgery from India and Retina Surgery from Bangladesh, along with an Advanced Retina Surgery Course from Singapore National Eye Center. He serves as an Assistant Professor of Ophthalmology at Kumudini Medical College & Hospital. Dr. Tangil Ahmed specializes in the diagnosis and treatment of various eye diseases including cataracts, glaucoma, diabetic retinopathy, macular degeneration, retinal detachment, uveitis, and other complex retina-related conditions. He provides consultations and surgical services at Vision Eye Hospital, Dhaka, located at 229 Green Road, Dhanmondi, Dhaka – 1205, with visiting hours from 11 am to 5 pm on Sundays, Mondays, and Tuesdays.",
       "chamber": {
         "hospital": "Vision Eye Hospital, Dhaka",
         "address": "229 Green Road, Dhanmondi, Dhaka – 1205",
         "visitingTime": "11am to 5pm (Sun, Mon & Tuesday)",
-        "appointmentNumber": "+8809610244123"
-      },
-      "id": "053d169d-ae2e-4b23-86e7-783dd6eeaa68"
+        "appointmentNumber": "+8809610244123Call Now"
+      }
     }
   ]
 }

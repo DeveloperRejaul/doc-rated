@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "839b2e66-7269-4cd8-837e-a8f844c70377",
+      "departmentId": "41d423e6-14ef-4d0a-823a-1e2ef6ea9fa1",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdul-wahab-dental/",
+      "imageId": "894e7856-383f-4225-b7a1-dce63d7ac1f3",
       "name": "Dr. Md. Abdul Wahab",
       "degree": "BDS (Dhaka), BCS (Health), PGT (Mitford), MRSH (UK)",
       "specialty": "Oral & Dental Specialist Surgeon",
@@ -10,25 +14,31 @@
         "hospital": "Ayesha Villa",
         "address": "House # 29/4 (Opposite to Sarak Bhaban), Road # 01, Dhap, Jail Road, Rangpur",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801712200961"
-      },
-      "id": "b7b4b788-12b2-4f7e-8be8-056c321f2838"
+        "appointmentNumber": "+8801712200961Call Now"
+      }
     },
     {
+      "id": "d31b6000-eb39-4f04-b5db-21fb708cc53f",
+      "departmentId": "41d423e6-14ef-4d0a-823a-1e2ef6ea9fa1",
+      "link": "https://www.doctorbangladesh.com/prof-dr-musa-siddik-juwel/",
+      "imageId": "cbd5fe32-b601-4a62-904b-86cfccbf9e5d",
       "name": "Prof. Dr. Musa Siddik Juwel",
       "degree": "BDS, MCPS, FCPS (Maxillofacial Surgery)",
       "specialty": "Oral Tumor, Cancer and Maxillofacial Surgeon (Dental Surgeon)",
       "workplace": "Principal, Rangpur Community Dental College",
-      "info": "Dr. Musa Siddik Jewel is a Renowned Dental and Maxillofacial surgeon in Rangpur.\nHe is a Professor & Head of Maxillofacial Surgery as well as Principal of Rangpur Community Dental College. He regularly provides treatment to his patients at Dental Maxillofacial & Implant Center. Practicing hour of Prof. Dr. Musa Siddik Juwel at Dental Maxillofacial & Implant Center is 4pm to 8pm (Closed: Friday).",
+      "info": "Dr. Musa Siddik Jewel is a Renowned Dental and Maxillofacial surgeon in Rangpur. He is a Professor & Head of Maxillofacial Surgery as well as Principal of Rangpur Community Dental College. He regularly provides treatment to his patients at Dental Maxillofacial & Implant Center. Practicing hour of Prof. Dr. Musa Siddik Juwel at Dental Maxillofacial & Implant Center is 4pm to 8pm (Closed: Friday).",
       "chamber": {
         "hospital": "Dental Maxillofacial & Implant Center",
         "address": "Beside Ma-Moni Hotel, Jail Road, Dhap, Rangpur",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801312826279"
-      },
-      "id": "1290ac5c-23dc-4463-a39d-7b5216938a08"
+        "appointmentNumber": "+8801312826279Call Now"
+      }
     },
     {
+      "id": "92f3385b-eed2-43b1-bddd-ef50e052d226",
+      "departmentId": "41d423e6-14ef-4d0a-823a-1e2ef6ea9fa1",
+      "link": "https://www.doctorbangladesh.com/dr-marina-akther-jolly/",
+      "imageId": "41d535ef-b992-406b-a531-7ebd65f8f680",
       "name": "Dr. Marina Akther Jolly",
       "degree": "BDS, FCPS (Orthodontics), WHO Fellow (USA)",
       "specialty": "Orthodontics (Braces, Bite & Jaw Problem) Specialist & Dental Surgeon",
@@ -38,11 +48,14 @@
         "hospital": "Jolly Dental & Orthodontics",
         "address": "Opposite to Sarak Bhaban, Jail Road, Dhap Rangpur",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801749427316"
-      },
-      "id": "fe9a7133-bff6-44c5-85d7-46c0bf760c03"
+        "appointmentNumber": "+8801749427316Call Now"
+      }
     },
     {
+      "id": "ed2e2113-1d34-4996-af8f-233610bd8158",
+      "departmentId": "41d423e6-14ef-4d0a-823a-1e2ef6ea9fa1",
+      "link": "https://www.doctorbangladesh.com/dr-md-taz-uddin-biswas/",
+      "imageId": "66054d30-aac4-416f-b052-6d8ae2318ac9",
       "name": "Dr. Md. Taz Uddin Biswas",
       "degree": "BDS, BCS (Health), MS (OMF)",
       "specialty": "Oral & Maxilofacial Surgeon",
@@ -52,11 +65,14 @@
         "hospital": "Namira Hospital, Rangpur",
         "address": "Opposite BGB 1 No. Gate near CO Bazar, Rangpur",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801750908297"
-      },
-      "id": "d723799f-e7dc-4ea2-b051-8119167b5572"
+        "appointmentNumber": "+8801750908297Call Now"
+      }
     },
     {
+      "id": "ece4e2b4-bd36-482d-a420-266c69381427",
+      "departmentId": "41d423e6-14ef-4d0a-823a-1e2ef6ea9fa1",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdur-rahman-shaku/",
+      "imageId": "68e9a86c-5518-41b4-a02e-c24bd6a7274f",
       "name": "Dr. Md. Abdur Rahman (Shaku)",
       "degree": "BDS, MS (Orthodontics), BCS (Health)",
       "specialty": "Orthodontics (Braces, Bite & Jaw Problem) Specialist & Dental Surgeon",
@@ -66,11 +82,14 @@
         "hospital": "Shayaan Dental & Orthodontics",
         "address": "7th Floor, Goribullah Tower, Opposite to CMM Court, Kacharibazar, Rangpur",
         "visitingTime": "3.30pm to 8.30pm (Closed: Sun & Friday)",
-        "appointmentNumber": "+8801795733183"
-      },
-      "id": "c8f3c8a3-381d-4cfc-b2c1-cbba16abd337"
+        "appointmentNumber": "+8801795733183Call Now"
+      }
     },
     {
+      "id": "b001592e-c33e-4e16-8d8f-2dd7993a35c0",
+      "departmentId": "41d423e6-14ef-4d0a-823a-1e2ef6ea9fa1",
+      "link": "https://www.doctorbangladesh.com/dr-md-ariful-islam-dentist/",
+      "imageId": "93f180c4-86df-43f2-a771-5c549121921b",
       "name": "Dr. Md. Ariful Islam",
       "degree": "BDS, BCS (Health), FCPS (OMS)",
       "specialty": "Tumor, Cancer, Cyst, Oral & Maxillofacial Surgeon",
@@ -80,9 +99,8 @@
         "hospital": "Elegant Dentistry, Rangpur",
         "address": "Canopus Building (4th Floor), 39/7, RDRS More, Dhap, Jail Road, Rangpur",
         "visitingTime": "4.30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801764889923"
-      },
-      "id": "28a2ede6-cbd0-4849-bb78-bb0b3dafd062"
+        "appointmentNumber": "+8801764889923Call Now"
+      }
     }
   ]
 }

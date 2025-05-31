@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "e6ada17a-fcd5-493b-8fce-c17047f0800c",
+      "departmentId": "d4c07e54-0e54-4422-a115-8011d29d32dd",
+      "link": "https://www.doctorbangladesh.com/dr-sudip-kumar-karmoker/",
+      "imageId": "d2833425-ba08-4e87-802a-c517b077e0da",
       "name": "Dr. Sudip Kumar Karmoker",
       "degree": "MBBS, BCS (Health), FCPS (Plastic Surgery)",
       "specialty": "Burn & Plastic Surgery Specialist",
@@ -10,9 +14,8 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "2pm to 4pm (Only Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "c052453a-1673-47e3-9c6a-454f54748279"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     }
   ]
 }

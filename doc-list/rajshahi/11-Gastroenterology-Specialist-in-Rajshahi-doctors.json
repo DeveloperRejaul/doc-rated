@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "305ab7af-73d0-44c4-91b0-709801db520a",
+      "departmentId": "e1604cc1-6afd-43e0-bcec-fca8dee0f0e0",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdul-alim-gastro/",
+      "imageId": "1a2e770d-5e40-46ca-80e7-3c7226ab0f1c",
       "name": "Prof. Dr. Md. Abdul Alim",
       "degree": "MBBS, FCPS (Medicine), MD (Gastroenterology), FACP (USA)",
       "specialty": "Gastroenterology & Liver Medicine Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Labaid Diagnostic, Rajshahi",
         "address": "House # 621, Shershah Road, Rajpara, Laxmipur, Rajshahi - 6000",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766661144"
-      },
-      "id": "c039f484-f6f4-46fa-a09c-92c9b94d99d6"
+        "appointmentNumber": "+8801766661144Call Now"
+      }
     },
     {
+      "id": "197331db-3df1-4b57-8968-885806d02934",
+      "departmentId": "e1604cc1-6afd-43e0-bcec-fca8dee0f0e0",
+      "link": "https://www.doctorbangladesh.com/dr-md-khalequzzaman-sarker/",
+      "imageId": "5f1c56a3-dcc8-4617-8810-5f7d75dbdc07",
       "name": "Dr. Md. Khalequzzaman Sarker",
       "degree": "MBBS, BCS (Health), FCPS (Gastroenterology), MD (Gastroenterology), MRCP SCE (UK),FACG (USA), FACP (USA), FRCP (Glasg), FRCP (Ireland), PhD (RU)",
       "specialty": "Gastroenterology, Liver Diseases & Pancreas SpecialistInterventional & Therapeutic Endoscopist",
@@ -24,11 +31,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "3pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "2ce03ea5-b8ec-455e-af01-56831a2ee755"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "6273d1ee-64a1-4e04-bb36-73f19c24d704",
+      "departmentId": "e1604cc1-6afd-43e0-bcec-fca8dee0f0e0",
+      "link": "https://www.doctorbangladesh.com/dr-md-shafiqul-islam-gastro/",
+      "imageId": "51281d07-246d-4150-a54e-5fcceb1862e0",
       "name": "Dr. Md. Shafiqul Islam",
       "degree": "MBBS, MD (Gastroenterology)",
       "specialty": "Gastroenterology, Liver Diseases, Pancreas & Medicine Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "9af45cfd-97fd-482e-803b-8bf632feee7f"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "10c15176-af27-4920-acd7-304891f00636",
+      "departmentId": "e1604cc1-6afd-43e0-bcec-fca8dee0f0e0",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahafuzzaman/",
+      "imageId": "8ffe0a3a-0ef0-4da9-83b5-b481ec34b38f",
       "name": "Dr. Md. Mahafuzzaman",
       "degree": "MBBS, MD (Gastroenterology)",
       "specialty": "Gastroenterology (Stomach, Intestine, Rectum, Pancreas, Liver) Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "3:30pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "710429ac-669c-442e-987f-f14b290c080b"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "832bf80f-f467-4597-8e03-587f2af19a35",
+      "departmentId": "e1604cc1-6afd-43e0-bcec-fca8dee0f0e0",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdul-mumit-sarkar/",
+      "imageId": "54ac8ee4-8f53-4b9e-aced-e21d5674ea8f",
       "name": "Dr. Md. Abdul Mumit Sarkar",
       "degree": "MBBS, BCS (Health), MD (Gastroenterology), CCD (BIRDEM)",
       "specialty": "Gastroenterology (Stomach, Intestine, Rectum, Pancreas, Liver) & Diabetes Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "3pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "1f9fdfa4-6048-4b68-aa32-153de509facd"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "60fc6cb8-e993-4ca1-be1f-72c6fffa2a10",
+      "departmentId": "e1604cc1-6afd-43e0-bcec-fca8dee0f0e0",
+      "link": "https://www.doctorbangladesh.com/dr-shuvashis-saha-shuvo/",
+      "imageId": "a64ea792-7cba-48a7-a26b-2155c230f116",
       "name": "Dr. Shuvashis Saha Shuvo",
       "degree": "MBBS, BCS (Health), FCPS (Medicine - FP), MRCP (UK) (PACES), FCPS (Gastroenterology - FP)",
       "specialty": "Gastroenterology & Medicine Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Christian Mission Hospital, Rajshahi",
         "address": "Kazihata, Rajshahi",
         "visitingTime": "4pm to 7pm (Sunday, Tuesday & Thursday)",
-        "appointmentNumber": "+88 01733845247"
-      },
-      "id": "1f4b0e65-50f5-4084-9ace-a48628929c36"
+        "appointmentNumber": "+88 01733845247Call Now"
+      }
     },
     {
+      "id": "440d6d6e-6751-490f-9f32-6e39b6ad3c64",
+      "departmentId": "e1604cc1-6afd-43e0-bcec-fca8dee0f0e0",
+      "link": "https://www.doctorbangladesh.com/dr-sanjoy-kumar-paul/",
+      "imageId": "4f87f000-d100-48c0-90bb-c29ebfc794c3",
       "name": "Dr. Sanjoy Kumar Paul",
       "degree": "MBBS, MD (Gastroenterology), MCPS (Medicine), CCD (Birdem)",
       "specialty": "Gastroenterology, Pancreas, Liver & Medicine Specialist",
@@ -94,9 +116,8 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "Bhaban - 01, Holding # 617, Laxmipur, Rajshahi",
         "visitingTime": "4pm to 9pm (Sat, Mon, Tue & Thu)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "47037b03-74f7-4155-860c-959dccde4739"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     }
   ]
 }

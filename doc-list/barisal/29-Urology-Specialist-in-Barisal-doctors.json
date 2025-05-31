@@ -1,20 +1,27 @@
 {
   "doctor": [
     {
+      "id": "fbe8cf68-2bdd-46ac-95f3-8a3398882ab0",
+      "departmentId": "82ccf6b6-5c9c-4849-b9e6-8286aa381237",
+      "link": "https://www.doctorbangladesh.com/dr-a-h-m-rafiqul-bari/",
+      "imageId": "3ed13c31-12a0-47cb-8410-52975b5c938e",
       "name": "Dr. A.H.M. Rafiqul Bari",
       "degree": "MBBS, FCPS (Surgery), MS (Urology)",
       "specialty": "General, Kidney, Ureters, Bladder, Urethra & Prostate Specialist Surgeon",
       "workplace": "Sher-E-Bangla Medical College & Hospital",
-      "info": "Islami Bank Hospital, Barisal\nAddress: Band Road, Chandmari, Barisal – 8200\nVisiting Hour: 5pm to 7pm (Closed: Friday)\nAppointment: +8801810000121\nCall Now",
+      "info": "Islami Bank Hospital, Barisal Address: Band Road, Chandmari, Barisal – 8200 Visiting Hour: 5pm to 7pm (Closed: Friday) Appointment: +8801810000121 Call Now",
       "chamber": {
         "hospital": "Globe Diagnostic Lab",
         "address": "116/A, Sadar Road, Bibir Pukur Par, Batal Goli, Barisal",
         "visitingTime": "5pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801718455696"
-      },
-      "id": "aa45a141-0af6-42f5-a908-6efe073be584"
+        "appointmentNumber": "+8801718455696Call Now"
+      }
     },
     {
+      "id": "8817434c-194c-4c21-b56d-67536c4d3481",
+      "departmentId": "82ccf6b6-5c9c-4849-b9e6-8286aa381237",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-shah-alam/",
+      "imageId": "b501b373-53b6-48c0-afd5-50d760e1fa2f",
       "name": "Dr. Mohammad Shah Alam",
       "degree": "MBBS, BCS (Health), MS (Urology), CCD (BIRDEM)",
       "specialty": "Urology Specialist & Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "Popular Diagnostic Center, Barisal",
         "address": "955 & 109, Shahid Nazrul Islam Road, Alekanda, Banglabazar, Barisal",
         "visitingTime": "4pm to 7pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787819"
-      },
-      "id": "6f79380f-40e1-4a62-936e-6fc9b14453ae"
+        "appointmentNumber": "+8809666787819Call Now"
+      }
     },
     {
+      "id": "36c16378-80ee-4488-9b1d-b8d1b5d09fbf",
+      "departmentId": "82ccf6b6-5c9c-4849-b9e6-8286aa381237",
+      "link": "https://www.doctorbangladesh.com/dr-dhananjoy-dey-biplab/",
+      "imageId": "f0c6ca8b-8414-4fd7-9985-ff04dbd3a406",
       "name": "Dr. Dhananjoy Dey Biplab",
       "degree": "MBBS, BCS (Health), FCPS (Surgery), MS (Urology)",
       "specialty": "Urology (Kidneys, Ureters, Prostate), Male Infertility Specialist & Surgeon",
@@ -38,11 +48,14 @@
         "hospital": "Rahat Anwar Hospital, Barisal",
         "address": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
         "visitingTime": "4pm to 8pm (Closed: Fri & Sat)",
-        "appointmentNumber": "+8801711993953"
-      },
-      "id": "11d7ed06-0533-4ee7-98b4-610c7f727514"
+        "appointmentNumber": "+8801711993953Call Now"
+      }
     },
     {
+      "id": "1e28be69-8175-4412-946d-399d69be393d",
+      "departmentId": "82ccf6b6-5c9c-4849-b9e6-8286aa381237",
+      "link": "https://www.doctorbangladesh.com/dr-md-jahangir-hossain-urology/",
+      "imageId": "539c1e78-fc6e-461f-9abd-e3cc30a18980",
       "name": "Dr. Md. Jahangir Hossain",
       "degree": "MBBS, BCS (Health), MS (Urology)",
       "specialty": "Urology (Kidneys, Ureters, Prostate) Specialist & Surgeon",
@@ -52,9 +65,8 @@
         "hospital": "Rahat Anwar Hospital, Barisal",
         "address": "Band Road, Chandmari, Barisal Sadar, Barisal – 8200",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801711993953"
-      },
-      "id": "9789a714-aee5-49ab-9742-34a8e055238f"
+        "appointmentNumber": "+8801711993953Call Now"
+      }
     }
   ]
 }

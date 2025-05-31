@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "87fcaa4c-e96a-4a78-8ee9-af28805288dc",
+      "departmentId": "fe6174e6-aa0a-4b5d-a964-cca2eaaf3b00",
+      "link": "https://www.doctorbangladesh.com/prof-dr-nimai-chandra-karmakar/",
+      "imageId": "6a908e4d-44e1-40db-9a0c-2eb869db9d67",
       "name": "Prof. Dr. Nimai Chandra Karmakar",
       "degree": "MBBS. DO, FCPS (EYE)",
       "specialty": "Eye Diseases Specialist & Phaco Surgeon",
@@ -10,11 +14,14 @@
         "hospital": "Popular Diagnostic Center, Rangpur",
         "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
         "visitingTime": "4pm to 8pm (Everyday)",
-        "appointmentNumber": "+8809666787813"
-      },
-      "id": "a9ffa035-646d-43b3-83a7-aa14b8b0d940"
+        "appointmentNumber": "+8809666787813Call Now"
+      }
     },
     {
+      "id": "6970ca1d-aa2a-40d6-be2f-e85bd5a0a7c9",
+      "departmentId": "fe6174e6-aa0a-4b5d-a964-cca2eaaf3b00",
+      "link": "https://www.doctorbangladesh.com/dr-ripon-sarkar/",
+      "imageId": "abc1ecf0-2cc0-4c3f-a5ae-c547507696ca",
       "name": "Prof. Dr. Ripon Sarkar",
       "degree": "MBBS, DO, FCPS (EYE)",
       "specialty": "Eye Specialist & Phaco Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "Update Diagnostic, Rangpur",
         "address": "Dhap (Opposite to Police Fari), Jail Road, Rangpur",
         "visitingTime": "5pm to 9pm (Sat, Sun, Mon & Wed)",
-        "appointmentNumber": "+8801971555555"
-      },
-      "id": "47049aff-ec83-45b2-9816-4bd8ccbb4e1b"
+        "appointmentNumber": "+8801971555555Call Now"
+      }
     },
     {
+      "id": "49cc6947-e55e-4402-91cb-741a3cb76a38",
+      "departmentId": "fe6174e6-aa0a-4b5d-a964-cca2eaaf3b00",
+      "link": "https://www.doctorbangladesh.com/dr-md-ataur-rahman/",
+      "imageId": "864c861f-ce5a-437b-98fb-2be80f97046f",
       "name": "Dr. Md. Ataur Rahman",
       "degree": "MBBS, BCS (Health), MS (EYE)",
       "specialty": "Eye Specialist & Surgeon",
@@ -38,11 +48,14 @@
         "hospital": "Islami Bank Community Hospital, Rangpur",
         "address": "Jail Road, Dhap, Rangpur",
         "visitingTime": "4pm to 8pm (Closed: Sunday)",
-        "appointmentNumber": "+8801750908297"
-      },
-      "id": "b6129667-d8a9-44b0-b8bc-da8187ec4d98"
+        "appointmentNumber": "+8801750908297Call Now"
+      }
     },
     {
+      "id": "bfbd21b9-d6ba-4576-aed0-97943b9188d4",
+      "departmentId": "fe6174e6-aa0a-4b5d-a964-cca2eaaf3b00",
+      "link": "https://www.doctorbangladesh.com/dr-maria-akhter/",
+      "imageId": "c8842e95-f0f9-429a-a4a0-2d43980c60d7",
       "name": "Dr. Maria Akhtar Dalia",
       "degree": "MBBS, FCPS (EYE)",
       "specialty": "Eye Specialist and Phaco Surgeon",
@@ -52,11 +65,14 @@
         "hospital": "Labaid Diagnostic, Rangpur",
         "address": "House # 69, Dhap, Jail Road, Rangpur",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766663099"
-      },
-      "id": "e824901e-df9e-49c0-8357-732e6414bb1d"
+        "appointmentNumber": "+8801766663099Call Now"
+      }
     },
     {
+      "id": "0ec43997-5b17-4c7c-b101-bf23418d9463",
+      "departmentId": "fe6174e6-aa0a-4b5d-a964-cca2eaaf3b00",
+      "link": "https://www.doctorbangladesh.com/dr-md-masudul-haque/",
+      "imageId": "226924f3-b6b6-4ea0-ba82-9864c3bfb078",
       "name": "Dr. Md. Masudul Haque",
       "degree": "MBBS, MCPS, DCO",
       "specialty": "Eye Specialist and Phaco Surgeon",
@@ -66,11 +82,14 @@
         "hospital": "Doctor's Community Hospital, Rangpur",
         "address": "Medical East Gate, Health City Road, Dhap, Rangpur",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801717292458"
-      },
-      "id": "623a5c19-230e-4b99-ac63-2a4dd7858e6c"
+        "appointmentNumber": "+8801717292458Call Now"
+      }
     },
     {
+      "id": "9c729c33-bb55-4074-95b9-64ca3e684970",
+      "departmentId": "fe6174e6-aa0a-4b5d-a964-cca2eaaf3b00",
+      "link": "https://www.doctorbangladesh.com/dr-md-fazlul-haque/",
+      "imageId": "596e45d2-f130-4e68-a469-d1b547c370a2",
       "name": "Dr. Md. Fazlul Haque",
       "degree": "MBBS, DO",
       "specialty": "Eye Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Apollo Diagnostic Center, Rangpur",
         "address": "Medical Mor, Jail Road, Dhap, Rangpur",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801733008087"
-      },
-      "id": "233d97b3-f6d2-4bdf-a663-0e5b96a7d3fd"
+        "appointmentNumber": "+8801733008087Call Now"
+      }
     },
     {
+      "id": "1878c33a-bcc6-4c47-9851-99e07f948a1a",
+      "departmentId": "fe6174e6-aa0a-4b5d-a964-cca2eaaf3b00",
+      "link": "https://www.doctorbangladesh.com/lt-col-dr-md-murad-hasan/",
+      "imageId": "3b3127ab-affd-496e-b003-4b7c1eb21746",
       "name": "Lt. Col. (Dr.) Md. Murad Hasan",
       "degree": "MBBS, DO, MCPS, FCPS",
       "specialty": "Eye Diseases SpecialistPhaco Surgery, Vitreo Retina Surgery, Retinal Laser",
@@ -94,9 +116,8 @@
         "hospital": "Shitol Cantonment General Hospital",
         "address": "Opposite to Rangpur Cantonment 1st Checkpost, Rangpur",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801318-336191"
-      },
-      "id": "c963301e-8f64-4899-85f0-c89d65d958b1"
+        "appointmentNumber": "+8801318-336191Call Now"
+      }
     }
   ]
 }

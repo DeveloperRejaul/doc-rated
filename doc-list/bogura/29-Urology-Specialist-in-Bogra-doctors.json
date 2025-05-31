@@ -1,20 +1,27 @@
 {
   "doctor": [
     {
+      "id": "3b99d04d-a3d4-4692-892a-53488d42baef",
+      "departmentId": "c26f2317-384b-4986-8070-f4409b2cf2f0",
+      "link": "https://www.doctorbangladesh.com/dr-md-ahsan-habib-urologist/",
+      "imageId": "c9cd9598-555f-4dcc-85f5-b1accc996716",
       "name": "Dr. Md. Ahsan Habib",
       "degree": "MBBS, BCS (Health), MS (Urology)",
       "specialty": "Kidney, Prostate, Bladder, Urology Specialist & Surgeon",
       "workplace": "Shaheed Ziaur Rahman Medical College & Hospital",
-      "info": "Saic General Hospital, Bogura\nAddress: Bhai Pagla Mazar Lane, Thanthania, Bogura\nVisiting Hour: 2.30pm to 4pm (Closed: Friday)\nAppointment: +8801936005870\nCall Now",
+      "info": "Saic General Hospital, Bogura Address: Bhai Pagla Mazar Lane, Thanthania, Bogura Visiting Hour: 2.30pm to 4pm (Closed: Friday) Appointment: +8801936005870 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "4pm to 8pm (Closed: Sat & Wednesday) & 11:30am to 2:30pm (Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "17acbef6-03b8-4eb7-98a5-8424caf417b3"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "f4bddaad-586f-4ed0-9d3c-a3680676fdb7",
+      "departmentId": "c26f2317-384b-4986-8070-f4409b2cf2f0",
+      "link": "https://www.doctorbangladesh.com/dr-md-rezaul-karim-urologist/",
+      "imageId": "fc737603-63a8-4fa2-a2ff-3f70ce2871f0",
       "name": "Dr. Md. Rezaul Karim",
       "degree": "MBBS, FCPS (Surgery), MS (Urology)",
       "specialty": "Urology (Kidney, Prostate, Bladder, Urethra) Specialist & Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "3pm to 8pm (Sat to Thu) & 11am to 5pm (Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "17c04c04-098c-4ba4-8554-5f1751ed2306"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "2a01288c-13f9-43f6-8f8a-bbd927eaa3c3",
+      "departmentId": "c26f2317-384b-4986-8070-f4409b2cf2f0",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-faruk-hossain/",
+      "imageId": "b101aa70-27a1-498e-881d-ad2c9e159bbd",
       "name": "Dr. Muhammad Faruk Hossain",
       "degree": "MBBS (Dhaka), BCS (Health), MS (Urology), FCPS (Surgery)",
       "specialty": "Urology, Laparoscopic & Endoscopic Surgeon",
@@ -38,11 +48,14 @@
         "hospital": "Ibn Sina Diagnostic & Consultation Center, Bogra",
         "address": "House # 1103/1116, Kanochgari, Sherpur Road, Bogura – 5800",
         "visitingTime": "5pm to 8pm (Closed: Mon & Friday)",
-        "appointmentNumber": "+8801701560011"
-      },
-      "id": "3ac868fe-cce4-44f1-b2ff-a5044cf2778b"
+        "appointmentNumber": "+8801701560011Call Now"
+      }
     },
     {
+      "id": "ef6ee790-10e8-4d37-993e-1f123e1136f8",
+      "departmentId": "c26f2317-384b-4986-8070-f4409b2cf2f0",
+      "link": "https://www.doctorbangladesh.com/dr-md-bakhtiar-uddin-jewel/",
+      "imageId": "eb6d1390-95b9-486f-8522-73262abc61ab",
       "name": "Dr. Md. Bakhtiar Uddin Jewel",
       "degree": "MBBS, BCS (Health), MS (Urology), FAUA (USA)",
       "specialty": "Urology Specialist & Surgeon",
@@ -52,11 +65,14 @@
         "hospital": "Popular Diagnostic Center, Bogra",
         "address": "House # 12/310, Thanthania Bus Stand, Sherpur Road, Bogura",
         "visitingTime": "3pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787812"
-      },
-      "id": "f86e7433-87c3-486d-a647-b1d593ec2c20"
+        "appointmentNumber": "+8809666787812Call Now"
+      }
     },
     {
+      "id": "73f77437-ad5f-4829-a56a-a9077a45b8d6",
+      "departmentId": "c26f2317-384b-4986-8070-f4409b2cf2f0",
+      "link": "https://www.doctorbangladesh.com/dr-md-motiur-rahman-urologist/",
+      "imageId": "ede35853-c1f4-4bb3-b08f-538f97b6804f",
       "name": "Dr. Md. Motiur Rahman",
       "degree": "MBBS, BCS(Health), MS (Urology) BSMMU",
       "specialty": "Urology (Kidney, Prostate, Bladder, Urethra) Specialist & Surgeon",
@@ -66,11 +82,14 @@
         "hospital": "Doctors Clinic, Bogura",
         "address": "(Unit 1), Mofiz Paglar Mor, Sherpur Road, Bogura",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801750099585"
-      },
-      "id": "0ebe31ed-2b4a-414e-8eeb-8dcdaa930ef6"
+        "appointmentNumber": "+8801750099585Call Now"
+      }
     },
     {
+      "id": "67713584-becb-42c6-948e-35befe9f8d6d",
+      "departmentId": "c26f2317-384b-4986-8070-f4409b2cf2f0",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdul-baten/",
+      "imageId": "75cd12ff-b421-41fe-bf89-5888ccfab086",
       "name": "Dr. Md. Abdul Baten",
       "degree": "MBBS, FICS (America), MS (Urology, BSMMU)",
       "specialty": "Urologist and Andrologist",
@@ -80,9 +99,8 @@
         "hospital": "Specialized Bogra Hospital",
         "address": "Thanthania Bus Stand, Sherpur Road, Bogra",
         "visitingTime": "4pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801733828282"
-      },
-      "id": "615b7d2b-c625-4bb9-8ded-349a4fb54069"
+        "appointmentNumber": "+8801733828282Call Now"
+      }
     }
   ]
 }

@@ -1,20 +1,27 @@
 {
   "doctor": [
     {
+      "id": "0b47cd72-41ed-4316-9f8b-ab26331b52cf",
+      "departmentId": "eba2c747-12e0-4e51-adcd-bbcccfd6f803",
+      "link": "https://www.doctorbangladesh.com/dr-a-m-shafiqul-hasan/",
+      "imageId": "c0be972a-e4fc-46cf-8d44-026259ce3348",
       "name": "Prof. Dr. Abu Md. Shafiqul Hasan",
       "degree": "MBBS, BCS (Health), FCPS (Medicine)",
       "specialty": "Medicine, Diabetes, Hypertension & Chest Diseases Specialist",
       "workplace": "Pabna Medical College & Hospital",
-      "info": "Labaid Diagnostic, Malibagh\nAddress: House # B65, Chowdhury Para, Malibagh, Dhaka\nVisiting Hour: 7pm to 10pm (Thu & Friday)\nAppointment: +8801766662555\nCall Now",
+      "info": "Labaid Diagnostic, Malibagh Address: House # B65, Chowdhury Para, Malibagh, Dhaka Visiting Hour: 7pm to 10pm (Thu & Friday) Appointment: +8801766662555 Call Now",
       "chamber": {
         "hospital": "Jalal Memorial Hospital, Pabna",
         "address": "Godaun Mor, Hospital Road, Shalgaria, Pabna - 6600",
         "visitingTime": "3pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801743708079"
-      },
-      "id": "dde6d749-7883-44a7-b7bf-3d2714ffba77"
+        "appointmentNumber": "+8801743708079Call Now"
+      }
     },
     {
+      "id": "6999cd53-6c59-4a19-a8ac-db46fe4afbd0",
+      "departmentId": "eba2c747-12e0-4e51-adcd-bbcccfd6f803",
+      "link": "https://www.doctorbangladesh.com/dr-md-habibul-haque-habib/",
+      "imageId": "cca42a67-203e-4ae8-97f7-85c789c0bb63",
       "name": "Dr. Md. Habibul Haque Habib",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Gastroenterology), CCD (BIRDEM)",
       "specialty": "Medicine, Gastro-Liver & Diabetes Specialist",
@@ -24,25 +31,31 @@
         "hospital": "Shafique Hospital, Pabna",
         "address": "Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna",
         "visitingTime": "4pm to 10pm (Thu) & 9am to 4pm (Fri)",
-        "appointmentNumber": "+8801701654390"
-      },
-      "id": "f901ac2b-bcbc-46f0-829f-a4de690080a9"
+        "appointmentNumber": "+8801701654390Call Now"
+      }
     },
     {
+      "id": "2839c8ef-896b-4fa8-a0ef-5d1785100918",
+      "departmentId": "eba2c747-12e0-4e51-adcd-bbcccfd6f803",
+      "link": "https://www.doctorbangladesh.com/dr-md-ruhid-hossain/",
+      "imageId": "6a33cbfd-2b59-4eaf-8318-ec0f4e0a1123",
       "name": "Dr. Md. Ruhid Hossain",
       "degree": "MBBS (DMC), BCS (Health), FCPS (Medicine), PGT (Neurology, Cardiology)",
       "specialty": "Medicine, Neurology & Cardiology Specialist",
       "workplace": "250 Bedded General Hospital, Pabna",
-      "info": "Fair Hospital & Diagnostic Center, Pabna\nAddress: Beside Pabna TB Hospital, Hospital Road, Shalgaria, Pabna\nVisiting Hour: 3pm to 4pm (Closed: Thu & Friday)\nAppointment: +8801731326134\nCall Now",
+      "info": "Fair Hospital & Diagnostic Center, Pabna Address: Beside Pabna TB Hospital, Hospital Road, Shalgaria, Pabna Visiting Hour: 3pm to 4pm (Closed: Thu & Friday) Appointment: +8801731326134 Call Now",
       "chamber": {
         "hospital": "Labaid Diagnostic, Pabna",
         "address": "Beside Joy Kali Bari, Thana Road, Shalgaria, Pabna",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766661901"
-      },
-      "id": "6004908e-edb3-45f6-86ed-5dee4eec5f42"
+        "appointmentNumber": "+8801766661901Call Now"
+      }
     },
     {
+      "id": "bbcafced-f36f-465f-8928-fd6bff8e140f",
+      "departmentId": "eba2c747-12e0-4e51-adcd-bbcccfd6f803",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahriar-siddiki/",
+      "imageId": "e6087ec1-b3a8-4fca-9d4e-b33251ee7229",
       "name": "Dr. Md. Shahriar Siddiki",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), FCPS (Neurology - FP), CCD (BIRDEM), MRCP (UK)",
       "specialty": "Medicine, Neuromedicine & Diabetes Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Fair Hospital & Diagnostic Center, Pabna",
         "address": "Beside Pabna TB Hospital, Hospital Road, Shalgaria, Pabna",
         "visitingTime": "3pm to 8pm (Only Thursday)",
-        "appointmentNumber": "+8801731326134"
-      },
-      "id": "f5f94c6d-730e-4164-b714-8024e9ce1dd5"
+        "appointmentNumber": "+8801731326134Call Now"
+      }
     },
     {
+      "id": "824f90fc-0c20-4d7c-bd96-be7cc42c4e8a",
+      "departmentId": "eba2c747-12e0-4e51-adcd-bbcccfd6f803",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-habibullah/",
+      "imageId": "a4f03c22-2e86-4b52-8539-5c36735532cd",
       "name": "Dr. Mohammad Habibullah",
       "degree": "MBBS (DMC), FCPS (Medicine)",
       "specialty": "Medicine, Diabetes & Chest Diseases Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Labaid Diagnostic, Pabna",
         "address": "Beside Joy Kali Bari, Thana Road, Shalgaria, Pabna",
         "visitingTime": "6pm to 11pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801766661901"
-      },
-      "id": "b7a5567a-fc09-4020-8f63-141ffc3b7d4a"
+        "appointmentNumber": "+8801766661901Call Now"
+      }
     },
     {
+      "id": "d270a2d4-15c5-4c66-a294-823fa57ecef5",
+      "departmentId": "eba2c747-12e0-4e51-adcd-bbcccfd6f803",
+      "link": "https://www.doctorbangladesh.com/dr-md-nazmul-islam/",
+      "imageId": "15dea4c5-b246-428c-8819-c32c5305d950",
       "name": "Dr. Md. Nazmul Islam",
       "degree": "MBBS (DU), FCPS (Medicine)",
       "specialty": "Medicine, Diabetes & Hypertension Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Central Hospital, Pabna",
         "address": "South Side of Sadar Hospital Gate, Hospital Road, Shalgaria, Pabna",
         "visitingTime": "3pm to 11pm (Closed: Friday)",
-        "appointmentNumber": "+8801322912612"
-      },
-      "id": "5754e80f-5def-4d7c-8d51-9b685f36ed14"
+        "appointmentNumber": "+8801322912612Call Now"
+      }
     },
     {
+      "id": "126e4f0a-5359-4def-82ec-c99208409b4d",
+      "departmentId": "eba2c747-12e0-4e51-adcd-bbcccfd6f803",
+      "link": "https://www.doctorbangladesh.com/dr-saleh-muhammad-ali/",
+      "imageId": "fa35ad76-c34a-456c-b2a6-17eea2fc05ba",
       "name": "Dr. Saleh Muhammad Ali",
       "degree": "MBBS, FCPS (Medicine)",
       "specialty": "Medicine, Diabetes & Chest Diseases Specialist",
@@ -94,11 +116,14 @@
         "hospital": "Euro Medical Center, Pabna",
         "address": "Beside JoyKali Bari, Hospital Road, Shalgaria, Pabna",
         "visitingTime": "3pm to 9pm (Sat to Thu), 10am to 3pm (Fri)",
-        "appointmentNumber": "+8801772974000"
-      },
-      "id": "59011673-e43b-4bcd-838a-0327af1b2b91"
+        "appointmentNumber": "+8801772974000Call Now"
+      }
     },
     {
+      "id": "8b24ca7b-7fac-4382-af2f-1b1aef542c98",
+      "departmentId": "eba2c747-12e0-4e51-adcd-bbcccfd6f803",
+      "link": "https://www.doctorbangladesh.com/prof-dr-iftekhar-mahmood/",
+      "imageId": "1996703d-b51e-4a96-b8d4-2a7b78204ad1",
       "name": "Prof. Dr. Iftekhar Mahmood",
       "degree": "MBBS, PhD, MCCP, MACP, MASM",
       "specialty": "Medicine, Chest Diseases, Hypertension & Diabetes Specialist",
@@ -108,11 +133,14 @@
         "hospital": "Parijat Diagnostic Center, Pabna",
         "address": "Hospital Road, Shalgaria, Pabna",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801714085049"
-      },
-      "id": "162d8778-ce09-4e8b-b41b-d789e048a42e"
+        "appointmentNumber": "+8801714085049Call Now"
+      }
     },
     {
+      "id": "202b70e4-4adf-4cd9-b1ac-1f0eed47e34e",
+      "departmentId": "eba2c747-12e0-4e51-adcd-bbcccfd6f803",
+      "link": "https://www.doctorbangladesh.com/dr-mazid-mahmud/",
+      "imageId": "2d6491f5-02d7-4910-94df-2de0ba9e8b20",
       "name": "Dr. Mazid Mahmud",
       "degree": "MBBS, BCS (Health), CCD (BIRDEM), FCPS (Medicine, FP), PGT (Cardiology), PGT (Neurology)",
       "specialty": "Diabetes, Medicine & Asthma Specialist",
@@ -122,11 +150,14 @@
         "hospital": "Apollo Plus Medical Services, Pabna",
         "address": "Godaun Mor, Hospital Road, Shalgaria, Pabna",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801303667575"
-      },
-      "id": "198f11eb-3a2c-4643-927f-df154ab92e48"
+        "appointmentNumber": "+8801303667575Call Now"
+      }
     },
     {
+      "id": "f1f59bd6-38c2-4c38-a31a-8309669f84e8",
+      "departmentId": "eba2c747-12e0-4e51-adcd-bbcccfd6f803",
+      "link": "https://www.doctorbangladesh.com/dr-ishtiak-karim-adnan/",
+      "imageId": "41090ed9-f099-4b99-84f4-84d3a20acf76",
       "name": "Dr. Ishtiak Karim Adnan",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), CCD (BIRDEM), MCPS (USA)",
       "specialty": "Medicine, Diabetes & Hormone Specialist",
@@ -136,11 +167,14 @@
         "hospital": "City Diagnostic Center, Pabna",
         "address": "Beside TB Hospital, Hospital Road, Shalgaria, Pabna",
         "visitingTime": "3pm to 8pm (Sat to Thu), 9am to 5pm (Fri)",
-        "appointmentNumber": "+8801757204642"
-      },
-      "id": "9c456e8a-8b9a-42ff-ba66-a0beb9240514"
+        "appointmentNumber": "+8801757204642Call Now"
+      }
     },
     {
+      "id": "cd7af67a-2b58-4b73-bd59-4b1ae753d638",
+      "departmentId": "eba2c747-12e0-4e51-adcd-bbcccfd6f803",
+      "link": "https://www.doctorbangladesh.com/dr-abdullah-al-mamun/",
+      "imageId": "2bd0a4d7-7a05-4513-b540-170c13436868",
       "name": "Dr. Abdullah Al Mamun",
       "degree": "MBBS, BCS (Health), FCPS (Medicine)",
       "specialty": "Medicine Specialist",
@@ -150,11 +184,14 @@
         "hospital": "Shimla Hospital, Pabna",
         "address": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
         "visitingTime": "4pm to 10pm (Sat, Sun & Mon), 9am to 4pm (Friday)",
-        "appointmentNumber": "+8801713228218"
-      },
-      "id": "a4009c51-cb4d-4466-9ecb-37c183306082"
+        "appointmentNumber": "+8801713228218Call Now"
+      }
     },
     {
+      "id": "42ff4072-5f73-4708-a350-1687e9412976",
+      "departmentId": "eba2c747-12e0-4e51-adcd-bbcccfd6f803",
+      "link": "https://www.doctorbangladesh.com/dr-captain-sarwar-jahan-faiz/",
+      "imageId": "e2450046-4ad8-48ac-876f-8e9d2eaae695",
       "name": "Dr. Captain Sarwar Jahan Faiz",
       "degree": "MBBS, FCGP, FMD, Fellow IAGP (India), Fellow RSH (UK)",
       "specialty": "Medicine Specialist",
@@ -164,11 +201,14 @@
         "hospital": "Shimla Hospital, Pabna",
         "address": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
         "visitingTime": "10am to 08pm (Everyday)",
-        "appointmentNumber": "+8801713228218"
-      },
-      "id": "416d54a3-967b-45ca-9f67-7f3a4da94558"
+        "appointmentNumber": "+8801713228218Call Now"
+      }
     },
     {
+      "id": "b46af681-e4d2-4cd7-aace-0a92a56a3a9d",
+      "departmentId": "eba2c747-12e0-4e51-adcd-bbcccfd6f803",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdus-sattar-mia/",
+      "imageId": "e68d249a-ab7e-4905-9351-e7d9b7948fd0",
       "name": "Dr. Md. Abdus Sattar Miah",
       "degree": "MBBS, BCS (Health), MD (Internal Medicine)",
       "specialty": "Medicine (All Diseases of Adults) , Diabetes & Chest Diseases Specialist",
@@ -178,11 +218,14 @@
         "hospital": "Central Hospital, Pabna",
         "address": "South Side of Sadar Hospital Gate, Hospital Road, Shalgaria, Pabna",
         "visitingTime": "10am to 1pm (Everyday), 4pm to 8pm (Sat to Thu)",
-        "appointmentNumber": "+8801322912612"
-      },
-      "id": "3d41c2ed-a4da-49cb-8357-46e017b9f02c"
+        "appointmentNumber": "+8801322912612Call Now"
+      }
     },
     {
+      "id": "0819b44d-e186-4122-a3da-9eb53e029615",
+      "departmentId": "eba2c747-12e0-4e51-adcd-bbcccfd6f803",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahbubul-alam-parvez/",
+      "imageId": "7ef48894-6f83-466a-a3ff-b4302401fabd",
       "name": "Dr. Md. Mahbubul Alam Parvez",
       "degree": "MBBS, MD (Medicine)",
       "specialty": "Medicine Specialist",
@@ -192,11 +235,14 @@
         "hospital": "Central Hospital, Pabna",
         "address": "South Side of Sadar Hospital Gate, Hospital Road, Shalgaria, Pabna",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801322912612"
-      },
-      "id": "c2b4adb5-fc29-404a-bd14-37d91f8b007c"
+        "appointmentNumber": "+8801322912612Call Now"
+      }
     },
     {
+      "id": "b9463ca8-8fbc-4fa1-a58f-475db51a8ef6",
+      "departmentId": "eba2c747-12e0-4e51-adcd-bbcccfd6f803",
+      "link": "https://www.doctorbangladesh.com/dr-farid-ahmed-khan/",
+      "imageId": "fb4d89a7-0e07-454d-bb79-659c06451d33",
       "name": "Dr. Farid Ahmed Khan",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), MD (Internal Medicine), MACP (USA)",
       "specialty": "Medicine (All Diseases of Adults) Specialist",
@@ -206,11 +252,14 @@
         "hospital": "Shimla Hospital, Pabna",
         "address": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
         "visitingTime": "4pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801713228218"
-      },
-      "id": "0f589cb7-f482-43e7-b903-f16d9a19e5f7"
+        "appointmentNumber": "+8801713228218Call Now"
+      }
     },
     {
+      "id": "53b223d9-f7d6-4b68-8c9c-de63112923ab",
+      "departmentId": "eba2c747-12e0-4e51-adcd-bbcccfd6f803",
+      "link": "https://www.doctorbangladesh.com/dr-md-golam-sarwar/",
+      "imageId": "03e9dd78-1eb8-4c2f-81d7-26c8f929ba47",
       "name": "Dr. Md. Golam Sarwar",
       "degree": "MBBS, BCS (Health), FCPS (Medicine, FP), MD (Gastroenterology, P2)",
       "specialty": "Gastroenterology, Liver & Medicine Specialist",
@@ -220,11 +269,14 @@
         "hospital": "Dr. Gaffar Diagnostic Complex, Pabna",
         "address": "South Side of Sadar Thana, Hospital Road, Pabna",
         "visitingTime": "2pm to 4pm (Everyday)",
-        "appointmentNumber": "+8801780817051"
-      },
-      "id": "65e512f0-ffac-468e-aea5-3f05c38e6929"
+        "appointmentNumber": "+8801780817051Call Now"
+      }
     },
     {
+      "id": "f28c70d2-9782-4ba1-b4d7-a3ff8bed217b",
+      "departmentId": "eba2c747-12e0-4e51-adcd-bbcccfd6f803",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-kamal-osman/",
+      "imageId": "c5c02176-9fca-4282-bec9-fcc912c4461a",
       "name": "Prof. Dr. Md. Kamal Osman",
       "degree": "MBBS, MCPS, DLM (Japan), PhD (Liver & Kidney Toxicity), PhD (Psychology, USA)",
       "specialty": "Medicine (All Diseases of Adults) Specialist",
@@ -234,25 +286,31 @@
         "hospital": "Dr. Gaffar Diagnostic Complex, Pabna",
         "address": "Thana Mor (Beside Shimla Hospital), Hospital Road, Shalgaria, Pabna",
         "visitingTime": "11am to 8pm (Mon, Tue, Wed & Thu)",
-        "appointmentNumber": "+8801780817051"
-      },
-      "id": "db1f780b-19cc-4072-a5f9-4c5a136d15b3"
+        "appointmentNumber": "+8801780817051Call Now"
+      }
     },
     {
+      "id": "12c5d325-ecad-4829-b1c7-7ad21df3d4d6",
+      "departmentId": "eba2c747-12e0-4e51-adcd-bbcccfd6f803",
+      "link": "https://www.doctorbangladesh.com/dr-md-shamsul-amin-nayan/",
+      "imageId": "2dcc3c38-9918-445d-8e6b-ac1b4da349d1",
       "name": "Dr. Md. Shamsul Amin (Nayan)",
       "degree": "MBBS (Dhaka), CCD (BIRDEM), MRCP (Medicine, UK), FCPS (Medicine, CF)",
       "specialty": "Medicine & Diabetes Specialist",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Dr. Md. Shamsul Amin (Nayan) is a Medicine Specialist in Pabna. His qualification is MBBS (Dhaka), CCD (BIRDEM), MRCP (Medicine, UK), FCPS (Medicine, CF). He is a  at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Akota Diagnostic Center, Pabna. Practicing hour of Dr. Md. Shamsul Amin (Nayan) at Akota Diagnostic Center, Pabna is 11am to 8pm (Sunday to Wednesday).",
+      "info": "Dr. Md. Shamsul Amin (Nayan) is a Medicine Specialist in Pabna. His qualification is MBBS (Dhaka), CCD (BIRDEM), MRCP (Medicine, UK), FCPS (Medicine, CF). He is a at Bangabandhu Sheikh Mujib Medical University Hospital. He regularly provides treatment to his patients at Akota Diagnostic Center, Pabna. Practicing hour of Dr. Md. Shamsul Amin (Nayan) at Akota Diagnostic Center, Pabna is 11am to 8pm (Sunday to Wednesday).",
       "chamber": {
         "hospital": "Akota Diagnostic Center, Pabna",
         "address": "Sadar Hospital Gate, Hospital Road, Shalgaria, Pabna",
         "visitingTime": "11am to 8pm (Sunday to Wednesday)",
-        "appointmentNumber": "+8801701787870"
-      },
-      "id": "9524b5b9-f1e3-4699-b285-18f600b0208d"
+        "appointmentNumber": "+8801701787870Call Now"
+      }
     },
     {
+      "id": "fbcd6188-1058-4b80-91a3-822f656a89b3",
+      "departmentId": "eba2c747-12e0-4e51-adcd-bbcccfd6f803",
+      "link": "https://www.doctorbangladesh.com/dr-md-nazmul-ahsan/",
+      "imageId": "05477a97-5df5-4b36-9c85-eca367f3544f",
       "name": "Dr. Md. Nazmul Ahsan",
       "degree": "MBBS, CCD (BIRDEM), DMU, FMD (USTC), Certificate Course (Cardiology & Dermatology)",
       "specialty": "Family Medicine & Diabetes Specialist",
@@ -262,11 +320,14 @@
         "hospital": "Grameen Diagnostic Center, Pabna",
         "address": "Kazi Office Road, Thana Para, Shalgaria, Pabna",
         "visitingTime": "From 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801950998955"
-      },
-      "id": "1b7f0f80-7bb0-437e-b3cf-749fd0f3f0f6"
+        "appointmentNumber": "+8801950998955Call Now"
+      }
     },
     {
+      "id": "926fc774-71f5-4246-abf2-f64b66002bb3",
+      "departmentId": "eba2c747-12e0-4e51-adcd-bbcccfd6f803",
+      "link": "https://www.doctorbangladesh.com/dr-shaikh-ibn-anowar/",
+      "imageId": "2ef2f0f1-099e-40d5-b3d1-3dc9765dd479",
       "name": "Dr. Shaikh Ibn Anowar",
       "degree": "MBBS, BCS (Health), FCPS (Medicine - FP), PGT (Medicine), CMU, CCD (BIRDEM)",
       "specialty": "Medicine (All Diseases of Adults) Specialist",
@@ -276,11 +337,14 @@
         "hospital": "Digital Diagnostic Center, Pabna",
         "address": "Kazi Office Road, Thana Para, Shalgaria, Pabna",
         "visitingTime": "9am to 5pm (Only Friday)",
-        "appointmentNumber": "+8801748343270"
-      },
-      "id": "6fea8f5d-f86f-4310-9bac-15ffde82c9e6"
+        "appointmentNumber": "+8801748343270Call Now"
+      }
     },
     {
+      "id": "18e45535-2e7e-4d37-9f19-d9892ffff960",
+      "departmentId": "eba2c747-12e0-4e51-adcd-bbcccfd6f803",
+      "link": "https://www.doctorbangladesh.com/dr-rifat-zaman/",
+      "imageId": "321b904b-383a-4a69-9549-b2ed0f843dd2",
       "name": "Dr. Rifat Zaman",
       "degree": "MBBS, MD (Internal Medicine), PGT (Critical Care Medicine)",
       "specialty": "Internal Medicine Specialist",
@@ -290,11 +354,14 @@
         "hospital": "Fair Hospital & Diagnostic Center, Pabna",
         "address": "Beside Pabna TB Hospital, Hospital Road, Shalgaria, Pabna",
         "visitingTime": "9am to 5pm (Only Friday)",
-        "appointmentNumber": "+8801730880795"
-      },
-      "id": "d109bbe4-ba26-4c18-a549-dc38e672e8b0"
+        "appointmentNumber": "+8801730880795Call Now"
+      }
     },
     {
+      "id": "23153ed7-db7d-465c-90fe-b7ae64d216db",
+      "departmentId": "eba2c747-12e0-4e51-adcd-bbcccfd6f803",
+      "link": "https://www.doctorbangladesh.com/dr-mehedi-hasan/",
+      "imageId": "c53c43d2-730b-4172-9e7f-04a3f0cfb7b6",
       "name": "Dr. Md. Mehedi Hasan",
       "degree": "MBBS, BCS (Health), MD (Neuromedicine), FCPS (Medicine-FP), MAAN",
       "specialty": "Medicine & Neuromedicine Specialist",
@@ -304,11 +371,14 @@
         "hospital": "Shimla Hospital, Pabna",
         "address": "Room: 214, Shimla Tower, Thana Mor, Hospital Road, Pabna",
         "visitingTime": "3pm to 9pm (Sat to Thu), 9am to 8pm (Friday)",
-        "appointmentNumber": "+8801713228218"
-      },
-      "id": "56cb346b-a5a9-4bc0-b344-1d0d1d1870c9"
+        "appointmentNumber": "+8801713228218Call Now"
+      }
     },
     {
+      "id": "5dd31930-e2eb-4254-af95-fb253a44d532",
+      "departmentId": "eba2c747-12e0-4e51-adcd-bbcccfd6f803",
+      "link": "https://www.doctorbangladesh.com/dr-md-zahir-uddin-khan/",
+      "imageId": "584b1e80-ba73-4bf3-a3f7-1858cd80bb03",
       "name": "Dr. Md. Zahir Uddin Khan",
       "degree": "MBBS, PGT (Medicine), CCD (BIRDEM), DMU (Ultrasonography)",
       "specialty": "Medicine Specialist & Sonologist",
@@ -318,11 +388,14 @@
         "hospital": "Akota Diagnostic Center, Pabna",
         "address": "Sadar Hospital Gate, Hospital Road, Shalgaria, Pabna",
         "visitingTime": "10pm to 3pm & 5pm to 8pm (Everyday)",
-        "appointmentNumber": "+8801701787870"
-      },
-      "id": "c9b09490-c4bc-4c09-aa4a-ea0da951b7a9"
+        "appointmentNumber": "+8801701787870Call Now"
+      }
     },
     {
+      "id": "ca7c60d8-46fa-4d66-802c-60119d3036a0",
+      "departmentId": "eba2c747-12e0-4e51-adcd-bbcccfd6f803",
+      "link": "https://www.doctorbangladesh.com/dr-md-nazmus-shakib-umam/",
+      "imageId": "94a27804-7c56-408f-b299-691486b8d9c6",
       "name": "Dr. Md. Nazmus Shakib Umam",
       "degree": "MBBS, DA (BSMMU), PGT (Heart Disease), PGT (Medicine)",
       "specialty": "Medicine & Heart Specialist",
@@ -332,11 +405,14 @@
         "hospital": "Halima Clinic, Pabna",
         "address": "Front of Bangladesh Eidgah, Ataikula Road, Shalgaria, Pabna",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801711345743"
-      },
-      "id": "3bc9de9d-5b6f-41ef-a8b9-0768c81e17a6"
+        "appointmentNumber": "+8801711345743Call Now"
+      }
     },
     {
+      "id": "93b6014f-8586-47a1-87b3-1d09dc6cafb1",
+      "departmentId": "eba2c747-12e0-4e51-adcd-bbcccfd6f803",
+      "link": "https://www.doctorbangladesh.com/dr-md-sohel-uddin/",
+      "imageId": "d1fddcc8-65d7-424c-8ced-9b517c7b53e8",
       "name": "Dr. Md. Sohel Uddin",
       "degree": "MBBS, BCS (Health), FCPS (Medicine)",
       "specialty": "Medicine (All Diseases of Adults Related to Medicine) Specialist",
@@ -346,11 +422,14 @@
         "hospital": "Shafique Hospital, Pabna",
         "address": "Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna",
         "visitingTime": "3pm to 9pm (Sunday & Tuesday)",
-        "appointmentNumber": "+8801701654390"
-      },
-      "id": "9d572cdb-2272-4e34-83b3-14fdb55c9bbf"
+        "appointmentNumber": "+8801701654390Call Now"
+      }
     },
     {
+      "id": "ecae72c9-46d7-44eb-8e88-ad91dc210e14",
+      "departmentId": "eba2c747-12e0-4e51-adcd-bbcccfd6f803",
+      "link": "https://www.doctorbangladesh.com/dr-istajul-khan/",
+      "imageId": "e178867d-1d05-442f-ab43-d4b3cb6d5c67",
       "name": "Dr. Istajul Khan",
       "degree": "MBBS, BCS (Health), FCPS (Medicine), D-CARD, FACP (USA), MRCP (Medicine)",
       "specialty": "Interventional Cardiologist & Medicine Specialist",
@@ -360,11 +439,14 @@
         "hospital": "Shafique Hospital, Pabna",
         "address": "Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna",
         "visitingTime": "4pm to 8pm (Only Friday)",
-        "appointmentNumber": "+8801701654390"
-      },
-      "id": "1acdfcbb-cf8c-44bd-9244-ab2693eb6156"
+        "appointmentNumber": "+8801701654390Call Now"
+      }
     },
     {
+      "id": "b2ff071b-7466-4e02-9cdf-8929ddc280e1",
+      "departmentId": "eba2c747-12e0-4e51-adcd-bbcccfd6f803",
+      "link": "https://www.doctorbangladesh.com/dr-k-m-salauddin-ovi/",
+      "imageId": "6c249d02-9ed2-4a9f-91c6-191dfeefebf2",
       "name": "Dr. K.M. Salauddin (Ovi)",
       "degree": "MBBS (Raj), BCS (Health), PGT (Medicine, Skin & Sex, Mental Diseases)",
       "specialty": "Medicine Physician",
@@ -374,9 +456,8 @@
         "hospital": "Shafique Hospital, Pabna",
         "address": "Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801701654390"
-      },
-      "id": "dbe8728a-58e4-49b7-869c-9ee703050142"
+        "appointmentNumber": "+8801701654390Call Now"
+      }
     }
   ]
 }

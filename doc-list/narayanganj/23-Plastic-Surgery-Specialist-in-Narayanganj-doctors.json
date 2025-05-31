@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "056a49ed-141e-4f8e-9ce3-77592e6f5760",
+      "departmentId": "2cb72909-e770-4955-81ec-b09ab8162750",
+      "link": "https://www.doctorbangladesh.com/dr-md-kamruzzaman-plastic/",
+      "imageId": "a504f613-2679-4942-b519-3edfc3c5553f",
       "name": "Dr. Md. Kamruzzaman",
       "degree": "MBBS, FCPS (Surgery), FCPS (Plastic Surgery), MRCS (EDIN), MRCS (UK)",
       "specialty": "Burn, Plastic, Reconstructive & Cosmetic Surgeon",
@@ -10,9 +14,8 @@
         "hospital": "Popular Diagnostic Center, Narayanganj",
         "address": "231/4, Bangabandhu Road, Chashara, Narayanganj – 1400",
         "visitingTime": "8pm to 9pm (Only Sunday)",
-        "appointmentNumber": "+8809666787804"
-      },
-      "id": "22d35d54-c74c-4f9f-a82e-108aa1829ebc"
+        "appointmentNumber": "+8809666787804Call Now"
+      }
     }
   ]
 }

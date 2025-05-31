@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "760a9b70-01c8-42f8-aadf-7504348d84d2",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-nadim-kamal/",
+      "imageId": "4e29d36d-29a0-4e0f-b257-d225364b129c",
       "name": "Dr. Nadim Kamal",
       "degree": "MBBS, FCPS (Physical Medicine)",
       "specialty": "Pain, Arthritis, Paralysis, Sports Injury & Neurological Rehabilitation Specialist",
@@ -10,25 +14,31 @@
         "hospital": "Medinova Medical Services, Malibagh",
         "address": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
         "visitingTime": "3pm to 6pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801790118855"
-      },
-      "id": "bcf8e470-cf77-43cd-823d-05523bc8be4a"
+        "appointmentNumber": "+8801790118855Call Now"
+      }
     },
     {
+      "id": "b5589147-661f-488d-86f6-d3413cdea7d7",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-shamim-md-fuad/",
+      "imageId": "e348a923-2093-47ad-802e-54952761f0f0",
       "name": "Dr. Shamim Md. Fuad",
       "degree": "MBBS (DMC), MD (BSMMU), FIPM (INDIA)",
       "specialty": "Pain, Arthritis, Paralysis, Stroke, Physical Medicine & Rehabilitation Specialist",
       "workplace": "Asgar Ali Hospital, Dhaka",
-      "info": "Labaid Diagnostic, Malibagh\nAddress: House # B65, Chowdhury Para, Malibagh, Dhaka\nVisiting Hour: 8pm to 10pm (Sat, Mon & Wed)\nAppointment: +8801766662555\nCall Now",
+      "info": "Labaid Diagnostic, Malibagh Address: House # B65, Chowdhury Para, Malibagh, Dhaka Visiting Hour: 8pm to 10pm (Sat, Mon & Wed) Appointment: +8801766662555 Call Now",
       "chamber": {
         "hospital": "Asgar Ali Hospital, Dhaka",
         "address": "111/1/A, Distillery Road, Gandaria, Dhaka",
         "visitingTime": "11am to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801787683333"
-      },
-      "id": "201bdb0f-843a-498b-aa54-6212f120df72"
+        "appointmentNumber": "+8801787683333Call Now"
+      }
     },
     {
+      "id": "379f6764-2f7e-4fbc-975c-207424c9208c",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-nadia-siddiquee/",
+      "imageId": "f5340c54-0314-4b9e-851c-444846e7c751",
       "name": "Dr. Nadia Siddiquee",
       "degree": "MBBS, CCD, FCPS (Physical Medicine & Rehabilitation)",
       "specialty": "Pain, Arthritis, Paralysis, Osteoporosis, Sports Injury & Physical Medicine Specialist",
@@ -38,11 +48,14 @@
         "hospital": "BIRDEM Specialized Chamber Complex",
         "address": "Room - 209, Main Building, 122, Kazi Nazrul Islam Avenue, Shahbag, Dhaka",
         "visitingTime": "2.30pm to 6pm (Sat, Sun, Tue & Wednesday)",
-        "appointmentNumber": "+8801726-727406"
-      },
-      "id": "e40b2bb3-e1d6-4073-8f9a-93c4f80b697c"
+        "appointmentNumber": "+8801726-727406Call Now"
+      }
     },
     {
+      "id": "ef0faa17-66d0-4ed4-a0bd-8ba03da61f4e",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/prof-dr-sunam-kumar-barua/",
+      "imageId": "ef2a3de8-1d5d-49a6-a4a6-6267cdb6e566",
       "name": "Prof. Dr. Sunam Kumar Barua",
       "degree": "MBBS, BCS (Health), FCPS (Physical Medicine & Rehabilitation), DTM&H (Thailand), MPH (Belgium)",
       "specialty": "Physical Medicine (Pain, Arthritis, Paralysis) & Rehabilitation Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Medinova Medical Services, Malibagh",
         "address": "Gemcon Business Tower, 255 New Circular Road, Malibagh, Dhaka",
         "visitingTime": "2.30pm to 4.30pm (Monday & Wednesday)",
-        "appointmentNumber": "+8801716410062"
-      },
-      "id": "4ef51590-9342-4a76-b66f-b36befd72e78"
+        "appointmentNumber": "+8801716410062Call Now"
+      }
     },
     {
+      "id": "f736476a-f745-4d1b-8860-b046a2d247c0",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/prof-dr-syed-mozaffar-ahmed/",
+      "imageId": "22e3c554-0504-49ab-baf5-ad81d6fa31ff",
       "name": "Prof. Dr. Syed Mozaffar Ahmed",
       "degree": "MBBS, FCPS (Physical Medicine), PhD (Rheumatology), MACP (USA)",
       "specialty": "Physical Medicine & Rheumatology Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka - 1205",
         "visitingTime": "5pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "dd22f532-aee0-4360-9255-9084042f3876"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "087e6656-479a-4131-85e5-a2c2ec4b0cc8",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/prof-m-a-shakoor/",
+      "imageId": "629ce8e4-7d4e-457d-9837-c46e0dd3da56",
       "name": "Prof. Dr. M. A. Shakoor",
       "degree": "MBBS, FCPS (Physical Medicine), PhD (CU)",
       "specialty": "Pain, Arthritis, Paralysis, Stroke, Physical Medicine & Rehabilitation Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "6.30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "239fbae8-4cc4-4953-801d-53300e7e4e19"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "5c271283-e6c2-41a9-87d5-9a66b4edecc0",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-taslim-uddin/",
+      "imageId": "056e0f6b-02b5-45d8-9935-ce3f21cffdc7",
       "name": "Prof. Dr. Md. Taslim Uddin",
       "degree": "MBBS, FCPS (Physical Medicine & Rehabilitation)",
       "specialty": "Pain, Arthritis, Paralysis, Stroke, Physical Medicine & Rehabilitation Specialist",
@@ -94,11 +116,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "4pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "7fd5a40e-093a-4d33-a665-716dfaab890b"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "fc820946-d758-4bb0-adf8-d309d8e1d8aa",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-muhibbur-rahman-rafe/",
+      "imageId": "ee4ecce7-b3e7-4570-82bc-d3750d32cd40",
       "name": "Dr. Muhibbur Rahman Rafe",
       "degree": "MBBS, BCS (Health), MD (Physical Medicine), MACP (USA)",
       "specialty": "Pain, Arthritis, Paralysis, Stroke & Rehab Specialist",
@@ -108,67 +133,82 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "5pm to 8pm (Closed: Sunday & Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "19eade9b-749c-403b-8583-ad99f5d3acce"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "91d7a928-e353-4349-b9df-c99cb8b8df27",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-md-nuruzzaman-khandaker/",
+      "imageId": "57308e74-4d14-4e16-981b-03a61707bb55",
       "name": "Dr. Md. Nuruzzaman Khandaker Noman",
       "degree": "MBBS, FCPS (Physical Medicine & Rehabilitation), EULAR Fellow (Switzerland)",
       "specialty": "Physical Medicine & Rheumatology Specialist",
       "workplace": "Bangladesh Medical University (PG Hospital)",
-      "info": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)\nAddress: Comilla Tower, Laksam Road, Kandirpar, Cumilla – 3500\nVisiting Hour: 4pm to 8.30pm (Thursday) & 9am to 2pm (Friday)\nAppointment: +8801947112233\nCall Now",
+      "info": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital) Address: Comilla Tower, Laksam Road, Kandirpar, Cumilla – 3500 Visiting Hour: 4pm to 8.30pm (Thursday) & 9am to 2pm (Friday) Appointment: +8801947112233 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Doyagonj",
         "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
         "visitingTime": "7pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809610009615"
-      },
-      "id": "718e213c-9cea-4ea5-9c68-cf60aa50916e"
+        "appointmentNumber": "+8809610009615Call Now"
+      }
     },
     {
+      "id": "a04a8136-5838-45e7-b2bc-9c832a25a2fb",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-md-ruhul-amin/",
+      "imageId": "b19ca44d-d8dd-4b11-a4cf-fe0b5a75029a",
       "name": "Prof. Dr. Md. Ruhul Amin",
       "degree": "MBBS, BCS (Health), FCPS (Physical Medicine), FIPM (India), Fellow (TOBI USA)",
       "specialty": "Physical Medicine (Pain, Paralysis) & Rehabilitation Specialist",
       "workplace": "Sir Salimullah Medical College & Mitford Hospital",
-      "info": "Ibn Sina Diagnostic Center, Mirpur\nAddress: House # 11, Haji Road, Avenue 3, Rupnagar, Mirpur 2, Dhaka\nVisiting Hour: 5pm to 7pm (Closed: Thu & Friday)\nAppointment: +8801847262996\nCall Now",
+      "info": "Ibn Sina Diagnostic Center, Mirpur Address: House # 11, Haji Road, Avenue 3, Rupnagar, Mirpur 2, Dhaka Visiting Hour: 5pm to 7pm (Closed: Thu & Friday) Appointment: +8801847262996 Call Now",
       "chamber": {
         "hospital": "Islami Bank Hospital, Mirpur",
         "address": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
         "visitingTime": "7.30pm to 9.30pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801844610513"
-      },
-      "id": "0d2863e6-2747-4f42-a12e-d1e82dbdd695"
+        "appointmentNumber": "+8801844610513Call Now"
+      }
     },
     {
+      "id": "1048717b-5a58-4f11-b544-66508b0a3cbc",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-ahsan-ullah/",
+      "imageId": "e9189554-2e69-49a5-8027-2c077fcc0c7c",
       "name": "Prof. Dr. Md. Ahsan Ullah",
       "degree": "MBBS, FCPS (Physical Medicine)",
       "specialty": "Arthritis, Pain, Paralysis, Rheumatic Fever & Physical Medicine Specialist",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Popular Diagnostic Center, Dhanmondi\nAddress: House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205\nVisiting Hour: 12pm to 1pm (Closed: Thu & Friday) & 5pm to 9pm (Sun, Tue & Thu)\nAppointment: +8809666787801\nCall Now",
+      "info": "Popular Diagnostic Center, Dhanmondi Address: House # 16, Road # 2, Dhanmondi R/A, Dhaka – 1205 Visiting Hour: 12pm to 1pm (Closed: Thu & Friday) & 5pm to 9pm (Sun, Tue & Thu) Appointment: +8809666787801 Call Now",
       "chamber": {
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "2.30pm to 7.30pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "eda33286-5f8a-4a42-95c9-afdd518f225a"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
+      "id": "7e0b2302-45a7-46aa-be0d-b63e55fb0983",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-maidul-islam/",
+      "imageId": "3d2e1073-41b5-454b-bed4-ca1d44c8d606",
       "name": "Prof. Dr. Md. Maidul Islam",
       "degree": "MBBS, MS (Ortho Surgery), FCPS (Physical Medicine)",
       "specialty": "Orthopedics, Pain, Paralysis, Sports Injury & Physical Medicine Specialist",
       "workplace": "Z.H. Sikder Women's Medical College & Hospital",
-      "info": "Islami Bank Specialized & General Hospital, Nayapaltan\nAddress: 71-72, VIP Road, Nayapaltan, Dhaka\nVisiting Hour: 4pm to 6pm (Closed: Friday)\nAppointment: +8801977552283\nCall Now",
+      "info": "Islami Bank Specialized & General Hospital, Nayapaltan Address: 71-72, VIP Road, Nayapaltan, Dhaka Visiting Hour: 4pm to 6pm (Closed: Friday) Appointment: +8801977552283 Call Now",
       "chamber": {
         "hospital": "Islami Bank Hospital, Mirpur",
         "address": "Plot # 31, Block # D, Section # 11, Mirpur, Dhaka – 1216",
         "visitingTime": "11am to 2.30pm (Sat to Tue)",
-        "appointmentNumber": "+8801992346632"
-      },
-      "id": "1ac1677e-9311-4855-8395-c59f87b9a4ff"
+        "appointmentNumber": "+8801992346632Call Now"
+      }
     },
     {
+      "id": "14e7bf73-2e6f-46ca-944f-edc1204bb35d",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-m-m-zaman/",
+      "imageId": "b4a6c3de-af61-44da-9984-99bc8b7e7733",
       "name": "Dr. M M Zaman",
       "degree": "MBBS, FCPS, FIAS, MACR, MAAPMR, MAARM (USA)",
       "specialty": "Physical Medicine, Interventional Pain, Arthritis & Spine Specialist",
@@ -178,11 +218,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "7pm to 11pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "76aa966d-6bcf-48b9-943f-d7f021e66fa8"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "5530f7d5-2df2-4403-ae8a-449f0a766e08",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-ibrahim-hossain/",
+      "imageId": "ae1cb138-4a01-4a90-9ebc-56b7e4df8d1d",
       "name": "Prof. Dr. Md. Ibrahim Hossain",
       "degree": "MBBS, MD (Physical Medicine), MACR (USA)",
       "specialty": "Pain, Paralysis, Sports Injury & Physical Medicine Specialist",
@@ -192,11 +235,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "6pm to 9pm (Friday: 7pm to 9pm)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "3c2efde2-c5ab-432d-84e9-2aa4da2b3f6e"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "81bca583-4bff-4e0c-a652-34a0d275733e",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/prof-dr-khurshid-mahmud/",
+      "imageId": "e237c077-4ce0-4161-8b37-5bb2c2d81e3b",
       "name": "Prof. Dr. Khurshid Mahmood",
       "degree": "MBBS, FCPS (Physical Medicine), Training (Srilanka, Egypt)",
       "specialty": "Physical Medicine Specialist",
@@ -206,11 +252,14 @@
         "hospital": "Popular Diagnostic Center, Mirpur",
         "address": "Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka",
         "visitingTime": "5pm to 8:30pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787807"
-      },
-      "id": "6faa3586-9b85-4f7e-9b56-6d34bbaa85fe"
+        "appointmentNumber": "+8809666787807Call Now"
+      }
     },
     {
+      "id": "1f0d49f5-98f7-4282-8a10-69bb1b4bc39e",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-moyeenuzzaman/",
+      "imageId": "ba7fcdc7-97b1-4dff-bda6-8d710da4ee80",
       "name": "Prof. Dr. Md. Moyeenuzzaman",
       "degree": "MBBS, FCPS (Physical Medicine)",
       "specialty": "Physical Medicine (Arthritis, Pain, Paralysis, Sports Injury) Specialist",
@@ -220,11 +269,14 @@
         "hospital": "SPRC & Neurology Hospital",
         "address": "135, New Eskaton Road (Opposite to Dilu Road), Dhaka - 1000",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8802222229089"
-      },
-      "id": "10559147-1954-4960-a4b8-7e4d28771b7a"
+        "appointmentNumber": "+8802222229089Call Now"
+      }
     },
     {
+      "id": "7e962fed-ee96-4af9-b7ff-e76078761e34",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/prof-dr-kazi-abdullah-al-mamun/",
+      "imageId": "48adae44-923c-4d22-a45b-c4b329098159",
       "name": "Prof. Dr. Kazi Abdullah Al Mamun",
       "degree": "MBBS (CMC), FCPS (Physical Medicine), FRCP (Glasg. UK), MACP (USA)",
       "specialty": "Physical Medicine, Rheumatology, Neurology & Sports InjuryMedical & Interventional Rehab Physician",
@@ -234,11 +286,14 @@
         "hospital": "Ibn Sina Medical Imaging Center, Zigatola",
         "address": "House # 58, Road # 2A, Zigatola Bus Stand, Dhaka - 1209",
         "visitingTime": "11am to 2pm & 7pm to 9pm (Closed: Wed & Thu)",
-        "appointmentNumber": "+8809610009625"
-      },
-      "id": "1b3c4c23-5a6d-4543-895b-353ed2d60e73"
+        "appointmentNumber": "+8809610009625Call Now"
+      }
     },
     {
+      "id": "725d32c4-7bc2-4c7b-b07f-98c0a519e54e",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/prof-dr-sohely-rahman/",
+      "imageId": "e17e8a76-fb85-4eb0-aacb-95237974ad9e",
       "name": "Prof. Dr. Sohely Rahman",
       "degree": "MBBS, FCPS (Physical Medicine)",
       "specialty": "Pain, Arthritis, Stroke, Paralysis & Rehabilitation Specialist",
@@ -248,11 +303,14 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "10.30am to 1pm & 5pm to 7.30pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "37e653a2-3f98-41c6-8aff-1326b1ccc68b"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "92d4b709-ebb1-461c-a771-d8920ee87831",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-md-jobayer-hossain/",
+      "imageId": "453faaac-89a1-4191-9fe0-596ce75ae852",
       "name": "Dr. Md. Jobayer Hossain",
       "degree": "MBBS, MD (BSMMU), FIPM (INDIA)",
       "specialty": "Pain Medicine Specialist",
@@ -262,11 +320,14 @@
         "hospital": "Dhaka Pain & Spine Center, Banani",
         "address": "House # 35, Road # 17, Block # E, Banani, Dhaka",
         "visitingTime": "12pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801733-888388"
-      },
-      "id": "94f76d6f-b073-4371-a2ef-0e0c397659e1"
+        "appointmentNumber": "+8801733-888388Call Now"
+      }
     },
     {
+      "id": "0255884e-af24-4186-86fd-ba6ebef13dcc",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-md-anisur-rahman-pain/",
+      "imageId": "6d187083-7770-4f35-9fa2-b823c1a5af67",
       "name": "Dr. Md. Anisur Rahman",
       "degree": "MBBS, MD (BSMMU), FIPM (India)",
       "specialty": "Pain Medicine Specialist",
@@ -276,11 +337,14 @@
         "hospital": "Dhaka Pain & Spine Center, Banani",
         "address": "House # 35, Road # 17, Block # E, Banani, Dhaka",
         "visitingTime": "12pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801733-888388"
-      },
-      "id": "eb8fd463-f281-48de-bfe2-e3ba1ca3667a"
+        "appointmentNumber": "+8801733-888388Call Now"
+      }
     },
     {
+      "id": "56106581-2538-4e18-a572-6b7a561972ac",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-md-jahidul-islam/",
+      "imageId": "c5f16ee4-5f88-41be-97cb-c462dba00b6d",
       "name": "Dr. Md. Jahidul Islam",
       "degree": "MBBS, BCS (Health), MPH, FCPS",
       "specialty": "Physical Medicine & Rehabilitation Specialist",
@@ -290,11 +354,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Malibagh",
         "address": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
         "visitingTime": "6pm to 8pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801844141717"
-      },
-      "id": "de72c2bd-3e7c-46ae-841d-0a8a749e762a"
+        "appointmentNumber": "+8801844141717Call Now"
+      }
     },
     {
+      "id": "30b41abd-68f0-4e67-a8f8-c8971b459c79",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-monzur-ahmed-dhaka/",
+      "imageId": "2c7e5708-c1e4-4f9a-8bac-a3ddbd897c0b",
       "name": "Dr. Monzur Ahmed",
       "degree": "MBBS, BCS (Health), FCPS (Physical Medicine)",
       "specialty": "Pain, Paralysis, Arthritis, Physical Medicine & Rehabilitation Specialist",
@@ -304,11 +371,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Savar",
         "address": "31/6 Jaleshwar, Aricha Road, Savar, Dhaka - 1340",
         "visitingTime": "3.30pm to 6.30pm (Closed: Sun, Tue & Thu)",
-        "appointmentNumber": "+88 09610009613"
-      },
-      "id": "0fa34a9a-dc2b-4183-aeab-89650cde0c75"
+        "appointmentNumber": "+88 09610009613Call Now"
+      }
     },
     {
+      "id": "10053296-e8f2-4dbf-a1a4-7d3655ff9631",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/prof-dr-jebun-nessa-rumu/",
+      "imageId": "07bd35ee-4dbf-49f4-bf9a-07e2d00351df",
       "name": "Prof. Dr. Jebun Nessa (Rumu)",
       "degree": "MBBS, FCPS (Physical Medicine), MD",
       "specialty": "Physical Medicine (Pain, Arthritis, Paralysis, Stroke) & Rehabilitation Specialist",
@@ -318,11 +388,14 @@
         "hospital": "Samorita Hospital Ltd, Panthapath",
         "address": "89/1, Panthapath, Dhaka - 1215, Bangladesh",
         "visitingTime": "3.30pm to 5.30pm (Sat & Tue), 5.30pm to 7.30pm (Sun & Wed)",
-        "appointmentNumber": "+8801832626053"
-      },
-      "id": "760599ef-12da-4850-bf4d-abe841cb9119"
+        "appointmentNumber": "+8801832626053Call Now"
+      }
     },
     {
+      "id": "782daa82-e9e5-4083-98f2-cc557bad494f",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-hasina-bilkis-banu/",
+      "imageId": "efdfa691-c2f0-45bd-8f6f-6766883f3d9f",
       "name": "Dr. Hasina Bilkis Banu",
       "degree": "MBBS, FCPS (PM&R)",
       "specialty": "Pain, Arthritis, Paralysis & Rheumatic Diseases Specialist",
@@ -332,11 +405,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Doyagonj",
         "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
         "visitingTime": "5pm to 7.30pm (Closed: Friday & Saturday)",
-        "appointmentNumber": "+8801878115751"
-      },
-      "id": "9c3198cf-7292-40c6-a494-70c7d9cdd820"
+        "appointmentNumber": "+8801878115751Call Now"
+      }
     },
     {
+      "id": "d903e00a-5e5f-44e6-a174-4fade70fd9a1",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-shahidur-rahman-sprc/",
+      "imageId": "e74e4000-d679-41b3-bd73-64686e86d31a",
       "name": "Prof. Dr. Md. Shahidur Rahman",
       "degree": "MBBS, FCPS (Physical Medicine)",
       "specialty": "Physical Medicine (Pain, Arthritis, Paralysis) & Rehabilitation Specialist",
@@ -346,11 +422,14 @@
         "hospital": "SPRC & Neurology Hospital",
         "address": "135, New Eskaton Road (Opposite to Dilu Road), Dhaka - 1000",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801716040807"
-      },
-      "id": "99fc7033-33a0-4975-afb1-a6ffad4b22b6"
+        "appointmentNumber": "+8801716040807Call Now"
+      }
     },
     {
+      "id": "37e44556-aa63-439e-b9a5-ecfd1980c838",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-a-k-azad/",
+      "imageId": "a1b0a959-518c-43e5-b7c7-c478ef9231cc",
       "name": "Dr. A. K. Azad",
       "degree": "MBBS, FCPS (Physical Medicine)",
       "specialty": "Physical Medicine & Rehabilitation Specialist",
@@ -360,25 +439,31 @@
         "hospital": "Padma Diagnostic Center, Malibagh",
         "address": "245/2 New Circular Road, West Malibagh, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8809617444222"
-      },
-      "id": "feac306b-f2ca-48d1-92e6-972a5ab93fbd"
+        "appointmentNumber": "+8809617444222Call Now"
+      }
     },
     {
+      "id": "118c8486-1d84-4e0b-8e45-5f2fa6b1cb14",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-ehsanul-haque-khan/",
+      "imageId": "00cce2e2-80f6-47ec-8c99-474c6d516a36",
       "name": "Dr. Ehsanul Haque Khan",
       "degree": "MBBS, FCPS (Physical Medicine)",
       "specialty": "Arthritis, Pain, Physical Medicine & Rehabilitation Specialist",
       "workplace": "Shaheed Suhrawardy Medical College & Hospital",
-      "info": "Modern Diagnostic Center, Narayanganj\nAddress: 207, Bangabandhu Road, Chashara, Narayanganj – 1400\nVisiting Hour: 5pm to 8pm (Sat, Mon & Wed)\nAppointment: +8801820842293\nCall Now",
+      "info": "Modern Diagnostic Center, Narayanganj Address: 207, Bangabandhu Road, Chashara, Narayanganj – 1400 Visiting Hour: 5pm to 8pm (Sat, Mon & Wed) Appointment: +8801820842293 Call Now",
       "chamber": {
         "hospital": "Health and Hope Hospital",
         "address": "152/2/G, Green Road, Panthapath, Dhaka – 1205",
         "visitingTime": "8.30pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809611996699"
-      },
-      "id": "1af9f7a3-ae3d-4af2-81af-30d73eb19418"
+        "appointmentNumber": "+8809611996699Call Now"
+      }
     },
     {
+      "id": "77e3f99f-b53a-446c-8e05-6dbf603b7de7",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-mohammed-mohiuddin-araf/",
+      "imageId": "2e14ceac-1b74-4a3c-8aab-cc74cf82b446",
       "name": "Dr. Mohammed Mohiuddin Araf",
       "degree": "MBBS (India), MD (AIIMS)",
       "specialty": "Physical Medicine (Acute & Chronic Pain) & Rehabilitation Specialist",
@@ -388,25 +473,31 @@
         "hospital": "Evercare Hospital, Dhaka",
         "address": "Plot # 81, Block # E, Bashundhara R/A, Dhaka",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "10678"
-      },
-      "id": "adec8700-6289-4c4b-a3d2-df4697577851"
+        "appointmentNumber": "10678Call Now"
+      }
     },
     {
+      "id": "691e0375-e18f-4e57-a169-35a035ec03cf",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-muhammad-kamrul-hassan/",
+      "imageId": "17b79a13-0ce9-4c9d-bc07-46d5c74f3412",
       "name": "Dr. Muhammad Kamrul Hassan",
       "degree": "MBBS, FCPS (Physical Medicine)",
       "specialty": "Physical Medicine (Pain, Arthritis, Paralysis, Stroke) Specialist",
       "workplace": "Shahabuddin Medical College & Hospital",
-      "info": "Sono Diagnostic Center, Kushtia\nAddress: Sono Tower, College Mor, Court Para, Kushtia\nVisiting Hour: 9am to 5pm (Only Friday)\nAppointment: +8801930543929\nCall Now",
+      "info": "Sono Diagnostic Center, Kushtia Address: Sono Tower, College Mor, Court Para, Kushtia Visiting Hour: 9am to 5pm (Only Friday) Appointment: +8801930543929 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "996ed774-8a28-48c2-805d-60718f3a67ad"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
+      "id": "c2707382-f3e5-48a2-8cb7-d9ca826726d5",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/prof-dr-shamsun-nahar-physical/",
+      "imageId": "d3349a02-1c53-45ea-9489-afdfd232171b",
       "name": "Prof. Dr. Shamsun Nahar",
       "degree": "MBBS, FCPS (Physical Medicine)",
       "specialty": "Pain, Paralysis & Physical Therapy Specialist",
@@ -416,25 +507,31 @@
         "hospital": "Medinova Medical Services, Dhanmondi",
         "address": "House # 71/A, Road # 5/A, Dhanmondi R/A, Dhaka",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "10658"
-      },
-      "id": "3a254b21-f70a-4963-8087-b0a4e3c9a81e"
+        "appointmentNumber": "10658Call Now"
+      }
     },
     {
+      "id": "2007461f-344b-4408-abe7-a9cb24074a62",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-musa-mohammad-hojaifa/",
+      "imageId": "6554a59e-8e4c-4ce9-809d-6be908da2426",
       "name": "Dr. Musa Mohammad Hojaifa",
       "degree": "MBBS, BCS (Health), CCD (BIRDEM), FCPS (Physical Medicne)",
       "specialty": "Back Pain, Paralysis, Sports Injury & Arthritis Specialist",
       "workplace": "Sheikh Hasina National Institute of Burn & Plastic Surgery",
-      "info": "Islami Bank Hospital, Motijheel\nAddress: 24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka\nVisiting Hour: 5pm to 7pm (Closed: Friday)\nAppointment: +8801727666741\nCall Now",
+      "info": "Islami Bank Hospital, Motijheel Address: 24/B, Outer Circular Road, Shahjahanpur, Motijheel, Dhaka Visiting Hour: 5pm to 7pm (Closed: Friday) Appointment: +8801727666741 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Malibagh",
         "address": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
         "visitingTime": "8.30pm to 9.30pm (Everyday)",
-        "appointmentNumber": "+8801844141717"
-      },
-      "id": "0f5c9f67-502d-4bb7-95cb-64c4dc5be7d3"
+        "appointmentNumber": "+8801844141717Call Now"
+      }
     },
     {
+      "id": "2f7d2a89-258b-4188-b995-ce5e07bcac70",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/prof-dr-ali-emran/",
+      "imageId": "0b2c2a5c-ab80-44bf-b2ae-807cf6cc11b5",
       "name": "Prof. Dr. Ali Emran",
       "degree": "MBBS, FCPS (Physical Medicine)",
       "specialty": "Physical Medicine Specialist",
@@ -444,11 +541,14 @@
         "hospital": "Popular Diagnostic Center, Mirpur",
         "address": "Unit 01, House # 67, Block # C, Section # 06, Mirpur, Dhaka",
         "visitingTime": "6pm to 8.30pm (Everyday)",
-        "appointmentNumber": "+8809666787807"
-      },
-      "id": "d33c76b5-c5a3-4f1c-a922-24b01b3132f4"
+        "appointmentNumber": "+8809666787807Call Now"
+      }
     },
     {
+      "id": "4bc2f991-2537-47b5-86d1-dc3b97877627",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahfuzul-alam/",
+      "imageId": "c1656a84-ac2b-4aca-af35-3f685c8a7d58",
       "name": "Dr. Md. Mahfuzul Alam",
       "degree": "MBBS, BCS (Health), FCPS (Physical Medicine)",
       "specialty": "Arthritis, Pain, Paralysis, Disability & Spine Rehabilitation Specialist",
@@ -458,11 +558,14 @@
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "9.30am to 12pm (Friday)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "c2a4194b-e813-461a-8349-ba87486bed8c"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
+      "id": "1fd11acf-e20b-4c11-8495-806df93c137f",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahmudur-rahman/",
+      "imageId": "2ae5a367-cab2-489b-9416-8ad313189824",
       "name": "Dr. Md. Mahmudur Rahman",
       "degree": "MBBS, FCPS (Physical Medicine)",
       "specialty": "Physical Medicine (Pain, Arthritis, Paralysis) & Rehabilitation Specialist",
@@ -472,25 +575,31 @@
         "hospital": "Ibn Sina Diagnostic Center, Uttara",
         "address": "House # 52, Garib-E-Newaz Avenue, Sector # 13, Uttara, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809610009612"
-      },
-      "id": "4d3180c8-b306-4d04-be75-a4470b4d14c3"
+        "appointmentNumber": "+8809610009612Call Now"
+      }
     },
     {
+      "id": "82da3159-516a-42cf-82fa-f06e307b62ff",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-md-imamur-rashid/",
+      "imageId": "b9b1043b-4c7f-4e40-ac5a-3b5e38d57745",
       "name": "Dr. Md. Imamur Rashid",
       "degree": "MBBS, FCPS (Physical Medicine)",
       "specialty": "Arthritis, Pain, Paralysis & Rheumatic Diseases Specialist",
       "workplace": "Bangabandhu Sheikh Mujib Medical University Hospital",
-      "info": "Popular Diagnostic Center, Narayanganj\nAddress: 231/4, B.B. Road, Chashara, Narayanganj – 1400\nVisiting Hour: 5pm to 8pm (Sun, Tue & Thu)\nAppointment: +8809666787804\nCall Now",
+      "info": "Popular Diagnostic Center, Narayanganj Address: 231/4, B.B. Road, Chashara, Narayanganj – 1400 Visiting Hour: 5pm to 8pm (Sun, Tue & Thu) Appointment: +8809666787804 Call Now",
       "chamber": {
         "hospital": "Khidmah Hospital, Dhaka",
         "address": "C-287/2-3 Khilgaon Bishwa Road, Khilgaon, Dhaka",
         "visitingTime": "3pm to 6pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809606063030"
-      },
-      "id": "b1061608-c932-4d84-8727-a05a94488b4d"
+        "appointmentNumber": "+8809606063030Call Now"
+      }
     },
     {
+      "id": "93cd49aa-4249-4ffd-9f94-63adf72b3d08",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/prof-dr-m-a-rashid/",
+      "imageId": "f3fe6c88-944c-47b4-b310-adbf6fd948fd",
       "name": "Prof. Dr. M. A. Rashid",
       "degree": "MBBS, FCPS (Physical Medicine)",
       "specialty": "Physical Medicine, Pain, Paralysis & Rheumatic Diseases Specialist",
@@ -500,11 +609,14 @@
         "hospital": "Square Hospital, Dhaka",
         "address": "8/F, Kazi Nuruzzaman Road, West Panthapath, Dhaka",
         "visitingTime": "11am to 1pm & 5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "10616"
-      },
-      "id": "9c091195-0441-4dfa-a266-326bb815e33e"
+        "appointmentNumber": "10616Call Now"
+      }
     },
     {
+      "id": "79d556a1-998d-4226-bfd8-c4fa2bfd4d8d",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-md-aminul-alam/",
+      "imageId": "3bd13b45-8c40-4fd4-8637-1083e02fd7b5",
       "name": "Dr. Md. Aminul Alam",
       "degree": "MBBS, FCPS (Physical Medicine & Rehabilitation)",
       "specialty": "Pain, Paralysis, Sports Injury & Physical Medicine Specialist",
@@ -514,11 +626,14 @@
         "hospital": "Islami Bank Central Hospital, Kakrail",
         "address": "30, Anjuman Mofidul Islam Road, Kakrail, Dhaka – 1000",
         "visitingTime": "8pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801810000116"
-      },
-      "id": "eaac9735-a8a9-4a47-bdf2-a8b6682205bc"
+        "appointmentNumber": "+8801810000116Call Now"
+      }
     },
     {
+      "id": "4f703fa7-d310-4079-9770-99a4a6d9363d",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-moinuddin-hossain-khan/",
+      "imageId": "dac1973e-7f23-4075-b00c-39e2cbe0c7a9",
       "name": "Dr. Moinuddin Hossain Khan",
       "degree": "MBBS, BCS (Health), FCPS (Physical Medicine), CCD (BIRDEM)",
       "specialty": "Physical Medicine (Pain, Arthritis, Stroke, Paralysis, Sports Injury) Specialist",
@@ -528,11 +643,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809610010615"
-      },
-      "id": "877710fa-c770-4840-a3cf-fdd669982b11"
+        "appointmentNumber": "+8809610010615Call Now"
+      }
     },
     {
+      "id": "aca2913f-cfce-48d2-87ba-b5d2d36ec9e0",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-md-firoz-hasan/",
+      "imageId": "ef36125a-0873-43f8-a287-09acec236317",
       "name": "Dr. Muhammad Firoz Hasan",
       "degree": "MBBS, FCPS (Physical Medicine)",
       "specialty": "Physical Medicine & Rehabilitation Specialist",
@@ -542,11 +660,14 @@
         "hospital": "Super Medical Hospital, Savar",
         "address": "Near Razzak Plaza, B-119/3, Jaleshwar, Savar, Dhaka",
         "visitingTime": "10am to 2pm (Sat to Thu) & 4pm to 8pm (Fri)",
-        "appointmentNumber": "+8801711266169"
-      },
-      "id": "5eb0eebd-0997-480a-b31f-96484f63e797"
+        "appointmentNumber": "+8801711266169Call Now"
+      }
     },
     {
+      "id": "d471f6db-75c4-4f20-b036-a34925d46fc5",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/prof-dr-farjana-khan-soma/",
+      "imageId": "58aa47a9-276b-4488-83f1-13be5f8dd633",
       "name": "Prof. Dr. Farjana Khan Soma",
       "degree": "MBBS, FCPS (PM&R)",
       "specialty": "Physical Medicine Specialist",
@@ -556,11 +677,14 @@
         "hospital": "Popular Diagnostic Center, Shyamoli",
         "address": "Opposite to Shyamoli Shishu Mela, Babor Road, Mohammadpur, Dhaka",
         "visitingTime": "2pm to 3pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8809666787806"
-      },
-      "id": "746865f4-5f23-4f1e-b881-88bf2e839291"
+        "appointmentNumber": "+8809666787806Call Now"
+      }
     },
     {
+      "id": "9efdbf1d-bf98-49cc-b700-cffd0fad16d5",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-zahid-hossain/",
+      "imageId": "fc9801b4-f8e1-4a9c-aa14-eb609cf43e82",
       "name": "Dr. Zahid Hossain",
       "degree": "MBBS (Dhaka), FCPS (Physical Medicine)",
       "specialty": "Pain, Arthritis, Paralysis & Rehabilitation Medicine Specialist",
@@ -570,11 +694,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "6pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801671086620"
-      },
-      "id": "9c9fc5b9-9d69-42d0-97fd-64f8f5812ab4"
+        "appointmentNumber": "+8801671086620Call Now"
+      }
     },
     {
+      "id": "6563cb12-d80a-4c8a-9bb5-0b2725c21aba",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-ak-azad/",
+      "imageId": "ca97057a-bb23-4940-b38f-c9313a202fa0",
       "name": "Dr. AK Azad",
       "degree": "MBBS, FCPS (Physical Medicine)",
       "specialty": "Physical Medicine & Rehabilitation Specialist",
@@ -584,11 +711,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Doyagonj",
         "address": "28, Hut Lane, Doyagonj, Gandaria, Dhaka - 1204",
         "visitingTime": "4pm to 7pm (Closed: Thursday & Friday)",
-        "appointmentNumber": "+8801878115751"
-      },
-      "id": "a2f5fc0d-0ef7-4b67-99b5-8ba066394039"
+        "appointmentNumber": "+8801878115751Call Now"
+      }
     },
     {
+      "id": "c7c30c02-a5d9-4aa3-96fd-2b3d35f4d3e1",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-md-ahmedur-reza/",
+      "imageId": "585285e5-af3f-4e20-966b-6ced9649c559",
       "name": "Dr. Md. Ahamedur Reza",
       "degree": "MBBS, FCPS (Physical Medicine)",
       "specialty": "Arthritis, Paralysis, Pain & Physical Medicine Specialist",
@@ -598,11 +728,14 @@
         "hospital": "Shin Shin Japan Hospital, Uttara",
         "address": "17, Garib E Nawaz Ave, Sector # 11, Uttara, Dhaka",
         "visitingTime": "4pm to 6pm (Sun, Mon & Tue)",
-        "appointmentNumber": "+8801929478565"
-      },
-      "id": "9048017a-f636-4403-a54f-4c2a07640960"
+        "appointmentNumber": "+8801929478565Call Now"
+      }
     },
     {
+      "id": "c4628ae9-36e8-47d6-a9ca-1aa766d8d1b3",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-prasanta-kumar-chakraborty-2/",
+      "imageId": "e81fc870-105d-4323-80c1-a3b78c4ad6aa",
       "name": "Dr. Prasanta Kumar Chakraborty",
       "degree": "MBBS, FCPS (Physical Medicine)",
       "specialty": "Pain, Arthritis, Paralysis, Rehabilitation, Sports Injury & Physical Medicine Specialist",
@@ -612,11 +745,14 @@
         "hospital": "Delta Hospital, Mirpur",
         "address": "26/2, Principal Abul Kashem Road, Mirpur-1, Dhaka - 1216",
         "visitingTime": "6.30pm to 9pm (Sunday & Thursday)",
-        "appointmentNumber": "+8801301254924"
-      },
-      "id": "1bfbaf9a-d674-46f9-a3a4-41eb3da7ebe4"
+        "appointmentNumber": "+8801301254924Call Now"
+      }
     },
     {
+      "id": "7b2099fb-b3e4-41d6-bd3a-4ddb6f2bd382",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-sanjida-parvin/",
+      "imageId": "b6adfcd4-d231-4713-9e04-d53753c31102",
       "name": "Dr. Sanjida Parvin",
       "degree": "MBBS, BCS (Health), FCPS (Physical Medicine)",
       "specialty": "Physical Medicine Specialist",
@@ -626,11 +762,14 @@
         "hospital": "Aalok Health Care, Kachukhet",
         "address": "Rajanigandha Tower (4th & 5th Floor), Kachukhet, Dhaka",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801725694669"
-      },
-      "id": "46d4cbf1-fe0b-44ca-9807-1b31112b68e2"
+        "appointmentNumber": "+8801725694669Call Now"
+      }
     },
     {
+      "id": "109d5bdf-c23c-40fc-b954-85f1703beee5",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-saifur-ahmed/",
+      "imageId": "8732a211-d11e-4a36-8be5-11e8c61452c5",
       "name": "Dr. Saifur Ahmed",
       "degree": "MBBS, BCS, MD, FCGP, CCD",
       "specialty": "Physical Medicine (Pain, Arthritis, Paralysis, Sports Injury) Specialist",
@@ -640,11 +779,14 @@
         "hospital": "Aalok Health Care, Pallabi",
         "address": "2/6 Begum Rokeya Avenue, Pallabi, Mirpur 11.5, Dhaka",
         "visitingTime": "7pm to 9pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801825002867"
-      },
-      "id": "7836092d-4169-420d-87ee-ca200dc1ce68"
+        "appointmentNumber": "+8801825002867Call Now"
+      }
     },
     {
+      "id": "eacd1832-aff8-459b-a8df-2152b39fb9d3",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-dilir-jamal/",
+      "imageId": "32b3c109-e3da-406d-8beb-d2a339b812c4",
       "name": "Dr. Dilir Jamal",
       "degree": "MBBS (Dhaka), BCS (Health), FCPS (Physical Medicine)",
       "specialty": "Arthritis, Joint Pain, Paralysis, Sports Injury & Physical Medicine Specialist",
@@ -654,11 +796,14 @@
         "hospital": "Central Hospital, Dhanmondi",
         "address": "House # 02, Road # 05, Green Road, Dhanmondi, Dhaka - 1205",
         "visitingTime": "6pm to 9pm (Su, Tues & Thursday)",
-        "appointmentNumber": "+8802-41060800"
-      },
-      "id": "45fce787-81e7-4082-a98b-42f2d2a2b46a"
+        "appointmentNumber": "+8802-41060800Call Now"
+      }
     },
     {
+      "id": "3d95132c-36e4-458c-8289-ef052f1a3455",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-md-golam-nobi/",
+      "imageId": "4206389c-b716-421f-8eb9-ed7054fa6db4",
       "name": "Dr. Md. Golam Nobi",
       "degree": "MBBS, FCPS (Physical Medicine)",
       "specialty": "Pain, Paralysis & Physical Medicine Specialist",
@@ -668,11 +813,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Lalbagh",
         "address": "27/4 Dhakeshwori Road, Lalbagh, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801783356048"
-      },
-      "id": "60345f6e-f2db-485b-8a1e-dca645fc7407"
+        "appointmentNumber": "+8801783356048Call Now"
+      }
     },
     {
+      "id": "ade80631-3e6b-4cfb-be9b-ed91ebd36a77",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-rayhan-hamid/",
+      "imageId": "094c5db2-a5b4-4cb5-bbd8-be4edebc3f20",
       "name": "Dr. Rayhan Hamid",
       "degree": "MBBS, BCS (Health), FCPS (Physical Medicine)",
       "specialty": "Physical Medicine & Rehabilitation Specialist",
@@ -682,11 +830,14 @@
         "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
         "address": "1/1 B, Kallyanpur, Dhaka",
         "visitingTime": "5pm to 7pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801703725590"
-      },
-      "id": "5ab61111-a0f8-40c7-9788-63a8ea5c7c97"
+        "appointmentNumber": "+8801703725590Call Now"
+      }
     },
     {
+      "id": "50f98b2a-7faf-420b-8b64-fb01b0962b78",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/prof-dr-badrunnesa-ahmed/",
+      "imageId": "ee7a92da-372a-4567-b9f1-fed9a1803efb",
       "name": "Prof. Dr. Badrunnesa Ahmed",
       "degree": "MBBS, FCPS (Physical Medicine & Rehabilitation)",
       "specialty": "Physical Medicine & Rehabilitation Specialist",
@@ -696,11 +847,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Badda",
         "address": "Cha-72/1, Progoti Soroni, Uttar Badda, Dhaka - 1212",
         "visitingTime": "6pm to 9pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8809610009614"
-      },
-      "id": "4b4019b6-4749-41b9-bd42-1ef97f4f5bcd"
+        "appointmentNumber": "+8809610009614Call Now"
+      }
     },
     {
+      "id": "1967fae1-a161-4817-af10-8456a589d4ea",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-prasanta-kumar-chakraborty/",
+      "imageId": "8998b365-0c38-40c4-94bd-500031c0eebc",
       "name": "Dr. Prasanta Kumar Chakraborty",
       "degree": "MBBS, BCS (Health), FCPS (Physical Medicine)",
       "specialty": "Physical Medicine & Rehabilitation Specialist",
@@ -710,11 +864,14 @@
         "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
         "address": "1/1 B, Kallyanpur, Dhaka",
         "visitingTime": "4pm to 6pm (Sun, Tue & Thursday)",
-        "appointmentNumber": "+8801703725590"
-      },
-      "id": "90a41400-dcdc-4ddb-a219-185c52254bb8"
+        "appointmentNumber": "+8801703725590Call Now"
+      }
     },
     {
+      "id": "2dffd699-3f27-440a-8fd8-fa69d2d8e719",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-md-tariqul-islam/",
+      "imageId": "4e6f3714-3b90-46e5-94dd-6a54ec7b8219",
       "name": "Dr. Md. Tariqul Islam",
       "degree": "MBBS, FCPS (Physical Medicine & Rehabilitation)",
       "specialty": "Pain, Arthritis, Sports Injury, Neuro & Rheumatological Rehab Specialist",
@@ -724,11 +881,14 @@
         "hospital": "Labaid Specialized Hospital, Dhanmondi",
         "address": "House # 06, Road # 04, Dhanmondi, Dhaka – 1205",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "10606"
-      },
-      "id": "d49ce0fc-9dda-4e2f-84d9-b12b77e5b16a"
+        "appointmentNumber": "10606Call Now"
+      }
     },
     {
+      "id": "70b193ff-c54e-4caf-9caa-5198e5c3467c",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/prof-dr-amitabh-banik/",
+      "imageId": "ad01d418-212e-449e-8c01-d49b7d72ffb5",
       "name": "Dr. Amitav Banik",
       "degree": "MBBS, BCS (Health), FCPS (Physical Medicine)",
       "specialty": "Physical Medicine (Arthritis, Pain, Paralysis, Sports Injury) Specialist",
@@ -738,11 +898,14 @@
         "hospital": "Popular Diagnostic Center, Shyamoli",
         "address": "Opposite to Shyamoli Shishu Mela, Babor Road, Mohammadpur, Dhaka",
         "visitingTime": "3pm to 5pm (Sat, Sun, Tue & Wed)",
-        "appointmentNumber": "+8809666787806"
-      },
-      "id": "181a52f1-5889-47ef-85e3-0d04ad477c9b"
+        "appointmentNumber": "+8809666787806Call Now"
+      }
     },
     {
+      "id": "b08ea644-c2aa-4b55-af4b-933acf8e37f6",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-f-r-al-mahmud/",
+      "imageId": "d7d9bef4-617e-406a-8c3c-4361f0f755ee",
       "name": "Dr. F.R. Al-Mahmud",
       "degree": "MBBS, FCPS",
       "specialty": "Physical Medicine & Rehabilitation Specialist",
@@ -752,11 +915,14 @@
         "hospital": "Popular Diagnostic Center, Uttara (Jasimuddin)",
         "address": "House # 21, Road # 7, Sector # 4, Uttara, Dhaka",
         "visitingTime": "10am to 1pm & 4pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801821895232"
-      },
-      "id": "d14b6f9f-1b56-4ae6-a4e8-b31c9471ddc6"
+        "appointmentNumber": "+8801821895232Call Now"
+      }
     },
     {
+      "id": "29bd8e72-21ab-4ce1-945f-8cff5a4cdc1e",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-h-n-masuk-rahman/",
+      "imageId": "cb9a21e6-bc21-4942-bd72-fffba2a9c8ae",
       "name": "Dr. H.N Masuk Rahman",
       "degree": "MBBS, CCD, FCPS, MACP (USA)",
       "specialty": "Physical Medicine (Pain, Arthritis, Paralysis) & Rehabilitation Specialist",
@@ -766,11 +932,14 @@
         "hospital": "Medinova Medical Services, Mirpur",
         "address": "Plot # 29-30, Block # Kha, Road # 1, Section # 6, Mirpur 10, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801735696339"
-      },
-      "id": "51a766ca-b51b-462e-8ffa-1c919225caeb"
+        "appointmentNumber": "+8801735696339Call Now"
+      }
     },
     {
+      "id": "0555df60-5cd1-45f2-90b2-b167c02bcfbf",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/prof-dr-monirul-islam/",
+      "imageId": "371ace60-cce6-4c86-b8c9-5d7f07457d9d",
       "name": "Prof. Dr. Monirul Islam",
       "degree": "MBBS, FCPS (Physical Medicine)",
       "specialty": "Pain, Arthritis, Paralysis & Rheumatic Diseases Specialist",
@@ -780,11 +949,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "5pm to 10pm (Sat, Sun, Tue & Wed)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "219dde9d-03d1-45df-9bbc-09ed0f4283e9"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "c5cfe4bb-4ca3-4715-9313-4d2947aaf29a",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-a-bivab-bikash-baral/",
+      "imageId": "41772cc7-c974-4d9a-b4c8-db745dcee2fd",
       "name": "Dr. A. Bivab Bikash Baral",
       "degree": "MBBS, BCS (Health), FCPS (Physical Medicine)",
       "specialty": "Physical Medicine (Pain, Arthritis, Stroke, Paralysis, Sports Injury) Specialist",
@@ -794,25 +966,14 @@
         "hospital": "Popular Diagnostic Center, Badda",
         "address": "Cha-90/2, North Badda (Pragoti Sharoni), Dhaka",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787809"
-      },
-      "id": "39b611d4-ada0-461d-85d4-ba65cc49d936"
+        "appointmentNumber": "+8809666787809Call Now"
+      }
     },
     {
-      "name": "Dr. Nuzhat Nuery",
-      "degree": "MBBS (SSMC), BCS (Health), FCPS (Physical Medicine & Rehabilitation), FIPM (India)",
-      "specialty": "Physical Medicine, Rheumatic Diseases, Pain, Paralysis & Rehab Specialist",
-      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
-      "info": "Dr. Nuzhat Nuery is a Physical Medicine Specialist in Dhaka. Her qualification is MBBS (SSMC), BCS (Health), FCPS (Physical Medicine & Rehabilitation), FIPM (India). She is a Medical Officer at Shaheed Suhrawardy Medical College & Hospital. She regularly provides treatment to her patients at Labaid Diagnostic, Uttara (Unit 02). Practicing hour of Dr. Nuzhat Nuery at Labaid Diagnostic, Uttara (Unit 02) is 5.30pm to 7pm (Closed: Friday).",
-      "chamber": {
-        "hospital": "Labaid Diagnostic, Uttara (Unit 02)",
-        "address": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
-        "visitingTime": "5.30pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662050"
-      },
-      "id": "294cdac3-f487-492b-a8b6-c50e1fcef7e1"
-    },
-    {
+      "id": "17c0f920-a097-4fdd-b0d7-553749551999",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-syed-ahmad-refaie/",
+      "imageId": "3ee32c16-e104-4635-b96a-d2c1cbfb9f4c",
       "name": "Dr. Syed Ahmad Refaie",
       "degree": "MBBS, MD (Physical Medicine & Rehabilitation)",
       "specialty": "Physical Medicine (Arthritis, Pain, Paralysis, Sports Injury) & Rehabilitation Specialist",
@@ -822,11 +983,14 @@
         "hospital": "Brac Healthcare Limited, Kazipara, Mirpur",
         "address": "840, Kazipara, Begum Rokeya Shoroni, Mirpur, Dhaka - 1216",
         "visitingTime": "8pm to 10pm (Sun, Mon & Wednesday)",
-        "appointmentNumber": "+8809678191911"
-      },
-      "id": "cee19670-9f90-4056-a782-58c542046b1f"
+        "appointmentNumber": "+8809678191911Call Now"
+      }
     },
     {
+      "id": "bf702362-b082-4dcf-aa2d-278efdb800ce",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-md-shakil-younus/",
+      "imageId": "bec6622f-e0e2-4e90-bf50-0b66fa7111c7",
       "name": "Dr. Md. Shakil Younus",
       "degree": "MBBS (DMC), FCPS (Physical Medicine), DLP (BIRDEM)",
       "specialty": "Rheumatic Pain, Paralysis, Arthritis, Diabetic, Neuropathy & Medicine Specialist",
@@ -836,9 +1000,25 @@
         "hospital": "Labaid Diagnostic, Uttara (Unit 02)",
         "address": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766662050"
-      },
-      "id": "ae23e02f-03ca-46aa-b39f-59d5bec19bd5"
+        "appointmentNumber": "+8801766662050Call Now"
+      }
+    },
+    {
+      "id": "fe56eb4b-10e1-4d38-99f6-f26ad4e39a5d",
+      "departmentId": "e1649f43-3b95-41b3-ac82-308a2ce29c26",
+      "link": "https://www.doctorbangladesh.com/dr-nuzhat-nuery/",
+      "imageId": "8126a098-c7f5-4223-a954-3b494556dd90",
+      "name": "Dr. Nuzhat Nuery",
+      "degree": "MBBS (SSMC), BCS (Health), FCPS (Physical Medicine & Rehabilitation), FIPM (India)",
+      "specialty": "Physical Medicine, Rheumatic Diseases, Pain, Paralysis & Rehab Specialist",
+      "workplace": "Shaheed Suhrawardy Medical College & Hospital",
+      "info": "Dr. Nuzhat Nuery is a Physical Medicine Specialist in Dhaka. Her qualification is MBBS (SSMC), BCS (Health), FCPS (Physical Medicine & Rehabilitation), FIPM (India). She is a Medical Officer at Shaheed Suhrawardy Medical College & Hospital. She regularly provides treatment to her patients at Labaid Diagnostic, Uttara (Unit 02). Practicing hour of Dr. Nuzhat Nuery at Labaid Diagnostic, Uttara (Unit 02) is 5.30pm to 7pm (Closed: Friday).",
+      "chamber": {
+        "hospital": "Labaid Diagnostic, Uttara (Unit 02)",
+        "address": "House # 19, Garib E Nawaz Avenue, Sector 13, Uttara, Dhaka",
+        "visitingTime": "5.30pm to 7pm (Closed: Friday)",
+        "appointmentNumber": "+8801766662050Call Now"
+      }
     }
   ]
 }

@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "679e2489-a188-477f-be75-3bb66f4af5c6",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-nurul-momin/",
+      "imageId": "ac707848-0457-4ee5-9541-43480289f118",
       "name": "Dr. Mohammad Nurul Momin",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "Specialist General & Laparoscopic Surgeon",
@@ -10,11 +14,14 @@
         "hospital": "Asperia Health Care Ltd, Chittagong",
         "address": "Al-Noor Badrun Centre, 1486/1672, OR Nizam Road, Probartak Circle, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801810-004550"
-      },
-      "id": "c42ae365-3797-493b-b4d5-86afcf3a25e2"
+        "appointmentNumber": "+8801810-004550Call Now"
+      }
     },
     {
+      "id": "56de1ff6-3ce5-483d-943f-82d95520404e",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-syed-md-muhsin/",
+      "imageId": "af9bc3bb-f1ac-4710-9c11-a2ccb5d16f3c",
       "name": "Dr. Syed Md. Muhsin",
       "degree": "MBBS, MCPS, MS (Surgery), FRCS (Hon.), FACS (Hon.), FMAS",
       "specialty": "General and Laparoscopic Surgeon",
@@ -24,39 +31,48 @@
         "hospital": "Surgiscope Hospital, Chittagong",
         "address": "Unit 2, 445/466, Katalgonj, Chawkbazar, Chattogram – 4203",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801711946412"
-      },
-      "id": "4157c6ba-c321-4a53-b27d-a8ce96ee3c5a"
+        "appointmentNumber": "+8801711946412Call Now"
+      }
     },
     {
+      "id": "9ce89b46-157c-41c5-8b53-45576372889f",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-abdus-salam/",
+      "imageId": "bdebffeb-2e08-43a5-9ae4-106612492a7f",
       "name": "Dr. Abdus Salam",
       "degree": "MBBS, BCS (Health), FCPS (Surgery), MS (Urology)",
       "specialty": "Urology (Kidney, Prostate, Ureters, Stone) Specialist & Laparoscopic Surgeon",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "National Hospital, Chittagong\nAddress: 14/15, Dampara Lane, Mehedibag, Chattogram\nVisiting Hour: 3pm to 4pm (Sat, Mon & Wed)\nAppointment: +8801822685066\nCall Now",
+      "info": "National Hospital, Chittagong Address: 14/15, Dampara Lane, Mehedibag, Chattogram Visiting Hour: 3pm to 4pm (Sat, Mon & Wed) Appointment: +8801822685066 Call Now",
       "chamber": {
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 8pm (Closed: Monday & Friday)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "144d7a58-3948-451e-bf2e-6ddf60afe66e"
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "5bf40276-3512-4ab4-a517-5a01d70eb677",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-g-m-zakir-hossain/",
+      "imageId": "210010f2-c8e0-47af-9e33-5a9296a5378e",
       "name": "Prof. Dr. G. M. Zakir Hossain",
       "degree": "MBBS, FCPS (Surgery), FCPS (Urology), FRCS (Glassgow)",
       "specialty": "General & Urological Surgeon",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Chittagong\nAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 3pm to 6pm (Closed: Friday)\nAppointment: +8809666787810\nCall Now",
+      "info": "Popular Diagnostic Center, Chittagong Address: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram Visiting Hour: 3pm to 6pm (Closed: Friday) Appointment: +8809666787810 Call Now",
       "chamber": {
         "hospital": "Lancet Diagnostic Center, Chittagong",
         "address": "106/B, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801552674425"
-      },
-      "id": "d5e5aed1-fbf1-4914-9aaf-59d8972f8346"
+        "appointmentNumber": "+8801552674425Call Now"
+      }
     },
     {
+      "id": "eaa122b7-224b-420c-a9e3-fcbc777f3506",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-khondker-a-k-azad/",
+      "imageId": "3a94e331-ef9d-4ab8-bc5a-c36f3083b520",
       "name": "Prof. Dr. Khondker A.K. Azad",
       "degree": "MBBS, BCS (Health), FCPS (Surgery), FRCS (UK)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -66,11 +82,14 @@
         "hospital": "CSCR Hospital, Chittagong",
         "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
         "visitingTime": "6.30pm to 9pm (Sun, Tue & Wed)",
-        "appointmentNumber": "+8801887656565"
-      },
-      "id": "6611bfbd-1dc2-42c9-a0e7-0f6e0547b9a3"
+        "appointmentNumber": "+8801887656565Call Now"
+      }
     },
     {
+      "id": "80350f8e-2a2c-419d-9b55-d8d439f3c5a4",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-sakera-ahmed/",
+      "imageId": "bf863206-6b16-40a8-b42a-a1208e22e565",
       "name": "Dr. Sakera Ahmed",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General, Laparoscopic, Breast & Colorectal Surgeon",
@@ -80,25 +99,31 @@
         "hospital": "CSCR Hospital, Chittagong",
         "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
         "visitingTime": "4pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801781882776"
-      },
-      "id": "ef8c9381-95ef-4060-ad9d-a243dcbb5815"
+        "appointmentNumber": "+8801781882776Call Now"
+      }
     },
     {
+      "id": "3e022b50-5128-4cc0-89be-e824f971d9e1",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-shagorika-sharmeen/",
+      "imageId": "69588b34-7720-4777-a765-76b7127d2852",
       "name": "Dr. Shagorika Sharmeen",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General, Breast & Colorectal Surgery Specialist",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Lancet Diagnostic Center, Chittagong\nAddress: 106/B, K.B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 7pm to 10pm (Closed: Friday)\nAppointment: +8801552674425\nCall Now",
+      "info": "Lancet Diagnostic Center, Chittagong Address: 106/B, K.B. Fazlul Kader Road, Panchlaish, Chattogram Visiting Hour: 7pm to 10pm (Closed: Friday) Appointment: +8801552674425 Call Now",
       "chamber": {
         "hospital": "Chevron Clinical Laboratory, Chittagong",
         "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "10am to 1pm (Closed: Friday)",
-        "appointmentNumber": "+8801755666969"
-      },
-      "id": "b0007be4-7ca6-4311-bf58-626e8bbd8da1"
+        "appointmentNumber": "+8801755666969Call Now"
+      }
     },
     {
+      "id": "74a7b837-999c-4408-b026-f34ea17a0bef",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-najma-mahboob/",
+      "imageId": "e02715a7-1ef8-4cde-bf0e-6147ebab4af4",
       "name": "Dr. Najma Mahboob",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General, Breast, Colorectal & Laparoscopic Surgeon",
@@ -108,25 +133,31 @@
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "6.30pm to 9pm (Closed: Friday & Saturday)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "225db2d3-081d-460c-b282-55657085cb79"
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "008c8809-27f2-458f-afd3-486c15c4c5ff",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-md-nur-hossain-bhuiyan-shahin/",
+      "imageId": "760f6f05-e7d3-4c48-ac99-488291e43933",
       "name": "Prof. Dr. Md. Nur Hossain Bhuiyan",
       "degree": "MBBS, FCPS (Surgery), FMAS (India), FACS (USA), FRCS (UK)",
       "specialty": "General, Colorectal, Endo-Laparoscopic & Laser Surgeon",
       "workplace": "Dhaka Medical College & Hospital",
-      "info": "Medical Centre Hospital, Chittagong\nAddress: 953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram\nVisiting Hour: 6pm to 9pm (Thursday & Friday)\nAppointment: +88031658501\nCall Now",
+      "info": "Medical Centre Hospital, Chittagong Address: 953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram Visiting Hour: 6pm to 9pm (Thursday & Friday) Appointment: +88031658501 Call Now",
       "chamber": {
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "3pm to 6pm (Sun, Mon & Tue)",
-        "appointmentNumber": "+8801753291984"
-      },
-      "id": "b6bf2e6e-dd35-4e5c-8090-c01b4bd72266"
+        "appointmentNumber": "+8801753291984Call Now"
+      }
     },
     {
+      "id": "e580e73b-31b6-4a42-b7ca-d8feb2264fc9",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-masud-karim/",
+      "imageId": "48b01067-c3ac-4dab-8360-361d168cf20a",
       "name": "Dr. Mohammad Masud Karim",
       "degree": "MBBS, BCS (Health), FCPS (Surgery), FMAS (India)",
       "specialty": "General, Laparoscopic, Hepatobiliary & Colorectal Surgeon",
@@ -136,25 +167,31 @@
         "hospital": "Chevron Clinical Laboratory, Chittagong",
         "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801755666969"
-      },
-      "id": "6da03a4a-e4eb-4bdb-a4cd-bebce212674e"
+        "appointmentNumber": "+8801755666969Call Now"
+      }
     },
     {
+      "id": "36c23cda-82b8-4981-b431-d81c588559b1",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-prabir-chowdhury/",
+      "imageId": "d6b53c47-c696-407a-a632-c14d574f1aa0",
       "name": "Dr. Prabir Chowdhury",
       "degree": "MBBS, MCPS (Surgery), FCPS (Surgery)",
       "specialty": "General & Pediatric Surgeon",
       "workplace": "Bangabandhu Memorial Hospital, USTC, Chittagong",
-      "info": "Shajinaz Hospital Ltd.\nAddress: Arefin Nagar, Bayezid Link Road, Bayezid Bostami, Chattogram\nVisiting Hour: 2pm to 5pm (Only Thursday)\nAppointment: +8801886-338811\nCall Now",
+      "info": "Shajinaz Hospital Ltd. Address: Arefin Nagar, Bayezid Link Road, Bayezid Bostami, Chattogram Visiting Hour: 2pm to 5pm (Only Thursday) Appointment: +8801886-338811 Call Now",
       "chamber": {
         "hospital": "Doctors Lab, Chittagong",
         "address": "131, KB Fazlul Kader Road, Probortok More, Panchlaish, Chattogram",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801940876810"
-      },
-      "id": "e89c15d8-4621-48e1-a2c3-4968b6687c71"
+        "appointmentNumber": "+8801940876810Call Now"
+      }
     },
     {
+      "id": "356fe65f-1e70-44a8-9020-c0d6a907fc59",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-jasmin-begum/",
+      "imageId": "318eb5b3-bd4e-452b-b196-742d428286b9",
       "name": "Dr. Jasmin Begum",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General & Breast Cancer Surgery Specialist",
@@ -164,11 +201,14 @@
         "hospital": "Max Hospital & Diagnostic, Chittagong",
         "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801713998199"
-      },
-      "id": "e1f1a20f-69e8-41bf-9fb5-f11ae91d714a"
+        "appointmentNumber": "+8801713998199Call Now"
+      }
     },
     {
+      "id": "6f628d09-2298-4e71-bfee-6a87f9cf0af0",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-bijan-kumar-nath/",
+      "imageId": "4fa25695-5c87-46a9-89d3-ca1e1eeeb7b2",
       "name": "Dr. Bijan Kumar Nath",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General & Laparoscopic Specialist Surgeon",
@@ -178,39 +218,48 @@
         "hospital": "Metro Diagnostic Center, Chittagong",
         "address": "Metro Tower, Goal Pahar Mor, Mehedibag, Chattogram",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801823378189"
-      },
-      "id": "3efb47c5-f2c2-4b04-ae15-1cee78aa768b"
+        "appointmentNumber": "+8801823378189Call Now"
+      }
     },
     {
+      "id": "bb35bbe4-19c3-41d1-8d24-31a188eefad6",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-sayera-banu-sheuly/",
+      "imageId": "bbb49c2f-adce-41b8-9c2a-ace194225436",
       "name": "Dr. Sayera Banu Sheuly",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General, Colorectal, Breast & Laparoscopic Surgeon",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Medical Centre Hospital, Chittagong\nAddress: 953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram\nVisiting Hour: 4pm to 6pm (Closed: Friday)\nAppointment: +8801783558161\nCall Now",
+      "info": "Medical Centre Hospital, Chittagong Address: 953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram Visiting Hour: 4pm to 6pm (Closed: Friday) Appointment: +8801783558161 Call Now",
       "chamber": {
         "hospital": "Islami Bank Hospital, Chittagong",
         "address": "3, Sheikh Mujib Road, Agrabad, Chittagong",
         "visitingTime": "3pm to 5pm (Only Wednesday)",
-        "appointmentNumber": "+8801731253990"
-      },
-      "id": "2aa153bd-63ef-4a9a-a385-99a6aa5467a8"
+        "appointmentNumber": "+8801731253990Call Now"
+      }
     },
     {
+      "id": "3493eafe-1ffb-40ba-a84f-6e339438fa1f",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/prof-dr-shib-sankar-saha/",
+      "imageId": "14f66f90-fa9a-42f7-8ec5-9ef7cfa60747",
       "name": "Prof. Dr. Shib Sankar Saha",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Colorectal & Laparoscopic Surgeon",
       "workplace": "Bangabandhu Memorial Hospital, USTC, Chittagong",
-      "info": "Royal Hospital & Bellevue Chittagong\nAddress: 1530/A, O.R. Nizam Road, GEC More, Panchlaish, Chattogram\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +880241355934\nCall Now",
+      "info": "Royal Hospital & Bellevue Chittagong Address: 1530/A, O.R. Nizam Road, GEC More, Panchlaish, Chattogram Visiting Hour: Unknown. Please call to know visiting hour Appointment: +880241355934 Call Now",
       "chamber": {
         "hospital": "Max Hospital & Diagnostic, Chittagong",
         "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801713998199"
-      },
-      "id": "ce294a67-c095-4fd6-959b-08bae619d10a"
+        "appointmentNumber": "+8801713998199Call Now"
+      }
     },
     {
+      "id": "7f04b3c4-e0d5-4a2d-b05a-c744791358ed",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-mina-ahmed/",
+      "imageId": "95d5aa14-8bb9-48a8-a2a1-756a51ee11ce",
       "name": "Dr. Mina Ahmed",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General Surgeon",
@@ -220,11 +269,14 @@
         "hospital": "Epic Healthcare, Chittagong",
         "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "7pm to 9pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801984499600"
-      },
-      "id": "0d20e3e7-dfe4-4288-b8ec-6097faefda15"
+        "appointmentNumber": "+8801984499600Call Now"
+      }
     },
     {
+      "id": "4386c517-9db4-471b-b748-c5883b4a92ed",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-mazharul-haque-nasim/",
+      "imageId": "a31ce8d2-b18f-41ab-99ea-77583daedf93",
       "name": "Prof. Dr. Md. M. H. Nasim",
       "degree": "MBBS, FCPS (Surgery), MS (Urology)",
       "specialty": "General, Laparoscopic, Colorectal & Urological Surgeon",
@@ -234,53 +286,65 @@
         "hospital": "National Hospital, Chittagong",
         "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801822685066"
-      },
-      "id": "3efeafbf-e30c-4882-aa49-dd529d697bc7"
+        "appointmentNumber": "+8801822685066Call Now"
+      }
     },
     {
+      "id": "608a8405-297c-495f-8260-506d8b117ba6",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-tazdina-hoque-khan/",
+      "imageId": "90e26188-4589-48bf-8de7-775d328a85d1",
       "name": "Dr. Tazdina Hoque Khan",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General, Laparoscopic, Colorectal & Breast Specialist Surgeon",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "CSCR Hospital, Chittagong\nAddress: CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram\nVisiting Hour: 3pm to 6.30pm (Closed: Friday)\nAppointment: +8801872090677\nCall Now",
+      "info": "CSCR Hospital, Chittagong Address: CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram Visiting Hour: 3pm to 6.30pm (Closed: Friday) Appointment: +8801872090677 Call Now",
       "chamber": {
         "hospital": "Chattogram Metropolitan Hospital",
         "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801814651077"
-      },
-      "id": "6def598d-cf10-4f31-8cb8-248c9f2c4d24"
+        "appointmentNumber": "+8801814651077Call Now"
+      }
     },
     {
+      "id": "96ee0b3f-34f7-4a62-819f-6aa5e55349e2",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-raihana-ahmed/",
+      "imageId": "0f847663-361e-49cc-b99a-3e30afb77551",
       "name": "Dr. Raihana Ahmed",
       "degree": "MBBS, BCS (Health), MS (Surgery)",
       "specialty": "Breast, General, Laparoscopic & Colorectal Surgery Specialist",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Labaid Specialized Hospital, Chattogram\nAddress: 3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram\nVisiting Hour: 7.30pm to 9.30pm (Sat, Mon & Wed)\nAppointment: +8801766662828\nCall Now",
+      "info": "Labaid Specialized Hospital, Chattogram Address: 3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram Visiting Hour: 7.30pm to 9.30pm (Sat, Mon & Wed) Appointment: +8801766662828 Call Now",
       "chamber": {
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "3pm to 6pm (Closed: Saturday)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "39251177-b784-400c-b2c5-a3c88b2dc996"
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "b1789c23-37f3-4770-b535-e22a80f66ec7",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-md-mokhlesur-rahman/",
+      "imageId": "6a0de085-6159-4d33-b8a4-2e03a1d5ecc0",
       "name": "Prof. Dr. Md. Mokhlesur Rahman",
       "degree": "MBBS, MS (General Surgery)",
       "specialty": "General, Laparoscopic & Colorectal Surgeon",
       "workplace": "Chattogram International Medical College & Hospital",
-      "info": "Chattogram Metropolitan Hospital\nAddress: 698/752, O.R. Nizam Road, Panchlaish, Chattogram\nVisiting Hour: 7pm to 10pm (Closed: Friday)\nAppointment: +8801814651077\nCall Now",
+      "info": "Chattogram Metropolitan Hospital Address: 698/752, O.R. Nizam Road, Panchlaish, Chattogram Visiting Hour: 7pm to 10pm (Closed: Friday) Appointment: +8801814651077 Call Now",
       "chamber": {
         "hospital": "Islami Bank Hospital, Chittagong",
         "address": "3, Sheikh Mujib Road, Agrabad, Chittagong",
         "visitingTime": "2pm to 3pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801731253990"
-      },
-      "id": "d12567a3-f082-48fc-a2e1-1509a58e4984"
+        "appointmentNumber": "+8801731253990Call Now"
+      }
     },
     {
+      "id": "28561b6e-0cb9-4924-905b-0690c25a6344",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-md-saiful-haque/",
+      "imageId": "805ca48d-7f21-4ccb-b219-28bab02ee1a6",
       "name": "Dr. Md. Saiful Haque",
       "degree": "MBBS, FCPS, FMAS (India), FRCS (Glasgow, UK)",
       "specialty": "General, Laparoscopic & Colorectal Surgeon",
@@ -290,25 +354,31 @@
         "hospital": "Popular Diagnostic Center, Chittagong",
         "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "7pm to 10pm (Sat, Tue, Wed & Thursday)",
-        "appointmentNumber": "+8809666787810"
-      },
-      "id": "9fca2c10-e98e-4f90-b7aa-47dbfe309be8"
+        "appointmentNumber": "+8809666787810Call Now"
+      }
     },
     {
+      "id": "26ae3ba1-8c30-4927-81b4-cef9933ede06",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-anwarul-haque/",
+      "imageId": "d6c2dd50-274b-4500-aa75-0fdf3ee642ae",
       "name": "Prof. Dr. Md. Anwarul Haque",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General, Colorectal (Piles) & Laparoscopic Surgeon",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Doctors Lab, Chittagong\nAddress: 131, KB Fazlul Kader Road, Probortok More, Panchlaish, Chattogram\nVisiting Hour: 4pm to 8pm (Closed: Friday)\nAppointment: +8801940876810\nCall Now",
+      "info": "Doctors Lab, Chittagong Address: 131, KB Fazlul Kader Road, Probortok More, Panchlaish, Chattogram Visiting Hour: 4pm to 8pm (Closed: Friday) Appointment: +8801940876810 Call Now",
       "chamber": {
         "hospital": "Epic Healthcare, Chittagong",
         "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801984499600"
-      },
-      "id": "dd6ab18f-035a-4522-b57a-3f4b4d2e80c0"
+        "appointmentNumber": "+8801984499600Call Now"
+      }
     },
     {
+      "id": "ba17094d-9741-4c6c-a154-a1a14d5c623f",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-matiar-rahman-khan/",
+      "imageId": "3a92d381-3c63-4343-9665-473f55f04c01",
       "name": "Prof. Dr. Md. Matiar Rahaman Khan",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Colorectal & Laparoscopic Specialist Surgeon",
@@ -318,11 +388,14 @@
         "hospital": "People's Hospital, Chittagong",
         "address": "94, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+88031658911"
-      },
-      "id": "63b37840-682a-4077-98e9-8733f1290536"
+        "appointmentNumber": "+88031658911Call Now"
+      }
     },
     {
+      "id": "78874b47-6e74-4864-8b60-2f4a0e7c8192",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-tahira-benzir/",
+      "imageId": "3255bd03-9dfd-4226-87f8-bf6abf1bcf93",
       "name": "Dr. Tahira Benzir",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General, Laparoscopic Colorectal & Breast Specialist Surgeon",
@@ -332,11 +405,14 @@
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801976022111"
-      },
-      "id": "d63cb08a-b36d-4430-a06f-3f8ca300da4f"
+        "appointmentNumber": "+8801976022111Call Now"
+      }
     },
     {
+      "id": "d42ebbae-cb07-4100-afdc-c1a87657c63f",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-md-sanaullah-shelly/",
+      "imageId": "6b0d9f07-9aa3-462b-b8f6-d1cb29727456",
       "name": "Dr. Md. Sanaullah Shelly",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "Endolaparoscopic, Colorectal & Bariatric Specialist Surgeon",
@@ -346,25 +422,31 @@
         "hospital": "CSCR Hospital, Chittagong",
         "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
         "visitingTime": "6.30pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801887656565"
-      },
-      "id": "9e573398-14b6-4453-b2de-523da4ee9d57"
+        "appointmentNumber": "+8801887656565Call Now"
+      }
     },
     {
+      "id": "8ac70c36-f29f-4643-88c9-f04be30e1a76",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-zakir-hossain-bhuiyan/",
+      "imageId": "84a51975-1997-4fad-b5f2-0549142cbc1e",
       "name": "Dr. Mohammad Zakir Hossain Bhuiyan",
       "degree": "MBBS, BCS (Health), MCPS (Surgery), MS (Chest), FMAS (India)",
       "specialty": "Chest Diseases Specialist & Esophageal Surgeon",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Popular Diagnostic Center, Chittagong\nAddress: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram\nVisiting Hour: 6pm to 7pm (Closed: Tue & Friday)\nAppointment: +8809666787810\nCall Now",
+      "info": "Popular Diagnostic Center, Chittagong Address: 20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram Visiting Hour: 6pm to 7pm (Closed: Tue & Friday) Appointment: +8809666787810 Call Now",
       "chamber": {
         "hospital": "National Hospital, Chittagong",
         "address": "14/15, Dampara Lane, Mehedibag, Chattogram",
         "visitingTime": "7pm to 10pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801822685066"
-      },
-      "id": "543d2cba-48a2-437a-9e7a-1a21fb1602af"
+        "appointmentNumber": "+8801822685066Call Now"
+      }
     },
     {
+      "id": "7c1f366a-6605-4f34-bb9f-82400df56dc3",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/prof-dr-jashim-uddin-ahmed/",
+      "imageId": "ffabeb32-c970-43db-951a-766b1566b078",
       "name": "Prof. Dr. Jashim Uddin Ahmed",
       "degree": "MBBS, FCPS (Surgery), FMAS (India)",
       "specialty": "Surgery Specialist",
@@ -374,67 +456,82 @@
         "hospital": "Chattogram Metropolitan Hospital",
         "address": "698/752, O.R. Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "3pm to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801814651077"
-      },
-      "id": "88f22a86-b69e-47b3-a726-6417bfffd738"
+        "appointmentNumber": "+8801814651077Call Now"
+      }
     },
     {
+      "id": "c2d0a607-3b8d-4227-a463-c16ec071c494",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-pradip-kumar-nath/",
+      "imageId": "426991bb-f4ed-408d-bdac-cff928b9e774",
       "name": "Dr. Pradip Kumar Nath",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General & Laparoscopic Surgeon",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Medical Centre Hospital, Chittagong\nAddress: 953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram\nVisiting Hour: 7pm to 9pm (Closed: Thursday & Friday)\nAppointment: +8801783558161\nCall Now",
+      "info": "Medical Centre Hospital, Chittagong Address: 953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram Visiting Hour: 7pm to 9pm (Closed: Thursday & Friday) Appointment: +8801783558161 Call Now",
       "chamber": {
         "hospital": "Chevron Clinical Laboratory, Chittagong",
         "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801755666969"
-      },
-      "id": "ebdf9a1e-f1fd-4e59-a1e3-41037a698f42"
+        "appointmentNumber": "+8801755666969Call Now"
+      }
     },
     {
+      "id": "86425022-ac85-4c43-8707-dd1088001fe8",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-md-nurul-amin-bhuiyan/",
+      "imageId": "2e8ca175-ea79-4b8b-baca-39ed49a13489",
       "name": "Dr. Md. Nurul Amin Bhuiyan",
       "degree": "MBBS (CMC), BCS (Health), FCPS (Surgery)",
       "specialty": "General, Laparoscopic & Colorectal Surgery Specialist",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Medical Centre Hospital, Chittagong\nAddress: 953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram\nVisiting Hour: 5pm to 7pm (Closed: Friday)\nAppointment: +88031658501\nCall Now",
+      "info": "Medical Centre Hospital, Chittagong Address: 953, O.R. Nizam Road, GEC Mor, Panchlaish, Chattogram Visiting Hour: 5pm to 7pm (Closed: Friday) Appointment: +88031658501 Call Now",
       "chamber": {
         "hospital": "CSCR Hospital, Chittagong",
         "address": "CSCR Bhaban, 1675/A, O.R. Nizam Road, Chattogram",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801887656565"
-      },
-      "id": "737d6cd1-86e9-4f1e-aaa0-5086638c5cd4"
+        "appointmentNumber": "+8801887656565Call Now"
+      }
     },
     {
+      "id": "a802f4e3-6f33-4e47-ac07-65c542ace03f",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-mayin-uddin-mahmud/",
+      "imageId": "d243334e-1edc-40cd-9605-70b875c53f0f",
       "name": "Dr. Mayin Uddin Mahmud",
       "degree": "MBBS, BCS (Health), FCPS (Surgery), FMAS (India)",
       "specialty": "General, Colorectal & Laparoscopic Surgeon",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Max Hospital & Diagnostic, Chittagong\nAddress: 35/36, Mehedibag Road, Chawkbazar, Chattogram\nVisiting Hour: 8pm to 9.30pm (Closed: Thu & Friday)\nAppointment: +8801770736139\nCall Now",
+      "info": "Max Hospital & Diagnostic, Chittagong Address: 35/36, Mehedibag Road, Chawkbazar, Chattogram Visiting Hour: 8pm to 9.30pm (Closed: Thu & Friday) Appointment: +8801770736139 Call Now",
       "chamber": {
         "hospital": "Epic Healthcare, Chittagong",
         "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "2.30pm to 4pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801770736139"
-      },
-      "id": "b8918a55-edf3-48b9-bc3f-3afd063edf99"
+        "appointmentNumber": "+8801770736139Call Now"
+      }
     },
     {
+      "id": "7b8733f9-0f59-4a0b-bd52-2b667154b8d4",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-md-surman-ali/",
+      "imageId": "d122e182-ca49-417f-b136-2ac88bd5076d",
       "name": "Dr. Md. Surman Ali",
       "degree": "MBBS, FCPS (Surgery), MS (Urology)",
       "specialty": "General, Colorectal & Laparoscopic Specialist Surgeon",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Evercare Hospital, Chattogram\nAddress: H1, Ananna R/A, CDA, Hathazari, Chattogram\nVisiting Hour: 9am to 5pm (Closed: Friday)\nAppointment: +8809610810663\nCall Now",
+      "info": "Evercare Hospital, Chattogram Address: H1, Ananna R/A, CDA, Hathazari, Chattogram Visiting Hour: 9am to 5pm (Closed: Friday) Appointment: +8809610810663 Call Now",
       "chamber": {
         "hospital": "Max Hospital & Diagnostic, Chittagong",
         "address": "35/36, Mehedibag Road, Chawkbazar, Chattogram",
         "visitingTime": "6pm to 8.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801713998199"
-      },
-      "id": "65c3fd7d-17d1-46c3-a057-722d7ce80572"
+        "appointmentNumber": "+8801713998199Call Now"
+      }
     },
     {
+      "id": "85ee9992-63fe-4f66-a1c3-d42aded291ee",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-ahsanul-abedin/",
+      "imageId": "695dd86a-3775-4d43-af8d-fa844005e810",
       "name": "Dr. Md. Ahsanul Abedin",
       "degree": "MBBS, BCS (Health), MCPS (Surgery), FCPS (Surgery), FACS (USA), FMAS (India)",
       "specialty": "General, Laparoscopic & Colorectal Surgery Specialist",
@@ -444,11 +541,14 @@
         "hospital": "CSCR Hospital, Chittagong",
         "address": "Room 400, Block # B, 1675/A, O.R. Nizam Road, Chattogram",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801814055221"
-      },
-      "id": "47efdf63-d6bc-4148-8c65-3889cb0f2da1"
+        "appointmentNumber": "+8801814055221Call Now"
+      }
     },
     {
+      "id": "4c330676-1d73-4794-b932-0d5a980c30de",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-ershad-alam/",
+      "imageId": "4808e1ef-b083-4250-bdbe-c19b608e89c4",
       "name": "Dr. Mohammad Ershad Alam",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General, Colorectal & Laparoscopic Surgery Specialist",
@@ -458,25 +558,31 @@
         "hospital": "Treatment Hospital, Chittagong",
         "address": "100, O.R. Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "8pm to 10pm (Closed: Saturday & Wednesday)",
-        "appointmentNumber": "+880312557925"
-      },
-      "id": "d4dbd8dc-e43b-483e-a8d0-5becbc4572cf"
+        "appointmentNumber": "+880312557925Call Now"
+      }
     },
     {
+      "id": "a8541da9-9b42-49e1-ba68-c12a1442c7e5",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-shantanu-biswas/",
+      "imageId": "28f664d0-fba3-4030-8cb3-96b58c9f9b97",
       "name": "Dr. Shantanu Biswas",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "Gastrointestinal, Hepatobiliary & Pancreatic Specialist Surgeon",
       "workplace": "National Gastroliver Institute & Hospital",
-      "info": "Max Hospital & Diagnostic, Chittagong\nAddress: 35/36, Mehedibag Road, Chawkbazar, Chattogram\nVisiting Hour: 7pm to 9pm (Thursday & Friday) & 10am to 12pm (Friday)\nAppointment: +8801713998199\nCall Now",
+      "info": "Max Hospital & Diagnostic, Chittagong Address: 35/36, Mehedibag Road, Chawkbazar, Chattogram Visiting Hour: 7pm to 9pm (Thursday & Friday) & 10am to 12pm (Friday) Appointment: +8801713998199 Call Now",
       "chamber": {
         "hospital": "SIBL Foundation Hospital & Diagnostic Center",
         "address": "Fattah Plaza, 70, Green Road, Panthapath, Dhaka - 1205",
         "visitingTime": "5pm to 7pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801538104977"
-      },
-      "id": "7f2d94e7-ace3-4290-a313-9adb7bc980b3"
+        "appointmentNumber": "+8801538104977Call Now"
+      }
     },
     {
+      "id": "4edb668e-2277-4fc1-ad00-4257bda4c2a8",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/prof-dr-s-m-ashraf-ali/",
+      "imageId": "3a396b03-7cf1-47d7-923e-1cbeb9542942",
       "name": "Prof. Dr. S.M. Ashraf Ali",
       "degree": "MBBS, FCPS (Surgery), FMAS (India), FACS (USA)",
       "specialty": "General & Advanced Laparoscopic Surgeon",
@@ -486,11 +592,14 @@
         "hospital": "Royal Hospital, Chittagong",
         "address": "1530/A, O.R. Nizam Road, GEC More, Panchlaish, Chattogram",
         "visitingTime": "6.30pm to 8.30pm (Closed: Friday)",
-        "appointmentNumber": "+880241355934"
-      },
-      "id": "93d74cd6-50b1-4459-9fc5-052d85d131e8"
+        "appointmentNumber": "+880241355934Call Now"
+      }
     },
     {
+      "id": "8765672a-038e-4174-8a46-4588660c316b",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-mohammad-salim/",
+      "imageId": "1d6639bd-132b-488f-97bd-d590f21f74ef",
       "name": "Dr. Mohammad Salim",
       "degree": "MBBS, BCS (Health), MCPS (Surgery), MS (Surgery), Fellow (India)",
       "specialty": "General, Laparoscopic & Colorectal Specialist Surgeon",
@@ -500,11 +609,14 @@
         "hospital": "Lancet Diagnostic Center, Chittagong",
         "address": "106/B, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "5pm to 9pm (Closed: Friday & Saturday)",
-        "appointmentNumber": "+8801552674425"
-      },
-      "id": "3d0e7ba5-2823-4238-bea6-7e55523b170e"
+        "appointmentNumber": "+8801552674425Call Now"
+      }
     },
     {
+      "id": "7cd07e89-7203-4f20-9bd8-8d07d4a56607",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-rivu-raj-chakraborty/",
+      "imageId": "f42e603e-c542-456e-afb7-e810472fe23e",
       "name": "Dr. Rivu Raj Chakraborty",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General, Laparoscopic, Endoscopic & Trauma Surgeon",
@@ -514,11 +626,14 @@
         "hospital": "Evercare Hospital, Chattogram",
         "address": "H1, Ananna R/A, CDA, Hathazari, Chattogram",
         "visitingTime": "2pm to 5pm (Closed: Sun & Friday)",
-        "appointmentNumber": "+8809610810663"
-      },
-      "id": "bdd8b4ec-ae9e-470b-a4af-41a17a980423"
+        "appointmentNumber": "+8809610810663Call Now"
+      }
     },
     {
+      "id": "74d4a821-431f-4473-befa-8b4551952555",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-rashedul-hasan/",
+      "imageId": "1b9c387e-718c-4607-aefa-f44e3831a853",
       "name": "Dr. Rashedul Hasan",
       "degree": "MBBS, FCPS (Surgery), DipMAS",
       "specialty": "General, Laparoscopic, Colorectal, Cancer & Laser Surgery Specialist",
@@ -528,11 +643,14 @@
         "hospital": "Labaid Specialized Hospital, Chattogram",
         "address": "3046, O.R. Nizam Road, Golpahar, Panchlaish, Chattogram",
         "visitingTime": "7.30pm to 9.30pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801766662828"
-      },
-      "id": "15d77e67-c6cd-4d74-b4b4-daef91de56c7"
+        "appointmentNumber": "+8801766662828Call Now"
+      }
     },
     {
+      "id": "bb543454-9628-4613-9ad8-bb2d19942605",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-md-yunus-haroon-chowdhury/",
+      "imageId": "1fb27bc2-b8ba-434b-8b39-1fbb5909c4c7",
       "name": "Prof. Dr. Md. Yunus Haroon Chowdhury",
       "degree": "MBBS, BCS (Health), MS (Surgery)",
       "specialty": "General, Laparoscopic & Colorectal Surgery Specialist",
@@ -542,11 +660,14 @@
         "hospital": "Royal Hospital, Chittagong",
         "address": "1530/A, O.R. Nizam Road, GEC More, Panchlaish, Chattogram",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+880241355934"
-      },
-      "id": "e9239692-57fc-4838-99ba-eaa2e8cbc049"
+        "appointmentNumber": "+880241355934Call Now"
+      }
     },
     {
+      "id": "54f3735d-476f-40d2-ae82-bea6209954a5",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-morshed-ali/",
+      "imageId": "51f579b2-128f-4bef-a322-9224a30c2ac5",
       "name": "Dr. Morshed Ali",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General & Laparoscopic Specialist Surgeon",
@@ -556,11 +677,14 @@
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "8pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "5b35c2f5-64ba-40be-bedb-8f4ef1043e3b"
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "ea2ede33-f440-40f5-a087-06c69f9715ff",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/prof-dr-p-b-roy/",
+      "imageId": "df9d7e1a-e290-457f-af2d-23e0ed93c3eb",
       "name": "Prof. Dr. P. B. Roy",
       "degree": "MBBS, FCPS (Surgery), FRCS (UK)",
       "specialty": "General, Laparoscopic & Colorectal Specialist Surgeon",
@@ -570,11 +694,14 @@
         "hospital": "Chevron Clinical Laboratory, Chittagong",
         "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801755666969"
-      },
-      "id": "487b9443-f983-4dcc-8326-befa6c631e99"
+        "appointmentNumber": "+8801755666969Call Now"
+      }
     },
     {
+      "id": "a9487649-da20-420f-815d-aa738e2dd3cf",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/prof-dr-sadik-saifur-rahman/",
+      "imageId": "5ecb8e0f-ecfe-41db-a919-f1f5814fecc4",
       "name": "Prof. Dr. Sadik Saifur Rahman",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -584,11 +711,14 @@
         "hospital": "Metro Diagnostic Center, Chittagong",
         "address": "Metro Tower, Goal Pahar Mor, Mehedibag, Chattogram",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801822169345"
-      },
-      "id": "800a092b-2b1a-4c47-b171-3aef688e2ba4"
+        "appointmentNumber": "+8801822169345Call Now"
+      }
     },
     {
+      "id": "8a66b40d-d5b6-4587-a0e9-927f1a14b396",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-md-jahangir-hossain-ricky/",
+      "imageId": "cd4770ca-a4ef-401b-b5aa-d38b16272fb7",
       "name": "Dr. Md. Jahangir Hossain Ricky",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General & Laparoscopic Surgery Specialist",
@@ -598,11 +728,14 @@
         "hospital": "Surgiscope Hospital, Chittagong",
         "address": "Unit 2, 53/1, Panchlaish, Chattogram - 4203",
         "visitingTime": "6pm to 9pm (Everyday)",
-        "appointmentNumber": "+8801864444248"
-      },
-      "id": "bcbcbc9e-fc25-42da-9109-6668e52f19a4"
+        "appointmentNumber": "+8801864444248Call Now"
+      }
     },
     {
+      "id": "f52e7811-b985-4264-9c98-5ee0216ca9f9",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-surjit-ghosh/",
+      "imageId": "ed1bdd8f-758a-422e-91e5-bd63e72213bd",
       "name": "Dr. Surjit Ghosh",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General Surgery Specialist",
@@ -612,11 +745,14 @@
         "hospital": "Chevron Clinical Laboratory, Halishahar",
         "address": "993/2121, Agrabad Access Road, Halishahar, Chattogram",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801701229090"
-      },
-      "id": "c8b735ba-91de-4ba0-b1ab-7ada3284b0dd"
+        "appointmentNumber": "+8801701229090Call Now"
+      }
     },
     {
+      "id": "2107b2d0-e7f2-4377-b6c7-cef342b2ad27",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-s-m-ishtiaque-ali-rubel/",
+      "imageId": "c8249afc-59d8-4de0-8991-16e339d9fb53",
       "name": "Dr. S.M. Ishtiaque Ali Rubel",
       "degree": "MBBS. FCPS (Surgery)",
       "specialty": "General, Laparoscopic. Colorectal. Breast & Trauma Surgeon",
@@ -626,11 +762,14 @@
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 9.30pm (Everyday)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "bad8bf22-2e4f-4036-a26f-a7dc103f0433"
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "5002d698-d4ae-4a32-ac5e-41cf96b832f9",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-abdullah-al-mamun-chowdhury/",
+      "imageId": "c1274923-5046-40d5-9f98-ee837a288645",
       "name": "Dr. Abdullah Al Mamun Chowdhury",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General & Laparoscopic Specialist Surgeon",
@@ -640,11 +779,14 @@
         "hospital": "Parkview Hospital, Chittagong",
         "address": "94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "7pm to 9.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801976022333"
-      },
-      "id": "527d0d9c-9b40-4c8f-80ee-65ea9cd7616d"
+        "appointmentNumber": "+8801976022333Call Now"
+      }
     },
     {
+      "id": "8cf0beac-f70d-4d89-a7a0-7dbec3114076",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-meshkat-uddin-khan/",
+      "imageId": "6ab8f974-1ea6-4347-8346-1b6d548cb124",
       "name": "Dr. Meshkat Uddin Khan",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General & Laparoscopic Surgery Specialist",
@@ -654,25 +796,31 @@
         "hospital": "Peerless Diagnostic Center, Chittagong",
         "address": "504, O.R Nizam Road, Gol Pahar Mor, Chttogram",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801716-396048"
-      },
-      "id": "b5739f32-838f-485d-a586-cfd6f2ce17c6"
+        "appointmentNumber": "+8801716-396048Call Now"
+      }
     },
     {
+      "id": "263627e9-9fc4-455c-8ab5-661bdcdae61d",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-shamima-nasrin-tamanna/",
+      "imageId": "ae53f9b4-a89b-4957-af9f-ebac7afb3729",
       "name": "Dr. Shamima Nasrin Tamanna",
       "degree": "MBBS (CMC), MS (SURGERY), BCS (HEALTH), CMU ( DU), CCD (BIRDEM)",
       "specialty": "Breast, Colorectal (Piles), Laparoscopic & General Surgeon",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Chattogram Metropolitan Diagnostic Center\nAddress: Room 306, Golpahar Mor (Above Shwapno), Chattogram\nVisiting Hour: 8pm to 9pm (Closed: Friday)\nAppointment: +8801850944102\nCall Now",
+      "info": "Chattogram Metropolitan Diagnostic Center Address: Room 306, Golpahar Mor (Above Shwapno), Chattogram Visiting Hour: 8pm to 9pm (Closed: Friday) Appointment: +8801850944102 Call Now",
       "chamber": {
         "hospital": "Epic Healthcare, Chittagong",
         "address": "Beside CGS School, K.B. Fazlul Kader Road, Chattogram",
         "visitingTime": "6pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801850944102"
-      },
-      "id": "524998a7-9891-4977-8cb6-c68e598705fc"
+        "appointmentNumber": "+8801850944102Call Now"
+      }
     },
     {
+      "id": "cb67583f-97fa-4a31-ad91-25d7ba28d87b",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-ashish-kumar-chowdhury/",
+      "imageId": "ee551c66-6952-472f-83d5-8bf5989fa7e6",
       "name": "Dr. Ashish Kumar Chowdhury",
       "degree": "MBBS (CMC), CO (Surgery), PhD (Surgery)",
       "specialty": "General, Laparoscopy and Colorectal Surgery Specialist",
@@ -682,11 +830,14 @@
         "hospital": "Chevron Clinical Laboratory, Chittagong",
         "address": "12/12, O.R Nizam Road, Panchlaish, Chattogram",
         "visitingTime": "3pm to 7pm (Sunday, Tuesday & Thursday)",
-        "appointmentNumber": "+8801850415494"
-      },
-      "id": "399a3697-ab9f-4fe4-a4b1-58e4e42e6570"
+        "appointmentNumber": "+8801850415494Call Now"
+      }
     },
     {
+      "id": "e7cdc2f1-b26f-4772-bac0-aec4348cc47d",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/porf-col-dr-sohel-ahmed/",
+      "imageId": "b6e8e415-cfcb-49f5-8920-864f9eba7033",
       "name": "Porf. Col. Dr. Sohel Ahmed",
       "degree": "MBBS (CU), FCPS (Surgery), FACS (USA)",
       "specialty": "General, Laparoscopic & Colorectal Surgery Specialist",
@@ -696,25 +847,31 @@
         "hospital": "Shajinaz Hospital Ltd.",
         "address": "Arefin Nagar, Bayezid Link Road, Bayezid Bostami, Chattogram",
         "visitingTime": "5.30pm to 7pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801886338811"
-      },
-      "id": "833c9b0d-3150-43a1-8b1e-b8f23b952ccb"
+        "appointmentNumber": "+8801886338811Call Now"
+      }
     },
     {
+      "id": "20b851d5-1628-4cc3-933b-5d15718ecff4",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-syed-aftub-uddin/",
+      "imageId": "71c82fba-6e1f-4b15-8df6-405dab1ad7bd",
       "name": "Dr Syed Aftub Uddin",
       "degree": "MBBS (SOMC), BCS (Health), MS (General Surgery), CCCD (NHF)",
       "specialty": "General, Laparoscopic, Colorectal & Breast Surgeon",
       "workplace": "Chittagong Medical College & Hospital",
-      "info": "Surgeons Lounge\nAddress: House # 01, Road # 07, Goribullah Shah Housing, Khulshi, Chittagong\nVisiting Hour: 6pm to 9pm (Everyday)\nAppointment: +8801537586358\nCall Now",
+      "info": "Surgeons Lounge Address: House # 01, Road # 07, Goribullah Shah Housing, Khulshi, Chittagong Visiting Hour: 6pm to 9pm (Everyday) Appointment: +8801537586358 Call Now",
       "chamber": {
         "hospital": "Parkview Hospital, Chittagong",
         "address": "Room 224, 94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 9pm (Everyday)",
-        "appointmentNumber": "+8801537586358"
-      },
-      "id": "350bcd89-1cb6-4198-850c-f9dc7961b6c4"
+        "appointmentNumber": "+8801537586358Call Now"
+      }
     },
     {
+      "id": "8cd52987-c282-4184-9bcc-c25c37fb94a3",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-abdullah-al-maruf/",
+      "imageId": "d5703812-4ce2-4fb6-99ba-853a60f191a2",
       "name": "Dr. Abdullah-Al-Maruf",
       "degree": "MBBS (CMC), BCS (Health), FCPS (Surgery)",
       "specialty": "General, Laparoscopic & Oncosurgery Spcialist",
@@ -724,11 +881,14 @@
         "hospital": "CSCR Hospital, Chittagong",
         "address": "Room 205 (2nd Floor), 1675/A, O.R. Nizam Road, Chattogram",
         "visitingTime": "7pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801833996600"
-      },
-      "id": "31d8fd39-1c5f-4b03-8d6c-f01056e238ee"
+        "appointmentNumber": "+8801833996600Call Now"
+      }
     },
     {
+      "id": "a5fdad0b-bed8-4a01-804d-bdaa49fdd565",
+      "departmentId": "a817b03c-cc9b-4c66-b9ba-de6e92eeb770",
+      "link": "https://www.doctorbangladesh.com/dr-yeahea-manik/",
+      "imageId": "fa609914-8bb0-4402-b456-9d8623d0d8e2",
       "name": "Dr. Yeahea Manik",
       "degree": "MBBS, BCS (Health), MS (General Surgery - BSMMU)",
       "specialty": "General, Laparoscopic & Colorectal Surgeon",
@@ -738,9 +898,8 @@
         "hospital": "Asperia Treatment Health Care, Chittagong",
         "address": "1st Floor, 100, Panchlaish, (opposite to Probortok School), Chittagong",
         "visitingTime": "8pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801323337344"
-      },
-      "id": "8071b7a0-3bf3-4a4e-8631-1c01e02745b8"
+        "appointmentNumber": "+8801323337344Call Now"
+      }
     }
   ]
 }

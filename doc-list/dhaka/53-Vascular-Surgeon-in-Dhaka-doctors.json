@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "f37e8f1b-d728-457e-914f-88a32578f144",
+      "departmentId": "e4a9e8ee-3ec0-42fc-ad43-ffda2e27f8db",
+      "link": "https://www.doctorbangladesh.com/prof-dr-s-m-g-kibria-vascular/",
+      "imageId": "2f85792f-7e0c-4b66-9cdd-bd3ccd4bc218",
       "name": "Prof. Dr. S.M.G. Kibria",
       "degree": "FRCS (England), FRCS (Glasgow), FRCS (Edinburgh), FRCS (General), MSc (Leeds), MBBS (DMC)",
       "specialty": "Varicose Veins, Dialysis Fistula, Leg Gangrene, Poor Circulation, Peripheral Vascular Disease, Carotid Artery Surgery, Lymphedema, DVT, CVI, Aortic Aneurysm",
@@ -10,11 +14,14 @@
         "hospital": "Lake View Clinic, Gulshan",
         "address": "House - 05, Road No - 79, Gulshan 2, Dhaka - 1212",
         "visitingTime": "8am to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801799336622"
-      },
-      "id": "7acae20f-64cb-4a2d-9f64-cfed93441044"
+        "appointmentNumber": "+8801799336622Call Now"
+      }
     },
     {
+      "id": "e05fd3b6-142d-402c-a5a7-f9f728e86bd2",
+      "departmentId": "e4a9e8ee-3ec0-42fc-ad43-ffda2e27f8db",
+      "link": "https://www.doctorbangladesh.com/dr-saklayen-russel/",
+      "imageId": "0489c632-8002-4fc7-87e4-184dcbcb6baa",
       "name": "Dr. Saklayen Russel",
       "degree": "MBBS (DMC), MS (CVTS)",
       "specialty": "Vascular, Endovascular & Laser Surgeon",
@@ -24,11 +31,14 @@
         "hospital": "Ibrahim Cardiac Hospital & Research Institute",
         "address": "Room # 6009, Level # 5, Vascular Surgery Department, Shahbag, Dhaka",
         "visitingTime": "10am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801717021090"
-      },
-      "id": "ff4089ca-6f95-4746-b3f1-5e2857fdcdc0"
+        "appointmentNumber": "+8801717021090Call Now"
+      }
     },
     {
+      "id": "32f0f326-1120-4f40-ba06-9fe851499e0e",
+      "departmentId": "e4a9e8ee-3ec0-42fc-ad43-ffda2e27f8db",
+      "link": "https://www.doctorbangladesh.com/prof-dr-s-a-nurul-alam-aga/",
+      "imageId": "b82031b8-2cf0-48f2-b20d-afcf10513654",
       "name": "Prof. Dr. S A Nurul Alam Aga",
       "degree": "MBBS, Ph.D, Fellow, Physicians for Peace (USA)",
       "specialty": "Vascular Surgery Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Popular Diagnostic Center, Dhanmondi",
         "address": "House # 16, Road # 2, Dhanmondi R/A, Dhaka - 1205",
         "visitingTime": "11am to 1pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787801"
-      },
-      "id": "977e4aa7-7b17-4d7b-af41-17274437b59d"
+        "appointmentNumber": "+8809666787801Call Now"
+      }
     },
     {
+      "id": "2f97146f-61c8-4bd0-8c7c-8b02c862f8bd",
+      "departmentId": "e4a9e8ee-3ec0-42fc-ad43-ffda2e27f8db",
+      "link": "https://www.doctorbangladesh.com/dr-rakibul-hasan-apu/",
+      "imageId": "d2cc0973-3b3e-4b4e-916e-80947ecd399e",
       "name": "Dr. Rakibul Hasan Apu",
       "degree": "MBBS, MS (CVTS)",
       "specialty": "Vascular, Endovascular, Varicose Vein & Laser Surgery Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Ibn Sina Specialized Hospital, Dhanmondi",
         "address": "House # 68, Road # 15/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "2.30pm to 6pm (Sun, Tue & Thu)",
-        "appointmentNumber": "+8801823039800"
-      },
-      "id": "d039ca1a-559c-4ff6-a8f1-90c68c89eb77"
+        "appointmentNumber": "+8801823039800Call Now"
+      }
     },
     {
+      "id": "4f1f4ecd-9a7d-4004-85bb-243886fd7a91",
+      "departmentId": "e4a9e8ee-3ec0-42fc-ad43-ffda2e27f8db",
+      "link": "https://www.doctorbangladesh.com/dr-abul-hasan-muhammad-bashar/",
+      "imageId": "aac00a66-fadb-406d-aa3f-d0a25ae73b57",
       "name": "Dr. Abul Hasan Muhammad Bashar",
       "degree": "MBBS, BCS (Health), PhD (Japan), FACS (USA)",
       "specialty": "Vascular Surgery Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Bangladesh Specialized Hospital",
         "address": "21, Mirpur Road, Shyamoli, Dhaka – 1207, Bangladesh",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8809666700100"
-      },
-      "id": "1159e819-d84d-4a56-b7fa-52f73b9e2ef9"
+        "appointmentNumber": "+8809666700100Call Now"
+      }
     },
     {
+      "id": "6f33a6fd-11b8-471c-b8ed-0da5f7c2e74e",
+      "departmentId": "e4a9e8ee-3ec0-42fc-ad43-ffda2e27f8db",
+      "link": "https://www.doctorbangladesh.com/dr-enamul-hakim/",
+      "imageId": "24d9ba0a-8728-42db-8fca-2ba58c6605a6",
       "name": "Prof. Dr. Mohammad Enamul Hakim",
       "degree": "MBBS, MS (Cardiovascular Surgery), USMLE (USA)",
       "specialty": "Vascular, Endovascular & Laser Surgeon",
@@ -80,39 +99,48 @@
         "hospital": "Ibn Sina Medical College Hospital, Kallyanpur",
         "address": "1/1 B, Kallyanpur, Dhaka",
         "visitingTime": "5pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801703725590"
-      },
-      "id": "01bd420a-c20c-42da-91bf-6b8f7eafba4a"
+        "appointmentNumber": "+8801703725590Call Now"
+      }
     },
     {
+      "id": "751d6952-bc2c-40be-9f1d-a5ca49052d2e",
+      "departmentId": "e4a9e8ee-3ec0-42fc-ad43-ffda2e27f8db",
+      "link": "https://www.doctorbangladesh.com/dr-s-m-parvez-ahmed-sohel/",
+      "imageId": "e175b080-c53e-4fa1-87f1-ed78da706a6a",
       "name": "Dr. S.M. Parvez Ahmed (Sohel)",
       "degree": "MBBS, MS (Surgery), MS (Vascular Surgery)",
       "specialty": "Vascular & Endovascular Surgeon",
       "workplace": "National Institute of Cardiovascular Diseases & Hospital",
-      "info": "Ibn Sina Medical College Hospital, Kallyanpur\nAddress: 1/1 B, Kallyanpur, Dhaka\nVisiting Hour: 3pm to 6pm (Sat, Mon & Wenesday)\nAppointment: +8801703725590\nCall Now",
+      "info": "Ibn Sina Medical College Hospital, Kallyanpur Address: 1/1 B, Kallyanpur, Dhaka Visiting Hour: 3pm to 6pm (Sat, Mon & Wenesday) Appointment: +8801703725590 Call Now",
       "chamber": {
         "hospital": "Aalok Hospital, Mirpur",
         "address": "Home-1, Road-5, Block-A, Section-6, Dhaka-1216",
         "visitingTime": "8pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8809678822822"
-      },
-      "id": "ac0526e9-ca4c-41e8-aced-6415e07f432e"
+        "appointmentNumber": "+8809678822822Call Now"
+      }
     },
     {
+      "id": "5a5a512b-a6c3-4f5c-9538-39e57c436d4f",
+      "departmentId": "e4a9e8ee-3ec0-42fc-ad43-ffda2e27f8db",
+      "link": "https://www.doctorbangladesh.com/dr-a-k-m-ziaul-huque/",
+      "imageId": "043ecbd6-ad12-471a-9ae2-af25b205a43f",
       "name": "Dr. AKM Ziaul Huque",
       "degree": "MBBS, BCS (Health), MS (Cardiovascular Surgery)",
       "specialty": "Vascular & Endovascular Surgeon",
       "workplace": "National Institute of Cardiovascular Diseases & Hospital",
-      "info": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital)\nAddress: Comilla Tower, Laksam Road, Kandirpar, Cumilla – 3500\nVisiting Hour: 5pm to 8pm (Thursday) & 10am to 5pm (Friday)\nAppointment: +8801711144786\nCall Now",
+      "info": "Cumilla Medical Center Pvt. Ltd. (Tower Hospital) Address: Comilla Tower, Laksam Road, Kandirpar, Cumilla – 3500 Visiting Hour: 5pm to 8pm (Thursday) & 10am to 5pm (Friday) Appointment: +8801711144786 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Specialized Hospital, Dhanmondi",
         "address": "House # 68, Road # 15/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801823039800"
-      },
-      "id": "5abd121e-cb92-4e0a-9700-cda3bab9380f"
+        "appointmentNumber": "+8801823039800Call Now"
+      }
     },
     {
+      "id": "aa8986b7-3860-4587-88e1-829f539ac3bb",
+      "departmentId": "e4a9e8ee-3ec0-42fc-ad43-ffda2e27f8db",
+      "link": "https://www.doctorbangladesh.com/dr-nirmal-kanti-dey/",
+      "imageId": "d6f115c2-0c3d-4c1a-a78e-44f775c4e5db",
       "name": "Dr. Nirmal Kanti Dey",
       "degree": "MBBS, MS (CVTS)",
       "specialty": "Vascular & Endovascular Specialist Surgeon",
@@ -122,11 +150,14 @@
         "hospital": "Ibn Sina Specialized Hospital, Dhanmondi",
         "address": "House # 68, Road # 15/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "5pm to 8pm (Sun, Tue & Thursday)",
-        "appointmentNumber": "+8801823039800"
-      },
-      "id": "c3017a35-1054-4780-b88b-b48143fc0ac1"
+        "appointmentNumber": "+8801823039800Call Now"
+      }
     },
     {
+      "id": "4b39bf3e-8796-4f46-83a8-9f88e437361d",
+      "departmentId": "e4a9e8ee-3ec0-42fc-ad43-ffda2e27f8db",
+      "link": "https://www.doctorbangladesh.com/prof-dr-mohammad-mahbubur-rahman/",
+      "imageId": "000de4e0-7156-4763-a0b5-dc75a1c9ffd2",
       "name": "Prof. Dr. Md. Mahbubur Rahman",
       "degree": "MBBS, MS (Vascular Surgery), PhD (Vascular Surgery)",
       "specialty": "Vascular & Endovascular Surgeon",
@@ -136,11 +167,14 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "11am to 2pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801538217960"
-      },
-      "id": "62d6236b-3bd1-4c2e-8363-a42091da9376"
+        "appointmentNumber": "+8801538217960Call Now"
+      }
     },
     {
+      "id": "891cc0a4-7fea-4f3b-a4c6-39a7ecb21298",
+      "departmentId": "e4a9e8ee-3ec0-42fc-ad43-ffda2e27f8db",
+      "link": "https://www.doctorbangladesh.com/dr-swadesh-ranjan-sarker/",
+      "imageId": "ea7d031c-dbce-41ee-bbd9-1ebb25c53801",
       "name": "Dr. Swadesh Ranjan Sarker",
       "degree": "MBBS, MS (CVTS)",
       "specialty": "Vascular, Endovascular, Varicose Vein & Bypass Surgery Specialist",
@@ -150,11 +184,14 @@
         "hospital": "Ibn Sina Specialized Hospital, Dhanmondi",
         "address": "House # 68, Road # 15/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "3pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801823039800"
-      },
-      "id": "99dea37f-878b-4efe-b201-a25ad27b0581"
+        "appointmentNumber": "+8801823039800Call Now"
+      }
     },
     {
+      "id": "508bbe72-718e-4c2a-aed4-f0f7d25f8273",
+      "departmentId": "e4a9e8ee-3ec0-42fc-ad43-ffda2e27f8db",
+      "link": "https://www.doctorbangladesh.com/dr-md-motiur-rahman-sarkar/",
+      "imageId": "eeea8c59-8d12-40f1-a8bb-19284f2d9319",
       "name": "Dr. Md. Motiur Rahman Sarkar",
       "degree": "MBBS, BCS (Health), MS (CVTS)",
       "specialty": "Vascular & Endovascular Specialist Surgeon",
@@ -164,25 +201,31 @@
         "hospital": "Ibn Sina Medical Imaging Center, Zigatola",
         "address": "House # 58, Road # 2A, Zigatola Bus Stand, Dhaka - 1209",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801711625173"
-      },
-      "id": "0fb07316-912f-47c0-aad2-fd8695541637"
+        "appointmentNumber": "+8801711625173Call Now"
+      }
     },
     {
+      "id": "3a1c2257-b0ca-4d4f-b9b3-f0291e6e3f81",
+      "departmentId": "e4a9e8ee-3ec0-42fc-ad43-ffda2e27f8db",
+      "link": "https://www.doctorbangladesh.com/prof-dr-col-md-humayun-kabir/",
+      "imageId": "88eb75b1-76df-4669-9eec-af20d36df52f",
       "name": "Prof. Dr. (Col) Md. Humayun Kabir",
       "degree": "MBBS (SSMC), FCPS (Surgery), FVES (Singapore), FACS (USA)",
       "specialty": "Vascular & Endovascular Surgeon",
       "workplace": "Combined Military Hospital (CMH), Dhaka",
-      "info": "Kabir Vascular Clinic\nSiraj Khaleda Cantonment General Hospital\nAddress: Opposite to Cantonment Post Office, Dhaka Cantonment, Dhaka\nVisiting Hour: 6pm to 9pm (Closed: Friday)\nAppointment: +8801302897580\nCall Now",
+      "info": "Kabir Vascular Clinic Siraj Khaleda Cantonment General Hospital Address: Opposite to Cantonment Post Office, Dhaka Cantonment, Dhaka Visiting Hour: 6pm to 9pm (Closed: Friday) Appointment: +8801302897580 Call Now",
       "chamber": {
         "hospital": "United Hospital Ltd, Dhaka",
         "address": "Plot # 15, Road # 71, Gulshan, Dhaka",
         "visitingTime": "6pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "10666"
-      },
-      "id": "7850f1e3-ac99-477d-9a90-a36ddb5f16d2"
+        "appointmentNumber": "10666Call Now"
+      }
     },
     {
+      "id": "d20d16eb-ffe5-41e3-a232-31b2871a3d10",
+      "departmentId": "e4a9e8ee-3ec0-42fc-ad43-ffda2e27f8db",
+      "link": "https://www.doctorbangladesh.com/prof-dr-fidah-hossain/",
+      "imageId": "5c75ec62-e2a7-420f-9e77-14abcfcc723c",
       "name": "Prof. Dr. Fidah Hossain",
       "degree": "MBBS, MS (CV & TS)",
       "specialty": "Vascular & Endovascular Surgeon",
@@ -192,25 +235,31 @@
         "hospital": "Samorita Hospital Ltd, Panthapath",
         "address": "89/1, Panthapath, Dhaka - 1215, Bangladesh",
         "visitingTime": "7pm to 9pm (Sun, Mon, Tue & Wed)",
-        "appointmentNumber": "10674"
-      },
-      "id": "0fadd0e9-066d-4233-bf41-4ffe98399784"
+        "appointmentNumber": "10674Call Now"
+      }
     },
     {
+      "id": "2fd68851-a64d-4f21-8ad9-a3973431c92a",
+      "departmentId": "e4a9e8ee-3ec0-42fc-ad43-ffda2e27f8db",
+      "link": "https://www.doctorbangladesh.com/dr-md-arif-uddin-khan/",
+      "imageId": "cd2a3a7f-857a-401a-bdea-2799e0f65cf5",
       "name": "Dr. Md. Arif Uddin Khan",
       "degree": "MBBS, BCS (Health), FCPS (Surgery), MS (Vascular Surgery)",
       "specialty": "Specialist Vascular Surgeon",
       "workplace": "Sarkari Karmachari Hospital, Dhaka",
-      "info": "Delta Health Care, Rampura\nAddress: 381/A, West Rampura, DIT Road, Dhaka 1219\nVisiting Hour: 7pm to 9pm (Closed: Friday)\nAppointment: +8801825490985\nCall Now",
+      "info": "Delta Health Care, Rampura Address: 381/A, West Rampura, DIT Road, Dhaka 1219 Visiting Hour: 7pm to 9pm (Closed: Friday) Appointment: +8801825490985 Call Now",
       "chamber": {
         "hospital": "Ibn Sina Diagnostic Center, Malibagh",
         "address": "House # 489, DIT Road (Near Malibagh Rail Gate), Malibagh, Dhaka",
         "visitingTime": "9pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801825490985"
-      },
-      "id": "1ec76b42-6426-43c5-a456-e8047ba2957e"
+        "appointmentNumber": "+8801825490985Call Now"
+      }
     },
     {
+      "id": "adca6a6c-b274-45a6-a52e-ce60f1d8f7cb",
+      "departmentId": "e4a9e8ee-3ec0-42fc-ad43-ffda2e27f8db",
+      "link": "https://www.doctorbangladesh.com/dr-nur-a-al-amin/",
+      "imageId": "dfdc366d-04d9-40bc-ae0f-1bbbd978661b",
       "name": "Dr. Nur A. Al Amin",
       "degree": "MBBS (DMC), MS (Vascular Surgery, BSMMU)",
       "specialty": "Vascular Surgeon",
@@ -220,11 +269,14 @@
         "hospital": "Ibn Sina Diagnostic Center, Dhanmondi",
         "address": "House # 48, Road # 9/A, Dhanmondi, Dhaka - 1209",
         "visitingTime": "10am to 1pm (Sat, Mon & Wed)",
-        "appointmentNumber": "+8801842241281"
-      },
-      "id": "035786ea-3ec0-480b-bf1c-d15b33b66ba6"
+        "appointmentNumber": "+8801842241281Call Now"
+      }
     },
     {
+      "id": "fd4e2791-8056-4f14-9d99-d22c837ca30e",
+      "departmentId": "e4a9e8ee-3ec0-42fc-ad43-ffda2e27f8db",
+      "link": "https://www.doctorbangladesh.com/dr-istiaq-ahmed-dipu/",
+      "imageId": "c65afd89-2190-4e56-a399-99dbd258e444",
       "name": "Dr. Istiaq Ahmed (Dipu)",
       "degree": "MBBS, MS (CV & TS)",
       "specialty": "Cardiac (CABG & Valve Surgery) & Vascular Surgery Specialist",
@@ -234,23 +286,25 @@
         "hospital": "Green Life Hospital, Dhaka",
         "address": "32, Bir Uttam Shafiullah Sarak (Green Road), Dhanmondi, Dhaka",
         "visitingTime": "3pm to 6pm (Closed: Friday)",
-        "appointmentNumber": "+8801965722027"
-      },
-      "id": "ee3ff638-b84b-4248-8fa0-a6927fad1a34"
+        "appointmentNumber": "+8801965722027Call Now"
+      }
     },
     {
+      "id": "01ae687d-9b64-4c01-8704-b6a5f9a15902",
+      "departmentId": "e4a9e8ee-3ec0-42fc-ad43-ffda2e27f8db",
+      "link": "https://www.doctorbangladesh.com/dr-md-al-saad/",
+      "imageId": "10a67c04-dc54-4729-af2f-da3034745d7e",
       "name": "Dr. Md. Al-Saad",
       "degree": "MBBS (RMC), MS (Vascular Surgery)-BSMMU",
       "specialty": "Endovascular & Vascular Surgeon",
       "workplace": "Enam Medical College & Hospital",
-      "info": "National Heart Foundation, Rajshahi\nAddress: 911, Bakir mor, Laxmipur, Rajshahi\nVisiting Hour: 7pm to 10pm (Only Thursday)\nAppointment: +8801400-118118\nCall Now",
+      "info": "National Heart Foundation, Rajshahi Address: 911, Bakir mor, Laxmipur, Rajshahi Visiting Hour: 7pm to 10pm (Only Thursday) Appointment: +8801400-118118 Call Now",
       "chamber": {
         "hospital": "Medinova Medical Services, Mirpur",
         "address": "Plot # 29-30, Block # Kha, Road # 1, Section # 6, Mirpur 10, Dhaka",
         "visitingTime": "4pm to 7pm (Saturday to Wednesday)",
-        "appointmentNumber": "+8801300550448, +8801409214624"
-      },
-      "id": "ffd9f6ba-a0ed-4a41-8c8d-d3f3ddb824be"
+        "appointmentNumber": "+8801300550448, +8801409214624Call Now"
+      }
     }
   ]
 }

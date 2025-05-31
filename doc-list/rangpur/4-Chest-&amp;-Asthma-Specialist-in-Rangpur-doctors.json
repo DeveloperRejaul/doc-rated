@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "ad645d56-99a8-4cb7-9734-4f73d48e9018",
+      "departmentId": "25c4185b-ce4a-4e6f-9957-2224a5e9a11c",
+      "link": "https://www.doctorbangladesh.com/dr-taposh-bose/",
+      "imageId": "ce1f4037-409c-44b0-bd02-f25bc96d723e",
       "name": "Dr. Taposh Bose",
       "degree": "MBBS, MCPS (Medicine), MD (Chest Disease), FCCP (USA)",
       "specialty": "Chest Diseases & Respiratory Medicine Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Update Diagnostic, Rangpur",
         "address": "Dhap (Opposite to Police Fari), Jail Road, Rangpur",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801971555555"
-      },
-      "id": "4f4ef54f-baf2-48a5-9d6f-5447f8fc3783"
+        "appointmentNumber": "+8801971555555Call Now"
+      }
     },
     {
+      "id": "b7b33619-fad0-4cdf-bd18-220a699fca38",
+      "departmentId": "25c4185b-ce4a-4e6f-9957-2224a5e9a11c",
+      "link": "https://www.doctorbangladesh.com/dr-zr-zahid/",
+      "imageId": "6510e4f6-e66f-4974-85dc-06b6d30c9982",
       "name": "Dr. ZR Zahid",
       "degree": "MBBS, DTCD (Chest), MPhil, FCCP (USA)",
       "specialty": "Chest & Asthma Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Labaid Diagnostic, Rangpur",
         "address": "House # 69, Dhap, Jail Road, Rangpur",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801766663099"
-      },
-      "id": "87c84001-272a-45e7-a875-60461c118a3d"
+        "appointmentNumber": "+8801766663099Call Now"
+      }
     },
     {
+      "id": "f81417d6-eb98-42dd-a647-22b2bb8c304d",
+      "departmentId": "25c4185b-ce4a-4e6f-9957-2224a5e9a11c",
+      "link": "https://www.doctorbangladesh.com/dr-minhajul-islam/",
+      "imageId": "4a37efd2-1bb1-42fc-8a6e-e6feaddc26ba",
       "name": "Dr. Minhajul Islam",
       "degree": "MBBS, DTCD (CHEST)",
       "specialty": "Chest & Asthma Specialist",
@@ -38,23 +48,25 @@
         "hospital": "Islami Bank Community Hospital, Rangpur",
         "address": "Jail Road, Dhap, Rangpur",
         "visitingTime": "3pm to 8pm (Closed: Wednesday)",
-        "appointmentNumber": "+8801750908297"
-      },
-      "id": "1c4a5a29-0460-4b8e-b2b4-ef58ac280096"
+        "appointmentNumber": "+8801750908297Call Now"
+      }
     },
     {
+      "id": "ca098b17-a6b5-4008-b76d-d2ccf7a06622",
+      "departmentId": "25c4185b-ce4a-4e6f-9957-2224a5e9a11c",
+      "link": "https://www.doctorbangladesh.com/dr-dip-jyoti-sarker/",
+      "imageId": "3f7c8a99-2f9e-41cd-90a8-9ba737f92a2a",
       "name": "Dr. Dip Jyoti Sarker",
       "degree": "MBBS (DMC), BCS (Health), FCPS (Medicine), MD (Chest Medicine)",
       "specialty": "Chest Diseases & Medicine Specialist",
       "workplace": "Rangpur Medical College & Hospital",
-      "info": "Mother Clinic and Nursing Home\nAddress: Hospital Road, Bhurungamari, Kurigram\nVisiting Hour: Every First and Third Friday of the Month\nAppointment: +8801316286000\nCall Now",
+      "info": "Mother Clinic and Nursing Home Address: Hospital Road, Bhurungamari, Kurigram Visiting Hour: Every First and Third Friday of the Month Appointment: +8801316286000 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Rangpur",
         "address": "77/1, Jail Road, Dhap, Rangpur - 5400, Bangladesh",
         "visitingTime": "4pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+88 01316286000"
-      },
-      "id": "ea568f62-950c-40e6-92a8-7a19568fc684"
+        "appointmentNumber": "+88 01316286000Call Now"
+      }
     }
   ]
 }

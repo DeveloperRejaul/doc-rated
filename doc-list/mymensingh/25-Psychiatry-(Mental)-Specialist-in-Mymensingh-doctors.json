@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "9fe767cc-bf3f-4598-aebd-858ba3a4bb69",
+      "departmentId": "d167ccd7-6bd2-4e24-af51-b35083f89e52",
+      "link": "https://www.doctorbangladesh.com/dr-md-kabir-hasan-parvez/",
+      "imageId": "f313e25e-f460-482b-b8ce-0bec0be5e4ae",
       "name": "Dr. Md. Kabir Hasan Parvez",
       "degree": "MBBS, BCS (Health), MD (Psychiatry), MACP (USA)",
       "specialty": "Psychiatry (Mental Illness, Addiction & Sexual Medicine) Specialist",
@@ -10,11 +14,14 @@
         "hospital": "Pranto Diagnostic Center, Mymensingh",
         "address": "211, Charpara (Opposite to Hospital Gate), Mymensingh",
         "visitingTime": "2.30pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801888107041"
-      },
-      "id": "f8f34852-3151-45ba-baaf-f0d5fcdbc6a6"
+        "appointmentNumber": "+8801888107041Call Now"
+      }
     },
     {
+      "id": "2f461dcd-0747-41b4-a757-7987cbd35c91",
+      "departmentId": "d167ccd7-6bd2-4e24-af51-b35083f89e52",
+      "link": "https://www.doctorbangladesh.com/prof-dr-bidhan-ranjan-roy-poddar/",
+      "imageId": "18604e44-bd89-4665-8105-286c62e805b3",
       "name": "Prof. Dr. Bidhan Ranjan Roy Poddar",
       "degree": "MBBS, DPM, MPhil (Psychiatry)",
       "specialty": "Mental Health, Drug Addiction & Sexual Diseases Specialist",
@@ -24,11 +31,14 @@
         "hospital": "Union Specialized Hospital, Mymensingh",
         "address": "337, Charpara, Mymensingh",
         "visitingTime": "10am to 4pm (Friday & Saturday)",
-        "appointmentNumber": "+8801958280000"
-      },
-      "id": "3dad26d7-ef7c-4c97-a554-3aa196a4a1bd"
+        "appointmentNumber": "+8801958280000Call Now"
+      }
     },
     {
+      "id": "d937b92b-0c60-42b5-89d9-44ffa2b0fbb1",
+      "departmentId": "d167ccd7-6bd2-4e24-af51-b35083f89e52",
+      "link": "https://www.doctorbangladesh.com/dr-m-a-s-pathan/",
+      "imageId": "face1e61-ceca-4d67-823a-dd8d8f88167b",
       "name": "Dr. M. Asraful Siddike Pathan",
       "degree": "MBBS, MPhil (Psychiatry)",
       "specialty": "Mental Health, Drug Addiction & Sexual Diseases Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Union Specialized Hospital, Mymensingh",
         "address": "337, Charpara, Mymensingh",
         "visitingTime": "Sat to Thu (Closed: Sunday)",
-        "appointmentNumber": "+8801958280000"
-      },
-      "id": "89b2545c-a7a4-4142-ae8b-803a396045e7"
+        "appointmentNumber": "+8801958280000Call Now"
+      }
     },
     {
+      "id": "7ec8e401-d82d-4cf6-94a5-ee9bc4812e4d",
+      "departmentId": "d167ccd7-6bd2-4e24-af51-b35083f89e52",
+      "link": "https://www.doctorbangladesh.com/dr-dil-md-sazzadul-kabir-sabuz/",
+      "imageId": "136aa595-4929-4f53-9fa1-cbfca1cd422e",
       "name": "Dr. Dil Md. Sazzadul Kabir (Sabuz)",
       "degree": "MBBS (Dhaka), BCS (Health), MD (Psychiatry)",
       "specialty": "Mental Diseases, Drug Addiction & Sexual Medicine Specialist",
@@ -52,9 +65,8 @@
         "hospital": "Sodesh Hospital, Mymensingh",
         "address": "298/2, Maskanda (Bus Stand), Mymensingh – 2200",
         "visitingTime": "3pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666777990"
-      },
-      "id": "7926b297-e7a8-436c-a0a4-31e7228ab5db"
+        "appointmentNumber": "+8809666777990Call Now"
+      }
     }
   ]
 }

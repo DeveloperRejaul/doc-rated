@@ -1,34 +1,44 @@
 {
   "doctor": [
     {
+      "id": "175b1491-869e-4c3a-9e2d-c1484da069c3",
+      "departmentId": "98ee2fd7-ba42-42e2-9290-5284ef00938f",
+      "link": "https://www.doctorbangladesh.com/dr-ashik-iqbal/",
+      "imageId": "278e063c-5129-4dcc-b3bb-8e65f69dbacb",
       "name": "Dr. Ashik Iqbal",
       "degree": "MBBS (Dhaka), BCS (Health), FCPS (ENT)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
       "workplace": "Rajshahi Medical College & Hospital",
-      "info": "Shimla Hospital, Pabna\nAddress: Shimla Tower, Thana Mor, Hospital Road, Pabna\nVisiting Hour: 9am to 3pm (Only Friday)\nAppointment: +8801713228218\nCall Now",
+      "info": "Shimla Hospital, Pabna Address: Shimla Tower, Thana Mor, Hospital Road, Pabna Visiting Hour: 9am to 3pm (Only Friday) Appointment: +8801713228218 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "3pm to 7pm (Closed: Tue & Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "d4a13875-34f7-4317-bd06-638458ea08da"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "d69c74dc-1729-4d56-a3ee-1e54564a7420",
+      "departmentId": "98ee2fd7-ba42-42e2-9290-5284ef00938f",
+      "link": "https://www.doctorbangladesh.com/dr-maidul-islam/",
+      "imageId": "89725d90-eb75-47ad-8900-d3578d1ffb22",
       "name": "Dr. Maidul Islam",
       "degree": "MBBS, BCS (Health), DLO (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
       "workplace": "250 Bedded General Hospital, Pabna",
-      "info": "Assort Specialised Hospital, Pabna\nAddress: Beside Mujahid Club, Dhaka Road, East Shalgaria, Pabna\nVisiting Hour: 3pm to 5pm (Closed: Friday)\nAppointment: +8801322931500\nCall Now",
+      "info": "Assort Specialised Hospital, Pabna Address: Beside Mujahid Club, Dhaka Road, East Shalgaria, Pabna Visiting Hour: 3pm to 5pm (Closed: Friday) Appointment: +8801322931500 Call Now",
       "chamber": {
         "hospital": "Jalal Memorial Hospital, Pabna",
         "address": "Godaun Mor, Hospital Road, Shalgaria, Pabna - 6600",
         "visitingTime": "5pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801743708079"
-      },
-      "id": "3761f312-bcdb-4736-82da-e9eeb3b4e48f"
+        "appointmentNumber": "+8801743708079Call Now"
+      }
     },
     {
+      "id": "0925be1e-84b5-41f5-8428-fae54616cb5b",
+      "departmentId": "98ee2fd7-ba42-42e2-9290-5284ef00938f",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdul-baten-molla/",
+      "imageId": "c917051c-5159-4953-83d8-173df9b6499a",
       "name": "Dr. Md. Abdul Baten Molla",
       "degree": "MBBS, DIH, DLO (DU)",
       "specialty": "Ear, Nose, Throat Specialist & Head Neck Surgeon",
@@ -38,25 +48,31 @@
         "hospital": "Unique Diagnostic Complex, Pabna",
         "address": "Beside TB Hospital, Hospital Road, Shalgaria, Pabna",
         "visitingTime": "4pm to 8pm (Sat to Thur), 10am to 1pm (Friday)",
-        "appointmentNumber": "+8801756007870"
-      },
-      "id": "c0e6f108-58cb-4f49-9c85-a5b7956fa405"
+        "appointmentNumber": "+8801756007870Call Now"
+      }
     },
     {
+      "id": "bdf30d70-e3ff-4aba-bceb-b7bfbfeedaf9",
+      "departmentId": "98ee2fd7-ba42-42e2-9290-5284ef00938f",
+      "link": "https://www.doctorbangladesh.com/dr-md-atikur-rahman/",
+      "imageId": "fb8b6317-edd4-4af0-8c3e-113d37fc805d",
       "name": "Dr. Md. Atikur Rahman",
       "degree": "MBBS, MS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
       "workplace": "ENT & Head-Neck Cancer Hospital & Institute",
-      "info": "Shafique Hospital, Pabna\nAddress: Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna\nVisiting Hour: 9am to 8pm (Only Friday)\nAppointment: +8801701654390\nCall Now",
+      "info": "Shafique Hospital, Pabna Address: Khairul Tower, Narikel Bagan Road, Kalachad Para, Pabna Visiting Hour: 9am to 8pm (Only Friday) Appointment: +8801701654390 Call Now",
       "chamber": {
         "hospital": "Shimla Hospital, Pabna",
         "address": "Shimla Tower, Thana Mor, Hospital Road, Pabna",
         "visitingTime": "4pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801713228218"
-      },
-      "id": "0080e787-4755-48a6-a035-e22accf0ff11"
+        "appointmentNumber": "+8801713228218Call Now"
+      }
     },
     {
+      "id": "94fe2f88-4c7b-4466-8ed6-eddc74c03d05",
+      "departmentId": "98ee2fd7-ba42-42e2-9290-5284ef00938f",
+      "link": "https://www.doctorbangladesh.com/dr-md-monirul-islam/",
+      "imageId": "f0a94999-a387-45d6-a13c-ba4f786f9b34",
       "name": "Dr. Md. Monirul Islam",
       "degree": "MBBS, BCS (Health), MS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -66,11 +82,14 @@
         "hospital": "Central Hospital, Pabna",
         "address": "South Side of Sadar Hospital Gate, Hospital Road, Shalgaria, Pabna",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801322912612"
-      },
-      "id": "9a9c4513-6d88-40c2-ad37-3bff6393b1d3"
+        "appointmentNumber": "+8801322912612Call Now"
+      }
     },
     {
+      "id": "7ed66064-cf57-4dc3-8260-5514aadc9996",
+      "departmentId": "98ee2fd7-ba42-42e2-9290-5284ef00938f",
+      "link": "https://www.doctorbangladesh.com/dr-md-quamruzzaman-nayan/",
+      "imageId": "a973daf0-b776-40ff-836f-34ea15889ae4",
       "name": "Dr. Md. Quamruzzaman Nayan",
       "degree": "MBBS, BCS (Health), MS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -80,25 +99,31 @@
         "hospital": "Mission ENT & Specialized Center",
         "address": "Opposite to Sonamoni School, Hospital Road, Pabna",
         "visitingTime": "2pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801886-107251"
-      },
-      "id": "68b2815b-3350-4ffd-b8eb-81083183270e"
+        "appointmentNumber": "+8801886-107251Call Now"
+      }
     },
     {
+      "id": "bbe27600-cbc1-402c-9970-6b2d15e9935e",
+      "departmentId": "98ee2fd7-ba42-42e2-9290-5284ef00938f",
+      "link": "https://www.doctorbangladesh.com/dr-md-al-mahmud/",
+      "imageId": "ceb8ec09-969d-49e3-ade6-81f8dfd4d7b2",
       "name": "Dr. Md. Al Mahmud",
       "degree": "MBBS, BCS (Health), DLO (BSMMU), FCPS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
       "workplace": "Rajshahi Medical College & Hospital",
-      "info": "Labaid Diagnostic, Pabna\nAddress: Beside Joy Kali Bari, Thana Road, Shalgaria, Pabna\nVisiting Hour: 5pm to 9pm (Only Thursday)\nAppointment: +8801766661901\nCall Now",
+      "info": "Labaid Diagnostic, Pabna Address: Beside Joy Kali Bari, Thana Road, Shalgaria, Pabna Visiting Hour: 5pm to 9pm (Only Thursday) Appointment: +8801766661901 Call Now",
       "chamber": {
         "hospital": "Belleview Imaging & Diagnostic Center",
         "address": "Shershah Road, West Side of Laxmipur Mor, Rajapara, Rajshahi",
         "visitingTime": "3pm to 6pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801723060124"
-      },
-      "id": "d8448d59-278c-47d2-8a7c-9d49b33365f5"
+        "appointmentNumber": "+8801723060124Call Now"
+      }
     },
     {
+      "id": "0380b261-d40c-46e2-b4f1-f93c554272b9",
+      "departmentId": "98ee2fd7-ba42-42e2-9290-5284ef00938f",
+      "link": "https://www.doctorbangladesh.com/dr-md-mostafizur-rahman-ent-pabna/",
+      "imageId": "4841a677-1dd1-49c9-9b0f-e6a641f259ef",
       "name": "Dr. Md. Mostafizur Rahman",
       "degree": "MBBS, BCS (Health), DLO (BSMMU), FCPS (ENT)",
       "specialty": "Ear, Nose, Throat Diseases Specialist & Head Neck Surgeon",
@@ -108,11 +133,14 @@
         "hospital": "Euro Medical Center, Pabna",
         "address": "Beside JoyKali Bari, Hospital Road, Shalgaria, Pabna",
         "visitingTime": "3pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801772974000"
-      },
-      "id": "760ac9e5-5858-4c17-8de1-38b6aede49b4"
+        "appointmentNumber": "+8801772974000Call Now"
+      }
     },
     {
+      "id": "bd05b768-0bed-4b0a-a90d-dc8dd228b141",
+      "departmentId": "98ee2fd7-ba42-42e2-9290-5284ef00938f",
+      "link": "https://www.doctorbangladesh.com/dr-harun-ur-rashid/",
+      "imageId": "6b6d7b2d-e1b1-4bb0-a1d3-e73a7a3a4ee6",
       "name": "Dr. Harun Or Rashid",
       "degree": "MBBS, BCS (Health), MS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -122,11 +150,14 @@
         "hospital": "Digital Diagnostic Center, Pabna",
         "address": "Kazi Office Road, Thana Para, Shalgaria, Pabna",
         "visitingTime": "Saturday to Thursday (Call for time)",
-        "appointmentNumber": "+8801748343270"
-      },
-      "id": "943ae759-a9d0-418d-9237-d288c62192b7"
+        "appointmentNumber": "+8801748343270Call Now"
+      }
     },
     {
+      "id": "45c1d13b-fd41-4452-a104-7eeaf74c54a0",
+      "departmentId": "98ee2fd7-ba42-42e2-9290-5284ef00938f",
+      "link": "https://www.doctorbangladesh.com/dr-sheikh-md-rafiqul-hossain/",
+      "imageId": "8c3d8102-066c-4127-997b-c04f3e653c7b",
       "name": "Dr. Sheikh Md. Rafiqul Hossain",
       "degree": "MBBS, BCS (Health), DLO (BSMMU)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -136,11 +167,14 @@
         "hospital": "Dr. Gaffar Diagnostic Complex, Pabna",
         "address": "Thana Mor (Beside Shimla Hospital), Hospital Road, Shalgaria, Pabna",
         "visitingTime": "3pm to 8pm (Saturday & Tuesday)",
-        "appointmentNumber": "+8801780817051"
-      },
-      "id": "f45ee3f0-8eb4-408b-a6a4-9279bf5af4cc"
+        "appointmentNumber": "+8801780817051Call Now"
+      }
     },
     {
+      "id": "498f9726-dbc1-48cf-9dbb-33da49604db3",
+      "departmentId": "98ee2fd7-ba42-42e2-9290-5284ef00938f",
+      "link": "https://www.doctorbangladesh.com/dr-md-hafijur-rahman/",
+      "imageId": "df02590c-0021-43be-a413-1dcf3fa658d9",
       "name": "Dr. Md. Hafijur Rahman",
       "degree": "MBBS, MCPS (ENT), DLO",
       "specialty": "Ear, Nose, Throat Specialist & Surgeon",
@@ -150,11 +184,14 @@
         "hospital": "Euro Medical Center, Pabna",
         "address": "Beside JoyKali Bari, Hospital Road, Shalgaria, Pabna",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801772974000"
-      },
-      "id": "c8cbb17c-cba0-4fe1-ac5a-5da5cf91e59c"
+        "appointmentNumber": "+8801772974000Call Now"
+      }
     },
     {
+      "id": "a0ac83a0-8975-4e28-96d0-11d202ce008f",
+      "departmentId": "98ee2fd7-ba42-42e2-9290-5284ef00938f",
+      "link": "https://www.doctorbangladesh.com/prof-dr-ahmmad-taous/",
+      "imageId": "30fb70dd-d737-4be3-b72f-1eea447c51d0",
       "name": "Prof. Dr. Ahmmad Taous",
       "degree": "MBBS, MS (ENT)",
       "specialty": "ENT (Ear, Nose, Throat) Specialist & Head Neck Surgeon",
@@ -164,9 +201,8 @@
         "hospital": "Kimia Diagnostic Center, Pabna",
         "address": "Pach Matha Mor, Beside Central Girls School, Shalgaria, Pabna",
         "visitingTime": "4.30pm to 7pm (Sat to Thu), 10am to 12pm (Friday)",
-        "appointmentNumber": "+8801711489711"
-      },
-      "id": "c1ab8ef6-ec98-44f0-a726-dd8aa45f3b54"
+        "appointmentNumber": "+8801711489711Call Now"
+      }
     }
   ]
 }

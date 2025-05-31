@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "6609c2a2-e9e2-41ef-a72e-5b90c72dcba0",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/dr-rupsha-nure-laila/",
+      "imageId": "afcbc070-5534-43ed-8dad-f3c981698bb0",
       "name": "Dr. Rupsha Nure Laila",
       "degree": "MBBS, FCPS (Surgery), MS (Surgery)",
       "specialty": "General, Colorectal & Laparoscopic Specialist Surgeon",
@@ -10,11 +14,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "5pm to 7pm (Tue, Wed & Thu), 5pm to 7pm (Sat, Sun & Mon",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "34422ef0-a4c5-48d6-8c9b-e96b081240e7"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "e979908d-d212-454c-a388-74f6d6419dc4",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/dr-a-n-m-mozammel-haque/",
+      "imageId": "f0e16b01-29b1-457a-b08a-b1166cb8f4a2",
       "name": "Dr. Abu Naser Md. Mozammel Haque",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Colorectal & Laparoscopic Specialist Surgeon",
@@ -24,25 +31,31 @@
         "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
         "address": "Laxmipur Mor, Rajshahi",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801762685090"
-      },
-      "id": "8aaa7c98-dff3-4d64-9f42-f522dd0c82fc"
+        "appointmentNumber": "+8801762685090Call Now"
+      }
     },
     {
+      "id": "765101cd-4212-4635-8a57-27cbb1fb2a9a",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/dr-h-n-m-shafikuzzaman/",
+      "imageId": "21a6d31e-c569-474b-a9ec-9226623e835c",
       "name": "Dr. H.N.M Shafiquzzaman",
       "degree": "MBBS, BCS (Health), FCPS (Surgery), FACS (USA)",
       "specialty": "General, Laparoscopic, Laser & Colorectal Surgeon",
       "workplace": "Rajshahi Medical College & Hospital",
-      "info": "Labmed Diagnostic Center, Natore\nAddress: Boro Horishpur (Near Goni Petrol Pump), Natore Sadar, Natore\nVisiting Hour: 3pm to 7pm (Wed & Sat) & 10am to 3pm (Friday)\nAppointment: +8801767405380\nCall Now",
+      "info": "Labmed Diagnostic Center, Natore Address: Boro Horishpur (Near Goni Petrol Pump), Natore Sadar, Natore Visiting Hour: 3pm to 7pm (Wed & Sat) & 10am to 3pm (Friday) Appointment: +8801767405380 Call Now",
       "chamber": {
         "hospital": "Medipath Diagnostic Complex, Rajshahi",
         "address": "Shuvecca View, Greater Road, Laxmipur, Kajihata, Rajshahi",
         "visitingTime": "2.30pm to 5pm (Sun, Mon & Tue)",
-        "appointmentNumber": "+8801712934739"
-      },
-      "id": "8020116c-e60a-446d-8e0d-2cd25224151e"
+        "appointmentNumber": "+8801712934739Call Now"
+      }
     },
     {
+      "id": "75bb1de3-bb83-4fe7-8cfa-01020821721e",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/prof-dr-md-abu-bakar-siddique/",
+      "imageId": "9d9d5282-994b-432f-a3d6-8f575d40bfdf",
       "name": "Prof. Dr. Md. Abu Bakar Siddique",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Laparoscopic & Colorectal Surgery Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Islami Bank Hospital, Rajshahi",
         "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801777242536"
-      },
-      "id": "f0e20879-3617-4cae-b3ec-c72f44a21af4"
+        "appointmentNumber": "+8801777242536Call Now"
+      }
     },
     {
+      "id": "efc7dd9e-3c17-4a6f-a0d3-abb64584ddc6",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/dr-md-zalal-uddin/",
+      "imageId": "4a9ff383-76d2-4145-a382-2247a841f373",
       "name": "Dr. Md. Zalal Uddin",
       "degree": "MBBS, FCPS (Surgery Final Part), PhD (Fellow)",
       "specialty": "Piles, Anal Fissure, Fistula, Perianal Abscess, Pilonidal Sinus & Colorectal Surgeon",
@@ -66,25 +82,31 @@
         "hospital": "North Bengal Diagnostic Center, Rajshahi",
         "address": "17, Haque Plaza, Greater Road, Laxmipur, Rajshahi - 6000",
         "visitingTime": "3pm to 5pm (Closed: Friday & Govt. Holidays)",
-        "appointmentNumber": "+8801712111420"
-      },
-      "id": "c2db6304-273f-4f64-a9ea-35b311bbf0c2"
+        "appointmentNumber": "+8801712111420Call Now"
+      }
     },
     {
+      "id": "51dae7e1-937a-4d13-b0c4-5d9c7c9b8b50",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahidul-islam/",
+      "imageId": "f4e28617-fc54-4a88-8bdd-4cf5b2f47811",
       "name": "Dr. Md. Shahidul Islam",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General, Laparoscopic, Breast & Colorectal Surgeon",
       "workplace": "Rajshahi Medical College & Hospital",
-      "info": "Euro Medical Center, Pabna\nAddress: Beside JoyKali Bari, Hospital Road, Shalgaria, Pabna\nVisiting Hour: 4pm to 8pm (Mon & Thu), 9am to 2pm (Fri)\nAppointment: +8801772974000\nCall Now",
+      "info": "Euro Medical Center, Pabna Address: Beside JoyKali Bari, Hospital Road, Shalgaria, Pabna Visiting Hour: 4pm to 8pm (Mon & Thu), 9am to 2pm (Fri) Appointment: +8801772974000 Call Now",
       "chamber": {
         "hospital": "Islami Bank Hospital, Rajshahi",
         "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801777242536"
-      },
-      "id": "309113fd-6b41-48a2-bc34-e527c859c221"
+        "appointmentNumber": "+8801777242536Call Now"
+      }
     },
     {
+      "id": "31af0a3f-62b7-4c4d-b73d-c48097a8b59f",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/dr-md-habibullah-sarkar/",
+      "imageId": "2190d62f-f19d-4ab2-adc2-2b8afa2aca95",
       "name": "Prof. Dr. Md. Habibullah Sarkar",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General, Laparoscopic, Breast & Colorectal Surgeon",
@@ -94,11 +116,14 @@
         "hospital": "Micropath Diagnostic Center, Rajshahi",
         "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801724550544"
-      },
-      "id": "cbbf378f-33a1-4093-be3f-cf59f74d7e35"
+        "appointmentNumber": "+8801724550544Call Now"
+      }
     },
     {
+      "id": "8fdd059d-e67a-4915-9d18-a4e325ff7c92",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/dr-s-m-ahsan-shahid/",
+      "imageId": "0de675bd-8f61-4655-83c7-4bd86ff7907b",
       "name": "Dr. S. M. Ahsan Shahid",
       "degree": "MBBS, FCPS (Surgery), MS (Pediatric Surgery), PhD (Hypospadias Surgery)",
       "specialty": "Pediatric, General, Laparoscopic, Urology & Cancer Surgeon",
@@ -108,25 +133,31 @@
         "hospital": "Islami Bank Hospital, Rajshahi",
         "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
         "visitingTime": "2.30pm to 4pm & 7.30pm to 9pm (Everyday)",
-        "appointmentNumber": "+8801711277286"
-      },
-      "id": "a546eb11-9a63-479f-8d70-37934e2a8323"
+        "appointmentNumber": "+8801711277286Call Now"
+      }
     },
     {
+      "id": "4151aae0-436d-407a-82b0-05474ec6d0f7",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/dr-ms-roy/",
+      "imageId": "e1e1ae34-8854-43a8-b3b2-628f7ff8e001",
       "name": "Dr. MS ROY",
       "degree": "MBBS, BCS (Health), FCPS (Surgery), FACS (USA)",
       "specialty": "General, Laparoscopic & Colorectal Surgeon(Piles, Anal Fissure, Fistula, Sinus, Perianal Abscess, Etc)",
       "workplace": "250 Bed District (Sadar) Hospital, Bagerhat",
-      "info": "Sandhani Clinic & Diagnostic Complex, Khulna\nAddress: 58, Babu Khan Road, Opposite of Azam Khan Commerce College, Khulna\nVisiting Hour: 2.30pm to 6.30pm (Sunday), 2pm to 3.30pm (Wednesday)\nAppointment: +8801773411133\nCall Now",
+      "info": "Sandhani Clinic & Diagnostic Complex, Khulna Address: 58, Babu Khan Road, Opposite of Azam Khan Commerce College, Khulna Visiting Hour: 2.30pm to 6.30pm (Sunday), 2pm to 3.30pm (Wednesday) Appointment: +8801773411133 Call Now",
       "chamber": {
         "hospital": "Munzu Hospital, Rajshahi",
         "address": "North Side of GPO, Laxmipur, Kazihata, Rajshahi",
         "visitingTime": "3pm to 8pm (Thu, Fri & Saturday)",
-        "appointmentNumber": "+8801773411133"
-      },
-      "id": "c771c284-bd31-4ccc-bc42-5b773cd26419"
+        "appointmentNumber": "+8801773411133Call Now"
+      }
     },
     {
+      "id": "94bba45a-45b2-4919-b75d-e003a0f8d16e",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/dr-md-golam-mortuza/",
+      "imageId": "e0fc2b43-c974-4b2f-bb57-120f66b29979",
       "name": "Dr. Md. Golam Mortuza",
       "degree": "MBBS, BCS (Health), MS (Surgery), FCPS (Surgery - P2)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -136,11 +167,14 @@
         "hospital": "Islami Bank Hospital, Rajshahi",
         "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
         "visitingTime": "2pm to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801777242536"
-      },
-      "id": "c47b900c-1ba1-4aa3-a129-1b73e977dbd7"
+        "appointmentNumber": "+8801777242536Call Now"
+      }
     },
     {
+      "id": "80ef644b-645c-430e-ac14-f026ba0647d5",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/dr-a-k-m-golam-kibriya/",
+      "imageId": "9890e1b1-cd6f-43e7-a259-00ba4fb73147",
       "name": "Prof. Dr. A.K.M. Golam Kibriya",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General & Laparoscopic Specialist Surgeon",
@@ -150,25 +184,31 @@
         "hospital": "Zamzam Islami Hospital, Rajshahi",
         "address": "Greater Road, Kazihata, Laxmipur, Rajshahi",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801711192600"
-      },
-      "id": "231a56da-893c-47ca-a11f-1419b2c8394d"
+        "appointmentNumber": "+8801711192600Call Now"
+      }
     },
     {
+      "id": "02d26180-5118-49b6-82c7-ef50340991bd",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/dr-md-baharul-islam/",
+      "imageId": "46845a91-5285-4867-87cd-166e6e804a2c",
       "name": "Dr. Md. Baharul Islam",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General & Laparoscopic Surgeon",
       "workplace": "Rajshahi Medical College & Hospital",
-      "info": "Rajshahi Model Hospital\nAddress: United Plaza, Laxmipur Mor, Rajshahi\nVisiting Hour: Unknown. Please call to know visiting hour\nAppointment: +8801773844844\nCall Now",
+      "info": "Rajshahi Model Hospital Address: United Plaza, Laxmipur Mor, Rajshahi Visiting Hour: Unknown. Please call to know visiting hour Appointment: +8801773844844 Call Now",
       "chamber": {
         "hospital": "Islami Bank Hospital, Rajshahi",
         "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801777242536"
-      },
-      "id": "1f12f442-3f5f-4f2a-8039-70e9b7460830"
+        "appointmentNumber": "+8801777242536Call Now"
+      }
     },
     {
+      "id": "742bfdd3-a1e9-4ec1-8eac-88b78c3c2619",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/dr-md-ashraful-alam/",
+      "imageId": "d3f9a893-c2bd-4dbe-b3fe-9535c72d0d9b",
       "name": "Dr. Md. Ashraful Alam",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -178,25 +218,31 @@
         "hospital": "Rajshahi Model Hospital",
         "address": "United Plaza, Laxmipur Mor, Rajshahi",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801773844844"
-      },
-      "id": "b956ecd8-6d99-4551-95d2-44c97c1192fb"
+        "appointmentNumber": "+8801773844844Call Now"
+      }
     },
     {
+      "id": "889b8384-d2ce-4065-b401-30fa7f05749d",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/dr-sultanul-abedin-titas/",
+      "imageId": "4e278a50-9d09-4b29-ad8f-56859efe37f4",
       "name": "Dr. Sultanul Abedin Titash",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General, Laparoscopic & Breast Specialist Surgeon",
       "workplace": "Rajshahi Medical College & Hospital",
-      "info": "Rajshahi Diabetic Association General Hospital\nAddress: Jhautola Mor, Laxmipur, Rajpara, Rajshahi\nVisiting Hour: 3pm to 5pm (Closed: Friday)\nAppointment: +8801727974739\nCall Now",
+      "info": "Rajshahi Diabetic Association General Hospital Address: Jhautola Mor, Laxmipur, Rajpara, Rajshahi Visiting Hour: 3pm to 5pm (Closed: Friday) Appointment: +8801727974739 Call Now",
       "chamber": {
         "hospital": "Zamzam Islami Hospital, Rajshahi",
         "address": "Greater Road, Kazihata, Laxmipur, Rajshahi",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801711192600"
-      },
-      "id": "75836262-1169-4179-8eb8-c5f105b33ca8"
+        "appointmentNumber": "+8801711192600Call Now"
+      }
     },
     {
+      "id": "7bf4df17-7229-4b56-b89e-a4faa7462825",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/dr-md-moniruzzaman-sarker-surgeon/",
+      "imageId": "5ffaf47d-1a51-4235-8f70-a4cbe72c993e",
       "name": "Dr. Md. Moniruzzaman Sarker",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General Surgeon",
@@ -206,25 +252,31 @@
         "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
         "address": "Laxmipur Mor, Rajshahi",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801762685090"
-      },
-      "id": "b93d4dee-57bb-4d84-8aea-e231cad3be8f"
+        "appointmentNumber": "+8801762685090Call Now"
+      }
     },
     {
+      "id": "dd015146-3175-41ee-8cb7-e05f1e06a798",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahidul-islam-robin/",
+      "imageId": "fdd586d3-84f6-4ed3-b3aa-f23ba8eaa23f",
       "name": "Dr. Md. Shahidul Islam Robin",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General, Laparoscopic & Hernia Surgery Specialist",
       "workplace": "Upazila Health Complex, Charghat",
-      "info": "Islami Bank Hospital, Rajshahi\nAddress: Medical Mor, Laxmipur, Rajshahi – 6000\nVisiting Hour: 10am to 12pm & 3pm to 8pm (Only Friday)\nAppointment: +8801777242536\nCall Now",
+      "info": "Islami Bank Hospital, Rajshahi Address: Medical Mor, Laxmipur, Rajshahi – 6000 Visiting Hour: 10am to 12pm & 3pm to 8pm (Only Friday) Appointment: +8801777242536 Call Now",
       "chamber": {
         "hospital": "Oasis HRD & Training Center",
         "address": "49/1, Rajib Chottor, Rajshahi - 6600",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801711439519"
-      },
-      "id": "8f3ed511-95f7-41e2-8667-cfb152ad49c8"
+        "appointmentNumber": "+8801711439519Call Now"
+      }
     },
     {
+      "id": "6953113b-9cc7-4243-8ad4-6da52f4efad2",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/dr-iftekhar-md-kudrat-e-khuda/",
+      "imageId": "9c985dd8-2462-41f0-8b56-1169f2cdf11c",
       "name": "Dr. Iftekhar Md. Kudrat-E-Khuda",
       "degree": "MBBS, BCS (Health), MS (Surgery)",
       "specialty": "General & Laparoscopic Specialist Surgeon",
@@ -234,11 +286,14 @@
         "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
         "address": "Laxmipur Mor, Rajshahi",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801762685090"
-      },
-      "id": "cd6f076c-67e6-4f59-85d9-b2143ff4f4f2"
+        "appointmentNumber": "+8801762685090Call Now"
+      }
     },
     {
+      "id": "4a730191-5ff7-4ff0-bb66-149ad148e5d8",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/dr-md-mohibul-hasan/",
+      "imageId": "579866ef-2f8f-4390-b5d3-6bc8250bcfb2",
       "name": "Prof. Dr. Md. Mohibul Hasan",
       "degree": "MBBS, MCPS (Surgery), MS (Surgery), PhD (Surgery)",
       "specialty": "General, Laparoscopic, Hepatobiliary & Pancreatic Surgery Specialist",
@@ -248,11 +303,14 @@
         "hospital": "Labaid Diagnostic, Rajshahi",
         "address": "House # 621, Shershah Road, Rajpara, Laxmipur, Rajshahi",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766661144"
-      },
-      "id": "2e6d2b40-6482-4724-9db8-c6bbb913698a"
+        "appointmentNumber": "+8801766661144Call Now"
+      }
     },
     {
+      "id": "807a1efc-4e82-45a0-8867-3429dd336558",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/dr-md-mahbubul-alam/",
+      "imageId": "31d2c094-b315-4560-b9dc-9c2834d2e43d",
       "name": "Dr. Md. Mahbubul Alam",
       "degree": "MBBS, MS (Surgery)",
       "specialty": "General, Laparoscopic & Laser Specialist Surgeon",
@@ -262,11 +320,14 @@
         "hospital": "Zamzam Islami Hospital, Rajshahi",
         "address": "Greater Road, Kazihata, Laxmipur, Rajshahi",
         "visitingTime": "3pm to 8pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8801711192600"
-      },
-      "id": "7d2e4ee5-8762-4dd6-9d37-9be5f5263dbd"
+        "appointmentNumber": "+8801711192600Call Now"
+      }
     },
     {
+      "id": "cc4cdd15-bcb1-484a-8c32-882b05a9e2c0",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/dr-md-shohidul-islam/",
+      "imageId": "2dc5c4c6-2e65-4581-8559-55b9b3b5fcf5",
       "name": "Dr. Md. Shohidul Islam",
       "degree": "MBBS (DMC), FCPS (Surgery), FMAS (Laparoscopic Surgery, India)",
       "specialty": "General, Colorectal & Laparoscopic Surgery Specialist",
@@ -276,11 +337,14 @@
         "hospital": "Islami Bank Hospital, Rajshahi",
         "address": "Building 1, 306, CT Station Road, Rajshahi 6000",
         "visitingTime": "4pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801934486652"
-      },
-      "id": "e62c9de3-b710-4ba9-9f61-973b1d1f3ccb"
+        "appointmentNumber": "+8801934486652Call Now"
+      }
     },
     {
+      "id": "76e1e9ac-fd13-4a55-a1ee-8be09fa920cb",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/dr-md-shahjahan-ali-tito/",
+      "imageId": "c7b5682e-20ca-47a6-9080-d21f4d0dc3c7",
       "name": "Dr. Md. Shahjahan Ali Tito",
       "degree": "MBBS, MS (Surgery)",
       "specialty": "General & Laparoscopic Surgery Specialist",
@@ -290,11 +354,14 @@
         "hospital": "Green Diagnostic & Consultant Center, Rajshahi",
         "address": "Laxmipur, Rajshahi",
         "visitingTime": "7pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766-655966"
-      },
-      "id": "5dda0727-ccf4-431d-8139-5607dea0e275"
+        "appointmentNumber": "+8801766-655966Call Now"
+      }
     },
     {
+      "id": "00ad0880-55bd-4bf9-a2f5-5b4859587253",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/dr-khandaker-golam-mostafa-kabir/",
+      "imageId": "38189d37-f919-4ff6-96dd-8e652f2ac02f",
       "name": "Dr. Khandaker Golam Mostafa Kabir",
       "degree": "MBBS, FCGP, PGT, MPH, PhD",
       "specialty": "Surgery Specialist",
@@ -304,11 +371,14 @@
         "hospital": "Rajshahi Model Hospital",
         "address": "United Plaza, Laxmipur Mor, Rajshahi",
         "visitingTime": "10am to 10pm (Everyday)",
-        "appointmentNumber": "+8801773844844"
-      },
-      "id": "a1e48e0d-b286-4b2f-b168-8261eb91a9f9"
+        "appointmentNumber": "+8801773844844Call Now"
+      }
     },
     {
+      "id": "6d703751-a06e-4b51-b822-4b88cc57dea8",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/dr-md-azizul-islam/",
+      "imageId": "3622a080-8140-4c11-be8c-05cb6ce154e7",
       "name": "Dr. Md. Azizul Islam",
       "degree": "MBBS, BCS (Health), MS (Surgery)",
       "specialty": "General Surgeon",
@@ -318,11 +388,14 @@
         "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
         "address": "Laxmipur Mor, Rajshahi",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801762685090"
-      },
-      "id": "439b8262-7afe-4303-8972-e32b24dc7294"
+        "appointmentNumber": "+8801762685090Call Now"
+      }
     },
     {
+      "id": "1e3dc556-0843-426c-9386-13f65c841e51",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/dr-golam-mohammad/",
+      "imageId": "6dd37914-d738-4ca6-a56d-0f73785fa431",
       "name": "Dr. Golam Mohammad",
       "degree": "MBBS, FCPS (Surgery)",
       "specialty": "General & Laparoscopic Surgeon",
@@ -332,11 +405,14 @@
         "hospital": "Rajshahi Central Hospital",
         "address": "Mehedi Plaza, Greater Road, Laxmipur Mor, Rajshahi",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801997383940"
-      },
-      "id": "77014afa-0226-4a68-9a57-fe9a46a47bc5"
+        "appointmentNumber": "+8801997383940Call Now"
+      }
     },
     {
+      "id": "dd5bfc93-eb33-4547-956e-dde74a325516",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/dr-mahinul-islam-shuvro/",
+      "imageId": "588f5d76-7a62-47af-b70e-8409b09747d1",
       "name": "Dr. Md. Mahinul Islam (Shuvro)",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General & Laparoscopic Surgery Specialist",
@@ -346,11 +422,14 @@
         "hospital": "Al Arafa Clinic & Diagnostic Center, Rajshahi",
         "address": "Bornali Mor, Rajshahi",
         "visitingTime": "2pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801711359480"
-      },
-      "id": "02d63253-8690-4c87-87ec-de7b81452e9d"
+        "appointmentNumber": "+8801711359480Call Now"
+      }
     },
     {
+      "id": "abbafbde-e322-4dd9-89a6-3d03cd0488dc",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/dr-md-nahiduzzaman-nahid/",
+      "imageId": "3965b4d5-8b5e-47ee-87ca-7c124477805b",
       "name": "Dr. Md. Nahiduzzaman Nahid",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General & Endo-Laparoscopic Surgeon",
@@ -360,11 +439,14 @@
         "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
         "address": "Laxmipur Mor, Rajshahi",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801762685090"
-      },
-      "id": "58acbc36-8667-40e0-9ac2-945ee0153e75"
+        "appointmentNumber": "+8801762685090Call Now"
+      }
     },
     {
+      "id": "334a1615-5bb2-454d-9d56-ef2831684862",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/dr-syeda-momena-hossain-nishi/",
+      "imageId": "e848173c-94a2-45d3-b742-e895199bdf8b",
       "name": "Dr. Syeda Momena Hossain (Nishi)",
       "degree": "MBBS, BCS (Health), MS (BSMMU)",
       "specialty": "General, Laparoscopic, Breast & Colorectal Surgeon",
@@ -374,11 +456,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "4.30pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "978dd2c0-55bd-443a-880e-accfac908988"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "4a3543f8-7a1d-47e0-9b6a-2db26352157d",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/dr-farhan-imtiaz-chowdhury/",
+      "imageId": "65815c87-4841-48e6-b792-8444e9f23056",
       "name": "Dr. Farhan Imtiaz Chowdhury",
       "degree": "MBBS, BCS (Health), FCPS (Surgery), FIAGES(India), FACS (USA)",
       "specialty": "Laparoscopic, Piles, Laser, Hernia, Breast & General Surgeon",
@@ -388,11 +473,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "03a3f0b1-c3c4-43bb-b328-af52ee0231d6"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "c43d39a4-8a86-46e7-899c-7372a3944a98",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/dr-md-sofi-ullah/",
+      "imageId": "c7c1e4a6-a21f-4807-9d39-15935985f95d",
       "name": "Dr. Md. Sofi Ullah",
       "degree": "MBBS, BCS (Health), FCPS (Surgery), FACS (America), FMAS (India)",
       "specialty": "General, Laparoscopic, Colorectal & Breast Surgeon",
@@ -402,11 +490,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "2.30pm to 7pm (Everyday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "5aed6019-da26-4273-a1b0-2a462301e899"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "68063a5b-10db-41ab-8c93-c805c04f860e",
+      "departmentId": "7490af8a-2e94-4219-97ce-b851572822dd",
+      "link": "https://www.doctorbangladesh.com/dr-md-anwarul-haque/",
+      "imageId": "3ad9752a-b100-4672-8896-43859011bc07",
       "name": "Dr. Md. Anwarul Haque",
       "degree": "MBBS, BCS (Health), FCPS (Surgery)",
       "specialty": "General, Laparoscopic, Breast & Colorectal Surgeon",
@@ -416,9 +507,8 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "978b36e4-e1f3-494f-934f-35a14e966d0a"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     }
   ]
 }

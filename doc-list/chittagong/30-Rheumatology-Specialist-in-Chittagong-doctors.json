@@ -1,34 +1,44 @@
 {
   "doctor": [
     {
+      "id": "98669693-319f-4a23-b1d8-ccd768829507",
+      "departmentId": "d0bd368d-3e43-4016-8d3f-3721783d9254",
+      "link": "https://www.doctorbangladesh.com/dr-gias-uddin/",
+      "imageId": "28dffbdb-fcd1-4052-b0ea-9de4be56c8b8",
       "name": "Dr. Md. Gias Uddin",
       "degree": "MBBS (SSMC), BCS (Health), MD (Rheumatology)MSK Sonologist",
       "specialty": "Rheumatology (Arthritis, Vasculitis, SLE, Osteoporosis) Specialist",
       "workplace": "Directorate General of Health Services (DGHS)",
-      "info": "National Hospital, Chittagong\nAddress: 14/15, Dampara Lane, Mehedibag, Chattogram\nVisiting Hour: 3pm to 6pm (Sat, Sun, Tue & Wed)\nAppointment: +8801751238396\nCall Now",
+      "info": "National Hospital, Chittagong Address: 14/15, Dampara Lane, Mehedibag, Chattogram Visiting Hour: 3pm to 6pm (Sat, Sun, Tue & Wed) Appointment: +8801751238396 Call Now",
       "chamber": {
         "hospital": "Epic Diagnostic",
         "address": "Chawkbazar, Chattagram",
         "visitingTime": "7pm to 9pm (Sat, Mon, Tue & Thu)",
-        "appointmentNumber": "+8801751238396"
-      },
-      "id": "35e7702f-cec4-47cd-9bc7-83b773ab7954"
+        "appointmentNumber": "+8801751238396Call Now"
+      }
     },
     {
+      "id": "d164e944-1402-4c85-b1ae-0d679c24bdcf",
+      "departmentId": "d0bd368d-3e43-4016-8d3f-3721783d9254",
+      "link": "https://www.doctorbangladesh.com/dr-md-nazibur-rahman-khokon/",
+      "imageId": "bf2a7edd-d148-4f0e-b2d3-4d6f328510d2",
       "name": "Dr. Md. Nazibur Rahman Khokon",
       "degree": "MBBS, MCPS (Medicine), MD (Rheumatology), ECRD (Switzerland)",
       "specialty": "Rheumatology, Arthritis & Medicine Specialist",
       "workplace": "Parkview Hospital Ltd, Chittagong",
-      "info": "Islami Bank Hospital, Chittagong\nAddress: 3, Sheikh Mujib Road, Agrabad, Chittagong\nVisiting Hour: 3pm to 5pm (Sat, Mon & Wed)\nAppointment: +8801810000122\nCall Now",
+      "info": "Islami Bank Hospital, Chittagong Address: 3, Sheikh Mujib Road, Agrabad, Chittagong Visiting Hour: 3pm to 5pm (Sat, Mon & Wed) Appointment: +8801810000122 Call Now",
       "chamber": {
         "hospital": "Parkview Hospital, Chittagong",
         "address": "Room 208, 94/103, Katalganj Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 10pm (Closed: Tue & Friday)",
-        "appointmentNumber": "+8801781292892"
-      },
-      "id": "2e6a7e7d-dae5-4801-a821-0417c1785c78"
+        "appointmentNumber": "+8801781292892Call Now"
+      }
     },
     {
+      "id": "36b20504-872e-4cad-b5fe-5a280a2991e7",
+      "departmentId": "d0bd368d-3e43-4016-8d3f-3721783d9254",
+      "link": "https://www.doctorbangladesh.com/dr-abdullah-al-morshed/",
+      "imageId": "5151ff0a-9034-42e5-b9d4-0d04af60d4b2",
       "name": "Dr. Abdullah Al Morshed",
       "degree": "MBBS, BCS (Health), MD (Rheumatology)",
       "specialty": "Rheumatology (Arthritis, Osteoarthritis, Pain, Gout) Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Popular Diagnostic Center, Chittagong",
         "address": "20/B, K. B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "2:30pm to 5pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787810"
-      },
-      "id": "c93e8697-85ba-431b-ac48-a2cd76709214"
+        "appointmentNumber": "+8809666787810Call Now"
+      }
     },
     {
+      "id": "53fa3b00-4088-4f20-b14b-80f208ea001b",
+      "departmentId": "d0bd368d-3e43-4016-8d3f-3721783d9254",
+      "link": "https://www.doctorbangladesh.com/dr-nasim-reza-chowdhury/",
+      "imageId": "477d3c40-dd13-4b8e-9eb6-86f87b9d39bb",
       "name": "Dr. Nasim Reza Chowdhury",
       "degree": "MBBS, BCS (Health), MD (Rheumatology), ECRD (Switzerland)",
       "specialty": "Rheumatology Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Epic Healthcare, Chittagong",
         "address": "19, K.B. Fazlul Kader Road, Panchlaish, Chattogram",
         "visitingTime": "6pm to 10pm (Only Friday)",
-        "appointmentNumber": "+8801984499600"
-      },
-      "id": "7000b2e5-404c-4839-aad4-d31d2ffc3100"
+        "appointmentNumber": "+8801984499600Call Now"
+      }
     },
     {
+      "id": "51fe61ae-9c64-4471-9426-1d41055c86f8",
+      "departmentId": "d0bd368d-3e43-4016-8d3f-3721783d9254",
+      "link": "https://www.doctorbangladesh.com/asst-prof-dr-abdul-mahin-tazbir/",
+      "imageId": "19033eab-2142-41d4-a7b0-5d254dfcb795",
       "name": "Asst. Prof Dr. Abdul Mahin Tazbir",
       "degree": "MBBS, MD (Rheumatology, BMU), ECRD (Switzerland)",
       "specialty": "Rheumatology (Arthritis-RA, SpA, SLE, Osteoporosis) Specialist",
@@ -66,9 +82,8 @@
         "hospital": "National Hospital, Chittagong",
         "address": "Room-4022, 14/15, Dampara Lane, Mehedibag, Chattogram",
         "visitingTime": "3pm to 6pm (Thursday & Friday)",
-        "appointmentNumber": "+8801318676153"
-      },
-      "id": "0d574382-f475-417f-9ae7-51c6a4937c4f"
+        "appointmentNumber": "+8801318676153Call Now"
+      }
     }
   ]
 }

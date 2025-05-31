@@ -1,6 +1,10 @@
 {
   "doctor": [
     {
+      "id": "0b1f2e27-42be-4f11-be2c-c6fd603cefdb",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-md-sumon-reza/",
+      "imageId": "e5995977-6e2f-4e6f-a701-1c6a2b73edfa",
       "name": "Dr. Md. Sumon Reza",
       "degree": "MS (Orthodontics), MCPS (Dental Surgery), FRSPH (London ), BDS (DDC), BCS (Health)",
       "specialty": "Orthodontics/Dental Braces Specialistআঁকা-বাঁকা, উঁচু-নিচু ও ফাঁকা দাঁত/চোয়াল বিশেষজ্ঞ ও ডেন্টাল কনসালটেন্ট",
@@ -10,11 +14,14 @@
         "hospital": "Dent In Dental Clinic (2nd Floor)",
         "address": "Beside of 10 No. Ward Councilor Office, Rajib Chottor, Rajshahi",
         "visitingTime": "3pm to 8pm (Sat, Sun, Mon & Wed)",
-        "appointmentNumber": "+8801762749594"
-      },
-      "id": "194ddad4-cc2c-4cf8-9055-a2840f7a7ba5"
+        "appointmentNumber": "+8801762749594Call Now"
+      }
     },
     {
+      "id": "efd3fc45-b0dd-4197-a8b1-29846a0fb9dc",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-naznin-sultana-munni/",
+      "imageId": "c709eba5-c25f-4fbd-9c35-315cbeda9915",
       "name": "Dr. Naznin Sultana (Munni)",
       "degree": "BDS, BCS (Health), FCPS (Orthodontics & Dentofacial Orthopedics)",
       "specialty": "Oral & Dental Surgeon (Orthodontist)",
@@ -24,11 +31,14 @@
         "hospital": "RMB Hospital & Diagnostic Center",
         "address": "467/5, Jhautola More, Laxmipur, Rajshahi",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801717-514454"
-      },
-      "id": "1164a733-3514-449b-a11c-1c6f5ea80b14"
+        "appointmentNumber": "+8801717-514454Call Now"
+      }
     },
     {
+      "id": "6e383727-2b26-471e-b244-b203e5ca725b",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-a-k-m-asad-polash/",
+      "imageId": "f26e2564-f2f9-48d7-8c4e-c9fc8d5d55cd",
       "name": "Dr. A.K.M. Asad Palash",
       "degree": "BDS (RU), BCS (Health), FDIT (India), MPH (BSMMU)",
       "specialty": "Oral, Dental & Orthodontic Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Rajshahi Metropolitan Hospital",
         "address": "C&B Mor, Laxmipur, Kazihata, Rajshahi - 6000",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801766865711"
-      },
-      "id": "b3d46d94-8456-4371-a555-fde61eb63d2b"
+        "appointmentNumber": "+8801766865711Call Now"
+      }
     },
     {
+      "id": "9d6bb0b4-3cba-4282-9ca0-0eb6ddb3c50e",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-hasibul-hasan-emon/",
+      "imageId": "c5f60fb1-c3ba-4cac-915b-e02195594b37",
       "name": "Dr. Hasibul Hasan Emon",
       "degree": "BDS (DU), PGT, MS",
       "specialty": "Oral, Dental & Maxillofacial Surgery Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Islami Bank Hospital, Rajshahi",
         "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
         "visitingTime": "4pm to 7pm (Closed: Friday)",
-        "appointmentNumber": "+8801777242536"
-      },
-      "id": "0b51de51-48b0-4914-ad57-7acb205e79e5"
+        "appointmentNumber": "+8801777242536Call Now"
+      }
     },
     {
+      "id": "5618590a-035a-44e1-8665-340adef069bb",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-jannatul-ferdous/",
+      "imageId": "c0a547ad-6efe-41ac-abfd-ad46cd4945e6",
       "name": "Dr. Jannatul Ferdous",
       "degree": "BDS, PGT",
       "specialty": "Oral & Dental Surgeon",
@@ -66,11 +82,14 @@
         "hospital": "Islami Bank Hospital, Rajshahi",
         "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801777242536"
-      },
-      "id": "e50b93ce-a27f-42a2-97ab-bd4558872b14"
+        "appointmentNumber": "+8801777242536Call Now"
+      }
     },
     {
+      "id": "c841da87-720d-4711-82d5-57cf60322428",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-md-mominul-haque/",
+      "imageId": "2ca02696-0c7c-457d-82c7-543756fb7d08",
       "name": "Dr. Md. Mominul Haque",
       "degree": "BDS, PGT (Oral & Maxillofacial Surgery)",
       "specialty": "Dental, Oral & Maxillofacial Surgeon",
@@ -80,11 +99,14 @@
         "hospital": "Dental Library, Rajshahi",
         "address": "Ghospara Moor, Kolabagan Road, Rajshahi (East Side of RMC, Auditorium)",
         "visitingTime": "10am to 1pm & 4pm to 9pm (Friday: On Call)",
-        "appointmentNumber": "+8801865488002"
-      },
-      "id": "376dc4b6-21f3-4bf9-a4ac-242d5ac15aa3"
+        "appointmentNumber": "+8801865488002Call Now"
+      }
     },
     {
+      "id": "85a98e73-850c-422f-86d9-d50d253bac86",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-md-mobasher-hossain-sohel/",
+      "imageId": "f559f9fd-b6d7-4449-ba37-164d7642cfe7",
       "name": "Dr. Md. Mobasher Hossain Sohel",
       "degree": "BDS, PGT",
       "specialty": "Oral & Dental Surgeon",
@@ -94,11 +116,14 @@
         "hospital": "Islami Bank Hospital, Rajshahi",
         "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
         "visitingTime": "9am to 5pm (Closed: Friday)",
-        "appointmentNumber": "+8801777242536"
-      },
-      "id": "73d91b6c-fba4-49e9-b2cf-64015a12b210"
+        "appointmentNumber": "+8801777242536Call Now"
+      }
     },
     {
+      "id": "2c81d79c-bb6f-48e1-a85d-08322b820fd3",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-md-roknuzzaman-ripon/",
+      "imageId": "02b188a1-2550-48e5-aad2-04f0100f6294",
       "name": "Dr. Md. Roknuzzaman Ripon",
       "degree": "BDS, MPH, FICD",
       "specialty": "Oral & Dental Disease Specialist",
@@ -108,11 +133,14 @@
         "hospital": "Rajshahi Diabetic Association General Hospital",
         "address": "Jhautola Mor, Laxmipur, Rajshahi",
         "visitingTime": "10am to 1pm (Closed: Friday) & Evening (On Appointment)",
-        "appointmentNumber": "+8801712567334"
-      },
-      "id": "1c6f9d11-0a05-4a47-b335-21a8f6c75788"
+        "appointmentNumber": "+8801712567334Call Now"
+      }
     },
     {
+      "id": "d41e276d-1e16-43e0-a395-caf8dc62d236",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-md-mizanur-rahman-dental/",
+      "imageId": "4078fc68-28dc-41fb-92ba-32591d323cc0",
       "name": "Dr. Md. Mizanur Rahman",
       "degree": "BDS (DDC), PGT (OMS)",
       "specialty": "Oral & Maxillofacial Surgery Specialist",
@@ -122,25 +150,31 @@
         "hospital": "Mizan Dental Care, Rajshahi",
         "address": "House # 106/2, Baharampur, Rajshahi",
         "visitingTime": "10am to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801748876927"
-      },
-      "id": "4980ef3c-a478-407d-9d68-910951f09096"
+        "appointmentNumber": "+8801748876927Call Now"
+      }
     },
     {
+      "id": "f85d484e-8c0d-4012-a56d-7dfb650faa46",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-m-shahriyar-porosh/",
+      "imageId": "60a992e3-14ad-4200-a5eb-2deaf17eb1d8",
       "name": "Dr. M. Shahriyar Porosh",
       "degree": "BDS (RU), PGT (Oral & Maxillofacial Surgery), PGT (Conservative Dentistry & Endodontics)",
       "specialty": "Dental, Oral & Maxillofacial Surgery Specialist",
       "workplace": "PrincipalRajshahi Medical Assistant Training School",
-      "info": "Dr. M. Shahriyar Porosh is a Dentist in Rajshahi. His qualification is BDS (RU), PGT (Oral & Maxillofacial Surgery), PGT (Conservative Dentistry & Endodontics). He is the  at Rajshahi Medical Assistant Training School. He regularly provides treatment to his patients at Dental Story. Practicing hour of Dr. M. Shahriyar Porosh at Dental Story is 10am to 1pm & 4.30pm to 9pm (Friday On Call).",
+      "info": "Dr. M. Shahriyar Porosh is a Dentist in Rajshahi. His qualification is BDS (RU), PGT (Oral & Maxillofacial Surgery), PGT (Conservative Dentistry & Endodontics). He is the at Rajshahi Medical Assistant Training School. He regularly provides treatment to his patients at Dental Story. Practicing hour of Dr. M. Shahriyar Porosh at Dental Story is 10am to 1pm & 4.30pm to 9pm (Friday On Call).",
       "chamber": {
         "hospital": "Dental Story",
         "address": "Opposite of Zamzam Islami Hospital, Laxmipur, Rajshahi",
         "visitingTime": "10am to 1pm & 4.30pm to 9pm (Friday On Call)",
-        "appointmentNumber": "+8801623478091"
-      },
-      "id": "ea38ac9a-9505-47e5-a38c-1a718c70c0d3"
+        "appointmentNumber": "+8801623478091Call Now"
+      }
     },
     {
+      "id": "af270773-2d59-4638-935a-6691b578ad78",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-rasel-bin-monsur/",
+      "imageId": "e31886ec-e571-4aec-8166-ad7844226b42",
       "name": "Dr. Rasel-Bin-Monsur",
       "degree": "BDS, MPH",
       "specialty": "Oral & Dental Surgeon",
@@ -150,11 +184,14 @@
         "hospital": "Rasel’s Dental Centre",
         "address": "Sepaipara, Infront of Rajshahi Medical College",
         "visitingTime": "3pm to 10pm (Sat to Thu), 9am to 12pm (Friday)",
-        "appointmentNumber": "+8801740004004"
-      },
-      "id": "27eca915-d718-4ae6-8270-d5ca0a6a4844"
+        "appointmentNumber": "+8801740004004Call Now"
+      }
     },
     {
+      "id": "d2c2e3f0-7018-4b9c-801a-86e41bee113a",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-arin-akbar-mou/",
+      "imageId": "0d1ba1b9-2e9e-4591-96b3-62bd5bde07c7",
       "name": "Dr. Arin Akbar Mou",
       "degree": "BDS, PGT, MPH",
       "specialty": "Oral, Dental & Maxillofacial Surgery Specialist",
@@ -164,11 +201,14 @@
         "hospital": "Dental Art, Rajshahi",
         "address": "In-between Medical Ghoshpara and Fire Service Mor, West Side, Shipaipara, Rajshahi",
         "visitingTime": "5pm to 8.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801760553400"
-      },
-      "id": "eab754c4-58b1-4929-b472-50c02eddb626"
+        "appointmentNumber": "+8801760553400Call Now"
+      }
     },
     {
+      "id": "1205e964-ae4d-49e9-842e-fd328e036b8e",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-touhid-bin-mozib/",
+      "imageId": "092bfc1b-4d9c-47e2-b47c-4c6bdda34a47",
       "name": "Dr. Touhid Bin Mozib",
       "degree": "BDS (RMC), PGT (Oral & Maxillofacial Surgery)",
       "specialty": "Oral & Dental Surgeon",
@@ -178,11 +218,14 @@
         "hospital": "Oral Dental Care, Sipaipara, Rajshahi",
         "address": "2nd floor, Medical College Gate, Sipaipara, Rajshahi",
         "visitingTime": "10am to 2pm & 4pm to 10pm",
-        "appointmentNumber": "+8801721100332"
-      },
-      "id": "f5077fe3-5b35-48d2-9aa1-2ad517e631b1"
+        "appointmentNumber": "+8801721100332Call Now"
+      }
     },
     {
+      "id": "d17d0c7c-cfb1-4de8-ad34-103468eb8c25",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-mir-younus-ali-rimon/",
+      "imageId": "cc194feb-1938-417d-a03a-c33585a05bf3",
       "name": "Dr. Mir Younus Ali Rimon",
       "degree": "BDS, , MPH, PGT (Conservative Dentistry & Endodontics)",
       "specialty": "Oral & Dental Surgeon",
@@ -192,25 +235,31 @@
         "hospital": "Dental Art, Rajshahi",
         "address": "In-between Medical Ghoshpara & Fire Service Mor, West Side, Shipaipara, Rajshahi",
         "visitingTime": "5pm to 8.30pm (Closed: Friday)",
-        "appointmentNumber": "+8801760553400"
-      },
-      "id": "d0f01aab-dfd9-44f6-89d0-e8d9b48c7275"
+        "appointmentNumber": "+8801760553400Call Now"
+      }
     },
     {
+      "id": "892830b3-17a8-447d-80ee-cfbea5da4e6c",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-mir-abu-naim-pavel/",
+      "imageId": "10577cf7-c3e2-4082-bad2-bd57a08a598e",
       "name": "Dr. Mir Abu Naim (Pavel)",
       "degree": "BDS (RMC), FCPS (Orthodontics & Dentofacial Orthopedics)",
       "specialty": "Orthodontist",
       "workplace": "Udayan Dental College, Rajshahi",
-      "info": "Rasel’s Dental Centre\nAddress: Sepaipara, Infront of Rajshahi Medical College\nVisiting Hour: রাজশাহীতে মাসে ৩ দিন রোগী দেখেন\nAppointment: +8801740004004\nCall Now",
+      "info": "Rasel’s Dental Centre Address: Sepaipara, Infront of Rajshahi Medical College Visiting Hour: রাজশাহীতে মাসে ৩ দিন রোগী দেখেন Appointment: +8801740004004 Call Now",
       "chamber": {
         "hospital": "Anika Dental Care",
         "address": "26/3, Zigatola Puran Kacha Bazar (1st floor), Dhanmondi, Dhaka",
         "visitingTime": "5pm to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801977359445"
-      },
-      "id": "ee4c91e0-9847-4038-923a-1215f6e3e4fe"
+        "appointmentNumber": "+8801977359445Call Now"
+      }
     },
     {
+      "id": "62dbce69-0c59-4d46-82f6-3c2068c00fc4",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-md-abdullah-al-kaiser/",
+      "imageId": "17bb0f1e-2664-42b7-85be-5f86a3466ec6",
       "name": "Dr. Md. Abdullah-Al-Kaiser",
       "degree": "BDS, BCS (Health), PGT (Oral & Maxillofacial Surgery)",
       "specialty": "Oral & Dental Diseases Specialist & Surgeon",
@@ -220,11 +269,14 @@
         "hospital": "Comfort Dental Care",
         "address": "Damkura Hat College Market (2nd Floor), Paba, Rajshahi",
         "visitingTime": "4.30pm to 8.30pm (Closed: Monday)",
-        "appointmentNumber": "+8801303285818"
-      },
-      "id": "1c7cd480-df12-47c9-8fab-f9c353cc3b76"
+        "appointmentNumber": "+8801303285818Call Now"
+      }
     },
     {
+      "id": "18d472bb-c5bf-4b4a-b275-9187c1771340",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-zahirul-haque/",
+      "imageId": "152b9833-ef27-4d02-8ead-64bed9d40be0",
       "name": "Dr. Zahirul Haque",
       "degree": "BDS (RMC)",
       "specialty": "Oral & Dental Surgeon",
@@ -234,11 +286,14 @@
         "hospital": "Family Dental Zone, Rajshahi",
         "address": "Hatem Khan Boro Mosjid Moor, Rajshahi",
         "visitingTime": "10am to 1.30pm & 4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8801737694505"
-      },
-      "id": "1244c34a-ac5a-4ad4-b584-61f8c752ef95"
+        "appointmentNumber": "+8801737694505Call Now"
+      }
     },
     {
+      "id": "5772ed3d-338c-48e0-bba6-3a97e2076a81",
+      "departmentId": "ca07b84c-3b9b-4a21-b8a9-442414eed7e1",
+      "link": "https://www.doctorbangladesh.com/dr-md-sadat-anam-azad/",
+      "imageId": "9c147f21-b080-46e6-b4e6-805dc762eda4",
       "name": "Dr. Md. Sadat Anam Azad",
       "degree": "BDS, BCS (Health), MPH (RU), PGT (Conservative Dentistry) (BSMMU)",
       "specialty": "Oral & Dental Specialist Surgeon",
@@ -248,9 +303,8 @@
         "hospital": "Dental City and Orthodontics, Rajshahi",
         "address": "Ahmed Tower, Greater Road, Kazihata, Laxmipur, Rajshahi",
         "visitingTime": "4pm to 9pm (Everyday)",
-        "appointmentNumber": "+8801949787544"
-      },
-      "id": "39dd454f-7c61-46d5-a21d-4a2c40bf16a4"
+        "appointmentNumber": "+8801949787544Call Now"
+      }
     }
   ]
 }

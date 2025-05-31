@@ -1,34 +1,44 @@
 {
   "doctor": [
     {
+      "id": "7ad2439a-69df-4fcb-bd14-de3fc444ed58",
+      "departmentId": "49978eb9-0db5-4154-8a4b-f6ef45d07d22",
+      "link": "https://www.doctorbangladesh.com/dr-md-moksedur-rahman/",
+      "imageId": "219695a7-85e4-4fae-97fe-dc83e40798de",
       "name": "Prof. Dr. Md. Moksedur Rahman",
       "degree": "MBBS, DDV, MD (Dermatology & Venereology)",
       "specialty": "Skin, Allergy, Leprosy, Hair & Sexual Diseases Specialist",
       "workplace": "Rajshahi Medical College & Hospital",
-      "info": "Amin Diagnostic & Medical Services, Kushtia\nAddress: Ram Chandra Ray Chowdhury Road, College Mor, Court Para, Kushtia\nVisiting Hour: 9am to 5pm (Only Friday)\nAppointment: +8801712243514\nCall Now",
+      "info": "Amin Diagnostic & Medical Services, Kushtia Address: Ram Chandra Ray Chowdhury Road, College Mor, Court Para, Kushtia Visiting Hour: 9am to 5pm (Only Friday) Appointment: +8801712243514 Call Now",
       "chamber": {
         "hospital": "Labaid Diagnostic, Rajshahi",
         "address": "House # 621, Shershah Road, Rajpara, Laxmipur, Rajshahi - 6000",
         "visitingTime": "10am to 10pm (Closed: Friday)",
-        "appointmentNumber": "+8801766661144"
-      },
-      "id": "888b6679-e3f8-4123-9290-dd4ef879d700"
+        "appointmentNumber": "+8801766661144Call Now"
+      }
     },
     {
+      "id": "09533bb5-a4e8-4f6d-8252-9438891c1a7c",
+      "departmentId": "49978eb9-0db5-4154-8a4b-f6ef45d07d22",
+      "link": "https://www.doctorbangladesh.com/dr-md-nazrul-islam/",
+      "imageId": "4d1a8027-6072-47a4-9d35-a37e9190e255",
       "name": "Dr. Md. Nazrul Islam",
       "degree": "MBBS, BCS (Health), MD (Sex & Skin)",
       "specialty": "Skin, Leprosy, Allergy, Nail, Hair & Sexual Diseases Specialist",
       "workplace": "Rajshahi Medical College & Hospital",
-      "info": "Shimla Hospital, Pabna\nAddress: Shimla Tower, Thana Mor, Hospital Road, Pabna\nVisiting Hour: 4pm to 9pm (Tuesday & Thursday)\nAppointment: +8801713228218\nCall Now",
+      "info": "Shimla Hospital, Pabna Address: Shimla Tower, Thana Mor, Hospital Road, Pabna Visiting Hour: 4pm to 9pm (Tuesday & Thursday) Appointment: +8801713228218 Call Now",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "4pm to 9pm (Closed: Thu & Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "405415f0-f6df-47e3-bb37-b8ca975054f9"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "d477aab9-eb09-41af-8cdb-606c0da9984b",
+      "departmentId": "49978eb9-0db5-4154-8a4b-f6ef45d07d22",
+      "link": "https://www.doctorbangladesh.com/dr-moriom-nesa/",
+      "imageId": "7981cbc5-efa6-4713-8d0b-808f65cab4e8",
       "name": "Dr. Moriom Nessa",
       "degree": "MBBS, DDV, MCPS, FCPS (Skin & VD)",
       "specialty": "Skin, Allergy, Hair, Nail, Leprosy & Sexual Diseases Specialist",
@@ -38,11 +48,14 @@
         "hospital": "Islami Bank Hospital, Rajshahi",
         "address": "Medical Mor, Laxmipur, Rajshahi - 6000",
         "visitingTime": "5pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801777242536"
-      },
-      "id": "17bd73a5-00d3-48aa-bc0d-e0c786d3f2dd"
+        "appointmentNumber": "+8801777242536Call Now"
+      }
     },
     {
+      "id": "94afddc5-1df2-4b7b-93d7-681677d788dc",
+      "departmentId": "49978eb9-0db5-4154-8a4b-f6ef45d07d22",
+      "link": "https://www.doctorbangladesh.com/dr-pampa-chandra/",
+      "imageId": "eb448c77-9055-47a3-9301-2cdc3369c361",
       "name": "Dr. Pampa Chandra",
       "degree": "MBBS, BCS (Health), FCPS (Dermatology & Venereology)",
       "specialty": "Skin & Sexual Diseases Specialist",
@@ -52,11 +65,14 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "4pm to 8pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "d90a2b63-4f07-466f-96de-e6c8eba9fc04"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "092af13f-ebd9-42c6-87fc-84d3be9d4072",
+      "departmentId": "49978eb9-0db5-4154-8a4b-f6ef45d07d22",
+      "link": "https://www.doctorbangladesh.com/dr-m-a-a-mamun/",
+      "imageId": "3bbad5eb-1f52-4cae-a2b5-11c207393032",
       "name": "Dr. M. A. A. Mamun",
       "degree": "MBBS, DDV, FCPS (Dermatology & Venereology)",
       "specialty": "Skin, Sexual Diseases & Allergy Specialist",
@@ -66,11 +82,14 @@
         "hospital": "Metro Diagnostic Center, Rajshahi",
         "address": "Ghoshpara Mor, Sipaipara, Rajshahi",
         "visitingTime": "Unknown. Please call to know visiting hour",
-        "appointmentNumber": "+8801718282696"
-      },
-      "id": "5f3f8807-9815-4956-aacb-d778b8a6f2b2"
+        "appointmentNumber": "+8801718282696Call Now"
+      }
     },
     {
+      "id": "572a5fda-44b3-4f67-b94d-736175161497",
+      "departmentId": "49978eb9-0db5-4154-8a4b-f6ef45d07d22",
+      "link": "https://www.doctorbangladesh.com/dr-md-azraf-hossain-khan/",
+      "imageId": "01e6e355-d0ff-457f-99fa-65c62f405911",
       "name": "Dr. Md. Azraf Hossain Khan",
       "degree": "MBBS, MCPS, DDV (DU)",
       "specialty": "Skin, Allergy, Leprosy, Hair, Nail & Sexual Diseases Specialist",
@@ -80,11 +99,14 @@
         "hospital": "Shapla Diagnostic Complex, Rajshahi",
         "address": "Greater Road, Laxmipur, Kazihata, Rajshahi",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801732688664"
-      },
-      "id": "2d36dd7d-b052-4063-b9fd-1d22ebacb35b"
+        "appointmentNumber": "+8801732688664Call Now"
+      }
     },
     {
+      "id": "37188551-8f9b-421a-957f-3f228e1446ab",
+      "departmentId": "49978eb9-0db5-4154-8a4b-f6ef45d07d22",
+      "link": "https://www.doctorbangladesh.com/dr-md-hasan-ali-monsur/",
+      "imageId": "02a7f754-2ba7-4dcb-a39c-7dbeee4d0b75",
       "name": "Dr. Md. Hasan Ali Monsur",
       "degree": "MBBS, DDV, PGT (Dermatology & Venereology)",
       "specialty": "Sexual Diseases & Skin Specialist",
@@ -94,11 +116,14 @@
         "hospital": "Rajshahi Royal Hospital Pvt. Ltd.",
         "address": "Laxmipur Mor, Rajshahi",
         "visitingTime": "4pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8801762685090"
-      },
-      "id": "ead83023-b9c6-415d-ae69-6e41a2a02df8"
+        "appointmentNumber": "+8801762685090Call Now"
+      }
     },
     {
+      "id": "a0c118fb-18a3-49c8-b116-8cee449de1d2",
+      "departmentId": "49978eb9-0db5-4154-8a4b-f6ef45d07d22",
+      "link": "https://www.doctorbangladesh.com/dr-shahnaj-sultana-bithi/",
+      "imageId": "20031dd9-4811-4622-af89-ff668c1a6501",
       "name": "Dr. Shahnaj Sultana (Bithi)",
       "degree": "MBBS, BCS (Health), MCPS, FCPS (Skin & VD)",
       "specialty": "Skin, Allergy, Leprosy, Hair & Sexual Diseases SpecialistLaser & Aesthetic Dermato-Surgeon",
@@ -108,23 +133,25 @@
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "3pm to 9pm (Closed: Friday)",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "873d43f4-34e6-4df2-bb7d-d823db86cbe4"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     },
     {
+      "id": "7dddff8c-cf58-4c3f-b90e-2f5db456c385",
+      "departmentId": "49978eb9-0db5-4154-8a4b-f6ef45d07d22",
+      "link": "https://www.doctorbangladesh.com/dr-md-golam-kazem-ali-ahmed/",
+      "imageId": "8a11ca4d-0d89-4e41-9085-fae29a7dec9e",
       "name": "Dr. Md. Golam Kazem Ali Ahmed",
       "degree": "MBBS, FCPS (Dermatology), DDV (BSMMU)",
       "specialty": "Skin, Allergy, Leprosy, Hair, Nail & Sexual Diseases Specialist",
       "workplace": "Shah Mokhdum Medical College & Hospital",
-      "info": "রাজশাহী অঞ্চলের জনপ্রিয় চর্মরোগ বিশেষজ্ঞ ডাঃ কাজেম আলী গতকাল রাতে রাজশাহী  পপুলারের চেম্বার থেকে রোগী দেখে উপশহরস্ত বাসায় যাওয়ার পথে বর্ণালীর মোড়ে আনুমানিক ২৩. ৪৫ ঘটিকার সময় অজ্ঞাত নামা মাইক্রোবাস থেকে নেমে তার বহনকারী মোটরসাইকেল এর গতিরোধ করে  বুকে ছুরিকাঘাত করে সন্ত্রাসীরা। তাকে দ্রুত রাজশাহী মেডিকেল কলেজ হাসপাতালের আইসিইউ ভর্তি করা হয়, চিকিৎসাধীন অবস্থায় তিনি মৃত্যুবরণ করেন।",
+      "info": "রাজশাহী অঞ্চলের জনপ্রিয় চর্মরোগ বিশেষজ্ঞ ডাঃ কাজেম আলী গতকাল রাতে রাজশাহী পপুলারের চেম্বার থেকে রোগী দেখে উপশহরস্ত বাসায় যাওয়ার পথে বর্ণালীর মোড়ে আনুমানিক ২৩. ৪৫ ঘটিকার সময় অজ্ঞাত নামা মাইক্রোবাস থেকে নেমে তার বহনকারী মোটরসাইকেল এর গতিরোধ করে বুকে ছুরিকাঘাত করে সন্ত্রাসীরা। তাকে দ্রুত রাজশাহী মেডিকেল কলেজ হাসপাতালের আইসিইউ ভর্তি করা হয়, চিকিৎসাধীন অবস্থায় তিনি মৃত্যুবরণ করেন।",
       "chamber": {
         "hospital": "Popular Diagnostic Center, Rajshahi",
         "address": "House # 474, Chowdhury Tower, Laxmipur, Rajshahi",
         "visitingTime": "উনি গত ২৯ অক্টোবর ২০২৩ সন্ত্রাসীর ছুরিকাঘাতে মৃত্যুবরণ করেছেন",
-        "appointmentNumber": "+8809666787811"
-      },
-      "id": "6ca282f8-bb21-472b-abda-7fb670b8fa5e"
+        "appointmentNumber": "+8809666787811Call Now"
+      }
     }
   ]
 }
