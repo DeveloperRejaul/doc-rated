@@ -1,10 +1,11 @@
-/* eslint-disable no-useless-escape */
-import type { Department, Doctor } from './../types';
+ 
+import type { Department, Doctor, IDoctor } from './../types';
 import puppeteer, { Browser, Page } from 'puppeteer'
 import fs from 'fs'
 import pFs from 'fs/promises';
 import pLimit from 'p-limit';
-import path from 'path';
+import * as path from 'path';
+
 const limit = pLimit(2); // max 20 concurrent tasks
 
 
@@ -13,25 +14,16 @@ export default class Bot  {
   private browser:Browser | null = null
 
   constructor () { }
-  async init (): Promise<void> {
+  async init (): Promise<Browser> {
     try {
       this.browser = await puppeteer.launch({
         headless:false,
         defaultViewport: null,
-        // args: [
-        //   '--no-sandbox',
-        //   '--disable-setuid-sandbox',
-        //   '--disable-dev-shm-usage',
-        //   '--disable-accelerated-2d-canvas',
-        //   '--disable-gpu',
-        //   '--no-first-run',
-        //   '--no-zygote',
-        //   '--single-process',
-        //   '--disable-extensions'
-        // ],
       });
+      return this.browser;
     } catch (error) {
       console.log(error);
+      process.exit(1);
     }
   }
 
@@ -73,7 +65,7 @@ export default class Bot  {
   }
 
 
-  async getDoctorList (params: Department) {
+  async getDoctorList (params: Department, options?:{checkUnique?:boolean, doctors:IDoctor[]}) {
     try {
       if(!this.browser) {
         return console.error('Browser is not initialized');
@@ -94,14 +86,22 @@ export default class Bot  {
 
           for (let j = 0; j < list.length; j++) {
             const item = list[j];
-            const profileLinks = await this.getProfileLinks(item.link)
+            let profileLinks =  await this.getProfileLinks(item.link)
+
+            // check unique doctor link
+            if(options?.checkUnique) profileLinks = profileLinks.filter(link =>!options.doctors.some(doc => doc.link === link));
+
+            
             console.table([{  Index: j, district: key, total:profileLinks.length,  department: item.name}]);
 
+            // eslint-disable-next-line no-useless-escape
             const fileId =`doc-list/${key}/${j}-${item.name.replace(/[\/ ]/g, '-')}-doctors`
-            const tasks = profileLinks.map((d) => limit(() => this.getDoctorProfileDetails(d, key, fileId , item.id)));
+
+            const tasks = profileLinks.map((d) =>  limit(() => this.getDoctorProfileDetails(d, key, fileId , item.id)))
             const docLists = await Promise.allSettled(tasks);
             const fulfilledValues = docLists.filter(result => result.status === 'fulfilled').map(result => result.value);
-            fs.writeFileSync(`${fileId}.json`, JSON.stringify({ doctor: fulfilledValues}, null, 2))
+            if(fulfilledValues.length > 0
+            ) fs.writeFileSync(`${fileId}.json`, JSON.stringify({ doctor: fulfilledValues}, null, 2))
           }
         }
       }
@@ -114,26 +114,29 @@ export default class Bot  {
 
 
   async getProfileLinks (link: string):Promise<string[]> {
+    let page:Page | null = null;
     try {
       if(!this.browser){
         console.error('Browser is not initialized');
         return[] 
       }
-      const page = await this.browser.newPage();
+      page = await this.browser.newPage();
+      await this.blockResources(page);
       await page.goto(link, { waitUntil: 'domcontentloaded' , });
   
       // all doctor list link in per department
-      const profileLinks = await page.$$eval('.doctors .doctor .photo a', anchors => anchors.map(a => a.href));
+      const profileLinks = await page.$$eval('.doctors .doctor .photo a, .doctor .photo a', anchors => anchors.map(a => a.href));
       await page.close();
       return profileLinks;
     } catch (error) {
       console.log("error", error);
-      return[]
+      await page?.close();
+      return []
     }
   }
 
 
-  async  getDoctorProfileDetails(profileLink:string, district:string, fileId:string, departmentId:string){
+  async getDoctorProfileDetails(profileLink:string, district:string, fileId:string, departmentId:string){
     if(!this.browser){
       console.error('Browser is not initialized');
       return
@@ -141,6 +144,7 @@ export default class Bot  {
     let page:Page | null = null;
     try {
       page = await this.browser.newPage();
+      await this.blockResources(page, {blocked:['stylesheet','font','script','media']});
       await page.goto(profileLink, { waitUntil: 'domcontentloaded' });
       const doctorData = await page.evaluate(() => {
         const name = document.querySelector('.entry-header .info .entry-title')?.textContent?.trim() || '';
@@ -163,7 +167,7 @@ export default class Bot  {
         const visitingTime = allContent.slice(addressEndIndex,visitingTimeEndIndex).replace("Visiting Hour:", '').trim() || '';
   
         // appointmentNumber
-        const appointmentNumber = allContent.slice(visitingTimeEndIndex).replace('Appointment:', '').trim() || '';
+        const appointmentNumber = allContent.slice(visitingTimeEndIndex).replace('Appointment:', '').trim().replace("Call Now", "") || '';
         return { name, degree, specialty, workplace, info, chamber:{hospital:hospitalName, address, visitingTime, appointmentNumber} };
       });
       
@@ -180,15 +184,6 @@ export default class Bot  {
       await page?.close();
     }
   } 
-
-  // Utils
-  generateUUIDv4() {
-    return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, (c) => {
-      const r = Math.random() * 16 | 0;
-      const v = c === 'x' ? r : (r & 0x3 | 0x8);
-      return v.toString(16);
-    });
-  }
 
   async downloadProfileImage (page:Page, profileLink:string): Promise<string> {
     const imageId = this.generateUUIDv4();
@@ -237,33 +232,6 @@ export default class Bot  {
     }
   }
 
-  getTotalDoctorsCount () {
-    const docRootPath= process.cwd() + '/doc-list'
-    const allDistrictList = fs.readdirSync(docRootPath);
-    let total:number = 0;
-    for (const district of allDistrictList) {
-      const files = fs.readdirSync(`${docRootPath}/${district}`);
-      files.forEach(file=>{
-        const docs = JSON.parse(fs.readFileSync(path.join(docRootPath, district,file), 'utf-8'));
-        total+=docs.doctor.length
-      })
-    }
-    return total;
-  }
-
-  modifyAllDoc(cv:(doc:Doctor)=>Record<string, string>) {
-    const docRootPath= process.cwd() + '/doc-list'
-    const allDistrictList = fs.readdirSync(docRootPath);
-    for (const district of allDistrictList) {
-      const files = fs.readdirSync(`${docRootPath}/${district}`);
-      files.forEach(file=>{
-        const docs = JSON.parse(fs.readFileSync(path.join(docRootPath, district,file), 'utf-8'));
-        const modifyDoc = docs.doctor.map((doc:Doctor) => ({...doc, ...cv(doc)}));
-        fs.writeFileSync(path.join(docRootPath, district,file), JSON.stringify({ doctor: modifyDoc }, null, 2));
-      })
-    }
-  }
-
   async wait(ms:number){
     return new Promise((resolve) => {
       setTimeout(() => {
@@ -285,8 +253,8 @@ export default class Bot  {
           const errorObj = linkErrorsData.errors.pop();
           const docList = await pFs.readFile(`${errorObj.fileId}.json`, 'utf-8');
           const docListData = JSON.parse(docList);
-          const data =  await this.getDoctorProfileDetails(errorObj.link, errorObj.district, this.generateUUIDv4(),  errorObj.departmentId);
-          docListData.doctor.push(data)
+          const data =  await this.getDoctorProfileDetails(errorObj.link, errorObj.district, this.generateUUIDv4(),  errorObj.departmentId)
+          docListData.doctor = [...docListData.doctor, data]
           await pFs.writeFile(`${errorObj.fileId}.json`, JSON.stringify(docListData,  null, 2), 'utf-8');
         }
         // await pFs.writeFile('errorLinks.json', JSON.stringify(linkErrorsData,  null, 2), 'utf-8');
@@ -320,7 +288,7 @@ export default class Bot  {
     }
   }
 
-  async makeSingleDocFile(cv?:(doc:Doctor)=>Record<string, string>) {
+  async makeSingleDocFile(cv?:(doc:Doctor)=>Record<string, string>, saveFileName?:string) {
     const docRootPath= process.cwd() + '/doc-list'
     const allDistrictList = fs.readdirSync(docRootPath);
     const allDoctors:Doctor[] =[]
@@ -332,6 +300,99 @@ export default class Bot  {
         allDoctors.push(...newDocs)
       })
     }
-    await pFs.writeFile('doctors.json', JSON.stringify({ doctor: allDoctors }, null, 2),  'utf-8');
+    await pFs.writeFile(saveFileName || `doctors-${Date.now()}.json`, JSON.stringify({ doctor: allDoctors }, null, 2),  'utf-8');
   }
-}
+
+  async combineAllDoc (paths:string[], saveFileName?:string) {
+    try {
+      const allDoc :Doctor[] = [];
+      for (const filePath of paths) {
+        const mainPath = path.join(process.cwd(), filePath);
+        if (!fs.existsSync(mainPath)) {
+          console.error(`File not found: ${mainPath}`);
+          continue;
+        }
+        const data = await pFs.readFile(mainPath, 'utf-8');
+        const jsonData = JSON.parse(data);
+        allDoc.push(...jsonData.doctor);
+      }
+  
+      // Save combined data to a new file
+      const outputFilePath = saveFileName || `combined-doctors-${Date.now()}.json`;
+      await pFs.writeFile(outputFilePath, JSON.stringify({ doctor: allDoc }, null, 2), 'utf-8');
+      console.log(`Combined data saved to ${outputFilePath}`);
+      return outputFilePath;
+    } catch (error) {
+      console.log(error);
+      
+    }
+  }
+
+  async blockResources (page:Page, options?:{blocked:string[]}) {
+    await page.setRequestInterception(true);
+    page.on('request', (req) => {
+      const blocked = options?.blocked ||[
+        'image',
+        'stylesheet',
+        'font',
+        'script',
+        'media',
+        'xhr',
+        'fetch'
+      ];
+      if (blocked.includes(req.resourceType())) {
+        req.abort();
+      } else {
+        req.continue();
+      }
+    });
+  };
+
+  generateUUIDv4() {
+    return 'xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx'.replace(/[xy]/g, (c) => {
+      const r = Math.random() * 16 | 0;
+      const v = c === 'x' ? r : (r & 0x3 | 0x8);
+      return v.toString(16);
+    });
+  }
+
+  getTotalDoctorsCount () {
+    const docRootPath= process.cwd() + '/doc-list'
+    const allDistrictList = fs.readdirSync(docRootPath);
+    let total:number = 0;
+    for (const district of allDistrictList) {
+      const files = fs.readdirSync(`${docRootPath}/${district}`);
+      files.forEach(file=>{
+        const docs = JSON.parse(fs.readFileSync(path.join(docRootPath, district,file), 'utf-8'));
+        total+=docs.doctor.length
+      })
+    }
+    return total;
+  }
+
+  modifyAllDoc(cv:(doc:Doctor)=>Record<string, string>) {
+    const docRootPath= process.cwd() + '/doc-list'
+    const allDistrictList = fs.readdirSync(docRootPath);
+    for (const district of allDistrictList) {
+      const files = fs.readdirSync(`${docRootPath}/${district}`);
+      files.forEach(file=>{
+        const docs = JSON.parse(fs.readFileSync(path.join(docRootPath, district,file), 'utf-8'));
+        const modifyDoc = docs.doctor.map((doc:Doctor) => ({...doc, ...cv(doc)}));
+        fs.writeFileSync(path.join(docRootPath, district,file), JSON.stringify({ doctor: modifyDoc }, null, 2));
+      })
+    }
+  }
+
+  checkDuplicate(doctors: IDoctor[]) {
+    const linkMap = new Map();
+    const duplicates:IDoctor[] = [];
+    doctors.forEach((doc) => {
+      if (linkMap.has(doc.link)) {
+        duplicates.push(doc);
+      } else {
+        linkMap.set(doc, true);
+      }
+    });
+    return {unique:linkMap, duplicates}
+  }
+} 
