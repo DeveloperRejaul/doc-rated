@@ -190,6 +190,7 @@ export default class Bot  {
 
   async downloadProfileImage (page:Page, profileLink:string, id?:string, errorFileName?:string): Promise<string> {
     const imageId = id || this.generateUUIDv4();
+    const eFileName = errorFileName || "imageError";
     try {
       const {base64, ext} = await page.evaluate(async (): Promise<{ base64:string, ext:string}> => {
         const img = document.querySelector('.entry-header div.photo img.attachment-full') as HTMLImageElement | null;
@@ -226,10 +227,16 @@ export default class Bot  {
       return imageId;
     } catch {
       console.error("Failed to download profile image");
-      const data  = await pFs.readFile(`${errorFileName||"imageError"}.json`, 'utf-8')
+      
+      if(!fs.existsSync(`${eFileName}.json`)) {
+        console.log(`${errorFileName} file not found, creating a new one`);
+        await pFs.writeFile(`${eFileName}.json`, JSON.stringify({errors:[]}, null, 2));
+      }
+
+      const data  = await pFs.readFile(`${eFileName}.json`, 'utf-8')
       const prevErrors = JSON.parse(data);
       prevErrors.errors.push({ imageId, link: profileLink});
-      await pFs.writeFile(`${errorFileName||"imageError"}.json`, JSON.stringify(prevErrors, null, 2));
+      await pFs.writeFile(`${eFileName}.json`, JSON.stringify(prevErrors, null, 2));
       await page?.close();
       return imageId;
     }
@@ -260,7 +267,7 @@ export default class Bot  {
           docListData.doctor = [...docListData.doctor, data]
           await pFs.writeFile(`${errorObj.fileId}.json`, JSON.stringify(docListData,  null, 2), 'utf-8');
         }
-        // await pFs.writeFile('errorLinks.json', JSON.stringify(linkErrorsData,  null, 2), 'utf-8');
+        await pFs.writeFile('errorLinks.json', JSON.stringify(linkErrorsData,  null, 2), 'utf-8');
         await this.browser.close()
       }
       // handleImage errors
@@ -270,22 +277,40 @@ export default class Bot  {
     }
   }
 
-  async handleImageError ({errorFileNameFroRead,errorFileNameFroWrite }: IImageErrorOptions) {
+  async handleImageError (params: IImageErrorOptions) {
+    const {errorFileNameFroRead = "imageError",errorFileNameFroWrite} = params || {};
     try {
       if(!this.browser){
         return console.log('please init ')
       }
-      const imageErrors = await pFs.readFile(`${errorFileNameFroRead || "imageError"}.json`, 'utf-8');
-      const imageErrorsData = JSON.parse(imageErrors);
 
-      for (let index = 0; index < imageErrorsData.errors.length; index++) {
+      if(!fs.existsSync(`${errorFileNameFroRead}.json`)) {
+        console.log('No image errors found');
+        return;
+      }
+
+      const filePath = path.join(process.cwd(), `${errorFileNameFroWrite}.json`);
+
+      if(!fs.existsSync(filePath)) { 
+        await pFs.writeFile(filePath, JSON.stringify({errors:[]}, null , 2));
+      }
+
+      const imageErrors = await pFs.readFile(path.join(process.cwd(),`${errorFileNameFroRead}.json`), 'utf-8');
+      const imageErrorsData = JSON.parse(imageErrors);
+      const len = imageErrorsData.errors.length-1
+
+      for (let index = len;  0 <= index; --index) {
         const errorObj = imageErrorsData.errors.pop()
         const page = await this.browser.newPage()
         await this.blockResources(page, {blocked:['stylesheet','font','script','media']});
+
+        // Log the error object
+        console.table([{Index: index, link: errorObj.link, imageId: errorObj.imageId }]);
+        
         await page.goto(errorObj.link, { waitUntil: 'domcontentloaded'});
         await this.downloadProfileImage(page, errorObj.link,errorObj.imageId, errorFileNameFroWrite)
       }
-      await pFs.writeFile(`${errorFileNameFroRead || 'imageError'}.json`, JSON.stringify(imageErrorsData,  null, 2), 'utf-8');
+      await pFs.writeFile(path.join(process.cwd(),`${errorFileNameFroRead || 'imageError'}.json`), JSON.stringify(imageErrorsData,  null, 2), 'utf-8');
       await this.browser.close()
     } catch (error) {
       console.log(error);
@@ -378,6 +403,7 @@ export default class Bot  {
       }));
 
       await Promise.allSettled(tasks);
+      await this.browser?.close();
       console.log(`Downloaded images for ${doctor.length} doctors.`);
     } catch (error) {
       console.log(error);

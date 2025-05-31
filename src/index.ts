@@ -29,7 +29,7 @@ async function main () {
     //@ts-ignore
     // console.log(doctors.doctor.length);
     // await bot.handleLinkErrors()
-    // await bot.handleImageError()
+    await bot.handleImageError({errorFileNameFroRead:"imageError", errorFileNameFroWrite: "imageError2"})
     // bot.makeSingleDocFile()
     // bot.combineAllDoc(["doctors.json","doctors1.json"])
     // const res = bot.checkDuplicate(doc.doctor)
@@ -37,7 +37,7 @@ async function main () {
     // console.log(res.unique.size);
 
     // download all images
-    await bot.downloadAllImagesFromDocList(doc.doctor)
+    // await bot.downloadAllImagesFromDocList(doc.doctor)
 
     
     //@ts-ignore
