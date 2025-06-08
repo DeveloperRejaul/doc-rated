@@ -10,7 +10,7 @@ import doc from "../doctors.json";
 
 async function main () {
   try {
-    await bot.init({limitPage: 2, headless: false});
+    // await bot.init({limitPage: 2, headless: false});
     // await bot.getDepartmentList(district);
     // const data = {
     //   "dhaka": [
@@ -29,8 +29,8 @@ async function main () {
     //@ts-ignore
     // console.log(doctors.doctor.length);
     // await bot.handleLinkErrors()
-    await bot.handleImageError({errorFileNameFroRead:"imageError", errorFileNameFroWrite: "imageError2"})
-    // bot.makeSingleDocFile()
+    // await bot.handleImageError({errorFileNameFroRead:"imageError", errorFileNameFroWrite: "imageError2"})
+    bot.makeSingleDocFile()
     // bot.combineAllDoc(["doctors.json","doctors1.json"])
     // const res = bot.checkDuplicate(doc.doctor)
     // console.log(res.duplicates.length);
